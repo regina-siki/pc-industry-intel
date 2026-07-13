@@ -1,0 +1,10 @@
+node_modules
+dist
+server/node_modules
+server/public
+.git
+.DS_Store
+*.log
+.env.local
+.claude
+README.md

@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-06-30",
+  "priceIndex": {
+    "unit": "环比 %",
+    "source": "综合 IDC / TrendForce / DRAMeXchange",
+    "formula": "月度环比价格变动，正值 = 涨价，负值 = 跌价",
+    "labels": ["2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"],
+    "series": [
+      {
+        "name": "AI 服务器 ASP",
+        "data": [1.2, 0.8, 0.5, -0.3, -0.8, -1.1],
+        "source": "TrendForce AI Server ASP Report"
+      },
+      {
+        "name": "通用服务器 ASP",
+        "data": [-2.1, -1.8, -1.5, -0.9, -0.4, 0.1],
+        "source": "IDC Server ASP Tracker"
+      },
+      {
+        "name": "HBM3e 均价",
+        "data": [3.5, 2.8, 1.9, 0.6, -1.2, -2.3],
+        "source": "DRAMeXchange 现货"
+      },
+      {
+        "name": "DDR5 现货",
+        "data": [-1.5, -1.8, -2.2, -2.5, -2.4, -2.3],
+        "source": "DRAMeXchange 现货"
+      }
+    ]
+  },
+  "elasticity": [
+    {
+      "component": "GPU (含 HBM)",
+      "share": 62,
+      "elasticity": 0.55,
+      "impact": "整机 ASP 变动主导因素；GPU 涨价 10% → 整机成本涨约 6%",
+      "note": "AI 服务器场景",
+      "level": "high",
+      "source": "NVIDIA 官方定价 + OEM 拆解"
+    },
+    {
+      "component": "HBM (单独计)",
+      "share": 18,
+      "elasticity": 0.18,
+      "impact": "HBM 涨价 10% → 整机成本涨约 1.8%；供需紧张时弹性放大",
+      "note": "已含于 GPU 成本",
+      "level": "high",
+      "source": "SK Hynix / 三星财报"
+    },
+    {
+      "component": "CPU",
+      "share": 4,
+      "elasticity": 0.04,
+      "impact": "对 AI 服务器影响弱；通用服务器影响权重升至 20%",
+      "note": "",
+      "level": "mid",
+      "source": "Intel / AMD 官方"
+    },
+    {
+      "component": "DDR5 内存",
+      "share": 3,
+      "elasticity": 0.03,
+      "impact": "价格周期性明显，2026 H2 或迎补库存",
+      "note": "",
+      "level": "mid",
+      "source": "DRAMeXchange"
+    },
+    {
+      "component": "NVMe SSD",
+      "share": 2,
+      "elasticity": 0.02,
+      "impact": "长江存储进入 8-bit TLC 后价格中枢下移",
+      "note": "",
+      "level": "low",
+      "source": "TrendForce NAND Report"
+    },
+    {
+      "component": "电源 / 散热",
+      "share": 3,
+      "elasticity": 0.05,
+      "impact": "液冷渗透后单机散热成本翻倍，敏感度提升",
+      "note": "",
+      "level": "mid",
+      "source": "英维克 / 高澜财报"
+    },
+    {
+      "component": "PCB / 连接器",
+      "share": 2,
+      "elasticity": 0.03,
+      "impact": "AI 服务器多用 M6/M7 高速板，价格中枢上移",
+      "note": "",
+      "level": "low",
+      "source": "沪电股份 / 生益科技公告"
+    }
+  ]
+}

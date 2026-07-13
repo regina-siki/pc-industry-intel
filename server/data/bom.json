@@ -1,0 +1,261 @@
+{
+  "updatedAt": "2026-07-02",
+  "disclaimer": "BOM 占比基于公开产品拆解、发布会披露、行业分析师报告估算，非厂商官方数据。价格趋势预测基于近期新闻推演，非官方指引。",
+  "dataSourceGuide": [
+    { "name": "DRAMeXchange (TrendForce)", "type": "半免费", "note": "内存/HBM 现货，部分免费" },
+    { "name": "NVIDIA / AMD 官方定价", "type": "免费", "note": "GPU / CPU ASP 直接查" },
+    { "name": "上市公司拆解报告（华创、中信建投）", "type": "半免费", "note": "整机 BOM 占比" },
+    { "name": "IDC / Omdia 服务器 ASP", "type": "付费", "note": "$2-5 万/年" },
+    { "name": "iFixit / TechInsights 拆解", "type": "半免费", "note": "工作站 / 消费级产品 BOM" }
+  ],
+  "products": [
+    {
+      "id": "dgx-b200",
+      "name": "NVIDIA DGX B200",
+      "category": "AI 训练服务器",
+      "totalCost": 480000,
+      "currency": "USD",
+      "asp": 515000,
+      "note": "8× B200 GPU 整机方案，公开报价 $515k",
+      "sourceRefs": [
+        "NVIDIA DGX B200 官方 spec sheet",
+        "SemiAnalysis Blackwell 拆解报告 (2024-Q4)",
+        "行业分析师 BOM 估算"
+      ],
+      "components": [
+        { "part": "GPU (B200 × 8)", "share": 0.62, "cost": 297600, "vendors": ["NVIDIA"], "note": "单卡估算 $37.2k", "source": "NVIDIA 报价 · Wells Fargo 报告",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 102, 105, 108], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "HBM3e (内含于 GPU 但可拆算)", "share": 0.18, "cost": 86400, "vendors": ["SK Hynix", "Samsung", "Micron"], "note": "已含在 GPU 成本中", "source": "SemiAnalysis · SK Hynix 财报",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [108, 106, 103, 100, 96, 92], "unit": "指数(基准=100)", "trend": "down" } },
+        { "part": "CPU (Intel/AMD 双路)", "share": 0.04, "cost": 19200, "vendors": ["Intel", "AMD"], "note": "Xeon Emerald Rapids / EPYC Turin", "source": "Intel / AMD 官方定价",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [102, 101, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "DDR5 内存", "share": 0.03, "cost": 14400, "vendors": ["Samsung", "SK Hynix", "Micron"], "note": "2TB DDR5", "source": "DRAMeXchange",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [104, 102, 100, 98, 96, 95], "unit": "指数(基准=100)", "trend": "down" } },
+        { "part": "NVMe SSD", "share": 0.02, "cost": 9600, "vendors": ["Samsung", "SK Hynix", "长江存储"], "note": "~30TB", "source": "TrendForce NAND",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 101, 99, 98, 100, 101], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "网络 (NVLink/InfiniBand)", "share": 0.05, "cost": 24000, "vendors": ["NVIDIA (Mellanox)"], "note": "含 NVSwitch + ConnectX-7", "source": "NVIDIA 官方定价",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 101, 102, 103, 105, 107], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "电源 / 散热", "share": 0.03, "cost": 14400, "vendors": ["台达", "英维克"], "note": "液冷选装另计", "source": "台达 · 英维克年报",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 102, 105, 108, 112, 116], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "机箱 / PCB / 连接器", "share": 0.02, "cost": 9600, "vendors": ["工业富联", "沪电股份"], "note": "", "source": "沪电股份公告",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 101, 102, 103, 104, 105], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "组装 / OEM 利润", "share": 0.01, "cost": 4800, "vendors": ["NVIDIA / 工业富联"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } }
+      ]
+    },
+    {
+      "id": "amd-395-ws",
+      "name": "AMD Ryzen AI Max+ 395 工作站",
+      "category": "AI 工作站 / 桌面",
+      "totalCost": 2200,
+      "currency": "USD",
+      "asp": 2799,
+      "note": "AMD Strix Halo，128GB 统一内存，面向本地 AI 推理",
+      "sourceRefs": [
+        "AMD 官方发布会 spec",
+        "TechInsights / iFixit 拆解",
+        "Framework Desktop / HP Z2 Mini G1a 售价"
+      ],
+      "components": [
+        { "part": "SoC (Ryzen AI Max+ 395)", "share": 0.45, "cost": 990, "vendors": ["AMD"], "note": "含 16C CPU + Radeon 8060S iGPU + 50 TOPS NPU", "source": "AMD 官方 · 分析师估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [105, 103, 102, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "LPDDR5X 128GB (统一内存)", "share": 0.22, "cost": 484, "vendors": ["Samsung", "SK Hynix", "Micron"], "note": "板载不可扩展", "source": "DRAMeXchange",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [95, 97, 100, 102, 104, 106], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "NVMe SSD (2TB)", "share": 0.08, "cost": 176, "vendors": ["Samsung", "SK Hynix", "长江存储"], "note": "", "source": "TrendForce NAND",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 101, 99, 98, 100, 101], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "主板 / VRM", "share": 0.08, "cost": 176, "vendors": ["华硕 / 微星 / 联想 ODM"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 101, 102, 103, 104], "unit": "指数(基准=100)", "trend": "up" } },
+        { "part": "散热 / 风扇", "share": 0.05, "cost": 110, "vendors": ["台达", "AVC"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "电源", "share": 0.04, "cost": 88, "vendors": ["台达", "海韵"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "机箱 / 组装", "share": 0.04, "cost": 88, "vendors": ["Lenovo / HP / Framework"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } },
+        { "part": "其他 (Wi-Fi / IO)", "share": 0.04, "cost": 88, "vendors": ["Realtek", "Intel"], "note": "", "source": "行业估算",
+          "priceHistory": { "labels": ["2026-02","2026-03","2026-04","2026-05","2026-06","2026-07"], "values": [100, 100, 100, 100, 100, 100], "unit": "指数(基准=100)", "trend": "flat" } }
+      ]
+    }
+  ],
+  "componentNewsImpact": [
+    {
+      "component": "HBM3e / HBM4",
+      "newsDate": "2026-06-28",
+      "recentNews": "SK Hynix HBM3e 12H 良率突破 70%，同时 HBM4 送样进度符合预期",
+      "trend": "供给放量 → 价格中枢下移",
+      "priceDelta": "-8~-10%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 3,
+      "bomImpactDgx": "DGX B200 HBM 占比 18%，HBM 跌 10% → 整机 BOM 成本 ↓ 1.8%",
+      "bomImpactDgxPct": -1.8,
+      "bomImpactWs": "工作站不含 HBM，无直接影响",
+      "bomImpactWsPct": 0,
+      "level": "high",
+      "source": "SK Hynix 2026 Q1 财报 · DigiTimes"
+    },
+    {
+      "component": "GPU (B300)",
+      "newsDate": "2026-06-18",
+      "recentNews": "NVIDIA Blackwell Ultra 发布，B300 相对 B200 单卡 ASP 提升约 15%",
+      "trend": "旗舰 GPU 涨价 → BOM 上行；旧型号(H200/H100)清库存",
+      "priceDelta": "新品 +15% / 上代 -5~-10%",
+      "impactStartAt": "2026-Q4",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "GPU 占 DGX BOM 62%，B300 版本整机 BOM 预计 ↑ 9%",
+      "bomImpactDgxPct": 9.0,
+      "bomImpactWs": "无直接影响（工作站用 iGPU）",
+      "bomImpactWsPct": 0,
+      "level": "high",
+      "source": "NVIDIA GTC 2026 · AnandTech"
+    },
+    {
+      "component": "LPDDR5X",
+      "newsDate": "2026-06-12",
+      "recentNews": "AI 端侧需求拉动 LPDDR5X 供需趋紧",
+      "trend": "价格温和上行",
+      "priceDelta": "+3~+5%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 2,
+      "bomImpactDgx": "DGX 用 DDR5 而非 LPDDR5X，影响弱",
+      "bomImpactDgxPct": 0.15,
+      "bomImpactWs": "工作站 LPDDR5X 占比 22%，涨 5% → BOM ↑ 1.1%",
+      "bomImpactWsPct": 1.1,
+      "level": "mid",
+      "source": "TrendForce · Samsung 财报"
+    },
+    {
+      "component": "NAND / SSD",
+      "newsDate": "2026-06-20",
+      "recentNews": "长江存储 8-bit TLC 量产 + 三星减产尚未结束",
+      "trend": "供需拉锯，价格波动",
+      "priceDelta": "±3%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 3,
+      "bomImpactDgx": "SSD 占 DGX BOM 2%，影响可忽略",
+      "bomImpactDgxPct": 0,
+      "bomImpactWs": "SSD 占工作站 BOM 8%，波动 3% → BOM ±0.24%",
+      "bomImpactWsPct": -0.2,
+      "level": "low",
+      "source": "TrendForce NAND Report · 长江存储公告"
+    },
+    {
+      "component": "液冷 / 散热",
+      "newsDate": "2026-06-05",
+      "recentNews": "浸没式液冷在智算中心渗透率突破 8%，英维克订单同比 +90%",
+      "trend": "液冷单机成本相对风冷翻倍",
+      "priceDelta": "液冷方案 +100%",
+      "impactStartAt": "2026-Q4",
+      "impactDurationQtrs": 6,
+      "bomImpactDgx": "散热由 3% → 6%（若配液冷）",
+      "bomImpactDgxPct": 3.0,
+      "bomImpactWs": "工作站不涉及",
+      "bomImpactWsPct": 0,
+      "level": "mid",
+      "source": "英维克 2026 Q1 财报 · 高澜订单披露"
+    },
+    {
+      "component": "PCB / 高速连接器",
+      "newsDate": "2026-05-28",
+      "recentNews": "AI 服务器高速 PCB (M6/M7) 供不应求，沪电股份产能满载",
+      "trend": "价格稳中有升",
+      "priceDelta": "+5%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "PCB 占 DGX BOM 2%，涨 5% → BOM ↑ 0.1%",
+      "bomImpactDgxPct": 0.1,
+      "bomImpactWs": "主板占工作站 BOM 8%，若含高速板影响可放大",
+      "bomImpactWsPct": 0.3,
+      "level": "low",
+      "source": "沪电股份公告 · 生益科技订单"
+    }
+  ],
+  "forecast": {
+    "note": "以 2026-Q2 为基准 100，按各零部件影响百分比在其 impactStartAt 起、跨 impactDurationQtrs 个季度线性累加得到。仅供趋势参考，非官方预测。",
+    "quarters": ["2026-Q2", "2026-Q3", "2026-Q4", "2027-Q1", "2027-Q2", "2027-Q3", "2027-Q4"],
+    "basisIndex": 100,
+    "products": [
+      { "id": "dgx-b200", "name": "NVIDIA DGX B200" },
+      { "id": "amd-395-ws", "name": "AMD Ryzen AI Max+ 395 工作站" }
+    ]
+  },
+  "llmEvolution": {
+    "note": "从模型规模、架构、训练方法三条主线跟踪大模型演进；每条动态都推演到具体硬件层的成本 / 需求影响。",
+    "timeline": [
+      {
+        "date": "2026-06",
+        "title": "百度开源 ERNIE-Lite-3B（激活 500M）横扫文档识别 SOTA",
+        "line": "小模型崛起",
+        "hardwareImpact": "推理侧 GPU 需求下移，端侧 / 消费级 AI 硬件受益。8GB-32GB VRAM 的 4090 / RTX 5060 系列足够部署，反而抑制 H100 推理集群的边际增量。",
+        "impactSide": "下行",
+        "affectedComponents": ["高端 GPU（推理场景）", "HBM"],
+        "source": "百度 GitHub · OmniDocBench 榜单"
+      },
+      {
+        "date": "2026-05",
+        "title": "GPT-5 / Claude 5 / Gemini 3 三家旗舰同步进入 10T+ 参数",
+        "line": "训练规模翻番",
+        "hardwareImpact": "训练侧对 B200/B300 集群需求继续爆表；单次训练用 GPU 数量从 25k 提升至 50k+。CoWoS、HBM3e 供应压力放大。",
+        "impactSide": "上行",
+        "affectedComponents": ["GPU (B200/B300)", "HBM3e", "NVLink / IB 网络"],
+        "source": "OpenAI / Anthropic / Google 发布会 · SemiAnalysis"
+      },
+      {
+        "date": "2026-05",
+        "title": "MoE 稀疏架构成为主流（DeepSeek / Mixtral / Qwen-MoE）",
+        "line": "架构范式转变",
+        "hardwareImpact": "有效参数量下降 → 单卡显存需求下降；但需要更快的 All-to-All 通信 → NVLink / InfiniBand 带宽成为瓶颈，网络 BOM 占比上升。",
+        "impactSide": "结构性",
+        "affectedComponents": ["网络 (NVLink/IB)", "HBM 带宽"],
+        "source": "DeepSeek V3 论文 · Mistral 官方博客"
+      },
+      {
+        "date": "2026-04",
+        "title": "Test-Time Compute（推理时长扩展）流行",
+        "line": "推理成本上升",
+        "hardwareImpact": "单次请求推理 token 数量提升 5-20 倍，推理侧 GPU 使用时长和数量翻倍。GPU 出租业务毛利率短期承压但需求量抬升。",
+        "impactSide": "上行",
+        "affectedComponents": ["GPU (推理)", "IDC 电力配额"],
+        "source": "OpenAI o3 报告 · The Information"
+      },
+      {
+        "date": "2026-04",
+        "title": "端侧模型 Ryzen AI Max+ / Apple M4 Ultra 跑 70B 成为标配",
+        "line": "本地部署普及",
+        "hardwareImpact": "128GB 统一内存工作站需求爆发，AMD Strix Halo / Apple Silicon / DGX Spark 出货同比 +200%。传统独显 GPU 在小 B / 个人端受挤压。",
+        "impactSide": "结构性",
+        "affectedComponents": ["统一内存 SoC", "LPDDR5X", "桌面 AI 工作站"],
+        "source": "AMD / Apple 财报 · Framework 用户增长"
+      },
+      {
+        "date": "2026-03",
+        "title": "多模态视频生成模型（Sora 2 / 可灵 2 / Vidu）商用",
+        "line": "生成任务扩展",
+        "hardwareImpact": "视频推理对 VRAM 需求翻倍（80GB+），拉动 H200 / B200 消费；同时驱动本地视频生成工作站需求（RTX 6000 Ada / DGX Spark）。",
+        "impactSide": "上行",
+        "affectedComponents": ["高端 GPU", "HBM", "存储带宽"],
+        "source": "OpenAI · 快手 · 生数科技 官方"
+      }
+    ],
+    "predictions": [
+      {
+        "horizon": "未来 6 个月",
+        "prediction": "AI 服务器 BOM 中 GPU 占比继续维持 60% 以上；HBM 短暂下探但 2026 Q4 因 B300 推货再抬升",
+        "confidence": "high"
+      },
+      {
+        "horizon": "未来 12 个月",
+        "prediction": "端侧 AI 工作站占 AI 硬件总出货比例从 5% → 12%；带动 LPDDR5X / 统一内存 SoC BOM 结构性上行",
+        "confidence": "mid"
+      },
+      {
+        "horizon": "未来 12 个月",
+        "prediction": "MoE + 蒸馏组合使推理侧 GPU 需求单位化下降 30-50%，但绝对量因场景扩张仍增长",
+        "confidence": "mid"
+      },
+      {
+        "horizon": "未来 18 个月",
+        "prediction": "HBM4 / SOCAMM 内存标准量产 → AI 服务器成本结构再次洗牌，网络 / 内存 BOM 占比或提升",
+        "confidence": "low"
+      }
+    ]
+  }
+}

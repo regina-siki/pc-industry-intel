@@ -1,0 +1,114 @@
+{
+  "updatedAt": "2026-07-02",
+  "summary": {
+    "product": {
+      "title": "产品",
+      "highlights": [
+        "AI 服务器仍是全行业增速最高的品类，Blackwell Ultra (B300) 于 2026 Q4 起量将进一步拉高整机 ASP",
+        "通用 x86 服务器换机周期启动 (Intel Xeon 6 / EPYC Turin) → 通用价格战边际缓解",
+        "边缘 / 桌面 AI 站开始起量 (Ryzen AI Max+ 395、Apple M4 Ultra、DGX Spark)，价格带 ¥1.5-3 万"
+      ],
+      "source": "NVIDIA GTC 2026 · Intel / AMD 官方 · TrendForce 观察"
+    },
+    "cost": {
+      "title": "成本",
+      "highlights": [
+        "HBM3e 良率提升 → 2026 Q3 起 AI 服务器 BOM 缓慢下探 (估算 -1.8%)",
+        "B300 涨价 15% → 2026 Q4 起 DGX 系列整机 BOM 上行 (估算 +9%)",
+        "液冷渗透 → 高功率 AI 整机散热成本翻倍，散热在 BOM 中占比 3% → 6%",
+        "综合看：AI 服务器 BOM 2026 Q4 - 2027 Q2 净上行 → 采购成本压力向下游传导"
+      ],
+      "source": "SK Hynix / NVIDIA / 英维克财报交叉验证"
+    },
+    "customer": {
+      "title": "客户",
+      "highlights": [
+        "国内头部云厂商 Capex 上修，AI 占比普遍 ≥50% (阿里 3800 亿 / 腾讯 1600 亿)",
+        "三大运营商集采落地：移动 165 亿 / 电信 90 亿 / 联通 82 亿，国产化率持续抬升",
+        "政府 AI 采购：合肥智算中心 20 亿 / 济南超算 12 亿 / 武汉昇腾扩容 8 亿",
+        "小 B / 个人细分增速最高，本地 AI 推理是核心动机"
+      ],
+      "source": "上市公司季报 · 运营商招采公告 · 中国政府采购网"
+    },
+    "demand": {
+      "title": "用户需求",
+      "highlights": [
+        "隐私与数据不出本地：小 B / 个人购买 AI 硬件的第一诉求",
+        "统一内存 (128GB+) 比独显更受推理场景欢迎，可跑 70B 模型",
+        "订阅 / 以租代购接受度上升，¥1500-3000/月 是敏感价格带",
+        "国产品牌在个人/小 B 认知薄弱，本地服务是显性差异"
+      ],
+      "source": "Reddit r/LocalLLaMA · 京东 / 天猫 AI 工作站销售榜 · 用户访谈"
+    }
+  },
+  "jdRecommendations": {
+    "title": "京东渠道落地建议",
+    "subtitle": "结合上方产品/成本/客户/需求分析，给出面向京东电脑数码 & 京东云的可执行动作",
+    "items": [
+      {
+        "category": "选品",
+        "title": "重点铺 AI 工作站 ¥1.5-3 万价格带",
+        "detail": "Ryzen AI Max+ 395 / Apple M4 Ultra / DGX Spark 三条线；跳过 ¥8k 以下（不具备可用 AI 推理能力）与 ¥3 万+（企业采购走 B 端）",
+        "priority": "high",
+        "effort": "1-2 个月",
+        "kpi": "AI 工作站 SKU 覆盖 20+，头部厂商官方旗舰全签"
+      },
+      {
+        "category": "选品",
+        "title": "上架国产 AI 服务器整机 & 昇腾 / 寒武纪 加速卡",
+        "detail": "对接超聚变、宁畅、浪潮，抓政企/政府/中小云厂商的国产替代窗口",
+        "priority": "high",
+        "effort": "2-3 个月",
+        "kpi": "国产 AI 服务器 GMV 季度环比 +50%"
+      },
+      {
+        "category": "内容",
+        "title": "本地大模型评测专栏",
+        "detail": "针对 70B/120B 模型在 128GB 统一内存下的实测表现出图文/视频；SKU 直接嵌入购买入口",
+        "priority": "high",
+        "effort": "持续",
+        "kpi": "月产内容 8-10 篇，UV → CVR 提升 2×"
+      },
+      {
+        "category": "金融",
+        "title": "以租代购 / 分期方案",
+        "detail": "AI 工作站 ¥1500-3000/月 白条分期或 8-12 期免息；GPU 服务器月租方案对接京东云 GPU",
+        "priority": "mid",
+        "effort": "2-3 个月",
+        "kpi": "分期成交占比 30%+"
+      },
+      {
+        "category": "B端",
+        "title": "政府 AI 采购竞标",
+        "detail": "锁定合肥/济南/武汉等已披露智算中心，联合国产厂商投标；争取算力券政策合作",
+        "priority": "high",
+        "effort": "6-12 个月",
+        "kpi": "签约 3 个千万级项目"
+      },
+      {
+        "category": "服务",
+        "title": "本地部署 + 售后：显性差异化",
+        "detail": "个人 / 小 B 对国产品牌认知弱，京东可以提供 '整机 + 模型部署 + 3 年上门' 服务包，把服务变成差异化",
+        "priority": "mid",
+        "effort": "3-6 个月",
+        "kpi": "服务包附加率 20%+"
+      },
+      {
+        "category": "供应链",
+        "title": "锁定 HBM 降价窗口 → 卖点包装",
+        "detail": "2026 Q3-Q4 是 AI 服务器 BOM 短暂下探窗口，京东可与厂商联合 '性价比批次' 大促 + 独家 SKU",
+        "priority": "mid",
+        "effort": "1 个月",
+        "kpi": "AI 服务器 GMV 单季度 +30%"
+      },
+      {
+        "category": "预警",
+        "title": "B300 上市前锁 H200/H100 尾货",
+        "detail": "旗舰上市会带清库存节奏，H200/H100 尾货有 5-10% 折扣空间；针对预算敏感的中小 AI 团队",
+        "priority": "mid",
+        "effort": "3 个月内",
+        "kpi": "尾货专区月度 GMV 目标"
+      }
+    ]
+  }
+}

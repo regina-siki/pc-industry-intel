@@ -1,0 +1,209 @@
+{
+  "updatedAt": "2026-07-03",
+  "note": "汇总个人 + 小 B 的完整画像，用于选品 / 定价 / 服务包设计。每一行 = 一个可执行匹配方案。",
+  "matches": [
+    {
+      "personaTier": "L1 · 尝鲜体验",
+      "kind": "consumer",
+      "avatar": "🎓",
+      "portrait": "一二线白领 / 学生，重体验、轻投入",
+      "motive": "刷 AI 玩票，尝试新工具",
+      "productLine": "AI 轻办公笔记本 / iPad",
+      "productSpec": [
+        "MacBook Air M4 / Apple Silicon 16GB+",
+        "联想小新 / 荣耀 MagicBook（AI PC 认证）",
+        "iPad + Apple Pencil"
+      ],
+      "priceRange": "¥3-8k",
+      "sweetPrice": "¥5,999",
+      "corePain": "免费额度不够、切换多个 APP、隐私顾虑",
+      "coreDemand": "国内可用的顶尖模型 + 一键式工具",
+      "serviceOffer": "6 个月大模型订阅券包 + 首年上门装机",
+      "channelToReach": "小红书 · 抖音 · B 站数码区 · 什么值得买 (SMZDM) 值友爆料 · 知乎盐选 · 学生社群 · 微信/QQ 群 · 天猫笔记本类目 · 京东笔记本焕新",
+      "kpi": "GMV 转化 / 学生认证使用率"
+    },
+    {
+      "personaTier": "L2 · 内容创作者",
+      "kind": "consumer",
+      "avatar": "🎬",
+      "portrait": "自媒体 / 短视频博主 / 网文作者",
+      "motive": "AI 提效内容生产（脚本 / 配音 / 图 / 剪）",
+      "productLine": "创作者台式机 / 高性能笔记本",
+      "productSpec": [
+        "RTX 5080 (16GB) 定制台式机",
+        "MacBook Pro M4 Max / M4 Pro",
+        "24GB VRAM 甜点卡 workstation"
+      ],
+      "priceRange": "¥8-25k",
+      "sweetPrice": "¥15,999",
+      "corePain": "工作流碎片化 · 商用授权不明 · SD 显存不够",
+      "coreDemand": "一站式 AI 内容工作流 · 24GB VRAM",
+      "serviceOffer": "创作者套装（机器 + 剪映专业版 + 即梦 3 个月）+ AI 出图授权包",
+      "channelToReach": "抖音创作者中心 · 小红书 · B 站数码 UP (笔吧评测室 / 极客湾) · 巨量学 · 什么值得买 AIGC 专区 · GitHub Trending (ComfyUI/SD-Forge) · CivitAI · 知识星球 · 微信公众号 (机器之心/新智元)",
+      "kpi": "内容创作者 SKU 品类 GMV + 服务包附加率"
+    },
+    {
+      "personaTier": "L3 · AI 漫剧 / 数字人 / 短剧",
+      "kind": "consumer",
+      "avatar": "🎭",
+      "portrait": "AI 短剧团队 / 数字人主播 · 杭州西安长沙",
+      "motive": "低成本生产漫剧、数字人直播 24 小时",
+      "productLine": "本地视频推理工作站 / 双卡桌面",
+      "productSpec": [
+        "双卡 RTX 4090（48GB VRAM）主机",
+        "AMD Ryzen AI Max+ 395（128GB 统一内存）",
+        "NVIDIA DGX Spark",
+        "云端 GPU 按小时租"
+      ],
+      "priceRange": "¥30-80k",
+      "sweetPrice": "¥49,999（工作站）· ¥8-15/小时（云 GPU）",
+      "corePain": "视频生成成本高 · 人物一致性差 · 显存不够 · 版权风险",
+      "coreDemand": "本地 96GB+ VRAM · 一致性工作流 SaaS",
+      "serviceOffer": "AI 漫剧硬件包（工作站 + 6 个月云 GPU） + 版权对接",
+      "channelToReach": "抖音 / 快手创作者服务号 · 小红书#AI漫剧 · 知识付费课程 · AI 漫剧行业社群 · 什么值得买'AI好物' · 微信公众号 (硅星人 / AIGC 开放社区) · YouTube 漫剧教程",
+      "kpi": "工作站销量 + 云 GPU 转化率"
+    },
+    {
+      "personaTier": "L4 · AI 极客 / 开发者",
+      "kind": "consumer",
+      "avatar": "🤓",
+      "portrait": "独立开发者 · 中关村 / 张江 / 南山 / 余杭",
+      "motive": "本地跑 70B-120B 模型 · Agent / RAG 系统",
+      "productLine": "统一内存工作站 / 双卡 5090",
+      "productSpec": [
+        "AMD Ryzen AI Max+ 395（128GB）",
+        "Apple M4 Ultra Mac Studio（192GB）",
+        "NVIDIA DGX Spark",
+        "双卡 RTX 5090 定制机"
+      ],
+      "priceRange": "¥25-100k",
+      "sweetPrice": "¥29,999（Framework/HP 单机）",
+      "corePain": "统一内存带宽低 · CUDA 生态限制 · 5090 溢价",
+      "coreDemand": "512GB/s+ 内存带宽 · ROCm / MLX 生态完善",
+      "serviceOffer": "极客直选专区 + 到手 CUDA/ROCm 预装 + 换新回收",
+      "channelToReach": "GitHub (llama.cpp/vLLM/ollama Issues) · HuggingFace 讨论区 & 模型主页 · Reddit r/LocalLLaMA · X (@karpathy @ggerganov 圈) · HackerNews · V2EX · 知乎AI板块 · 什么值得买硬核评测 · B 站极客湾/林Gpro · 中关村在线 CPU/GPU 天梯 · 太平洋电脑网 · Chiphell 论坛",
+      "kpi": "开发者社区口碑 + 高端 SKU GMV"
+    },
+    {
+      "personaTier": "L5 · 手机端 AI",
+      "kind": "consumer",
+      "avatar": "📱",
+      "portrait": "移动端 AI 深度用户",
+      "motive": "AI 拍照 / 修图 / 端侧语音助手",
+      "productLine": "AI 旗舰手机",
+      "productSpec": [
+        "iPhone 17 Pro（Apple Intelligence）",
+        "华为 Mate 70 Pro（盘古 AI）",
+        "vivo X100 Ultra（蓝心大模型）"
+      ],
+      "priceRange": "¥5-15k",
+      "sweetPrice": "¥7,999",
+      "corePain": "端侧能力弱于云端 · 电池续航 · 隐私 vs 能力",
+      "coreDemand": "更强 NPU · 无缝云端切换",
+      "serviceOffer": "AI 手机换新 + 云 AI 会员绑定",
+      "channelToReach": "京东手机焕新 · 天猫 · 品牌直营 · 运营商合约 · 什么值得买手机众测 · 酷安社区 · 数码测评（王自如/二师兄/极客湾）· 抖音 3C 直播 · 小红书 AI 手机话题",
+      "kpi": "AI 旗舰手机季度 GMV"
+    },
+    {
+      "personaTier": "S1 · AI 应用探索期",
+      "kind": "smb",
+      "avatar": "🌱",
+      "portrait": "10 人以内小团队 / 工作室 · 一新一线",
+      "motive": "接 API 做业务 · 云端出图 · AI 客服",
+      "productLine": "API 组合 + 1-2 台创作者台式机",
+      "productSpec": [
+        "豆包 / DeepSeek / 通义千问 API",
+        "RTX 4070 / 4080 台式机",
+        "SaaS 订阅（剪映 / 即梦 / 秘塔）"
+      ],
+      "priceRange": "¥1-5 万 / 年",
+      "sweetPrice": "¥19,800 起步套餐",
+      "corePain": "API 费用不可控 · 数据不能上云 · 速率被限",
+      "coreDemand": "低价包月 API · 本地小模型部署 · 行业模板",
+      "serviceOffer": "起步套餐（1 台工作站 + 3 个 API 月度包 + 行业 Prompt 集）",
+      "channelToReach": "机器之心 / 量子位公众号 · 掘金 · SegmentFault · 稀土掘金 · 知识星球 · 开发者社区 · GitHub Awesome-LLM · V2EX · 什么值得买企业购 · 阿里云初创企业中心",
+      "kpi": "起步套餐年新增签约数"
+    },
+    {
+      "personaTier": "S2 · 内容 / 电商团队",
+      "kind": "smb",
+      "avatar": "🛍️",
+      "portrait": "MCN / 电商团队 · 杭州 广深 成都",
+      "motive": "批量出图出视频 · 24 小时数字人直播",
+      "productLine": "GPU 台式机机群 + 云弹性 + 主控工作站",
+      "productSpec": [
+        "5-10 台 RTX 4090 台式机（批量出图）",
+        "1 台 DGX Spark / Ryzen AI Max+ 395 主控",
+        "阿里云 / 火山引擎 GPU 弹性",
+        "可灵企业版 / 即梦企业版"
+      ],
+      "priceRange": "¥5-30 万 / 年",
+      "sweetPrice": "¥99,000 电商 AI 套装",
+      "corePain": "批量生产一致性 · 数字人稳定 · 合规审核 · 版权",
+      "coreDemand": "企业购 GPU 稳定供货 · 行业模板 · 一站式 SaaS",
+      "serviceOffer": "电商 AI 套装（4-5 台 4090 + 主控 + 云 GPU 备用池 + 商用授权）",
+      "channelToReach": "巨量学 · 生意参谋 · 淘天商家中心 · MCN 内训 · 抖音电商大会 · 什么值得买'商家优选' · 见实 · 增长黑盒 · 京东商家营销中心",
+      "kpi": "企业购电商类目 GMV + 服务包续费率"
+    },
+    {
+      "personaTier": "S3 · SaaS / 垂直行业 AI",
+      "kind": "smb",
+      "avatar": "🚀",
+      "portrait": "AI SaaS 创业公司 · 京沪杭深",
+      "motive": "训练 / 精调行业大模型 · 私有化部署",
+      "productLine": "H100/H200/B200 服务器 + 云 GPU 混合",
+      "productSpec": [
+        "2-8 台 H100 / H200 / B200 服务器",
+        "云 GPU 集群（潞晨 / 燧原 / 阿里云）",
+        "开源模型精调 stack"
+      ],
+      "priceRange": "¥30-300 万 / 年",
+      "sweetPrice": "¥50 万起步（单机 H200 + 云弹性）",
+      "corePain": "GPU 现货难拿 · 训练成本高 · 模型迭代快 · 客户要求本地化",
+      "coreDemand": "按 token 灵活付费 · 私有化一体机 · 模型蒸馏工具链",
+      "serviceOffer": "AI 私有化一体机（硬件 + 精调服务 + 3 年运维）· 京东云 GPU 优先配额",
+      "channelToReach": "融资机构 (IDG/高瓴/红杉/五源) · WAIC 世界人工智能大会 · CoreCon · 硅谷 AI 博客 · HuggingFace 企业客户 · GitHub Star 榜 · Papers with Code · X AI 圈 · 硅基流动/OpenBMB 社区",
+      "kpi": "一体机签约客户数 + 京东云 GPU MRR"
+    },
+    {
+      "personaTier": "S4 · 传统行业 AI 转型",
+      "kind": "smb",
+      "avatar": "🏭",
+      "portrait": "制造 / 零售 / 教培 / 医疗诊所 · 长三角 珠三角 中西部",
+      "motive": "工厂视觉 · 零售分析 · AI 教师 · 医疗辅助",
+      "productLine": "AI 边缘盒子 + 本地部署工作站",
+      "productSpec": [
+        "英伟达 Jetson Orin / 昇腾 Atlas 边缘盒子",
+        "1-3 台 Ryzen AI Max+ 395 工作站",
+        "华为云智 / 腾讯智慧教育 SaaS"
+      ],
+      "priceRange": "¥10-100 万 / 年",
+      "sweetPrice": "¥29,999 起步（边缘盒子 + 6 月模型）",
+      "corePain": "IT 能力弱 · 现成模型不够用 · ROI 说不清",
+      "coreDemand": "整机 + 模型 + 服务一体化 · 行业定制 · 3 年运维",
+      "serviceOffer": "行业 AI 一体化交付（硬件 + 部署 + 模型微调 + 3 年上门）",
+      "channelToReach": "行业协会展会 · 央视 / 地方媒体 · 集成商销售 · 京东工业品 · 华为智能诊断案例库 · 腾讯智慧教育 · 微信公众号 (中国工业新闻/e-works) · 阿里巴巴 1688 采购",
+      "kpi": "行业 AI 交付项目数 + 客户 NPS"
+    },
+    {
+      "personaTier": "S5 · 学术 / 研究机构",
+      "kind": "smb",
+      "avatar": "📖",
+      "portrait": "大学 / 科研 · 清北复交 + 武汉 西安 合肥",
+      "motive": "论文复现 · 教学 · 跨学科 AI",
+      "productLine": "GPU 集群 + 教学工作站",
+      "productSpec": [
+        "10-100 卡 GPU 集群（A100 / H100）",
+        "Ryzen AI Max+ 395 教学机 / DGX Spark",
+        "智算中心 GPU 云配额"
+      ],
+      "priceRange": "¥50-500 万 / 年",
+      "sweetPrice": "¥19,800 学生工作站单机",
+      "corePain": "预算周期长 · 采购流程复杂 · 国产 vs 生态 · 学生监管",
+      "coreDemand": "国产 GPU 教学套装 · 算力券对接 · 权限平台",
+      "serviceOffer": "教育版工作站 + 学生管理平台 + 算力券对接服务",
+      "channelToReach": "学术会议 (NeurIPS/ICML/AAAI/ACL) · GitHub / HuggingFace · Papers with Code · arXiv · 校企合作办公室 · 中关村论坛 · 教育部产学合作协同育人项目",
+      "kpi": "教育版机型销量 + 校园签约数"
+    }
+  ]
+}

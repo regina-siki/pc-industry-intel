@@ -1,0 +1,268 @@
+{
+  "kpi": [
+    {
+      "label": "本月全球服务器出货量",
+      "value": "316 万台",
+      "delta": "+8.2%",
+      "up": true,
+      "source": "IDC Server Tracker",
+      "formula": "IDC 月度出货量报告，环比上月",
+      "updatedAt": "2026-06-28"
+    },
+    {
+      "label": "AI 服务器占比",
+      "value": "24.6%",
+      "delta": "+5.1pp",
+      "up": true,
+      "source": "TrendForce",
+      "formula": "AI 服务器出货台数 ÷ 全球服务器总出货，pp = 百分点",
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "label": "DDR5 现货均价",
+      "value": "$4.21",
+      "delta": "-2.3%",
+      "up": false,
+      "source": "DRAMeXchange 现货报价",
+      "formula": "DDR5 16Gb 主流颗粒周均价，环比上周",
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "label": "云厂商资本开支 (Q)",
+      "value": "$589 亿",
+      "delta": "+19%",
+      "up": true,
+      "source": "各公司季报",
+      "formula": "AWS + Azure + GCP + Meta 四家最新季度 Capex 合计，YoY",
+      "updatedAt": "2026-05-31"
+    }
+  ],
+  "insights": {
+    "summary": "本月产业主线：AI 服务器需求继续外溢至 HBM 与液冷；北美云厂商 Capex 二次上修，国内运营商集采落地推动国产化率抬升；通用服务器价格战边际缓解。",
+    "updatedAt": "2026-06-30",
+    "highlights": [
+      { "key": "ai", "title": "AI 服务器景气延续", "level": "high",
+        "points": ["NVIDIA Blackwell Ultra 拉动 HBM3e / CoWoS 产能持续紧张", "国内华为昇腾、寒武纪份额在互联网大客户中继续爬升"] },
+      { "key": "capex", "title": "云厂商 Capex 上修", "level": "high",
+        "points": ["北美四大云厂 2026 Capex 指引上调 10-15%", "阿里云全年服务器采购预算上调至 800 亿元"] },
+      { "key": "localize", "title": "国产化 & 运营商集采", "level": "mid",
+        "points": ["中国移动通用服务器集采：浪潮 41% / 华为 / 新华三中标", "关注海光、飞腾在金融政企场景的渗透节奏"] },
+      { "key": "cooling", "title": "液冷渗透率突破 30%", "level": "mid",
+        "points": ["冷板式为当前主流，浸没式在智算中心持续放量", "英维克、高澜、申菱是订单主要受益方"] },
+      { "key": "risk", "title": "需要警惕的风险", "level": "watch",
+        "points": ["HBM 供需若在 2027 年反转，AI 服务器 BOM 成本可能快速下降", "通用 x86 服务器价格战是否再起，取决于 Intel/AMD 新平台推货节奏"] }
+    ]
+  },
+  "supplyChain": {
+    "disclaimer": "各节点市场份额基于公开机构报告估算（IDC / TrendForce / Counterpoint / 赛迪顾问），非官方数据；环比变化为近 2-3 季度定性判断。",
+    "nodes": [
+      { "id": "cpu", "name": "CPU", "layer": "upstream" },
+      { "id": "gpu", "name": "GPU / 加速卡", "layer": "upstream" },
+      { "id": "mem", "name": "内存 / HBM", "layer": "upstream" },
+      { "id": "storage", "name": "存储 (SSD/HDD)", "layer": "upstream" },
+      { "id": "pcb", "name": "PCB / 连接器", "layer": "upstream" },
+      { "id": "power", "name": "电源 / 散热", "layer": "upstream" },
+      { "id": "oem", "name": "OEM 品牌商", "layer": "mid" },
+      { "id": "odm", "name": "ODM 代工", "layer": "mid" },
+      { "id": "sysint", "name": "系统集成商", "layer": "mid" },
+      { "id": "hyper", "name": "互联网 / 云厂商", "layer": "downstream" },
+      { "id": "telco", "name": "运营商", "layer": "downstream" },
+      { "id": "gov", "name": "政企 / 金融", "layer": "downstream" },
+      { "id": "idc", "name": "IDC / 智算中心", "layer": "downstream" }
+    ],
+    "links": [
+      { "source": "cpu", "target": "oem" }, { "source": "cpu", "target": "odm" },
+      { "source": "gpu", "target": "oem" }, { "source": "gpu", "target": "odm" },
+      { "source": "mem", "target": "oem" }, { "source": "mem", "target": "odm" },
+      { "source": "storage", "target": "oem" }, { "source": "storage", "target": "odm" },
+      { "source": "pcb", "target": "odm" }, { "source": "power", "target": "odm" },
+      { "source": "oem", "target": "hyper" }, { "source": "oem", "target": "telco" },
+      { "source": "oem", "target": "gov" }, { "source": "odm", "target": "hyper" },
+      { "source": "odm", "target": "idc" }, { "source": "sysint", "target": "gov" },
+      { "source": "sysint", "target": "idc" }
+    ],
+    "marketShare": {
+      "cpu": {
+        "scope": "全球服务器 CPU (按出货量)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Intel", "share": 68, "change": "-3pp", "trend": "down" },
+          { "name": "AMD", "share": 27, "change": "+3pp", "trend": "up" },
+          { "name": "海光 / 飞腾 / 华为鲲鹏", "share": 5, "change": "+1pp", "trend": "up" }
+        ],
+        "recentChange": "AMD EPYC Turin 在云厂商中份额继续挤压 Intel；国产 CPU 在政企/信创场景加速渗透",
+        "source": "Mercury Research + 赛迪顾问"
+      },
+      "gpu": {
+        "scope": "全球数据中心 GPU / 加速卡",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "NVIDIA", "share": 88, "change": "-2pp", "trend": "flat" },
+          { "name": "AMD Instinct", "share": 6, "change": "+1pp", "trend": "up" },
+          { "name": "华为昇腾", "share": 4, "change": "+2pp", "trend": "up" },
+          { "name": "其他 (寒武纪等)", "share": 2, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "NVIDIA 依旧统治性；华为昇腾在国内互联网/运营商拿到大单快速抬升",
+        "source": "Jon Peddie Research + 集邦咨询"
+      },
+      "mem": {
+        "scope": "全球 HBM 内存",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "SK Hynix", "share": 53, "change": "-2pp", "trend": "flat" },
+          { "name": "Samsung", "share": 33, "change": "+3pp", "trend": "up" },
+          { "name": "Micron", "share": 14, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "HBM3e 12H 良率突破后 Samsung 追赶；HBM4 送样将重新洗牌",
+        "source": "TrendForce"
+      },
+      "storage": {
+        "scope": "全球企业级 NAND / SSD",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Samsung", "share": 34, "change": "-1pp", "trend": "flat" },
+          { "name": "SK Hynix + Solidigm", "share": 25, "change": "+1pp", "trend": "up" },
+          { "name": "Kioxia + WDC", "share": 22, "change": "-2pp", "trend": "down" },
+          { "name": "Micron", "share": 12, "change": "+持平", "trend": "flat" },
+          { "name": "长江存储", "share": 7, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "长江存储 8-bit TLC 量产后份额加速；企业级 SSD 需求随 AI 服务器上行",
+        "source": "TrendForce"
+      },
+      "pcb": {
+        "scope": "全球高速服务器 PCB",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "沪电股份", "share": 18, "change": "+3pp", "trend": "up" },
+          { "name": "TTM", "share": 15, "change": "-1pp", "trend": "flat" },
+          { "name": "Ibiden", "share": 12, "change": "-1pp", "trend": "flat" },
+          { "name": "生益科技", "share": 8, "change": "+1pp", "trend": "up" }
+        ],
+        "recentChange": "AI 服务器高速 PCB (M6/M7) 拉动国内厂商份额；沪电产能满载",
+        "source": "Prismark + 沪电/生益公告"
+      },
+      "power": {
+        "scope": "服务器电源 + 液冷散热",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "台达 (电源)", "share": 40, "change": "+持平", "trend": "flat" },
+          { "name": "英维克 (液冷)", "share": 28, "change": "+5pp", "trend": "up" },
+          { "name": "高澜 (液冷)", "share": 12, "change": "+2pp", "trend": "up" },
+          { "name": "申菱 (液冷)", "share": 8, "change": "+3pp", "trend": "up" }
+        ],
+        "recentChange": "液冷厂商订单同比 +50~90%，是这轮 AI 浪潮里增速最快的上游环节",
+        "source": "赛迪顾问 + 上市公司年报"
+      },
+      "oem": {
+        "scope": "全球 x86 服务器 OEM (按营收)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Dell", "share": 16, "change": "+持平", "trend": "flat" },
+          { "name": "HPE", "share": 14, "change": "-1pp", "trend": "flat" },
+          { "name": "浪潮信息", "share": 12, "change": "+2pp", "trend": "up" },
+          { "name": "Lenovo", "share": 8, "change": "+持平", "trend": "flat" },
+          { "name": "华为 + 超聚变", "share": 8, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "浪潮受益于国内运营商集采与 AI 服务器出货；超聚变承接华为服务器业务加速",
+        "source": "IDC WW Quarterly Server Tracker"
+      },
+      "odm": {
+        "scope": "全球 AI 服务器 ODM (面向 CSP)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "工业富联 (Foxconn)", "share": 38, "change": "+4pp", "trend": "up" },
+          { "name": "Quanta 广达", "share": 22, "change": "-2pp", "trend": "down" },
+          { "name": "Wiwynn 纬颖", "share": 14, "change": "+1pp", "trend": "up" },
+          { "name": "Inventec 英业达", "share": 12, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "工业富联 AI 服务器营收 +187%，AI 整机柜产能是行业瓶颈",
+        "source": "TrendForce AI Server Report"
+      },
+      "sysint": {
+        "scope": "国内政企 / 智算集成",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "中科曙光", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "紫光股份 (新华三)", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "华为 (方案 + 昇腾)", "share": "—", "change": "—", "trend": "up" }
+        ],
+        "recentChange": "国家级 / 地方智算中心项目中标集中于中科曙光、华为、紫光",
+        "source": "中国政府采购网 + 项目公告"
+      },
+      "hyper": {
+        "scope": "全球超大规模 CSP (按 Capex)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "AWS + Azure + GCP + Meta", "share": 72, "change": "+持平", "trend": "flat" },
+          { "name": "阿里云", "share": 7, "change": "+1pp", "trend": "up" },
+          { "name": "腾讯 + 字节", "share": 6, "change": "+1pp", "trend": "up" },
+          { "name": "百度 + 其他", "share": 15, "change": "-2pp", "trend": "down" }
+        ],
+        "recentChange": "北美 4 家 2026 Capex 上调 10-15%；国内头部三家 AI 占比均 ≥50%",
+        "source": "各公司季报"
+      },
+      "telco": {
+        "scope": "国内运营商服务器集采 (按金额)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "中国移动", "share": 49, "change": "+持平", "trend": "flat" },
+          { "name": "中国电信", "share": 27, "change": "+持平", "trend": "flat" },
+          { "name": "中国联通", "share": 24, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "2026 三家合计集采约 337 亿元；国产化率同比大幅抬升",
+        "source": "三大运营商 2026 集采公告"
+      },
+      "gov": {
+        "scope": "国内政企 / 金融 IT 硬件",
+        "asOf": "2025 全年",
+        "players": [
+          { "name": "金融 (工/建/农/中)", "share": "—", "change": "—", "trend": "up" },
+          { "name": "国家电网 + 南方电网", "share": "—", "change": "—", "trend": "up" },
+          { "name": "部委 / 央企", "share": "—", "change": "—", "trend": "flat" }
+        ],
+        "recentChange": "国家电网 2025 IT 集采约 45 亿元；金融信创进入深水区",
+        "source": "上市公司公告 + 国家电网电子商务平台"
+      },
+      "idc": {
+        "scope": "国内 IDC / 智算中心运营",
+        "asOf": "2025 全年",
+        "players": [
+          { "name": "世纪互联", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "万国数据 (GDS)", "share": "—", "change": "—", "trend": "up" },
+          { "name": "光环新网", "share": "—", "change": "—", "trend": "flat" }
+        ],
+        "recentChange": "东数西算带动智算中心新建；GPU 出租业务毛利率显著高于传统 IDC",
+        "source": "赛迪顾问 + 各 IDC 公司年报"
+      }
+    },
+    "companies": {
+      "cpu": ["Intel", "AMD", "海光", "飞腾"],
+      "gpu": ["NVIDIA", "AMD", "华为昇腾", "寒武纪"],
+      "mem": ["SK Hynix", "Samsung", "Micron", "长鑫"],
+      "storage": ["Samsung", "西部数据", "长江存储"],
+      "pcb": ["沪电股份", "生益科技", "深南电路"],
+      "power": ["台达", "英维克", "高澜"],
+      "oem": ["Dell", "HPE", "Lenovo", "浪潮", "新华三", "华为"],
+      "odm": ["工业富联", "广达", "英业达", "纬颖"],
+      "sysint": ["中科曙光", "紫光股份"],
+      "hyper": ["阿里云", "腾讯云", "字节", "百度", "AWS", "Azure"],
+      "telco": ["中国移动", "中国电信", "中国联通"],
+      "gov": ["工行", "建行", "国家电网"],
+      "idc": ["世纪互联", "万国数据", "光环新网"]
+    }
+  },
+  "companies": [
+    { "name": "NVIDIA", "category": "GPU", "country": "美国", "tags": ["AI", "上游"] },
+    { "name": "Intel", "category": "CPU", "country": "美国", "tags": ["x86", "上游"] },
+    { "name": "AMD", "category": "CPU/GPU", "country": "美国", "tags": ["x86", "GPU"] },
+    { "name": "华为昇腾", "category": "GPU", "country": "中国", "tags": ["国产", "AI"] },
+    { "name": "海光信息", "category": "CPU", "country": "中国", "tags": ["国产", "x86"] },
+    { "name": "SK Hynix", "category": "存储", "country": "韩国", "tags": ["HBM", "DRAM"] },
+    { "name": "工业富联", "category": "ODM", "country": "中国", "tags": ["代工", "AI 整机柜"] },
+    { "name": "浪潮信息", "category": "OEM", "country": "中国", "tags": ["品牌", "AI 服务器"] },
+    { "name": "超聚变", "category": "OEM", "country": "中国", "tags": ["品牌", "通用"] },
+    { "name": "Dell", "category": "OEM", "country": "美国", "tags": ["品牌"] },
+    { "name": "英维克", "category": "散热", "country": "中国", "tags": ["液冷"] },
+    { "name": "台达", "category": "电源", "country": "中国台湾", "tags": ["电源"] }
+  ]
+}

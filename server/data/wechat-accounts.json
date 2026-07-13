@@ -1,0 +1,158 @@
+[
+  {
+    "name": "半导体行业观察",
+    "category": "半导体",
+    "focus": "半导体产业链、晶圆代工、封测、设备材料",
+    "tags": [
+      "半导体",
+      "产业链"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "集微网",
+    "category": "半导体",
+    "focus": "IC 设计、投融资、上市公司动态",
+    "tags": [
+      "半导体",
+      "投融资"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "芯东西",
+    "category": "半导体",
+    "focus": "AI 芯片、GPU、国产替代",
+    "tags": [
+      "AI 芯片",
+      "国产"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "算力猩",
+    "category": "算力",
+    "focus": "AI 算力、智算中心、服务器出货",
+    "tags": [
+      "算力",
+      "AI 服务器"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "DoIT 存储在线",
+    "category": "服务器/存储",
+    "focus": "服务器、存储、数据中心行业动态",
+    "tags": [
+      "服务器",
+      "存储"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "C114 通信网",
+    "category": "运营商",
+    "focus": "运营商招采、5G、IDC",
+    "tags": [
+      "运营商",
+      "招采"
+    ],
+    "priority": "high",
+    "note": ""
+  },
+  {
+    "name": "量子位",
+    "category": "AI",
+    "focus": "AI 大模型、AI 芯片、AI 应用",
+    "tags": [
+      "AI",
+      "大模型"
+    ],
+    "priority": "mid",
+    "note": ""
+  },
+  {
+    "name": "数字时氪 (36Kr)",
+    "category": "互联网/云",
+    "focus": "云厂商、互联网大厂动态",
+    "tags": [
+      "云厂商",
+      "投融资"
+    ],
+    "priority": "mid",
+    "note": ""
+  },
+  {
+    "name": "通信网工小兵",
+    "category": "运营商",
+    "focus": "示例文章：4500万元！智算超节点，1家中标！",
+    "tags": [
+      "服务器",
+      "算力",
+      "中国联通"
+    ],
+    "priority": "mid",
+    "note": "自动收录（首次抓文入库时新增）",
+    "source": "auto-ingest",
+    "firstIngestAt": "2026-07-02T10:29:31.096Z",
+    "lastIngestAt": "2026-07-02T10:29:31.096Z",
+    "lastArticle": "4500万元！智算超节点，1家中标！"
+  },
+  {
+    "name": "人工智能产业链union",
+    "category": "互联网/云",
+    "focus": "示例文章：【AI】全球炸锅！百度扔出一枚“开源核弹”：3B小模型干翻235B巨头，硅谷彻底",
+    "tags": [
+      "算力"
+    ],
+    "priority": "mid",
+    "note": "自动收录（首次抓文入库时新增）",
+    "source": "auto-ingest",
+    "firstIngestAt": "2026-07-02T10:29:44.847Z",
+    "lastIngestAt": "2026-07-02T10:29:44.847Z",
+    "lastArticle": "【AI】全球炸锅！百度扔出一枚“开源核弹”：3B小模型干翻235B巨头，硅谷彻底坐不住了"
+  },
+  {
+    "name": "诺七程序造物",
+    "category": "AI 芯片",
+    "focus": "示例文章：中国电信4万台服务器全部抛弃x86，华为ARM芯片正在掏空Intel的根基",
+    "tags": [
+      "服务器",
+      "CPU",
+      "算力",
+      "国产化",
+      "NVIDIA",
+      "AMD",
+      "华为",
+      "浪潮",
+      "中国移动",
+      "中国联通",
+      "中国电信"
+    ],
+    "priority": "mid",
+    "note": "自动收录（首次抓文入库时新增）",
+    "source": "auto-ingest",
+    "firstIngestAt": "2026-07-02T10:30:09.417Z",
+    "lastIngestAt": "2026-07-02T10:30:09.417Z",
+    "lastArticle": "中国电信4万台服务器全部抛弃x86，华为ARM芯片正在掏空Intel的根基"
+  },
+  {
+    "name": "IDC咨询",
+    "category": "综合",
+    "focus": "示例文章：IDC最新洞察：PC大盘微降6.1%，但“一人公司”正逆势贡献160万台新需求",
+    "tags": [
+      "算力"
+    ],
+    "priority": "mid",
+    "note": "自动收录（首次抓文入库时新增）",
+    "source": "auto-ingest",
+    "firstIngestAt": "2026-07-03T10:50:13.578Z",
+    "lastIngestAt": "2026-07-03T10:50:13.578Z",
+    "lastArticle": "IDC最新洞察：PC大盘微降6.1%，但“一人公司”正逆势贡献160万台新需求"
+  }
+]

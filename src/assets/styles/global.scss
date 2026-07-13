@@ -1,0 +1,68 @@
+:root {
+  --c-bg: #f5f7fa;
+  --c-panel: #ffffff;
+  --c-text: #1f2329;
+  --c-muted: #6b7280;
+  --c-primary: #2f54eb;
+  --c-accent: #13c2c2;
+  --c-border: #e5e7eb;
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.06);
+  --shadow-md: 0 4px 16px rgba(15, 23, 42, 0.08);
+  --radius: 8px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica Neue',
+    Arial, sans-serif;
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-size: 14px;
+}
+
+a {
+  color: var(--c-primary);
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.panel {
+  background: var(--c-panel);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  padding: 20px;
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  &::before {
+    content: '';
+    width: 4px;
+    height: 16px;
+    background: var(--c-primary);
+    border-radius: 2px;
+  }
+}
+
+.muted {
+  color: var(--c-muted);
+}
