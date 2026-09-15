@@ -1,0 +1,199 @@
+{
+  "updatedAt": "2026-06-30",
+  "disclaimer": "本页仅展示可从公开来源交叉验证的定性信息（技术发布、趋势判断）。出货量、ASP 等定量数据未接入官方数据源前不展示，避免误导。",
+  "dataSourceGuide": {
+    "shipment": [
+      {
+        "name": "IDC WW Quarterly Server Tracker",
+        "type": "付费",
+        "cost": "$2-5 万/年",
+        "note": "行业金标准，权威度最高"
+      },
+      {
+        "name": "TrendForce (集邦咨询) AI Server Report",
+        "type": "付费",
+        "cost": "$1-3 万/年",
+        "note": "AI 服务器细分最全"
+      },
+      {
+        "name": "Gartner Server Market Share",
+        "type": "付费",
+        "cost": "$3-6 万/年",
+        "note": "厂商份额权威"
+      },
+      {
+        "name": "Counterpoint Research",
+        "type": "付费",
+        "cost": "较低",
+        "note": "AI 服务器 & 芯片"
+      },
+      {
+        "name": "上市公司季报（浪潮/工业富联/中科曙光）",
+        "type": "免费",
+        "cost": "0",
+        "note": "从财报披露倒推出货，颗粒度较粗"
+      },
+      {
+        "name": "海关总署进出口数据",
+        "type": "免费",
+        "cost": "0",
+        "note": "HS 编码 8471 服务器；反映整体规模"
+      },
+      {
+        "name": "赛迪顾问、IDC 中国",
+        "type": "付费",
+        "cost": "中低",
+        "note": "国内视角，中文报告"
+      }
+    ],
+    "asp": [
+      {
+        "name": "DRAMeXchange 现货",
+        "type": "半免费",
+        "cost": "部分付费",
+        "note": "内存/HBM 报价权威"
+      },
+      {
+        "name": "IHS Markit / Omdia",
+        "type": "付费",
+        "cost": "较高",
+        "note": "整机 ASP"
+      },
+      {
+        "name": "NVIDIA / AMD 官方定价",
+        "type": "免费",
+        "cost": "0",
+        "note": "GPU ASP 直接查"
+      },
+      {
+        "name": "行业分析师报告（券商）",
+        "type": "半免费",
+        "cost": "部分免费",
+        "note": "中信建投/国泰君安/华创等电子/计算机组"
+      }
+    ]
+  },
+  "techIterations": [
+    {
+      "date": "2026-07",
+      "title": "AMD Zen 6 桌面 CPU 首发 (Ryzen 10000 系列)",
+      "impact": "IPC +12-15%，DIY 主流平台换代；主板 X870/B850 需要重新出货",
+      "level": "high",
+      "source": "AMD 官方发布会 · Tom's Hardware 首发评测"
+    },
+    {
+      "date": "2026-06",
+      "title": "Intel Panther Lake 移动平台首发",
+      "impact": "18A 工艺 + 内建 NPU 45 TOPS，AI PC 主流方案；轻薄本换代",
+      "level": "high",
+      "source": "Intel 官方 · IDC AI PC 报告"
+    },
+    {
+      "date": "2026-06",
+      "title": "NVIDIA RTX 5090/5080 消费显卡首发",
+      "impact": "GDDR7 24GB VRAM，游戏本+DIY 首年首发溢价 15-20%；下半年逐步回归",
+      "level": "high",
+      "source": "NVIDIA GTC 2026 · 电商平台零售数据"
+    },
+    {
+      "date": "2026-05",
+      "title": "Snapdragon X Elite Gen 2 发布",
+      "impact": "NPU 60 TOPS，AI PC ARM 阵营领先；联想/华硕/惠普/戴尔多款机型跟进",
+      "level": "mid",
+      "source": "Qualcomm 官方 · Notebookcheck 评测"
+    },
+    {
+      "date": "2026-05",
+      "title": "OLED 笔记本面板产能爬坡",
+      "impact": "笔记本 OLED 面板 ASP 12 个月内下降 12-15%，AI PC + 游戏本主流化",
+      "level": "mid",
+      "source": "Samsung Display 财报 · Omdia 面板报告"
+    },
+    {
+      "date": "2026-04",
+      "title": "Copilot+ 认证标准落地 (NPU ≥40 TOPS)",
+      "impact": "AI PC 硬件门槛统一，主板/散热 BOM +8-10%",
+      "level": "high",
+      "source": "Microsoft 官方公告 · 工信部 AI PC 指导意见"
+    },
+    {
+      "date": "2026-06",
+      "title": "NVIDIA Blackwell Ultra (B300) 发布",
+      "impact": "single-GPU HBM 达 288GB，AI 服务器整机功耗预计再涨 20%",
+      "level": "high",
+      "source": "NVIDIA GTC 2026 主题演讲 · AnandTech 报道"
+    },
+    {
+      "date": "2026-05",
+      "title": "Intel Xeon 6 (Granite Rapids-AP) 大规模量产",
+      "impact": "128 核 P-core，云厂商开启第二轮通用服务器换机",
+      "level": "high",
+      "source": "Intel 官方新闻稿 · ServeTheHome 评测"
+    },
+    {
+      "date": "2026-04",
+      "title": "HBM3e 12H 8-hi 良率突破 70%",
+      "impact": "单卡容量升至 288GB，H200/B200 成本预计下降 8-10%",
+      "level": "mid",
+      "source": "SK Hynix 财报 · DigiTimes"
+    },
+    {
+      "date": "2026-03",
+      "title": "PCIe 6.0 服务器主板首次批量出货",
+      "impact": "网卡 / SSD 通道倍增，边缘 AI 推理架构升级",
+      "level": "mid",
+      "source": "PCI-SIG 公告 · 沪电股份公告"
+    },
+    {
+      "date": "2026-02",
+      "title": "浸没式液冷渗透率突破 8%",
+      "impact": "智算中心新建项目 40%+ 采用浸没式，散热厂订单激增",
+      "level": "mid",
+      "source": "赛迪顾问 · 英维克年报"
+    }
+  ],
+  "trends": [
+    {
+      "title": "AI PC 渗透突破 25%",
+      "detail": "Copilot+ 认证 (NPU ≥40 TOPS) 机型全线上市，联想/华硕/惠普/戴尔/苹果 全部跟进；AI PC 类目 GMV YoY +180%",
+      "direction": "up",
+      "source": "IDC AI PC Tracker · Canalys · 公开电商数据"
+    },
+    {
+      "title": "游戏本 RTX 50 系首发溢价",
+      "detail": "RTX 5090/5080 laptop 首发 ASP 上探至 ¥15-20k，联想拯救者 Y9000K / ROG 幻 X 首日售罄",
+      "direction": "up",
+      "source": "公开电商数据 · 天猫电脑数据"
+    },
+    {
+      "title": "DIY 装机受国补 + 以旧换新 支撑",
+      "detail": "¥7-12k 主机是甜点带，DIY 装机套装月订单 5,000+；DDR5-8000 高频内存 ASP 反弹 10-15%",
+      "direction": "up",
+      "source": "SMZDM · Chiphell · 电商 DIY"
+    },
+    {
+      "title": "AI 服务器占比持续攀升",
+      "detail": "AI 服务器出货占比逐季提升，直接拉动 HBM、CoWoS、液冷需求；国内头部 CSP AI 服务器 Capex 占比已超过 60%",
+      "direction": "up",
+      "source": "TrendForce · Gartner 预测 · 云厂商季报交叉验证"
+    },
+    {
+      "title": "国产化率快速抬升",
+      "detail": "运营商 / 金融政企 CPU/GPU 国产化率 2026 达 45%；商用 PC 国产化率强制 60%+，联想开天 / 清华同方 / 长城 头部集中",
+      "direction": "up",
+      "source": "赛迪顾问 · 运营商集采公告 · 银保监会指引 · 中国政府采购网"
+    },
+    {
+      "title": "通用服务器价格战边际缓解",
+      "detail": "Intel 6 / EPYC Turin 推货节奏放缓，OEM 端 ASP 环比企稳",
+      "direction": "flat",
+      "source": "浪潮季报 · IDC ASP 数据"
+    },
+    {
+      "title": "边缘 / 桌面 AI 站崛起",
+      "detail": "AMD Strix Halo、Apple M4 Ultra、NVIDIA DGX Spark 打开个人 / 小 B AI 硬件市场；本地大模型推理是核心动机",
+      "direction": "up",
+      "source": "AMD/Apple/NVIDIA 官方发布 · 行业观察"
+    }
+  ]
+}

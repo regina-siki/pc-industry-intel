@@ -1,0 +1,99 @@
+name: Build & Deploy to GitHub Pages
+
+on:
+  # 推送到 main 分支时触发部署
+  push:
+    branches: [main]
+  # 每天 UTC 04:00 + 16:00 各跑一次数据抓取（北京时间 12:00 + 00:00）
+  schedule:
+    - cron: '0 4,16 * * *'
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      full:
+        description: '全量重建 (清空现有资讯重新抓)'
+        required: false
+        type: boolean
+        default: false
+
+# 允许 GITHUB_TOKEN 写 contents (用于回写更新后的 news.json) 和 pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 同一分支并发时只保留最新一次
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # 数据抓取：定时 / 手动触发时跑
+  fetch:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install rss-parser
+        run: npm install --no-save rss-parser@^3.13.0
+
+      - name: Fetch latest data
+        run: |
+          if [ "${{ github.event.inputs.full }}" = "true" ]; then
+            node scripts/fetch-data.mjs --full
+          else
+            node scripts/fetch-data.mjs
+          fi
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          if git diff --staged --quiet; then
+            echo "no changes, skip commit"
+            exit 0
+          fi
+          git commit -m "chore(data): auto-fetch news $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+  # 构建并部署 Pages
+  build-deploy:
+    runs-on: ubuntu-latest
+    needs: fetch
+    if: always() && (github.event_name == 'push' || needs.fetch.result == 'success' || needs.fetch.result == 'skipped')
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

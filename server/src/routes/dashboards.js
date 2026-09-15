@@ -28,6 +28,7 @@ const loadOverview = loadFactory('overview.json')
 const loadNewsSummary = loadFactory('news-summary.json')
 const loadMacroPolicy = loadFactory('macro-policy.json')
 const loadUserMatch = loadFactory('user-match.json')
+const loadProductLifecycle = loadFactory('product-lifecycle.json')
 
 const router = Router()
 
@@ -39,6 +40,7 @@ router.get('/overview', (_req, res) => res.json(loadOverview()))
 router.get('/news-summary', (_req, res) => res.json(loadNewsSummary()))
 router.get('/macro-policy', (_req, res) => res.json(loadMacroPolicy()))
 router.get('/user-match', (_req, res) => res.json(loadUserMatch()))
+router.get('/product-lifecycle', (_req, res) => res.json(loadProductLifecycle()))
 router.get('/bom/:id', (req, res) => {
   const bom = loadBom()
   const p = (bom.products || []).find((x) => x.id === req.params.id)

@@ -438,6 +438,189 @@
       "priority": "high",
       "insight": "增速最高的细分；对 unified memory、TOPS、生态成熟度敏感；社区口碑传播为主",
       "insightSource": "Reddit r/LocalLLaMA · HuggingFace 讨论区 · YouTube 数码测评"
+    },
+    {
+      "id": "pc-retail",
+      "name": "PC 零售 (线上/线下 3C)",
+      "share": "京东 3C 类目 GMV 40%+",
+      "growth": "AI PC 品类 YoY +180% (2026 H1)",
+      "focus": "笔记本 / 台式机 / 一体机 / 显示器 / 外设 全品类销售，AI PC + 游戏本是首年独立频道",
+      "topDemands": [
+        "AI PC 认证机型集中入口，突出 NPU TOPS 与本地 Copilot 演示",
+        "以旧换新一站式，与国补叠加自动生效",
+        "首发独家配货 + 大促主推 SKU",
+        "分期免息 + 京东白条 + 电脑数码保险"
+      ],
+      "keyCustomers": [
+        "京东自营 + 京东 3C",
+        "天猫 + 淘宝 (品牌旗舰)",
+        "拼多多 (性价比档)",
+        "抖音电商 (直播带货)",
+        "苏宁 / 国美 / 5 星电器 (线下 3C 卖场)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "京东 3C",
+          "title": "618 电脑品类 GMV YoY +32%",
+          "period": "2026 H1",
+          "scale": "笔记本 500 万台 / 台式机 180 万台",
+          "amount": "—",
+          "source": "京东商智 2026-07"
+        },
+        {
+          "customer": "京东 3C",
+          "title": "AI PC 首年独立频道 GMV YoY +180%",
+          "period": "2026 H1",
+          "scale": "AI PC 出货占京东 PC 类目 26%",
+          "source": "京东商智 2026-07"
+        },
+        {
+          "customer": "天猫电脑",
+          "title": "游戏本 RTX 5090 首发日售罄",
+          "period": "2026-05",
+          "scale": "3 分钟破 5000 台",
+          "vendors": ["联想拯救者", "华硕 ROG", "微星 Titan"],
+          "source": "天猫商家中心公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "京东 3C 领先地位稳固，AI PC + 游戏本 + DIY 是三条增长主线；以旧换新叠加国补可以再放大 20-25%",
+      "insightSource": "京东商智 · Canalys 中国 PC 报告 · 天猫商家中心"
+    },
+    {
+      "id": "pc-diy",
+      "name": "DIY 玩家 / 装机人群",
+      "share": "京东 DIY 类目 GMV 8-10%",
+      "growth": "¥15-25k AI DIY 主机 YoY +50%",
+      "focus": "自己装机 / 升级、显卡 & 内存 & SSD & 机箱散热 & 主板 单件销售",
+      "topDemands": [
+        "首发显卡货源 (RTX 5090 / 5080 抢购)",
+        "¥7k / 10k / 15k / 25k 主流装机套装",
+        "首发游戏本对比装机成本 (装机更划算的论证)",
+        "散热 / 电源 / 机箱 高质量选购，静音是主诉求",
+        "SMZDM / Chiphell / B 站装机博主推荐视频入口"
+      ],
+      "keyCustomers": [
+        "游戏玩家 DIY (55%)",
+        "AI / 创作者本地推理 DIY (20%)",
+        "办公升级换机 DIY (15%)",
+        "极客 / HTPC / 软路由 (10%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "京东 DIY",
+          "title": "京东装机套装 GMV 单季度 +80%",
+          "period": "2026 Q2",
+          "scale": "月订单量 5,000+",
+          "source": "京东商智"
+        },
+        {
+          "customer": "京东显卡零售",
+          "title": "RTX 5080 首发独家首发库存",
+          "period": "2026-04",
+          "scale": "首发 3 天 3 万张",
+          "vendors": ["华硕", "技嘉", "微星", "影驰", "七彩虹"],
+          "source": "京东零售数据"
+        }
+      ],
+      "priority": "high",
+      "insight": "DIY 用户是 SMZDM / Chiphell / B 站 生态最活跃的一群，口碑传播效率极高；¥15-25k AI DIY 主机是新的增量",
+      "insightSource": "SMZDM 值友榜 · Chiphell 装机作业 · Bilibili 数码 UP"
+    },
+    {
+      "id": "pc-enterprise",
+      "name": "企业 IT / 商用 PC 采购",
+      "share": "国内商用 PC 集采规模 ¥800+ 亿/年",
+      "growth": "党政 + 央国企国产化率强制 60%+，2026-2027 换机高峰",
+      "focus": "党政 + 央国企办公电脑 (信创) + 民营企业 + 中小企业 IT 采购",
+      "topDemands": [
+        "信创国产化率 60%+ (联想开天 / 清华同方 / 长城 + 国产 CPU + 麒麟 OS)",
+        "3 年整机 + 教学软件 + 上门维保 一体化",
+        "商用一体机 AIO 是主流形态（省桌面空间 + 便管理）",
+        "Copilot+ 认证机型 + 数据不出企业内网",
+        "京东企业购一站式采购 + 白条分期"
+      ],
+      "keyCustomers": [
+        "党政机关 + 央国企 (42%)",
+        "金融 / 医疗 / 能源 (26%)",
+        "民营大中型企业 (22%)",
+        "中小企业 (10%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "国家某部委",
+          "title": "2026 办公电脑集采 · 信创国产化 100%",
+          "period": "2026-Q1",
+          "scale": "10 万台",
+          "amount": "约 40 亿元",
+          "vendors": ["联想开天", "清华同方", "长城", "华为 (鲲鹏)"],
+          "source": "中国政府采购网"
+        },
+        {
+          "customer": "某省电力公司",
+          "title": "商用一体机 AIO 更新计划",
+          "period": "2026-H1",
+          "scale": "5 万台",
+          "amount": "约 15 亿元",
+          "vendors": ["联想", "清华同方", "长城"],
+          "source": "国家电子商务平台"
+        },
+        {
+          "customer": "四大行",
+          "title": "金融信创办公电脑 2027 完成国产替代",
+          "period": "2025-2027",
+          "scale": "累计 30 万台",
+          "amount": "预计 100 亿+",
+          "vendors": ["联想开天", "华为", "同方"],
+          "source": "银保监会指引 · 各行招采公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "国产化率强制条款 + 信创 OS + WPS 一体化 = 联想开天 / 同方 / 长城 头部集中；京东企业购要拿到这波换机潮",
+      "insightSource": "中国政府采购网 · 国家电子商务平台 · 银保监会指引"
+    },
+    {
+      "id": "pc-education",
+      "name": "教育信息化 PC 采购 (学校 / 网吧 / 电竞馆)",
+      "share": "教育信息化 2.0 累计 500 亿+ (2026-2027)",
+      "growth": "K12 + 高校 PC 换新 +25% YoY",
+      "focus": "K12 / 高校 / 职业院校 教学电脑 + 电竞馆 & 云网吧 商用主机",
+      "topDemands": [
+        "3 年整机 + 教学软件 + 上门维保 一体化",
+        "教育版 Copilot+ + 智慧课堂管理平台",
+        "机房 60 台 + 云网吧管理 一站式",
+        "电竞馆专用配置 (RTX 5060/5070 + i5/R5 + 高刷显示器)",
+        "教育部产学合作 + 高校科研合作"
+      ],
+      "keyCustomers": [
+        "K12 学校 (45%)",
+        "高校 / 职业院校 (30%)",
+        "教培机构 (线下 · 8%)",
+        "网吧 / 电竞馆 / 云网吧 (17%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "某省教育厅",
+          "title": "2026 K12 学校 PC 更新计划",
+          "period": "2026-H2",
+          "scale": "20 万台",
+          "amount": "约 60 亿元",
+          "vendors": ["联想开天 教育版", "同方超越 教育版", "神舟战神"],
+          "source": "中国政府采购网 · 教育部办公厅公告"
+        },
+        {
+          "customer": "全国某电竞馆连锁",
+          "title": "5 城 300 家电竞馆开店计划 · 每馆 30 台 RTX 5070 电竞主机",
+          "period": "2026 全年",
+          "scale": "9,000 台",
+          "amount": "约 1.5 亿元",
+          "vendors": ["雷神", "机械革命", "华硕 ROG"],
+          "source": "行业公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "教育信息化 2.0 + 电竞产业规划 双政策拉动，京东可以做 '3 年整机+软件+维保' 打包解决方案",
+      "insightSource": "教育部办公厅 · 中国政府采购网 · 电竞产业规划文件"
     }
   ],
   "smbAndConsumerInsights": [

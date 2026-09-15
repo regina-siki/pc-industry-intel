@@ -1,9 +1,7 @@
 node_modules
 dist
-.DS_Store
 .env.local
-.env
-server/.env
-server/public/
-*.log
-.claude/
+.env.*.local
+.DS_Store
+.backup-sensitive-data
+scripts-dump-news.mjs

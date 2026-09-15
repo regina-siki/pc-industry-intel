@@ -7,8 +7,12 @@
 import { fetchHtml, absoluteUrl } from '../http.js'
 
 const KEYWORDS = [
+  // 服务器/AI 侧
   '服务器', 'GPU', '算力', '智算', '数据中心', 'IDC',
   '存储阵列', '刀片', '整机柜', '超融合', 'AI 算力',
+  // PC 全品类（政府/教育采购常见词）
+  '笔记本电脑', '台式电脑', '办公电脑', '便携式计算机', '计算机',
+  '一体机', '一体化计算机', '工作站', '显示器', '打印机',
 ]
 
 // 搜索接口：bidType 1=货物 timeType 1=近一日 5=近半年 6=近一年
@@ -63,6 +67,11 @@ function extractType(title) {
   if (/存储/.test(title)) return '存储'
   if (/数据中心|IDC/.test(title)) return '数据中心'
   if (/服务器/.test(title)) return '服务器'
+  if (/笔记本电脑|便携式计算机/.test(title)) return '笔记本电脑'
+  if (/台式电脑|办公电脑|台式计算机/.test(title)) return '台式电脑'
+  if (/一体机|一体化计算机/.test(title)) return '一体机'
+  if (/工作站/.test(title)) return '工作站'
+  if (/显示器/.test(title)) return '显示器'
   return 'IT 设备'
 }
 
@@ -93,7 +102,7 @@ export default {
     const collected = new Map() // link -> item
 
     // 1) 关键词搜索（命中率高，但可能被限）
-    for (const kw of ['服务器', '数据中心', 'GPU', '算力']) {
+    for (const kw of ['服务器', '数据中心', 'GPU', '算力', '笔记本电脑', '台式电脑', '工作站', '一体机']) {
       const res = await tryFetch(SEARCH_URL(kw))
       if (!res) continue
       for (const it of parseList(res.html, SEARCH_URL(kw))) {

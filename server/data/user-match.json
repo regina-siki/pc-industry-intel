@@ -204,6 +204,46 @@
       "serviceOffer": "教育版工作站 + 学生管理平台 + 算力券对接服务",
       "channelToReach": "学术会议 (NeurIPS/ICML/AAAI/ACL) · GitHub / HuggingFace · Papers with Code · arXiv · 校企合作办公室 · 中关村论坛 · 教育部产学合作协同育人项目",
       "kpi": "教育版机型销量 + 校园签约数"
+    },
+    {
+      "personaTier": "S6 · 游戏工作室 / 电竞馆",
+      "kind": "smb",
+      "avatar": "🎮",
+      "portrait": "5-50 人游戏工作室 / 电竞馆 · 广州/深圳/成都/杭州/长沙",
+      "motive": "开黑联机 · 直播带货 · 电竞馆商用",
+      "productLine": "RTX 5070/5060 电竞主机机群 + 高刷显示器 + 电竞外设套装",
+      "productSpec": [
+        "10-30 台 RTX 5070 台式机 / RTX 5060 云网吧主机",
+        "1440P/4K 240Hz 电竞显示器 (LG UltraGear / 华硕 ROG)",
+        "机械键盘 + 电竞鼠标 + 耳机 (罗技 G / 雷蛇 / HyperX)"
+      ],
+      "priceRange": "¥30-300 万 / 3 年整馆",
+      "sweetPrice": "¥8,999 电竞主机 + ¥3,999 显示器套餐",
+      "corePain": "主机同批次一致性 · 3 年保修 · 上门维护 · 大促库存",
+      "coreDemand": "整馆一站式交付 · 定期升级换新 · 品牌合作",
+      "serviceOffer": "整馆 3 年保修 + 每季度巡检 + 首发新品优先配额",
+      "channelToReach": "电竞馆连锁总部 · 竞技赛事 · 京东电竞馆频道 · 抖音直播电竞主机 · 主播代言",
+      "kpi": "整馆签约数 + 电竞馆频道 GMV + 主播 CPS 转化率"
+    },
+    {
+      "personaTier": "S7 · 企业 IT 采购经理",
+      "kind": "smb",
+      "avatar": "💼",
+      "portrait": "党政 / 央国企 / 金融 / 教育 IT 采购经理",
+      "motive": "办公 PC 换新 · 信创国产化 · 3 年整机+维保",
+      "productLine": "国产商用 AIO 一体机 + 商用笔记本 + 显示器",
+      "productSpec": [
+        "联想开天 / 清华同方 超越 / 长城 商用 PC",
+        "国产 CPU (兆芯 / 鲲鹏 / 海光) + 麒麟 OS + WPS",
+        "23.8 IPS 显示屏 + 商用键鼠"
+      ],
+      "priceRange": "¥10-100 万 / 季度",
+      "sweetPrice": "¥4,699 商用 AIO 一体机 (信创全国产)",
+      "corePain": "国产化率 60%+ 强制 · 3 年上门 · 采购流程复杂 · 供应稳定",
+      "coreDemand": "整机 + 麒麟 OS + WPS + 3 年上门维保 · 京东企业购一站式",
+      "serviceOffer": "京东企业购 · 白条分期 · 3 年上门维保 · 售后专线",
+      "channelToReach": "中国政府采购网 · 国家电子商务平台 · 京东企业购销售 · 京东工业品 · 招标网",
+      "kpi": "商用 PC 集采签约金额 + 信创订单占比 + 客户 NPS"
     }
   ]
 }

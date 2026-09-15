@@ -1,17 +1,23 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: () => import('@/views/HomeView.vue'),
-    meta: { title: '首页' },
+    name: 'supply-chain',
+    component: () => import('@/views/SupplyChainView.vue'),
+    meta: { title: '上下游供应链' },
   },
   {
-    path: '/news',
-    name: 'news',
-    component: () => import('@/views/NewsView.vue'),
-    meta: { title: '行业资讯' },
+    path: '/product',
+    name: 'product',
+    component: () => import('@/views/ProductView.vue'),
+    meta: { title: '产品' },
+  },
+  {
+    path: '/customer',
+    name: 'customer',
+    component: () => import('@/views/CustomerView.vue'),
+    meta: { title: '运营策略' },
   },
   {
     path: '/news/:id',
@@ -20,51 +26,24 @@ const routes = [
     meta: { title: '资讯详情' },
   },
   {
-    path: '/supply-chain',
-    name: 'supply-chain',
-    component: () => import('@/views/SupplyChainView.vue'),
-    meta: { title: '产业链图谱' },
-  },
-  {
-    path: '/companies',
-    name: 'companies',
-    component: () => import('@/views/CompaniesView.vue'),
-    meta: { title: '公司 / 产品库' },
-  },
-  {
     path: '/wechat',
     name: 'wechat',
     component: () => import('@/views/WeChatAccountsView.vue'),
     meta: { title: '公众号追踪' },
   },
-  {
-    path: '/product',
-    name: 'product',
-    component: () => import('@/views/ProductView.vue'),
-    meta: { title: '产品趋势' },
-  },
-  {
-    path: '/cost',
-    name: 'cost',
-    component: () => import('@/views/CostView.vue'),
-    meta: { title: '成本 · BOM' },
-  },
-  {
-    path: '/segments',
-    name: 'segments',
-    component: () => import('@/views/CustomerSegmentsView.vue'),
-    meta: { title: '客户细分' },
-  },
-  {
-    path: '/match',
-    name: 'match',
-    component: () => import('@/views/UserMatchView.vue'),
-    meta: { title: '用户匹配矩阵' },
-  },
+  // 兼容旧链接：从其它页面/书签跳过来时优雅回到新页
+  { path: '/home', redirect: '/' },
+  { path: '/news', redirect: '/' },
+  { path: '/cost', redirect: '/' },
+  { path: '/supply-chain', redirect: '/' },
+  { path: '/segments', redirect: '/customer' },
+  { path: '/match', redirect: '/customer' },
+  { path: '/companies', redirect: '/' },
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  // GitHub Pages 静态托管：hash 模式确保刷新后直达路由不会 404
+  history: createWebHashHistory(),
   routes,
   scrollBehavior() {
     return { top: 0 }
@@ -73,8 +52,8 @@ const router = createRouter({
 
 router.afterEach((to) => {
   document.title = to.meta?.title
-    ? `${to.meta.title} · ServerInsight`
-    : 'ServerInsight'
+    ? `${to.meta.title} · PCInsight`
+    : 'PCInsight'
 })
 
 export default router

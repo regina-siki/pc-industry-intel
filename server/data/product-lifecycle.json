@@ -1,0 +1,504 @@
+{
+  "updatedAt": "2026-07-24",
+  "disclaimer": "生命周期阶段、发布日期、ASP 基于官方发布会、京东/天猫零售价格、行业分析师报告；未接入真实销量数据，销量趋势为定性判断，不含推测数字。",
+  "phaseLegend": {
+    "发布": "官方发布 0-3 个月，首发溢价期",
+    "爬坡": "3-9 个月，产能爬坡 + 主力铺货",
+    "主流": "9-18 个月，销售最活跃、价格趋稳",
+    "清尾": "18-24 个月，下一代已宣发或临近，清库存",
+    "停产": "官方停产 / 京东下架"
+  },
+  "categories": [
+    {
+      "id": "mini-pc",
+      "name": "MiniPC",
+      "note": "以桌面 AI 站 + HTPC + 办公 MiniPC 为主，2025 Q4 起 Strix Halo 平台打开高端 AI 桌面市场",
+      "products": [
+        {
+          "name": "零刻 GTR9 (Strix Halo)",
+          "vendor": "零刻 Beelink",
+          "released": "2025-11",
+          "phase": "爬坡",
+          "priceAtLaunch": "¥10,999",
+          "currentPrice": "¥9,999",
+          "nextGen": "2026-11 预期 GTR10",
+          "specHighlights": [
+            "AMD Ryzen AI Max+ 395 (16 核 + Radeon 8060S iGPU)",
+            "128GB LPDDR5X 统一内存",
+            "50 TOPS NPU · 支持 Copilot+ / 本地 70B 推理",
+            "PCIe 5.0 双 M.2 · 8K HDMI + USB4"
+          ],
+          "vsOldGen": {
+            "name": "GTR7 Pro (Ryzen 9 8945HS)",
+            "asp": "¥7,999",
+            "keyGap": "统一内存 32GB → 128GB · NPU 从无到有 · iGPU 追平桌面独显中端 · AI 场景覆盖翻倍"
+          },
+          "cadence": "12-14 月",
+          "jdAction": "AI PC 首发专区 · 以旧换新叠加 · DIY 玩家社群种草",
+          "source": "零刻官网 · 京东零售数据 2026-07"
+        },
+        {
+          "name": "铭凡 UM790 Pro AI",
+          "vendor": "铭凡 MINISFORUM",
+          "released": "2026-03",
+          "phase": "主流",
+          "priceAtLaunch": "¥7,999",
+          "currentPrice": "¥6,999",
+          "nextGen": "2027-Q1 UM890 系列预期",
+          "specHighlights": [
+            "AMD Ryzen 9 8945HS + Radeon 780M",
+            "64GB DDR5-5600",
+            "38 TOPS NPU (Copilot+ 认证边缘)",
+            "OCulink 外接显卡扩展"
+          ],
+          "vsOldGen": {
+            "name": "UM790 Pro (无 NPU 增强)",
+            "asp": "¥5,999",
+            "keyGap": "NPU 从 16 TOPS → 38 TOPS · OCulink 外接显卡首次引入"
+          },
+          "cadence": "12-15 月",
+          "jdAction": "生产力/开发者主打 · 组合外接显卡促销包",
+          "source": "铭凡官网 · SMZDM 值友评测"
+        },
+        {
+          "name": "Apple Mac mini M4",
+          "vendor": "Apple 苹果",
+          "released": "2024-10",
+          "phase": "主流",
+          "priceAtLaunch": "¥4,499",
+          "currentPrice": "¥4,299",
+          "nextGen": "2026-Q4 预期 M5 版",
+          "specHighlights": [
+            "Apple M4 (10 核 CPU + 10 核 GPU + 16 核 NPU 38 TOPS)",
+            "16GB 统一内存起步 · 支持 4x 4K 显示",
+            "教育优惠价 ¥3,899",
+            "机身缩小至 5x5 英寸"
+          ],
+          "vsOldGen": {
+            "name": "Mac mini M2 (2023)",
+            "asp": "¥4,499",
+            "keyGap": "机身尺寸 -30% · NPU 从 16 → 38 TOPS · 内存起步 8GB → 16GB · Apple Intelligence 支持"
+          },
+          "cadence": "24 月",
+          "jdAction": "教育季首发 · 学生认证抵扣 ¥400 · 内容创作者主打",
+          "source": "Apple 官方 · 京东 Apple 官方旗舰"
+        },
+        {
+          "name": "Intel NUC 15 Pro",
+          "vendor": "华硕 (代工 Intel NUC)",
+          "released": "2025-05",
+          "phase": "清尾",
+          "priceAtLaunch": "¥6,999",
+          "currentPrice": "¥5,499",
+          "nextGen": "2026-Q4 NUC 16 (Panther Lake) 预期",
+          "specHighlights": [
+            "Intel Core Ultra 7 155H",
+            "32GB DDR5",
+            "商用 MiniPC · vPro 管理特性"
+          ],
+          "vsOldGen": {
+            "name": "NUC 13 Pro (Raptor Lake)",
+            "asp": "¥5,999",
+            "keyGap": "NPU 从无到有 (10 TOPS) · 性能功耗比 +20%"
+          },
+          "cadence": "18 月",
+          "jdAction": "企业 IT 集采 · 清库存促销 8-10 折",
+          "source": "Intel 官网 · 华硕官方"
+        }
+      ]
+    },
+    {
+      "id": "desktop",
+      "name": "台式机 · 主流消费",
+      "note": "面向办公 + 家庭综合场景，¥3,000-8,000 是主力价格带；AI PC 特性下沉是 2026 主线",
+      "products": [
+        {
+          "name": "联想天逸 510S Pro AI 2026",
+          "vendor": "联想",
+          "released": "2026-03",
+          "phase": "主流",
+          "priceAtLaunch": "¥5,999",
+          "currentPrice": "¥5,499",
+          "nextGen": "2027-Q1 预期",
+          "specHighlights": [
+            "Intel Core Ultra 7 265 (Panther Lake) 或 Ryzen 7 9700",
+            "32GB DDR5-6400",
+            "预装 Copilot+ · AI 视频抠图 & 一键降噪",
+            "紧凑机身 8 升"
+          ],
+          "vsOldGen": {
+            "name": "天逸 510S (13 代 Intel)",
+            "asp": "¥4,299",
+            "keyGap": "AI PC 认证 · 内存起步 16 → 32GB · NPU 加持视频/图像本地处理"
+          },
+          "cadence": "12 月",
+          "jdAction": "AI PC 认证专区 · 以旧换新 ¥500-1000 · 家庭办公套装",
+          "source": "联想官网 · 京东联想旗舰"
+        },
+        {
+          "name": "惠普星 Box 台式机 2026",
+          "vendor": "惠普",
+          "released": "2026-02",
+          "phase": "主流",
+          "priceAtLaunch": "¥4,499",
+          "currentPrice": "¥3,999",
+          "nextGen": "2027-Q1 预期",
+          "specHighlights": [
+            "Ryzen 5 8500G + 16GB DDR5",
+            "内建 12 TOPS NPU",
+            "静音风冷 · 家用友好",
+            "512GB PCIe 4.0 SSD"
+          ],
+          "vsOldGen": {
+            "name": "惠普星 Box (Ryzen 5000)",
+            "asp": "¥3,299",
+            "keyGap": "AI NPU 首次引入 · 内存升级至 DDR5 · SSD PCIe 4.0"
+          },
+          "cadence": "12 月",
+          "jdAction": "家庭办公首发 · 618/双 11 主推 · 教育优惠 ¥300",
+          "source": "惠普官网 · 京东惠普旗舰"
+        },
+        {
+          "name": "DIY 主流装机 (¥6-8k 甜点档)",
+          "vendor": "DIY (华硕 + 微星 + 影驰 + 海盗船 组合)",
+          "released": "常年更新",
+          "phase": "主流",
+          "priceAtLaunch": "¥6,500",
+          "currentPrice": "¥7,000",
+          "nextGen": "季度换配置单",
+          "specHighlights": [
+            "Ryzen 5 7500F / Core Ultra 5 · B650/B850 主板",
+            "DDR5-6400 32GB · 1TB PCIe 4.0 SSD",
+            "RTX 5060 或 5060 Ti · 视频剪辑 + 1080P 高刷游戏"
+          ],
+          "vsOldGen": {
+            "name": "¥5-7k 甜点档 (2024)",
+            "asp": "¥5,800",
+            "keyGap": "显卡 4060 → 5060 · DDR4 → DDR5-6400 · SSD 500GB → 1TB"
+          },
+          "cadence": "6-12 月 (随显卡换代)",
+          "jdAction": "DIY 装机套装 (CPU+主板+内存+SSD+散热+电源+机箱一键买齐) · SMZDM 值友种草",
+          "source": "京东零售数据 · SMZDM · Chiphell"
+        },
+        {
+          "name": "Apple iMac M4 24 寸",
+          "vendor": "Apple 苹果",
+          "released": "2024-11",
+          "phase": "主流",
+          "priceAtLaunch": "¥10,999",
+          "currentPrice": "¥10,499",
+          "nextGen": "2026-Q4 预期 M5 iMac",
+          "specHighlights": [
+            "Apple M4 (8 核 CPU + 8 核 GPU + 16 核 NPU)",
+            "16GB 统一内存 · 512GB SSD 起步",
+            "24 寸 4.5K Retina 屏 · Nano-texture 可选",
+            "7 种糖果色"
+          ],
+          "vsOldGen": {
+            "name": "iMac M3 (2023)",
+            "asp": "¥10,499",
+            "keyGap": "Apple Intelligence + 内存起步 8 → 16GB · Nano-texture 屏幕选项"
+          },
+          "cadence": "24 月",
+          "jdAction": "创作者主打 · 教育优惠 ¥800 · 摄影师 & 设计师精准种草",
+          "source": "Apple 官方 · 京东 Apple 官方旗舰"
+        }
+      ]
+    },
+    {
+      "id": "aio",
+      "name": "AIO 一体机",
+      "note": "以商用/教育/政府信创为主，¥3,500-6,000 是主流价格带；国产化率强制拉动联想开天/清华同方/长城",
+      "products": [
+        {
+          "name": "联想启天 A650z 一体机",
+          "vendor": "联想",
+          "released": "2026-01",
+          "phase": "主流",
+          "priceAtLaunch": "¥4,999",
+          "currentPrice": "¥4,699",
+          "nextGen": "2027-Q1 预期",
+          "specHighlights": [
+            "国产 CPU (海光 / 兆芯 KX-7000) + 麒麟 OS + WPS",
+            "23.8 IPS 屏 (BOE 面板) · 内嵌摄像头",
+            "商用 3 年上门维保",
+            "支持信创国产化率 100% 采购"
+          ],
+          "vsOldGen": {
+            "name": "启天 A650 (2024)",
+            "asp": "¥4,199",
+            "keyGap": "国产 CPU 从 Intel → 海光 · 麒麟 OS 从可选 → 标配 · 面板国产化 BOE"
+          },
+          "cadence": "12-15 月",
+          "jdAction": "政企集采独家 · 招投标定制机型 · 3 年整机+软件+维保套餐",
+          "source": "联想官网 · 中国政府采购网"
+        },
+        {
+          "name": "清华同方 超越 E570",
+          "vendor": "清华同方",
+          "released": "2025-09",
+          "phase": "主流",
+          "priceAtLaunch": "¥5,499",
+          "currentPrice": "¥5,199",
+          "nextGen": "2026-Q4 预期",
+          "specHighlights": [
+            "鲲鹏 920 CPU + 麒麟 V10 SP1 + WPS",
+            "23.8 IPS · 华星光电面板",
+            "教育信息化定制版可选",
+            "党政 100% 国产化认证"
+          ],
+          "vsOldGen": {
+            "name": "超越 E560 (飞腾)",
+            "asp": "¥4,999",
+            "keyGap": "CPU 飞腾 → 鲲鹏 (性能 +25%) · SSD 长江存储致态标配"
+          },
+          "cadence": "18 月",
+          "jdAction": "教育 / 部委集采 · 3 年整机+教学软件+上门维保套餐",
+          "source": "清华同方官网 · 中国政府采购网"
+        },
+        {
+          "name": "华硕 A5 商用 AIO",
+          "vendor": "华硕",
+          "released": "2026-04",
+          "phase": "爬坡",
+          "priceAtLaunch": "¥4,999",
+          "currentPrice": "¥4,799",
+          "nextGen": "2027-Q2 预期",
+          "specHighlights": [
+            "Intel Core Ultra 5 235 (Copilot+ 认证)",
+            "16GB DDR5 · 512GB SSD",
+            "23.8 IPS 100% sRGB",
+            "商用 3 年质保"
+          ],
+          "vsOldGen": {
+            "name": "华硕 A4 (12 代 Intel)",
+            "asp": "¥4,199",
+            "keyGap": "AI PC 首次 · Copilot+ · 内存 8 → 16GB · 面板色域 72% → 100% sRGB"
+          },
+          "cadence": "18 月",
+          "jdAction": "民营中小企业办公 · 京东企业购白条分期 · AI 办公场景示范",
+          "source": "华硕官网 · 京东华硕旗舰"
+        },
+        {
+          "name": "Apple iMac M4 (作 AIO)",
+          "vendor": "Apple 苹果",
+          "released": "2024-11",
+          "phase": "主流",
+          "priceAtLaunch": "¥10,999",
+          "currentPrice": "¥10,499",
+          "nextGen": "2026-Q4 预期",
+          "specHighlights": [
+            "见台式机分类同名",
+            "创作者/教育场景常做 AIO 使用"
+          ],
+          "vsOldGen": {
+            "name": "iMac M3",
+            "asp": "¥10,499",
+            "keyGap": "同台式机分类"
+          },
+          "cadence": "24 月",
+          "jdAction": "同台式机分类，AIO 场景重点面向 高端设计工作室 & 高校实验室",
+          "source": "Apple 官方"
+        }
+      ]
+    },
+    {
+      "id": "gaming-desktop",
+      "name": "游戏台式机",
+      "note": "首发溢价窗口是核心节奏，¥8,000-25,000 覆盖不同预算段；显卡换代周期驱动整机换代",
+      "products": [
+        {
+          "name": "联想拯救者 刃 9000K 2026 (RTX 5080)",
+          "vendor": "联想",
+          "released": "2026-04",
+          "phase": "爬坡",
+          "priceAtLaunch": "¥15,999",
+          "currentPrice": "¥14,499",
+          "nextGen": "2027-Q1 预期 RTX 5080 Super 版",
+          "specHighlights": [
+            "Intel Core i9-14900K + RTX 5080 16GB",
+            "32GB DDR5-6400 · 2TB PCIe 5.0 SSD",
+            "360 一体水冷 · ARGB 中塔",
+            "4K 高刷游戏全开"
+          ],
+          "vsOldGen": {
+            "name": "刃 9000K 2025 (RTX 4080)",
+            "asp": "¥13,999",
+            "keyGap": "显卡 4080 → 5080 (性能 +35%) · SSD PCIe 4 → PCIe 5 · 内存 DDR5-5200 → 6400"
+          },
+          "cadence": "12 月",
+          "jdAction": "游戏首发 · 联想电竞馆合作首发独家 · 首发抢购 + 白条分期",
+          "source": "联想官网 · 京东联想拯救者旗舰"
+        },
+        {
+          "name": "ROG G22CH 电竞主机",
+          "vendor": "华硕 ROG",
+          "released": "2026-03",
+          "phase": "主流",
+          "priceAtLaunch": "¥12,999",
+          "currentPrice": "¥12,499",
+          "nextGen": "2027-Q1 预期",
+          "specHighlights": [
+            "Ryzen 7 9800X3D + RTX 5070 Ti",
+            "32GB DDR5-6400 · 1TB PCIe 4.0 SSD",
+            "紧凑 15L 机身 · ARGB",
+            "支持 VR 游戏"
+          ],
+          "vsOldGen": {
+            "name": "G22CH 2025 (RTX 4070)",
+            "asp": "¥11,999",
+            "keyGap": "CPU 换 X3D 缓存版 · 显卡 4070 → 5070 Ti · 帧率 +30-40%"
+          },
+          "cadence": "12 月",
+          "jdAction": "紧凑主机主打 · 电竞用户种草 · 首发游戏套装 (键鼠+耳机)",
+          "source": "华硕官网 · 京东华硕 ROG 旗舰"
+        },
+        {
+          "name": "微星 Aegis Ti5 旗舰主机",
+          "vendor": "微星 MSI",
+          "released": "2026-05",
+          "phase": "爬坡",
+          "priceAtLaunch": "¥24,999",
+          "currentPrice": "¥23,999",
+          "nextGen": "2027-H1 预期",
+          "specHighlights": [
+            "Core i9-14900KS + RTX 5090 24GB",
+            "64GB DDR5-6400 · 2TB + 4TB SSD 双盘",
+            "360 一体水冷 + 侧透玻璃 · 未来主义外观",
+            "4K 240Hz 或 8K 60Hz 输出"
+          ],
+          "vsOldGen": {
+            "name": "Aegis Ti5 2024 (RTX 4090)",
+            "asp": "¥22,999",
+            "keyGap": "GPU 4090 → 5090 (24GB VRAM · 性能 +25-30%) · 存储双盘 · 静音优化"
+          },
+          "cadence": "12-15 月",
+          "jdAction": "旗舰烧钱玩家 · 京东电竞节独家 · 主播代言开箱",
+          "source": "微星官网 · 京东微星旗舰"
+        },
+        {
+          "name": "DIY 5080 装机 (¥12-15k)",
+          "vendor": "DIY (华硕/技嘉/微星/影驰 组合)",
+          "released": "常年更新",
+          "phase": "主流",
+          "priceAtLaunch": "¥13,500",
+          "currentPrice": "¥14,000",
+          "nextGen": "季度更新配置单",
+          "specHighlights": [
+            "Ryzen 7 9800X3D 或 Core Ultra 7 265K · X870/Z890 主板",
+            "RTX 5080 16GB (华硕 ROG STRIX 或 微星 Suprim)",
+            "DDR5-6400 32GB · 2TB PCIe 5.0",
+            "360 水冷 · 全钢机箱 ARGB · 850W 金牌电源"
+          ],
+          "vsOldGen": {
+            "name": "5070 Ti 装机 2024",
+            "asp": "¥10,500",
+            "keyGap": "GPU 4070 Ti → 5080 · SSD PCIe 5 · 4K 高刷全开"
+          },
+          "cadence": "6-12 月",
+          "jdAction": "DIY 装机套装 · Chiphell/SMZDM 值友种草 · 京东零售显卡包销主推",
+          "source": "京东零售数据 · SMZDM · Chiphell"
+        }
+      ]
+    },
+    {
+      "id": "server",
+      "name": "服务器 (AI + 通用)",
+      "note": "AI 服务器仍是最高增速品类；通用 x86 服务器换机周期启动；国产化率强制下 昇腾/浪潮/超聚变 头部集中",
+      "products": [
+        {
+          "name": "NVIDIA DGX B200 (8× B200)",
+          "vendor": "NVIDIA",
+          "released": "2024-Q4",
+          "phase": "主流",
+          "priceAtLaunch": "$515,000",
+          "currentPrice": "$515,000",
+          "nextGen": "2026-Q4 DGX B300 (Blackwell Ultra)",
+          "specHighlights": [
+            "8× Blackwell B200 GPU · 1440GB HBM3e",
+            "72 PetaFLOPS FP8",
+            "NVLink 1.8TB/s 互联",
+            "液冷方案可选"
+          ],
+          "vsOldGen": {
+            "name": "DGX H100",
+            "asp": "$399,000",
+            "keyGap": "HBM 从 640GB → 1440GB · FP8 从 32 → 72 PFLOPS · NVLink 900GB/s → 1.8TB/s"
+          },
+          "cadence": "12-15 月",
+          "jdAction": "京东云 GPU 集采 · 头部 CSP 客户直销 · 液冷方案打包",
+          "source": "NVIDIA 官方 · SemiAnalysis 报告"
+        },
+        {
+          "name": "浪潮 NF5688 M7 AI 服务器",
+          "vendor": "浪潮信息",
+          "released": "2025-06",
+          "phase": "主流",
+          "priceAtLaunch": "¥1,200,000",
+          "currentPrice": "¥1,150,000",
+          "nextGen": "NF5688 M8 (B300) 2026-Q4 预期",
+          "specHighlights": [
+            "8× NVIDIA HGX H200 GPU · 1128GB HBM3e",
+            "双 Intel Xeon 6 (Granite Rapids)",
+            "1TB DDR5 + 61.44TB NVMe SSD",
+            "支持 400G InfiniBand"
+          ],
+          "vsOldGen": {
+            "name": "NF5688 M6 (HGX H100)",
+            "asp": "¥900,000",
+            "keyGap": "HBM 640 → 1128GB · CPU 从 SPR → GNR · 网络 200G → 400G"
+          },
+          "cadence": "12 月",
+          "jdAction": "云厂商集采主打 · 一体化液冷方案 · 三大运营商中标标配",
+          "source": "浪潮官网 · 中国政府采购网中标公告"
+        },
+        {
+          "name": "超聚变 FusionServer G8600 (昇腾 910C)",
+          "vendor": "超聚变",
+          "released": "2025-11",
+          "phase": "主流",
+          "priceAtLaunch": "¥800,000",
+          "currentPrice": "¥780,000",
+          "nextGen": "2027-Q1 昇腾 920 版预期",
+          "specHighlights": [
+            "8× 华为昇腾 910C · 512GB HBM2e",
+            "国产鲲鹏 920 CPU · 麒麟 OS",
+            "CANN + MindSpore 生态",
+            "国家智算中心 主流选型"
+          ],
+          "vsOldGen": {
+            "name": "G5680 (昇腾 910B)",
+            "asp": "¥650,000",
+            "keyGap": "昇腾 910B → 910C · 训练性能 +40% · HBM 384 → 512GB"
+          },
+          "cadence": "18 月",
+          "jdAction": "政企 / 智算中心 集采独家 · 京东云国产 AI 一体机方案",
+          "source": "华为昇腾社区 · 超聚变官网 · 中国政府采购网"
+        },
+        {
+          "name": "华为昇腾 Atlas 800 训练服务器",
+          "vendor": "华为",
+          "released": "2025-08",
+          "phase": "主流",
+          "priceAtLaunch": "¥850,000",
+          "currentPrice": "¥820,000",
+          "nextGen": "2026-H2 Atlas 900 集群预期",
+          "specHighlights": [
+            "8× 昇腾 910C · 集成液冷版本可选",
+            "支持 CANN 8.0 + MindSpore 2.5",
+            "训练算力 320 PFLOPS FP16",
+            "支持大模型 70B-200B 训练"
+          ],
+          "vsOldGen": {
+            "name": "Atlas 800 (910B)",
+            "asp": "¥720,000",
+            "keyGap": "昇腾 910B → 910C · 训练 +40% · 液冷方案首次纳入"
+          },
+          "cadence": "15 月",
+          "jdAction": "华为伙伴渠道 · 智算中心大项目独家 · 联合 京东云 商用",
+          "source": "华为昇腾社区 · 官方新闻稿"
+        }
+      ]
+    }
+  ]
+}

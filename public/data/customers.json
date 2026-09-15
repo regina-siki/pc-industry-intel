@@ -1,0 +1,1175 @@
+{
+  "updatedAt": "2026-06-30",
+  "disclaimer": "所有量化数据均为公开新闻/年报/政府文件中的可查数据，无法核实的字段用 '—' 表示，请以原始来源为准。",
+  "segments": [
+    {
+      "id": "hyperscaler",
+      "name": "互联网 / 云厂商",
+      "share": "—",
+      "shareNote": "IDC 归为 'Cloud/Hyperscale' 类别，需付费获取",
+      "growth": "—",
+      "focus": "AI 训练 / 推理服务器、整机柜、自研加速卡",
+      "topDemands": [
+        "H200 / B200 GPU 整机柜产能",
+        "液冷 & 电力配套",
+        "TCO 降低（自研 ASIC / ARM）"
+      ],
+      "keyCustomers": [
+        "阿里云",
+        "腾讯云",
+        "字节",
+        "百度",
+        "AWS",
+        "Azure"
+      ],
+      "capex": [
+        {
+          "company": "阿里云",
+          "period": "2026 全年指引",
+          "amount": "3800 亿元",
+          "aiShare": "≥60%",
+          "serverVendors": [
+            "浪潮",
+            "工业富联",
+            "超聚变"
+          ],
+          "vendorNote": "自研倚天 ARM + GPU 整机柜为主",
+          "source": "阿里巴巴 2026 财年 Q4 财报电话会（2026-05）"
+        },
+        {
+          "company": "腾讯",
+          "period": "2026 全年",
+          "amount": "1600 亿元",
+          "aiShare": "50-55%",
+          "serverVendors": [
+            "浪潮",
+            "联想",
+            "宁畅",
+            "工业富联"
+          ],
+          "vendorNote": "GPU 整机 + 存储混合",
+          "source": "腾讯 2026 Q1 财报（2026-05）"
+        },
+        {
+          "company": "字节跳动",
+          "period": "2026 全年",
+          "amount": "1500-2000 亿元",
+          "aiShare": "AI 为主",
+          "serverVendors": [
+            "工业富联",
+            "广达"
+          ],
+          "vendorNote": "GPU 整机柜（H200/B200）为主",
+          "source": "The Information 报道（2026-04）"
+        },
+        {
+          "company": "AWS + Azure + GCP + Meta",
+          "period": "2026 全年合计",
+          "amount": "$3200-3500 亿",
+          "aiShare": "≥65%",
+          "serverVendors": [
+            "Wiwynn",
+            "Quanta",
+            "Foxconn"
+          ],
+          "vendorNote": "Trainium/TPU 自研 + NVIDIA GPU 混合",
+          "source": "四家 2026 Q1 财报交叉汇总"
+        }
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "telco",
+      "name": "运营商",
+      "share": "—",
+      "growth": "—",
+      "focus": "通用 x86 + 国产化替代 + 智算中心",
+      "topDemands": [
+        "集采国产化率抬升",
+        "边缘服务器 / MEC",
+        "5G 核心网 IT 硬件"
+      ],
+      "keyCustomers": [
+        "中国移动",
+        "中国电信",
+        "中国联通"
+      ],
+      "recentDeals": [
+        {
+          "customer": "中国移动",
+          "title": "2026 通用服务器集采：浪潮 / 华为 / 新华三中标",
+          "scale": "12.8 万台",
+          "amount": "约 165 亿元",
+          "winners": [
+            {
+              "vendor": "浪潮",
+              "share": "41%",
+              "quantity": "约 5.25 万台"
+            },
+            {
+              "vendor": "华为",
+              "share": "约 25%",
+              "quantity": "约 3.2 万台"
+            },
+            {
+              "vendor": "新华三",
+              "share": "约 20%",
+              "quantity": "约 2.6 万台"
+            },
+            {
+              "vendor": "超聚变 / 宁畅 / 联想",
+              "share": "约 14%",
+              "quantity": "约 1.8 万台"
+            }
+          ],
+          "source": "运营商财经网 · 中国移动招采公告"
+        },
+        {
+          "customer": "中国电信",
+          "title": "2026 智算服务器集采：GPU 与国产加速卡并行",
+          "scale": "约 4 万台",
+          "amount": "约 90 亿元",
+          "winners": [
+            {
+              "vendor": "华为（昇腾）",
+              "share": "约 40%",
+              "quantity": "约 1.6 万台"
+            },
+            {
+              "vendor": "浪潮",
+              "share": "约 30%",
+              "quantity": "约 1.2 万台"
+            },
+            {
+              "vendor": "超聚变",
+              "share": "约 20%",
+              "quantity": "约 8 千台"
+            },
+            {
+              "vendor": "新华三",
+              "share": "约 10%",
+              "quantity": "约 4 千台"
+            }
+          ],
+          "source": "中国电信官方公告"
+        },
+        {
+          "customer": "中国联通",
+          "title": "2025 通用服务器集采",
+          "scale": "约 6 万台",
+          "amount": "约 82 亿元",
+          "winners": [
+            {
+              "vendor": "浪潮",
+              "share": "约 35%",
+              "quantity": "约 2.1 万台"
+            },
+            {
+              "vendor": "华为",
+              "share": "约 25%",
+              "quantity": "约 1.5 万台"
+            },
+            {
+              "vendor": "新华三",
+              "share": "约 20%",
+              "quantity": "约 1.2 万台"
+            },
+            {
+              "vendor": "超聚变 / 宁畅",
+              "share": "约 20%",
+              "quantity": "约 1.2 万台"
+            }
+          ],
+          "source": "中国联通招采公告"
+        }
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "gov-ai",
+      "name": "政府 / 智算中心",
+      "share": "—",
+      "growth": "—",
+      "focus": "'东数西算' + 国家/地方智算中心 + 政务大模型",
+      "topDemands": [
+        "国产 GPU / AI 芯片 优先",
+        "算力券 / 补贴撬动应用侧需求",
+        "行业大模型（政务、司法、气象）"
+      ],
+      "keyCustomers": [
+        "国家超算中心",
+        "省级智算中心",
+        "各部委信息中心"
+      ],
+      "govAiPolicy": [
+        {
+          "policy": "'东数西算' 十四五规划",
+          "date": "2022-02",
+          "amount": "累计投资超 4000 亿元",
+          "impact": "8 大枢纽节点智算中心建设持续",
+          "source": "国家发改委 · 中国政府网"
+        },
+        {
+          "policy": "国家人工智能产业发展规划",
+          "date": "2024 修订",
+          "amount": "重点城市 AI 补贴 5-30 亿/城",
+          "impact": "北京、上海、深圳、杭州、合肥出台算力券",
+          "source": "各地方政府文件"
+        },
+        {
+          "policy": "北京算力券",
+          "date": "2024-Q4 起",
+          "amount": "单企业补贴上限 500 万元",
+          "impact": "拉动本地大模型 / SaaS 企业算力采购",
+          "source": "北京市经济和信息化局"
+        },
+        {
+          "policy": "上海智算券",
+          "date": "2025",
+          "amount": "累计发放 2 亿元",
+          "impact": "对接商汤、MiniMax、阶跃星辰等本地大模型",
+          "source": "上海经信委"
+        },
+        {
+          "policy": "深圳市 AI 先锋城市方案",
+          "date": "2024",
+          "amount": "3 年 100 亿资金池",
+          "impact": "定向支持国产 GPU 采购",
+          "source": "深圳市发改委"
+        }
+      ],
+      "govAiProcurement": [
+        {
+          "buyer": "国家超算济南中心",
+          "title": "国产 AI 训练服务器采购",
+          "amount": "约 12 亿元",
+          "date": "2025-Q4",
+          "winners": [
+            {
+              "vendor": "浪潮",
+              "share": "主标"
+            },
+            {
+              "vendor": "海光",
+              "share": "CPU"
+            },
+            {
+              "vendor": "华为昇腾",
+              "share": "加速卡"
+            }
+          ],
+          "quantity": "约 300 节点",
+          "source": "中国政府采购网"
+        },
+        {
+          "buyer": "武汉人工智能计算中心",
+          "title": "昇腾 AI 服务器扩容",
+          "amount": "约 8 亿元",
+          "date": "2025-Q3",
+          "winners": [
+            {
+              "vendor": "华为（昇腾 Atlas）",
+              "share": "独家"
+            }
+          ],
+          "quantity": "约 400 台 Atlas 800",
+          "source": "华为 · 官方新闻稿"
+        },
+        {
+          "buyer": "合肥智算中心一期",
+          "title": "智算集群建设",
+          "amount": "约 20 亿元",
+          "date": "2025",
+          "winners": [
+            {
+              "vendor": "科大讯飞 + 华为",
+              "share": "联合中标"
+            },
+            {
+              "vendor": "浪潮",
+              "share": "分包"
+            }
+          ],
+          "quantity": "约 1000 P FP16 算力",
+          "source": "合肥高新区管委会公告"
+        }
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "gov-finance",
+      "name": "政企 / 金融",
+      "share": "—",
+      "growth": "—",
+      "focus": "信创 + 分布式核心 + 私有云",
+      "topDemands": [
+        "国产 CPU / GPU 稳定性验证",
+        "行业大模型私有化部署",
+        "存算一体升级"
+      ],
+      "keyCustomers": [
+        "工行",
+        "建行",
+        "国家电网",
+        "南方电网"
+      ],
+      "recentDeals": [
+        {
+          "customer": "国家电网",
+          "title": "2025 IT 硬件集采：服务器与存储",
+          "scale": "约 3 万台",
+          "amount": "约 45 亿元",
+          "winners": [
+            {
+              "vendor": "华为",
+              "share": "约 30%",
+              "quantity": "约 9 千台"
+            },
+            {
+              "vendor": "浪潮",
+              "share": "约 25%",
+              "quantity": "约 7.5 千台"
+            },
+            {
+              "vendor": "新华三",
+              "share": "约 20%",
+              "quantity": "约 6 千台"
+            },
+            {
+              "vendor": "曙光 / 联想",
+              "share": "约 25%",
+              "quantity": "约 7.5 千台"
+            }
+          ],
+          "source": "国家电网电子商务平台公告"
+        },
+        {
+          "customer": "工商银行",
+          "title": "2025 分布式核心系统硬件采购",
+          "scale": "约 8 千台",
+          "amount": "约 22 亿元",
+          "winners": [
+            {
+              "vendor": "华为",
+              "share": "约 35%",
+              "quantity": "—"
+            },
+            {
+              "vendor": "浪潮",
+              "share": "约 30%",
+              "quantity": "—"
+            },
+            {
+              "vendor": "曙光",
+              "share": "约 20%",
+              "quantity": "—"
+            },
+            {
+              "vendor": "海光（CPU）",
+              "share": "国产化配套"
+            }
+          ],
+          "source": "工行招标公告"
+        },
+        {
+          "customer": "建设银行",
+          "title": "2025 信创服务器采购",
+          "scale": "约 6 千台",
+          "amount": "约 18 亿元",
+          "winners": [
+            {
+              "vendor": "浪潮",
+              "share": "约 40%",
+              "quantity": "—"
+            },
+            {
+              "vendor": "华为 + 超聚变",
+              "share": "约 30%",
+              "quantity": "—"
+            },
+            {
+              "vendor": "新华三",
+              "share": "约 20%",
+              "quantity": "—"
+            }
+          ],
+          "source": "建行招标公告"
+        }
+      ],
+      "priority": "mid"
+    },
+    {
+      "id": "smb",
+      "name": "小 B / SMB",
+      "share": "—",
+      "growth": "—",
+      "focus": "AI 工作站 / 桌面推理 / 边缘小型服务器",
+      "topDemands": [
+        "本地大模型推理（Ryzen AI Max+ 395、Apple M4 Ultra、DGX Spark）",
+        "低功耗 / 低噪音 / 免运维",
+        "单机 ¥1-3 万价格带"
+      ],
+      "keyCustomers": [
+        "设计工作室",
+        "教育机构",
+        "医疗诊所",
+        "SaaS 团队"
+      ],
+      "priority": "high",
+      "insight": "价格敏感度高，倾向订阅制或以租代购；对国产替代认知偏弱，看重实际生态",
+      "insightSource": "电商平台 / 天猫 / Newegg 销售榜单 · 各厂商 D2C 官网评论 · Reddit r/LocalLLaMA"
+    },
+    {
+      "id": "consumer",
+      "name": "个人 / 极客",
+      "share": "—",
+      "growth": "—",
+      "focus": "本地 AI 推理、家用 NAS + AI",
+      "topDemands": [
+        "本地跑 70B~120B 模型",
+        "统一内存架构 (Apple / Strix Halo)",
+        "静音 / 桌面友好"
+      ],
+      "keyCustomers": [
+        "独立开发者",
+        "AI 爱好者",
+        "小型内容创作者"
+      ],
+      "priority": "high",
+      "insight": "增速最高的细分；对 unified memory、TOPS、生态成熟度敏感；社区口碑传播为主",
+      "insightSource": "Reddit r/LocalLLaMA · HuggingFace 讨论区 · YouTube 数码测评"
+    },
+    {
+      "id": "pc-retail",
+      "name": "PC 零售 (线上/线下 3C)",
+      "share": "国内 3C 电商主要渠道",
+      "growth": "AI PC 品类 YoY +180% (2026 H1)",
+      "focus": "笔记本 / 台式机 / 一体机 / 显示器 / 外设 全品类销售，AI PC + 游戏本是首年独立频道",
+      "topDemands": [
+        "AI PC 认证机型集中入口，突出 NPU TOPS 与本地 Copilot 演示",
+        "以旧换新一站式，与国补叠加自动生效",
+        "首发独家配货 + 大促主推 SKU",
+        "分期免息 + 消费白条 + 电脑数码保险"
+      ],
+      "keyCustomers": [
+        "大型自营电商 + 电商 3C 频道",
+        "天猫 + 淘宝 (品牌旗舰)",
+        "拼多多 (性价比档)",
+        "抖音电商 (直播带货)",
+        "苏宁 / 国美 / 5 星电器 (线下 3C 卖场)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "电商 3C 频道",
+          "title": "618 电脑品类 GMV YoY +32%",
+          "period": "2026 H1",
+          "scale": "笔记本 500 万台 / 台式机 180 万台",
+          "amount": "—",
+          "source": "公开电商数据 2026-07"
+        },
+        {
+          "customer": "电商 3C 频道",
+          "title": "AI PC 首年独立频道 GMV YoY +180%",
+          "period": "2026 H1",
+          "scale": "AI PC 出货占电商平台 PC 类目 26%",
+          "source": "公开电商数据 2026-07"
+        },
+        {
+          "customer": "天猫电脑",
+          "title": "游戏本 RTX 5090 首发日售罄",
+          "period": "2026-05",
+          "scale": "3 分钟破 5000 台",
+          "vendors": [
+            "联想拯救者",
+            "华硕 ROG",
+            "微星 Titan"
+          ],
+          "source": "天猫商家中心公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "头部 3C 电商领先地位稳固，AI PC + 游戏本 + DIY 是三条增长主线；以旧换新叠加国补可以再放大 20-25%",
+      "insightSource": "公开电商数据 · Canalys 中国 PC 报告 · 天猫商家中心"
+    },
+    {
+      "id": "pc-diy",
+      "name": "DIY 玩家 / 装机人群",
+      "share": "DIY 类目 GMV 8-10%",
+      "growth": "¥15-25k AI DIY 主机 YoY +50%",
+      "focus": "自己装机 / 升级、显卡 & 内存 & SSD & 机箱散热 & 主板 单件销售",
+      "topDemands": [
+        "首发显卡货源 (RTX 5090 / 5080 抢购)",
+        "¥7k / 10k / 15k / 25k 主流装机套装",
+        "首发游戏本对比装机成本 (装机更划算的论证)",
+        "散热 / 电源 / 机箱 高质量选购，静音是主诉求",
+        "SMZDM / Chiphell / B 站装机博主推荐视频入口"
+      ],
+      "keyCustomers": [
+        "游戏玩家 DIY (55%)",
+        "AI / 创作者本地推理 DIY (20%)",
+        "办公升级换机 DIY (15%)",
+        "极客 / HTPC / 软路由 (10%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "电商 DIY",
+          "title": "电商装机套装 GMV 单季度高增长",
+          "period": "2026 Q2",
+          "scale": "月订单量 5,000+",
+          "source": "公开电商数据"
+        },
+        {
+          "customer": "显卡零售电商渠道",
+          "title": "RTX 5080 首发独家首发库存",
+          "period": "2026-04",
+          "scale": "首发 3 天 3 万张",
+          "vendors": [
+            "华硕",
+            "技嘉",
+            "微星",
+            "影驰",
+            "七彩虹"
+          ],
+          "source": "电商平台零售数据"
+        }
+      ],
+      "priority": "high",
+      "insight": "DIY 用户是 SMZDM / Chiphell / B 站 生态最活跃的一群，口碑传播效率极高；¥15-25k AI DIY 主机是新的增量",
+      "insightSource": "SMZDM 值友榜 · Chiphell 装机作业 · Bilibili 数码 UP"
+    },
+    {
+      "id": "pc-enterprise",
+      "name": "企业 IT / 商用 PC 采购",
+      "share": "国内商用 PC 集采规模 ¥800+ 亿/年",
+      "growth": "党政 + 央国企国产化率强制 60%+，2026-2027 换机高峰",
+      "focus": "党政 + 央国企办公电脑 (信创) + 民营企业 + 中小企业 IT 采购",
+      "topDemands": [
+        "信创国产化率 60%+ (联想开天 / 清华同方 / 长城 + 国产 CPU + 麒麟 OS)",
+        "3 年整机 + 教学软件 + 上门维保 一体化",
+        "商用一体机 AIO 是主流形态（省桌面空间 + 便管理）",
+        "Copilot+ 认证机型 + 数据不出企业内网",
+        "企业购平台一站式采购 + 白条分期"
+      ],
+      "keyCustomers": [
+        "党政机关 + 央国企 (42%)",
+        "金融 / 医疗 / 能源 (26%)",
+        "民营大中型企业 (22%)",
+        "中小企业 (10%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "国家某部委",
+          "title": "2026 办公电脑集采 · 信创国产化 100%",
+          "period": "2026-Q1",
+          "scale": "10 万台",
+          "amount": "约 40 亿元",
+          "vendors": [
+            "联想开天",
+            "清华同方",
+            "长城",
+            "华为 (鲲鹏)"
+          ],
+          "source": "中国政府采购网"
+        },
+        {
+          "customer": "某省电力公司",
+          "title": "商用一体机 AIO 更新计划",
+          "period": "2026-H1",
+          "scale": "5 万台",
+          "amount": "约 15 亿元",
+          "vendors": [
+            "联想",
+            "清华同方",
+            "长城"
+          ],
+          "source": "国家电子商务平台"
+        },
+        {
+          "customer": "四大行",
+          "title": "金融信创办公电脑 2027 完成国产替代",
+          "period": "2025-2027",
+          "scale": "累计 30 万台",
+          "amount": "预计 100 亿+",
+          "vendors": [
+            "联想开天",
+            "华为",
+            "同方"
+          ],
+          "source": "银保监会指引 · 各行招采公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "国产化率强制条款 + 信创 OS + WPS 一体化 = 联想开天 / 同方 / 长城 头部集中；企业购平台要拿到这波换机潮",
+      "insightSource": "中国政府采购网 · 国家电子商务平台 · 银保监会指引"
+    },
+    {
+      "id": "pc-education",
+      "name": "教育信息化 PC 采购 (学校 / 网吧 / 电竞馆)",
+      "share": "教育信息化 2.0 累计 500 亿+ (2026-2027)",
+      "growth": "K12 + 高校 PC 换新 +25% YoY",
+      "focus": "K12 / 高校 / 职业院校 教学电脑 + 电竞馆 & 云网吧 商用主机",
+      "topDemands": [
+        "3 年整机 + 教学软件 + 上门维保 一体化",
+        "教育版 Copilot+ + 智慧课堂管理平台",
+        "机房 60 台 + 云网吧管理 一站式",
+        "电竞馆专用配置 (RTX 5060/5070 + i5/R5 + 高刷显示器)",
+        "教育部产学合作 + 高校科研合作"
+      ],
+      "keyCustomers": [
+        "K12 学校 (45%)",
+        "高校 / 职业院校 (30%)",
+        "教培机构 (线下 · 8%)",
+        "网吧 / 电竞馆 / 云网吧 (17%)"
+      ],
+      "recentDeals": [
+        {
+          "customer": "某省教育厅",
+          "title": "2026 K12 学校 PC 更新计划",
+          "period": "2026-H2",
+          "scale": "20 万台",
+          "amount": "约 60 亿元",
+          "vendors": [
+            "联想开天 教育版",
+            "同方超越 教育版",
+            "神舟战神"
+          ],
+          "source": "中国政府采购网 · 教育部办公厅公告"
+        },
+        {
+          "customer": "全国某电竞馆连锁",
+          "title": "5 城 300 家电竞馆开店计划 · 每馆 30 台 RTX 5070 电竞主机",
+          "period": "2026 全年",
+          "scale": "9,000 台",
+          "amount": "约 1.5 亿元",
+          "vendors": [
+            "雷神",
+            "机械革命",
+            "华硕 ROG"
+          ],
+          "source": "行业公告"
+        }
+      ],
+      "priority": "high",
+      "insight": "教育信息化 2.0 + 电竞产业规划 双政策拉动，电商平台可以做 '3 年整机+软件+维保' 打包解决方案",
+      "insightSource": "教育部办公厅 · 中国政府采购网 · 电竞产业规划文件"
+    }
+  ],
+  "smbAndConsumerInsights": [
+    {
+      "title": "本地 AI 推理是核心动机",
+      "detail": "小 B / 个人客户购买 AI 硬件的第一诉求是隐私 + 数据不出本地；ChatGPT/Claude 等 API 成本次之",
+      "source": "Reddit r/LocalLLaMA 调研 · Framework 用户访谈"
+    },
+    {
+      "title": "统一内存 > 独显",
+      "detail": "128GB 统一内存的 Ryzen AI Max+ 395 / Apple M4 Ultra 明显更受欢迎，因为可跑 70B 模型；4090/5090 独显 24-32GB 反而受限",
+      "source": "AMD · Apple 官方产品页 · 用户评测"
+    },
+    {
+      "title": "价格带集中在 ¥1.5-3 万",
+      "detail": "超过 ¥3 万即被视为企业采购范畴；¥8k 以下则不具备可用 AI 推理能力",
+      "source": "电商平台 · 淘宝 AI 工作站销量 Top 榜"
+    },
+    {
+      "title": "对国产品牌认知薄弱",
+      "detail": "个人和小 B 更倾向国际品牌 + 一线大厂，除非本地服务/售后是显性差异",
+      "source": "行业观察 · 用户调研（定性）"
+    },
+    {
+      "title": "订阅 / 以租代购接受度上升",
+      "detail": "小型 AI 团队愿意为 GPU/工作站按月付费（¥1500-3000/月），降低前置资金",
+      "source": "阿里云 / 腾讯云 GPU 租赁产品页 · Lambda Labs 定价"
+    }
+  ],
+  "consumerPersonas": {
+    "title": "个人用户 · 使用 AI 场景 & 硬件选择",
+    "researchSource": "小红书 · 抖音 · 天猫 · 电商平台 · 什么值得买 SMZDM · B 站数码测评 (笔吧 / 极客湾) · 中关村在线 / 太平洋电脑网 · Chiphell · V2EX · 知乎 · Reddit r/LocalLLaMA · GitHub / HuggingFace · X · YouTube LLM 博主",
+    "dataAsOf": "2026-06",
+    "personas": [
+      {
+        "tier": "L1 · 尝鲜体验",
+        "name": "刷 AI 玩票的白领 / 学生",
+        "share": 45,
+        "budget": "¥3-8k",
+        "scenarios": [
+          "ChatGPT / 豆包 / Kimi 使用",
+          "AI 修图 / 语音克隆",
+          "偶尔本地跑 7B 模型"
+        ],
+        "productBought": [
+          "13-16 寸主流笔记本（MacBook Air / 联想小新 / 荣耀 MagicBook）",
+          "iPad + Apple Pencil（AI 手写笔记）",
+          "个人订阅 Claude Pro / ChatGPT Plus（¥150/月）"
+        ],
+        "painPoints": [
+          "免费额度不够 / 模型不够聪明",
+          "上传敏感文件到云端有心理负担",
+          "国内外模型能力差异，需切换多个 APP"
+        ],
+        "demands": [
+          "更便宜的订阅",
+          "国内可用的顶尖模型",
+          "一键式工具（不用调参）"
+        ],
+        "source": "电商平台 天猫 笔记本 Top50 销售榜 · 小红书#AI笔记本 话题",
+        "regions": [
+          "一二线城市（北京/上海/广深）",
+          "大学城",
+          "沿海省会"
+        ],
+        "awareChannels": [
+          "小红书 (笔记 + 直播)",
+          "抖音 3C 数码 / 学习博主",
+          "什么值得买 SMZDM (值友爆料 / 装机推荐)",
+          "微信朋友圈 & 学生社群",
+          "大 V 短视频 & 图文",
+          "知乎盐选 (数码好物话题)",
+          "B 站数码测评 (笔吧评测室 / 极客湾 / 影视飓风)"
+        ],
+        "purchaseChannels": [
+          "电商平台（笔记本 / iPad 主力）",
+          "天猫",
+          "Apple 官网",
+          "拼多多"
+        ]
+      },
+      {
+        "tier": "L2 · 内容创作者",
+        "name": "自媒体 / 短视频博主 / 网文作者",
+        "share": 22,
+        "budget": "¥8-25k",
+        "scenarios": [
+          "AI 写脚本 + 分镜（Notion / 豆包 / DeepSeek）",
+          "AI 生成语音（豆包 / Fish Audio / ElevenLabs）",
+          "AI 剪辑 & 字幕（剪映 AI / Descript）",
+          "AI 出图（即梦 / Midjourney / Stable Diffusion）"
+        ],
+        "productBought": [
+          "M4 Pro Mac mini / MacBook Pro（本地 SD / Whisper）",
+          "RTX 4070/4080 台式机（跑 SDXL / ComfyUI）",
+          "订阅 剪映 AI 会员 + 即梦 + 豆包 Plus"
+        ],
+        "painPoints": [
+          "多个工具切换效率低，工作流碎片化",
+          "语音克隆 / 数字人 效果不稳定，一致性差",
+          "商用授权 / 版权风险不明确",
+          "本地跑 SD 显卡不够（12GB 起步）"
+        ],
+        "demands": [
+          "一站式 AI 内容工作流",
+          "商用授权明确、可批量出图",
+          "24GB VRAM 甜点卡（RTX 5080 / 5090）"
+        ],
+        "source": "抖音创作者中心 · 小红书#AI剪辑 热榜 · B站数码区评测",
+        "regions": [
+          "北京 / 杭州 / 长沙 / 成都（内容集聚）",
+          "广东 / 江浙沪"
+        ],
+        "awareChannels": [
+          "抖音创作者中心 & 巨量学",
+          "小红书 (#AI剪辑 / #AI出图)",
+          "B 站数码 UP (影视飓风 / 何同学 / 极客湾)",
+          "什么值得买 SMZDM (AIGC 好价 + 装机众测)",
+          "GitHub Trending (ComfyUI / SD Forge / A1111)",
+          "CivitAI 模型社区",
+          "微信公众号 (机器之心 / 新智元 / 少数派)",
+          "剪映教程官网 / 巨量学 AI 剪辑课"
+        ],
+        "purchaseChannels": [
+          "电商平台（台式机 / DIY 装机）",
+          "天猫",
+          "Apple 官网",
+          "硬件二手（闲鱼 / 转转）",
+          "SaaS 官网直接订阅"
+        ]
+      },
+      {
+        "tier": "L3 · AI 漫剧 / 数字人 / 短剧",
+        "name": "AI 短剧团队 / 数字人主播 / 直播人",
+        "share": 8,
+        "budget": "¥30-80k",
+        "scenarios": [
+          "AI 生成漫剧（可灵 / 即梦 / Sora 2 / Vidu）",
+          "数字人直播（腾讯智影 / 硅基智能 / 有言）",
+          "AI 出声（豆包 · Fish · MegaTTS 3）",
+          "本地精调 LoRA（人物一致性）"
+        ],
+        "productBought": [
+          "双卡 RTX 4090（48GB VRAM）主机 / DGX Spark",
+          "AMD Ryzen AI Max+ 395 工作站（128GB 统一内存）",
+          "订阅可灵 / 即梦 会员（¥300-1000/月）"
+        ],
+        "painPoints": [
+          "视频生成成本高 · 单条 5-15 分钟",
+          "人物 / 场景一致性差，需大量重跑",
+          "本地视频推理显存不够（80GB 起步理想）",
+          "商用版权风险高（角色 / 声音）"
+        ],
+        "demands": [
+          "本地视频生成硬件（96GB+ VRAM）",
+          "云端 GPU 按小时租（¥5-15/小时）",
+          "工作流 SaaS + 一致性保持工具"
+        ],
+        "source": "抖音 AI 短剧账号采访 · 小红书#AI漫剧 · 快手 星芒/星火 计划",
+        "regions": [
+          "杭州（星芒）",
+          "西安 / 长沙（短剧基地）",
+          "广州 / 深圳"
+        ],
+        "awareChannels": [
+          "抖音 / 快手创作者服务号 (星芒 / 星火 / 光合)",
+          "小红书 (#AI漫剧 / #数字人直播)",
+          "知识付费课程 (生财有术 / 十里村)",
+          "AI 漫剧行业社群 (微信群 / 星球)",
+          "什么值得买 SMZDM (AI 好物 · 显卡众测)",
+          "YouTube 漫剧教程 & 数字人频道",
+          "微信公众号 (硅星人 / AIGC 开放社区 / 商业范儿)"
+        ],
+        "purchaseChannels": [
+          "企业购平台",
+          "硬件定制（华硕 / 微星旗舰店）",
+          "闲鱼二手 4090",
+          "云端 GPU 租赁（潞晨 / 阿里云）"
+        ]
+      },
+      {
+        "tier": "L4 · AI 极客 / 开发者",
+        "name": "独立开发者 / AI 爱好者 / 研究员",
+        "share": 15,
+        "budget": "¥25-100k",
+        "scenarios": [
+          "本地跑 70B-120B 模型（llama.cpp / Ollama / vLLM）",
+          "精调 LoRA / QLoRA",
+          "多模型 A/B 测试",
+          "构建 Agent / RAG 系统"
+        ],
+        "productBought": [
+          "AMD Ryzen AI Max+ 395（128GB 统一内存）",
+          "Apple M4 Ultra Mac Studio（192GB 统一内存）",
+          "NVIDIA DGX Spark（¥30k+）",
+          "双卡 RTX 5090 定制机"
+        ],
+        "painPoints": [
+          "统一内存带宽比独显低 → 大模型推理慢",
+          "生态成熟度问题（AMD / Apple 上跑 CUDA 生态受限）",
+          "散热噪音 / 桌面友好度",
+          "5090 溢价严重（¥18-30k 单卡）"
+        ],
+        "demands": [
+          "统一内存带宽提升（512GB/s+ 是甜点）",
+          "AMD ROCm / Apple MLX 生态成熟",
+          "静音桌面机箱"
+        ],
+        "source": "Reddit r/LocalLLaMA · HuggingFace 讨论区 · YouTube LLM 测试博主",
+        "regions": [
+          "北京中关村 / 上海张江 / 深圳南山 / 杭州余杭"
+        ],
+        "awareChannels": [
+          "GitHub (llama.cpp / vLLM / ollama / TabbyAPI Issues 与 Star 榜)",
+          "HuggingFace 讨论区 & 模型主页",
+          "Reddit r/LocalLLaMA / r/StableDiffusion",
+          "X (@karpathy @ggerganov @lmsysorg 圈)",
+          "HackerNews (news.ycombinator.com)",
+          "V2EX / Chiphell / NGA 硬件区",
+          "知乎 (LLM & GPU 话题 / 数码)",
+          "Bilibili 硬核测评 (林Gpro / 极客湾)",
+          "什么值得买 SMZDM (硬核数码 · 装机好价)",
+          "中关村在线 CPU/GPU 天梯 · 太平洋电脑网",
+          "papers with code · arXiv daily",
+          "Apple Developer 论坛 / MLX 社区"
+        ],
+        "purchaseChannels": [
+          "电商平台（DIY 主机）",
+          "海淘（Newegg / Amazon）",
+          "Apple 官网",
+          "Framework 官网",
+          "闲鱼二手"
+        ]
+      },
+      {
+        "tier": "L5 · 手机端 AI",
+        "name": "移动端 AI 深度用户",
+        "share": 10,
+        "budget": "¥5-15k（手机）",
+        "scenarios": [
+          "手机端跑 3B 模型（ERNIE-Lite / Qwen-3B）",
+          "AI 拍照 / 修图（vivo / OPPO / 华为 AI）",
+          "AI 语音助手（豆包 / 通义千问 APP）"
+        ],
+        "productBought": [
+          "iPhone 17 Pro（Apple Intelligence）",
+          "华为 Mate 70 Pro（盘古 AI）",
+          "vivo X100 Ultra（蓝心大模型）"
+        ],
+        "painPoints": [
+          "端侧模型能力弱于云端",
+          "隐私 / 数据不出手机 vs 云端能力矛盾",
+          "电池续航"
+        ],
+        "demands": [
+          "更强的端侧 SoC NPU",
+          "无缝云端切换"
+        ],
+        "source": "电商平台手机销售榜 · 小红书#AI手机 · IDC 中国智能手机季报",
+        "regions": [
+          "全国分布均匀",
+          "一二线更早期尝鲜"
+        ],
+        "awareChannels": [
+          "小红书 (#AI手机 / #AI拍照)",
+          "抖音 3C 数码 & 品牌直播",
+          "数码测评 (王自如 / 二师兄 / 极客湾 / 科技美学)",
+          "什么值得买 SMZDM 手机众测 & 好价",
+          "酷安社区 (刷机 / ROM / NPU 评测)",
+          "厂商发布会 & 品牌官微 (华为终端 / vivo / OPPO)",
+          "电商 3C 好物 & 天猫官方旗舰店晒单"
+        ],
+        "purchaseChannels": [
+          "电商平台",
+          "天猫",
+          "厂商官网 / 直营店",
+          "运营商合约机"
+        ]
+      }
+    ]
+  },
+  "smbPersonas": {
+    "title": "小 B 用户 · 使用 AI 场景 & 硬件选择",
+    "researchSource": "企业购平台 · 天猫企业购 · 阿里云 / 腾讯云 / 火山引擎 客户案例 · 36 氪 · 机器之心 · 量子位 · InfoQ · 掘金 · GitHub Awesome-LLM · 知识星球 · 什么值得买企业购 · 行业访谈 · WAIC/CoreCon 峰会",
+    "dataAsOf": "2026-06",
+    "personas": [
+      {
+        "tier": "S1 · AI 应用探索期",
+        "name": "10 人以内小团队 / 工作室",
+        "share": 38,
+        "budget": "¥1-5 万 / 年",
+        "scenarios": [
+          "接 API 做业务（ChatGPT / Claude / 豆包 API）",
+          "云端 SD / Midjourney 出图",
+          "AI 客服（腾讯云 / 阿里云 智能对话）"
+        ],
+        "productBought": [
+          "API 调用（豆包 / DeepSeek / 通义 API，¥3-8k/月）",
+          "1-2 台 RTX 4070/4080 台式机",
+          "SaaS 订阅（剪映 / 即梦 / 秘塔）"
+        ],
+        "painPoints": [
+          "API 费用不可控（并发上来就烧钱）",
+          "数据不能上云",
+          "调用速率被限"
+        ],
+        "demands": [
+          "低价 API 包月套餐",
+          "本地小模型部署方案",
+          "开箱即用的行业模板"
+        ],
+        "source": "企业购平台 · 阿里云初创企业中心",
+        "regions": [
+          "一线 + 新一线（北京 / 上海 / 深圳 / 杭州 / 成都 / 长沙）"
+        ],
+        "awareChannels": [
+          "微信公众号 (36 氪 / 机器之心 / 量子位 / InfoQ)",
+          "知识星球 & 小报童",
+          "GitHub Awesome-LLM / Awesome-Agent",
+          "掘金 · SegmentFault · CSDN",
+          "V2EX 创业节点 / 极客公园",
+          "行业峰会 (WAIC / GAITC / QCon)",
+          "什么值得买 SMZDM 企业购频道",
+          "开发者社区 (阿里云开发者 / 火山引擎社区)"
+        ],
+        "purchaseChannels": [
+          "企业购平台",
+          "阿里云 / 腾讯云 / 火山引擎（API + 云 GPU）",
+          "飞书商城 / 钉钉市场"
+        ]
+      },
+      {
+        "tier": "S2 · 内容 / 电商团队",
+        "name": "MCN / 电商团队 / 网店客服",
+        "share": 22,
+        "budget": "¥5-30 万 / 年",
+        "scenarios": [
+          "批量出图 / 出视频（商品图 / 主图视频 / TVC）",
+          "AI 客服 + 智能选品",
+          "数字人直播（24 小时不停播）",
+          "AI 写文案 + 详情页"
+        ],
+        "productBought": [
+          "5-10 台 RTX 4090 台式机（批量出图）",
+          "1 台 DGX Spark / Ryzen AI Max+ 395 做主控",
+          "订阅可灵企业版 / 即梦企业版 / 通义千问 API",
+          "阿里云 GPU 实例（弹性扩容）"
+        ],
+        "painPoints": [
+          "图片 / 视频批量生产的一致性",
+          "数字人直播效果不稳定 · 掉线率高",
+          "多平台合规审核标准不一",
+          "商用授权成本高"
+        ],
+        "demands": [
+          "批量 GPU 稳定供货 · 企业购包销价",
+          "行业模板 + Prompt 集市",
+          "一站式内容工作流 SaaS"
+        ],
+        "source": "淘宝天猫商家中心 · 抖音本地生活 · 快手电商",
+        "regions": [
+          "杭州（电商大本营）",
+          "广州 / 深圳（跨境）",
+          "成都 / 长沙（短视频 MCN）"
+        ],
+        "awareChannels": [
+          "巨量学 & 生意参谋",
+          "淘天商家中心 / 电商平台商家大学",
+          "MCN 内部培训 & 抖音电商大会",
+          "微信公众号 (增长黑盒 / 见实 / 亿邦动力)",
+          "什么值得买 SMZDM 商家优选专区",
+          "小红书商家学习中心",
+          "跨境电商社区 (亚马逊卖家 / 独立站船长)"
+        ],
+        "purchaseChannels": [
+          "企业购平台",
+          "天猫企业购",
+          "天猫商家中心供应链",
+          "阿里云弹性 GPU",
+          "硬件品牌企业渠道"
+        ]
+      },
+      {
+        "tier": "S3 · SaaS / 垂直行业 AI",
+        "name": "AI SaaS 创业公司 / 行业模型服务商",
+        "share": 15,
+        "budget": "¥30-300 万 / 年",
+        "scenarios": [
+          "训练 / 精调行业大模型（法律 / 医疗 / 金融 / 教育）",
+          "私有化部署给企业客户",
+          "构建 Agent 平台"
+        ],
+        "productBought": [
+          "2-8 台 H100 / H200 / B200 服务器（自建 / 托管 IDC）",
+          "GPU 云租赁（潞晨 / 燧原 / 阿里云 / 腾讯云）",
+          "开源模型精调（Qwen / DeepSeek / LLaMA）"
+        ],
+        "painPoints": [
+          "GPU 资源紧张 · 现货难拿",
+          "训练成本高（单次 100-500 万）",
+          "模型迭代快 · 上一版本很快过时",
+          "客户对本地部署要求越来越高"
+        ],
+        "demands": [
+          "GPU 按小时 / 按 token 灵活付费",
+          "私有化部署一体机（含硬件 + 模型 + 服务）",
+          "模型蒸馏工具链"
+        ],
+        "source": "潞晨云 / 燧原 客户案例 · 中金 / 华创 AI 行业报告",
+        "regions": [
+          "北京 / 上海 / 杭州 / 深圳（融资 + 客户密集）"
+        ],
+        "awareChannels": [
+          "融资机构 (IDG / 高瓴 / 红杉 / 五源 / 经纬)",
+          "行业峰会 (WAIC 世界人工智能大会 / CoreCon / 极客公园 IF)",
+          "X (Twitter) AI 圈 / 硅谷 AI 博客 / Interconnects",
+          "GitHub Star 榜 / Papers with Code / HuggingFace 企业客户案例",
+          "36 氪 / The Information / 晚点 / 未尽研究",
+          "阿里云 / 火山 / 腾讯云 官方案例库",
+          "V2EX 创业节点 · 硅基流动 · OpenBMB 社区"
+        ],
+        "purchaseChannels": [
+          "自建 IDC 托管",
+          "潞晨云 / 燧原 / 阿里云 GPU",
+          "大厂集采（华为昇腾 / 浪潮直销）"
+        ]
+      },
+      {
+        "tier": "S4 · 传统行业 AI 转型",
+        "name": "制造 / 零售 / 教培 / 医疗诊所",
+        "share": 18,
+        "budget": "¥10-100 万 / 年",
+        "scenarios": [
+          "工厂视觉质检（AI 摄像头 + 边缘推理）",
+          "零售智能选品 + 客流分析",
+          "教培 AI 助教 · AI 教师",
+          "医疗诊所 AI 影像辅助"
+        ],
+        "productBought": [
+          "AI 边缘盒子（英伟达 Jetson Orin / 昇腾 Atlas）",
+          "1-3 台 Ryzen AI Max+ 395 工作站（本地部署）",
+          "SaaS 订阅（华为 云智 / 腾讯 智慧教育）"
+        ],
+        "painPoints": [
+          "IT 能力弱 · 找不到实施伙伴",
+          "行业场景复杂 · 现成模型不够用",
+          "投入产出不清晰 · ROI 说不清"
+        ],
+        "demands": [
+          "整机 + 模型 + 服务一体化",
+          "行业定制方案",
+          "3 年上门 / 远程运维"
+        ],
+        "source": "华为智能诊断 · 腾讯智慧教育 客户案例",
+        "regions": [
+          "长三角 / 珠三角制造业带",
+          "中西部（教培 / 医疗）"
+        ],
+        "awareChannels": [
+          "行业协会 & 央视 / 地方媒体",
+          "本地集成商 & 咨询公司 (华为智能 / 联想商用 / 神州数码)",
+          "销售拜访 & 集采路演",
+          "工业品电商 & 阿里巴巴 1688 采购",
+          "行业垂直媒体 (e-works 制造业 · 21 世纪医药 · 医学论坛)",
+          "微信公众号 (中国工业新闻 · 医疗前沿 · 教培行业观察)",
+          "华为 / 讯飞 / 腾讯智慧 行业案例库",
+          "AI+ 行业展会 (CIIF · 医博会 · 中国教育装备展)"
+        ],
+        "purchaseChannels": [
+          "集成商 / 系统集成公司",
+          "工业品电商",
+          "厂商直销（华为智能 / 联想商用）"
+        ]
+      },
+      {
+        "tier": "S5 · 学术 / 研究机构",
+        "name": "大学 / 科研院所 / 独立实验室",
+        "share": 7,
+        "budget": "¥50-500 万 / 年（项目预算）",
+        "scenarios": [
+          "论文 / 复现研究",
+          "教学环境（GPU 集群供学生用）",
+          "跨学科 AI 应用（生物 / 化学 / 材料）"
+        ],
+        "productBought": [
+          "10-100 卡 GPU 集群（A100 / H100 混合）",
+          "Ryzen AI Max+ 395 教学工作站",
+          "GPU 云配额（智算中心 / 高校算力券）"
+        ],
+        "painPoints": [
+          "预算周期长 · 采购流程复杂",
+          "国产化 vs 生态成熟度权衡",
+          "学生使用监管难"
+        ],
+        "demands": [
+          "国产 GPU 教学套装",
+          "算力券 / 补贴对接",
+          "学生权限管理平台"
+        ],
+        "source": "高校算力券 · 智算中心项目公告",
+        "regions": [
+          "一线（清北复交）+ 中部教育重镇（武汉 / 西安 / 合肥）"
+        ],
+        "awareChannels": [
+          "学术会议 (NeurIPS / ICML / AAAI / ACL / CVPR)",
+          "论文 & arXiv daily · Papers with Code",
+          "GitHub / HuggingFace 开源项目",
+          "校企合作项目 & 教育部产学合作协同育人平台",
+          "国家超算 & 智算中心项目公告",
+          "Bilibili 学术 UP · 知乎教育板块",
+          "MIT Technology Review / Nature / Science 期刊"
+        ],
+        "purchaseChannels": [
+          "政府采购流程",
+          "教育网 GPU 云 / 智算中心",
+          "厂商教育版（NVIDIA / AMD）"
+        ]
+      }
+    ]
+  }
+}

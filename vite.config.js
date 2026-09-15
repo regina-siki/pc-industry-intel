@@ -5,7 +5,12 @@ import Components from 'unplugin-vue-components/vite'
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 import path from 'node:path'
 
+// GitHub Pages 部署在 https://USER.github.io/REPO_NAME/ 下
+// 本地开发时 base 为 '/'，生产构建时通过环境变量 VITE_BASE 注入
+const BASE = process.env.VITE_BASE || '/'
+
 export default defineConfig({
+  base: BASE,
   plugins: [
     vue(),
     AutoImport({ resolvers: [ElementPlusResolver()] }),
@@ -17,7 +22,6 @@ export default defineConfig({
   server: {
     port: 5173,
     host: true,
-    // 允许任何主机名访问（cloudflared / ngrok / 局域网 IP 都能进）
     allowedHosts: true,
     proxy: {
       '/api': {

@@ -7,12 +7,22 @@ import { ensureAccount } from './wechat-accounts.js'
 
 const router = Router()
 
-// 服务器行业关键词 —— 命中任一即认为相关
+// PC 全品类关键词 —— 命中任一即认为相关（包含服务器/AI 硬件/消费 PC/DIY/外设）
 const KEYWORDS = [
-  '服务器', '算力', '智算', '数据中心', 'IDC', 'GPU', 'CPU', 'HBM',
+  // 服务器/AI 侧
+  '服务器', '算力', '智算', '数据中心', 'IDC', 'HBM',
   'AI 芯片', 'AI芯片', '云厂商', '国产化', '液冷', '存储',
-  'NVIDIA', 'AMD', '英特尔', '华为', '浪潮', '海光', '寒武纪', '昇腾',
+  'NVIDIA', 'AMD', '英特尔', 'Intel', '华为', '浪潮', '海光', '寒武纪', '昇腾',
   '阿里云', '腾讯云', '字节', 'AWS', 'Azure', '中国移动', '中国联通', '中国电信',
+  // PC 全品类
+  'CPU', 'GPU', 'SSD', 'DDR5', '主板', '显卡', '内存条',
+  'AI PC', 'Copilot+', 'Copilot Plus', 'Ryzen', 'Core Ultra', 'Snapdragon X',
+  'RTX', 'GeForce', 'Radeon', 'M4', 'M5',
+  '笔记本', '台式机', '游戏本', '轻薄本', '工作站', '一体机', 'AIO', 'MiniPC', 'Mini PC',
+  '联想', '戴尔', '惠普', '华硕', '宏碁', '雷神', '机械革命', 'MacBook', 'iMac', 'iPad',
+  'DIY', '装机', '整机',
+  '罗技', '雷蛇', '樱桃', '机械键盘', '游戏鼠标', '显示器', 'OLED', 'Mini LED',
+  '以旧换新', '国补', '3C 电脑', '京东电脑', '天猫笔记本', '618', '双 11',
 ]
 
 function hitKeyword(text = '') {
@@ -23,13 +33,26 @@ function hitKeyword(text = '') {
 function extractTags(text) {
   const tags = new Set()
   const tagMap = [
-    ['服务器', '服务器'], ['GPU', 'GPU'], ['CPU', 'CPU'],
-    ['HBM', 'HBM'], ['液冷', '液冷'], ['数据中心', '数据中心'],
+    // 服务器侧
+    ['服务器', '服务器'], ['HBM', 'HBM'], ['液冷', '液冷'], ['数据中心', '数据中心'],
     ['算力|智算', '算力'], ['国产化', '国产化'],
     ['NVIDIA', 'NVIDIA'], ['AMD', 'AMD'], ['华为|昇腾', '华为'],
     ['浪潮', '浪潮'], ['阿里云', '阿里云'], ['腾讯云', '腾讯云'],
     ['字节跳动|字节', '字节'], ['中国移动', '中国移动'],
     ['中国联通', '中国联通'], ['中国电信', '中国电信'],
+    // PC 侧
+    ['GPU|显卡', '显卡'], ['CPU', 'CPU'],
+    ['AI PC|Copilot\\+', 'AI PC'],
+    ['Ryzen', 'Ryzen'], ['Core Ultra', 'Core Ultra'],
+    ['笔记本', '笔记本'], ['台式机|台机', '台式机'],
+    ['游戏本', '游戏本'], ['轻薄本', '轻薄本'], ['工作站', '工作站'],
+    ['联想|ThinkPad|拯救者', '联想'], ['戴尔|Dell|Alienware', '戴尔'],
+    ['惠普|HP', '惠普'], ['华硕|ROG', '华硕'], ['宏碁|Acer', '宏碁'],
+    ['MacBook|iMac|Mac Studio|Mac mini', '苹果 Mac'],
+    ['DIY|装机', 'DIY'],
+    ['罗技', '罗技'], ['雷蛇', '雷蛇'], ['樱桃', '樱桃'],
+    ['显示器', '显示器'], ['键鼠|机械键盘|游戏鼠标', '外设'],
+    ['以旧换新|国补', '以旧换新'], ['618|双 11', '大促'],
   ]
   for (const [pat, tag] of tagMap) {
     if (new RegExp(pat).test(text)) tags.add(tag)

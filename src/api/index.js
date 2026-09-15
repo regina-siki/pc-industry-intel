@@ -1,125 +1,153 @@
-// 框架阶段：用 mock 数据驱动 UI；后续替换为真实接口或爬虫服务即可。
-// 切换方式：在 .env 中设置 VITE_USE_MOCK=false，并在 http.js 中接入真实 baseURL。
+// 数据访问层
+// GitHub Pages 静态模式：直接从 public/data/*.json 读取，不走后端 API
+// 本地开发模式：可选切换回 /api 代理（需启动 server）
 
-import {
-  mockNews,
-  mockSupplyChain,
-  mockCustomerOrders,
-  mockCompanies,
-  mockKpi,
-  mockInsights,
-} from '@/mock/data'
-import http from './http'
+const isStaticMode = import.meta.env.VITE_STATIC_MODE === 'true'
+const STATIC_DATA_BASE = import.meta.env.BASE_URL + 'data'
 
-const USE_MOCK = import.meta.env.VITE_USE_MOCK !== 'false'
+async function loadStaticJson(name) {
+  const url = `${STATIC_DATA_BASE}/${name}.json`
+  const res = await fetch(url)
+  if (!res.ok) throw new Error(`static data not found: ${url}`)
+  return res.json()
+}
 
-const delay = (ms = 200) => new Promise((r) => setTimeout(r, ms))
+// =================== 静态模式实现 ===================
 
 export async function fetchKpi() {
-  if (USE_MOCK) {
-    await delay()
-    return mockKpi
-  }
-  return http.get('/kpi')
+  const s = await loadStaticJson('static')
+  return s.kpi || {}
 }
 
 export async function fetchInsights() {
-  if (USE_MOCK) {
-    await delay()
-    return mockInsights
-  }
-  return http.get('/insights')
+  const s = await loadStaticJson('static')
+  return s.insights || []
 }
 
 export async function fetchNews({ page = 1, pageSize = 10, q = '', tag = '', layer = '' } = {}) {
-  if (USE_MOCK) {
-    await delay()
-    let list = mockNews
-    if (q) list = list.filter((n) => n.title.includes(q) || n.summary.includes(q))
-    if (tag) list = list.filter((n) => n.tags.includes(tag))
-    return {
-      total: list.length,
-      list: list.slice((page - 1) * pageSize, page * pageSize),
-    }
+  const data = await loadStaticJson('news')
+  let list = data.list || []
+
+  // 搜索过滤
+  if (q) {
+    const lower = q.toLowerCase()
+    list = list.filter((n) =>
+      (n.title || '').toLowerCase().includes(lower) ||
+      (n.summary || '').toLowerCase().includes(lower)
+    )
   }
-  return http.get('/news', { params: { page, pageSize, q, tag, layer } })
+  // 标签过滤
+  if (tag) list = list.filter((n) => (n.tags || []).includes(tag))
+  // layer 过滤（静态模式下 layer 由前端 chain-taxonomy 决定，暂不支持）
+  // 若需要可从 news-structured 推断或重新生成
+
+  const total = list.length
+  const start = (page - 1) * pageSize
+  return {
+    total,
+    list: list.slice(start, start + pageSize),
+  }
 }
 
 export async function fetchNewsStructured({ days = 14 } = {}) {
-  return http.get('/news-structured', { params: { days } })
+  // 静态模式：这个接口返回动态聚合，需要预生成
+  // 暂时退化为全量数据由客户端过滤
+  const data = await loadStaticJson('news')
+  const cutoff = new Date(Date.now() - days * 24 * 60 * 60 * 1000)
+    .toISOString()
+    .slice(0, 10)
+  const list = (data.list || []).filter((n) => (n.publishedAt || '') >= cutoff)
+
+  // 避免重复实现后端 classify 逻辑，直接把 raw 给 ChainGraph 组件自己分类
+  return {
+    windowDays: days,
+    totalArticles: list.length,
+    rawList: list, // 静态模式特有：把 list 透给前端做分类
+  }
 }
 
-// 资讯统计：条数、最新入库时间、来源分布
 export async function fetchNewsStats() {
-  return http.get('/news-stats')
+  const data = await loadStaticJson('news')
+  const list = data.list || []
+  const bySource = {}
+  let latestPublished = ''
+  for (const n of list) {
+    bySource[n.source || '未知'] = (bySource[n.source || '未知'] || 0) + 1
+    if ((n.publishedAt || '') > latestPublished) latestPublished = n.publishedAt || ''
+  }
+  return {
+    total: data.total || list.length,
+    latestFetchedAt: data.updatedAt || latestPublished,
+    latestPublishedAt: latestPublished || null,
+    bySource: Object.entries(bySource)
+      .map(([source, count]) => ({ source, count }))
+      .sort((a, b) => b.count - a.count),
+  }
 }
 
 export async function fetchNewsById(id) {
-  if (USE_MOCK) {
-    await delay()
-    return mockNews.find((n) => String(n.id) === String(id))
-  }
-  return http.get(`/news/${id}`)
+  const data = await loadStaticJson('news')
+  const item = (data.list || []).find((n) => String(n.id) === String(id))
+  if (!item) throw new Error('not found')
+  return item
 }
 
 export async function fetchSupplyChain() {
-  if (USE_MOCK) {
-    await delay()
-    return mockSupplyChain
-  }
-  return http.get('/supply-chain')
+  return loadStaticJson('ai-intel')
 }
 
 export async function fetchCustomerOrders({ customer = '' } = {}) {
-  if (USE_MOCK) {
-    await delay()
-    let list = mockCustomerOrders
-    if (customer) list = list.filter((o) => o.customer.includes(customer))
-    return list
-  }
-  return http.get('/customer-orders', { params: { customer } })
+  const data = await loadStaticJson('customers')
+  let list = data.orders || []
+  if (customer) list = list.filter((o) => o.customer.includes(customer))
+  return list
 }
 
 export async function fetchCompanies({ category = '' } = {}) {
-  if (USE_MOCK) {
-    await delay()
-    let list = mockCompanies
-    if (category) list = list.filter((c) => c.category === category)
-    return list
-  }
-  return http.get('/companies', { params: { category } })
+  const data = await loadStaticJson('ai-intel')
+  let list = data.companies || []
+  if (category) list = list.filter((c) => c.category === category)
+  return list
 }
 
-// 粘贴公众号文章链接批量入库
-// urls: string[]（每行一个 mp.weixin.qq.com/s/... 链接）
-export async function ingestWeChatUrls(urls) {
-  return http.post('/wechat/ingest', { urls })
-}
-
-// 公众号追踪清单
+// 公众号相关 —— 静态模式下只读，不支持写入
 export async function fetchWeChatAccounts() {
-  return http.get('/wechat/accounts')
+  const data = await loadStaticJson('wechat-accounts')
+  return data.accounts || []
 }
-export async function createWeChatAccount(data) {
-  return http.post('/wechat/accounts', data)
+export async function createWeChatAccount() {
+  throw new Error('静态模式不支持写入')
 }
-export async function updateWeChatAccount(name, patch) {
-  return http.patch(`/wechat/accounts/${encodeURIComponent(name)}`, patch)
+export async function updateWeChatAccount() {
+  throw new Error('静态模式不支持写入')
 }
-export async function deleteWeChatAccount(name) {
-  return http.delete(`/wechat/accounts/${encodeURIComponent(name)}`)
+export async function deleteWeChatAccount() {
+  throw new Error('静态模式不支持写入')
+}
+export async function ingestWeChatUrls() {
+  throw new Error('静态模式不支持写入')
 }
 
 // 仪表盘数据
-export async function fetchProduct() { return http.get('/product') }
-export async function fetchPrice() { return http.get('/price') }
-export async function fetchCustomerSegments() { return http.get('/customer-segments') }
-export async function fetchBom() { return http.get('/bom') }
-export async function fetchBomById(id) { return http.get(`/bom/${id}`) }
+export async function fetchProduct() { return loadStaticJson('product') }
+export async function fetchPrice() { return loadStaticJson('price') }
+export async function fetchCustomerSegments() { return loadStaticJson('customers') }
+export async function fetchBom() { return loadStaticJson('bom') }
+export async function fetchBomById(id) {
+  const data = await loadStaticJson('bom')
+  const p = (data.products || []).find((x) => x.id === id)
+  if (!p) throw new Error('not found')
+  return { ...p, disclaimer: data.disclaimer, updatedAt: data.updatedAt }
+}
+export async function fetchOverview() { return loadStaticJson('overview') }
+export async function fetchNewsSummary() { return loadStaticJson('news-summary') }
+export async function fetchMacroPolicy() { return loadStaticJson('macro-policy') }
+export async function fetchUserMatch() { return loadStaticJson('user-match') }
+export async function fetchProductLifecycle() { return loadStaticJson('product-lifecycle') }
 
-// 首页概览数据（结构化总结 + 京东建议）
-export async function fetchOverview() { return http.get('/overview') }
-export async function fetchNewsSummary() { return http.get('/news-summary') }
-export async function fetchMacroPolicy() { return http.get('/macro-policy') }
-export async function fetchUserMatch() { return http.get('/user-match') }
-export async function fetchNewsChainImpact(days = 7) { return http.get('/news-chain-impact', { params: { days } }) }
+// 近 N 天资讯 x 产业链影响 —— 静态模式下前端自己构建聚合
+export async function fetchNewsChainImpact(days = 7) {
+  const { buildChainImpact } = await import('@/lib/build-chain-impact.js')
+  const data = await loadStaticJson('news')
+  return buildChainImpact(data.list || [], days)
+}

@@ -1,0 +1,2508 @@
+{
+  "updatedAt": "2026-07-02",
+  "disclaimer": "BOM 占比基于公开产品拆解、发布会披露、行业分析师报告估算，非厂商官方数据。价格趋势预测基于近期新闻推演，非官方指引。",
+  "dataSourceGuide": [
+    {
+      "name": "DRAMeXchange (TrendForce)",
+      "type": "半免费",
+      "note": "内存/HBM 现货，部分免费"
+    },
+    {
+      "name": "NVIDIA / AMD 官方定价",
+      "type": "免费",
+      "note": "GPU / CPU ASP 直接查"
+    },
+    {
+      "name": "上市公司拆解报告（华创、中信建投）",
+      "type": "半免费",
+      "note": "整机 BOM 占比"
+    },
+    {
+      "name": "IDC / Omdia 服务器 ASP",
+      "type": "付费",
+      "note": "$2-5 万/年"
+    },
+    {
+      "name": "iFixit / TechInsights 拆解",
+      "type": "半免费",
+      "note": "工作站 / 消费级产品 BOM"
+    }
+  ],
+  "products": [
+    {
+      "id": "dgx-b200",
+      "name": "NVIDIA DGX B200",
+      "category": "AI 训练服务器",
+      "totalCost": 480000,
+      "currency": "USD",
+      "asp": 515000,
+      "note": "8× B200 GPU 整机方案，公开报价 $515k",
+      "sourceRefs": [
+        "NVIDIA DGX B200 官方 spec sheet",
+        "SemiAnalysis Blackwell 拆解报告 (2024-Q4)",
+        "行业分析师 BOM 估算"
+      ],
+      "components": [
+        {
+          "part": "GPU (B200 × 8)",
+          "share": 0.62,
+          "cost": 297600,
+          "vendors": [
+            "NVIDIA"
+          ],
+          "note": "单卡估算 $37.2k",
+          "source": "NVIDIA 报价 · Wells Fargo 报告",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              102,
+              105,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "HBM3e (内含于 GPU 但可拆算)",
+          "share": 0.18,
+          "cost": 86400,
+          "vendors": [
+            "SK Hynix",
+            "Samsung",
+            "Micron"
+          ],
+          "note": "已含在 GPU 成本中",
+          "source": "SemiAnalysis · SK Hynix 财报",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              108,
+              106,
+              103,
+              100,
+              96,
+              92
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "CPU (Intel/AMD 双路)",
+          "share": 0.04,
+          "cost": 19200,
+          "vendors": [
+            "Intel",
+            "AMD"
+          ],
+          "note": "Xeon Emerald Rapids / EPYC Turin",
+          "source": "Intel / AMD 官方定价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "DDR5 内存",
+          "share": 0.03,
+          "cost": 14400,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "Micron"
+          ],
+          "note": "2TB DDR5",
+          "source": "DRAMeXchange",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              104,
+              102,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "NVMe SSD",
+          "share": 0.02,
+          "cost": 9600,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "长江存储"
+          ],
+          "note": "~30TB",
+          "source": "TrendForce NAND",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              99,
+              98,
+              100,
+              101
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "网络 (NVLink/InfiniBand)",
+          "share": 0.05,
+          "cost": 24000,
+          "vendors": [
+            "NVIDIA (Mellanox)"
+          ],
+          "note": "含 NVSwitch + ConnectX-7",
+          "source": "NVIDIA 官方定价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              102,
+              103,
+              105,
+              107
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "电源 / 散热",
+          "share": 0.03,
+          "cost": 14400,
+          "vendors": [
+            "台达",
+            "英维克"
+          ],
+          "note": "液冷选装另计",
+          "source": "台达 · 英维克年报",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              102,
+              105,
+              108,
+              112,
+              116
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "机箱 / PCB / 连接器",
+          "share": 0.02,
+          "cost": 9600,
+          "vendors": [
+            "工业富联",
+            "沪电股份"
+          ],
+          "note": "",
+          "source": "沪电股份公告",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              102,
+              103,
+              104,
+              105
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "组装 / OEM 利润",
+          "share": 0.01,
+          "cost": 4800,
+          "vendors": [
+            "NVIDIA / 工业富联"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "amd-395-ws",
+      "name": "AMD Ryzen AI Max+ 395 工作站",
+      "category": "AI 工作站 / 桌面",
+      "totalCost": 2200,
+      "currency": "USD",
+      "asp": 2799,
+      "note": "AMD Strix Halo，128GB 统一内存，面向本地 AI 推理",
+      "sourceRefs": [
+        "AMD 官方发布会 spec",
+        "TechInsights / iFixit 拆解",
+        "Framework Desktop / HP Z2 Mini G1a 售价"
+      ],
+      "components": [
+        {
+          "part": "SoC (Ryzen AI Max+ 395)",
+          "share": 0.45,
+          "cost": 990,
+          "vendors": [
+            "AMD"
+          ],
+          "note": "含 16C CPU + Radeon 8060S iGPU + 50 TOPS NPU",
+          "source": "AMD 官方 · 分析师估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              105,
+              103,
+              102,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "LPDDR5X 128GB (统一内存)",
+          "share": 0.22,
+          "cost": 484,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "Micron"
+          ],
+          "note": "板载不可扩展",
+          "source": "DRAMeXchange",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              97,
+              100,
+              102,
+              104,
+              106
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "NVMe SSD (2TB)",
+          "share": 0.08,
+          "cost": 176,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "长江存储"
+          ],
+          "note": "",
+          "source": "TrendForce NAND",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              99,
+              98,
+              100,
+              101
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "主板 / VRM",
+          "share": 0.08,
+          "cost": 176,
+          "vendors": [
+            "华硕 / 微星 / 联想 ODM"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              101,
+              102,
+              103,
+              104
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "散热 / 风扇",
+          "share": 0.05,
+          "cost": 110,
+          "vendors": [
+            "台达",
+            "AVC"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "电源",
+          "share": 0.04,
+          "cost": 88,
+          "vendors": [
+            "台达",
+            "海韵"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "机箱 / 组装",
+          "share": 0.04,
+          "cost": 88,
+          "vendors": [
+            "Lenovo / HP / Framework"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "其他 (Wi-Fi / IO)",
+          "share": 0.04,
+          "cost": 88,
+          "vendors": [
+            "Realtek",
+            "Intel"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaming-desktop-2026",
+      "name": "主流游戏台式机 (Zen 6 + RTX 5080)",
+      "category": "游戏台式机 DIY 主机",
+      "totalCost": 10500,
+      "currency": "CNY",
+      "asp": 13999,
+      "note": "DIY 主流游戏配置，2K 高刷游戏可全开，未来 3 年不换机",
+      "sourceRefs": [
+        "主流电商 5080 装机套装均价",
+        "SMZDM 值友装机推荐",
+        "Chiphell 装机作业"
+      ],
+      "components": [
+        {
+          "part": "GPU (RTX 5080 16GB AIC)",
+          "share": 0.42,
+          "cost": 4400,
+          "vendors": [
+            "华硕",
+            "技嘉",
+            "微星",
+            "影驰",
+            "七彩虹"
+          ],
+          "note": "首发首年溢价 15%",
+          "source": "电商平台零售数据",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              115,
+              112,
+              108,
+              106,
+              104,
+              102
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "CPU (Ryzen 9 X 或 Core Ultra 9)",
+          "share": 0.2,
+          "cost": 2100,
+          "vendors": [
+            "AMD",
+            "Intel"
+          ],
+          "note": "Zen 6 X870 平台 / LGA1851 Panther Lake",
+          "source": "AMD/Intel 官方定价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              108,
+              106,
+              104,
+              102,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "主板 (B850/X870 Wi-Fi ATX)",
+          "share": 0.08,
+          "cost": 840,
+          "vendors": [
+            "华硕 ROG",
+            "技嘉",
+            "微星"
+          ],
+          "note": "",
+          "source": "电商平台主板销售榜",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              102,
+              103,
+              104,
+              105
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "内存 (DDR5-8000 32GB)",
+          "share": 0.06,
+          "cost": 630,
+          "vendors": [
+            "金士顿",
+            "海盗船",
+            "威刚",
+            "光威"
+          ],
+          "note": "16GB x2",
+          "source": "主流电商零售",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              92,
+              95,
+              100,
+              104,
+              108,
+              112
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (PCIe 5.0 2TB)",
+          "share": 0.06,
+          "cost": 630,
+          "vendors": [
+            "三星 990 PRO",
+            "致态 TiPro9000",
+            "铠侠 Exceria"
+          ],
+          "note": "",
+          "source": "电商 SSD 销量榜",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "散热 (360 一体水冷)",
+          "share": 0.05,
+          "cost": 525,
+          "vendors": [
+            "利民",
+            "九州风神",
+            "海盗船"
+          ],
+          "note": "",
+          "source": "SMZDM",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              101,
+              102,
+              103,
+              104
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "电源 (1000W 金牌全模)",
+          "share": 0.05,
+          "cost": 525,
+          "vendors": [
+            "振华",
+            "海韵",
+            "台达"
+          ],
+          "note": "",
+          "source": "电商电源销售榜",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              102,
+              103,
+              104,
+              105
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "机箱 (中塔 ARGB)",
+          "share": 0.04,
+          "cost": 420,
+          "vendors": [
+            "联力",
+            "追风者",
+            "玩嘉"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / 线材 / 其他",
+          "share": 0.04,
+          "cost": 430,
+          "vendors": [
+            "装机店 / 品牌整机"
+          ],
+          "note": "",
+          "source": "电商整机加价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaming-laptop-rtx5090",
+      "name": "旗舰游戏本 (RTX 5090 laptop)",
+      "category": "游戏本 / 移动电竞",
+      "totalCost": 15200,
+      "currency": "CNY",
+      "asp": 19999,
+      "note": "18 英寸 4K OLED + RTX 5090 laptop GPU + 双内存插槽，旗舰游戏本首发",
+      "sourceRefs": [
+        "联想拯救者 Y9000K 2026 官方定价",
+        "华硕 ROG 幻 X 官方定价",
+        "微星 Titan 18 HX 官方定价"
+      ],
+      "components": [
+        {
+          "part": "GPU (RTX 5090 laptop 24GB)",
+          "share": 0.38,
+          "cost": 5776,
+          "vendors": [
+            "NVIDIA"
+          ],
+          "note": "首发单卡 ASP $700+",
+          "source": "NVIDIA 官方定价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              115,
+              112,
+              110,
+              108,
+              106,
+              104
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "CPU (Core Ultra 9 或 Ryzen AI 9 HX)",
+          "share": 0.15,
+          "cost": 2280,
+          "vendors": [
+            "Intel",
+            "AMD"
+          ],
+          "note": "移动端旗舰",
+          "source": "OEM 平台价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              105,
+              103,
+              102,
+              101,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "OLED 屏 (18\" 4K 240Hz)",
+          "share": 0.14,
+          "cost": 2128,
+          "vendors": [
+            "Samsung Display",
+            "LG Display",
+            "BOE"
+          ],
+          "note": "",
+          "source": "Omdia 面板报价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              110,
+              108,
+              105,
+              103,
+              100,
+              98
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "内存 (DDR5-6400 64GB)",
+          "share": 0.07,
+          "cost": 1064,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "美光"
+          ],
+          "note": "SO-DIMM x2",
+          "source": "TrendForce",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              98,
+              100,
+              103,
+              106,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (PCIe 5.0 2TB + PCIe 4.0 2TB)",
+          "share": 0.06,
+          "cost": 912,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "致态"
+          ],
+          "note": "双 SSD 双通道",
+          "source": "面板拆解",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "散热 (双风扇 + 蒸汽腔均热板)",
+          "share": 0.07,
+          "cost": 1064,
+          "vendors": [
+            "AVC",
+            "Sunon",
+            "Delta"
+          ],
+          "note": "旗舰游戏本 250W+ 散热挑战",
+          "source": "面板拆解",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              102,
+              104,
+              106,
+              108,
+              110
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "电池 (99Wh)",
+          "share": 0.03,
+          "cost": 456,
+          "vendors": [
+            "ATL",
+            "宁德新能源"
+          ],
+          "note": "民航上限",
+          "source": "面板拆解",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "机身 CNC + 键盘 + 触控板 + 音响",
+          "share": 0.06,
+          "cost": 912,
+          "vendors": [
+            "OEM 一体化"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / ODM 利润 / 品牌溢价",
+          "share": 0.04,
+          "cost": 608,
+          "vendors": [
+            "仁宝 / 广达"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-pc-copilot",
+      "name": "AI PC 轻薄本 (Copilot+ NPU)",
+      "category": "AI PC 轻薄笔记本",
+      "totalCost": 5600,
+      "currency": "CNY",
+      "asp": 7999,
+      "note": "Copilot+ 认证轻薄本，NPU ≥40 TOPS，代表机型：联想 Yoga 9i 2026 / 华硕 Zenbook S 16",
+      "sourceRefs": [
+        "联想 Yoga 9i 2026 官方定价",
+        "华硕 Zenbook S 16 OLED 官方定价",
+        "IDC AI PC BOM 估算"
+      ],
+      "components": [
+        {
+          "part": "SoC (Ryzen AI 300 / Core Ultra 200V / Snapdragon X)",
+          "share": 0.3,
+          "cost": 1680,
+          "vendors": [
+            "AMD",
+            "Intel",
+            "Qualcomm"
+          ],
+          "note": "内建 NPU 40+ TOPS 是 Copilot+ 硬门槛",
+          "source": "OEM 平台价 · 面板拆解",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              105,
+              103,
+              102,
+              101,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "OLED 屏 (14/16\" 2K/2.8K 120Hz)",
+          "share": 0.28,
+          "cost": 1568,
+          "vendors": [
+            "Samsung Display",
+            "BOE",
+            "维信诺"
+          ],
+          "note": "AI PC 主打卖点之一",
+          "source": "Omdia",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              108,
+              105,
+              102,
+              100,
+              98,
+              96
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "LPDDR5X 内存 (32GB)",
+          "share": 0.1,
+          "cost": 560,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "美光"
+          ],
+          "note": "板载不可扩展",
+          "source": "TrendForce",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              97,
+              100,
+              103,
+              106,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (PCIe 4.0 1TB)",
+          "share": 0.06,
+          "cost": 336,
+          "vendors": [
+            "Samsung",
+            "SK Hynix",
+            "致态"
+          ],
+          "note": "",
+          "source": "TrendForce",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "机身 CNC + 铰链 + 声学",
+          "share": 0.09,
+          "cost": 504,
+          "vendors": [
+            "OEM 一体化"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "电池 (75Wh) + 电源适配器",
+          "share": 0.05,
+          "cost": 280,
+          "vendors": [
+            "ATL"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "散热 (双风扇 + 石墨烯)",
+          "share": 0.04,
+          "cost": 224,
+          "vendors": [
+            "AVC",
+            "Sunon"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "键盘 / 触控板 / 摄像头 / Wi-Fi 7",
+          "share": 0.04,
+          "cost": 224,
+          "vendors": [
+            "OEM 一体化"
+          ],
+          "note": "带 IR 摄像头 + AI 隐私盾",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / ODM 利润 / 品牌溢价",
+          "share": 0.04,
+          "cost": 224,
+          "vendors": [
+            "仁宝 / 广达 / 纬创"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mac-mini-m4",
+      "name": "Apple Mac mini M4 (基础款)",
+      "category": "苹果桌面 / 生产力 Mini PC",
+      "totalCost": 3400,
+      "currency": "CNY",
+      "asp": 4499,
+      "note": "M4 SoC + 16GB 统一内存 + 256GB SSD，苹果桌面 AI 入门",
+      "sourceRefs": [
+        "Apple 官方定价",
+        "TechInsights Mac mini 拆解",
+        "半导体行业观察"
+      ],
+      "components": [
+        {
+          "part": "Apple M4 SoC",
+          "share": 0.45,
+          "cost": 1530,
+          "vendors": [
+            "Apple / TSMC 3nm"
+          ],
+          "note": "含 10 核 CPU + 10 核 GPU + 16 核 NPU (38 TOPS)",
+          "source": "TechInsights",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "统一内存 (16GB LPDDR5X)",
+          "share": 0.15,
+          "cost": 510,
+          "vendors": [
+            "Samsung",
+            "SK Hynix"
+          ],
+          "note": "封装在 SoC 旁",
+          "source": "TechInsights",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              97,
+              100,
+              103,
+              106,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (256GB NVMe)",
+          "share": 0.08,
+          "cost": 272,
+          "vendors": [
+            "Apple 定制 (Kioxia/SK Hynix)"
+          ],
+          "note": "板载不可换",
+          "source": "TechInsights",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "机身 (铝合金 CNC)",
+          "share": 0.08,
+          "cost": 272,
+          "vendors": [
+            "富士康 郑州"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "电源 / 散热 / IO",
+          "share": 0.1,
+          "cost": 340,
+          "vendors": [
+            "苹果供应链"
+          ],
+          "note": "内置电源 + Thunderbolt 4 + Wi-Fi 6E",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / Apple 毛利",
+          "share": 0.14,
+          "cost": 476,
+          "vendors": [
+            "富士康"
+          ],
+          "note": "Apple 毛利率约 30%",
+          "source": "半导体行业观察",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mini-pc-strix-halo",
+      "name": "国产 MiniPC (Strix Halo 平台)",
+      "category": "MiniPC / 桌面 AI",
+      "totalCost": 8000,
+      "currency": "CNY",
+      "asp": 10999,
+      "note": "AMD Ryzen AI Max+ 395 (Strix Halo) MiniPC，代表机型：零刻 GTR9 / 铭凡 UM790 Pro AI",
+      "sourceRefs": [
+        "零刻 / 铭凡官方定价",
+        "MiniPC 电商销量榜",
+        "SMZDM 拆解"
+      ],
+      "components": [
+        {
+          "part": "SoC (Ryzen AI Max+ 395)",
+          "share": 0.42,
+          "cost": 3360,
+          "vendors": [
+            "AMD"
+          ],
+          "note": "16 核 CPU + Radeon 8060S iGPU + 50 TOPS NPU + 128GB 统一内存",
+          "source": "AMD 官方",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              105,
+              103,
+              102,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "LPDDR5X 128GB (板载)",
+          "share": 0.2,
+          "cost": 1600,
+          "vendors": [
+            "Samsung",
+            "SK Hynix"
+          ],
+          "note": "板载不可扩展",
+          "source": "TrendForce",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              97,
+              100,
+              103,
+              106,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (PCIe 5.0 2TB)",
+          "share": 0.08,
+          "cost": 640,
+          "vendors": [
+            "致态",
+            "铠侠",
+            "西数"
+          ],
+          "note": "双 M.2 插槽",
+          "source": "电商 SSD 销量榜",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "主板 / VRM (定制小板)",
+          "share": 0.08,
+          "cost": 640,
+          "vendors": [
+            "零刻 / 铭凡定制"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              101,
+              102,
+              103,
+              104,
+              105
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "散热 (被动 + 风扇 or 均热板)",
+          "share": 0.07,
+          "cost": 560,
+          "vendors": [
+            "AVC",
+            "Sunon"
+          ],
+          "note": "小体积散热挑战",
+          "source": "面板拆解",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "机身 (铝合金 CNC 小体积)",
+          "share": 0.06,
+          "cost": 480,
+          "vendors": [
+            "国内代工"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "电源 / IO / Wi-Fi 7 / OS",
+          "share": 0.05,
+          "cost": 400,
+          "vendors": [
+            "Intel Wi-Fi",
+            "Realtek"
+          ],
+          "note": "含 220W 电源适配器",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / 品牌利润",
+          "share": 0.04,
+          "cost": 320,
+          "vendors": [
+            "零刻 / 铭凡"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "all-in-one-aio-2026",
+      "name": "商用一体机 AIO (国产信创)",
+      "category": "AIO 一体机 / 商用 PC",
+      "totalCost": 3200,
+      "currency": "CNY",
+      "asp": 4699,
+      "note": "面向党政央国企的信创一体机，国产 CPU + 麒麟 OS + WPS，代表机型：联想启天 A / 清华同方超越",
+      "sourceRefs": [
+        "联想启天 A 官方定价",
+        "清华同方超越 官方定价",
+        "中国政府采购网 教育信息化项目公告"
+      ],
+      "components": [
+        {
+          "part": "CPU (兆芯 KX-7000 / 鲲鹏 920 / 海光 3000)",
+          "share": 0.28,
+          "cost": 896,
+          "vendors": [
+            "兆芯",
+            "华为鲲鹏",
+            "海光信息"
+          ],
+          "note": "国产 CPU + 集显",
+          "source": "海光/兆芯 官方",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "内存 (DDR5 16GB SO-DIMM)",
+          "share": 0.12,
+          "cost": 384,
+          "vendors": [
+            "长鑫",
+            "金士顿",
+            "威刚"
+          ],
+          "note": "长鑫封装为主",
+          "source": "电商平台 DDR5 内存",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              95,
+              98,
+              100,
+              102,
+              105,
+              108
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "up"
+          }
+        },
+        {
+          "part": "SSD (SATA/NVMe 512GB)",
+          "share": 0.08,
+          "cost": 256,
+          "vendors": [
+            "长江存储致态",
+            "铠侠"
+          ],
+          "note": "",
+          "source": "TrendForce",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              102,
+              101,
+              100,
+              98,
+              96,
+              95
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "down"
+          }
+        },
+        {
+          "part": "23.8\" IPS 显示屏 (1080P)",
+          "share": 0.22,
+          "cost": 704,
+          "vendors": [
+            "BOE",
+            "华星光电"
+          ],
+          "note": "国产面板",
+          "source": "Omdia 面板报价",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "一体机机身 (CNC + 底座)",
+          "share": 0.1,
+          "cost": 320,
+          "vendors": [
+            "国内代工"
+          ],
+          "note": "内置摄像头 + 麦克风 + 音响",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "OS 授权 (麒麟 V10)",
+          "share": 0.05,
+          "cost": 160,
+          "vendors": [
+            "麒麟软件"
+          ],
+          "note": "含 WPS + 数字证书",
+          "source": "麒麟软件官方",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "电源 / IO / 键鼠",
+          "share": 0.08,
+          "cost": 256,
+          "vendors": [
+            "台达",
+            "国产键鼠"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        },
+        {
+          "part": "组装 / 品牌利润",
+          "share": 0.07,
+          "cost": 224,
+          "vendors": [
+            "联想 / 清华同方 / 长城"
+          ],
+          "note": "",
+          "source": "行业估算",
+          "priceHistory": {
+            "labels": [
+              "2026-02",
+              "2026-03",
+              "2026-04",
+              "2026-05",
+              "2026-06",
+              "2026-07"
+            ],
+            "values": [
+              100,
+              100,
+              100,
+              100,
+              100,
+              100
+            ],
+            "unit": "指数(基准=100)",
+            "trend": "flat"
+          }
+        }
+      ]
+    }
+  ],
+  "componentNewsImpact": [
+    {
+      "component": "HBM3e / HBM4",
+      "newsDate": "2026-06-28",
+      "recentNews": "SK Hynix HBM3e 12H 良率突破 70%，同时 HBM4 送样进度符合预期",
+      "trend": "供给放量 → 价格中枢下移",
+      "priceDelta": "-8~-10%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 3,
+      "bomImpactDgx": "DGX B200 HBM 占比 18%，HBM 跌 10% → 整机 BOM 成本 ↓ 1.8%",
+      "bomImpactDgxPct": -1.8,
+      "bomImpactWs": "工作站不含 HBM，无直接影响",
+      "bomImpactWsPct": 0,
+      "level": "high",
+      "source": "SK Hynix 2026 Q1 财报 · DigiTimes"
+    },
+    {
+      "component": "GPU (B300)",
+      "newsDate": "2026-06-18",
+      "recentNews": "NVIDIA Blackwell Ultra 发布，B300 相对 B200 单卡 ASP 提升约 15%",
+      "trend": "旗舰 GPU 涨价 → BOM 上行；旧型号(H200/H100)清库存",
+      "priceDelta": "新品 +15% / 上代 -5~-10%",
+      "impactStartAt": "2026-Q4",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "GPU 占 DGX BOM 62%，B300 版本整机 BOM 预计 ↑ 9%",
+      "bomImpactDgxPct": 9.0,
+      "bomImpactWs": "无直接影响（工作站用 iGPU）",
+      "bomImpactWsPct": 0,
+      "level": "high",
+      "source": "NVIDIA GTC 2026 · AnandTech"
+    },
+    {
+      "component": "LPDDR5X",
+      "newsDate": "2026-06-12",
+      "recentNews": "AI 端侧需求拉动 LPDDR5X 供需趋紧",
+      "trend": "价格温和上行",
+      "priceDelta": "+3~+5%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 2,
+      "bomImpactDgx": "DGX 用 DDR5 而非 LPDDR5X，影响弱",
+      "bomImpactDgxPct": 0.15,
+      "bomImpactWs": "工作站 LPDDR5X 占比 22%，涨 5% → BOM ↑ 1.1%",
+      "bomImpactWsPct": 1.1,
+      "level": "mid",
+      "source": "TrendForce · Samsung 财报"
+    },
+    {
+      "component": "NAND / SSD",
+      "newsDate": "2026-06-20",
+      "recentNews": "长江存储 8-bit TLC 量产 + 三星减产尚未结束",
+      "trend": "供需拉锯，价格波动",
+      "priceDelta": "±3%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 3,
+      "bomImpactDgx": "SSD 占 DGX BOM 2%，影响可忽略",
+      "bomImpactDgxPct": 0,
+      "bomImpactWs": "SSD 占工作站 BOM 8%，波动 3% → BOM ±0.24%",
+      "bomImpactWsPct": -0.2,
+      "level": "low",
+      "source": "TrendForce NAND Report · 长江存储公告"
+    },
+    {
+      "component": "液冷 / 散热",
+      "newsDate": "2026-06-05",
+      "recentNews": "浸没式液冷在智算中心渗透率突破 8%，英维克订单同比 +90%",
+      "trend": "液冷单机成本相对风冷翻倍",
+      "priceDelta": "液冷方案 +100%",
+      "impactStartAt": "2026-Q4",
+      "impactDurationQtrs": 6,
+      "bomImpactDgx": "散热由 3% → 6%（若配液冷）",
+      "bomImpactDgxPct": 3.0,
+      "bomImpactWs": "工作站不涉及",
+      "bomImpactWsPct": 0,
+      "level": "mid",
+      "source": "英维克 2026 Q1 财报 · 高澜订单披露"
+    },
+    {
+      "component": "PCB / 高速连接器",
+      "newsDate": "2026-05-28",
+      "recentNews": "AI 服务器高速 PCB (M6/M7) 供不应求，沪电股份产能满载",
+      "trend": "价格稳中有升",
+      "priceDelta": "+5%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "PCB 占 DGX BOM 2%，涨 5% → BOM ↑ 0.1%",
+      "bomImpactDgxPct": 0.1,
+      "bomImpactWs": "主板占工作站 BOM 8%，若含高速板影响可放大",
+      "bomImpactWsPct": 0.3,
+      "level": "low",
+      "source": "沪电股份公告 · 生益科技订单"
+    },
+    {
+      "component": "RTX 5090/5080 消费显卡",
+      "newsDate": "2026-06-05",
+      "recentNews": "NVIDIA RTX 50 系首发，5090 单卡 ASP 突破 ¥15,000，供不应求",
+      "trend": "首年首发溢价 15-20%，2026 Q4-2027 Q1 回归正常",
+      "priceDelta": "首发 +15% / 半年后 -8~-10%",
+      "impactStartAt": "2026-Q2",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "AI 服务器与消费卡不同，无影响",
+      "bomImpactDgxPct": 0,
+      "bomImpactWs": "对 DIY 台式机 BOM 影响：GPU 占 42%，首发溢价 → 整机 BOM ↑ 6-8%",
+      "bomImpactWsPct": 7.0,
+      "level": "high",
+      "source": "NVIDIA GTC 2026 · 电商平台零售数据"
+    },
+    {
+      "component": "DDR5-8000 高频内存条",
+      "newsDate": "2026-06-15",
+      "recentNews": "DDR5-8000 及以上高频内存需求爆发，长鑫 + 三星 + SK Hynix 供给紧张",
+      "trend": "高频颗粒 ASP 反弹 10-15%",
+      "priceDelta": "+10~+15%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 3,
+      "bomImpactDgx": "DGX 用 DDR5 常规频率，影响弱",
+      "bomImpactDgxPct": 0.3,
+      "bomImpactWs": "游戏台式机内存占 6%，DIY 用户对高频敏感 → BOM ↑ 1%",
+      "bomImpactWsPct": 1.0,
+      "level": "mid",
+      "source": "TrendForce · 电商平台零售"
+    },
+    {
+      "component": "OLED 笔记本面板",
+      "newsDate": "2026-06-20",
+      "recentNews": "三星 Display / BOE / 维信诺 OLED 面板产能爬坡 → 笔记本 OLED 面板 ASP 下探",
+      "trend": "笔记本 OLED 面板 ASP 12 个月内下降 12-15%",
+      "priceDelta": "-12~-15%",
+      "impactStartAt": "2026-Q3",
+      "impactDurationQtrs": 4,
+      "bomImpactDgx": "无关",
+      "bomImpactDgxPct": 0,
+      "bomImpactWs": "游戏本 OLED 占 14% BOM，下降 15% → 整机 ↓ 2.1%；AI PC OLED 占 28%，下降 15% → 整机 ↓ 4.2%",
+      "bomImpactWsPct": -3.0,
+      "level": "high",
+      "source": "Omdia · Samsung Display 财报"
+    },
+    {
+      "component": "NPU (AI PC 认证芯片)",
+      "newsDate": "2026-05-10",
+      "recentNews": "Copilot+ 认证要求 NPU ≥40 TOPS，AMD Ryzen AI 300 / Core Ultra 200V / Snapdragon X 齐上",
+      "trend": "NPU 面积推高 SoC 单价 8-10%",
+      "priceDelta": "+8~+10%",
+      "impactStartAt": "2026-Q2",
+      "impactDurationQtrs": 6,
+      "bomImpactDgx": "AI 服务器不用消费 NPU",
+      "bomImpactDgxPct": 0,
+      "bomImpactWs": "AI PC 轻薄本 SoC 占 30% BOM，涨 10% → 整机 BOM ↑ 3%",
+      "bomImpactWsPct": 3.0,
+      "level": "high",
+      "source": "AMD/Intel/Qualcomm 官方 · IDC AI PC 报告"
+    }
+  ],
+  "forecast": {
+    "note": "以 2026-Q2 为基准 100，按各零部件影响百分比在其 impactStartAt 起、跨 impactDurationQtrs 个季度线性累加得到。仅供趋势参考，非官方预测。",
+    "quarters": [
+      "2026-Q2",
+      "2026-Q3",
+      "2026-Q4",
+      "2027-Q1",
+      "2027-Q2",
+      "2027-Q3",
+      "2027-Q4"
+    ],
+    "basisIndex": 100,
+    "products": [
+      {
+        "id": "dgx-b200",
+        "name": "NVIDIA DGX B200"
+      },
+      {
+        "id": "amd-395-ws",
+        "name": "AMD Ryzen AI Max+ 395 工作站"
+      },
+      {
+        "id": "gaming-desktop-2026",
+        "name": "主流游戏台式机 (Zen 6 + RTX 5080)"
+      },
+      {
+        "id": "gaming-laptop-rtx5090",
+        "name": "旗舰游戏本 (RTX 5090 laptop)"
+      },
+      {
+        "id": "ai-pc-copilot",
+        "name": "AI PC 轻薄本 (Copilot+ NPU)"
+      },
+      {
+        "id": "mac-mini-m4",
+        "name": "Apple Mac mini M4"
+      },
+      {
+        "id": "mini-pc-strix-halo",
+        "name": "国产 MiniPC (Strix Halo)"
+      },
+      {
+        "id": "all-in-one-aio-2026",
+        "name": "商用 AIO 一体机 (国产信创)"
+      }
+    ]
+  },
+  "llmEvolution": {
+    "note": "从模型规模、架构、训练方法三条主线跟踪大模型演进；每条动态都推演到具体硬件层的成本 / 需求影响。",
+    "timeline": [
+      {
+        "date": "2026-06",
+        "title": "百度开源 ERNIE-Lite-3B（激活 500M）横扫文档识别 SOTA",
+        "line": "小模型崛起",
+        "hardwareImpact": "推理侧 GPU 需求下移，端侧 / 消费级 AI 硬件受益。8GB-32GB VRAM 的 4090 / RTX 5060 系列足够部署，反而抑制 H100 推理集群的边际增量。",
+        "impactSide": "下行",
+        "affectedComponents": [
+          "高端 GPU（推理场景）",
+          "HBM"
+        ],
+        "source": "百度 GitHub · OmniDocBench 榜单"
+      },
+      {
+        "date": "2026-05",
+        "title": "GPT-5 / Claude 5 / Gemini 3 三家旗舰同步进入 10T+ 参数",
+        "line": "训练规模翻番",
+        "hardwareImpact": "训练侧对 B200/B300 集群需求继续爆表；单次训练用 GPU 数量从 25k 提升至 50k+。CoWoS、HBM3e 供应压力放大。",
+        "impactSide": "上行",
+        "affectedComponents": [
+          "GPU (B200/B300)",
+          "HBM3e",
+          "NVLink / IB 网络"
+        ],
+        "source": "OpenAI / Anthropic / Google 发布会 · SemiAnalysis"
+      },
+      {
+        "date": "2026-05",
+        "title": "MoE 稀疏架构成为主流（DeepSeek / Mixtral / Qwen-MoE）",
+        "line": "架构范式转变",
+        "hardwareImpact": "有效参数量下降 → 单卡显存需求下降；但需要更快的 All-to-All 通信 → NVLink / InfiniBand 带宽成为瓶颈，网络 BOM 占比上升。",
+        "impactSide": "结构性",
+        "affectedComponents": [
+          "网络 (NVLink/IB)",
+          "HBM 带宽"
+        ],
+        "source": "DeepSeek V3 论文 · Mistral 官方博客"
+      },
+      {
+        "date": "2026-04",
+        "title": "Test-Time Compute（推理时长扩展）流行",
+        "line": "推理成本上升",
+        "hardwareImpact": "单次请求推理 token 数量提升 5-20 倍，推理侧 GPU 使用时长和数量翻倍。GPU 出租业务毛利率短期承压但需求量抬升。",
+        "impactSide": "上行",
+        "affectedComponents": [
+          "GPU (推理)",
+          "IDC 电力配额"
+        ],
+        "source": "OpenAI o3 报告 · The Information"
+      },
+      {
+        "date": "2026-04",
+        "title": "端侧模型 Ryzen AI Max+ / Apple M4 Ultra 跑 70B 成为标配",
+        "line": "本地部署普及",
+        "hardwareImpact": "128GB 统一内存工作站需求爆发，AMD Strix Halo / Apple Silicon / DGX Spark 出货同比 +200%。传统独显 GPU 在小 B / 个人端受挤压。",
+        "impactSide": "结构性",
+        "affectedComponents": [
+          "统一内存 SoC",
+          "LPDDR5X",
+          "桌面 AI 工作站"
+        ],
+        "source": "AMD / Apple 财报 · Framework 用户增长"
+      },
+      {
+        "date": "2026-03",
+        "title": "多模态视频生成模型（Sora 2 / 可灵 2 / Vidu）商用",
+        "line": "生成任务扩展",
+        "hardwareImpact": "视频推理对 VRAM 需求翻倍（80GB+），拉动 H200 / B200 消费；同时驱动本地视频生成工作站需求（RTX 6000 Ada / DGX Spark）。",
+        "impactSide": "上行",
+        "affectedComponents": [
+          "高端 GPU",
+          "HBM",
+          "存储带宽"
+        ],
+        "source": "OpenAI · 快手 · 生数科技 官方"
+      }
+    ],
+    "predictions": [
+      {
+        "horizon": "未来 6 个月",
+        "prediction": "AI 服务器 BOM 中 GPU 占比继续维持 60% 以上；HBM 短暂下探但 2026 Q4 因 B300 推货再抬升",
+        "confidence": "high"
+      },
+      {
+        "horizon": "未来 12 个月",
+        "prediction": "端侧 AI 工作站占 AI 硬件总出货比例从 5% → 12%；带动 LPDDR5X / 统一内存 SoC BOM 结构性上行",
+        "confidence": "mid"
+      },
+      {
+        "horizon": "未来 12 个月",
+        "prediction": "MoE + 蒸馏组合使推理侧 GPU 需求单位化下降 30-50%，但绝对量因场景扩张仍增长",
+        "confidence": "mid"
+      },
+      {
+        "horizon": "未来 18 个月",
+        "prediction": "HBM4 / SOCAMM 内存标准量产 → AI 服务器成本结构再次洗牌，网络 / 内存 BOM 占比或提升",
+        "confidence": "low"
+      }
+    ]
+  }
+}

@@ -3,8 +3,8 @@
     <header class="app-header">
       <div class="container header-inner">
         <router-link to="/" class="logo">
-          <span class="logo-mark">SI</span>
-          <span class="logo-text">ServerInsight</span>
+          <span class="logo-mark">PC</span>
+          <span class="logo-text">PCInsight</span>
         </router-link>
         <nav class="nav">
           <router-link
@@ -40,7 +40,7 @@
     <footer class="app-footer">
       <div class="container">
         <span class="muted">
-          © {{ year }} ServerInsight · 数据仅供参考，不构成投资建议
+          © {{ year }} PCInsight · 数据仅供参考，不构成投资建议
         </span>
       </div>
     </footer>
@@ -56,20 +56,15 @@ const keyword = ref('')
 const year = new Date().getFullYear()
 
 const navItems = [
-  { path: '/', label: '首页' },
-  { path: '/news', label: '资讯' },
+  { path: '/', label: '上下游供应链' },
   { path: '/product', label: '产品' },
-  { path: '/cost', label: '成本·BOM' },
-  { path: '/segments', label: '客户细分' },
-  { path: '/match', label: '用户匹配' },
-  { path: '/supply-chain', label: '产业链' },
-  { path: '/companies', label: '公司库' },
+  { path: '/customer', label: '运营策略' },
   { path: '/wechat', label: '附录·公众号', appendix: true },
 ]
 
 function onSearch() {
   if (!keyword.value.trim()) return
-  router.push({ path: '/news', query: { q: keyword.value.trim() } })
+  router.push({ path: '/', query: { q: keyword.value.trim() } })
 }
 </script>
 
