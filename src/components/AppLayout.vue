@@ -379,7 +379,14 @@ function onSearch() {
 @media (max-width: 560px) {
   .header-inner { grid-template-columns: 1fr; }
   .search { grid-row: 2; }
-  .nav { grid-row: 3; }
+  .nav {
+    grid-row: 3;
+    width: 100%;
+    justify-content: space-between;
+    gap: 0;
+  }
+  .nav-item { padding-inline: 5px; }
+  .nav-index { display: none; }
   .app-main { padding-top: 28px; }
   .page-masthead h1 { font-size: 34px; }
   .footer-inner { align-items: flex-start; flex-direction: column; }

@@ -441,4 +441,19 @@ select { font: inherit; }
   #app .jd-head { align-items: stretch; flex-direction: column; }
   #app .el-table { min-width: 720px; }
   #app .panel:has(.el-table) { overflow-x: auto; }
+  #app .notice {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  #app .notice > .el-icon {
+    margin-top: 3px;
+  }
+  #app .notice > span:not(.muted) {
+    min-width: 0;
+    flex: 1;
+  }
+  #app .notice > .muted {
+    width: 100%;
+    margin-left: 24px !important;
+  }
 }
