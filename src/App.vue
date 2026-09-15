@@ -15,10 +15,13 @@ import AppLayout from '@/components/AppLayout.vue'
 <style scoped>
 .fade-enter-active,
 .fade-leave-active {
-  transition: opacity 0.2s ease;
+  transition: opacity 0.18s ease, transform 0.18s ease;
 }
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
+}
+.fade-enter-from {
+  transform: translateY(6px);
 }
 </style>

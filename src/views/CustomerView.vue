@@ -54,7 +54,7 @@
                 >{{ c }}</el-tag>
               </div>
               <div v-if="s.insight" class="insight muted small">
-                💡 {{ s.insight }}
+                经营判断 · {{ s.insight }}
                 <div v-if="s.insightSource" class="src-tag">
                   来源：{{ s.insightSource }}
                 </div>
@@ -136,44 +136,44 @@
 
         <div class="mc-grid">
           <div class="mc-col motive">
-            <div class="col-title">🎯 购买动机</div>
+            <div class="col-title">购买动机</div>
             <div class="col-content">{{ m.motive }}</div>
           </div>
           <div class="mc-col product">
-            <div class="col-title">💻 匹配产品线</div>
+            <div class="col-title">匹配产品线</div>
             <div class="col-content"><b>{{ m.productLine }}</b></div>
             <ul class="col-list">
               <li v-for="s in m.productSpec" :key="s">{{ s }}</li>
             </ul>
           </div>
           <div class="mc-col price">
-            <div class="col-title">💰 价格带</div>
+            <div class="col-title">价格带</div>
             <div class="col-content">
               <div>{{ m.priceRange }}</div>
               <div class="sweet">甜点：<b>{{ m.sweetPrice }}</b></div>
             </div>
           </div>
           <div class="mc-col pain">
-            <div class="col-title">😣 核心痛点</div>
+            <div class="col-title">核心痛点</div>
             <div class="col-content">{{ m.corePain }}</div>
           </div>
           <div class="mc-col demand">
-            <div class="col-title">💡 核心诉求</div>
+            <div class="col-title">核心诉求</div>
             <div class="col-content">{{ m.coreDemand }}</div>
           </div>
           <div class="mc-col service">
-            <div class="col-title">🎁 服务包设计</div>
+            <div class="col-title">服务包设计</div>
             <div class="col-content"><b>{{ m.serviceOffer }}</b></div>
           </div>
         </div>
 
         <div class="mc-foot">
           <div class="foot-item">
-            <span class="muted small">📣 触达渠道：</span>
+            <span class="muted small">触达渠道：</span>
             <span>{{ m.channelToReach }}</span>
           </div>
           <div class="foot-item">
-            <span class="muted small">📊 KPI：</span>
+            <span class="muted small">KPI：</span>
             <b>{{ m.kpi }}</b>
           </div>
         </div>
@@ -229,7 +229,7 @@
                 >{{ c }}</el-tag>
               </div>
               <div v-if="s.insight" class="insight muted small">
-                💡 {{ s.insight }}
+                经营判断 · {{ s.insight }}
                 <div v-if="s.insightSource" class="src-tag">
                   来源：{{ s.insightSource }}
                 </div>
@@ -239,7 +239,7 @@
 
           <!-- 云厂商 Capex 表 -->
           <div class="sub-block" v-if="s.capex && s.capex.length">
-            <div class="block-title">💰 Capex 与 AI 占比 · 主要整机供应商</div>
+            <div class="block-title">Capex 与 AI 占比 · 主要整机供应商</div>
             <el-table :data="s.capex" size="small" stripe>
               <el-table-column prop="company" label="公司" width="150" />
               <el-table-column prop="period" label="周期" width="140" />
@@ -273,7 +273,7 @@
 
           <!-- 已披露采购 -->
           <div class="sub-block" v-if="s.recentDeals && s.recentDeals.length">
-            <div class="block-title">📋 已披露采购 · 中标厂商 &amp; 份额</div>
+            <div class="block-title">已披露采购 · 中标厂商与份额</div>
             <el-table :data="s.recentDeals" size="small" stripe>
               <el-table-column prop="customer" label="采购人" width="120" />
               <el-table-column prop="title" label="公告标题" min-width="220" />
@@ -307,7 +307,7 @@
 
           <!-- 政府 AI 政策 -->
           <div class="sub-block" v-if="s.govAiPolicy && s.govAiPolicy.length">
-            <div class="block-title">🏛️ 政府 AI 政策与补贴</div>
+            <div class="block-title">政府 AI 政策与补贴</div>
             <el-table :data="s.govAiPolicy" size="small" stripe>
               <el-table-column prop="policy" label="政策名" width="220" />
               <el-table-column prop="date" label="发布" width="100" />
@@ -323,7 +323,7 @@
 
           <!-- 政府 AI 采购 -->
           <div class="sub-block" v-if="s.govAiProcurement && s.govAiProcurement.length">
-            <div class="block-title">🧾 政府 AI 硬件已披露采购 · 中标厂商</div>
+            <div class="block-title">政府 AI 硬件已披露采购 · 中标厂商</div>
             <el-table :data="s.govAiProcurement" size="small" stripe>
               <el-table-column prop="buyer" label="采购人" width="180" />
               <el-table-column prop="title" label="项目" min-width="200" />

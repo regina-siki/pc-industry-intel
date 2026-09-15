@@ -6,9 +6,9 @@
       </div>
       <h1 class="title">{{ news.title }}</h1>
       <div class="meta">
-        <span class="meta-item">📅 {{ news.publishedAt }}</span>
-        <span class="meta-item">📰 {{ news.source }}</span>
-        <span class="meta-item" v-if="news.author">✍️ {{ news.author }}</span>
+        <span class="meta-item">发布日期 · {{ news.publishedAt }}</span>
+        <span class="meta-item">来源 · {{ news.source }}</span>
+        <span class="meta-item" v-if="news.author">作者 · {{ news.author }}</span>
         <span v-for="t in news.tags" :key="t" class="tag">{{ t }}</span>
       </div>
 

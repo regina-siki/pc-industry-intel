@@ -60,35 +60,35 @@
         </div>
 
         <div class="pc-section">
-          <div class="pc-title">🎯 使用场景</div>
+          <div class="pc-title">使用场景</div>
           <ul>
             <li v-for="s in p.scenarios" :key="s">{{ s }}</li>
           </ul>
         </div>
 
         <div class="pc-section">
-          <div class="pc-title">🛒 已购产品</div>
+          <div class="pc-title">已购产品</div>
           <ul>
             <li v-for="s in p.productBought" :key="s">{{ s }}</li>
           </ul>
         </div>
 
         <div class="pc-section">
-          <div class="pc-title pain">😣 痛点</div>
+          <div class="pc-title pain">核心痛点</div>
           <ul class="pain-list">
             <li v-for="s in p.painPoints" :key="s">{{ s }}</li>
           </ul>
         </div>
 
         <div class="pc-section">
-          <div class="pc-title demand">💡 诉求</div>
+          <div class="pc-title demand">核心诉求</div>
           <ul class="demand-list">
             <li v-for="s in p.demands" :key="s">{{ s }}</li>
           </ul>
         </div>
 
         <div class="pc-section" v-if="p.regions">
-          <div class="pc-title region">📍 集中地域</div>
+          <div class="pc-title region">集中地域</div>
           <div class="chip-list">
             <el-tag
               v-for="r in p.regions"
@@ -101,7 +101,7 @@
         </div>
 
         <div class="pc-section" v-if="p.awareChannels">
-          <div class="pc-title chan-know">📚 了解 AI 的渠道</div>
+          <div class="pc-title chan-know">了解 AI 的渠道</div>
           <div class="chip-list">
             <el-tag
               v-for="r in p.awareChannels"
@@ -114,7 +114,7 @@
         </div>
 
         <div class="pc-section" v-if="p.purchaseChannels">
-          <div class="pc-title chan-buy">🛒 采购 AI 硬件的渠道</div>
+          <div class="pc-title chan-buy">采购 AI 硬件的渠道</div>
           <div class="chip-list">
             <el-tag
               v-for="r in p.purchaseChannels"

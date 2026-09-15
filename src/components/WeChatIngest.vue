@@ -90,7 +90,7 @@
         </li>
       </ul>
       <div class="post-hint muted small" v-if="lastResult.inserted">
-        📡 网站内所有相关模块（资讯、产业链分类、公众号清单、首页统计）已自动刷新
+        网站内相关模块（资讯、产业链分类、公众号清单、首页统计）已自动刷新
       </div>
     </div>
   </div>

@@ -88,7 +88,7 @@
           <div class="node-head">
             <div class="node-name">{{ node.name }}</div>
             <div class="muted small" v-if="chain?.marketShare?.[node.id]?.asOf">
-              📅 {{ chain.marketShare[node.id].asOf }}
+              数据期 · {{ chain.marketShare[node.id].asOf }}
             </div>
           </div>
 
@@ -121,7 +121,7 @@
 
           <!-- 相关新闻（从 chainImpact.layers 里查同 sub） -->
           <div class="node-news" v-if="nodeNews(node.id)?.length">
-            <div class="mini-title">🔥 相关新闻</div>
+            <div class="mini-title">相关新闻</div>
             <router-link
               v-for="a in nodeNews(node.id).slice(0, 3)"
               :key="a.id"
@@ -136,7 +136,7 @@
 
           <!-- 价格 sparkline（如有匹配的 BOM 组件） -->
           <div class="node-price" v-if="nodePrice(node.id)">
-            <div class="mini-title">💰 参考价格走势 (6 个月归一化)</div>
+            <div class="mini-title">参考价格走势 · 6 个月归一化</div>
             <div class="price-row">
               <span class="muted small price-part">{{ nodePrice(node.id).part }}</span>
               <Sparkline
@@ -149,13 +149,13 @@
 
           <!-- 建议动作（从 componentNewsImpact 抽） -->
           <div class="node-action" v-if="nodeAction(node.id)">
-            <div class="mini-title">📦 京东建议动作</div>
+            <div class="mini-title">京东建议动作</div>
             <div class="action-content">{{ nodeAction(node.id) }}</div>
           </div>
 
           <!-- recentChange -->
           <div class="node-change muted small" v-if="chain?.marketShare?.[node.id]?.recentChange">
-            💡 {{ chain.marketShare[node.id].recentChange }}
+            近期变化 · {{ chain.marketShare[node.id].recentChange }}
           </div>
 
           <div class="src-tag" v-if="chain?.marketShare?.[node.id]?.source">
@@ -170,7 +170,7 @@
       <div class="head">
         <div>
           <h2 class="section-title" style="margin: 0">
-            🧾 关键产品 BOM 明细 · 部件价格走势
+            关键产品 BOM 明细 · 部件价格走势
           </h2>
           <p class="muted small" style="margin: 4px 0 0">
             每条 sparkline 展示部件近 6 个月归一化价格指数 · 用于库存备货和成本对齐
@@ -229,7 +229,7 @@
     <!-- ═══════ 关键零部件动态 · componentNewsImpact ═══════ -->
     <div class="panel" v-if="bom?.componentNewsImpact">
       <h2 class="section-title" style="margin: 0 0 4px">
-        📊 关键零部件动态 · 对 BOM 的影响
+        关键零部件动态 · 对 BOM 的影响
       </h2>
       <p class="muted small">
         近期供给/需求变化 → 单件价格变动 → 传导到整机 BOM 的增减幅度
@@ -244,7 +244,7 @@
         <el-table-column label="近期动态" min-width="260">
           <template #default="{ row }">
             <div>{{ row.recentNews }}</div>
-            <div v-if="row.newsDate" class="muted small">📅 {{ row.newsDate }}</div>
+            <div v-if="row.newsDate" class="muted small">日期 · {{ row.newsDate }}</div>
           </template>
         </el-table-column>
         <el-table-column label="价格趋势" width="130">
@@ -292,7 +292,7 @@
       </div>
 
       <div class="policy-headline">
-        📌 {{ macroPolicy.summary.headline }}
+        核心判断 · {{ macroPolicy.summary.headline }}
         <ul class="policy-directions">
           <li v-for="(k, i) in macroPolicy.summary.keyDirections" :key="i">{{ k }}</li>
         </ul>
@@ -328,10 +328,10 @@
         >
           <div class="local-grid">
             <div v-for="(l, i) in macroPolicy.local" :key="i" class="local-card">
-              <div class="local-city">📍 {{ l.city }}</div>
+              <div class="local-city">地区 · {{ l.city }}</div>
               <div class="local-title">{{ l.title }}</div>
-              <div class="local-amount">💰 {{ l.amount }}</div>
-              <div class="muted small">🗓 {{ l.date }}</div>
+              <div class="local-amount">{{ l.amount }}</div>
+              <div class="muted small">时间 · {{ l.date }}</div>
               <div class="muted small"><b>方向：</b>{{ l.focus }}</div>
               <div class="muted small"><b>影响：</b>{{ l.impact }}</div>
               <div class="src-tag">来源：{{ l.source }}</div>
@@ -349,7 +349,7 @@
                 <span class="signal-dot"></span>{{ s.signal }}
               </div>
               <div class="muted small">{{ s.detail }}</div>
-              <div class="signal-impact">➡️ <b>{{ s.impact }}</b></div>
+              <div class="signal-impact">影响 · <b>{{ s.impact }}</b></div>
               <div class="src-tag">来源：{{ s.source }}</div>
             </div>
           </div>
@@ -361,28 +361,28 @@
         >
           <div class="local-grid startup-grid">
             <div v-for="(l, i) in macroPolicy.startupIncentives" :key="i" class="local-card startup-card">
-              <div class="local-city">🚀 {{ l.region }}</div>
+              <div class="local-city">地区 · {{ l.region }}</div>
               <div class="local-title">{{ l.program }}</div>
-              <div class="muted small" v-if="l.docNo">📄 <b>文号：</b>{{ l.docNo }}</div>
-              <div class="muted small" v-if="l.documentDate">🗓 {{ l.documentDate }}</div>
+              <div class="muted small" v-if="l.docNo"><b>文号：</b>{{ l.docNo }}</div>
+              <div class="muted small" v-if="l.documentDate">日期 · {{ l.documentDate }}</div>
               <div v-if="l.targetAudience" class="startup-block">
-                <b>👥 面向：</b>{{ l.targetAudience.who }}
+                <b>面向：</b>{{ l.targetAudience.who }}
               </div>
               <div v-if="l.funding?.cash?.length" class="startup-block">
-                <b>💰 现金/补贴：</b>
+                <b>现金与补贴：</b>
                 <ul>
                   <li v-for="c in l.funding.cash" :key="c">{{ c }}</li>
                 </ul>
               </div>
               <div v-if="l.resources?.length" class="startup-block">
-                <b>🎁 资源：</b>
+                <b>资源：</b>
                 <ul>
                   <li v-for="r in l.resources" :key="r">{{ r }}</li>
                 </ul>
               </div>
               <div class="src-tag">来源：{{ l.source }}</div>
               <a v-if="l.sourceUrl" :href="l.sourceUrl" target="_blank" rel="noopener" class="src-link">
-                🔗 {{ l.sourceUrl }}
+                查看来源 ↗
               </a>
             </div>
           </div>
@@ -394,35 +394,35 @@
         >
           <div class="local-grid">
             <div v-for="(c, i) in macroPolicy.corpAIPrograms" :key="i" class="local-card corp-card">
-              <div class="local-city corp-name">🏢 {{ c.company }}</div>
+              <div class="local-city corp-name">{{ c.company }}</div>
               <div class="local-title">{{ c.program }}</div>
               <ul class="startup-hl">
                 <li v-for="h in c.highlights" :key="h">{{ h }}</li>
               </ul>
               <div class="muted small"><b>面向：</b>{{ c.targetPartners }}</div>
-              <div class="local-amount">💰 {{ c.budget }}</div>
+              <div class="local-amount">{{ c.budget }}</div>
               <div class="src-tag">来源：{{ c.source }}</div>
             </div>
           </div>
         </el-tab-pane>
 
         <el-tab-pane
-          :label="`⚖️ 监管影响 · 利好/利空 (${(macroPolicy.regulatoryImpacts?.positives?.length || 0) + (macroPolicy.regulatoryImpacts?.negatives?.length || 0)})`"
+          :label="`监管影响 · 利好/利空 (${(macroPolicy.regulatoryImpacts?.positives?.length || 0) + (macroPolicy.regulatoryImpacts?.negatives?.length || 0)})`"
           name="regulatory"
         >
           <div v-if="macroPolicy.regulatoryImpacts" class="reg-block">
             <div class="reg-note muted small">
-              💡 {{ macroPolicy.regulatoryImpacts.note }}
+              研究提示 · {{ macroPolicy.regulatoryImpacts.note }}
             </div>
             <div v-if="macroPolicy.regulatoryImpacts.netAssessment" class="reg-net">
               <div class="reg-net-title">
-                🎯 {{ macroPolicy.regulatoryImpacts.netAssessment.headline }}
+                综合判断 · {{ macroPolicy.regulatoryImpacts.netAssessment.headline }}
               </div>
               <ul class="reg-net-logic">
                 <li v-for="l in macroPolicy.regulatoryImpacts.netAssessment.logic" :key="l">{{ l }}</li>
               </ul>
               <div class="reg-net-action">
-                <div class="reg-net-action-title">📣 京东建议动作</div>
+                <div class="reg-net-action-title">京东建议动作</div>
                 <ul>
                   <li v-for="a in macroPolicy.regulatoryImpacts.netAssessment.actionForJd" :key="a">{{ a }}</li>
                 </ul>
@@ -436,7 +436,7 @@
                 </div>
                 <div v-for="(p, i) in macroPolicy.regulatoryImpacts.positives" :key="i" class="reg-card reg-positive">
                   <div class="reg-card-title">{{ p.title }}</div>
-                  <div class="muted small">🏛 {{ p.issuer }} · 🗓 {{ p.date }}</div>
+                  <div class="muted small">{{ p.issuer }} · {{ p.date }}</div>
                   <div class="reg-section" v-if="p.action?.length">
                     <b>📜 政策动作</b>
                     <ul><li v-for="a in p.action" :key="a">{{ a }}</li></ul>
@@ -455,7 +455,7 @@
                 </div>
                 <div v-for="(n, i) in macroPolicy.regulatoryImpacts.negatives" :key="i" class="reg-card reg-negative">
                   <div class="reg-card-title">{{ n.title }}</div>
-                  <div class="muted small">🏛 {{ n.issuer }} · 🗓 {{ n.date }}</div>
+                  <div class="muted small">{{ n.issuer }} · {{ n.date }}</div>
                   <div class="reg-section" v-if="n.action?.length">
                     <b>📜 政策动作</b>
                     <ul><li v-for="a in n.action" :key="a">{{ a }}</li></ul>
@@ -472,11 +472,11 @@
         </el-tab-pane>
 
         <el-tab-pane
-          :label="`🇺🇸 美国出口管制 (${macroPolicy.usRestrictions?.length || 0})`"
+          :label="`美国出口管制 (${macroPolicy.usRestrictions?.length || 0})`"
           name="us"
         >
           <div class="us-impact" v-if="macroPolicy.usRestrictionImpact">
-            <div class="us-headline">🔎 {{ macroPolicy.usRestrictionImpact.headline }}</div>
+            <div class="us-headline">{{ macroPolicy.usRestrictionImpact.headline }}</div>
             <div class="us-impact-grid">
               <div class="us-impact-cell">
                 <b>⚡ 短期影响</b>
@@ -487,11 +487,11 @@
                 <ul><li v-for="l in macroPolicy.usRestrictionImpact.longTerm" :key="l">{{ l }}</li></ul>
               </div>
               <div class="us-impact-cell">
-                <b>🚀 国产受益方</b>
+                <b>国产受益方</b>
                 <ul><li v-for="b in macroPolicy.usRestrictionImpact.beneficiaries" :key="b">{{ b }}</li></ul>
               </div>
               <div class="us-impact-cell">
-                <b>⚠️ 潜在风险</b>
+                <b>潜在风险</b>
                 <ul><li v-for="r in macroPolicy.usRestrictionImpact.risks" :key="r">{{ r }}</li></ul>
               </div>
             </div>
@@ -504,7 +504,7 @@
                 <div class="us-date">{{ u.date }}</div>
               </div>
               <div class="us-event-body">
-                <div class="us-event-title">🇺🇸 {{ u.title }}</div>
+                <div class="us-event-title">{{ u.title }}</div>
                 <div class="muted small"><b>发布方：</b>{{ u.issuer }}</div>
                 <div class="us-scope">
                   <b>管制范围：</b>
@@ -544,9 +544,9 @@ const policyTab = ref('national')
 const layers = computed(() => {
   const nodes = chain.value?.nodes || []
   return [
-    { id: 'upstream', name: '上游 · 元器件', icon: '🔧', desc: 'CPU / GPU / 内存 / 存储 / PCB / 主板 / 显卡 / 内存条 / 散热 / 显示器 / 外设 · 关注单件价格变化，用于库存备货和成本对齐', nodes: nodes.filter(n => n.layer === 'upstream') },
-    { id: 'mid', name: '中游 · 整机制造', icon: '🏭', desc: '服务器 OEM / ODM / PC 品牌 / 笔电 ODM / AIO+Mini · 关注头部集中度和产能爬坡节奏', nodes: nodes.filter(n => n.layer === 'mid') },
-    { id: 'downstream', name: '下游 · 终端客户', icon: '🏢', desc: '云厂商 / 运营商 / 政企 / PC 零售 / DIY / 企业 IT / 教育 / 游戏 · 关注采购节奏和需求信号', nodes: nodes.filter(n => n.layer === 'downstream') },
+    { id: 'upstream', name: '上游 · 元器件', icon: 'UP', desc: 'CPU / GPU / 内存 / 存储 / PCB / 主板 / 显卡 / 内存条 / 散热 / 显示器 / 外设 · 关注单件价格变化，用于库存备货和成本对齐', nodes: nodes.filter(n => n.layer === 'upstream') },
+    { id: 'mid', name: '中游 · 整机制造', icon: 'MID', desc: '服务器 OEM / ODM / PC 品牌 / 笔电 ODM / AIO+Mini · 关注头部集中度和产能爬坡节奏', nodes: nodes.filter(n => n.layer === 'mid') },
+    { id: 'downstream', name: '下游 · 终端客户', icon: 'DOWN', desc: '云厂商 / 运营商 / 政企 / PC 零售 / DIY / 企业 IT / 教育 / 游戏 · 关注采购节奏和需求信号', nodes: nodes.filter(n => n.layer === 'downstream') },
   ]
 })
 
@@ -620,11 +620,11 @@ const currentBom = computed(() => bom.value?.products?.find(p => p.id === curren
 
 function trendArrow(t) { return { up: '↑', down: '↓', flat: '→' }[t] || '·' }
 function trendType(t) { return t === 'up' ? 'danger' : t === 'down' ? 'success' : 'info' }
-function trendIcon(t) { return t === 'up' ? '📈' : t === 'down' ? '📉' : '⏸' }
+function trendIcon(t) { return t === 'up' ? '↑' : t === 'down' ? '↓' : '→' }
 function layerIcon(name) {
-  if (name?.includes('上游')) return '🔧'
-  if (name?.includes('中游')) return '🏭'
-  if (name?.includes('下游')) return '🏢'
+  if (name?.includes('上游')) return 'UP'
+  if (name?.includes('中游')) return 'MID'
+  if (name?.includes('下游')) return 'DOWN'
   return '·'
 }
 function formatNum(n) { return typeof n === 'number' ? n.toLocaleString() : n }

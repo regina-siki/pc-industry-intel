@@ -9,7 +9,7 @@
       <div class="head">
         <div>
           <h2 class="section-title" style="margin: 0">
-            🧩 产品 · 生命周期与新老品对比
+            生命周期与新老品对比
           </h2>
           <p class="muted small" style="margin: 4px 0 0">
             按品类切换 · 每款产品含发布/爬坡/主流/清尾/停产阶段 · 与老款对比升级点 · 更新于 {{ data?.updatedAt }}
@@ -43,7 +43,7 @@
 
     <div class="panel category-panel" v-if="activeCat">
       <div class="cat-note muted small" v-if="activeCat.note">
-        💡 {{ activeCat.note }}
+        研究提示 · {{ activeCat.note }}
       </div>
 
       <div class="prod-grid">
@@ -73,19 +73,19 @@
               <div class="price-value new">{{ p.currentPrice }}</div>
             </div>
             <div class="cadence-tag" v-if="p.cadence">
-              🔄 换代节奏 <b>{{ p.cadence }}</b>
+              换代节奏 <b>{{ p.cadence }}</b>
             </div>
           </div>
 
           <div class="prod-block spec" v-if="p.specHighlights?.length">
-            <div class="block-title">🔎 关键规格</div>
+            <div class="block-title">关键规格</div>
             <ul>
               <li v-for="s in p.specHighlights" :key="s">{{ s }}</li>
             </ul>
           </div>
 
           <div class="prod-block versus" v-if="p.vsOldGen">
-            <div class="block-title">🆚 新 vs 老</div>
+            <div class="block-title">新款与老款</div>
             <div class="vs-row">
               <div class="vs-side old-side">
                 <div class="vs-label">老款</div>
@@ -105,12 +105,12 @@
           </div>
 
           <div class="prod-block nextgen" v-if="p.nextGen">
-            <div class="block-title">🔮 下一代</div>
+            <div class="block-title">下一代</div>
             <div>{{ p.nextGen }}</div>
           </div>
 
           <div class="prod-block jd" v-if="p.jdAction">
-            <div class="block-title">📦 京东建议动作</div>
+            <div class="block-title">京东建议动作</div>
             <div>{{ p.jdAction }}</div>
           </div>
 

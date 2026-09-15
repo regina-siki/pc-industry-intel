@@ -1,18 +1,19 @@
 <template>
   <div>
     <!-- 公众号文章抓取入库入口 -->
-    <WeChatIngest />
+    <WeChatIngest v-if="!isStaticMode" />
 
     <div class="panel">
       <div class="head">
         <h2 class="section-title" style="margin: 0">公众号追踪清单</h2>
         <span class="muted small">
-          共 {{ list.length }} 个 · 在上面粘贴公众号文章链接可自动抓取入库
+          <template v-if="isStaticMode">共 {{ list.length }} 个 · 线上版本为只读档案，随数据更新自动发布</template>
+          <template v-else>共 {{ list.length }} 个 · 在上面粘贴公众号文章链接可自动抓取入库</template>
         </span>
       </div>
 
     <!-- 新增账号 -->
-    <div class="add-row">
+    <div v-if="!isStaticMode" class="add-row">
       <el-input
         v-model="form.name"
         placeholder="公众号名称"
@@ -67,20 +68,29 @@
       <el-table-column label="备注" min-width="180">
         <template #default="{ row }">
           <el-input
+            v-if="!isStaticMode"
             v-model="row.note"
             size="small"
             placeholder="—"
             @blur="onNoteBlur(row)"
           />
+          <span v-else class="muted">{{ row.note || '—' }}</span>
         </template>
       </el-table-column>
-      <el-table-column label="操作" width="90">
+      <el-table-column v-if="!isStaticMode" label="操作" width="90">
         <template #default="{ row }">
           <el-button text type="danger" size="small" @click="onDelete(row)">
             删除
           </el-button>
         </template>
       </el-table-column>
+      <template #empty>
+        <div class="empty-state">
+          <div class="empty-index">SOURCE / 00</div>
+          <div class="empty-title">追踪清单尚未收录信源</div>
+          <p>在数据仓库中补充公众号清单后，页面会在下一次发布时自动更新。</p>
+        </div>
+      </template>
     </el-table>
     </div>
   </div>
@@ -99,6 +109,7 @@ import { useBus } from '@/stores/bus'
 import WeChatIngest from '@/components/WeChatIngest.vue'
 
 const bus = useBus()
+const isStaticMode = import.meta.env.VITE_STATIC_MODE === 'true'
 
 const list = ref([])
 const form = reactive({
@@ -188,5 +199,31 @@ watch(() => bus.ingestVersion, reload)
   padding: 12px;
   background: rgba(47, 84, 235, 0.04);
   border-radius: 6px;
+}
+
+.empty-state {
+  padding: 48px 20px 56px;
+  color: var(--c-muted);
+  text-align: center;
+}
+
+.empty-index {
+  color: var(--c-accent);
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+}
+
+.empty-title {
+  margin-top: 7px;
+  color: var(--c-text);
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.empty-state p {
+  margin: 7px 0 0;
+  font-size: 12px;
 }
 </style>
