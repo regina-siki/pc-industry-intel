@@ -46,11 +46,22 @@
     <main id="main-content" class="app-main">
       <div class="container">
         <div class="page-masthead">
-          <div>
+          <div class="page-title-block">
             <div class="page-kicker">{{ pageInfo.kicker }}</div>
             <h1>{{ pageInfo.title }}</h1>
+            <p>{{ pageInfo.description }}</p>
           </div>
-          <p>{{ pageInfo.description }}</p>
+          <div class="page-spec" aria-label="报告信息">
+            <div class="spec-item">
+              <span>REPORT ID</span>
+              <b>{{ pageInfo.code }}</b>
+            </div>
+            <div class="spec-item">
+              <span>ANALYSIS SCOPE</span>
+              <b>{{ pageInfo.scope }}</b>
+            </div>
+            <div class="spec-status"><i></i> DATA LIVE</div>
+          </div>
         </div>
         <slot />
       </div>
@@ -86,26 +97,36 @@ const pageMap = {
     kicker: 'Supply chain monitor',
     title: '上下游供应链',
     description: '追踪供需变化、价格波动与政策信号，辅助备货、调价和供应商谈判。',
+    code: 'SCI-01',
+    scope: 'COMPONENT → CHANNEL',
   },
   product: {
     kicker: 'Product lifecycle',
     title: '产品与换代周期',
     description: '比较新老产品、价格区间和生命周期位置，找到更合适的经营窗口。',
+    code: 'PLC-02',
+    scope: 'SKU → LIFECYCLE',
   },
   customer: {
     kicker: 'Go-to-market strategy',
     title: '客户与渠道策略',
     description: '把客户画像、采购动机与产品服务方案放在同一张经营地图中。',
+    code: 'GTM-03',
+    scope: 'SEGMENT → SERVICE',
   },
   wechat: {
     kicker: 'Source archive',
     title: '公众号追踪档案',
     description: '维护行业信源，持续补充产业链、产品和渠道侧的一手信息。',
+    code: 'SRC-04',
+    scope: 'SOURCE ARCHIVE',
   },
   'news-detail': {
     kicker: 'Source reading',
     title: '资讯原文',
     description: '查看摘要、正文与来源信息。',
+    code: 'DOC-05',
+    scope: 'SOURCE READING',
   },
 }
 
@@ -143,16 +164,16 @@ function onSearch() {
   position: sticky;
   top: 0;
   z-index: 20;
-  border-bottom: 1px solid color-mix(in srgb, var(--c-text) 14%, transparent);
-  background: color-mix(in srgb, var(--c-bg) 90%, transparent);
-  backdrop-filter: blur(18px) saturate(130%);
+  border-bottom: 1px solid var(--c-border);
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(14px) saturate(120%);
 }
 
 .header-inner {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
-  min-height: 76px;
+  min-height: 68px;
   gap: 30px;
 }
 
@@ -168,30 +189,33 @@ function onSearch() {
   width: 38px;
   height: 38px;
   place-items: center;
-  border: 1px solid var(--c-text);
-  border-radius: 3px 11px 3px 3px;
-  color: var(--c-text);
-  background: var(--c-surface-strong);
-  font-family: var(--font-display);
-  font-size: 15px;
+  border: 1px solid #254c86;
+  border-radius: 6px;
+  color: #fff;
+  background:
+    linear-gradient(90deg, transparent 48%, rgba(255,255,255,.08) 48% 52%, transparent 52%),
+    linear-gradient(transparent 48%, rgba(255,255,255,.08) 48% 52%, transparent 52%),
+    #12233f;
+  font-family: var(--font-mono);
+  font-size: 13px;
   font-weight: 700;
-  letter-spacing: -0.08em;
-  box-shadow: 4px 4px 0 var(--c-accent-soft);
+  letter-spacing: -0.04em;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.08);
 }
 
 .logo-copy { display: grid; line-height: 1; }
 .logo-text {
-  font-family: var(--font-display);
-  font-size: 18px;
+  font-family: var(--font-sans);
+  font-size: 16px;
   font-weight: 700;
-  letter-spacing: -0.035em;
+  letter-spacing: -0.02em;
 }
 .logo-sub {
   margin-top: 6px;
   color: var(--c-muted);
   font-size: 9px;
   font-weight: 600;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.16em;
 }
 
 .nav {
@@ -219,7 +243,7 @@ function onSearch() {
     right: 13px;
     bottom: 5px;
     left: 13px;
-    height: 1px;
+    height: 2px;
     background: var(--c-accent);
     content: '';
     transform: scaleX(0);
@@ -227,8 +251,8 @@ function onSearch() {
     transition: transform 220ms cubic-bezier(.2,.8,.2,1);
   }
 
-  &:hover { color: var(--c-text); background: rgba(255, 255, 255, 0.45); }
-  &.active { color: var(--c-text); }
+  &:hover { color: var(--c-text); background: var(--c-surface-soft); }
+  &.active { color: var(--c-accent-dark); }
   &.active::after { transform: scaleX(1); }
 }
 
@@ -247,8 +271,8 @@ function onSearch() {
   gap: 8px;
   padding: 0 10px;
   border: 1px solid var(--c-border-strong);
-  border-radius: 6px;
-  background: rgba(255,255,255,.5);
+  border-radius: 5px;
+  background: #fff;
   transition: border-color 180ms ease, box-shadow 180ms ease;
 
   &:focus-within {
@@ -287,34 +311,42 @@ function onSearch() {
 
 .app-main {
   flex: 1;
-  padding: 42px 0 72px;
+  padding: 32px 0 72px;
 }
 
 .page-masthead {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 440px);
-  align-items: end;
-  gap: 72px;
-  margin-bottom: 28px;
-  padding: 6px 4px 28px;
-  border-bottom: 1px solid var(--c-border-strong);
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 44px;
+  margin-bottom: 20px;
+  padding: 24px 26px;
+  border: 1px solid var(--c-border);
+  border-left: 4px solid var(--c-accent);
+  border-radius: 7px;
+  background:
+    linear-gradient(90deg, rgba(37, 99, 235, .045) 1px, transparent 1px),
+    linear-gradient(rgba(37, 99, 235, .045) 1px, transparent 1px),
+    #f8fafc;
+  background-size: 24px 24px;
+  box-shadow: var(--shadow-sm);
 
   h1 {
-    margin: 4px 0 0;
-    font-family: var(--font-display);
-    font-size: clamp(32px, 4.1vw, 52px);
+    margin: 5px 0 7px;
+    font-family: var(--font-sans);
+    font-size: clamp(30px, 3.4vw, 42px);
     font-weight: 700;
-    letter-spacing: -0.06em;
-    line-height: 1.05;
+    letter-spacing: -0.045em;
+    line-height: 1.12;
     text-wrap: balance;
   }
 
   p {
-    max-width: 34rem;
+    max-width: 44rem;
     margin: 0;
     color: var(--c-muted);
     font-size: 13px;
-    line-height: 1.8;
+    line-height: 1.7;
     text-wrap: pretty;
   }
 }
@@ -322,17 +354,66 @@ function onSearch() {
 .page-kicker {
   color: var(--c-accent);
   font-family: var(--font-mono);
-  font-size: 10px;
+  font-size: 9px;
   font-weight: 600;
   letter-spacing: 0.13em;
   text-transform: uppercase;
+}
+
+.page-spec {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 10px 24px;
+  min-width: 310px;
+  padding-left: 24px;
+  border-left: 1px solid var(--c-border-strong);
+}
+
+.spec-item {
+  display: grid;
+  gap: 4px;
+
+  span {
+    color: var(--c-muted-light);
+    font-family: var(--font-mono);
+    font-size: 8px;
+    letter-spacing: 0.08em;
+  }
+
+  b {
+    color: var(--c-text);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+}
+
+.spec-status {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--c-positive);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+
+  i {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--c-positive);
+    box-shadow: 0 0 0 3px rgba(22, 121, 79, 0.12);
+  }
 }
 
 .app-footer {
   padding: 26px 0 32px;
   border-top: 1px solid var(--c-border-strong);
   color: var(--c-muted);
-  background: rgba(237, 232, 221, 0.55);
+  background: #e8edf3;
   font-size: 11px;
 }
 
@@ -344,7 +425,7 @@ function onSearch() {
 }
 .footer-brand {
   color: var(--c-text);
-  font-family: var(--font-display);
+  font-family: var(--font-sans);
   font-size: 14px;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -373,7 +454,14 @@ function onSearch() {
     overflow-x: auto;
   }
   .nav-item:first-child { padding-left: 0; }
-  .page-masthead { grid-template-columns: 1fr; gap: 13px; }
+  .page-masthead { grid-template-columns: 1fr; gap: 20px; }
+  .page-spec {
+    min-width: 0;
+    padding-top: 18px;
+    padding-left: 0;
+    border-top: 1px solid var(--c-border);
+    border-left: 0;
+  }
 }
 
 @media (max-width: 560px) {
@@ -388,7 +476,8 @@ function onSearch() {
   .nav-item { padding-inline: 5px; }
   .nav-index { display: none; }
   .app-main { padding-top: 28px; }
-  .page-masthead h1 { font-size: 34px; }
+  .page-masthead { padding: 20px; }
+  .page-masthead h1 { font-size: 31px; }
   .footer-inner { align-items: flex-start; flex-direction: column; }
 }
 </style>
