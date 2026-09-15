@@ -1,10 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Cannot GET /api/ai-intel</pre>
-</body>
-</html>
+{
+  "updatedAt": "2026-09-04",
+  "disclaimer": "本站用于研究和业务跟踪。事实、研究判断与观察假设分层展示；价格、发布日期和硬件状态均应以链接中的原始来源及最后核验时间为准。",
+  "radar": [
+    {"id":"capability","name":"模型能力","trend":"up","count":8,"note":"Agent、多模态与端侧模型持续成为发布重点"},
+    {"id":"price","name":"成本与价格","trend":"down","count":6,"note":"API 与订阅分层定价加快，需持续监测生效时间"},
+    {"id":"agent","name":"Agent","trend":"up","count":7,"note":"竞争从聊天能力转向工具调用和任务交付"},
+    {"id":"commercial","name":"商业化","trend":"up","count":5,"note":"API 之外，办公、企业服务和终端入口的权重上升"},
+    {"id":"application","name":"应用","trend":"up","count":7,"note":"办公、编程、搜索和内容创作是当前高频落地赛道"},
+    {"id":"hardware","name":"硬件与终端","trend":"up","count":9,"note":"AI 手机、AIPC、眼镜、耳机与车载入口同步推进"}
+  ],
+  "highlights": [
+    {"id":"h1","title":"模型竞争正从能力展示转向高频任务与终端入口","type":"研究判断","evidence":"B","why":"办公、编程、搜索与个人智能体更容易形成持续使用和付费。","action":"优先跟踪模型公司与操作系统、办公套件、手机/AIPC 品牌的合作变化。"},
+    {"id":"h2","title":"模型价格变化需要按生效时间和规格跟踪","type":"事实框架","evidence":"A","why":"同一模型的输入/输出、缓存、批处理和地区价格可能不同，静态价格结论容易过期。","action":"以官方定价页为主源，建立价格记录和变更历史，不用单一“性价比总分”替代。"},
+    {"id":"h3","title":"AI 硬件的商品化状态必须与传闻分开","type":"研究原则","evidence":"A","why":"“在售、已发布、开发中、传闻”对应完全不同的选品与合作价值。","action":"硬件选品页仅对已核验状态进行业务推荐，传闻只进入观察池。"}
+  ],
+  "actions": [
+    {"priority":"高","title":"建立 AI PC 软件权益包观察清单","detail":"围绕办公、编程、知识库和跨设备任务接力，优先关注可预装、可会员化的软件能力。"},
+    {"priority":"高","title":"维护 AI 手机终端合作台账","detail":"按模型/助手、手机品牌、产品状态、渠道、价格与上市节奏追踪。"},
+    {"priority":"中","title":"监控 AI 搜索与导购入口","detail":"识别回答式搜索、推荐、广告与 Agent 交易链路的产品化信号。"}
+  ],
+  "companies": [
+    {"id":"openai","name":"OpenAI","region":"海外","tags":["闭源旗舰","消费级入口","Agent"],"model":"GPT / o 系列","focus":"API、订阅、Agent 与原生终端方向","business":"模型能力向产品入口和任务交付延伸","updatedAt":"2026-09-04"},
+    {"id":"anthropic","name":"Anthropic","region":"海外","tags":["企业","编程","安全"],"model":"Claude 系列","focus":"企业与编程工作流","business":"通过订阅、API 与企业部署切入高价值专业任务","updatedAt":"2026-09-04"},
+    {"id":"google","name":"Google","region":"海外","tags":["全栈","搜索","终端"],"model":"Gemini 系列","focus":"搜索、Workspace、Android/Pixel 生态","business":"模型、云、操作系统和分发入口形成闭环","updatedAt":"2026-09-04"},
+    {"id":"meta","name":"Meta","region":"海外","tags":["开源","社交","硬件"],"model":"Llama 系列","focus":"开源生态、社交分发与智能眼镜","business":"开源换生态，借助社交和硬件扩大入口","updatedAt":"2026-09-04"},
+    {"id":"xai","name":"xAI","region":"海外","tags":["实时信息","社交入口"],"model":"Grok 系列","focus":"X 平台和消费级助手","business":"依托社交平台获取分发和实时信息入口","updatedAt":"2026-09-04"},
+    {"id":"alibaba","name":"阿里 / Qwen","region":"中国","tags":["开源","云","办公"],"model":"Qwen / Wan 系列","focus":"开源、云、钉钉和夸克生态","business":"通过开源生态、云服务和办公/搜索入口协同变现","updatedAt":"2026-09-04"},
+    {"id":"bytedance","name":"字节 / 豆包","region":"中国","tags":["流量","内容","办公"],"model":"豆包 / Seed 系列","focus":"豆包、飞书、内容工具与终端合作","business":"以内容和流量入口带动助手、创作和办公场景","updatedAt":"2026-09-04"},
+    {"id":"deepseek","name":"DeepSeek","region":"中国","tags":["开源","效率","推理"],"model":"DeepSeek 系列","focus":"开源模型与低成本推理","business":"以模型效率和开放生态影响成本曲线","updatedAt":"2026-09-04"},
+    {"id":"zhipu","name":"智谱","region":"中国","tags":["政企","Agent","硬件"],"model":"GLM 系列","focus":"私有化、Agent 与教育硬件","business":"政企部署与场景化产品并行","updatedAt":"2026-09-04"},
+    {"id":"kimi","name":"月之暗面 / Kimi","region":"中国","tags":["C端","长上下文","Agent"],"model":"Kimi 系列","focus":"消费级助手、长上下文与 Agent 产品","business":"以 C 端产品体验和订阅寻找商业化路径","updatedAt":"2026-09-04"},
+    {"id":"minimax","name":"MiniMax","region":"中国","tags":["全模态","出海","硬件"],"model":"MiniMax M / H 系列","focus":"文本、语音、视频、音乐和硬件生态","business":"全模态产品与海外商业化并行","updatedAt":"2026-09-04"},
+    {"id":"stepfun","name":"阶跃星辰","region":"中国","tags":["多模态","终端","车载"],"model":"Step 系列","focus":"手机、座舱和端侧合作","business":"以终端绑定探索模型落地与分发","updatedAt":"2026-09-04"}
+  ],
+  "events": [
+    {"id":"e1","date":"2026-09-04","company":"研究框架","category":"研究更新","level":"P1","evidence":"A","status":"verified","title":"AI 趋势站建立以事件和证据为核心的数据口径","summary":"将现有模型、价格、应用和硬件材料纳入统一事件、来源和证据框架，避免把历史材料直接当作实时事实。","source":"内部研究框架","url":""},
+    {"id":"e2","date":"2026-09-02","company":"Artificial Analysis","category":"模型评测","level":"P1","evidence":"B","status":"candidate","title":"独立评测快照需按评测版本和日期保存","summary":"评测分数只能作为特定版本、特定日期的对比参考，不能脱离基准和时间直接用于长期排名结论。","source":"Artificial Analysis Intelligence Index","url":""},
+    {"id":"e3","date":"2026-08-27","company":"模型价格","category":"价格变化","level":"P0","evidence":"A","status":"candidate","title":"14 家模型厂商输入输出价格数据完成初始整理","summary":"价格中心已具备初始可视化数据，下一步需逐条补齐官方定价页、生效时间和变更历史。","source":"现有研究价格图","url":""},
+    {"id":"e4","date":"2026-09-03","company":"AI 硬件","category":"硬件布局","level":"P0","evidence":"B","status":"candidate","title":"模型公司硬件布局转为选品状态台账","summary":"硬件按在售、已发布、开发中、传闻分层，服务 AI 手机、AIPC 和新型穿戴设备的业务筛选。","source":"现有硬件选品明细","url":""}
+  ],
+  "prices": [
+    {"company":"OpenAI","model":"GPT 系列","region":"海外","input":"待从官方定价页刷新","output":"待从官方定价页刷新","status":"candidate","source":"模型价格分布图-14厂商输入输出价格-20260827.html","asOf":"2026-08-27"},
+    {"company":"Anthropic","model":"Claude 系列","region":"海外","input":"待从官方定价页刷新","output":"待从官方定价页刷新","status":"candidate","source":"模型价格分布图-14厂商输入输出价格-20260827.html","asOf":"2026-08-27"},
+    {"company":"Google","model":"Gemini 系列","region":"海外","input":"待从官方定价页刷新","output":"待从官方定价页刷新","status":"candidate","source":"模型价格分布图-14厂商输入输出价格-20260827.html","asOf":"2026-08-27"},
+    {"company":"阿里 / Qwen","model":"Qwen 系列","region":"中国","input":"待从官方定价页刷新","output":"待从官方定价页刷新","status":"candidate","source":"模型价格分布图-14厂商输入输出价格-20260827.html","asOf":"2026-08-27"},
+    {"company":"DeepSeek","model":"DeepSeek 系列","region":"中国","input":"待从官方定价页刷新","output":"待从官方定价页刷新","status":"candidate","source":"模型价格分布图-14厂商输入输出价格-20260827.html","asOf":"2026-08-27"}
+  ],
+  "commercialization": [
+    {"path":"API / Token","maturity":"已商业化","description":"以模型调用计费，需监测价格、生效期和服务规格。"},
+    {"path":"C 端订阅","maturity":"已商业化","description":"消费级助手、专业版与多模态工具订阅。"},
+    {"path":"企业私有化","maturity":"已商业化","description":"行业部署、知识库和安全合规服务。"},
+    {"path":"开源 / 云生态","maturity":"已商业化","description":"开放权重带动云服务、工具链和生态采用。"},
+    {"path":"AI 办公","maturity":"已商业化","description":"办公套件、协同软件和知识工作流的高频入口。"},
+    {"path":"垂直 SaaS","maturity":"已商业化","description":"教育、客服、营销、编程等场景产品。"},
+    {"path":"Agent 结果交付","maturity":"试点 / 快速发展","description":"按完成任务、工作流结果或业务产出收费。"},
+    {"path":"AI 硬件","maturity":"分化","description":"在售产品、已发布项目和传闻必须分开管理。"},
+    {"path":"AI 广告","maturity":"观察","description":"回答式搜索、推荐和对话广告的产品化仍需验证。"},
+    {"path":"导购 / 交易","maturity":"观察","description":"Agent 购物、推荐、佣金与交易闭环。"},
+    {"path":"终端预装授权","maturity":"快速发展","description":"模型能力通过手机、AIPC、操作系统和品牌合作进入终端。"},
+    {"path":"推理 / 算力","maturity":"已商业化","description":"模型推理托管、云资源和算力服务。"}
+  ],
+  "applications": [
+    {"company":"OpenAI","search":"ChatGPT","office":"ChatGPT Team / Enterprise","coding":"Codex","education":"通用学习辅助","creation":"图像与多模态创作","agent":"Agent 能力方向","enterprise":"Enterprise / API","commerce":"观察"},
+    {"company":"Google","search":"AI 搜索 / Gemini","office":"Workspace","coding":"开发者工具","education":"Workspace for Education","creation":"图像/视频工具","agent":"Gemini Agent","enterprise":"Cloud","commerce":"搜索与广告生态"},
+    {"company":"阿里 / Qwen","search":"夸克 / 千问","office":"钉钉 AI","coding":"通义灵码","education":"学习辅助","creation":"通义万相","agent":"智能体平台","enterprise":"百炼/企业服务","commerce":"电商生态观察"},
+    {"company":"字节 / 豆包","search":"豆包","office":"飞书 AI","coding":"Trae","education":"学习辅助","creation":"即梦/剪映 AI","agent":"扣子","enterprise":"飞书/火山引擎","commerce":"内容与交易生态"},
+    {"company":"腾讯 / 混元","search":"元宝","office":"腾讯文档/会议/企业微信","coding":"开发工具","education":"教育生态","creation":"混元多媒体","agent":"元宝/生态","enterprise":"腾讯云","commerce":"微信生态观察"},
+    {"company":"百度 / 文心","search":"百度搜索","office":"百度文库/网盘","coding":"Comate","education":"教育生态","creation":"文心多媒体","agent":"智能体平台","enterprise":"智能云","commerce":"搜索导购观察"}
+  ],
+  "hardware": [
+    {"company":"OpenAI","category":"键盘","product":"AI 键盘（联名 Work Louder）","status":"已上市","price":"约 US$230（约 ¥1,656，按 7.2 汇率换算）","released":"2026-07-15","channel":"待补官方渠道","source":"现有硬件布局矩阵","evidence":"C"},
+    {"company":"OpenAI","category":"音箱","product":"无屏智能音箱","status":"开发中","price":"—","released":"预计 2027 年初","channel":"—","source":"现有硬件布局矩阵","evidence":"D"},
+    {"company":"Meta","category":"智能眼镜","product":"Ray-Ban Meta；Orion AR 眼镜","status":"已上市 / 已展示","price":"待核验","released":"待核验","channel":"官方及零售渠道","source":"现有硬件布局矩阵","evidence":"B"},
+    {"company":"小米","category":"AIPC","product":"AI Cube","status":"未上市","price":"—","released":"待核验","channel":"—","source":"现有硬件布局矩阵","evidence":"C"},
+    {"company":"字节 / 豆包","category":"AI 手机","product":"豆包 × 努比亚","status":"已宣布","price":"待核验","released":"预计 9 月上市","channel":"待补","source":"现有硬件布局矩阵","evidence":"C"},
+    {"company":"阶跃星辰","category":"AI 手机","product":"STEPX Neo","status":"已发布 / 待核验","price":"待核验","released":"待核验","channel":"待补","source":"现有硬件布局矩阵","evidence":"C"},
+    {"company":"智谱","category":"教育硬件","product":"拍学机、录音卡、鼠标、学问卡","status":"待核验","price":"待核验","released":"待核验","channel":"待补","source":"现有硬件布局矩阵","evidence":"C"}
+  ],
+  "sources": [
+    {"name":"OpenAI News / Developers","type":"官方","scope":"模型发布、产品与 API 定价","status":"待接入","lastChecked":"—"},
+    {"name":"Anthropic News / Docs","type":"官方","scope":"Claude、企业与 API","status":"待接入","lastChecked":"—"},
+    {"name":"Google AI Blog / Developers","type":"官方","scope":"Gemini、Workspace、Android","status":"待接入","lastChecked":"—"},
+    {"name":"阿里云 / 通义 / 钉钉","type":"官方","scope":"Qwen、云、办公与价格","status":"待接入","lastChecked":"—"},
+    {"name":"字节 / 火山引擎 / 飞书","type":"官方","scope":"豆包、内容工具、办公和企业服务","status":"待接入","lastChecked":"—"},
+    {"name":"Artificial Analysis","type":"专业数据库","scope":"模型评测与价格参考","status":"人工核验","lastChecked":"2026-09-02"},
+    {"name":"GitHub / Hugging Face","type":"开放生态","scope":"开源发布、模型卡与代码更新","status":"待接入","lastChecked":"—"}
+  ]
+}

@@ -1,10 +1,585 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Cannot GET /api/static</pre>
-</body>
-</html>
+{
+  "kpi": [
+    {
+      "label": "本季度中国 PC 出货量",
+      "value": "1,150 万台",
+      "delta": "+4.8% YoY",
+      "up": true,
+      "source": "Canalys 中国 PC 季度报告",
+      "formula": "笔记本 + 台式机 + 工作站 + 一体机 合计出货量，同比",
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "label": "AI PC 出货占比",
+      "value": "26.4%",
+      "delta": "+11pp YoY",
+      "up": true,
+      "source": "IDC AI PC Tracker",
+      "formula": "含 Copilot+ 认证 (NPU ≥40 TOPS) 与国产等效 NPU 机型 ÷ 全部 PC 出货",
+      "updatedAt": "2026-07-10"
+    },
+    {
+      "label": "游戏本季度 GMV (中国)",
+      "value": "¥88 亿",
+      "delta": "+22% YoY",
+      "up": true,
+      "source": "京东商智 + 天猫 + Canalys",
+      "formula": "京东 + 天猫 + 品牌自营 游戏本类目 GMV 合计",
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "label": "本月全球服务器出货量",
+      "value": "316 万台",
+      "delta": "+8.2%",
+      "up": true,
+      "source": "IDC Server Tracker",
+      "formula": "IDC 月度出货量报告，环比上月",
+      "updatedAt": "2026-06-28"
+    },
+    {
+      "label": "AI 服务器占比",
+      "value": "24.6%",
+      "delta": "+5.1pp",
+      "up": true,
+      "source": "TrendForce",
+      "formula": "AI 服务器出货台数 ÷ 全球服务器总出货，pp = 百分点",
+      "updatedAt": "2026-06-25"
+    },
+    {
+      "label": "DDR5 现货均价",
+      "value": "$4.21",
+      "delta": "-2.3%",
+      "up": false,
+      "source": "DRAMeXchange 现货报价",
+      "formula": "DDR5 16Gb 主流颗粒周均价，环比上周",
+      "updatedAt": "2026-06-27"
+    },
+    {
+      "label": "云厂商资本开支 (Q)",
+      "value": "$589 亿",
+      "delta": "+19%",
+      "up": true,
+      "source": "各公司季报",
+      "formula": "AWS + Azure + GCP + Meta 四家最新季度 Capex 合计，YoY",
+      "updatedAt": "2026-05-31"
+    }
+  ],
+  "insights": {
+    "summary": "本月 PC 全品类主线：AI PC 渗透突破 25%、游戏本 RTX 50 系首发拉动 ASP；DIY 装机受国补 + 以旧换新支撑；AI 服务器需求继续外溢至 HBM 与液冷；北美云厂商 Capex 二次上修，国内运营商集采落地推动国产化率抬升。",
+    "updatedAt": "2026-07-20",
+    "highlights": [
+      { "key": "aipc", "title": "AI PC 渗透突破 25%", "level": "high",
+        "points": ["联想 / 华硕 / 惠普 / 戴尔 主流轻薄本全部升级 Copilot+ 认证 (NPU ≥40 TOPS)", "首年独立频道诞生，AI PC 类目 GMV YoY +180%"] },
+      { "key": "gaming", "title": "游戏本 RTX 5090 laptop 首发热", "level": "high",
+        "points": ["ROG 幻 X / 联想拯救者 Y9000K / 微星 Titan 18 HX 首发首日售罄", "游戏本单机 ASP 上探至 ¥15-20k"] },
+      { "key": "diy-boost", "title": "DIY 装机受国补 + 以旧换新支撑", "level": "high",
+        "points": ["¥7-12k 主机是甜点价格带，¥3000 装机套装订单量翻倍", "DDR5-8000 内存条 ASP 反弹 10-15%"] },
+      { "key": "edu-refresh", "title": "教育信息化 PC 更新", "level": "mid",
+        "points": ["'教育信息化 2.0' 落地，学校 PC 更新 2026-2027 累计 500 亿+", "联想开天 / 兆芯 / 鲲鹏 国产整机是主流方案"] },
+      { "key": "ai", "title": "AI 服务器景气延续", "level": "high",
+        "points": ["NVIDIA Blackwell Ultra 拉动 HBM3e / CoWoS 产能持续紧张", "国内华为昇腾、寒武纪份额在互联网大客户中继续爬升"] },
+      { "key": "capex", "title": "云厂商 Capex 上修", "level": "high",
+        "points": ["北美四大云厂 2026 Capex 指引上调 10-15%", "阿里云全年服务器采购预算上调至 3800 亿元"] },
+      { "key": "localize", "title": "国产化 & 运营商集采", "level": "mid",
+        "points": ["中国移动通用服务器集采：浪潮 41% / 华为 / 新华三中标", "关注海光、飞腾在金融政企场景的渗透节奏"] },
+      { "key": "cooling", "title": "液冷渗透率突破 30%", "level": "mid",
+        "points": ["冷板式为当前主流，浸没式在智算中心持续放量", "英维克、高澜、申菱是订单主要受益方"] },
+      { "key": "risk", "title": "需要警惕的风险", "level": "watch",
+        "points": ["HBM 供需若在 2027 年反转，AI 服务器 BOM 成本可能快速下降", "游戏本 RTX 50 系溢价窗口 8-12 个月，2027 年可能回归性价比", "通用 x86 服务器价格战是否再起，取决于 Intel/AMD 新平台推货节奏"] }
+    ]
+  },
+  "supplyChain": {
+    "disclaimer": "各节点市场份额基于公开机构报告估算（IDC / TrendForce / Counterpoint / 赛迪顾问），非官方数据；环比变化为近 2-3 季度定性判断。",
+    "nodes": [
+      { "id": "cpu", "name": "服务器 CPU", "layer": "upstream" },
+      { "id": "gpu", "name": "数据中心 GPU / 加速卡", "layer": "upstream" },
+      { "id": "mem", "name": "HBM / 服务器内存", "layer": "upstream" },
+      { "id": "storage", "name": "企业级 SSD/HDD", "layer": "upstream" },
+      { "id": "pcb", "name": "PCB / 连接器", "layer": "upstream" },
+      { "id": "power", "name": "电源 / 散热", "layer": "upstream" },
+      { "id": "pc-cpu", "name": "PC CPU", "layer": "upstream" },
+      { "id": "pc-gpu-aic", "name": "消费显卡 / AIC", "layer": "upstream" },
+      { "id": "mb", "name": "主板", "layer": "upstream" },
+      { "id": "ram-diy", "name": "DIY 内存", "layer": "upstream" },
+      { "id": "ssd-consumer", "name": "消费级 SSD", "layer": "upstream" },
+      { "id": "case-cooler", "name": "机箱/散热", "layer": "upstream" },
+      { "id": "monitor", "name": "显示器", "layer": "upstream" },
+      { "id": "peripheral", "name": "外设 (键鼠/耳机)", "layer": "upstream" },
+      { "id": "oem", "name": "服务器 OEM", "layer": "mid" },
+      { "id": "odm", "name": "服务器 ODM", "layer": "mid" },
+      { "id": "sysint", "name": "系统集成商", "layer": "mid" },
+      { "id": "pc-oem", "name": "PC 品牌 (笔电/台机)", "layer": "mid" },
+      { "id": "nb-odm", "name": "笔记本 ODM", "layer": "mid" },
+      { "id": "aio-mini", "name": "AIO / MiniPC 品牌", "layer": "mid" },
+      { "id": "hyper", "name": "互联网 / 云厂商", "layer": "downstream" },
+      { "id": "telco", "name": "运营商", "layer": "downstream" },
+      { "id": "gov", "name": "政企 / 金融", "layer": "downstream" },
+      { "id": "idc", "name": "IDC / 智算中心", "layer": "downstream" },
+      { "id": "pc-retail", "name": "PC 零售 (线上线下 3C)", "layer": "downstream" },
+      { "id": "pc-diy", "name": "DIY 玩家", "layer": "downstream" },
+      { "id": "pc-enterprise", "name": "企业 IT / 商用", "layer": "downstream" },
+      { "id": "pc-education", "name": "教育 / 网吧 / 电竞馆", "layer": "downstream" },
+      { "id": "pc-gaming", "name": "游戏 / 电竞玩家", "layer": "downstream" }
+    ],
+    "links": [
+      { "source": "cpu", "target": "oem" }, { "source": "cpu", "target": "odm" },
+      { "source": "gpu", "target": "oem" }, { "source": "gpu", "target": "odm" },
+      { "source": "mem", "target": "oem" }, { "source": "mem", "target": "odm" },
+      { "source": "storage", "target": "oem" }, { "source": "storage", "target": "odm" },
+      { "source": "pcb", "target": "odm" }, { "source": "power", "target": "odm" },
+      { "source": "oem", "target": "hyper" }, { "source": "oem", "target": "telco" },
+      { "source": "oem", "target": "gov" }, { "source": "odm", "target": "hyper" },
+      { "source": "odm", "target": "idc" }, { "source": "sysint", "target": "gov" },
+      { "source": "sysint", "target": "idc" },
+
+      { "source": "pc-cpu", "target": "pc-oem" }, { "source": "pc-cpu", "target": "nb-odm" }, { "source": "pc-cpu", "target": "aio-mini" },
+      { "source": "pc-gpu-aic", "target": "pc-oem" }, { "source": "pc-gpu-aic", "target": "pc-retail" }, { "source": "pc-gpu-aic", "target": "pc-diy" },
+      { "source": "mb", "target": "pc-oem" }, { "source": "mb", "target": "nb-odm" }, { "source": "mb", "target": "pc-diy" },
+      { "source": "ram-diy", "target": "pc-diy" }, { "source": "ram-diy", "target": "pc-retail" },
+      { "source": "ssd-consumer", "target": "pc-diy" }, { "source": "ssd-consumer", "target": "pc-retail" },
+      { "source": "case-cooler", "target": "pc-diy" }, { "source": "case-cooler", "target": "pc-retail" },
+      { "source": "monitor", "target": "pc-retail" }, { "source": "monitor", "target": "pc-enterprise" }, { "source": "monitor", "target": "pc-gaming" },
+      { "source": "peripheral", "target": "pc-retail" }, { "source": "peripheral", "target": "pc-gaming" },
+      { "source": "pc-oem", "target": "pc-retail" }, { "source": "pc-oem", "target": "pc-enterprise" }, { "source": "pc-oem", "target": "pc-education" },
+      { "source": "nb-odm", "target": "pc-oem" }, { "source": "aio-mini", "target": "pc-retail" }, { "source": "aio-mini", "target": "pc-enterprise" }
+    ],
+    "marketShare": {
+      "cpu": {
+        "scope": "全球服务器 CPU (按出货量)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Intel", "share": 68, "change": "-3pp", "trend": "down" },
+          { "name": "AMD", "share": 27, "change": "+3pp", "trend": "up" },
+          { "name": "海光 / 飞腾 / 华为鲲鹏", "share": 5, "change": "+1pp", "trend": "up" }
+        ],
+        "recentChange": "AMD EPYC Turin 在云厂商中份额继续挤压 Intel；国产 CPU 在政企/信创场景加速渗透",
+        "source": "Mercury Research + 赛迪顾问"
+      },
+      "gpu": {
+        "scope": "全球数据中心 GPU / 加速卡",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "NVIDIA", "share": 88, "change": "-2pp", "trend": "flat" },
+          { "name": "AMD Instinct", "share": 6, "change": "+1pp", "trend": "up" },
+          { "name": "华为昇腾", "share": 4, "change": "+2pp", "trend": "up" },
+          { "name": "其他 (寒武纪等)", "share": 2, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "NVIDIA 依旧统治性；华为昇腾在国内互联网/运营商拿到大单快速抬升",
+        "source": "Jon Peddie Research + 集邦咨询"
+      },
+      "mem": {
+        "scope": "全球 HBM 内存",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "SK Hynix", "share": 53, "change": "-2pp", "trend": "flat" },
+          { "name": "Samsung", "share": 33, "change": "+3pp", "trend": "up" },
+          { "name": "Micron", "share": 14, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "HBM3e 12H 良率突破后 Samsung 追赶；HBM4 送样将重新洗牌",
+        "source": "TrendForce"
+      },
+      "storage": {
+        "scope": "全球企业级 NAND / SSD",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Samsung", "share": 34, "change": "-1pp", "trend": "flat" },
+          { "name": "SK Hynix + Solidigm", "share": 25, "change": "+1pp", "trend": "up" },
+          { "name": "Kioxia + WDC", "share": 22, "change": "-2pp", "trend": "down" },
+          { "name": "Micron", "share": 12, "change": "+持平", "trend": "flat" },
+          { "name": "长江存储", "share": 7, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "长江存储 8-bit TLC 量产后份额加速；企业级 SSD 需求随 AI 服务器上行",
+        "source": "TrendForce"
+      },
+      "pcb": {
+        "scope": "全球高速服务器 PCB",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "沪电股份", "share": 18, "change": "+3pp", "trend": "up" },
+          { "name": "TTM", "share": 15, "change": "-1pp", "trend": "flat" },
+          { "name": "Ibiden", "share": 12, "change": "-1pp", "trend": "flat" },
+          { "name": "生益科技", "share": 8, "change": "+1pp", "trend": "up" }
+        ],
+        "recentChange": "AI 服务器高速 PCB (M6/M7) 拉动国内厂商份额；沪电产能满载",
+        "source": "Prismark + 沪电/生益公告"
+      },
+      "power": {
+        "scope": "服务器电源 + 液冷散热",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "台达 (电源)", "share": 40, "change": "+持平", "trend": "flat" },
+          { "name": "英维克 (液冷)", "share": 28, "change": "+5pp", "trend": "up" },
+          { "name": "高澜 (液冷)", "share": 12, "change": "+2pp", "trend": "up" },
+          { "name": "申菱 (液冷)", "share": 8, "change": "+3pp", "trend": "up" }
+        ],
+        "recentChange": "液冷厂商订单同比 +50~90%，是这轮 AI 浪潮里增速最快的上游环节",
+        "source": "赛迪顾问 + 上市公司年报"
+      },
+      "oem": {
+        "scope": "全球 x86 服务器 OEM (按营收)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "Dell", "share": 16, "change": "+持平", "trend": "flat" },
+          { "name": "HPE", "share": 14, "change": "-1pp", "trend": "flat" },
+          { "name": "浪潮信息", "share": 12, "change": "+2pp", "trend": "up" },
+          { "name": "Lenovo", "share": 8, "change": "+持平", "trend": "flat" },
+          { "name": "华为 + 超聚变", "share": 8, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "浪潮受益于国内运营商集采与 AI 服务器出货；超聚变承接华为服务器业务加速",
+        "source": "IDC WW Quarterly Server Tracker"
+      },
+      "odm": {
+        "scope": "全球 AI 服务器 ODM (面向 CSP)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "工业富联 (Foxconn)", "share": 38, "change": "+4pp", "trend": "up" },
+          { "name": "Quanta 广达", "share": 22, "change": "-2pp", "trend": "down" },
+          { "name": "Wiwynn 纬颖", "share": 14, "change": "+1pp", "trend": "up" },
+          { "name": "Inventec 英业达", "share": 12, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "工业富联 AI 服务器营收 +187%，AI 整机柜产能是行业瓶颈",
+        "source": "TrendForce AI Server Report"
+      },
+      "sysint": {
+        "scope": "国内政企 / 智算集成",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "中科曙光", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "紫光股份 (新华三)", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "华为 (方案 + 昇腾)", "share": "—", "change": "—", "trend": "up" }
+        ],
+        "recentChange": "国家级 / 地方智算中心项目中标集中于中科曙光、华为、紫光",
+        "source": "中国政府采购网 + 项目公告"
+      },
+      "hyper": {
+        "scope": "全球超大规模 CSP (按 Capex)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "AWS + Azure + GCP + Meta", "share": 72, "change": "+持平", "trend": "flat" },
+          { "name": "阿里云", "share": 7, "change": "+1pp", "trend": "up" },
+          { "name": "腾讯 + 字节", "share": 6, "change": "+1pp", "trend": "up" },
+          { "name": "百度 + 其他", "share": 15, "change": "-2pp", "trend": "down" }
+        ],
+        "recentChange": "北美 4 家 2026 Capex 上调 10-15%；国内头部三家 AI 占比均 ≥50%",
+        "source": "各公司季报"
+      },
+      "telco": {
+        "scope": "国内运营商服务器集采 (按金额)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "中国移动", "share": 49, "change": "+持平", "trend": "flat" },
+          { "name": "中国电信", "share": 27, "change": "+持平", "trend": "flat" },
+          { "name": "中国联通", "share": 24, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "2026 三家合计集采约 337 亿元；国产化率同比大幅抬升",
+        "source": "三大运营商 2026 集采公告"
+      },
+      "gov": {
+        "scope": "国内政企 / 金融 IT 硬件",
+        "asOf": "2025 全年",
+        "players": [
+          { "name": "金融 (工/建/农/中)", "share": "—", "change": "—", "trend": "up" },
+          { "name": "国家电网 + 南方电网", "share": "—", "change": "—", "trend": "up" },
+          { "name": "部委 / 央企", "share": "—", "change": "—", "trend": "flat" }
+        ],
+        "recentChange": "国家电网 2025 IT 集采约 45 亿元；金融信创进入深水区",
+        "source": "上市公司公告 + 国家电网电子商务平台"
+      },
+      "idc": {
+        "scope": "国内 IDC / 智算中心运营",
+        "asOf": "2025 全年",
+        "players": [
+          { "name": "世纪互联", "share": "—", "change": "—", "trend": "flat" },
+          { "name": "万国数据 (GDS)", "share": "—", "change": "—", "trend": "up" },
+          { "name": "光环新网", "share": "—", "change": "—", "trend": "flat" }
+        ],
+        "recentChange": "东数西算带动智算中心新建；GPU 出租业务毛利率显著高于传统 IDC",
+        "source": "赛迪顾问 + 各 IDC 公司年报"
+      },
+      "pc-cpu": {
+        "scope": "全球 PC CPU (含 x86 / ARM / Apple)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "Intel Core Ultra", "share": 58, "change": "-4pp", "trend": "down" },
+          { "name": "AMD Ryzen", "share": 26, "change": "+3pp", "trend": "up" },
+          { "name": "Apple Silicon (M4/M5)", "share": 11, "change": "+1pp", "trend": "up" },
+          { "name": "Qualcomm Snapdragon X", "share": 4, "change": "+2pp", "trend": "up" },
+          { "name": "国产 (兆芯/龙芯)", "share": 1, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "AMD Ryzen AI 300 系列 + Snapdragon X Elite 首次挤压 Intel 份额；Apple Mac 在教育/内容创作稳定增长",
+        "source": "Mercury Research + Canalys + IDC"
+      },
+      "pc-gpu-aic": {
+        "scope": "全球消费级独显 (按出货)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "NVIDIA GeForce", "share": 88, "change": "+1pp", "trend": "up" },
+          { "name": "AMD Radeon", "share": 10, "change": "-1pp", "trend": "flat" },
+          { "name": "Intel Arc", "share": 2, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "RTX 5090/5080 首发拉高 NVIDIA 份额；国内 AIC 品牌 (华硕/技嘉/微星/影驰/七彩虹) 竞争激烈",
+        "source": "Jon Peddie Research + 淘宝天猫京东零售数据"
+      },
+      "mb": {
+        "scope": "全球主板 (按出货)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "华硕", "share": 32, "change": "+1pp", "trend": "up" },
+          { "name": "技嘉", "share": 22, "change": "-1pp", "trend": "flat" },
+          { "name": "微星", "share": 19, "change": "+持平", "trend": "flat" },
+          { "name": "华擎", "share": 14, "change": "+1pp", "trend": "up" },
+          { "name": "其他", "share": 13, "change": "-1pp", "trend": "down" }
+        ],
+        "recentChange": "AM5 X870 / LGA1851 Z890 主板换代带来 ASP 上升；华硕在 ROG 高端持续领先",
+        "source": "DigiTimes + Canalys"
+      },
+      "ram-diy": {
+        "scope": "全球 DIY 内存条 (零售)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "金士顿", "share": 34, "change": "+持平", "trend": "flat" },
+          { "name": "海盗船 Corsair", "share": 18, "change": "-1pp", "trend": "flat" },
+          { "name": "威刚 XPG", "share": 14, "change": "+1pp", "trend": "up" },
+          { "name": "芝奇 G.Skill", "share": 12, "change": "+持平", "trend": "flat" },
+          { "name": "十铨 / 光威 / 阿斯加特", "share": 22, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "DDR5-8000+ 频率成为主流；光威 (长鑫封装) 在国内价格战中份额抬升",
+        "source": "JEDEC + 京东天猫电商数据"
+      },
+      "ssd-consumer": {
+        "scope": "全球消费级 SSD (M.2 + SATA)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "Samsung", "share": 28, "change": "-2pp", "trend": "flat" },
+          { "name": "西部数据 (WD)", "share": 15, "change": "-1pp", "trend": "flat" },
+          { "name": "SK Hynix / Solidigm", "share": 14, "change": "+1pp", "trend": "up" },
+          { "name": "铠侠 Kioxia", "share": 12, "change": "+持平", "trend": "flat" },
+          { "name": "长江存储 (致态)", "share": 12, "change": "+3pp", "trend": "up" },
+          { "name": "美光 / 雷克沙 / 其他", "share": 19, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "致态 (长江存储) 在国内消费市场份额突破 12%，PCIe 5.0 SSD 领先",
+        "source": "TrendForce + 京东天猫销售数据"
+      },
+      "case-cooler": {
+        "scope": "全球 DIY 机箱 + 散热器 (按 GMV)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "利民 Thermalright", "share": 22, "change": "+3pp", "trend": "up" },
+          { "name": "九州风神", "share": 18, "change": "+1pp", "trend": "up" },
+          { "name": "联力 Lian Li", "share": 13, "change": "+持平", "trend": "flat" },
+          { "name": "追风者 Phanteks", "share": 10, "change": "-1pp", "trend": "flat" },
+          { "name": "海盗船 / 猫头鹰 / 其他", "share": 37, "change": "-3pp", "trend": "down" }
+        ],
+        "recentChange": "国产品牌利民、九州风神在性价比档份额突破 40%；ARGB 全钢机箱走俏",
+        "source": "SMZDM + 京东天猫电商数据"
+      },
+      "monitor": {
+        "scope": "全球显示器 (按出货)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "三星", "share": 15, "change": "+持平", "trend": "flat" },
+          { "name": "LG", "share": 14, "change": "-1pp", "trend": "flat" },
+          { "name": "戴尔 Dell", "share": 11, "change": "+1pp", "trend": "up" },
+          { "name": "AOC", "share": 10, "change": "+持平", "trend": "flat" },
+          { "name": "明基 / 优派 / 华硕 / MSI / 其他", "share": 50, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "OLED 显示器渗透突破 8%，4K 240Hz OLED 成为电竞旗舰主流",
+        "source": "IDC + Omdia"
+      },
+      "peripheral": {
+        "scope": "全球游戏外设 (键鼠耳机)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "罗技 Logitech", "share": 28, "change": "+持平", "trend": "flat" },
+          { "name": "雷蛇 Razer", "share": 15, "change": "-1pp", "trend": "flat" },
+          { "name": "HyperX", "share": 8, "change": "+持平", "trend": "flat" },
+          { "name": "SteelSeries", "share": 6, "change": "+持平", "trend": "flat" },
+          { "name": "国产品牌 (雷柏/达尔优/维咖/凯酷)", "share": 43, "change": "+1pp", "trend": "up" }
+        ],
+        "recentChange": "国产客制化键盘品牌在中高端崛起；无线电竞鼠标 GMV 同比 +35%",
+        "source": "Canalys + 京东天猫数据"
+      },
+      "pc-oem": {
+        "scope": "全球 PC OEM 品牌 (笔电+台机+一体机 按出货)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "联想 Lenovo", "share": 24, "change": "+1pp", "trend": "up" },
+          { "name": "惠普 HP", "share": 21, "change": "-1pp", "trend": "flat" },
+          { "name": "戴尔 Dell", "share": 16, "change": "-1pp", "trend": "flat" },
+          { "name": "苹果 Apple", "share": 9, "change": "+1pp", "trend": "up" },
+          { "name": "华硕 ASUS", "share": 8, "change": "+持平", "trend": "flat" },
+          { "name": "宏碁 Acer + 其他", "share": 22, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "联想在 AI PC 首年拿下市场领先；Apple Mac 在教育/创作稳步增长",
+        "source": "Canalys + IDC"
+      },
+      "nb-odm": {
+        "scope": "全球笔记本 ODM (按代工出货)",
+        "asOf": "2026 Q1",
+        "players": [
+          { "name": "仁宝 Compal", "share": 22, "change": "+持平", "trend": "flat" },
+          { "name": "广达 Quanta", "share": 21, "change": "-1pp", "trend": "flat" },
+          { "name": "纬创 Wistron", "share": 16, "change": "+1pp", "trend": "up" },
+          { "name": "英业达 Inventec", "share": 12, "change": "+持平", "trend": "flat" },
+          { "name": "和硕 Pegatron / 其他", "share": 29, "change": "+持平", "trend": "flat" }
+        ],
+        "recentChange": "AI PC 认证机型集中于仁宝 + 广达；产能进入 2026 Q4 满载",
+        "source": "DigiTimes + TrendForce"
+      },
+      "aio-mini": {
+        "scope": "中国 AIO + MiniPC 品牌 (按销量)",
+        "asOf": "2026 Q2",
+        "players": [
+          { "name": "联想", "share": 32, "change": "+持平", "trend": "flat" },
+          { "name": "戴尔", "share": 18, "change": "-1pp", "trend": "flat" },
+          { "name": "惠普", "share": 12, "change": "-1pp", "trend": "flat" },
+          { "name": "苹果 Mac mini", "share": 8, "change": "+1pp", "trend": "up" },
+          { "name": "零刻 / 铭凡 / 极摩客 (Mini PC)", "share": 30, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "国产 MiniPC 品牌零刻 / 铭凡在 Ryzen AI Max+ 395 / Strix Halo 平台上市 → 桌面 AI 主机新品类",
+        "source": "京东商智 + IDC 中国 PC 报告"
+      },
+      "pc-retail": {
+        "scope": "中国 PC 零售渠道 (按 GMV)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "京东自营 + 京东 3C", "share": 41, "change": "+2pp", "trend": "up" },
+          { "name": "天猫 + 淘宝", "share": 28, "change": "-1pp", "trend": "flat" },
+          { "name": "拼多多", "share": 10, "change": "+1pp", "trend": "up" },
+          { "name": "抖音电商", "share": 8, "change": "+2pp", "trend": "up" },
+          { "name": "苏宁 / 国美 / 线下 3C", "share": 13, "change": "-4pp", "trend": "down" }
+        ],
+        "recentChange": "京东在 3C 品类的市场份额继续领先；抖音直播带货 PC 类目高速增长",
+        "source": "京东商智 + Canalys"
+      },
+      "pc-diy": {
+        "scope": "中国 DIY 装机人群 (按 GMV)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "游戏玩家 DIY", "share": 55, "change": "+2pp", "trend": "up" },
+          { "name": "AI/创作者本地推理", "share": 20, "change": "+8pp", "trend": "up" },
+          { "name": "办公升级换机", "share": 15, "change": "-3pp", "trend": "down" },
+          { "name": "极客/HTPC/软路由", "share": 10, "change": "-2pp", "trend": "down" }
+        ],
+        "recentChange": "AI/创作者 DIY 群体首次突破 20%，¥15-25k 机型是新增量",
+        "source": "SMZDM + Chiphell + Bilibili 装机博主统计"
+      },
+      "pc-enterprise": {
+        "scope": "中国企业 IT / 商用 PC 采购 (按 GMV)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "党政机关 + 央国企", "share": 42, "change": "+3pp", "trend": "up" },
+          { "name": "金融/医疗/能源", "share": 26, "change": "+持平", "trend": "flat" },
+          { "name": "民营大中型企业", "share": 22, "change": "-2pp", "trend": "flat" },
+          { "name": "中小企业", "share": 10, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "信创国产化率强制 60%+，联想开天 / 清华同方 / 长城 是主力方案",
+        "source": "中国政府采购网 + 国家电子商务平台"
+      },
+      "pc-education": {
+        "scope": "中国教育信息化 PC 采购 (按项目金额)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "K12 学校", "share": 45, "change": "+持平", "trend": "flat" },
+          { "name": "高校 / 职业院校", "share": 30, "change": "+2pp", "trend": "up" },
+          { "name": "教培机构 (线下)", "share": 8, "change": "-4pp", "trend": "down" },
+          { "name": "网吧 / 电竞馆 / 云网吧", "share": 17, "change": "+2pp", "trend": "up" }
+        ],
+        "recentChange": "'教育信息化 2.0' 拉动学校 PC 更新；电竞馆借电竞产业规划有政策扶持",
+        "source": "教育部办公厅 + 中国政府采购网"
+      },
+      "pc-gaming": {
+        "scope": "中国游戏本 + 电竞主机 (按 GMV)",
+        "asOf": "2026 H1",
+        "players": [
+          { "name": "联想拯救者", "share": 28, "change": "+1pp", "trend": "up" },
+          { "name": "华硕 ROG", "share": 20, "change": "+持平", "trend": "flat" },
+          { "name": "微星 MSI", "share": 12, "change": "-1pp", "trend": "flat" },
+          { "name": "戴尔外星人 Alienware", "share": 8, "change": "+持平", "trend": "flat" },
+          { "name": "雷神 / 机械革命 / 未来人类", "share": 20, "change": "+1pp", "trend": "up" },
+          { "name": "其他", "share": 12, "change": "-1pp", "trend": "flat" }
+        ],
+        "recentChange": "RTX 5090 laptop 首发拉动联想拯救者 Y9000K 和 ROG 幻 X 双爆",
+        "source": "京东商智 + 天猫 + Canalys"
+      }
+    },
+    "companies": {
+      "cpu": ["Intel", "AMD", "海光", "飞腾"],
+      "gpu": ["NVIDIA", "AMD", "华为昇腾", "寒武纪"],
+      "mem": ["SK Hynix", "Samsung", "Micron", "长鑫"],
+      "storage": ["Samsung", "西部数据", "长江存储"],
+      "pcb": ["沪电股份", "生益科技", "深南电路"],
+      "power": ["台达", "英维克", "高澜"],
+      "oem": ["Dell", "HPE", "Lenovo", "浪潮", "新华三", "华为"],
+      "odm": ["工业富联", "广达", "英业达", "纬颖"],
+      "sysint": ["中科曙光", "紫光股份"],
+      "hyper": ["阿里云", "腾讯云", "字节", "百度", "AWS", "Azure"],
+      "telco": ["中国移动", "中国电信", "中国联通"],
+      "gov": ["工行", "建行", "国家电网"],
+      "idc": ["世纪互联", "万国数据", "光环新网"],
+      "pc-cpu": ["Intel Core Ultra", "AMD Ryzen", "Apple M4/M5", "Qualcomm Snapdragon X", "兆芯", "龙芯"],
+      "pc-gpu-aic": ["华硕 ROG", "技嘉", "微星", "影驰", "七彩虹", "铭瑄", "索泰", "PNY"],
+      "mb": ["华硕", "技嘉", "微星", "华擎", "映泰"],
+      "ram-diy": ["金士顿", "海盗船", "威刚", "芝奇", "光威", "十铨", "阿斯加特"],
+      "ssd-consumer": ["Samsung", "西数 WD", "SK Hynix", "铠侠", "长江存储致态", "美光", "雷克沙"],
+      "case-cooler": ["利民", "九州风神", "联力", "追风者", "海盗船", "猫头鹰", "玩嘉"],
+      "monitor": ["三星", "LG", "戴尔", "AOC", "明基", "优派", "华硕", "MSI"],
+      "peripheral": ["罗技", "雷蛇", "HyperX", "SteelSeries", "樱桃", "HHKB", "FILCO", "雷柏", "达尔优"],
+      "pc-oem": ["联想", "戴尔", "惠普", "华硕", "宏碁", "苹果", "雷神", "机械革命", "微星", "华为", "同方", "长城", "神舟"],
+      "nb-odm": ["仁宝", "广达", "纬创", "英业达", "和硕"],
+      "aio-mini": ["联想", "戴尔", "惠普", "苹果 Mac mini", "零刻", "铭凡", "极摩客", "MINISFORUM"],
+      "pc-retail": ["京东", "天猫", "拼多多", "抖音电商", "苏宁", "国美"],
+      "pc-diy": ["中关村在线", "太平洋电脑网", "Chiphell", "极客湾", "笔吧评测室", "什么值得买"],
+      "pc-enterprise": ["党政机关", "央国企", "金融", "医疗", "教育"],
+      "pc-education": ["教育部", "K12 学校", "职业院校", "教培机构", "电竞馆"],
+      "pc-gaming": ["联想拯救者", "华硕 ROG", "微星 MSI", "外星人", "雷神", "机械革命", "未来人类"]
+    }
+  },
+  "companies": [
+    { "name": "NVIDIA", "category": "GPU", "country": "美国", "tags": ["AI", "上游", "消费显卡"] },
+    { "name": "Intel", "category": "CPU", "country": "美国", "tags": ["x86", "上游", "PC"] },
+    { "name": "AMD", "category": "CPU/GPU", "country": "美国", "tags": ["x86", "GPU", "PC"] },
+    { "name": "Qualcomm 高通", "category": "PC CPU", "country": "美国", "tags": ["ARM", "PC", "AI PC"] },
+    { "name": "Apple 苹果", "category": "PC OEM", "country": "美国", "tags": ["Mac", "AI PC"] },
+    { "name": "华为昇腾", "category": "GPU", "country": "中国", "tags": ["国产", "AI"] },
+    { "name": "海光信息", "category": "CPU", "country": "中国", "tags": ["国产", "x86"] },
+    { "name": "SK Hynix", "category": "存储", "country": "韩国", "tags": ["HBM", "DRAM"] },
+    { "name": "长江存储", "category": "存储", "country": "中国", "tags": ["NAND", "国产", "SSD"] },
+    { "name": "工业富联", "category": "ODM", "country": "中国", "tags": ["代工", "AI 整机柜"] },
+    { "name": "浪潮信息", "category": "OEM", "country": "中国", "tags": ["品牌", "AI 服务器"] },
+    { "name": "超聚变", "category": "OEM", "country": "中国", "tags": ["品牌", "通用"] },
+    { "name": "Dell 戴尔", "category": "OEM", "country": "美国", "tags": ["品牌", "PC", "服务器"] },
+    { "name": "HP 惠普", "category": "PC OEM", "country": "美国", "tags": ["PC", "AI PC"] },
+    { "name": "Lenovo 联想", "category": "PC OEM", "country": "中国", "tags": ["PC", "AI PC", "拯救者"] },
+    { "name": "ASUS 华硕", "category": "PC OEM/主板/显卡", "country": "中国台湾", "tags": ["PC", "ROG", "DIY"] },
+    { "name": "Acer 宏碁", "category": "PC OEM", "country": "中国台湾", "tags": ["PC", "掠夺者"] },
+    { "name": "微星 MSI", "category": "PC OEM/主板/显卡", "country": "中国台湾", "tags": ["PC", "DIY", "游戏本"] },
+    { "name": "技嘉 GIGABYTE", "category": "主板/显卡", "country": "中国台湾", "tags": ["DIY"] },
+    { "name": "华擎 ASRock", "category": "主板", "country": "中国台湾", "tags": ["DIY"] },
+    { "name": "雷神", "category": "PC OEM", "country": "中国", "tags": ["游戏本", "国产"] },
+    { "name": "机械革命", "category": "PC OEM", "country": "中国", "tags": ["游戏本", "国产"] },
+    { "name": "同方股份 (清华同方)", "category": "PC OEM", "country": "中国", "tags": ["国产", "商用"] },
+    { "name": "长城科技", "category": "PC OEM", "country": "中国", "tags": ["国产", "信创"] },
+    { "name": "神舟电脑", "category": "PC OEM", "country": "中国", "tags": ["笔记本"] },
+    { "name": "金士顿 Kingston", "category": "内存", "country": "美国", "tags": ["DDR5", "DIY"] },
+    { "name": "海盗船 Corsair", "category": "内存/机箱/外设", "country": "美国", "tags": ["DIY"] },
+    { "name": "威刚 ADATA", "category": "内存/SSD", "country": "中国台湾", "tags": ["DIY"] },
+    { "name": "光威 GLOWAY", "category": "内存/SSD", "country": "中国", "tags": ["国产", "长鑫"] },
+    { "name": "利民 Thermalright", "category": "散热", "country": "中国", "tags": ["DIY", "风冷", "水冷"] },
+    { "name": "九州风神 Deepcool", "category": "散热/机箱", "country": "中国", "tags": ["DIY"] },
+    { "name": "联力 Lian Li", "category": "机箱", "country": "中国台湾", "tags": ["DIY", "ARGB"] },
+    { "name": "罗技 Logitech", "category": "外设", "country": "瑞士", "tags": ["键鼠", "耳机"] },
+    { "name": "雷蛇 Razer", "category": "外设", "country": "美国", "tags": ["游戏外设"] },
+    { "name": "樱桃 Cherry", "category": "外设", "country": "德国", "tags": ["机械键盘"] },
+    { "name": "LG 显示器", "category": "显示器", "country": "韩国", "tags": ["OLED"] },
+    { "name": "三星 显示器", "category": "显示器", "country": "韩国", "tags": ["OLED", "曲面"] },
+    { "name": "明基 BenQ", "category": "显示器", "country": "中国台湾", "tags": ["电竞", "护眼"] },
+    { "name": "AOC", "category": "显示器", "country": "中国台湾", "tags": ["高性价比"] },
+    { "name": "零刻 Beelink", "category": "MiniPC", "country": "中国", "tags": ["MiniPC", "Ryzen AI Max"] },
+    { "name": "铭凡 MINISFORUM", "category": "MiniPC", "country": "中国", "tags": ["MiniPC"] },
+    { "name": "仁宝 Compal", "category": "ODM", "country": "中国台湾", "tags": ["笔电代工"] },
+    { "name": "广达 Quanta", "category": "ODM", "country": "中国台湾", "tags": ["笔电代工", "服务器代工"] },
+    { "name": "英维克", "category": "散热", "country": "中国", "tags": ["液冷", "服务器"] },
+    { "name": "台达 Delta", "category": "电源", "country": "中国台湾", "tags": ["电源", "服务器"] }
+  ]
+}

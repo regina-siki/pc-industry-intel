@@ -16,12 +16,28 @@ async function loadStaticJson(name) {
 
 export async function fetchKpi() {
   const s = await loadStaticJson('static')
-  return s.kpi || {}
+  return s.kpi || []
 }
 
 export async function fetchInsights() {
   const s = await loadStaticJson('static')
   return s.insights || []
+}
+
+export async function fetchSupplyChain() {
+  const s = await loadStaticJson('static')
+  return s.supplyChain || { nodes: [], companies: {} }
+}
+
+export async function fetchCompanies({ category = '' } = {}) {
+  const s = await loadStaticJson('static')
+  let list = s.companies || []
+  if (category) list = list.filter((c) => c.category === category)
+  return list
+}
+
+export async function fetchAiIntel() {
+  return loadStaticJson('ai-intel')
 }
 
 export async function fetchNews({ page = 1, pageSize = 10, q = '', tag = '', layer = '' } = {}) {
@@ -92,10 +108,6 @@ export async function fetchNewsById(id) {
   return item
 }
 
-export async function fetchSupplyChain() {
-  return loadStaticJson('ai-intel')
-}
-
 export async function fetchCustomerOrders({ customer = '' } = {}) {
   const data = await loadStaticJson('customers')
   let list = data.orders || []
@@ -103,12 +115,7 @@ export async function fetchCustomerOrders({ customer = '' } = {}) {
   return list
 }
 
-export async function fetchCompanies({ category = '' } = {}) {
-  const data = await loadStaticJson('ai-intel')
-  let list = data.companies || []
-  if (category) list = list.filter((c) => c.category === category)
-  return list
-}
+// 公众号相关 —— 静态模式下只读，不支持写入
 
 // 公众号相关 —— 静态模式下只读，不支持写入
 export async function fetchWeChatAccounts() {
