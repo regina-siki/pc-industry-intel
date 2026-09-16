@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-16",
-  "total": 561,
+  "total": 627,
   "list": [
     {
       "id": 507,
@@ -703,6 +703,974 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Oppo-s-compact-OLED-tablet-heads-for-global-release.1399979.0.html"
+    },
+    {
+      "id": 562,
+      "title": "iOS 27.2 Beta发布 开放AI健康助手 Apple Watch数据转化为个性化健康建议",
+      "summary": "苹果在最新发布的iOS 27.2开发者测试版中，首次向开发者开放全新设计的健康应用。这次更新被认为是近年来Health应用最大规模的一次改版，苹果正尝试借助Apple Intelligence将用户长期积累的健康数据转化为更具实际意义的分析和建议。 阅读全文",
+      "content": "<p>苹果在最新发布的iOS 27.2开发者测试版中，首次向开发者开放全新设计的健康应用。这次更新被认为是近年来Health应用最大规模的一次改版，苹果正尝试借助Apple Intelligence将用户长期积累的健康数据转化为更具实际意义的分析和建议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578296.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578296.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578296.htm"
+    },
+    {
+      "id": 563,
+      "title": "微软不会停止建设数据中心 将采取措施平衡社区经济收益与环境",
+      "summary": "随着人工智能热潮推动数据中心建设进入前所未有的扩张阶段，微软正在面临越来越明显的环境和社区压力。尽管围绕数据中心用电、用水、土地以及噪音等问题的争议不断升温，微软并没有放缓基础设施建设的计划，而是试图通过一系列措施降低数据中心对当地社区造成的影响，并让数据中心建设带来的经济收益更多回馈当地。 阅读全文",
+      "content": "<p>随着人工智能热潮推动数据中心建设进入前所未有的扩张阶段，微软正在面临越来越明显的环境和社区压力。尽管围绕数据中心用电、用水、土地以及噪音等问题的争议不断升温，微软并没有放缓基础设施建设的计划，而是试图通过一系列措施降低数据中心对当地社区造成的影响，并让数据中心建设带来的经济收益更多回馈当地。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578294.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578294.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578294.htm"
+    },
+    {
+      "id": 564,
+      "title": "RTX 5090保修申请因序列号褪色遭拒 英伟达售后服务引发争议",
+      "summary": "一位GeForce RTX 5090 Founders Edition显卡用户近日在网络论坛披露，自己的保修申请被英伟达拒绝，而原因竟是显卡金属挡板上的实体序列号已经褪色到无法辨认。这一事件迅速引发硬件爱好者和玩家社区关注，也让RTX 50系列显卡的产品标识设计成为讨论焦点。 阅读全文",
+      "content": "<p>一位GeForce RTX 5090 Founders Edition显卡用户近日在网络论坛披露，自己的保修申请被英伟达拒绝，而原因竟是显卡金属挡板上的实体序列号已经褪色到无法辨认。这一事件迅速引发硬件爱好者和玩家社区关注，也让RTX 50系列显卡的产品标识设计成为讨论焦点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578284.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578284.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578284.htm"
+    },
+    {
+      "id": 565,
+      "title": "苹果新一代Xserve服务器传闻将回归 搭载M8 Ultra并引入英伟达NVLink",
+      "summary": "苹果正在评估推出新一代机架式服务器产品的可能性，并考虑将未来的M8 Ultra处理器与英伟达的NVLink Fusion互连技术结合，以满足人工智能基础设施和高性能计算市场日益增长的需求。 阅读全文",
+      "content": "<p>苹果正在评估推出新一代机架式服务器产品的可能性，并考虑将未来的M8 Ultra处理器与英伟达的NVLink Fusion互连技术结合，以满足人工智能基础设施和高性能计算市场日益增长的需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578282.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578282.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578282.htm"
+    },
+    {
+      "id": 566,
+      "title": "内存荒持续至2027年 中小手机笔记本厂商开始花式自救",
+      "summary": "根据路透社最新调查显示，包括Fairphone、Jolla在内的独立品牌已开始重新设计产品主板，并建立严苛的芯片检测机制，以应对预计将持续到2027年的供应危机。存储巨头SK海力士首席执行官在近期明确预警，2027年将成为行业历史上供应最糟糕的一年，需求缺口将延续至2030年以后。 阅读全文",
+      "content": "<p><strong>根据路透社最新调查显示，包括Fairphone、Jolla在内的独立品牌已开始重新设计产品主板，并建立严苛的芯片检测机制，以应对预计将持续到2027年的供应危机。</strong>存储巨头SK海力士首席执行官在近期明确预警，2027年将成为行业历史上供应最糟糕的一年，需求缺口将延续至2030年以后。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578270.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578270.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578270.htm"
+    },
+    {
+      "id": 567,
+      "title": "华为吸血赛力斯？KOL们快打起来了",
+      "summary": "9月15日，华为和赛力斯官宣合作模式调整，问界进入“赛力斯主导、华为赋能”的轻资产新阶段。五界变四界，问界被华为“踢出群聊”？ 阅读全文",
+      "content": "<p>9月15日，华为和赛力斯官宣合作模式调整，问界进入“赛力斯主导、华为赋能”的轻资产新阶段。<strong>五界变四界，问界被华为“踢出群聊”？</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578268.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578268.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578268.htm"
+    },
+    {
+      "id": 568,
+      "title": "英特尔意图打破台积电代工垄断 AI推理推动CPU需求激增",
+      "summary": "英特尔首席执行官陈立武表示，行业必须打破台积电在全球晶圆代工市场的垄断。他提出，订单应当分散至多家供应商，以满足人工智能芯片日益增长的需求。英特尔将自身未来押注在晶圆代工业务的复兴之上，陈立武同时称，中央处理器需求激增，将持续造成供应紧张。 阅读全文",
+      "content": "<p>英特尔首席执行官陈立武表示，行业必须打破台积电在全球晶圆代工市场的垄断。他提出，订单应当分散至多家供应商，以满足人工智能芯片日益增长的需求。英特尔将自身未来押注在晶圆代工业务的复兴之上，陈立武同时称，中央处理器需求激增，将持续造成供应紧张。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578264.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578264.htm"
+    },
+    {
+      "id": 569,
+      "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+      "summary": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 N",
+      "content": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 Namco System 246 和 System 256 以及 Konami Python 1 等。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85399",
+      "source": "Solidot",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85399"
+    },
+    {
+      "id": 570,
+      "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+      "summary": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两",
+      "content": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85397",
+      "source": "Solidot",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85397"
+    },
+    {
+      "id": 571,
+      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何",
+      "content": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85395",
+      "source": "Solidot",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85395"
+    },
+    {
+      "id": 572,
+      "title": "SDL3 移植到 HarmonyOS / OpenHarmony",
+      "summary": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 PC、智能设备等多种终端，其架构采用了微内核设计。OpenHarmony 则是 HarmonyOS 的开源版本。Icculus 透露，支持 HarmonyOS/OpenHarmony",
+      "content": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 PC、智能设备等多种终端，其架构采用了微内核设计。OpenHarmony 则是 HarmonyOS 的开源版本。Icculus 透露，支持 HarmonyOS/OpenHarmony 的 SDL3 移植版本已用于部分商业游戏。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85393",
+      "source": "Solidot",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85393"
+    },
+    {
+      "id": 573,
+      "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布",
+      "summary": "IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-09-15：visionOS 2",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 更新（内部版本号：24N5088l），本次更新距离上次发布 Beta/RC 间隔 7 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2024/2/0a176a39-e916-49c8-ba8b-1241019bd125.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"450\" alt=\"苹果 visionOS 操作系统\"> </p><p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。</p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"000f\">附 visionOS 27 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/002/331.htm\" class=\"breakall\" target=\"_blank\">2026-09-15：visionOS 27.0 (24M362)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/1/000/528.htm\" class=\"breakall\" target=\"_blank\">2026-09-10：visionOS 27.0 RC (24M362)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/0/996/692.htm\" class=\"breakall\" target=\"_blank\">2026-09-01：visionOS 27.0 Beta 8 (24M5361a)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/0/993/762.htm\" class=\"breakall\" target=\"_blank\">2026-08-25：visionOS 27.0 Beta 7 (24M5359a)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/990/863.htm\" class=\"breakall\" target=\"_blank\">2026-08-18：visionOS 27.0 Beta 6 (24M5355a)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/988/063.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：visionOS 27.0 Beta 5 (24M5348b)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/979/268.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：visionOS 27.0 Beta 4 (24M5326g)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/973/308.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：visionOS 27.0 Beta 3 (24M5316k)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/967/243.htm\" class=\"breakall\" target=\"_blank\">2026-06-23：visionOS 27.0 Beta 2 (24M5306i)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/961/686.htm\" class=\"breakall\" target=\"_blank\">2026-06-09：visionOS 27 Beta (24M5291p)</a></p></li> </ul> <p data-vmark=\"000e\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/003/344.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/344.htm"
+    },
+    {
+      "id": 574,
+      "title": "华邦电子拟以 11.2 亿美元收购英飞凌 NOR 与 F-RAM 业务，飞索半导体有望回归",
+      "summary": "IT之家 9 月 16 日消息，根据交易双方华邦电子 (Winbond) 与 Infineon（英飞凌）公告，两家企业已就华邦以 11.2 亿美元（现汇率约合 75.34 亿元人民币）的现金收购英飞凌的 NOR 闪存与 F-RAM（即 FRAM / FeRAM，铁电随机存取存储器）业务达成协议。 本交易预计于 2027 年下半年完成，前提是达成获得监管批准等交割条件。华邦电子计划将收购后的这部分业务重新命名为 Spansion（飞索半导体），该标的公司将以美国为总部所在地独立",
+      "content": "<p data-vmark=\"a0a0\">IT之家 9 月 16 日消息，根据交易双方华邦电子 (Winbond) 与 Infineon（英飞凌）公告，两家企业已就华邦以 11.2 亿美元<span class=\"exch-money-value\">（现汇率约合 75.34 亿元人民币）</span>的现金收购英飞凌的 NOR 闪存与 F-RAM（即 FRAM / FeRAM，铁电随机存取存储器）业务达成协议。</p><p data-vmark=\"b693\"><strong>本交易预计于 2027 年下半年完成</strong>，前提是达成获得监管批准等交割条件。华邦电子计划将收购后的这部分业务重新命名为 Spansion（飞索半导体），该标的公司将以美国为总部所在地独立运行。</p><p data-vmark=\"971f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6224129d-1e17-4242-825c-4317c3efe6e2.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"854\" data-weibo=\"0\" data-vmark=\"88b8\" class=\"no-alt-img\"></p><blockquote><p data-vmark=\"7d43\"><strong>IT之家注：</strong></p><p data-vmark=\"813d\">Spansion 曾是一家闪存制造商，诞生于 2003 年，由 AMD 与富士通的闪存业务合并而来。该企业在 2014 年被 Cypress（赛普拉斯）收购，后又随着 2020 年的 Cypress 收购案成为英飞凌的一部分。</p></blockquote>",
+      "link": "https://www.ithome.com/1/003/325.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/325.htm"
+    },
+    {
+      "id": 575,
+      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台，新车上市补贴价 13.28 万元起",
+      "summary": "IT之家 9 月 16 日消息，极狐阿尔法 T7 大五座 SUV 今日正式上市，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，上市补贴价 13.28 万元起。 IT之家注意到，极狐官方刚刚宣布，极狐阿尔法 T7 上市 1 小时，大定锁单超过 30,000 台。 新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持导航、驾驶、娱乐个性化组合；全系采用宁德时代品牌电芯，纯电版搭载 84.8kWh 电池",
+      "content": "<p data-vmark=\"bfa9\">IT之家 9 月 16 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/654.htm\">极狐阿尔法 T7 大五座 SUV 今日正式上市</a>，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，<strong>上市补贴价 13.28 万元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8bfd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ae9a08a2-aa12-4bc2-859c-3276eda0eed2.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"960\" data-vmark=\"b215\" data-mpos=\"2,0\" class=\"no-alt-img\"></p><p data-vmark=\"d957\">IT之家注意到，极狐官方刚刚宣布，<strong>极狐阿尔法 T7 上市 1 小时，大定锁单超过 30,000 台</strong>。</p><p style=\"text-align: center;\" data-vmark=\"087e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5125dc2f-5e18-4289-a30f-3e0f67ed6aa6.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"990\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6667364773%2FRiq2555Hh%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"7417\" class=\"no-alt-img\"></p><p data-vmark=\"a699\">新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持导航、驾驶、娱乐个性化组合；全系采用宁德时代品牌电芯，纯电版搭载 84.8kWh 电池包，增程版标配 43.9kWh 高集成磷酸铁锂电池包。</p><p data-vmark=\"68d2\">极狐阿尔法 T7 首搭华为乾崑智驾 ADS 5 Pro 智能辅助驾驶系统，配备隐藏式激光雷达等 27 个感知传感器；高速 NCA 最高车速 130km/h，支持高速领航辅助 NCA、城区领航辅助 NCA、全场景智慧泊车等功能。</p>",
+      "link": "https://www.ithome.com/1/003/323.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/323.htm"
+    },
+    {
+      "id": 576,
+      "title": "松下 LUMIX S 20mm F2.5 超广角镜头发布，142g 轻巧设计",
+      "summary": "IT之家 9 月 16 日消息，松下今天宣布推出 LUMIX S 20mm F2.5 镜头，新品主打轻巧设计，售价暂未公布。 据介绍，这款镜头专为街拍创作者打造，非常适合 LUMIX S9 使用，F2.5 光圈适合在光线较弱的环境使用，捕捉城市流光动态。 规格方面，该镜头最近对焦距离为 0.18m，整机重量仅 142g，长度仅 40.9mm，方便随身携带。镜头采用 62mm 滤镜口径，支持自定义对焦环与 FN 按钮。 IT之家注意到，该镜头采用 9 组 11 片光学结构，带有",
+      "content": "<p data-vmark=\"4715\">IT之家 9 月 16 日消息，松下今天宣布推出 LUMIX S 20mm F2.5 镜头，<strong>新品主打轻巧设计</strong>，售价暂未公布。</p><p style=\"text-align: center;\" data-vmark=\"0794\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e7e516fb-1355-47b6-bedc-f08968172a8c.png?x-bce-process=image/format,f_auto\" w=\"924\" h=\"919\" data-weibo=\"0\" data-vmark=\"7a9f\" class=\"no-alt-img\"></p><p data-vmark=\"7b9a\">据介绍，这款镜头专为街拍创作者打造，非常适合 LUMIX S9 使用，F2.5 光圈适合在光线较弱的环境使用，捕捉城市流光动态。</p><p style=\"text-align: center;\" data-vmark=\"df69\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d5e3ebb2-2144-4216-a3db-769c4220a980.png?x-bce-process=image/format,f_auto\" w=\"888\" h=\"1043\" data-weibo=\"1\" data-vmark=\"1aad\" class=\"no-alt-img\"></p><p data-vmark=\"4934\">规格方面，该镜头最近对焦距离为 0.18m，<strong>整机重量仅 142g</strong>，长度仅 40.9mm，方便随身携带。镜头采用 62mm 滤镜口径，支持自定义对焦环与 FN 按钮。</p><p style=\"text-align: center;\" data-vmark=\"4215\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ea91ff2a-338f-4bc5-810c-500047ed7c97.png?x-bce-process=image/format,f_auto\" w=\"925\" h=\"852\" data-weibo=\"2\" data-vmark=\"2f21\" class=\"no-alt-img\"></p><p data-vmark=\"693e\">IT之家注意到，<strong>该镜头采用 9 组 11 片光学结构</strong>，带有 3 片非球面镜片、3 片 ED 低色散镜片，拥有 7 片光圈叶片。</p>",
+      "link": "https://www.ithome.com/1/003/321.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/321.htm"
+    },
+    {
+      "id": 577,
+      "title": "消息称八达通陆续上线 HarmonyOS 6.1.0.135 SP8 及以上版本华为手机钱包，各机型逐步放量",
+      "summary": "IT之家 9 月 16 日消息，据博主 @Adak封狼居胥 分享，八达通已陆续上线 HarmonyOS 6.1.0.135 SP8 及以上版本华为手机钱包，各机型逐步放量中。 参考IT之家今日早些时候报道，旅客八达通 App 今日登陆华为鸿蒙 HarmonyOS 应用市场 App Gallery（目前版本号为 1.0.0）。该应用只在 HarmonyOS 5 及以上设备的应用市场中提供。 据介绍，使用 Huawei Pay 八达通，无需解锁或开启任何应用程序，只需将华为终端设",
+      "content": "<p data-vmark=\"382a\">IT之家 9 月 16 日消息，据博主 @Adak封狼居胥 分享，八达通已陆续上线 <strong>HarmonyOS 6.1.0.135 SP8</strong> 及以上版本华为手机钱包，各机型逐步放量中。</p><p style=\"text-align: center;\" data-vmark=\"46ae\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0d9c0ff0-8f3d-4230-874c-8433dd40afd8.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"1601\" data-weibo=\"0\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F7207828957%2FRilLvuk00%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-marks=\"1931fd9d012eb6d19b5191016875921ce102ef9289f1aa311b371bb74ecee289e0a9c82d3bc3d2ae08d7287841139c2e\" data-vmark=\"e8a0\" class=\"no-alt-img\"></p><p data-vmark=\"445b\">参考IT之家今日早些时候报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/003/092.htm\">旅客八达通 App 今日登陆华为鸿蒙 HarmonyOS 应用市场 App Gallery</a>（目前版本号为 1.0.0）。<strong>该应用只在 HarmonyOS 5 及以上设备的应用市场中提供</strong>。</p><p data-vmark=\"0bd8\">据介绍，使用 Huawei Pay 八达通，无需解锁或开启任何应用程序，只需将华为终端设备轻触八达通读写器，就可以支付交通及零售消费。用户可以实时查看余额，不必排队就能随时随地以银联卡为八达通充值。</p><p style=\"text-align: center;\" data-vmark=\"b137\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9b89e5b0-004e-43d8-9bc6-3da31cf02d13.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1920\" data-vmark=\"fb09\" data-mpos=\"1,1\"  class=\"no-alt-img\"></p><p data-vmark=\"7d4f\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"1961\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/003/092.htm\">旅客八达通登陆华为鸿蒙 HarmonyOS 应用市场 App Gallery</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/003/319.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/319.htm"
+    },
+    {
+      "id": 578,
+      "title": "文石推出 Boox Palma 3 电纸书阅读器： 6.13 英寸 E-ink 面板，Android 16 系统",
+      "summary": "IT之家 9 月 16 日消息，文石今天在海外市场推出 Boox Palma 3 电纸书阅读器，新品主打小巧设计，采用 6.13 英寸 E-ink 显示屏，定价 320 美元（IT之家注：现汇率约合 2,153 元人民币）。 据介绍，这款产品提供黑 / 白两种配色，配备 6.13 英寸 Carta 1200 显示屏，分辨率为 824×1648 像素。机身材质为阳极氧化铝，支持主动式手写笔，用户可以直接批注 PDF 文件。 IT之家注意到，该产品搭载八核心处理器和 6GB 内存",
+      "content": "<p data-vmark=\"7354\">IT之家 9 月 16 日消息，文石今天在海外市场推出 Boox Palma 3 电纸书阅读器，新品主打小巧设计，采用 6.13 英寸 E-ink 显示屏，<strong>定价 320 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2,153 元人民币）</span>。</p><p data-vmark=\"f377\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/df67ed69-e3e7-4b07-8442-965b2799d871.png\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"69cb\" class=\"no-alt-img\"></p><p data-vmark=\"cefb\">据介绍，这款产品提供黑 / 白两种配色，<strong>配备 6.13 英寸 Carta 1200 显示屏</strong>，分辨率为 824×1648 像素。机身材质为阳极氧化铝，支持主动式手写笔，用户可以直接批注 PDF 文件。</p><p data-vmark=\"42d4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc79132a-9425-4bcc-a7b0-5000b98a81dc.png\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"e2fe\" class=\"no-alt-img\"></p><p data-vmark=\"0413\">IT之家注意到，该产品搭载八核心处理器和 6GB 内存，运行 Android 16 系统，支持从 Google Play 等渠道安装应用。该机还拥有 1600 万像素后置摄像头和闪光灯，可用于扫描文档，同时配备双麦克风、3950mAh 电池。</p><p data-vmark=\"b5dd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/987446cb-2663-4643-b15c-0662b3bbfeeb.jpg\" w=\"1440\" h=\"1188\" data-weibo=\"2\" data-vmark=\"33b7\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/314.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/314.htm"
+    },
+    {
+      "id": 579,
+      "title": "华为发布《智能世界 2035》最新报告，预测到 2035 年全球年度 Token 消耗量将增长 10 万倍",
+      "summary": "IT之家 9 月 16 日消息，华为官方今日举办了“以行动，至未来”探索智能世界系列报告线上发布会，正式发布《智能世界 2035：从愿景到行动》研究成果，首次提出通往智能世界的十大关键命题。 报告指出，Agentic AI 正推动数字世界从“以应用为中心”走向“以智能体为中心”。智能体持续感知环境、自主推理决策、动态调用工具、实时与人交互，每一步都伴随着 Token 的大规模生成与高频流转。 报告预测，到 2035 年，全球年度 Token 消耗量将增长 10 万倍，其中智能",
+      "content": "<p data-vmark=\"b411\">IT之家 9 月 16 日消息，华为官方今日举办了“以行动，至未来”探索智能世界系列报告线上发布会，正式发布《智能世界 2035：从愿景到行动》研究成果，首次提出通往智能世界的十大关键命题。</p><p style=\"text-align: center;\" data-vmark=\"2010\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d735390f-ceef-4334-b02d-a42b01ea548e.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"675\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"3808\"></p><p data-vmark=\"0591\">报告指出，Agentic AI 正推动数字世界从“以应用为中心”走向“以智能体为中心”。智能体持续感知环境、自主推理决策、动态调用工具、实时与人交互，<strong>每一步都伴随着 Token 的大规模生成与高频流转</strong>。</p><p data-vmark=\"3946\">报告预测，<strong>到 2035 年，全球年度 Token 消耗量将增长 10 万倍</strong>，其中智能体流量占比超过 90%，对算力、网络和云提出了远超传统互联网应用的要求。围绕这一判断，报告凝练出十大关键命题与研究方向：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"51e1\">1、<strong>构建具备自主认知与全域通用能力的 AGI</strong>，走向物理世界是 AGI 形成的必由之路，需在语言智能、具身智能、科学智能等多个方向协同推进；</p></li><li><p data-vmark=\"e36f\">2、<strong>算力集群规模百倍提升，智能体任务成本千倍下降</strong>，计算架构从“单芯片算力”转向以“超节点”为核心的 Token 高转换效率体系；</p></li><li><p data-vmark=\"eb5e\">3、<strong>构建因果准确、溯源可信的新型存储与记忆系统</strong>，推动从“数据”向“知识与记忆”演进；</p></li><li><p data-vmark=\"20e7\">4、<strong> </strong><strong>AI 全面融入通信系统</strong>，构建以体验为中心的智能联接底座；</p></li><li><p data-vmark=\"9026\">5、<strong> 深耕韬定律下的芯片设计方法与工具</strong>，以“时间缩微”替代“几何缩微”，支撑时延与能效协同优化，实现半导体产业持续演进；</p></li><li><p data-vmark=\"5733\">6、<strong>从驾驭环境到自主演进</strong><strong>，Agent OS 成为智能体原生技术底座</strong>，其核心能力可概括为“（协同力 × 执行力 × 记忆力 × 连接力）^ 演进力”；</p></li><li><p data-vmark=\"6f7b\">7、<strong>定义无感适配、全域随行的终端智能新形态</strong>，让智能服务跨越设备与场景持续伴随；</p></li><li><p data-vmark=\"49ce\">8、<strong>实现智能驾驶的自我学习与极致安全</strong>，推动汽车从交通工具向“移动具身智能体”演进；</p></li><li><p data-vmark=\"087d\"><strong>9、攻克供电与散热难题，支撑 AIDC 走向更大算力规模；</strong></p></li><li><p data-vmark=\"95f8\">10、<strong>面向自主 Agent 的安全与隐私保护</strong>，为智能世界筑牢可信可控的安全底座。</p></li></ul></blockquote><p data-vmark=\"7ccb\">IT之家注意到，会上还同步发布了由华为联合清华大学经济学研究所撰写的《全球数智化指数（GDII）2026》。该报告预测，<strong>未来五年人工智能将累计创造超 27 万亿美元经济价值</strong>，全球数智基础设施投资加速，复合年增长率达 19.14%，<strong>到 2030 年将超过 4 万亿美元</strong>。</p>",
+      "link": "https://www.ithome.com/1/003/312.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/312.htm"
+    },
+    {
+      "id": 580,
+      "title": "华擎推出三款全新 Taichi 系列电竞显示器：27 英寸 4K 240Hz、2K 500Hz、2K 540Hz/720P 720Hz",
+      "summary": "IT之家 9 月 16 日消息，华擎今日宣布推出三款全新 Taichi 系列显示器，新品均为 27 英寸，主打电竞定位。 IT之家附新品详情如下： TCO27USA 该显示器配备 27 英寸 4K Penta Tandem QD-OLED 面板，最高刷新率可达 240Hz。灰阶响应时间 0.03ms，覆盖 99% DCI-P3 色域，兼容 DisplayHDR True Black 400，拥有 KVM 切换器。 该显示器配备 2 个 HDMI 2.1 接口、2 个 DP 2",
+      "content": "<p data-vmark=\"2e79\">IT之家 9 月 16 日消息，华擎今日宣布推出三款全新 Taichi 系列显示器，新品均为 27 英寸，主打电竞定位。</p><p data-vmark=\"f7b2\">IT之家附新品详情如下：</p><h3 data-vmark=\"8052\">TCO27USA</h3><p data-vmark=\"91d0\">该显示器配备 27 英寸 4K Penta Tandem QD-OLED 面板，最高刷新率可达 240Hz。灰阶响应时间 0.03ms，覆盖 99% DCI-P3 色域，兼容 DisplayHDR True Black 400，拥有 KVM 切换器。</p><p style=\"text-align: center;\" data-vmark=\"34bd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8c8c1ee0-5d94-46bc-82fc-625de900aa4f.jpg?x-bce-process=image/format,f_auto\" w=\"1152\" h=\"960\" data-weibo=\"0\" data-vmark=\"18d4\" class=\"no-alt-img\"></p><p data-vmark=\"d196\">该显示器配备 2 个 HDMI 2.1 接口、2 个 DP 2.1 接口，以及 1 个 USB 3.2 Gen 1 Type-C 接口，支持 65W 反向供电，可连接各种笔记本、台式机及游戏机。</p><p style=\"text-align: center;\" data-vmark=\"3b33\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aee7613f-a442-4352-a84d-8ccccc330723.jpg?x-bce-process=image/format,f_auto\" w=\"1152\" h=\"960\" data-weibo=\"1\" data-vmark=\"89c7\" class=\"no-alt-img\"></p><h3 data-vmark=\"26aa\">TCO27QXA</h3><p data-vmark=\"7465\">该显示器采用 27 英寸 QHD QD-OLED 面板，刷新率可达 500Hz，同样提供 0.03ms 灰阶响应时间、99% DCI-P3 色域覆盖，支持 AMD FreeSync。</p><p style=\"text-align: center;\" data-vmark=\"5f91\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/cc118dbd-5301-4793-870f-b195e7479e30.jpg?x-bce-process=image/format,f_auto\" w=\"1152\" h=\"960\" data-weibo=\"2\" data-vmark=\"9666\" class=\"no-alt-img\"></p><p data-vmark=\"43db\">该显示器通过 DisplayHDR True Black 500 认证，可显示更加深邃的黑色。包含 2 个 HDMI 2.1 接口、2 个 DP 2.1 接口以及 1 个 USB 3.2 Gen 1 Type-C 接口，同样支持 65W 反向供电。</p><h3 data-vmark=\"483b\">TCO27QXB</h3><p data-vmark=\"d4d8\">该显示器采用 27 英寸 Tandem WOLED 面板，支持 2K 540Hz/720P 720Hz 双模切换，同样提供 0.03ms 灰阶响应时间、99% DCI-P3 色域覆盖、AMD FreeSync 以及 VESA DisplayHDR True Black 500 认证，接口与上两款产品一致。</p><p style=\"text-align: center;\" data-vmark=\"542d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/31172370-56e1-4031-8e47-da1a25ca8898.jpg?x-bce-process=image/format,f_auto\" w=\"1152\" h=\"960\" data-weibo=\"3\" data-vmark=\"7296\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/310.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/310.htm"
+    },
+    {
+      "id": 581,
+      "title": "全新奥迪 A6L 官宣到店：搭载华为乾崑智驾技术，支持全国城区领航辅助功能",
+      "summary": "IT之家 9 月 16 日消息，华为智能汽车解决方案 BU 官方微博今日宣布，全新奥迪 A6L 现已到店。该车搭载华为乾崑智驾技术，支持全国城区领航辅助，可实现红绿灯路口自主启停、复杂路况通过等功能。 今年 6 月，奥迪官方揭晓了全新奥迪 A6L 汽车的华为乾崑智驾功能价格：装备价格 26800 元，限时优惠至高 6000 元。 IT之家查询获悉，全新奥迪 A6L 搭载 33 颗传感器组成的灵眸全域感知系统，全车 9 处传感器配备自动清洗功能、2 处激光雷达更额外搭载自动加热",
+      "content": "<p data-vmark=\"168e\">IT之家 9 月 16 日消息，华为智能汽车解决方案 BU 官方微博今日宣布，全新奥迪 A6L 现已到店。<strong>该车搭载华为乾崑智驾技术，支持全国城区领航辅助</strong>，可实现红绿灯路口自主启停、复杂路况通过等功能。</p><p style=\"text-align: center;\" data-vmark=\"495e\"><a href=\"https://weibo.com/7348572943/RipM6DU4R\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0bb6e1bc-4496-4594-b2bc-06ad0b6eba77.jpg\"></a></p><p data-vmark=\"ca31\">今年 6 月，奥迪官方揭晓了全新奥迪 A6L 汽车的华为乾崑智驾功能价格：<strong>装备价格 26800 元，限时优惠至高 6000 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0d51\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/0462a5ae-df6c-4609-8cb3-3f7c05c3a79f.png\" w=\"1440\" h=\"807\" data-vmark=\"0874\" class=\"no-alt-img\"></p><p data-vmark=\"b0d3\">IT之家查询获悉，全新奥迪 A6L 搭载 33 颗传感器组成的灵眸全域感知系统，全车 9 处传感器配备自动清洗功能、2 处激光雷达更额外搭载自动加热功能。</p><p style=\"text-align: center;\" data-vmark=\"fd50\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/aa181b80-1e0e-4722-9936-f261ba3ed4f7.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1080\" h=\"1440\" data-vmark=\"92a9\" class=\"no-alt-img\"></p><p data-vmark=\"be87\">据介绍，奥迪高级巡航辅助支持城区、高速 NOA 智慧领航，在城市复杂路段能判断信号灯及实时路况，实现辅助变道超车、路口通行、掉头等操作，长途出行可识别大型车辆避让，并辅助完成上下匝道。</p><p data-vmark=\"b5ea\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/d1d5a88a-45ff-43a9-b22a-07cb7318edd6.webp\" w=\"900\" h=\"1200\" data-vmark=\"b4c9\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi82L2QxZDVhODhhLTQ1ZmYtNDNhOS1iMjJhLTA3Y2I3MzE4ZWRkNi53ZWJwIn1d\" class=\"no-alt-img\"></p><p data-vmark=\"102b\">另外，奥迪高级泊车辅助支持汽车驶入未贯穿路段或无法掉头窄路时 120 米循迹倒回，如遇狭窄车位时可提前离车，在手机上进行遥控泊车。</p><p data-vmark=\"a0fe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/40c163bb-9fe8-4ecf-9553-cc1afd2c99b9.webp\" w=\"900\" h=\"1200\" data-vmark=\"857d\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi82LzQwYzE2M2JiLTlmZTgtNGVjZi05NTUzLWNjMWFmZDJjOTliOS53ZWJwIn1d\" class=\"no-alt-img\"></p><p data-vmark=\"0aac\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/12056a93-7ae5-45d6-9c29-10f8190a8725.webp\" w=\"900\" h=\"1200\" data-vmark=\"a668\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi82LzEyMDU2YTkzLTdhZTUtNDVkNi05YzI5LTEwZjgxOTBhODcyNS53ZWJwIn1d\" class=\"no-alt-img\"></p><p data-vmark=\"eecf\"><a target=\"_blank\" href=\"https://www.ithome.com/0/932/681.htm\">今年 3 月，全新奥迪 A6L 上市</a>。新车共推出 4 款车型，官方指导价为 32.29-43.59 万元。该车基于奥迪全新 PPC 燃油车平台打造，国产版本针对中国市场需求进行深度优化，轴距加长 42mm 至 3066mm，车身长度增加 92mm 达 5142mm，进一步强化了后排空间优势。</p><p data-vmark=\"22eb\">该车提供行政风格与运动风格两种外观方案。其中，2.0T quattro 尊享致雅型采用行政风格设计，前包围配备镀铬装饰与蜂窝状镀铬格栅，商务气质突出；该版本两侧配备激光雷达，将搭载华为高阶辅助驾驶系统。其余三款车型采用运动风格设计，前格栅与车窗饰条采用黑化处理，前包围两侧设置导流槽。</p>",
+      "link": "https://www.ithome.com/1/003/307.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/307.htm"
+    },
+    {
+      "id": 582,
+      "title": "因卡身序列号褪色，用户的 RTX 5090 公版显卡被英伟达拒保",
+      "summary": "IT之家 9 月 16 日消息，Reddit 用户 Willing-Avocado-4830 前天在 r/nvidia 板块发文称，他手里的公版 RTX 5090 FE 显卡一个月前出现高负载黑屏现象，于是他选择将显卡寄给英伟达，申请售后换卡。 然而等了大约一个月后，英伟达拒绝了他的售后申请。官方最初没有给出太多解释，直到用户追问后才表示，本次售后拒绝的原因是卡身序列号褪色严重。 该用户表示，自己从未拆下显卡挡板，并且可以提供原始包装盒和发票。并且矛盾之处在于，英伟达在线客服",
+      "content": "<p data-vmark=\"fab2\">IT之家 9 月 16 日消息，Reddit 用户 Willing-Avocado-4830 前天在 r/nvidia 板块发文称，他手里的公版 RTX 5090 FE 显卡一个月前出现高负载黑屏现象，于是他选择将显卡寄给英伟达，申请售后换卡。</p><p data-vmark=\"4627\">然而等了大约一个月后，英伟达拒绝了他的售后申请。官方最初没有给出太多解释，直到用户追问后才表示，<strong>本次售后拒绝的原因是卡身序列号褪色严重</strong>。</p><p data-vmark=\"9962\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f8e0ec20-41c6-40d5-8551-d3a97519f94d.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1481\" data-weibo=\"0\" data-vmark=\"ac2f\" class=\"no-alt-img\"></p><p data-vmark=\"2349\">该用户表示，自己从未拆下显卡挡板，并且可以提供原始包装盒和发票。并且矛盾之处在于，英伟达在线客服机器人曾告诉他，<strong>如果显卡身上的序列号无法识别</strong>，<strong>可以通过原装包装和购买凭证验证产品身份并继续申请售后</strong>。</p><p data-vmark=\"0207\">后续几名网友表示，他们的公版 RTX 5080 和 RTX 5090 FE 显卡也出现了序列号褪色问题，其中一些用户同样遭遇了英伟达拒绝保修申请的情况。</p><p data-vmark=\"7afc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/60f94a3b-2847-45e1-aaa1-c4a1f2aec7ca.png?x-bce-process=image/format,f_auto\" w=\"1378\" h=\"1117\" data-weibo=\"1\" data-vmark=\"e0df\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/306.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/306.htm"
+    },
+    {
+      "id": 583,
+      "title": "英伟达、谷歌、Emerald AI 发起成立 AI 能源管理联盟，推动灵活型 AI 数据中心发展",
+      "summary": "IT之家 9 月 16 日消息，AI 工厂是智能时代的基础设施。要以负责任的方式扩大 AI 工厂的规模，既需要数据中心内部的技术创新，同样也离不开整个电网侧的革新。 今日，Emerald AI、谷歌与英伟达共同宣布成立 AI 能源管理联盟（AEMA）。英伟达官网称，这是业内首个同类联盟组织，致力于推动数据中心根据电网运行状况动态调整自身用电量。 据英伟达介绍，这种强大的灵活性，不仅有助于 AI 基础设施更快、更大规模完成电网接入，同时还能够为支撑 AI 产业发展的能源系统与社",
+      "content": "<p data-vmark=\"19df\">IT之家 9 月 16 日消息，AI 工厂是智能时代的基础设施。要以负责任的方式扩大 AI 工厂的规模，既需要数据中心内部的技术创新，同样也离不开整个电网侧的革新。</p><p data-vmark=\"a41f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6d491eb2-dc3c-4f9a-820c-22cdd714ff40.png\" w=\"1280\" h=\"720\" data-weibo=\"0\" data-vmark=\"528a\" class=\"no-alt-img\"></p><p data-vmark=\"941b\">今日，Emerald AI、谷歌与英伟达共同宣布成立 AI 能源管理联盟（AEMA）。英伟达官网称，这是业内首个同类联盟组织，致力于推动数据中心根据电网运行状况动态调整自身用电量。</p><p data-vmark=\"150e\">据英伟达介绍，这种强大的灵活性，不仅有助于 AI 基础设施更快、更大规模完成电网接入，同时还能够为支撑 AI 产业发展的能源系统与社区带来助益。充分挖掘现有电力基础设施的供电潜力，可以降低单位功耗对应的环境影响，也有利于控制用电成本。</p><p data-vmark=\"321d\">联盟的目标十分清晰：打造新一代 AI 基础设施，不只是简单接入电网，更要与电网协同运行。</p><p data-vmark=\"bd7b\">电力供应如今已经成为制约美国 AI 基础设施扩张的核心瓶颈。</p><p data-vmark=\"6919\">传统的电网接入审批流程，是针对电力需求平稳、固定的设施所设计的，并不适配算力基础设施在电力系统承压时做出智能响应的运行模式。</p><p data-vmark=\"9d58\">具备灵活调节能力的数据中心可以通过多种方式调整从电网取用的电力：调度迁移计算负载、释放储能电量、启用配套发电设备，或是针对电力系统突发状况做出响应。凭借以上能力，这类大型用电主体不再只是刚性的用电负荷，还可以充当一套可调度的电网资源。</p><p data-vmark=\"e1c1\">如果运用得当，灵活性可以更充分地挖掘现有电网容量；在电网压力高峰时段削减用电需求；从而避免或者推迟耗资巨大的电网升级改造工程。与此同时，也能够增强电力公司与电网调度机构的信心，缩短 AI 算力设施的并网审批周期。</p><p data-vmark=\"e99d\">联盟重点关注算力设施可提供的可量化服务指标，包括响应速度、持续时长、可预测性以及紧急工况下的运行表现，而非限定具体使用哪一套硬件或软件产品。</p><p data-vmark=\"2a7e\">系统可靠性依旧被置于首位。该联盟提出的工作原则包括：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4ca8\">在算力设施正式并网之前，就明确故障穿越、用电削减以及应急响应相关义务；也就是为数据中心划定清晰规则：遭遇短暂电网扰动时维持持续运行；必要时降低功耗；并对各类电力突发事件作出响应。</p></li><li><p data-vmark=\"39e6\">对技术要求、性能衡量指标、运行数据共享机制建立统一标准。</p></li><li><p data-vmark=\"593d\">为那些能够作出可信、可核验柔性用电承诺的建设方开辟经过风险评估的快速审批通道。</p></li><li><p data-vmark=\"2d2c\">按照设施实际给电力系统带来的影响与收益分摊并网相关成本，例如因柔性运行而省下的电网升级投入、系统爬坡能力的改善收益。</p></li></ul><p data-vmark=\"51a4\">上述举措一方面可以降低项目开发商面临的不确定性；另一方面也能够向电网调度机构提供所需的数据与调度管控手段，保障整个电力系统的运行可靠性。</p><p data-vmark=\"4bff\">AEMA 将打通算力与电力两大领域的完整产业链，成员涵盖 AI 平台厂商、基础设施供应商、数据中心运营商、科技企业、发电企业、公用电力公司以及区域电网调度机构。</p><p data-vmark=\"0d4f\">据IT之家了解，除创始成员之外，后续还会吸纳来自整个生态的发起合作方。各方将协同制定技术与运营实施方案；与电力企业协作完善并网方案；同时开展政策倡导，推动政策层面认可具备电网响应能力的柔性用电需求。</p>",
+      "link": "https://www.ithome.com/1/003/301.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/301.htm"
+    },
+    {
+      "id": 584,
+      "title": "消息称苹果筹划重返服务器业务，高配版搭载 4 颗 M8 Ultra 芯片",
+      "summary": "IT之家 9 月 16 日消息，The Information 今天（16 日）晚间援引知情人士消息称，苹果公司正筹划推出企业级服务器，采用自研芯片，并可能接入英伟达的网络设备。 随着 AI 开发者对苹果电脑的需求不断上升，苹果希望借此进入更大的 AI 硬件市场。 知情人士透露，苹果计划面向 AI 开发者、企业和政府机构销售这款服务器。产品目前考虑推出两个版本：基础版配备两颗计划中的 M8 Ultra 芯片，高配版则配备四颗。 苹果考虑用英伟达的 NVLink Fusion ",
+      "content": "<p data-vmark=\"4eb8\">IT之家 9 月 16 日消息，The Information 今天（16 日）晚间援引知情人士消息称，苹果公司正筹划推出企业级服务器，采用自研芯片，并可能<strong>接入英伟达的网络设备</strong>。</p><p data-vmark=\"46e1\">随着 AI 开发者对苹果电脑的需求不断上升，苹果希望借此进入更大的 AI 硬件市场。</p><p data-vmark=\"46bb\">知情人士透露，苹果计划面向 AI 开发者、企业和政府机构销售这款服务器。产品目前考虑推出两个版本：基础版配备<strong>两颗计划中的 M8 Ultra 芯片</strong>，高配版则配备四颗。</p><p data-vmark=\"7f0b\">苹果考虑用<strong>英伟达的 NVLink Fusion</strong> 连接这些 M8 芯片。NVLink Fusion 包括交换机、芯粒和软件，能够让数据中心内的多颗芯片高速协同工作。如果这一方案最终落地，也会成为苹果与英伟达关系回暖的又一迹象。</p><p data-vmark=\"6a56\">NVLink 原本用于连接英伟达自家的芯片，让多颗芯片协同运行。后来，英伟达也<strong>向其他芯片厂商开放</strong>了这项技术。参与项目的苹果员工认为，英伟达设备可能是<strong>目前最好</strong>的芯片互连方案。</p><p data-vmark=\"5e9d\">这款服务器目前预计<strong>最早要到 2029 年上市</strong>。项目仍存在取消或不采用英伟达技术的可能。苹果新任 CEO 约翰 · 特努斯大约一年前还在负责硬件工程时，就支持这项计划。他当时已经看到了 AI 算力需求增长为苹果芯片带来的机会。</p><p data-vmark=\"0e4f\">苹果与英伟达的关系曾长期冷淡。双方的合作始于 2001 年，当时苹果在 Mac 电脑中采用英伟达图形处理器。史蒂夫 · 乔布斯还曾称两家公司“关系良好”。</p><p data-vmark=\"cc75\">但双方后来因多项商业争议产生摩擦。此前消息称，乔布斯曾认为英伟达产品使用了皮克斯开发的技术。</p><p data-vmark=\"e779\">IT之家注：皮克斯正是乔布斯创办的动画工作室。</p><p data-vmark=\"265a\">最近，两家公司的关系开始缓和。苹果在升级 Siri 时，开始使用<strong>谷歌数据中心内的英伟达芯片</strong>运行部分新 AI 系统。谷歌是该项目的合作伙伴。知情人士说，苹果还在与英伟达讨论其他合作方向，包括英伟达的技术和开源 AI 模型。</p><p data-vmark=\"a653\">苹果筹划 AI 服务器，也与 Mac 电脑需求突然增加有关。过去一年，<strong>AI 开发者大量购买 Mac mini 和 Mac Studio</strong>。大型 AI 实验室已经买下数万台，其他企业也开始把它们用于实际业务。</p><p data-vmark=\"84ad\">苹果看中的重点市场是 <strong>AI 推理</strong>，也就是直接运行 AI 模型。对于希望把模型部署在自有服务器上、而不是交给公有云运行的企业来说，苹果认为这款服务器<strong>可能具有吸引力</strong>。</p><p data-vmark=\"2cb6\">如果新产品顺利推出，将标志着苹果正式<strong>重返服务器业务</strong>。苹果曾在 2002 年至 2011 年间销售 Xserve 服务器，芯片先后采用 IBM 和英特尔的产品。但参与该项目的人士披露，Xserve 失败的主要原因，是苹果当时<strong>对企业市场不够重视</strong>，也没有做好客户支持。</p>",
+      "link": "https://www.ithome.com/1/003/297.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/297.htm"
+    },
+    {
+      "id": 585,
+      "title": "岚图汽车卢放：华为是值得信赖的技术伙伴，所有搭载乾崑智驾与鸿蒙座舱的品牌中岚图销量第二",
+      "summary": "IT之家 9 月 16 日消息，岚图汽车科技股份有限公司董事长卢放今日发文，谈及了岚图和华为的合作情况。他表示，东风与华为，一个代表整车硬实力、一个代表智能软实力，都是民族产业的标杆。岚图，正是双方软硬协同的全新实践。 卢放称，不同车企有不同的路径。对岚图而言，最好的合作模式，始终是强强联合。岚图汽车高度认可华为在智能化方面的技术实力：迄今为止，在智能辅助驾驶体验上，华为依然是 Top1。岚图也非常满意当下的合作模式：双方合作坚固，又各自保持相对独立，“合作 + 独立”，成就",
+      "content": "<p data-vmark=\"9482\">IT之家 9 月 16 日消息，岚图汽车科技股份有限公司董事长卢放今日发文，谈及了岚图和华为的合作情况。他表示，东风与华为，一个代表整车硬实力、一个代表智能软实力，都是民族产业的标杆。<strong>岚图，正是双方软硬协同的全新实践</strong>。</p><p data-vmark=\"96dc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b920af5d-84dc-4bb0-beff-08ddee5408f4.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d15f1baf9e6bfd359ab786ceedf52901a645424cd6fad94a3238909b949452c81a767609265a4e843f\" data-mpos=\"2,2\" data-vmark=\"d30c\" class=\"no-alt-img\"></p><p data-vmark=\"2876\">卢放称，不同车企有不同的路径。<strong>对岚图而言，最好的合作模式，始终是强强联合</strong>。岚图汽车高度认可华为在智能化方面的技术实力：<strong>迄今为止，在智能辅助驾驶体验上，华为依然是 Top1</strong>。岚图也非常满意当下的合作模式：双方合作坚固，又各自保持相对独立，“合作 + 独立”，成就了彼此的快速成长与可持续发展。</p><p data-vmark=\"f264\">他还透露，<strong>在所有搭载乾崑智驾与鸿蒙座舱的品牌当中，岚图销量位居第二</strong>。卢放的微博配图文案显示：“筷子要一双才好用啊。”</p><p data-vmark=\"a4d8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c29f6491-7abf-4724-9970-4799ab2692ee.png\" w=\"798\" h=\"1190\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F7748789887%2FRipo42tCK%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"916d\" class=\"no-alt-img\"></p><p data-vmark=\"757e\">据IT之家此前报道，岚图汽车 CBO、销售公司总经理邵明峰今年 8 月在直播中公开分享自己针对智能驾驶行业合作热点话题的看法。</p><p data-vmark=\"eba6\">在谈及行业顶尖智驾技术的实战能力和综合落地水平时，邵明峰认为，当前市场环境的智能辅助驾驶能力上，华为乾崑智驾是 TOP1，在复杂路况下能够实现零接管的智能辅助驾驶，是一个必选项。</p><p data-vmark=\"240f\" style=\"text-align: center;\"><a href=\"https://weibo.com/7575030448/RcSfs7HCC\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/841c82d9-1cfb-4c8c-90b5-96d87c945e3e.jpg\"></a></p>",
+      "link": "https://www.ithome.com/1/003/296.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/296.htm"
+    },
+    {
+      "id": 586,
+      "title": "奕境曾清林：华为是非常难得的战略合作伙伴，奕境目前这种模式是最完美合作模式",
+      "summary": "IT之家 9 月 16 日消息，奕境汽车品牌总经理曾清林今晚发文，谈及了有关行业合作模式的事宜。 他表示，华为是非常难得的战略合作伙伴。华为的智能化能力是全球顶尖水准。华为的技术不是营销噱头，而是用户实际用起来就能真切感受到的、更高阶的体验。和华为团队打交道至今，自己最欣赏的一点，是他们对品质和技术的极致要求。 曾清林认为，奕境目前的这种模式是最完美的合作模式。这种模式的核心优势，是机制资源与技术的双重支撑。 在机制上，奕境品牌由东风和华为乾崑联合深度共创，双方联合定义、联合",
+      "content": "<p data-vmark=\"f841\">IT之家 9 月 16 日消息，奕境汽车品牌总经理曾清林今晚发文，谈及了有关行业合作模式的事宜。</p><p data-vmark=\"635f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/98e0516d-26ab-4c6e-bb9e-11e75bca12f2.jpg\" w=\"960\" h=\"720\" data-mpos=\"2,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d190052523a5e9cb9e8b48be5ab9459413145187e10946b022715fce8367f675ff1b5823a5ea7acf85\" data-vmark=\"638e\" class=\"no-alt-img\"></p><p data-vmark=\"b019\">他表示，<strong>华为是非常难得的战略合作伙伴</strong>。华为的智能化能力是全球顶尖水准。华为的技术不是营销噱头，而是用户实际用起来就能真切感受到的、更高阶的体验。和华为团队打交道至今，自己最欣赏的一点，是他们对品质和技术的极致要求。</p><p data-vmark=\"e600\">曾清林认为，<strong>奕境目前的这种模式是最完美的合作模式</strong>。这种模式的核心优势，是机制资源与技术的双重支撑。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1ea8\">在机制上，奕境品牌由东风和华为乾崑联合深度共创，双方联合定义、联合开发、联合办公，也集中了双方最优质、最核心的资源，相当于两个独立的灵魂合并在一起，变成了一个新的、更强大的组织。产品研发体系、质量管控体系、品牌渠道体系和销售服务能力，都倾注了两方最优质的资源，这种资源能力不是一般的单个企业能比拟的。</p></li><li><p data-vmark=\"9a1a\">在技术上，东风几十年的制造底蕴、底盘调校功底、整车安全体系扎稳了产品的基本盘，华为乾崑的顶尖智能科技把智能化的上限拉得很高。两大绝世高手把毕生功力都输送给奕境，在奕境的平台上实现硬件与软件底层打通、深度融合、再进行原生共创，实现了技术上 1+1&gt;2 的效果，真正产生了技术能力和体系能力的升维。也更有能力打造出技术顶尖的产品。</p></li></ul></blockquote><p data-vmark=\"35ea\">曾清林直言，奕境的模式，不是一开始的依附，不是单向赋能，<strong>而是在诞生之初，就是汽车国家队与科技企业意志坚定的双向奔赴</strong>。</p><p data-vmark=\"202e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a219af1a-f0f9-4a11-ae97-2645316f40b6.png\" w=\"937\" h=\"1633\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5343863993538764%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"d74e\" class=\"no-alt-img\"></p><p data-vmark=\"a28c\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/991/332.htm\">奕境 X9 旗舰大六座 SUV 已于 8 月 18 日正式开启预售</a>，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、乾崑赤兔平台、乾崑车载光、乾崑车云、鲸鳍通信等，预售价 29.98 万-37.98 万元。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"11cf\"><span class=\"no-auto-spacing \">增程 四驱 Ultra+ 旗舰 长续航版：37.98 万元</span></p></li><li><p data-vmark=\"4ccd\"><span class=\"no-auto-spacing \">增程 四驱 Ultra+ 长续航版：33.98 万元</span></p></li><li><p data-vmark=\"d0a1\"><span class=\"no-auto-spacing \">增程 Max 长续航版：29.98 万元</span></p></li></ul><p data-vmark=\"923e\">奕境 X9 长 5301mm、宽 2015mm、高 1820mm，轴距为 3120mm；搭载鸿蒙座舱 HarmonySpace 6，配备双 17.2 英寸 3.4K 蝶羽双联屏；搭载 896 线双光路图像级激光雷达，最高采用华为乾崑四激光方案。</p><p data-vmark=\"5d6a\">新车基于 800V 高压平台打造，CLTC 工况纯电续航 465km，在华为 XMC 全域融合架构的加持下，新车综合续航超过 1500km。</p><p data-vmark=\"5bcb\"><a target=\"_blank\" href=\"https://www.ithome.com/0/979/022.htm\">奕境 X9 是东风汽车与华为乾崑联合打造的全新高端智能汽车品牌的首款旗舰级 SUV</a>，定位新一代家庭旗舰。</p>",
+      "link": "https://www.ithome.com/1/003/294.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/294.htm"
+    },
+    {
+      "id": 587,
+      "title": "华为 Mate 90 系列手机影像配置曝光，主摄支持思特威新一代 LOFIC 技术",
+      "summary": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚发文，爆料了华为 Mate 90 系列手机的影像配置： 主摄有 50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代 LOFIC 技术。 PM 长焦端疑似首发落地 200Mp 1/1.28 SCC85XS，首颗高端国产化 2 亿高动态传感器。 听说前摄和多光谱也用了思特威 Sensor，后面 Mate X8 也用思特威，国产 Sensor 立大功！ 有网友询问这颗潜望镜头的具",
+      "content": "<p data-vmark=\"3c56\">IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚发文，爆料了华为 Mate 90 系列手机的影像配置：</p><blockquote><p data-vmark=\"35b5\">主摄有 50Mp 1/1.56 &nbsp;SC575XS、50Mp 1/1.28 SC595XS，<strong>都支持思特威新一代 LOFIC 技术</strong>。</p><p data-vmark=\"abb2\">PM 长焦端疑似首发落地 200Mp 1/1.28 SCC85XS，<strong>首颗高端国产化 2 亿高动态传感器</strong>。</p><p data-vmark=\"3076\"><strong>听说前摄和多光谱也用了思特威 Sensor</strong>，后面 Mate X8 也用思特威，国产 Sensor 立大功！</p></blockquote><p style=\"text-align: center;\" data-vmark=\"8656\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7040f76-ca0e-47e2-9a25-5c6277391250.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"1055\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRip65gDk3%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"6979\" class=\"no-alt-img\"></p><p data-vmark=\"4adc\">有网友询问这颗潜望镜头的具体配置，博主回复称：“思特威首颗从芯片设计、工艺开发到量产落地全流程国产化的 2 亿传感器，<strong>支持 4X 无损变焦</strong>，动态范围也有 83dB。”</p><p data-vmark=\"16aa\">据IT之家此前报道，消息称华为 Mate 90 系列手机将延续星环设计，还是本月下旬发布。目前，麒麟 9050 Pro 处理器已正式发布，这枚处理器也是首款逻辑折叠 τ 芯片。据称，第一代 τ 芯片最佳性能设备还是得等华为 Mate 90 Pro Max。</p><p style=\"text-align: center;\" data-vmark=\"b671\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-vmark=\"b1a9\" data-weibo=\"1\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏</figcaption>",
+      "link": "https://www.ithome.com/1/003/289.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/289.htm"
+    },
+    {
+      "id": 588,
+      "title": "上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro",
+      "summary": "IT之家 9 月 16 日消息，极狐阿尔法 T7 汽车今日上市，新车提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池。该车上市补贴价 13.28 万元起，即日起下单可享受价值 4000 元置换补贴、6000 元 ADS 高阶包补贴、三电终身质保、3 年不限量娱乐流量等权益。 IT之家附该车各版本定价如下： 增程 1315 PLUS：13.28 万元 1315 MAX：14.48 万元 1315 MAX 乾崑版：15.38 万元 131",
+      "content": "<p data-vmark=\"a268\">IT之家 9 月 16 日消息，极狐阿尔法 T7 汽车今日上市，新车提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池。<strong>该车上市补贴价 13.28 万元起</strong>，即日起下单可享受价值 4000 元置换补贴、6000 元 ADS 高阶包补贴、三电终身质保、3 年不限量娱乐流量等权益。</p><p style=\"text-align: center;\" data-vmark=\"d795\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ae9a08a2-aa12-4bc2-859c-3276eda0eed2.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"b215\" class=\"no-alt-img\"></p><p data-vmark=\"bdac\">IT之家附该车各版本定价如下：</p><h3 data-vmark=\"4f91\">增程</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"98e5\">1315 PLUS：13.28 万元</p></li><li><p data-vmark=\"fd12\">1315 MAX：14.48 万元</p></li><li><p data-vmark=\"1bfc\">1315 MAX 乾崑版：15.38 万元</p></li><li><p data-vmark=\"a958\">1315 ULTRA 乾崑版：16.38 万元</p></li></ul><h3 data-vmark=\"41f2\">纯电</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5cb4\">650 PLUS：13.58 万元</p></li><li><p data-vmark=\"94ac\">715 MAX：14.98 万元</p></li><li><p data-vmark=\"5531\">715 MAX 乾崑版：15.88 万元</p></li><li><p data-vmark=\"3690\">715 ULTRA：15.98 万元</p></li><li><p data-vmark=\"b093\">715 ULTRA 乾崑版：16.88 万元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"8e29\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e3009a15-9573-49fb-a290-d438fc3166e2.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"624\" data-weibo=\"1\" data-vmark=\"dbdc\" class=\"no-alt-img\"></p><p data-vmark=\"12e9\">IT之家了解到，极狐阿尔法 T7 长宽高分别为 5020/1996/1685mm，轴距达到 3040mm，拥有 0.61 轴长比、2.21 轮高比、1.18 宽高比的黄金比例，配合低趴宽体姿态和双锋凌厉腰线，兼具高级感与运动感；风阻系数为 0.251，配备 21 寸利刃轮毂、高亮黄色四活塞卡钳。</p><p style=\"text-align: center;\" data-vmark=\"458f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ee81d2d-235d-4530-a694-fd7be717403e.png?x-bce-process=image/format,f_auto\" w=\"1141\" h=\"1477\" data-weibo=\"2\" data-vmark=\"af1c\" class=\"no-alt-img\"></p><p data-vmark=\"6468\">该车提供熹微橙、凝夜紫、幻影绿、星云粉、极夜黑、量子灰、贝母白等配色，采用“百万级车漆工艺”，由涂料巨头 PPG 定制开发。内饰可选元气橙、芋泥白、枫糖棕等配色。</p><p style=\"text-align: center;\" data-vmark=\"144c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ae8b1c7f-7054-4049-98f5-fc45b4d8535c.png?x-bce-process=image/format,f_auto\" w=\"1207\" h=\"1891\" data-weibo=\"3\" data-vmark=\"5b7f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c842\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b88bbdf4-8f5f-45ca-93cc-b1c24c54f5d5.png?x-bce-process=image/format,f_auto\" w=\"1196\" h=\"538\" data-weibo=\"4\" data-vmark=\"9386\" class=\"no-alt-img\"></p><p data-vmark=\"4559\">新车搭载全球首款 5G 4nm 车规级芯片，以及 1.1 米超宽全景 P-HUD，支持导航、驾驶、娱乐个性化组合；全系采用宁德时代品牌电芯，纯电版搭载 84.8kWh 电池包，增程版标配 43.9kWh 高集成磷酸铁锂电池包。</p><p data-vmark=\"b908\">内饰方面，该车拥有 4D 体感座椅，支持迎宾、记忆、加热、通风、按摩等，配备 17.3 英寸超大中控屏，支持多任务分屏操作，车机搭载千问 / 豆包大模型，实现 AI 闪购点单上车。新车还配备-6℃ 至 50℃ 温域 8.2 升双开门冷暖箱，以及 256 色全域星空氛围灯、专属定制香氛系统。</p><p style=\"text-align: center;\" data-vmark=\"a27e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8acac350-49b1-4c5a-8700-02ff3f6df1bb.png?x-bce-process=image/format,f_auto\" w=\"1169\" h=\"1469\" data-weibo=\"5\" data-vmark=\"8135\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"8005\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/cc2f908a-1d20-4840-9523-df412d4a24a7.png?x-bce-process=image/format,f_auto\" w=\"1207\" h=\"1189\" data-weibo=\"6\" data-vmark=\"1722\" class=\"no-alt-img\"></p><p data-vmark=\"6ee8\">新车首搭华为乾崑智驾 ADS 5 Pro 智能辅助驾驶系统，配备隐藏式激光雷达等 27 个感知传感器；高速 NCA 最高车速 130km/h，平均接管里程超 1500 公里，覆盖城际高速巡航、主路汇入汇出、匝道合流分流等全场景；城区 NCA 能识别加塞、红绿灯自动启停、无保护左转、环岛绕行、窄路会车等场景。</p><p style=\"text-align: center;\" data-vmark=\"d858\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1c53a421-28b7-4d50-b412-3fd6310a8611.png?x-bce-process=image/format,f_auto\" w=\"1172\" h=\"1745\" data-weibo=\"7\" data-vmark=\"529d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c9ca\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bf32829c-902d-485d-90fc-8a9f447627ef.png?x-bce-process=image/format,f_auto\" w=\"1191\" h=\"1781\" data-weibo=\"8\" data-vmark=\"7d6b\" class=\"no-alt-img\"></p><p data-vmark=\"922d\">同时，该车的纯电版搭载 84.8kWh 电池包，CLTC 续航最长 715km；全系标配 800V 高压碳化硅快充平台，超充倍率最高 3C，SOC 30% 充至 80% 仅需 15 分钟，10 分钟充电续航 270km，15 分钟充电续航 370km，在普通 400V 充电桩上依然能“吃满”功率。</p><p style=\"text-align: center;\" data-vmark=\"b8a4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b0a0c3a7-b2cd-49ad-a343-5473e15fe409.png?x-bce-process=image/format,f_auto\" w=\"1201\" h=\"1486\" data-vmark=\"c2f3\" class=\"no-alt-img\"></p><p data-vmark=\"d850\">增程版全系标配 43.9kWh 高集成磷酸铁锂电池包，CLTC 纯电续航 320km，满油满电综合续航达 1315km，配有 47L 油箱。</p><p style=\"text-align: center;\" data-vmark=\"180d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/de7c78dd-4382-4f0e-8f3b-73ce3b7253c7.png?x-bce-process=image/format,f_auto\" w=\"1213\" h=\"1926\" data-vmark=\"575a\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"cfca\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e545e614-6842-43b0-a8ef-d6fe3440c58b.png?x-bce-process=image/format,f_auto\" w=\"1188\" h=\"1285\" data-vmark=\"3caf\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/283.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/283.htm"
+    },
+    {
+      "id": 589,
+      "title": "零跑世界模型辅助驾驶将覆盖 A、B、C、D 全系车型，10 万元内也可拥有",
+      "summary": "IT之家 9 月 16 日消息，在今天（16 日）晚间的零跑 2026 年度技术发布会上，零跑汽车公布了自研的世界模型智能辅助驾驶，200TOPS 算力就能实现，最高提供 1280TOPS 算力的顶级版本，老车主也可升级。 IT之家从发布会现场获悉，2027 年第一季度起，零跑将陆续为激光雷达车型升级到基于世界模型的高阶辅助驾驶，10 万元以内的车型也将获得支持。 零跑方面称，该智驾达到了“全行业第一梯队”的水平，将覆盖 A、B、C、D 全系车型，实现“真正的高阶智驾平权”。",
+      "content": "<p data-vmark=\"bb61\">IT之家 9 月 16 日消息，在今天（16 日）晚间的零跑 2026 年度技术发布会上，零跑汽车公布了自研的世界模型智能辅助驾驶，200TOPS 算力就能实现，最高提供 1280TOPS 算力的顶级版本，老车主也可升级。</p><p data-vmark=\"62b2\">IT之家从发布会现场获悉，<strong>2027 年第一季度起</strong>，零跑将陆续为激光雷达车型升级到基于世界模型的高阶辅助驾驶，10 万元以内的车型也将获得支持。</p><p data-vmark=\"e960\">零跑方面称，该智驾达到了“全行业第一梯队”的水平，将覆盖 A、B、C、D 全系车型，实现“真正的高阶智驾平权”。</p><p data-vmark=\"4852\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4c24e19d-2712-4680-b9be-7e59da965c69.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"638\" data-weibo=\"0\" data-vmark=\"2c30\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d123c7100e81d9b48a872a6fd299ac8f28cc3b8e75b181ef4b27fc926c4a3f7e02f98a812ced0d97f3\" class=\"no-alt-img\"></p><p data-vmark=\"6199\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8516bac2-2b5d-480c-81de-60e381007c47.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"638\" data-weibo=\"1\" data-vmark=\"891a\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d11c43c4bfcb182a85c64cc5852f9d7ffe8a1271df46a13112dee9ecd67426dad28a97e7bff6bdc992\" class=\"no-alt-img\"></p><p data-vmark=\"3a9d\">根据介绍，零跑世界模型智驾采用云端学习仿真、车端闭环训练，号称是<strong>越用越聪明、每天都在变强</strong>的生长型系统。目前，零跑智驾团队规模已经超过 800 人，具备 100% 全栈自研能力，更支持 <strong>1 天 8 版本</strong>的算法快速迭代。</p><p data-vmark=\"c29a\">零跑科技电子产品线负责人周洪涛表示，世界模型能像人一样理解周围世界，预判接下来会发生什么。如果模型能想象出世界如何变化，就能判断该怎么去开车。</p><p data-vmark=\"aefa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f8233af7-d957-4542-9e83-5e03cc1274a3.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"638\" data-weibo=\"2\" data-vmark=\"fe55\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1724f8b100baf1da65cc8c4f56247702178f9232be224b68859d3ae272fb57fbf048143ab74d644d6\" class=\"no-alt-img\"></p><p data-vmark=\"4ab4\">与此同时，零跑汽车还放出了一段世界模型辅助驾驶的一镜到底实测挑战。</p><p data-vmark=\"5861\" style=\"text-align: center;\"><a href=\"https://weibo.com/5872290888/Rip6UkvdW\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c656893e-983c-432e-9609-d6cb896054c7.jpg\"></a></p><p data-vmark=\"2043\">明年起，零跑世界模型将面向 <strong>35 万辆激光雷达版车型</strong>免费升级，分季度适配不同车型，2024 款 C16/C11/C10 也可使用。</p><p data-vmark=\"6393\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/664c9dd4-446b-4ed4-8421-3feaaafb1370.jpg\" w=\"1440\" h=\"638\" data-weibo=\"3\" data-mpos=\"2,2\"  data-vmark=\"76cf\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/279.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/279.htm"
+    },
+    {
+      "id": 590,
+      "title": "M154FF 跑分曝光：第六代骁龙 8 超级至尊版 +16GB 内存，预估为小米 18 Pro 手机",
+      "summary": "IT之家 9 月 16 日消息，型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型。型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max。 数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz 大核，3 颗 3.74GHz 中核），此外 GPU 部分显示配备 Adreno 850。 页面显示该手机配备 16GB 内存（M",
+      "content": "<p data-vmark=\"55ab\">IT之家 9 月 16 日消息，<strong>型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型</strong>。<a target=\"_blank\" href=\"https://www.ithome.com/1/000/585.htm\">型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max</a>。</p><p data-vmark=\"5c6a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b8d5c060-00ff-4a21-9103-2de279f52cac.jpg?x-bce-process=image/format,f_auto\" w=\"1137\" h=\"1580\" data-mpos=\"1,1\" data-weibo=\"0\"  data-vmark=\"049e\" class=\"no-alt-img\"></p><p data-vmark=\"d687\">数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz 大核，3 颗 3.74GHz 中核），此外 GPU 部分显示配备 Adreno 850。</p><p data-vmark=\"335d\">页面显示该手机配备 16GB 内存（M1544F 型号为 12GB），运行安卓17 系统，GB7 单核跑分 3619 分，多核 11842 分。IT之家附上两个跑分信息如下：</p><table><tbody><tr class=\"firstRow\"><th scope=\"col\">型号代码</th><th scope=\"col\">预估对应机型</th><th scope=\"col\">内存</th><th>单核成绩</th><th>多核成绩</th></tr><tr><td><strong> M154FF</strong></td><td>小米 18 Pro</td><td>16GB</td><td>3619</td><td>11842</td></tr><tr><td><strong>M1544F</strong></td><td>小米 18 Pro Max</td><td>12GB</td><td>3582</td><td>12247</td></tr></tbody></table>",
+      "link": "https://www.ithome.com/1/003/270.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/270.htm"
+    },
+    {
+      "id": 591,
+      "title": "享界 S9、S9T 累计交付突破 6 万台，连续 9 个月居 30 万以上新能源轿车销冠",
+      "summary": "IT之家 9 月 16 日消息，今天是享界 S9T 旅行车上市一周年。华为智选车产品总监（享界系列）彭磊今日发文回顾了享界 S9T 的上市历程。据其透露，一年前旅行车还是小众选择，如今行业调研显示，旅行车以 33.9% 成为用户最期待的车身形式。 彭磊介绍称，享界 S9T 上市 72 小时大定破万，同时享界 S9、S9T 累计交付超 6 万台，连续 9 个月稳居 30 万以上新能源轿车销冠。 据IT之家此前报道，今年 6 月，在工信部第 408 批《道路机动车辆生产企业及产品",
+      "content": "<p data-vmark=\"c34e\">IT之家 9 月 16 日消息，今天是享界 S9T 旅行车上市一周年。华为智选车产品总监（享界系列）彭磊今日发文回顾了享界 S9T 的上市历程。据其透露，一年前旅行车还是小众选择，如今行业调研显示，<strong>旅行车以 33.9% 成为用户最期待的车身形式</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7fd3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8b31d0b6-2df4-409e-b673-5b6138f19855.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1e33d546db9ec2ec8666d6e8df02be20b92c75894acea01e1abf8c46d286a17a10a32bba86f2c2723\" data-vmark=\"3d07\" class=\"no-alt-img\"></p><p data-vmark=\"0b3e\">彭磊介绍称，享界 S9T 上市 72 小时大定破万，<strong>同时享界 S9、S9T 累计交付超 6 万台</strong>，连续 9 个月稳居 30 万以上新能源轿车销冠。</p><p style=\"text-align: center;\" data-vmark=\"531e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8184effa-baa7-4a93-9d60-1a5daa70ecd6.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"1261\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F3243882235%2FRiofo1pFC%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d18cc8a428aa4cd65cd7318d21b4e6d8039976eac85bde5a0825392b18a6a651fac1e041c9e138d03a\" data-vmark=\"9a26\" class=\"no-alt-img\"></p><p data-vmark=\"1286\">据IT之家此前报道，今年 6 月，在工信部第 408 批《道路机动车辆生产企业及产品公告》新产品公示中，鸿蒙智行享界旗下两款轿车 —— <a href=\"https://www.ithome.com/0/962/674.htm\" target=\"_blank\">享界 S9 和享界 S9T 也再度现身</a>。新车在细节处有所调整。最明显的变化就是新车的尾标改为北汽集团（此前为北汽新能源）。</p><p style=\"text-align: center;\" data-vmark=\"65c4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f9670ee7-5356-470b-9e32-6a733ca2c965.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"809\" data-vmark=\"3d60\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/003/268.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/268.htm"
+    },
+    {
+      "id": 592,
+      "title": "消息称 AMD RDNA 5 将搭载自研神经渲染技术，对标英伟达 DLSS 5",
+      "summary": "IT之家 9 月 16 日消息，据传 AMD 下一代 RDNA 5 架构或将推出专属的神经渲染功能，对标英伟达的 DLSS 5。该消息来自知名 AMD 爆料人开普勒_L2（Kepler_L2）；但目前这仅属于单一信源的说法，应当视作传闻看待。 开普勒_L2 在 Anandtech 论坛发帖表示，AMD 将会推出自家的“神经光照（Neural Lighting）”技术，性能可以对标 DLSS 5，用于新一代硬件。当被问及该功能是否会仅限 RDNA 5 平台使用时，这位爆料人给出",
+      "content": "<p data-vmark=\"cdf4\">IT之家 9 月 16 日消息，据传 AMD 下一代 RDNA 5 架构或将推出专属的神经渲染功能，对标英伟达的 DLSS 5。该消息来自知名 AMD 爆料人开普勒_L2（Kepler_L2）；但目前这仅属于单一信源的说法，应当视作传闻看待。</p><p style=\"text-align: center;\" data-vmark=\"d25e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aab781cd-6c5b-4778-8f09-3cd4668f0172.jpg?x-bce-process=image/format,f_auto\" w=\"1170\" h=\"658\" data-weibo=\"0\" data-vmark=\"bc97\" class=\"no-alt-img\"></p><p data-vmark=\"2527\">开普勒_L2 在 Anandtech 论坛发帖表示，AMD 将会推出自家的“神经光照（Neural Lighting）”技术，性能可以对标 DLSS 5，用于新一代硬件。当被问及该功能是否会仅限 RDNA 5 平台使用时，这位爆料人给出的看法是大概率如此，因为这类运算的负载显然相当大。</p><p style=\"text-align: center;\" data-vmark=\"35ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9c2c6fc5-9f15-4590-b452-b15ce9b1e3ad.jpg?x-bce-process=image/format,f_auto\" w=\"1060\" h=\"241\" data-weibo=\"1\" data-vmark=\"724f\" class=\"no-alt-img\"></p><p data-vmark=\"68dc\">IT之家注意到，开普勒_L2 同时也分享了自己的想法，阐述 AMD 的方案应当如何走出一条不同于英伟达的道路。他认为 AI 模型应当可以直接读取原始游戏数据，例如几何体信息与深度缓冲，而不是只能靠推测还原场景细节；另外还建议把光照计算与着色拆分为独立模型，而不要整合在同一条渲染管线内。</p><p data-vmark=\"0830\">到目前为止，AMD 甚至尚未正式确认 RDNA 5 这个产品代号。不同机构给出的发布预估时间跨度较大，落在 2027 年年中至 2028 年年初之间。因此即便传闻日后成真，这套技术现阶段很可能依旧还处在早期开发阶段。</p>",
+      "link": "https://www.ithome.com/1/003/265.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/003/265.htm"
+    },
+    {
+      "id": 593,
+      "title": "Developer vibe codes a tool to let Nvidia RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W",
+      "summary": "A developer has created a fully vibe-coded tool that seems to work to allow some GeForce RTX 50-series laptops to crank their power limits by as much as 28%.",
+      "content": "<article>\n                                <p>Folks with Nvidia-based gaming laptops can now use a new tool called NvpwrControl to unlock additional performance from their assuredly power-limited mobile GPU, as long as they're willing to accept the risks of cranking their GPU power limit by as much as 40 watts. The tool, spotted by <a href=\"https://videocardz.com/newz/modder-creates-tool-that-raises-rtx-5070-ti-laptop-gpu-power-to-180w-rtx-5090-up-to-225w\">VideoCardz</a>, is <a href=\"https://github.com/LevinAi-arch/rtx-5070ti-laptop-160w-power-limit/releases/tag/v1.8.0\" target=\"_blank\">available for download on GitHub</a>, and it is labeled as 'experimental', so you'll want to be very sure you're willing to damage the reliability, if not the lifespan, of your fancy discrete GPU gaming laptop before using it.</p><p>If you've ever had a gaming laptop, you will know that the GPU model name can be deeply misleading. Whether it's NVIDIA using <a href=\"https://www.tomshardware.com/pc-components/gpus/rtx-5090-laptop-review-claims-gpu-is-a-performance-dud-but-outshines-the-4090-in-power-efficiency\" target=\"_blank\">wildly different GPU configurations</a>, AMD using confusing suffixes that <a href=\"https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance\" target=\"_blank\">don't exist in desktop GPUs</a>, or Intel <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-mandates-at-least-7-467-mt-s-ram-speed-for-panther-lake-slower-memory-will-relabel-the-arc-b370-and-b390-igpus-as-generic-intel-graphics-in-task-manager\" target=\"_blank\">naming integrated graphics like a discrete GPU</a>, all three vendors do things to keep the user guessing why their new gaming laptop isn't as fast as expected based on the name alone.</p><div ><table><caption>NVIDIA GeForce RTX 50 Series Laptop GPU Power Limits</caption><thead><tr><th class=\"firstcol \" ><p>GPU Name</p></th><th  ><p>GPU Power (varies per laptop)</p></th><th  ><p>Dynamic Boost Max</p></th><th  ><p>Mod Max (Experimental)</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>GeForce RTX 5050 Laptop</p></td><td  ><p>35 - 100W</p></td><td  ><p>15W</p></td><td  ><p>140W</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5060 Laptop</p></td><td  ><p>45 - 100W</p></td><td  ><p>15W</p></td><td  ><p>140W</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5070 Laptop</p></td><td  ><p>50 - 100W</p></td><td  ><p>15W</p></td><td  ><p>140W</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5070 Ti Laptop</p></td><td  ><p>60 - 115W</p></td><td  ><p>25W</p></td><td  ><p>180W</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5080 Laptop</p></td><td  ><p>80 - 150W</p></td><td  ><p>25W</p></td><td  ><p>225W</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5090 Laptop</p></td><td  ><p>95 - 150W</p></td><td  ><p>25W</p></td><td  ><p>225W</p></td></tr></tbody></table></div><p>In Nvidia's case, the GPU models (<a href=\"https://www.tomshardware.com/news/look-closely-before-you-buy-a-geforce-rtx-3000-laptop\" target=\"_blank\">aside from the RTX 30 Series</a>) don't match at all between laptop and desktop, but even with the smaller size of the laptop GPUs, the chips are still sharply limited in performance by their stringent power limits. These limits top out at 150W, with an extra jolt, usually 25W, available from Dynamic Boost if the CPU isn't heavily loaded. This is, frankly put, not enough power for even the mobile GeForce RTX 5070 Ti to stretch its legs, to say nothing of the GeForce RTX 5080 Laptop or GeForce RTX 5090 Laptop. In high-intensity gaming situations, these GPUs can score pretty similarly due to having the same power limit.</p><p>That's what makes this tool attractive. By cranking the power limit, you can give these power-limited GPUs a performance boost. The developer doesn't provide any benchmarks, but I can say from experience that testing power limit adjustments on a power-limited GPU can give nearly linear performance gains, meaning that increasing the power limit from a stock 140W all the way up to 180W could potentially give a GPU performance uplift in the neighborhood of 25% or more, although it is impossible to verify this without testing. </p><p>There are quite a few caveats to this utility, though. For one thing, even the author describes it as 'experimental ', and for another thing, it's clearly AI-generated in the largest part. The developer is called \"LevinAI\", after all, and there are <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-says-generative-ai-cannot-think-like-a-human-research-paper-pours-cold-water-on-reasoning-models\" target=\"_blank\">the hallmarks of generative AI</a> all over the GitHub repository. Still, there are a few reports on both GitHub and Reddit suggesting that users have been testing it, and the developer claims that it works on his GeForce RTX 5070 Ti laptop, posting the proof below.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:559px;\"><p class=\"vanilla-image-block\" style=\"padding-top:143.83%;\"><img id=\"y8oYY8r7nsVcuZZdw4Vr5Z\" name=\"gpuz-screenshot-rtx-5070ti-laptop-1639w\" alt=\"A screenshot of the GPU-Z utility showing a board power draw of 163.9 watts on a GeForce RTX 5070 TI Laptop.\" src=\"https://cdn.mos.cms.futurecdn.net/y8oYY8r7nsVcuZZdw4Vr5Z-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"559\" height=\"804\" attribution=\"\" endorsement=\"\" class=\"inline expandable\"><a href='https://cdn.mos.cms.futurecdn.net/y8oYY8r7nsVcuZZdw4Vr5Z-1920-80.png' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">The developer's screenshot of GPU-Z, showing a board power draw of 163.9 watts on a GeForce RTX 5070 TI Laptop, well above the stock 140W cap. </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: /u/Ecstatic_Hamster2208 on Reddit)</span></figcaption></figure><p>Other notable qualifiers include that it only supports Blackwell GPUs for now, and it only enables power controls when it can recognize the power policy layout and OEM baseline. If your GPU already ships with a wacky power configuration, this tool may not work for you. It's also not verified to work on every brand of laptop nor every model of GeForce RTX 50-series GPU, so we absolutely wouldn't try this unless you're willing to replace your Blackwell-based laptop.</p><p>The partially AI-generated project description (likely chosen as the author's native language appears to be Russian) explains that the developer investigated numerous layers of the software stack on top of the GPU to see where the power limit could be modified. The controls that NVIDIA exposes generally <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-laptop-gpus-appear-in-gpus-for-desktop-pcs-in-china\" target=\"_blank\">won't let the user raise the power limit</a> above the value set by the OEM for fear of potentially damaging the hardware, since the power delivery and cooling mechanisms were likely not designed with the higher power draw and thermal output in mind.</p><p>The solution he found was apparently to modify a low-level NVIDIA power policy that isn't normally exposed to end-users. He says, \"One of the important findings was that the power-management chain contains internal policy values that are not exposed through the normal consumer power-limit controls. This is the path that eventually led to a working experimental implementation.\" However, due to the method employed, the tool does require the user to disable Windows driver signature verification, which is yet another 'gotcha' of the mod.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:67.27%;\"><img id=\"68nQShJRxUQhk63qkrfvGi\" name=\"nvpwr-control-application-screenshot-reddit\" alt=\"A screenshot of the NvpwrControl utility showing its interface.\" src=\"https://cdn.mos.cms.futurecdn.net/68nQShJRxUQhk63qkrfvGi-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"861\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://www.reddit.com/r/GamingLaptops/comments/1wheozt/rtx_505050605070_laptop_now_up_to_140w/\" target=\"_blank\">/u/Ecstatic_Hamster2208 on Reddit</a>)</span></figcaption></figure><p>As amusing as it is to see that the developer left his AI assistant's instructions for constructing his GitHub repository (which he didn't follow), it's a reminder both of the reliability concerns around \"vibe\"-coded software in production as well as of the incredible potential of AI software development. Since we spotted the story on this utility, the developer has already bumped the version from 1.5.0 to 1.8.0 with a new release on GitHub, suggesting that the pace of improvements is extremely rapid.</p><p>A few users on Reddit, where the author posted the above screenshot, <a href=\"https://www.reddit.com/r/GamingLaptops/comments/1wfzzwg/rtx_5070_ti_laptop_i_found_a_way_around_the_140w/\" target=\"_blank\">lambasted the developer</a> for taking ownership of what they claim is \"100% AI generated work\" and also for not structuring his code repository correctly (since all of the source is packed in a ZIP file, not properly viewable on GitHub). However, the majority of other users seem enthusiastic about his work, and several <a href=\"https://www.reddit.com/r/GamingLaptops/comments/1wheozt/rtx_505050605070_laptop_now_up_to_140w/\" target=\"_blank\">have already posted proof</a> that it seems to work, with huge gains in 3DMark and other benchmarks. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "mzbmmJnBBzaCA6wU4QrhX6"
+    },
+    {
+      "id": 594,
+      "title": "Piecemakers bets edge AI devices will diverge from reliance on HBM — custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding",
+      "summary": "Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won’t be HBM.",
+      "content": "<article>\n                                <p>PieceMakers, a Nanya-backed DRAM designer, began trading on Taiwan’s Emerging Stock Board on September 16 at a NT$740 reference price, <a href=\"https://news.cnyes.com/news/id/6599336\" target=\"_blank\"><em>Cnyes</em></a> reported ahead of the debut. PieceMakers is not an HBM company. Instead, it bets that inference memory diverges from training memory, President Lee Hsiao-wen told C<em>nyes</em>, and that DRAM stacked directly on the processor with <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined\">hybrid bonding</a> can sit between Nvidia’s SRAM-only <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip\">Groq LPU</a> and HBM. As it stands, design fees, not chips, carry the company's profit, with AI custom-design work accounting for around 40% of the company's revenue in the first half of 2026. Piecemakers Chairman Joseph Ting told <a href=\"https://finance.technews.tw/2026/09/07/processor\" target=\"_blank\"><em>TechNews</em></a> that its first volume customer program will not contribute to the company's financials until 2027 at the earliest.</p><p>At roughly 60.4 million shares outstanding, that price values the company at around NT$44.7 billion (around $1.4 billion). Taiwan's Emerging Board is the Taipei Exchange's pre-listing market, not a main-board IPO, so shares trade through market makers ahead of any formal listing application. The stock ended its first session at NT$915, 23.6% above the NT$740 reference price, after opening at NT$1,035 and trading as high as NT$1,205. </p><p>Nanya Technology is the largest holder of Piecemakers, at 33.96%, after selling 715,000 shares at NT$740 to seed the float, a disposal it disclosed in a Sept. 9 exchange filing reported by <a href=\"https://www.knews.com.tw/news/39396E2FF7ED81113297ACAD9208CC61\" target=\"_blank\"><em>Knews</em></a>.</p><h2 id=\"what-piecemakers-sells\">What PieceMakers sells</h2><p>PieceMakers was founded in January 2006 in Hsinchu, Taiwan, led by chairman Joseph Ting and president Lee Hsiao-wen. Historically, the company has designed standard SDR/DDR DRAM and known-good-die (KGD) parts through representatives in China, Japan, France, Turkey, and Israel. Now, the company seeks to shift from direct product sales to custom design services, paid as non-recurring engineering (NRE) fees, and then to IP licensing, royalties, and turnkey production from 2027, the company said at its Sept. 7 briefing, <a href=\"https://udn.com/news/story/7252/9740109\"><em>UDN</em></a> reported.</p><p>Revenue from the AI custom design unit has risen from around 4% in 2024 to almost 40% in the first half of 2026. The products behind that increase are <a href=\"https://www.piecemakers.com.tw/products/HBLL/\">HBLL</a> (High Bandwidth, Low Latency RAM), a 2D die rated at 144 GB/s that was taped out in 2016 for Intel’s HPC line and published at ISSCC in 2017, and HiBaLL, the 3D-stacked version rated at more than 1 TB/s, the company claims. </p><p>The company described its customers to <em>Cnyes </em>as developers of cloud AI inference accelerators, international semiconductor players, and North American customers, with some programs in design and verification, and none named. Qualcomm CEO Cristiano Amon’s Computex keynote backdrop in June listed PieceMakers among Taiwan ecosystem partners, although neither company has defined the relationship. The takeaway is that the profit is in design fees and not chips. The margin curve matches a pre-royalty Non-Recurring Engineering (NRE) business, rather than a traditional memory vendor.</p><h2 id=\"why-nanya-is-chasing-this-instead-of-hbm\">Why Nanya is chasing this instead of HBM</h2><p>Nanya’s AI-memory strategy is custom and edge rather than HBM3E. PieceMakers is the first half of a strategy laid out in 2024. On Aug. 7, 2025, Nanya <a href=\"https://www.nanya.com/en/IR/16?IRId=10033\">announced</a> a joint venture with Etron Technology, a Hsinchu-based chip designer, capitalized at NT$500 million, with 80/20 ownership. The venture was envisioned to design custom high-bandwidth memory for edge AI devices rather than for data center accelerators. Nanya president Pei-Ing Lee said earlier in 2025 that the company would not compete in HBM3 or HBM3E, <a href=\"https://www.trendforce.com/news/2025/08/08/news-taiwans-nanya-tech-and-etron-form-nt500m-jv-to-develop-custom-hbm-for-edge-ai/\"><em>TrendForce</em></a> reported. </p><p>Both halves of the strategy rely on Formosa Advanced Technologies, the Formosa Plastics Group’s test and assembly affiliate, for packaging. It is building the through-silicon-via (TSV) and die-stacking processes that both need. The <a href=\"https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\">surge in DRAM pricing</a> has made commodity memory Nanya’s real business, which leaves PieceMakers a cheap side bet that has become a windfall. Nanya took advantage of this by selling around 3% of its stake in a move that suggests it is acting more as an investor than a parent building a memory stack.</p><h2 id=\"the-inference-gap\">The inference gap</h2><p>Groq is an AI inference startup that Nvidia struck a <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidias-20-billion-groq-deal-produces-its-first-chip\">$20 billion licensing-and-talent deal</a> for on Dec. 24, 2025. Nvidia announced its first chip built from that, the Groq 3 LPU (language processing unit), Nvidia’s SRAM-based inference chip, at GTC, its annual developer conference, in San Jose earlier this year. </p><p>There is no HBM or DRAM on the Groq 3 LPU. Instead, it uses 512MB of SRAM on the die to deliver 150 TB/s of bandwidth against 22 TB/s from the 288GB of HBM4 on each Rubin GPU. It’s a decode-only co-processor with Rubin handling the prompt prefill, displacing Nvidia’s Rubin CPX from the roadmap. <br><br>At <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark\">Hot Chips 2026</a>,  Nvidia’s Igor Arsovski, Groq’s former chief architect, said the rack is in production and published the first third-party benchmark: 3,431 tokens per second on a 100K-context, 31B-parameter model, at about four times the next-fastest public endpoint, in a single-request test that we<em> </em>noted isn’t directly comparable to the shared endpoints it was measured against. The cost is capacity: at 512MB per chip, a 256-LPU rack holds 128GB, with the model needing 62 chips at FP8 just to hold the benchmark weights. Nvidia accepted that trade for decode speed, which supports Lee’s point that the market leader’s newest inference product contains no HBM.</p><p>At Hot Chips, Samsung’s Sangwook Han laid out a three-phase HBM roadmap that ends in <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor\">zHBM</a>, which is DRAM stacked directly on top of the processor rather than beside it on an interposer. Samsung projects about 70% less I/O power usage than HBM5 with roughly 2.3x the bandwidth of a four-stack HBM4E system, with zHBM’s stacks limited to about four-high due to heat, at around 100W less. This would require wafer-on-wafer hybrid copper bonding and tight co-design between DRAM and SoC teams. SK hynix’s Jaesik Lee, VP of package engineering, said on Aug. 23 that <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling\">hybrid bonding won’t be ready</a> for HBM4E, leaving HBM5 as the earliest point. Counterpoint Research expects full-scale HBM production with the technique around 2029–2030.</p><p>PieceMakers offers a different version. Instead of the GPU-plus-HBM 2.5D layout, it bonds the DRAM stack directly onto the processor, wafer-on-wafer, with hybrid bonding instead of microbumps. This fits far more connections with the finer pitch, improving bandwidth, and the shorter path reduces both latency and power consumption. The company puts its wafer-on-wafer product at more than 2 TB/s per layer with latency under 20ns, the company figures, but the target is more capacity than SRAM at a lower cost and power than HBM. PieceMakers is not doing the TSV or hybrid bonding itself, as this is handled by the customer’s logic wafer foundry, Ting added. This custom service promises a 2027 date against Samsung's undated roadmap end and SK hynix's HBM5-at-the-earliest timing. Nvidia and Samsung have each, in their own way, settled the architecture question, with the open question being the customer.</p><h2 id=\"yield-is-the-product\">Yield is the product</h2><p>Lee also said that yield is the biggest hurdle to wafer-on-wafer mass production. The repair architecture has to be designed in, with testing before bonding, after bonding, and then after logic integration. Lee’s own example was 80% yield per layer, at which four layers come out at about 41% and eight at 17%. Our recently-published <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined\">hybrid bonding state of play</a> covers the process side in more detail.</p><p>This better puts into perspective why the company sells repair and known-good-die IP as much as it does bandwidth. It’s also why an IP-and-royalty model fits the strategy — yield IP is portable across customers while a bandwidth number is not.</p><h2 id=\"what-to-watch\">What to watch</h2><p>For PieceMakers, AI revenue remains primarily NRE until there is a first named customer, with the first volume program expected in 2027 at the earliest. Ting said that Nanya’s Q3 2026 results, which come in late October, will gauge the PieceMakers gain and reveal further financial information. SK hynix’s hybrid-bonding timing, which targets HBM5 at the earliest, is the current benchmark, although its 16- and 20-layer memory stacks are a separate problem from a few DRAM layers on a logic wafer. Qualcomm may also describe its relationship with PieceMakers more formally.</p><p>PieceMakers is likely to end up as an IP licensor with a small number of accelerator customers and turnkey volume through Nanya and Formosa Advanced Technologies. The technology risk is the foundry’s and the customer’s, which is why PieceMakers’ design-fee model works. PieceMakers is expected to benefit from a 2027–2028 ramp, later than Ting’s 2027.  If the largest HBM maker won’t bond its own memory this way before HBM5, PieceMakers’ own 2027 date is the one it must meet.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "zxDTQsa9BZiAMUnPNs9AnV"
+    },
+    {
+      "id": 595,
+      "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
+      "summary": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for hyperscalers.",
+      "content": "<article>\n                                <p>Micron this week introduced its first 512GB DDR5-9200 memory module that is designed for servers used for applications that demand a lot of memory. The new modules — which are currently being validated by AMD and Intel with their next-generation server platforms — will enable server makers to build machines with up to 12TB of fast memory. What remains to be seen is the price of such modules and servers. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Memory</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"xi79WuWDZXzix4Fc7sXNMn\" name=\"hbm-vs\" caption=\"\" alt=\"HBM3E vs HBM4\" src=\"https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: SK Hynix)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies?utm_source=edit-links&utm_medium=boxout&utm_term=memory\">Samsung debuts three next-generation memory technologies for AI data centers</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/ram/the-future-of-dram-from-ddr5-advancements-to-future-ics?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">The future of DRAM: From DDR5 to future ICs</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/hbm-roadmaps-for-micron-samsung-and-sk-hynix-to-hbm4-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">High-bandwidth memory roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">Inside the history of DRAM price-fixing lawsuits</a></li></ul></p></div></div><p>To build its 512GB DDR5 RDIMM, Micron uses advanced packaging that stacks multiple DRAM dies vertically and connects them using through-silicon vias (TSVs). The company does not disclose which memory devices and how many of them it uses, but claims that a single 512GB RDIMM consumes over 60% less operating power than four 128GB modules — based on 16.0W for one 512GB module compared with the 44.2W total for four 128GB modules — which suggests that we are dealing with fairly advanced ICs.</p><p>Micron's 512GB module is not the industry's first 512GB DDR5 RDIMM — that <a href=\"https://www.tomshardware.com/news/samsung-512gb-ddr5-memory-module\">achievement belongs to Samsung</a> — but it is certainly the industry's first 512GB module certified to operate with a 9200 MT/s data transfer rate with standard 1.1V voltage (which implies on usage of Micron's <a href=\"https://www.tomshardware.com/pc-components/dram/micron-unveils-ddr5-9200-memory-1g-process-technology-with-euv\">16Gb DDR5-9200 devices</a> made on its <a href=\"https://www.tomshardware.com/pc-components/dram/micron-pushes-dram-tech-with-euv-lithography-aims-for-mass-production-in-2025\">1γ (1-gamma) fabrication process that uses EUV lithography</a> and consumes 20% less power than predecessors, though we are speculating).</p><p>Truth to be told, 512GB DDR5 memory modules are rather niche products, which is perhaps why Samsung's  512GB RDIMMs formally introduced in 2021 have not become widespread even after AMD and Intel introduced processors with over 100 cores. Micron positions its 512GB DDR5 RDIMM primarily for servers running analytics, in-memory databases, simulations, virtualization, agentic AI, and other workloads demanding high-core-count processors and plenty of memory. As processors with 200 or more cores emerge, 512GB modules may become more relevant as 12TB of memory in a server running two 256-core CPUs means 24GB per core, which no longer looks particularly excessive for applications like in-memory databases, analytics, or caching.</p><p> Micron claims that in memory-constrained Spark Support Vector Machine (SVM) analytics workloads, systems featuring 512GB memory modules can provide up to 1.4 times the performance of configurations equipped with 256GB DDR5 modules, though the company does not disclose how much memory in total these systems use. Micron also says the higher-capacity memory can increase throughput and concurrency for memory-intensive database and caching applications such as RocksDB and Redis. </p><p>AMD and Intel are working with Micron to qualify the new modules for their upcoming server platforms. Micron plans to begin volume production of its 512GB DDR5 RDIMMs sometime in the second half of 2027 and intends to align the schedule with customer requirements. </p><p>One of the more pressing questions about Micron's 512GB DDR5-9200 memory modules is their price. A 256GB DDR5-6400 RDIMM currently retails for around $19,000. Given the unique proposition that 512GB modules have for memory-constrained applications, such modules can cost significantly more than 256GB memory sticks, which will not help their broad adoption.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "mNRh34Vj8bmKpA3Y8KxhXZ"
+    },
+    {
+      "id": 596,
+      "title": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips",
+      "summary": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies.",
+      "content": "<article>\n                                <p>With the ongoing memory shortage, smaller smartphone and laptop manufacturers are reportedly looking at new ways to tackle the problem. While some are changing how they design their products, others are placing orders months in advance and are even forced to test incoming memory chips to make sure they are not fake. A <a href=\"https://www.reuters.com/business/retail-consumer/smaller-phone-laptop-makers-dig-years-memory-scarcity-2026-09-16/\"><em>Reuters</em> report</a> suggests that more than the price, availability has become a bigger problem, with manufacturers struggling to secure enough chips in the first place. Still, device makers like Fairphone say that memory now makes up nearly 60% of a device's bill of materials. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Memory</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"xi79WuWDZXzix4Fc7sXNMn\" name=\"hbm-vs\" caption=\"\" alt=\"HBM3E vs HBM4\" src=\"https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: SK Hynix)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies?utm_source=edit-links&utm_medium=boxout&utm_term=memory\">Samsung debuts three next-generation memory technologies for AI data centers</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/ram/the-future-of-dram-from-ddr5-advancements-to-future-ics?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">The future of DRAM: From DDR5 to future ICs</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/hbm-roadmaps-for-micron-samsung-and-sk-hynix-to-hbm4-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">High-bandwidth memory roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">Inside the history of DRAM price-fixing lawsuits</a></li></ul></p></div></div><p>Back in July, memory maker SK Hynix’s CEO Kwak Noh-jung said that <a href=\"https://www.tomshardware.com/pc-components/dram/sk-hynix-says-2027-will-be-the-worst-year-for-memory-shortage-forecasts-crunch-to-last-until-2030-ceo-shares-grim-outlook-on-the-day-sk-hynix-gets-listed-on-nasdaq\">2027 will be the \"worst year\"</a> for the ongoing memory shortage and expects the memory crunch to last until 2030. For smaller manufacturers, however, simply paying more for memory isn't always enough. The situation is particularly difficult for budget-oriented phones and laptops, where memory makes up a much larger portion of the overall product cost. </p><p>According to Raymond van Eck, CEO of repairable-phone maker Fairphone, memory can account for almost 60% of the bill of materials in phones costing around $400. That itself is worrying, as a recent <a href=\"https://counterpointresearch.com/en/insights/2026-smartphone-shipments-to-post-worst-annual-decline-on-record-as-memory-crisis-and-geopolitical-shocks-converge\">Counterpoint Research report</a> expects global smartphone shipments to fall 13.9% this year to 1.08 billion units, marking the largest annual decline on record.</p><p>Finnish phone maker Jolla has designed two motherboard versions, allowing it to switch between combined packages for discrete chips depending on availability. The company is also testing samples from every batch it receives to ensure new memory isn't being sold as refurbished hardware.</p><p>Similarly, laptop manufacturer Framework has been able to rely on its highly modular approach where customers can install memory salvaged from older laptops or opt for second-hand units, giving the company and its users another way to deal with limited supply. The company is also placing non-cancellable orders well in advance, even when it doesn't know the final price or exact delivery volume. </p><p>Back in July, it nearly <a href=\"https://www.tomshardware.com/laptops/framework-nearly-doubles-memory-pricing-for-32gb-64gb-laptop-13-pro-overnight-ceo-says-absorbing-lpcamm2-supplier-hikes-would-put-our-ability-to-operate-at-real-financial-risk\">doubled memory pricing</a> for 32GB and 64GB variants of the Framework Laptop 13 Pro after receiving a cost update from its LPCAMM2 supplier. However, after sourcing new inventory at a reduced cost, the company <a href=\"https://www.tomshardware.com/laptops/framework-cuts-32gb-and-64gb-memory-prices-for-new-laptop-13-pro-issues-retroactive-refunds-modular-laptop-maker-secures-limited-quantity-of-lpcamm2-ram-at-lower-cost\">recently announced a price drop</a> for the same, including retroactive orders that have already shipped.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "PxpkwFhcYZHUkMm2xc4ckE"
+    },
+    {
+      "id": 597,
+      "title": "Pick up a giant 18-inch RTX 5080-powered Asus gaming laptop from Best Buy and save $600 — the ROG Strix G18 also comes with 32GB of memory and a 2TB SSD",
+      "summary": "Go big with an 18-inch gaming laptop monster. Save $600 on the RTX-5080-powered Asus ROG Strix G18 gaming laptop at Best Buy.",
+      "content": "<article>\n                                <p>Laptops have long been a more expensive way to game, especially compared to a desktop gaming PC, for comparable components. But with the ever-rising costs of PC hardware in the current economic climate, it's a lot easier and now often cheaper to get a powerful prebuilt gaming PC or ready-made gaming laptop. Today's deal is on a large, <a href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\">18-inch Asus ROG Strix G18 gaming laptop powered by an RTX 5080, now reduced by $600 to $2,699.99</a>. It's still an expensive piece of kit, but you are getting a somewhat portable form factor and a good amount of memory and storage included in the specs for this large gaming laptop.  </p><p>● <a href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\">Check out this deal at Best Buy</a></p><p>Asus's ROG Strix G18 is a large 18-inch laptop with a big screen. The 18-inch display sports an IPS panel with a 240Hz refresh rate and 500-nit brightness. Powering the display and your gaming performance is an NVIDIA RTX 5080 laptop GPU that includes 16GB of fast GDDR7 VRAM, along with the 24-core Core Ultra 9 275HX processor from Intel. Importantly, there's also a good amount of memory: 32GB of DDR5 RAM and a large 2TB PCIe Gen4 SSD for storage. </p><div class=\"product\"><a data-dimension112=\"75e21c62-b1c0-11f1-9dde-b313b4329256\" data-action=\"Deal Block\" data-label=\"ROG Strix G18\" data-dimension48=\"ROG Strix G18\" data-dimension25=\"$2699.99\" href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:738px;\"><p class=\"vanilla-image-block\" style=\"padding-top:70.19%;\"><img id=\"gnw4sEQ4i5spoAfkGJpj4A\" name=\"Asus ROG Strix G18\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/gnw4sEQ4i5spoAfkGJpj4A-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"738\" height=\"518\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"75e21c62-b1c0-11f1-9dde-b313b4329256\" data-action=\"Deal Block\" data-label=\"ROG Strix G18\" data-dimension48=\"ROG Strix G18\" data-dimension25=\"$2699.99\">ROG Strix G18: was $3299.99 now $2699.99</a></strong><br>A mighty 18-inch gaming laptop that uses a very powerful Nvidia RTX 5080 laptop GPU with 16GB of VRAM. The onboard processor is a 24-core Intel Core Ultra 9 275HX, sporting boost clock frequencies of up to 5.1 GHz, with an ample 32GB of DDR5 memory. There's also plenty of room for your game collection on the included 2TB SSD. </p><p><a class=\"view-deal button\" href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"75e21c62-b1c0-11f1-9dde-b313b4329256\" data-action=\"Deal Block\" data-label=\"ROG Strix G18\" data-dimension48=\"ROG Strix G18\" data-dimension25=\"$2699.99\">View Deal</a></p></div><p>For any future upgrades, there's easy tool-less access to the SSD and RAM slots, which is a nice feature on a laptop. The keyboard features plenty of RGB backlit lighting that is configurable through Asus's Armory Crate software, along with an RGB light bar along the bottom of the laptop chassis, casting a distinctive glow on your desk that can sync with your keyboard and peripheral lighting. </p><p>For video connectivity, there's 1 x HDMI 2.1 port and 2 x Thunderbolt 5 ports, plus an Ethernet port for wired network access, with wireless options including Bluetooth and WiFi 7.</p><p>So if you want a ready-to-go gaming setup that's powerful enough to play all the latest game titles on a sharp 2.5K screen at high settings and frame rates, then the <a href=\"https://www.bestbuy.com/product/asus-rog-strix-g18-18-2-5k-240hz-gaming-laptop-intel-core-ultra-9-hx-32gb-memory-geforce-rtx-5080-2tb-storage-eclipse-gray/JJGGLHXFW8/sku/6613958\">Asus ROG Strix G18 with RTX 5080</a> is a great choice, especially when you can save a hefty $600 off the price tag. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/pick-up-a-giant-18-inch-rtx-5080-powered-asus-gaming-laptop-from-best-buy-and-save-usd600-the-rog-strix-g18-also-comes-with-32gb-of-memory-and-a-2tb-ssd",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "4rMSuQ8YWEuVztmGi65dyN"
+    },
+    {
+      "id": 598,
+      "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'",
+      "summary": "Nvidia CEO thinks that in light of his view of a three- to four-year timeline for Chinese development of advanced semi tooling, the country is \"already there.\"",
+      "content": "<article>\n                                <p>China's progress toward technological self-sufficiency in recent years is undeniable, but there is one thing that the country has so far failed to develop: lithography tools that are on par with those offered by ASML. That shortcoming has greatly hampered its domestic semiconductor industry. But Nvidia CEO Jensen Huang believes China will develop its own advanced lithography systems in just three or four years.</p><p>\"They are going to get there by 2030,\" Huang said <a href=\"https://x.com/theallinpod/status/2099616083590492555\" target=\"_blank\">in an interview with The All-In Podcast</a> (at 43:43). \"2030 is just around the corner. The way to think about China is that it is really good at high-volume production. It is just a matter of time[...] so two or three years is just a click; it is nothing. So as far as they are concerned, they are already there.\"</p><p>Huang tends to look optimistically at China's technological development. Specifically, he is known for calling China's AI industry as being 'right behind' American frontier labs, which may well be correct, given how much capital China is investing in AI. But when it comes to the Chinese semiconductor industry in general and its lithography sector in particular, Huang may be too optimistic.  </p><p>At present, China's leading producer of lithography tools — Shanghai Micro Electronics Equipment — can mass-produce a 193-nm ArF dry scanner that can be used to build chips on 90nm-class process technology. While the company has reportedly developed a 28nm-capable ArF immersion scanner, there is no public evidence that such systems are produced in volume and are used for high-volume chip production.</p><p>Although there are reports that Shanghai Aishengna Electronic Technology Group (a unit, or an affiliate of SMEE) has delivered its first immersion scanner that may be capable of printing chips using 28nm-class process technology, these tools will require extensive qualification before they can be used for high-volume manufacturing of semiconductors, so if deployment follows standard timelines, it <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/chinas-euv-technology-at-a-similar-stage-to-asml-in-2004-analyst-claims-beijings-semiconductor-industry-remains-well-behind-western-rivals\">will take years before this unit will be used for mass producing chips</a>. </p><p>Even assuming that the first scanners are delivered to Chinese chipmakers in 2026, widespread production use before 2028–2029 appears unlikely. Furthermore, matching the capabilities of an early-generation ASML immersion scanner would still leave Chinese lithography suppliers considerably behind ASML's contemporary systems, which makes technological parity in ArF immersion lithography by 2030 highly unlikely. </p><p>China is considerably further behind in extreme ultraviolet (EUV) lithography. While there are reports that Chinese scientists have managed to develop a laser-produced plasma source that can generate the 13.5-nanometer wavelength light required for the technology, it does not look like China is close to assembling even a prototype EUV scanner itself. </p><p>Even if China can assemble an EUV experimental exposure platform without having mastered production-quality immersion DUV, it is hard to imagine a Chinese company producing EUV scanners without solving the hardest problems common to both DUV and EUV technologies. A production lithography scanner requires extraordinary capabilities in wafer and reticle stages, alignment, overlay, projection optics, and metrology, just to name a few. </p><p>If China is still struggling to industrialize these capabilities for immersion DUV, there is little reason to assume it has somehow solved them at the substantially more demanding EUV level. But given the potentially existential stakes of the AI race, and the determination of the Chinese government to achieve technological self-sufficiency, it may just indeed be a matter of time. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-thinks-china-will-develop-its-own-advanced-lithography-systems-by-2030-nvidia-ceo-says-achievement-of-that-capability-is-just-a-matter-of-time",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "8fMoUyX7UgYQhkqhrb5rZX"
+    },
+    {
+      "id": 599,
+      "title": "SK hynix reportedly discussing US memory chip manufacturing with Intel — options include leasing Ohio plant or forming joint venture with other AI hyperscalers",
+      "summary": "Sources say SK hynix and Intel are in talks to start HBM manufacturing in the United States. Both companies refused to confirm the rumors, though, as SK hynix could potentially be put in a precarious position as trade talks between Seoul an",
+      "content": "<article>\n                                <p>South Korean memory chip manufacturer SK hynix is in talks with Intel to start manufacturing inside the U.S., according to <a href=\"https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/\"><em>Reuters</em></a>. The company is reportedly considering multiple options, including leasing space at the <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/intels-ohio-one-project-shows-healthy-progress-as-new-job-listings-pop-up-construction-seems-to-be-well-underway-as-contractor-actively-hiring-for-ambitious-chip-factory\">under-construction Intel Ohio One site</a> and forming a joint venture with Intel and other AI hyperscalers desperate for HBM.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Memory</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"xi79WuWDZXzix4Fc7sXNMn\" name=\"hbm-vs\" caption=\"\" alt=\"HBM3E vs HBM4\" src=\"https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: SK Hynix)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies?utm_source=edit-links&utm_medium=boxout&utm_term=memory\">Samsung debuts three next-generation memory technologies for AI data centers</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/ram/the-future-of-dram-from-ddr5-advancements-to-future-ics?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">The future of DRAM: From DDR5 to future ICs</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/hbm-roadmaps-for-micron-samsung-and-sk-hynix-to-hbm4-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">High-bandwidth memory roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">Inside the history of DRAM price-fixing lawsuits</a></li></ul></p></div></div><p>This move could help alleviate the memory shortage. It would also complement the company’s expansion in Indiana, where it <a href=\"https://www.tomshardware.com/pc-components/dram/sk-hynix-breaks-ground-on-the-first-hbm-plant-in-the-us-bringing-key-ai-component-production-to-the-states-says-production-starts-in-2029\">recently broke ground on an HBM packaging</a> plant a few weeks after its <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-raises-a-record-usd26-5-billion-in-historic-u-s-ipo-south-korean-memory-giant-to-fund-massive-hbm-manufacturing-expansions\">historic $26.5-billion Nasdaq listing</a>. It’s unclear yet if these talks are part of the results of the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korean-memory-giants-samsung-and-sk-hynix-are-set-to-announce-massive-deals-with-leading-u-s-tech-firms-report-claims-korean-president-arrives-in-silicon-valley-for-meetings-and-high-profile-ai-summit\">South Korean president’s visit to Silicon Valley</a> in an effort to expedite negotiations between its top tech companies and their U.S. counterparts, but SK Group chairperson Chey Tae-won told reporters in July, “I think we need to build a factory in the United States. If possible, I believe we should build it.”</p><p>However, there are also concerns that Seoul might object to such investment. The South Korean government just unveiled <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support\">a $520 billion investment plan</a> to increase chipmaking capacity within its shores and keep the country competitive in the AI race; at the same time, it’s also in talks with the U.S. to finalize its $350 billion investment commitment to Washington to reduce tariffs on South Korean goods, $200 billion of which is still undecided on which projects it will be deployed on. Meanwhile, the Commerce Department has threatened to impose more tariffs on South Korean and Taiwanese tech companies if they fail to invest in U.S. manufacturing. This potentially puts SK hynix at a precarious position, especially as it balances the demands from the White House and the Blue House.</p><p>Neither company has confirmed these rumors, though. SK hynix told <em>Reuters</em> that it’s “reviewing various measures, including establishing additional production bases, to strengthen the competitiveness of its memory business,” but “no matters have been determined at this stage.” On the other hand, Intel called them speculation and declined to comment on the matter, only saying that it was continuing to invest in the Ohio project, which is expected to come online between 2030 and 2031.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-reportedly-discussing-us-memory-chip-manufacturing-with-intel-options-include-leasing-ohio-plant-or-forming-joint-venture-with-other-ai-hyperscalers",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "bx4aRxUWpwajA2ys9Yrzig"
+    },
+    {
+      "id": 600,
+      "title": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]",
+      "summary": "Amazon Web Services' data centers in Abu Dhabi and Bahrain were struck by drone attacks more than six months ago. Now, the company has told customers to move their data to other regions, and it has no details on when repair work will be com",
+      "content": "<article>\n                                <p>More than six months after Amazon Web Services (AWS) data centers in Abu Dhabi and Bahrain were attacked by drones, the company has now had to tell customers to move their data to facilities in other regions. <a href=\"https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?mod=e2tw\" target=\"_blank\">The Wall Street Journal</a> reports that AWS has admitted that it's time for customers to jump ship to data centers located elsewhere in the world. In its AWS dashboard update, AWS confirmed \"most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alternate Regions.\"</p><p>The move comes as AWS continues repairs on the damaged data centers, but it stopped short of offering a timeline as to when customers can expect either location to be back online. AWS says that it remains committed to supporting its customers in Bahrain, but only said it would provide a further update early next year. It did not offer any specific recovery time frame for the restoration of services. Regarding the UAE, AWS says that it is working to replace affected infrastructure, but again only said it would provide an update on the restoration of services in the coming months. </p><p>Both affected data centers <a href=\"https://www.tomshardware.com/networking/drones-attack-several-aws-middle-east-region-data-centers-amid-iran-war-leading-to-outages-service-health-been-disrupted-after-power-cut-due-to-fire-risk\">became targets for the Islamic Republic of Iran</a> after the United States and Israel launched strikes on that country in February of this year. Months later, the <a href=\"https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant\">Bahraini data center was struck by cruise missiles</a>, and Iranian state media claimed it had been \"destroyed.\"</p><p>The move is bad news for the United Arab Emirates. The U.A.E. has spent years trying to become a world leader in data processing, a pitch that led it to lobby U.S. officials to <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/advanced-nvidia-ai-gpus-get-uae-g42-green-light-from-us-authorities-says-new-report\">allow it to buy AI chips for its data centers</a>.</p><p>Having made plenty of noise about OpenAI's decision to take a spot in a 5-gigawatt data center complex in May 2025, U.A.E. officials have since seen those plans stall. The WSJ points out that no lease has been signed well over a year later. OpenAI was expected to take 20% of the data center's total capacity, the kind of loss that is sure to sting officials if plans don't get back on track.</p><p>For its part, the U.A.E. is clearly well aware of the threat that the ongoing regional instability poses to its ambitions, and it's looking for ways to address the fears of potential partners. Officials have already hinted at the potential for underground data centers. While the move would make an already costly endeavor even more expensive, it could help defend new data centers from drone attacks. Building drone defense systems near data centers is another option.</p><p>Drone attacks can be catastrophic for any building, and data centers are no different. The data centers operated by AWS suffered fires and damaged infrastructure as a result of the strikes. In their efforts to fight the fires caused by drone strikes, emergency workers used water, causing further damage.</p><p>The Abu Dhabi and Bahrain data centers are relied upon by a variety of businesses in the banking and financial sectors. Those businesses cannot tolerate downtime, especially of the protracted variety. There's little sign of data centers slipping from the crosshairs of drone operators any time soon, either, and AWS is far from unique in finding its data centers under attack. </p><p>Iran's Islamic Revolutionary Guard Corps (IRGC) <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-claims-it-has-hit-oracle-data-center-in-dubai-amazon-data-center-in-bahrain-country-has-threatened-to-attack-nvidia-intel-and-others-too\">claimed in April that it had hit a data center linked to Oracle in Dubai</a>. That unit further threatened American tech companies, including Microsoft, Oracle, Alphabet, and Nvidia, this spring. It accused the companies of contributing to attacks on Iran. With that in mind, and with tensions in the Middle East looking unlikely to ease any time soon, it's perhaps unsurprising that AWS has asked customers to move data to safer data centers around the world.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:676px;\"><p class=\"vanilla-image-block\" style=\"padding-top:31.51%;\"><img id=\"7cUTDmN2PHNRiNBVqbKf56\" name=\"Follow Tom's Hardware\" alt=\"Google Preferred Source\" src=\"https://cdn.mos.cms.futurecdn.net/7cUTDmN2PHNRiNBVqbKf56-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"676\" height=\"213\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div></figure>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-reportedly-tells-customers-in-abu-dhabi-and-bahrain-to-find-safer-harbors-for-their-data-aws-has-no-timeline-for-resuming-operations-six-months-after-drone-strikes-damaged-data-centers-in-the-region",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "oLK7ZLSExUMa5Fo64WDkJF"
+    },
+    {
+      "id": 601,
+      "title": "Nvidia reportedly denies RTX 5090 warranty over faded serial number — $6,500 GPU blemish not an isolated incident, according to customers",
+      "summary": "Redditor reported that Nvidia allegedly rejected their warranty claims for GeForce RTX 5090 Founders Edition graphics cards because the serial number on the bracket was unreadable.",
+      "content": "<article>\n                                <p>The <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5090-review\">GeForce RTX 5090</a> is the first thing that comes to mind when you think of the <a href=\"https://www.tomshardware.com/reviews/best-gpus,4380.html\">best graphics cards</a>. However, you'd better pray the serial number on the inside of the metal bracket does not fade over time, since that could be a reason for Nvidia to reject warranty claims. At least one Redditor has shared a case of Nvidia reportedly denying a warranty claim because the bracket's serial number was unreadable.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: GPUs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Wh9EZgD8NG9yUioNNgPB3d\" name=\"ASUS RTX 5080 Noctua Edition - Continuing the legacy of acoustic excellence 6-26 screenshot\" caption=\"\" alt=\"Asus RTX 5080 Noctua Edition\" src=\"https://cdn.mos.cms.futurecdn.net/Wh9EZgD8NG9yUioNNgPB3d-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Noctua)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/desktop-gpu-roadmap-nvidia-rubin-amd-udna-and-intel-xe3-celestial?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Desktop GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Nvidia's Enterprise GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Testing DirectStorage with GPU decompression</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026?</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-vera-rubin-platform-in-depth-inside-nvidias-most-complex-ai-and-hpc-platform-to-date?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Rubin in-depth</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-stout-owl-how-i-built-the-ultimate-noctua-g2-pc?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The Stout Owl: The ultimate Noctua G2 PC</a></li></ul></p></div></div><p>The Redditor Willing-Avocado-4830, based in the UK, began experiencing black-screen crashes with a GeForce RTX 5090 Founders Edition graphics card under heavy load. The user sent the card to Nvidia for a warranty claim. After 30 days of radio silence, the owner finally received an email stating that their RMA request was rejected with no apparent explanation for the denial.</p><p>Seeking clarification, the user reached out to Nvidia for further information. According to the Redditor's recount, Nvidia support purportedly rejected the RMA because the serial number on the graphics card's metal bracket had faded. Like many gamers, Willing-Avocado-4830 claims never to have modified or tampered with the graphics card after installation. The fading serial number does not appear to be an isolated incident. Several other owners have reported similar issues in the Reddit discussion.</p><p>The metal bracket on graphics cards is susceptible to dust buildup, oxidation, and corrosion over time. This can cause it to look dirty, stained, or sometimes slightly discolored compared to when it was brand new. These same phenomena could have affected the serial number's legibility, especially since it is printed with ink onto the bracket's surface rather than etched for better durability. For comparison, the last-generation <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-rtx-4090-review\">GeForce RTX 4090 Founders Edition</a> had its serial number laser-etched onto the metal bracket.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/nvidia/comments/1wgltco/my_rtx_5090_fe_rma_was_rejected_because_the\">My RTX 5090 FE RMA was rejected because the physical serial number is no longer readable — has anyone experienced this?</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/nvidia\">r/nvidia</a></cite></figcaption></blockquote></figure><p>One Redditor said that someone in the Nvidia Discord channel recommended cleaning the area with isopropyl alcohol to restore the serial number's visibility. However, that may not work if the ink is no longer present, as previous reports suggest the hot air expelled by the Founders Edition cooler could be erasing the serial number.</p><p>Surprisingly, Nvidia rejected a warranty claim solely because of a faded serial number on the graphics card’s bracket. The same serial number is clearly printed on a sticker on <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-fabled-pcie-finger-sells-for-under-usd25-in-china-should-you-happen-to-break-it-resuscitate-your-usd10-000-gpu-for-less-than-a-pair-of-fuzzy-socks\">Nvidia's modular PCIe connector</a>, which the chipmaker's technicians can verify when disassembling the GeForce RTX 5090. Moreover, you can pull the serial number from the graphics card through the command prompt with Nvidia SMI (System Management Interface), assuming the card is still working, which, in this case, it is. Willing-Avocado-4830 still had the original packaging and the original invoice from Nvidia U.K., so it would be easy to cross-reference the serial numbers.</p><div style=\"min-height: 250px;\">                                <div class=\"kwizly-quiz kwizly-OKyNRe\"></div>                            </div>                            <p>Redditor hawok reportedly sent their GeForce RTX 5090 Founders Edition for RMA two months ago and encountered a similar situation. The serial number on the metal bracket was only partially visible. However, customer support seemingly accepted the RMA after the user sent photographs of the packaging that corroborated the serial number. It is unclear what Nvidia's policy is, or whether the chipmaker handles each case differently. We have reached out to Nvidia for clarification.</p><p>Some Redditors have suggested taking a photograph that shows the graphics card's serial number next to the packaging's serial number. Others jokingly recommend putting a piece of tape over the serial number. It might not be a bad idea, but you would need heat-resistant tape, something like Kapton tape.</p><p><a href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu\">GeForce RTX 5090 stock</a> has practically disappeared from the U.S. market, with very few units starting at $6,500, 3.25X over the Blackwell flagship's MSRP. You cannot blame GeForce RTX 5090 owners for worrying. They already have a lot on their plates, dealing with the <a href=\"https://www.tomshardware.com/pc-components/gpus/melting-power-connectors-and-how-to-safeguard-against-them\">16-pin power connector melting</a> woes, and now also have to worry about fading serial numbers.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-denies-rtx-5090-warranty-over-faded-serial-number-usd6-500-gpu-blemish-not-an-isolated-incident-according-to-customers",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "hsMuxGhfJ9p8rSPvrU6hcn"
+    },
+    {
+      "id": 602,
+      "title": "Save $270 on this solid 1080p gaming PC with an RTX 5060 from MSI, now under $1,430 — Codex R2 rig packs 32GB DDR5 RAM, a 2TB SSD, and a 10-core Intel CPU",
+      "summary": "Save $270 on this MSI gaming PC with a Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB DDR5 and a 2TB SSD, all for $1,429.",
+      "content": "<article>\n                                <p>With new gaming PCs continuing to rise in price, it's worth grabbing a discount or a deal where you can. This <a href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\">MSI Codex gaming PC features a 10-core Intel CPU, Nvidia GeForce RTX 5060 GPU, 32GB of DDR5 RAM, and a 2TB SSD for storage, all for just $1,429</a>, thanks to a $270 saving.</p><p>● <a href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\">Grab this gaming PC deal at Newegg</a></p><p>These are all the specs you'll want for a machine that will comfortably play games at 1080p. The current-gen Nvidia GeForce RTX 5060 is top of the list, though, with features like DLSS that mean you'll be able to take advantage of both upscaling and multi-frame generation, making games smoother to play if you decide to boost up to higher resolutions or better graphics settings.</p><p>The RTX 5060 will be a significant improvement over an older graphics card or integrated GPU, too. It has 3,840 CUDA cores, along with 8GB of GDDR7 VRAM. With DLSS enabled, this'll let you run most games at 1080p with high graphics presets enabled.</p><div class=\"product star-deal\"><a data-dimension112=\"1d5d509e-b1ba-11f1-a303-61728a3f1a8a\" data-action=\"Star Deal Block\" data-label=\"Codex R2 B14NVL5-449US\" data-dimension48=\"Codex R2 B14NVL5-449US\" data-dimension25=\"$1499\" href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:138.75%;\"><img id=\"PYbghBKSp4VaosAXeRPoSW\" name=\"Codex R2 B14NVL5-449US\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/PYbghBKSp4VaosAXeRPoSW-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"1776\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1d5d509e-b1ba-11f1-a303-61728a3f1a8a\" data-action=\"Star Deal Block\" data-label=\"Codex R2 B14NVL5-449US\" data-dimension48=\"Codex R2 B14NVL5-449US\" data-dimension25=\"$1499\">Codex R2 B14NVL5-449US: was $1699 now $1499</a></strong><br>The MSI Codex R2 B14NVL5-447US gaming PC comes with an Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB of DDR5 memory, and 2TB of storage.<a class=\"view-deal button\" href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1d5d509e-b1ba-11f1-a303-61728a3f1a8a\" data-action=\"Star Deal Block\" data-label=\"Codex R2 B14NVL5-449US\" data-dimension48=\"Codex R2 B14NVL5-449US\" data-dimension25=\"$1499\">View Deal</a></p></div><p>You're also getting the best value GPU in our <a href=\"https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html\">GPU hierarchy</a> when looking at FPS per dollar at 1080p with the RTX 5060. The 8GB of VRAM isn't as limiting as you'd think with a build like this, because you're not going to be hitting 4K here. It has more than enough power for modern games, but you'll need to occasionally optimize for the mos demanding ones. 1440p is possible in some games, too, especially with MFG switched on.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1921px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.27%;\"><img id=\"GwqARni33E6NmcuPWYGrRW\" name=\"gpu-benchmarks-rasterization-performance-chart-1080p-ult\" alt=\"Raster performance standings for GPUs at 1080p ultra\" src=\"https://cdn.mos.cms.futurecdn.net/GwqARni33E6NmcuPWYGrRW-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1921\" height=\"1081\" attribution=\"\" endorsement=\"\" class=\"\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Future)</span></figcaption></figure><p>As far as the CPU goes, the Intel Core i5-14400F processor is a little older these days, but still a well-sold and solid option in pre-builts at this price point. You get 10 cores, with six performance cores that offer the best performance for gaming. The other four are efficiency cores for multi-threaded work, with a clock speed that can boost up to 4.7 GHz in total. </p><p>You'd expect compromises elsewhere, especially with RAM and SSD prices flying through the roof at the minute, but you don't see that here. 32GB of DDR5 RAM is a good amount for a rig at this price, while a 2TB SSD with Gen 4 speeds leaves plenty of space for a growing games collection. Wi-Fi 6E and Bluetooth 5.3 support gives you good wireless connectivity, with gigabit Ethernet for a faster wired hook-up to your network.</p><p>You won't really see many PCs priced as well as<a href=\"https://www.newegg.com/msi-gaming-desktop-pc-geforce-rtx-5060-intel-core-i5-14400f-32gb-ddr5-2tb-ssd-codex-r2-b14nvl5-449us/p/N82E16883151690?Item=N82E16883151690\"> this $1,429 MSI Codex R2 gaming PC</a> at the moment. Yes, this spec is pricier than it was a year ago, but you could easily pay more for less in the current market. If 1080p gaming, with DLSS-supported 1440p upscaling, is all you want and need, this is the rig you'll want to buy before the $270 discount disappears.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd270-on-this-solid-1080p-gaming-pc-with-an-rtx-5060-from-msi-now-under-usd1-430-codex-r2-rig-packs-32gb-ddr5-ram-a-2tb-ssd-and-a-10-core-intel-cpu",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "cbEgivGSbiWniqHuqJDtE7"
+    },
+    {
+      "id": 603,
+      "title": "Apple Weighs Return to Server Market with NVIDIA Networking Technology",
+      "summary": "Apple is reportedly considering a return to the server market, where the company was once active with its Xserve rack technology. According to The Information, Apple is developing AI-focused M-series chips, which could incorporate several N",
+      "content": "Apple is reportedly considering a return to the server market, where the company was once active with its Xserve rack technology. According to The Information, Apple is developing AI-focused M-series chips, which could incorporate several NVIDIA components, including the NVLink Fusion portfolio of technologies and IP. This includes the possibility of interconnecting two or four Apple M8 Ultra chips using NVIDIA NVLink for socket-to-socket communication, while NVIDIA NVLink-C2C manages die-to-die interconnection. Currently planned for launch in 2029, this product would mark Apple's first entry into the server space since debuting Xserve in 2002 and discontinuing it in 2011. Nearly two decades later, Apple's server offering might be making a comeback, building on the success that the Mac mini and Mac Studio are experiencing among AI developers.<br />\r\n<br />\r\nFor instance, Apple's Mac lineup achieved a record $10.4 billion in sales last quarter, with strong demand from the AI community. Enterprises are even constructing custom racks, mounting multiple Mac Studios to set up local AI inferencing efforts. For the new server design, Apple would delegate every interconnect question to NVIDIA NVLink Fusion, while it focuses on the actual system-on-chip as before. The new rack design would target enterprises and governments, who may already be running Mac clusters locally.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/jF0pYdBXdDl4vvON.jpg\" target=\"_blank\" data-width=\"1690\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/jF0pYdBXdDl4vvON_thm.jpg\" width=\"229\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352766/apple-weighs-return-to-server-market-with-nvidia-networking-technology\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352766/apple-weighs-return-to-server-market-with-nvidia-networking-technology",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "92840736f8450d5497dcdca69d558331"
+    },
+    {
+      "id": 604,
+      "title": "SteamOS is Getting Native NVIDIA GPU Driver Support",
+      "summary": "Valve is officially adding NVIDIA GPU driver support to SteamOS, as confirmed by the company's software developer Pierre-Loup Griffais. Until now, AMD has been the primary choice for SteamOS, both for CPUs and GPUs, since all of Valve's pro",
+      "content": "Valve is officially adding NVIDIA GPU driver support to SteamOS, as confirmed by the company's software developer Pierre-Loup Griffais. Until now, AMD has been the primary choice for SteamOS, both for CPUs and GPUs, since all of Valve's products are based on AMD hardware. However, this is changing as Valve aims to expand SteamOS to more PCs, allowing gamers to realize the Steam Machine dream on their own hardware, even if it is based on a different GPU manufacturer. When IGN asked Valve's developer about the progress of NVIDIA driver support, the response was:<blockquote><small>Pierre-Loup Griffais for IGN</small>Yeah, we're working on it hard... We've done a few things like we've enabled the driver now in the main tree of SteamOS, so you can get things to light up on certain generations, but in terms of the performance difference between that driver and where the state of the art is, there's definitely still a little bit of a rift that we're trying to work on, but it's getting better day-to-day.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/mHaXCsXO8JlBDiWS.jpg\" target=\"_blank\" data-width=\"1070\" data-height=\"601\" ><img src=\"https://tpucdn.com/img/mHaXCsXO8JlBDiWS_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352763/steamos-is-getting-native-nvidia-gpu-driver-support\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352763/steamos-is-getting-native-nvidia-gpu-driver-support",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "92d6c469201a882808e9e916f7d689e2"
+    },
+    {
+      "id": 605,
+      "title": "Denuvo Files Lawsuit Against Anonymous Game Cracker \"voices38\"",
+      "summary": "Denuvo has sued an anonymous game cracker known as \"voices38,\" accusing them of bypassing its Anti-Tamper protection in at least 26 PC games. TorrentFreak first reported on the complaint, filed September 14 in the U.S. District Court for th",
+      "content": "Denuvo has sued an anonymous game cracker known as &quot;voices38,&quot; accusing them of bypassing its <a href=\"https://www.techpowerup.com/review/denuvo-performance-loss-test/\" target=\"_blank\">Anti-Tamper protection</a> in at least 26 PC games. TorrentFreak first reported on the complaint, filed September 14 in the U.S. District Court for the Northern District of California. Denuvo wants monetary damages plus an injunction barring further <a href=\"https://www.techpowerup.com/348609/denuvo-responds-to-day-zero-drm-hypervisor-crack-were-already-working-on-updated-security-versions\" target=\"_blank\">circumvention of its DRM</a>, including in games that haven't even been made yet. Denuvo doesn't own the copyrights to any of the games listed, so this isn't a copyright infringement case. It rests instead on the DMCA's anti-circumvention provisions, which prohibit bypassing digital locks placed on copyrighted works.<br />\r\n<br />\r\nNamed titles include Hogwarts Legacy, Black Myth: Wukong, Resident Evil Requiem, and Doom: The Dark Ages, though voices38 has apparently kept cracking games since the filing, with Persona 3 Reload and Star Wars Outlaws reportedly added to the tally. The tricky part is that Denuvo has no idea who voices38 actually is. The complaint names the defendant only as &quot;an unknown individual or entity,&quot; alongside ten unnamed Doe defendants, pointing to Reddit, Discord, and Steam accounts it believes may be linked to the activity. Denuvo will likely need to subpoena those platforms to get anywhere close to an identity, and there's no guarantee that works out. The case is still in its early stages, and none of Denuvo's claims have been tested in court yet.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/IfSRzClp6SP1PWbA.jpg\" target=\"_blank\" data-width=\"700\" data-height=\"394\" ><img src=\"https://tpucdn.com/img/IfSRzClp6SP1PWbA_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/rCia2CAnbhuwyyp2.jpg\" target=\"_blank\" data-width=\"1447\" data-height=\"957\" ><img src=\"https://tpucdn.com/img/rCia2CAnbhuwyyp2_thm.jpg\" width=\"197\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352762/denuvo-files-lawsuit-against-anonymous-game-cracker-voices38",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "28b690a6aa4ce3266882f4caed1c6265"
+    },
+    {
+      "id": 606,
+      "title": "Rumor: No NVIDIA \"Rubin\" and AMD RDNA 5 Gaming GPUs Until 2028",
+      "summary": "According to hardware leaker Kepler_L2, known for accurate hardware predictions, the next generation of gaming GPUs might be skipped next year, with a full-stack refresh expected in 2028. Reportedly, NVIDIA's GeForce RTX 60-Series \"Rubin\" a",
+      "content": "According to hardware leaker Kepler_L2, known for accurate hardware predictions, the next generation of gaming GPUs might be skipped next year, with a full-stack refresh expected in 2028. Reportedly, NVIDIA's GeForce RTX 60-Series &quot;Rubin&quot; and AMD's RDNA 5-based Radeon RX 10000 series will only be available in 2028, with some select RDNA 5 GPUs from AMD being made available throughout 2027. The specific model is yet to be determined, but it reportedly carries the codename &quot;AT2.&quot; Perhaps AMD will roll out this GPU as either a new flagship design and launch the remainder of the stack later on, or simply as a mid-range or low-end SKU to kickstart the RDNA 5 launch. Thus, we still need to wait and gather more information before making conclusions, so treat this only as a rumor for now.<br />\r\n<br />\r\nFor example, the NVIDIA GeForce RTX 50-Series SUPER refresh had been planned before, but the recent DRAM scarcity has turned the launch into speculation, with some believing it is entirely canceled, while others believe it will be a stopgap solution before RTX 60 &quot;Rubin&quot; arrives. For AMD, we hope to see RDNA 5 finally compete in the flagship SKU sector again and see more powerful designs from the start.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/elTQLC2O8VaMShxD.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/elTQLC2O8VaMShxD_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352761/rumor-no-nvidia-rubin-and-amd-rdna-5-gaming-gpus-until-2028\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352761/rumor-no-nvidia-rubin-and-amd-rdna-5-gaming-gpus-until-2028",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "4e0e6451ee6704f0c3219da59ff86211"
+    },
+    {
+      "id": 607,
+      "title": "Iqunix Adds Controller Emulation to EV63 Gaming Keyboard",
+      "summary": "It seems as though Iqunix is finally getting serious about its Hall effect gaming keyboards, with firmware updates becoming more frequent for keyboards like the EV63. The latest firmware update for the EV63 HE keyboard adds controller emula",
+      "content": "It seems as though Iqunix is finally getting serious about its Hall effect gaming keyboards, with firmware updates becoming more frequent for keyboards like the EV63. The latest firmware update for the <a href=\"https://www.techpowerup.com/349060/iqunix-reveals-ghost-in-the-shell-edition-ev63-hall-effect-gaming-keyboards\" target=\"_blank\">EV63 HE keyboard</a> adds controller emulation, a feature that has otherwise only been available from a handful of HE keyboard makers, <a href=\"https://www.techpowerup.com/review/wooting-80he-hall-effect-analog-gaming-keyboard/\" target=\"_blank\">including Wooting</a>, GravaStar, and <a href=\"https://www.techpowerup.com/352488/keychron-updates-k4-he-and-k10-he-wireless-keyboards-with-wider-magnetic-switch-compatibility\" target=\"_blank\">Keychron</a>. <br />\r\n<br />\r\nController emulation is called Gamepad Mode in the Iqunix EV63 HyperCore software, and it allows users to assign controller bindings to keyboard keys, which is particularly useful in games that allow for walking or driving at different speeds depending on how far a joystick is moved or how deep an analogue trigger is depressed.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/tGYrMMBROqlhIVOD.jpg\" target=\"_blank\" data-width=\"1080\" data-height=\"601\" ><img src=\"https://tpucdn.com/img/tGYrMMBROqlhIVOD_thm.jpg\" width=\"234\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352752/iqunix-adds-controller-emulation-to-ev63-gaming-keyboard\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352752/iqunix-adds-controller-emulation-to-ev63-gaming-keyboard",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "ffac659c39ea97f36ff129b80ce68ac0"
+    },
+    {
+      "id": 608,
+      "title": "Astro's Playroom Joins KytyPS5's Growing List of Supported PS5 Exclusives",
+      "summary": "PS5 emulator KytyPS5 has added another PlayStation 5 exclusive to its compatibility list, with Astro's Playroom now booting into gameplay. YouTuber Unreal Gaming shared footage of the pack-in platformer running on a Ryzen 7 9800X3D and RTX ",
+      "content": "PS5 emulator KytyPS5 has added another PlayStation 5 exclusive to its compatibility list, with Astro's Playroom now booting into gameplay. YouTuber Unreal Gaming shared footage of the pack-in platformer running on a Ryzen 7 9800X3D and RTX 4080, the same rig used in KytyPS5's earlier tests. Astro's Playroom ships pre-installed on every PS5 and serves as an interactive intro to the DualSense controller, so getting it running is a solid emulation milestone, even if performance is still lagging. Apparently the game drops below 30 FPS fairly often, though the clip shows no crashes, which puts it slightly ahead of some other recent KytyPS5 tests. <br />\r\n<br />\r\nThe emulator has previously gotten the PS5 build of <a href=\"https://www.techpowerup.com/352418/ps5-version-of-gta-5-now-playable-on-pc-at-up-to-60-fps-via-kytyps5-emulator\" target=\"_blank\">GTA 5 running at up to 60 FPS</a>, and separately showed <a href=\"https://www.techpowerup.com/352655/demons-souls-remake-goes-from-unplayable-to-30-fps-on-ps5-emulator-in-days\" target=\"_blank\">rapid progress with Demon's Souls Remake</a>. Both titles, however, along with Astro Bot, have their own performance and crashing issues. Given that PS5 emulation is still in its early days, performance across these titles will probably keep climbing. Hardware demands remain steep either way. A Ryzen 7 9800X3D has become something of a baseline for these PS5 emulation runs, given how CPU-bound the process is. Still, the pace with which these updates are coming out suggests development isn't slowing down.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/lN6Lzl7HwYYfCxAW.jpg\" target=\"_blank\" data-width=\"1684\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/lN6Lzl7HwYYfCxAW_thm.jpg\" width=\"228\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ct7JAaj6HtFnggJj.jpg\" target=\"_blank\" data-width=\"1696\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ct7JAaj6HtFnggJj_thm.jpg\" width=\"230\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352757/astros-playroom-joins-kytyps5s-growing-list-of-supported-ps5-exclusives\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352757/astros-playroom-joins-kytyps5s-growing-list-of-supported-ps5-exclusives",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "937a31cacc82201777df0c01b65b639a"
+    },
+    {
+      "id": 609,
+      "title": "ASRock Brings Taichi Brand to Monitor Sector With Up to 720 Hz Panels",
+      "summary": "ASRock announced today that it is updating its monitor lineup with its flagship Taichi brand, introducing three new 27-inch models to the company's offerings. First in line is the new TCO27USA, designed as a flagship model with a 27-inch 4K",
+      "content": "ASRock announced today that it is updating its monitor lineup with its flagship Taichi brand, introducing three new 27-inch models to the company's offerings. First in line is the new TCO27USA, designed as a flagship model with a 27-inch 4K UHD Penta Tandem QD-OLED display and a 240 Hz refresh rate. ASRock has equipped this panel with a 0.03 ms gray-to-gray response time, 99% DCI-P3 color accuracy, and other technologies such as AMD FreeSync, VESA's DisplayHDR True Black 400, and proprietary low blue light technology to reduce eye strain. For those with multiple setups, there is a built-in KVM switch. Regarding port selection, the ASRock Taichi TCO27USA features two HDMI 2.1 ports, two DisplayPort 2.1 with UHBR20, and a single USB 3.2 Gen 1 Type-C serving as a DisplayPort alternative or a 65 W power delivery line.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/o0YnaNQI1KtM03zA.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/o0YnaNQI1KtM03zA_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1DHgNAQQHlGGMoxN.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/1DHgNAQQHlGGMoxN_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/QvBg5dQHlE8aP6O5.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/QvBg5dQHlE8aP6O5_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/OaWDGNdb6GXADkHk.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/OaWDGNdb6GXADkHk_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/RPekCn9PoYrhhShU.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/RPekCn9PoYrhhShU_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352756/asrock-brings-taichi-brand-to-monitor-sector-with-up-to-720-hz-panels\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352756/asrock-brings-taichi-brand-to-monitor-sector-with-up-to-720-hz-panels",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a81e1627631b9e59018fa1cb5702d5df"
+    },
+    {
+      "id": 610,
+      "title": "NVIDIA Reportedly Rejected RTX 5090 RMA Over Faded Serial Number",
+      "summary": "An RTX 5090 Founders Edition owner says NVIDIA turned down a warranty claim because the serial number on the card's metal bracket had faded past the point of being readable. According to a Reddit post on r/NVIDIA from user Willing-Avocado-4",
+      "content": "An <a href=\"https://www.techpowerup.com/review/nvidia-geforce-rtx-5090-founders-edition/\" target=\"_blank\">RTX 5090 Founders Edition</a> owner says NVIDIA turned down a warranty claim because the serial number on the card's metal bracket had faded past the point of being readable. According to a Reddit post on r/NVIDIA from user Willing-Avocado-4830, the card began throwing black screen crashes under heavy load, so the owner returned it to NVIDIA for an RMA. After roughly a month of waiting, NVIDIA reportedly rejected the claim with little explanation, and a follow-up email revealed the reason. The printed serial number was apparently too faded to confirm. <br />\r\n<br />\r\nThe owner claims to have never removed the bracket, and still has the original box and matching invoice. That raises an obvious question, since the same serial number is printed on the card's modular PCIe connector too, and can reportedly be pulled from Windows using NVIDIA's SMI tool, at least while the GPU still boots. NVIDIA rejecting an RMA simply due to a faded serial number is questionable, to say the least, especially with <a href=\"https://www.techpowerup.com/352241/gpu-prices-jumped-15-in-one-month-rtx-5090-now-136-above-msrp\" target=\"_blank\">RTX 5090 stock already scarce</a> and prices well above MSRP. Here's what the faded serial number looks like, according to another Redditor who shared this image.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/dFrPHwGy8rlII5pW.jpg\" target=\"_blank\" data-width=\"967\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/dFrPHwGy8rlII5pW_thm.jpg\" width=\"131\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352754/nvidia-reportedly-rejected-rtx-5090-rma-over-faded-serial-number\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352754/nvidia-reportedly-rejected-rtx-5090-rma-over-faded-serial-number",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "72722b5c761167be1432c6587db47001"
+    },
+    {
+      "id": 611,
+      "title": "Intel and SK hynix Could Start DRAM Production in United States",
+      "summary": "According to anonymous sources close to Reuters, Intel and SK hynix are in talks to start DRAM production lines in the United States for the first time. This means that Intel might either collaborate with SK hynix to acquire memory IP techn",
+      "content": "According to anonymous sources close to Reuters, Intel and SK hynix are in talks to start DRAM production lines in the United States for the first time. This means that Intel might either collaborate with SK hynix to acquire memory IP technology in a joint venture or SK hynix could lease part of Intel's facility in Ohio. In the first scenario, a joint venture between Intel and SK hynix would significantly alleviate supply chain pressures, as hyperscalers, fabless chip designers, and others are in urgent need of more DRAM. Since these firms would likely consume all the DRAM produced in the coming years, both Intel and SK hynix would have a substantial financial interest in the joint venture.<br />\r\n<br />\r\nOn the other hand, if SK hynix decides to lease Intel's facilities in Ohio, the South Korean memory giant would pay premiums for leasing the facility while retaining all production for itself. Reuters couldn't determine which specific technology would be the focus of the facility, but the primary goal is to produce regular planar DRAM, HBM, and some storage solutions with NAND Flash. Intel declined to comment on the rumor but noted that the Ohio investments are continuing regardless. SK hynix stated that the company has not finalized its decision or any cooperation but did not explicitly rule out the possibility of future collaboration. Therefore, an official decision should be announced soon.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/gGUAhFlFtgFKH3lt.jpg\" target=\"_blank\" data-width=\"1290\" data-height=\"726\" ><img src=\"https://tpucdn.com/img/gGUAhFlFtgFKH3lt_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352753/intel-and-sk-hynix-could-start-dram-production-in-united-states\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352753/intel-and-sk-hynix-could-start-dram-production-in-united-states",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "7b05eae156bb4e41a6fa33cf05c47d5c"
+    },
+    {
+      "id": 612,
+      "title": "AMD Rumored To Have DLSS 5-Like Neural Rendering Coming With RDNA 5",
+      "summary": "AMD's next-gen RDNA 5 architecture might get its own neural rendering feature, something in the same ballpark as NVIDIA's DLSS 5. That's according to Kepler_L2, a well-known AMD leaker, though it's worth being clear that this is a single-so",
+      "content": "AMD's next-gen <a href=\"https://www.techpowerup.com/347389/amd-rdna-5-to-heavily-boost-shader-performance-in-games-with-new-dual-issue-pipeline\" target=\"_blank\">RDNA 5</a> architecture might get its own neural rendering feature, something in the same ballpark as <a href=\"https://www.techpowerup.com/review/nvidia-dlss-5-technical-preview/\" target=\"_blank\">NVIDIA's DLSS 5</a>. That's according to Kepler_L2, a well-known AMD leaker, though it's worth being clear that this is a single-source claim and should be treated as a rumor for now. Posting on the Anandtech forums, Kepler_L2 said AMD will have its own version of &quot;Neural Lighting&quot; comparable to DLSS 5 with its next-gen hardware. Asked whether this would be limited to RDNA 5, the leaker said it's probably going to be the case, since this kind of workload is apparently pretty heavy. That's about as far as the concrete part of the leak goes.<br />\r\n<br />\r\nKepler_L2 also shared thoughts on how AMD's approach should differ from NVIDIA's. He thinks the model should have direct access to raw game data like geometry and depth buffers instead of having to guess at scene details, plus splitting lighting and shading into separate models instead of one pipeline. It's worth stressing that this part is the leaker's own wishlist, and not a description of what AMD is actually building. AMD hasn't confirmed RDNA 5 by name yet, and launch estimates currently range from mid-2027 to early 2028 depending on who you ask. Therefore, even if this pans out, we're probably looking at something that's early in the development pipeline.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/uUO1gNKw4HMLTQz1.jpg\" target=\"_blank\" data-width=\"1170\" data-height=\"658\" ><img src=\"https://tpucdn.com/img/uUO1gNKw4HMLTQz1_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/j7JPxc4Zxel4kNXY.jpg\" target=\"_blank\" data-width=\"1060\" data-height=\"241\" ><img src=\"https://tpucdn.com/img/j7JPxc4Zxel4kNXY_thm.jpg\" width=\"572\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352750/amd-rumored-to-have-dlss-5-like-neural-rendering-coming-with-rdna-5",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5034cdf4fa343cec349c195926133b64"
+    },
+    {
+      "id": 613,
+      "title": "(PR) AAEON Launches MIX-PTLWV1 Panther Lake Mini-ITX Motherboard",
+      "summary": "a leading producer of industrial motherboards, has announced the release of the MIX-PTLWV1, its first Mini-ITX motherboard featuring Intel Core Ultra Series 3 processors (formerly Panther Lake). The MIX-PTLWV1 is available with a number of ",
+      "content": "a leading producer of industrial motherboards, has announced the release of the MIX-PTLWV1, its first Mini-ITX motherboard featuring Intel Core Ultra Series 3 processors (formerly Panther Lake). The MIX-PTLWV1 is available with a number of processors from across the series, ranging from 15 W to 25 W, and provides support for up to 128 GB of DDR5 (6400 MHz) via two C/SO-DIMM slots. With the hybrid AI acceleration offered by the Panther Lake series' integrated Intel Arc GPU, Intel AI Boost NPU, and disaggregated CPU architecture, AAEON has indicated that the MIX-PTLWV1 is positioned for use in edge AI applications across machine vision, robotic automation, and industrial inspection.<br />\r\n<br />\r\nThe board's I/O provides two rear I/O 2.5GbE LAN ports (Intel Ethernet Controller I226 series) by default. However, AAEON states that the board comes with the option of an additional two 10GbE LAN ports (Intel Ethernet Controller E610-XAT2) on top of this, although this configuration is SKU-dependent. Alongside these, the board hosts four USB 3.2 Gen 1 ports (5 Gbps), and four display ports, each offering 4K resolution at 60 Hz.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/3WrUo5S46L0Amynh.jpg\" target=\"_blank\" data-width=\"1058\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/3WrUo5S46L0Amynh_thm.jpg\" width=\"143\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/iakv6931hLgQnuNW.jpg\" target=\"_blank\" data-width=\"1700\" data-height=\"814\" ><img src=\"https://tpucdn.com/img/iakv6931hLgQnuNW_thm.jpg\" width=\"271\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352748/aaeon-launches-mix-ptlwv1-panther-lake-mini-itx-motherboard\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352748/aaeon-launches-mix-ptlwv1-panther-lake-mini-itx-motherboard",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "98176195468ea3d72016bbbc6dedc9b4"
+    },
+    {
+      "id": 614,
+      "title": "(PR) ADATA TRUSTA Showcases AI Scaler Extended Memory, TD7P51 ECO Gen 5 SSD and R-DIMM at AI Infra Summit 2026",
+      "summary": "TRUSTA, the enterprise storage and memory brand of memory leader ADATA, is showcasing its latest AI Scaler Extended Memory solution at AI Infra Summit 2026, one of North America's leading AI infrastructure events, bringing together approxim",
+      "content": "TRUSTA, the enterprise storage and memory brand of memory leader ADATA, is showcasing its latest AI Scaler Extended Memory solution at AI Infra Summit 2026, one of North America's leading AI infrastructure events, bringing together approximately 8,000 professionals and 250 industry partners across the AI infrastructure ecosystem.<br />\r\n<br />\r\nAs increasingly complex AI models place greater demands on GPU memory and drive up infrastructure costs, TRUSTA is highlighting its award-winning AI Scaler Extended Memory Solution under the theme &quot;Scale AI Beyond GPU Limits.&quot; The integrated hardware-software architecture enables enterprises to deploy on-premises AI with greater scalability and cost efficiency. TRUSTA is also presenting its TD7P51 ECO PCIe Gen 5 enterprise SSD and DDR5 R-DIMM, demonstrating a comprehensive portfolio built for next-generation AI infrastructure.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/o0jPXoAzRQhwn4d6.jpg\" target=\"_blank\" data-width=\"1365\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/o0jPXoAzRQhwn4d6_thm.jpg\" width=\"185\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/202TDdvbSCBqJ3d0.jpg\" target=\"_blank\" data-width=\"802\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/202TDdvbSCBqJ3d0_thm.jpg\" width=\"145\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352746/adata-trusta-showcases-ai-scaler-extended-memory-td7p51-eco-gen-5-ssd-and-r-dimm-at-ai-infra-summit-2026\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352746/adata-trusta-showcases-ai-scaler-extended-memory-td7p51-eco-gen-5-ssd-and-r-dimm-at-ai-infra-summit-2026",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "435dd622df2f6d8144e559a73b273694"
+    },
+    {
+      "id": 615,
+      "title": "Nvidia RTX 60 series to skip 2027 launch, just like most of AMD’s RDNA 5",
+      "summary": "A new leak has suggested that no new Nvidia Rubin GPUs will launch next year. Both Nvidia and AMD are said to reveal their complete arsenal in 2028, barring one RDNA 5 GPU that will break cover next year.",
+      "content": "A new leak has suggested that no new Nvidia Rubin GPUs will launch next year. Both Nvidia and AMD are said to reveal their complete arsenal in 2028, barring one RDNA 5 GPU that will break cover next year.",
+      "link": "https://www.notebookcheck.net/Nvidia-RTX-60-series-to-skip-2027-launch-just-like-most-of-AMD-s-RDNA-5.1401168.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-RTX-60-series-to-skip-2027-launch-just-like-most-of-AMD-s-RDNA-5.1401168.0.html"
+    },
+    {
+      "id": 616,
+      "title": "Affordable Lenovo gaming laptop with RTX 5060 and 16 GB RAM sees $650 discount",
+      "summary": "Deal | Courtesy of yet another sale on Best Buy, it appears that the Lenovo LOQ Essential gaming laptop can now be purchased with a sizable $650 discount. In fact, the RTX 5060-powered laptops' current price is only $50 higher than its Labo",
+      "content": "Deal | Courtesy of yet another sale on Best Buy, it appears that the Lenovo LOQ Essential gaming laptop can now be purchased with a sizable $650 discount. In fact, the RTX 5060-powered laptops' current price is only $50 higher than its Labor Day sale price.",
+      "link": "https://www.notebookcheck.net/Affordable-Lenovo-gaming-laptop-with-RTX-5060-and-16-GB-RAM-sees-650-discount.1400932.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Lenovo-gaming-laptop-with-RTX-5060-and-16-GB-RAM-sees-650-discount.1400932.0.html"
+    },
+    {
+      "id": 617,
+      "title": "Asus releases new budget 16-inch gaming laptop internationally with 144 Hz display and 85 W GPUs",
+      "summary": "Asus has finally released one of its latest budget gaming laptops. Available internationally, the TUF Gaming 16 (2026) is a 16-inch gaming laptop that combines a 144 Hz display with a choice of 85 W GPUs. The new laptop offers upgradeable R",
+      "content": "Asus has finally released one of its latest budget gaming laptops. Available internationally, the TUF Gaming 16 (2026) is a 16-inch gaming laptop that combines a 144 Hz display with a choice of 85 W GPUs. The new laptop offers upgradeable RAM and dual SSD slots, too.",
+      "link": "https://www.notebookcheck.net/Asus-releases-new-budget-16-inch-gaming-laptop-internationally-with-144-Hz-display-and-85-W-GPUs.1401150.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Asus-releases-new-budget-16-inch-gaming-laptop-internationally-with-144-Hz-display-and-85-W-GPUs.1401150.0.html"
+    },
+    {
+      "id": 618,
+      "title": "ASRock unveils Taichi OLED gaming monitors with up to 720 Hz refresh rate, KVM, and 65W PD",
+      "summary": "ASRock has expanded its gaming monitor portfolio with three new models. These are categorized under its premium Taichi brand and offer VESA DisplayHDR True Black certification, QD-OLED panels, and dual-mode displays.",
+      "content": "ASRock has expanded its gaming monitor portfolio with three new models. These are categorized under its premium Taichi brand and offer VESA DisplayHDR True Black certification, QD-OLED panels, and dual-mode displays.",
+      "link": "https://www.notebookcheck.net/ASRock-unveils-Taichi-OLED-gaming-monitors-with-up-to-720-Hz-refresh-rate-KVM-and-65W-PD.1401153.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/ASRock-unveils-Taichi-OLED-gaming-monitors-with-up-to-720-Hz-refresh-rate-KVM-and-65W-PD.1401153.0.html"
+    },
+    {
+      "id": 619,
+      "title": "Xiaomi launches Mijia Smart Temperature and Humidity Meter 3 Pro",
+      "summary": "Xiaomi’s Mijia Smart Temperature and Humidity Meter 3 Pro adds CO2 monitoring, a larger 3.6-inch display and expanded Mi Home automation via Bluetooth Mesh. The sensor is currently crowdfunding in China for around $17.",
+      "content": "Xiaomi’s Mijia Smart Temperature and Humidity Meter 3 Pro adds CO2 monitoring, a larger 3.6-inch display and expanded Mi Home automation via Bluetooth Mesh. The sensor is currently crowdfunding in China for around $17.",
+      "link": "https://www.notebookcheck.net/Xiaomi-launches-Mijia-Smart-Temperature-and-Humidity-Meter-3-Pro.1400949.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Xiaomi-launches-Mijia-Smart-Temperature-and-Humidity-Meter-3-Pro.1400949.0.html"
+    },
+    {
+      "id": 620,
+      "title": "Sonnet launches performance-focused eGPU enclosure with 850W PSU",
+      "summary": "The Sonnet Breakaway Box 850 T5 is now available to purchase. It's a Thunderbolt 5 eGPU enclosure with an 850W PSU and additional USB ports for expanded connectivity. The launch price is $599.99, which makes it a relatively expensive dock.",
+      "content": "The Sonnet Breakaway Box 850 T5 is now available to purchase. It's a Thunderbolt 5 eGPU enclosure with an 850W PSU and additional USB ports for expanded connectivity. The launch price is $599.99, which makes it a relatively expensive dock.",
+      "link": "https://www.notebookcheck.net/Sonnet-launches-performance-focused-eGPU-enclosure-with-850W-PSU.1400725.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Sonnet-launches-performance-focused-eGPU-enclosure-with-850W-PSU.1400725.0.html"
+    },
+    {
+      "id": 621,
+      "title": "Is the Huawei Watch D3 a worthy successor?",
+      "summary": "The Huawei Watch D3 is not the first smartwatch to offer true, cuff-based blood pressure monitoring—and its predecessor, the Huawei Watch D2, remains a compelling rival. In this comparison, we break down the key updates and differences betw",
+      "content": "The Huawei Watch D3 is not the first smartwatch to offer true, cuff-based blood pressure monitoring—and its predecessor, the Huawei Watch D2, remains a compelling rival. In this comparison, we break down the key updates and differences between these two generations.",
+      "link": "https://www.notebookcheck.net/Is-the-Huawei-Watch-D3-a-worthy-successor.1395996.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Is-the-Huawei-Watch-D3-a-worthy-successor.1395996.0.html"
+    },
+    {
+      "id": 622,
+      "title": "Microsoft details new Surface event with new Nvidia RTX Spark devices expected",
+      "summary": "Microsoft has shared details about its next Surface hardware event. The first of its kind in years, the event will see Satya Nadella and Jensen Huang in attendance. As a result, Microsoft's first Nvidia RTX Spark-based devices are expected ",
+      "content": "Microsoft has shared details about its next Surface hardware event. The first of its kind in years, the event will see Satya Nadella and Jensen Huang in attendance. As a result, Microsoft's first Nvidia RTX Spark-based devices are expected to be showcased, including Microsoft's latest attempt at dethroning the MacBook Pro 16.",
+      "link": "https://www.notebookcheck.net/Microsoft-details-new-Surface-event-with-new-Nvidia-RTX-Spark-devices-expected.1400947.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-details-new-Surface-event-with-new-Nvidia-RTX-Spark-devices-expected.1400947.0.html"
+    },
+    {
+      "id": 623,
+      "title": "Lenovo's tiny Mac mini rival with Intel Panther Lake and 16 GB RAM gets a $320 discount",
+      "summary": "Deal | The Lenovo Yoga Mini with Intel Core Ultra 5 325 is currently available with a $320 discount at Best Buy. Featuring a compact 0.65L chassis, it comes with 16 GB RAM and 512 GB storage, plus a generous selection of ports, including Th",
+      "content": "Deal | The Lenovo Yoga Mini with Intel Core Ultra 5 325 is currently available with a $320 discount at Best Buy. Featuring a compact 0.65L chassis, it comes with 16 GB RAM and 512 GB storage, plus a generous selection of ports, including Thunderbolt 4, HDMI 2.1, and 2.5G Ethernet.",
+      "link": "https://www.notebookcheck.net/Lenovo-s-tiny-Mac-mini-rival-with-Intel-Panther-Lake-and-16-GB-RAM-gets-a-320-discount.1400728.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-s-tiny-Mac-mini-rival-with-Intel-Panther-Lake-and-16-GB-RAM-gets-a-320-discount.1400728.0.html"
+    },
+    {
+      "id": 624,
+      "title": "Wardogs sold over a million copies on day one but immediately broke its own servers as a result",
+      "summary": "Bulkhead's 100-player tactical shooter hits seven figures and 350,000 concurrent players within hours of launch. The studio then had to spend launch day apologizing for the queues that it resulted in.",
+      "content": "Bulkhead's 100-player tactical shooter hits seven figures and 350,000 concurrent players within hours of launch. The studio then had to spend launch day apologizing for the queues that it resulted in.",
+      "link": "https://www.notebookcheck.net/Wardogs-sold-over-a-million-copies-on-day-one-but-immediately-broke-its-own-servers-as-a-result.1400277.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Wardogs-sold-over-a-million-copies-on-day-one-but-immediately-broke-its-own-servers-as-a-result.1400277.0.html"
+    },
+    {
+      "id": 625,
+      "title": "Apple M6 SoC impresses in new benchmark as it matches Apple M3 Max in multi-core test",
+      "summary": "A new Geekbench 7 benchmark result for the Apple M6 SoC has surfaced. While both the single-core and multi-core scores of the Apple M6 appear mighty impressive, keen-eyed observers have noted that the multi-core Geekbench 7 score of the App",
+      "content": "A new Geekbench 7 benchmark result for the Apple M6 SoC has surfaced. While both the single-core and multi-core scores of the Apple M6 appear mighty impressive, keen-eyed observers have noted that the multi-core Geekbench 7 score of the Apple M6 matches that of the Apple M3 Max.",
+      "link": "https://www.notebookcheck.net/Apple-M6-SoC-impresses-in-new-benchmark-as-it-matches-Apple-M3-Max-in-multi-core-test.1400910.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-M6-SoC-impresses-in-new-benchmark-as-it-matches-Apple-M3-Max-in-multi-core-test.1400910.0.html"
+    },
+    {
+      "id": 626,
+      "title": "Micron unveils the world’s first 512GB DDR5 memory module",
+      "summary": "Micron has demonstrated a 512GB DDR5 RDIMM designed for next-generation servers, with speeds of up to 9,200 MT/s. The ultra-dense module could enable up to 12TB of DDR5 memory in dual-socket systems and is expected to enter volume productio",
+      "content": "Micron has demonstrated a 512GB DDR5 RDIMM designed for next-generation servers, with speeds of up to 9,200 MT/s. The ultra-dense module could enable up to 12TB of DDR5 memory in dual-socket systems and is expected to enter volume production in the second half of 2027.",
+      "link": "https://www.notebookcheck.net/Micron-unveils-the-world-s-first-512GB-DDR5-memory-module.1400750.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Micron-unveils-the-world-s-first-512GB-DDR5-memory-module.1400750.0.html"
+    },
+    {
+      "id": 627,
+      "title": "Powerful gaming laptop with up to 192 GB RAM and 16-core Ryzen APU arriving soon",
+      "summary": "HP has introduced a new high-end laptop, dubbed ZBook Ultra G3a, featuring up to a whopping 192 GB of RAM. This is courtesy of AMD's monstrous Gorgon Halo APU featuring 16 Zen 5 cores and a powerful Radeon 8065S GPU.",
+      "content": "HP has introduced a new high-end laptop, dubbed ZBook Ultra G3a, featuring up to a whopping 192 GB of RAM. This is courtesy of AMD's monstrous Gorgon Halo APU featuring 16 Zen 5 cores and a powerful Radeon 8065S GPU.",
+      "link": "https://www.notebookcheck.net/Powerful-gaming-laptop-with-up-to-192-GB-RAM-and-16-core-Ryzen-APU-arriving-soon.1400266.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Powerful-gaming-laptop-with-up-to-192-GB-RAM-and-16-core-Ryzen-APU-arriving-soon.1400266.0.html"
     },
     {
       "id": 313,
