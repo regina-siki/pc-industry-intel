@@ -1,7 +1,389 @@
 {
-  "updatedAt": "2026-09-18",
-  "total": 762,
+  "updatedAt": "2026-09-19",
+  "total": 803,
   "list": [
+    {
+      "id": 763,
+      "title": "华为造车为何“此路不通”？",
+      "summary": "9月17日，“界面新闻”从华为渠道处获悉：已有多位经销商接到华为方面通知，自2027年1月1日起，问界将正式撤出鸿蒙智行和华为专卖店。经销商可自主选择代理华为、鸿蒙智行其余四界品牌或问界。这是72小时内的第三个动作。 阅读全文",
+      "content": "<p>9月17日，“界面新闻”从华为渠道处获悉：已有多位经销商接到华为方面通知，自2027年1月1日起，问界将正式撤出鸿蒙智行和华为专卖店。经销商可自主选择代理华为、鸿蒙智行其余四界品牌或问界。这是72小时内的第三个动作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578710.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578710.htm"
+    },
+    {
+      "id": 764,
+      "title": "传长鑫存储正筹备进军NAND闪存市场",
+      "summary": "据多家行业研究机构及供应链消息透露，中国本土DRAM制造龙头企业长鑫存储（CXMT）目前正在积极筹备进军 NAND 闪存（NAND Flash）制造领域。这一潜在的战略扩张标志着长鑫存储正力图从单一的 DRAM 芯片供应商向全品类存储芯片巨头转型，不仅将进一步丰富其产品线，也有望重塑全球存储半导体市场的竞争格局。 阅读全文",
+      "content": "<p>据多家行业研究机构及供应链消息透露，中国本土DRAM制造龙头企业长鑫存储（CXMT）目前正在积极筹备进军 NAND 闪存（NAND Flash）制造领域。这一潜在的战略扩张标志着长鑫存储正力图从单一的 DRAM 芯片供应商向全品类存储芯片巨头转型，不仅将进一步丰富其产品线，也有望重塑全球存储半导体市场的竞争格局。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578690.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578690.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578690.htm"
+    },
+    {
+      "id": 765,
+      "title": "荣耀发布2升级AI工作站：AMD、Intel与NVIDIA三平台齐上阵 本地大模型部署瞄准企业市场",
+      "summary": "荣耀正式发布全新天工AXB35人工智能工作站。这款产品采用仅约2升容积的超小型机箱设计，却提供AMD、Intel以及NVIDIA三种不同硬件平台配置，主打本地AI推理、企业知识库、多智能体应用以及专业内容创作等高性能场景。 阅读全文",
+      "content": "<p>荣耀正式发布全新天工AXB35人工智能工作站。这款产品采用仅约2升容积的超小型机箱设计，却提供AMD、Intel以及NVIDIA三种不同硬件平台配置，主打本地AI推理、企业知识库、多智能体应用以及专业内容创作等高性能场景。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578688.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578688.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578688.htm"
+    },
+    {
+      "id": 766,
+      "title": "智谱就ZCode上传数据问题发布回应：相关数据会立即销毁 相关问题已经修复",
+      "summary": "昨天有开发者发现智谱旗下的编码工具 ZCode 在未经用户授权的情况下，擅自将整个工作区数据包括 Git 历史记录全部打包加密上传到阿里云 OSS 存储。只要登录智谱账号就会触发数据加密压缩和上传流程，而且智谱并未提供选项可以禁用数据上传，此事件严重影响智谱的声誉。 阅读全文",
+      "content": "<p>昨天有开发者发现智谱旗下的编码工具 ZCode 在未经用户授权的情况下，擅自将整个工作区数据包括 Git 历史记录全部打包加密上传到阿里云 OSS 存储。只要登录智谱账号就会触发数据加密压缩和上传流程，而且智谱并未提供选项可以禁用数据上传，此事件严重影响智谱的声誉。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578670.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578670.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578670.htm"
+    },
+    {
+      "id": 770,
+      "title": "AMD 晒 256 核 EPYC 9996 官方跑分，代际吞吐量提升约 73%",
+      "summary": "IT之家 9 月 19 日消息，在官方 9 月 17 日公布的《EPYC Venice 架构与性能概览》白皮书中，AMD 公布了旗舰第六代霄龙 EPYC 9996 处理器的多项跑分成绩。 AMD EPYC 9996 是 AMD 第六代 EPYC 9006（代号“Venice”）服务器 CPU 的顶级型号之一，主打单路 256 核心、512 线程的超高并发计算能力，定位云计算、虚拟化、企业数据库、HPC 与 AI 基础设施的 CPU 主机侧工作负载。 在通用计算方面，在最新 S",
+      "content": "<p data-vmark=\"d877\">IT之家 9 月 19 日消息，在官方 9 月 17 日公布的《EPYC Venice 架构与性能概览》白皮书中，<strong>AMD 公布了旗舰第六代霄龙 EPYC 9996 处理器的多项跑分成绩。</strong></p><p data-vmark=\"cf2d\">AMD EPYC 9996 是 AMD 第六代 EPYC 9006（代号“Venice”）服务器 CPU 的顶级型号之一，主打单路 256 核心、512 线程的超高并发计算能力，定位云计算、虚拟化、企业数据库、HPC 与 AI 基础设施的 CPU 主机侧工作负载。</p><p data-vmark=\"9714\">在通用计算方面，在最新 SPEC CPU 2026 测试相关数据中，AMD 称在 SPECrate 2026_int_base 整体吞吐量上，EPYC 9996 （256 核）达到 Intel Xeon 6980P（128 核）的 2.37 倍，<strong>同时为 Nvidia Vera（88 核）的 2.24 倍。</strong></p><p data-vmark=\"1e65\">在内部代际对比中，256 核心的 Venice 旗舰型号表现同样亮眼，其性能较上一代 192 核心的旗舰产品 EPYC 9965 提升了约 73%（按照报告中计算英伟达增幅方式，以 2.37/1.37=1.729 得出）。</p><p style=\"text-align: center;\" data-vmark=\"d2fc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0f02ffb4-bf6f-4143-9441-29278c6ce55b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"800\" data-mpos=\"2,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d179d619909c0a7b48f700c7c7dba92d0f2f390488d74cf6b0200614f6bd1a88c753674b6e4e9a12b6\" data-vmark=\"aee1\" class=\"no-alt-img\"></p><p data-vmark=\"cc34\">AMD 还披露，在 STREAM Triad 持续内存带宽测试中，采用 96 核 EPYC 9006 的平台比 Nvidia Vera 88 核平台快 18%。</p><p style=\"text-align: center;\" data-vmark=\"46c7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d6b2715b-bcb6-4685-a673-938d7f458559.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1205\" data-mpos=\"0,0\" data-weibo=\"1\"  data-vmark=\"b90b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1c24\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d5c49f45-6696-41a6-8ae0-e6eb9d64d8b9.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"899\" data-weibo=\"2\" data-vmark=\"8f0d\" class=\"no-alt-img\"></p><p data-vmark=\"7fb1\"><span class=\"referenceTitle \">IT之家附上参考地址</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"1eee\"><a target=\"_blank\" href=\"https://www.amd.com/content/dam/amd/en/documents/epyc-business-docs/white-papers/amd-epyc-9006-server-cpus-architectural-leadership.pdf\">AMD EPYCTM SERVER CPU ARCHITECTURE AND PERFORMANCE OVERVIEW</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/004/466.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/466.htm"
+    },
+    {
+      "id": 771,
+      "title": "全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5",
+      "summary": "IT之家 9 月 19 日消息，猛士汽车今日宣布，全新猛士 M817 获推 OTA 升级，将带来华为乾崑智驾 ADS 5 版本，同时座舱功能全面升级。 官方表示，受猛士 M817 各年款配置差异影响，升级将分批次推送：全新猛士 M817 先行升级，2025 款猛士 M817 的华为乾崑智驾 ADS 5 预计于 2026 年 10 月下旬推送。本次 OTA 将先为 2025 款猛士 M817 带来座舱功能优化。 IT之家附本次升级更新内容如下： 华为乾崑智驾 ADS 5 城区漫",
+      "content": "<p data-vmark=\"4137\">IT之家 9 月 19 日消息，猛士汽车今日宣布，全新猛士 M817 获推 OTA 升级，将带来华为乾崑智驾 ADS 5 版本，同时座舱功能全面升级。</p><p data-vmark=\"96a3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9d1fcaf6-d928-4d06-a755-46e74ec02bdd.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1582\" data-weibo=\"0\" data-vmark=\"2527\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d10003a8b37598c8728a3b32ab3dc641acdca367eee74cbc0a70580dee8cfab7a84e6b194f4148b347\" class=\"no-alt-img\"></p><p data-vmark=\"8110\">官方表示，受猛士 M817 各年款配置差异影响，升级将分批次推送：全新猛士 M817 先行升级，<strong>2025 款猛士 M817 的华为乾崑智驾 ADS 5 预计于 2026 年 10 月下旬推送</strong>。本次 OTA 将先为 2025 款猛士 M817 带来座舱功能优化。</p><p data-vmark=\"f0f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/39eb8e74-26e3-45da-ad1d-8d98853abcb4.jpg\" w=\"1080\" h=\"1108\" data-weibo=\"1\" data-vmark=\"dbd5\" class=\"no-alt-img\"></p><p data-vmark=\"5599\">IT之家附本次升级更新内容如下：</p><h3 data-vmark=\"7784\">华为乾崑智驾 ADS 5</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6d33\">城区漫游巡航辅助 RCA</p></li><li><p data-vmark=\"ce10\">花瓣地图组队出行</p></li><li><p data-vmark=\"85ba\">守位泊车</p></li><li><p data-vmark=\"df97\">领航辅助 NCA 直达充电车位</p></li><li><p data-vmark=\"1383\">自动防追尾辅助</p></li><li><p data-vmark=\"1b50\">领航辅助 NCA 支持添加园区内部途经点</p></li></ul><p data-vmark=\"417c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e68e075c-aaa4-45a3-9ca9-dafd41ccbdc8.jpg\" w=\"1080\" h=\"1293\" data-weibo=\"2\" data-vmark=\"8a84\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/99eabdef-b4ad-44bc-90ab-6bd23795bc05.jpg\" w=\"1080\" h=\"1356\" data-weibo=\"3\" data-vmark=\"4b25\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/75f475f6-73e0-4a99-ac2e-eb3dffef1b79.jpg\" w=\"1080\" h=\"1112\" data-weibo=\"4\" data-vmark=\"127f\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6f4563b9-e4e5-4842-966f-4dd481d1a6ee.jpg\" w=\"1080\" h=\"1292\" data-weibo=\"5\" data-vmark=\"86db\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1d313fc2-4c22-4274-b7fd-24c585749ac4.jpg\" w=\"1080\" h=\"1109\" data-weibo=\"6\" data-marks=\"1931fd9d012eb6d191911c5638e079e07e0572e800f7e3f4e4c3df4c4fdec67d0bf8ad9b34cacf3dcce5171e7d5d24c2\" data-vmark=\"3e4b\" class=\"no-alt-img\"></p><h3 data-vmark=\"f349\">座舱体验</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c2df\" style=\"text-align: left;\">HUD 显示升级</p></li><li><p data-vmark=\"90fa\" style=\"text-align: left;\">新增全时四驱开关</p></li><li><p data-vmark=\"9d1e\" style=\"text-align: left;\">新增智慧场景</p></li><li><p data-vmark=\"ac84\" style=\"text-align: left;\">新增主驾解锁保护</p></li></ul><p data-vmark=\"fb64\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8b08b4b7-7490-4197-8f9f-9b651aa79805.jpg\" w=\"1080\" h=\"598\" data-weibo=\"7\" data-marks=\"1931fd9d012eb6d17713c7580d6a03016416062856ce9dec24e387eaab8e5dd4eb3e785bf9bb09e15a29a2061684d476\" data-vmark=\"4c3a\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9173b576-996a-43ca-9fb8-afa392fcd5e4.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1889\" data-weibo=\"8\" data-vmark=\"e2f5\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a117ddb3-a37d-40d5-81ba-9883feeafc17.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1762\" data-vmark=\"0992\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5e4cec23-a0db-436d-baab-b1a96c904f43.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1028\"  data-vmark=\"d460\" class=\"no-alt-img\"></p><h3 data-vmark=\"75f4\">OTA 推送时间</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1a1d\" style=\"text-align: left;\">预计 2026 年 9 月 19 日晚 20 点陆续开始推送</p></li><li><p data-vmark=\"a8d2\" style=\"text-align: left;\">具体推送时间、新增 / 优化功能，以车机 OTA 版本说明为准</p></li></ul><p data-vmark=\"352f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2c00c3f4-a6e7-4704-902b-9fc67da8a70e.png?x-bce-process=image/format,f_auto\" w=\"1348\" h=\"1310\" data-vmark=\"36ab\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/455.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/455.htm"
+    },
+    {
+      "id": 772,
+      "title": "《魔兽世界：无限》游戏 Beta 热度超预期，暴雪设计师称数据创 17 年所见峰值",
+      "summary": "IT之家 9 月 19 日消息，游戏媒体 gamesradar 今天（9 月 19 日）发布博文，报道称《魔兽世界：无限》（World of Warcraft Forever）于 9 月 17 日开启 Beta 测试后，短时间内涌入大量玩家，服务器随即出现排队、掉线和服务中断。 暴雪高级游戏设计师乔什 · 格林菲尔德（Josh Greenfield）称，本次 Beta 测试产生的数据规模，为其在暴雪工作 17 年来所见最高水平。IT之家附上相关截图如下： 资深游戏制作人汤姆 ",
+      "content": "<p data-vmark=\"eeef\">IT之家 9 月 19 日消息，游戏媒体 gamesradar 今天（9 月 19 日）发布博文，报道称《魔兽世界：无限》（World of Warcraft Forever）于 9 月 17 日开启 Beta 测试后，短时间内涌入大量玩家，服务器随即出现排队、掉线和服务中断。</p><p data-vmark=\"31d1\">暴雪高级游戏设计师乔什 · 格林菲尔德（Josh Greenfield）称，<strong>本次 Beta 测试产生的数据规模，为其在暴雪工作 17 年来所见最高水平。</strong>IT之家附上相关截图如下：</p><p data-vmark=\"a672\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/cd455cd9-6d88-4fad-add8-d8b5aa55aabe.png\" w=\"1123\" h=\"879\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FAggrendWoW%2Fstatus%2F2101015233506750526%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FAggrendWoW%2Fstatus%2F2101015233506750526%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"d5f8\" class=\"no-alt-img\"></p><p data-vmark=\"1d54\">资深游戏制作人汤姆 · 埃利斯（Tom Ellis）随后发布了一份更为详尽的技术分析，指出本次 Beta 测试环境仅部署 1 个区域 Realm。</p><p data-vmark=\"1b43\">Realm 是在线游戏中划分玩家连接与游戏数据的服务器世界或逻辑服务器单元。大量玩家同时连接后，单一接入点承担过多会话请求，相关计算出现异常。</p><p data-vmark=\"805b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/094adf7e-4752-4588-b58f-fbaa912d99c4.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1280\" h=\"720\" data-vmark=\"01fe\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"8045\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/64f9f67f-4783-4f42-81e3-2ab084d5efd1.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"808\" data-vmark=\"d79f\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"4b4d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2a21039a-6f2d-40ce-8ed0-b2a03f2f0ac3.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"599\" data-vmark=\"0eff\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"0eb2\">在 9 月 13 日开幕的 2026 年暴雪嘉年华活动中，暴雪娱乐官宣 2026 年 11 月 4 日发布《魔兽世界：无限》（World of Warcraft: Forever）。</p><p data-vmark=\"1ad3\">游戏媒体 pcgamer 认为该游戏可视为“魔兽世界经典怀旧服 Plus”，是官方推出的全新分支版本，希望让玩家长期停留在经典艾泽拉斯中探索。</p>",
+      "link": "https://www.ithome.com/1/004/453.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/453.htm"
+    },
+    {
+      "id": 773,
+      "title": "腾讯元宝鸿蒙版 1.0.0.123 上架尝鲜，支持快速回答、深度思考等",
+      "summary": "IT之家 9 月 19 日消息，据多名IT之家网友反馈，腾讯元宝鸿蒙版 App 今日在华为应用市场上架尝鲜，版本号为 1.0.0.123 (3532088)，活动时间为 2026/9/19-2026/10/19。 官方介绍显示，元宝是一款可深度思考的全能 AI 助手，提供 AI 智能新体验。支持 Hy4 preview、Hy3、DeepSeek 模型，支持快速回答、深度思考和专家模式；支持联网搜索公众号、视频号等优质腾讯生态信源。 特色功能包括： AI 秒写报告、文案、代码，",
+      "content": "<p data-vmark=\"a6b9\">IT之家 9 月 19 日消息，据多名IT之家网友反馈，腾讯元宝鸿蒙版 App 今日在华为应用市场上架尝鲜，版本号为 1.0.0.123 (3532088)，活动时间为 2026/9/19-2026/10/19。</p><p data-vmark=\"b1ce\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/056baab9-8e0b-4578-acf6-2bfb5d7472f1.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"2724\" data-weibo=\"0\" data-vmark=\"0485\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p><p data-vmark=\"ceaa\">官方介绍显示，元宝是一款可深度思考的全能 AI 助手，提供 AI 智能新体验。<strong>支持 Hy4 preview、Hy3、DeepSeek 模型，支持快速回答、深度思考和专家模式</strong>；支持联网搜索公众号、视频号等优质腾讯生态信源。</p><p data-vmark=\"5401\">特色功能包括：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1b87\">AI 秒写报告、文案、代码，创作更轻松</p></li><li><p data-vmark=\"c5da\">支持语音通话，陪你学知识聊日常</p></li><li><p data-vmark=\"6ba1\">精准识图，即拍即搜</p></li><li><p data-vmark=\"a579\">支持拍照翻译，自动识别语种，图片直接呈现翻译结果，即拍即翻</p></li><li><p data-vmark=\"aa32\">微信公众号、微信视频号信源加持</p></li><li><p data-vmark=\"a435\">文档精读助手，可识别 36 种文件类型</p></li><li><p data-vmark=\"0353\">秒搜热搜话题，实时捕捉全网热点</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/449.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/449.htm"
+    },
+    {
+      "id": 774,
+      "title": "华为朱照生：昇腾已经跨越了生态拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态",
+      "summary": "IT之家 9 月 19 日消息，据 21 世纪经济报道，9 月 19 日，华为计算战略与业务发展部部长朱照生表示，昇腾已经跨越了生态的拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态。 从社区来看，昇腾 CANN 开源社区月均活跃用户数超过 5200 人，自今年 6 月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过 3 万行。 模型层面，基于昇腾完成预训练的大语言模型和多模态模型已超过 40 个，昇腾成为国内",
+      "content": "<p data-vmark=\"936c\">IT之家 9 月 19 日消息，据 21 世纪经济报道，9 月 19 日，华为计算战略与业务发展部部长朱照生表示，<strong>昇腾已经跨越了生态的拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态</strong>。</p><p data-vmark=\"1b85\">从社区来看，昇腾 CANN 开源社区月均活跃用户数超过 5200 人，<strong>自今年 6 月起成为国内活跃度最高的开源社区</strong>，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过 3 万行。</p><p data-vmark=\"6876\">模型层面，基于昇腾完成预训练的大语言模型和多模态模型已超过 40 个，<strong>昇腾成为国内唯一支持预训练的 AI 算力平台</strong>。生态层面，昇腾除自身开源 CANN 外，已接入 PyTorch 等主流开源框架。</p><p data-vmark=\"6b49\">综合IT之家此前报道，华为灵衢昇腾 950 智算集群云服务将于 9 月 30 日面向国内市场商用，11 月 30 日面向全球市场商用。华为还在全联接大会 2026 上发布了昇腾 960 超节点，将于 2027 年 Q3 正式上市。华为后续将坚持一年一代的演进节奏，昇腾 970 计划 2028 年发布，昇腾 980 计划 2029 年发布。</p><p data-vmark=\"4e35\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"83bc\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/003/981.htm\">华为灵衢昇腾 950 智算集群云服务计划 9 月 30 日国内商用、11 月 30 日全球商用</a>》</p></li><li><p data-vmark=\"1c24\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/004/131.htm\">华为发布全球首个采用 NPO 的超节点“昇腾 960 超节点”，2027 年 Q3 上市</a>》</p></li><li><p data-vmark=\"6588\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/003/418.htm\">华为轮值董事长汪涛：昇腾 960 芯片将提前至 2027 年 Q1 发布，实现性能翻番</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/441.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/441.htm"
+    },
+    {
+      "id": 775,
+      "title": "奥之心 OM SYSTEM PEN 国行开售：14-42mm 套机 6999 元",
+      "summary": "IT之家 9 月 19 日消息，奥之心 OM SYSTEM PEN 相机国行价格 5999 元，套机（14-42mm F3.5-5.6 III）定价 6999 元，今日正式开售。 京东奥之心 PEN 微单相机数码照相机类旁轴复古 五轴防抖 智能识别对焦 色彩创作 防尘防水溅（14-42mmIII）银 6999 元直达链接 OM SYSTEM PEN 是 PEN 系列首款支持防尘防滴溅的机型（IT之家注：防护等级 IPX1），并内置了约 236 万点的 OLED 电子取景器（E",
+      "content": "<p data-vmark=\"581b\">IT之家 9 月 19 日消息，奥之心 OM SYSTEM PEN 相机国行价格 5999 元，套机（14-42mm F3.5-5.6 III）定价 6999 元，今日正式开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4rbuemY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4ObDC6K\" data-iosurl=\"https://u.jd.com/4abbw9Z\" data-androidurl=\"https://u.jd.com/46bsDUs\" data-hosnexturl=\"https://u.jd.com/4gbsJAz\" data-hosurl=\"https://u.jd.com/46buKfz\" data-uwpurl=\"https://u.jd.com/4gbbgL0\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4gbqk1U%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4Obzx7o\" data-lpwxurl=\"https://u.jd.com/4abnOFU\"   data-ncid=\"239403\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526794/30/4757/63182/6aabb9baF9b285abb/0083320320e391a5.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">奥之心 PEN 微单相机数码照相机</span></span><span class=\"card-abstract\">类旁轴复古 五轴防抖 智能识别对焦 色彩创作 防尘防水溅（14-42mmIII）银</span><span class=\"card-controls\"><span class=\"price\"> 6999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"d98f\">OM SYSTEM PEN 是 PEN 系列首款支持防尘防滴溅的机型（IT之家注：防护等级 IPX1），并内置了约 236 万点的 OLED 电子取景器（EVF），这也是自 2016 年 PEN-F 发布以来该系列再度搭载 EVF。</p><p data-vmark=\"8801\">其机身采用约 2037 万有效像素的 4/3 型 Live MOS 传感器与 TruePic IX 图像处理引擎。对焦系统从传统的对比度检测升级为 121 点全十字相位检测自动对焦，支持人物及动物（猫 / 狗）的主体识别自动对焦。机身内置五轴防抖机构，提供中央最高 5.5 级、边缘最高 4.5 级的快门速度补偿效果。机身含电池与存储卡重约 393 克。</p><p data-vmark=\"fa61\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/35f733da-d92e-4c6a-a994-5ed619ac87cf.jpg\" w=\"1200\" h=\"1800\" data-vmark=\"9114\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"40e9\">新机提供了“色彩 / 单色配置文件控制”功能，用户可通过机身正面的专用开关快速切换，调整出类似胶片的色彩与质感。此外，还配备了独立的“计算摄影”（CP）按钮，可快速调用手持高分辨率拍摄、Live ND（ND2 至 ND16）及景深合成等功能。</p><p data-vmark=\"5091\">视频方面，新机支持 4K（30p/25p/24p）及 C4K（24p）录制，最高支持 120fps 慢动作，并内置了适用于后期调色的 OM-Log400 及电影风格色彩预设 OM-Cinema1/2。</p><p data-vmark=\"61a9\">奥之心还随 OM SYSTEM PEN 推出了 14-42mm F3.5-5.6 III 镜头，这是一款支持防尘防溅（IPX1）的标准变焦镜头，最近对焦距离 0.13m，拥有 0.53X 放大倍率，支持景深合成，采用 7 组 8 片（3 片非球面镜片）光学结构以及 7 片圆形光圈叶片，等效 35mm 相机标准的焦距 28-84mm，视角 75°-29°，滤镜尺寸 Ø46mm，尺寸 Ø60mm x 50.5mm，重约 125g。</p><p data-vmark=\"04ff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3a7d2118-362a-4ed3-b05c-beb79c193855.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1280\" h=\"720\" data-vmark=\"f47b\" data-weibo=\"1\" alt=\"镜头结构图\"></p><p data-vmark=\"8fa5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a5926c1f-5bbe-4c83-8eed-41cf4d695e7d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1280\" h=\"720\" data-vmark=\"6d55\" data-weibo=\"2\" alt=\"MTF曲线\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4rbuemY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4ObDC6K\" data-iosurl=\"https://u.jd.com/4abbw9Z\" data-androidurl=\"https://u.jd.com/46bsDUs\" data-hosnexturl=\"https://u.jd.com/4gbsJAz\" data-hosurl=\"https://u.jd.com/46buKfz\" data-uwpurl=\"https://u.jd.com/4gbbgL0\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4gbqk1U%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4Obzx7o\" data-lpwxurl=\"https://u.jd.com/4abnOFU\"   data-ncid=\"239403\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526794/30/4757/63182/6aabb9baF9b285abb/0083320320e391a5.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">奥之心 PEN 微单相机数码照相机</span></span><span class=\"card-abstract\">类旁轴复古 五轴防抖 智能识别对焦 色彩创作 防尘防水溅（14-42mmIII）银</span><span class=\"card-controls\"><span class=\"price\"> 6999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/440.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/440.htm"
+    },
+    {
+      "id": 776,
+      "title": "英伟达黄仁勋反对放缓 AI 发展的呼声，称 2030 年不会是世界末日",
+      "summary": "IT之家 9 月 19 日消息，在本周放出的 CBS《周日早间》节目中，英伟达首席执行官黄仁勋表示“2030 年不会是世界末日”，并反对放缓 AI 发展的呼声。 在过去 1 周时间里，恐慌浪潮席卷 AI 行业，这股浪潮由 Anthropic CEO 达里奥 · 阿莫代伊于 9 月 12 日发表的文章《我们必须控制前沿》所引发，文章呼吁对前沿 AI 模型的开发进行协调管控、放缓节奏。 OpenAI CEO 萨姆 · 奥尔特曼对文章观点予以背书，埃隆 · 马斯克也表示认同，这在这",
+      "content": "<p data-vmark=\"fd20\">IT之家 9 月 19 日消息，在本周放出的 CBS《周日早间》节目中，英伟达首席执行官黄仁勋表示“2030 年不会是世界末日”，<strong>并反对放缓 AI 发展的呼声。</strong></p><p data-vmark=\"b068\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f06bb52c-bdf2-47e1-8274-4c0a843f4179.png?x-bce-process=image/format,f_auto\" w=\"1123\" h=\"1368\" data-vmark=\"fe5c\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fcb_doge%2Fstatus%2F2101068931876438279%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fcb_doge%2Fstatus%2F2101068931876438279%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"997a\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV1z7et6PEUs&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"6d0c\">在过去 1 周时间里，恐慌浪潮席卷 AI 行业，这股浪潮由 Anthropic CEO 达里奥 · 阿莫代伊于 9 月 12 日发表的文章《我们必须控制前沿》所引发，文章呼吁对前沿 AI 模型的开发进行协调管控、放缓节奏。</p><p data-vmark=\"e4a3\">OpenAI CEO 萨姆 · 奥尔特曼对文章观点予以背书，埃隆 · 马斯克也表示认同，这在这些行业最激烈的竞争对手之间实属罕见的同声共气。</p><p data-vmark=\"29c9\">不过黄仁勋反对这个观点，IT之家此前报道，在 9 月 15 日的 Salesforce 活动中，黄仁勋表示，AI 行业不需要为 AI 安全制定新的法律或监管规定，<a href=\"https://www.ithome.com/1/002/834.htm\" target=\"_blank\">安全与速度可以兼得，二者之间的冲突是一种“虚假对立”。</a></p><p data-vmark=\"9c5f\">在 &nbsp;All-In Summit 峰会，<a href=\"https://www.ithome.com/1/003/266.htm\" target=\"_blank\">黄仁勋表示在中国，没有人会谈“AI 末日论”</a>。中国的叙事要现实得多。没有人在中国说“这一切要结束了”“那要完了”，也没有人谈论什么灾难，或者说什么世界末日。</p>",
+      "link": "https://www.ithome.com/1/004/438.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/438.htm"
+    },
+    {
+      "id": 777,
+      "title": "OpenAI 示警：先进 AI 可在 2 台相邻物理隔离 PC 间“对话”",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称在先进 AI 模型交互方面，物理隔离电脑未必能完全阻断两台相邻计算机间的信息交换。 OpenAI 研究员诺姆 · 布朗（Noam Brown）表示：“人类绝对不要低估 AI 的能力”，基于学术研究成果，发现相邻的物理隔离计算机可借 CPU 升温与温度传感器读数，形成低带宽隐蔽通信通道，充当“摩斯电码”通信。 IT之家注：物理隔离（Air Gap）指切断计算机或网络与其他系统之间",
+      "content": "<p data-vmark=\"5dd8\">IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称在先进 AI 模型交互方面，物理隔离电脑未必能完全阻断两台相邻计算机间的信息交换。</p><p data-vmark=\"1362\">OpenAI 研究员诺姆 · 布朗（Noam Brown）表示：“<strong>人类绝对不要低估 AI 的能力</strong>”，基于学术研究成果，发现相邻的物理隔离计算机可借 CPU 升温与温度传感器读数，形成低带宽隐蔽通信通道，充当“摩斯电码”通信。</p><p data-vmark=\"4a69\">IT之家注：物理隔离（Air Gap）指切断计算机或网络与其他系统之间的网络连接和数据链路。该措施常用于隔绝外部网络访问与数据外传路径。</p><p data-vmark=\"7d6d\">研究报告指出，一台设备通过提高 CPU 负载推高温度，另一台设备读取环境或硬件温度变化。发送端可按预设节奏改变热量输出，接收端将温度波动解读为编码信息，由此形成极低带宽的隐蔽信道。</p><p data-vmark=\"eaef\">而现代 CPU、GPU 及主板普遍装有温度传感器。此类传感器主要服务于散热管理，例如调高风扇转速、降低芯片频率或触发过热保护。</p>",
+      "link": "https://www.ithome.com/1/004/430.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/430.htm"
+    },
+    {
+      "id": 778,
+      "title": "问卷调查显示华为正在评估无屏幕健康手环产品",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称基于最新问卷调查，华为可能会推出无屏幕的健康手环，在上市后可能会和 Whoop 等产品竞争。 报道称本次问卷调查针对拥有华为智能手表的用户，出现在应用的“设备”选项卡中，调查包含 28 个问题，内容涉及无屏幕健康手环的价格、电池续航时间、表带以及人工智能功能等。IT之家附上相关截图如下： 调查还询问受访者对竞品的熟悉程度，包括 Whoop、Garmin Cirqa、Goo",
+      "content": "<p data-vmark=\"76e0\">IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称基于最新问卷调查，<strong>华为可能会推出无屏幕的健康手环，在上市后可能会和 <span class=\"notranslate read-frog-translated-content-wrapper\"><span class=\"notranslate read-frog-translated-block-content\">Whoop 等产品竞争。</span></span></strong></p><p data-vmark=\"f3aa\">报道称本次问卷调查针对拥有华为智能手表的用户，出现在应用的“设备”选项卡中，调查包含 28 个问题，内容涉及无屏幕健康手环的价格、电池续航时间、表带以及人工智能功能等。IT之家附上相关截图如下：</p><p style=\"text-align: center;\" data-vmark=\"a1b8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/64b8d8a7-4e77-402e-88d0-fa18c5e0f490.png?x-bce-process=image/format,f_auto\" w=\"749\" h=\"639\" data-weibo=\"0\" data-vmark=\"0d16\" class=\"no-alt-img\"></p><p data-vmark=\"961b\">调查还询问受访者对竞品的熟悉程度，包括 Whoop、Garmin Cirqa、Google Fitbit Air、Amazfit Helio Strap、Polar Loop、Hume Health Band 和 Luna Band。</p><p data-vmark=\"68ac\">该媒体还指出，华为在本次问卷中直接询问了用户对付费订阅的抵触情绪，这表明该公司正在测试定期付费是否会成为购买该手环的障碍。</p>",
+      "link": "https://www.ithome.com/1/004/426.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/426.htm"
+    },
+    {
+      "id": 779,
+      "title": "佳明战术智能手表 Tactix 9 踪迹曝光，预估 2027 年 2 月发布",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称在俄罗斯监管文件中，发现了佳明 (Garmin) 战术智能手表 Tactix 9 的踪迹。 IT之家注：Tactix 是佳明旗下面向硬核户外玩家打造的高端战术 GPS 智能手表系列，在 Fēnix 旗舰户外运动平台基础上，加入夜视、隐蔽行动、跳伞、战术导航等专业功能，并采用更耐用的外壳与镜面。 上图为 Tactix 8 AMOLED 佳明于 2025 年 2 月 21 日",
+      "content": "<p data-vmark=\"e8f1\">IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称在俄罗斯监管文件中，<strong>发现了佳明 (Garmin) 战术智能手表 Tactix 9 的踪迹。</strong></p><p data-vmark=\"5210\">IT之家注：Tactix 是佳明旗下面向硬核户外玩家打造的高端战术 GPS 智能手表系列，在 Fēnix 旗舰户外运动平台基础上，加入夜视、隐蔽行动、跳伞、战术导航等专业功能，并采用更耐用的外壳与镜面。</p><p style=\"text-align: center;\" data-vmark=\"b017\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/553d4edf-774b-49d2-b8ba-454f4e47f064.png?x-bce-process=image/format,f_auto\" w=\"700\" h=\"745\" data-weibo=\"0\" data-vmark=\"a96d\" class=\"no-alt-img\"></p><figcaption>上图为 Tactix 8 AMOLED</figcaption><p data-vmark=\"c8b8\">佳明于 2025 年 2 月 21 日推出 Tactix 8 智能手表，本次监管文件显示共有 Garmin tactix 9、tactix 9 Ballistics Edition 和 Enduro 4 三款智能手表名称，不过文件未披露处理器、显示屏、续航、传感器或售价等信息，也未附带产品图片。</p><p data-vmark=\"733a\">发布日期方面，佳明于 2026 年 8 月发布 Fenix 9，按照通常间隔约 6 个月时间，佳明有望在 2027 年 2 月发布 Tactix 9 系列。</p><p data-vmark=\"5921\">其中 Ballistics Edition 搭载 Applied Ballistics Elite Solver，并可连接 AB Synapse 配套应用。</p>",
+      "link": "https://www.ithome.com/1/004/425.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/425.htm"
+    },
+    {
+      "id": 780,
+      "title": "权益价 9.99 万元起，东风星海 V6 乾崑智驾 ADS SE 版车型上市",
+      "summary": "IT之家 9 月 19 日消息，在东风柳汽 2026 年秋季新品发布会中，东风星海 V6 乾崑智驾 ADS SE 版正式上市。新车共推出 3 款配置，上市指导价 10.49 万-12.49 万元，上市权益价 9.99 万-11.99 万元。 星海 V6 搭载华为乾崑智驾 ADS 5 SE，采用 10 摄像头、12 超声波雷达、3 毫米波雷达共 25 个感知硬件，覆盖家庭最高频的“开得累、停得难”场景。城区可用车道巡航辅助 LCC+，支持全速域跟车、防加塞、红绿灯识别和主动避障",
+      "content": "<p style=\"text-align: left;\" data-vmark=\"1e48\">IT之家 9 月 19 日消息，在东风柳汽 2026 年秋季新品发布会中，东风星海 V6 乾崑智驾 ADS SE 版正式上市。新车共推出 3 款配置，<strong>上市指导价 10.49 万-12.49 万元，上市权益价 9.99 万-11.99 万元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"31e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fe1f0839-8cd0-492f-99db-572f9232aa8f.png?x-bce-process=image/format,f_auto\" w=\"1267\" h=\"713\" data-weibo=\"0\" data-vmark=\"f5c8\" class=\"no-alt-img\"></p><p data-vmark=\"0820\">星海 V6 搭载华为乾崑智驾 ADS 5 SE，采用 10 摄像头、12 超声波雷达、3 毫米波雷达共 25 个感知硬件，覆盖家庭最高频的“开得累、停得难”场景。城区可用车道巡航辅助 LCC+，支持全速域跟车、防加塞、红绿灯识别和主动避障，早晚高峰少踩刹车；高速领航 NCA 可自主控速、超车、上下匝道、绕行避障，长途单人带全家更轻松；泊车端提供智能泊车、遥控泊车、记忆泊车、离车泊入，覆盖多种车位。</p><p style=\"text-align: center;\" data-vmark=\"ba54\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6429b5ee-272d-4680-97e7-2260d1f7cd1d.png?x-bce-process=image/format,f_auto\" w=\"1259\" h=\"839\" data-weibo=\"1\" data-vmark=\"f3d6\" class=\"no-alt-img\"></p><p data-vmark=\"aac9\">内饰方面，该车采用 2+2+2 六座、可选七座，得房率 89.7%。车辆使用云感护脊座椅配 15mm 高弹棉，前排靠背最大 155°、二排 145° 后仰，三排独立空调、母婴级内饰、3.5mm 加厚隔音玻璃降低长途疲劳。</p><p style=\"text-align: center;\" data-vmark=\"aee2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/acec664d-7c62-408f-882c-288acc673965.png?x-bce-process=image/format,f_auto\" w=\"1266\" h=\"691\" data-weibo=\"2\" data-vmark=\"7d65\" class=\"no-alt-img\"></p><p data-vmark=\"f64e\">其中，车辆二排独立座椅带 220mm 前后滑动，三排腿部空间约 810mm，175cm 乘客入座不顶膝；二排中央通道方便老人小孩进出。三排下沉后可形成 1.63㎡纯平“大平层”，六座满员后备箱 513L、可放 6 个 20 寸箱，切四座拓展至 1630L，再加 70L 前备箱和 27 处储物，可满足日常通勤、周末露营、节假日长途行李等需求。</p><p style=\"text-align: center;\" data-vmark=\"e1bc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/06899125-2956-4d66-a96d-5a2c185281fa.png?x-bce-process=image/format,f_auto\" w=\"1259\" h=\"702\" data-weibo=\"3\" data-vmark=\"8f65\" class=\"no-alt-img\"></p><p data-vmark=\"aff4\">安全方面，星海 V6 采用五星笼式车身，高强钢占比 76%，铠甲电池配 1080MPa 底部高强钢护甲，并按 GB 18384-2025 做满载磕底、井盖刮底、涉水及涉水后充电等挑战，获 2026 TOP Electric 安全性能类挑战证书。</p><p data-vmark=\"3f17\">规格方面，新车长宽高 4835/1900/1755mm，轴距 2900mm，60.5kWh 电池 CLTC 续航 510km，市区电耗 11.8kWh/100km，一周一充可覆盖通勤；6.6kW 外放电支持露营电磁炉、投影、充电宝式用电。</p>",
+      "link": "https://www.ithome.com/1/004/422.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/422.htm"
+    },
+    {
+      "id": 781,
+      "title": "B 社《辐射 76》正式为 XBOX Series X|S、PS5 版本提供原生支持",
+      "summary": "IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。 具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备上支持 4K 分辨率；XBOX Series S、XBOX Series X、",
+      "content": "<p data-vmark=\"da8e\">IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。</p><p data-vmark=\"2676\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aa6a876f-686e-4450-8d38-f331ee49c62d.png\" w=\"930\" h=\"1208\" data-weibo=\"0\" data-vmark=\"f466\" class=\"no-alt-img\"></p><p data-vmark=\"907a\">具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备上支持 4K 分辨率；XBOX Series S、XBOX Series X、PS5 及 PS5 Pro 则支持 VRR，可在兼容显示设备上实现最高 60 FPS 的可变刷新率。PS5 和 PS4 Pro 支持 1440p 分辨率，上一代主机平台则继续提供 1080p 分辨率。</p><p data-vmark=\"cefe\">官方同步为游戏引入了一系列更新，游戏将迎来“The Slasher”全新人物，玩家将追捕一名名为“The Slasher”的连环杀手。同时游戏还改进了武器制作系统、加入 Legacy Seasons（经典赛季）功能，允许错过往期赛季的玩家重新体验其中一个旧赛季（与当前赛季同时进行）。首个经典赛季为“Armor Ace and the Power Patrol in Cold Steel”，将持续整个第 26 赛季。</p>",
+      "link": "https://www.ithome.com/1/004/421.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/421.htm"
+    },
+    {
+      "id": 782,
+      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
+      "summary": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（IT之家注：现汇率约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（现汇率约合 5.75 万亿元人民币）。 自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。",
+      "content": "<p data-vmark=\"26e3\">IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1.87 万亿元人民币）</span>负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元<span class=\"exch-money-value\">（现汇率约合 5.75 万亿元人民币）</span>。</p><p data-vmark=\"ecb5\">自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。</p><p data-vmark=\"88fa\">自由现金流为负，<strong>通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。</strong></p><p data-vmark=\"e77e\">根据该演示文稿，OpenAI 公司的支出将远远超过收入，存在较大的资金缺口，在未来 5 年需要通过融资不断“烧钱”。</p><p data-vmark=\"4647\">收入方面，OpenAI 公司收入预估营收为 360 亿美元<span class=\"exch-money-value\">（现汇率约合 2,417.07 亿元人民币）</span>，2030 年升至 3,500 亿美元<span class=\"exch-money-value\">（现汇率约合 2.35 万亿元人民币）</span>，收入预计接近增长 10 倍，从 2026 年至 2030 年底累计营收预估为 8,400 亿美元<span class=\"exch-money-value\">（现汇率约合 5.64 万亿元人民币）</span>。</p><p data-vmark=\"d46e\">尽管收入快速增长，但文稿显示 OpenAI 公司的支出增速更快，到 2030 年年底，用于计算能力和基础设施的单项 AI 基建支出累计投入需 8,560 亿美元<span class=\"exch-money-value\">（现汇率约合 5.75 万亿元人民币）</span>。</p><p data-vmark=\"262f\">OpenAI 需持续购置数据中心和计算资源，用于训练及运行模型。在竞争方面，为了应对开放权重模型，以及 Anthropic 公司，OpenAI 公司未来还需要下调部分产品价格，从而影响公司相关营收。</p><p data-vmark=\"7681\">OpenAI 在 2026 年 3 月融资 1,220 亿美元<span class=\"exch-money-value\">（现汇率约合 8,191.19 亿元人民币）</span>。演示文稿显示，按当前预测，公司将在 2028 年耗尽这笔资金。</p><p data-vmark=\"841d\">融资方面，OpenAI 近期启动一轮大规模融资谈判。投资方曾讨论按 1.2 万亿美元<span class=\"exch-money-value\">（现汇率约合 8.06 万亿元人民币）</span>估值注资，而接近公司的消息人士称，OpenAI 寻求更高估值。</p>",
+      "link": "https://www.ithome.com/1/004/420.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/420.htm"
+    },
+    {
+      "id": 783,
+      "title": "美国弗吉尼亚州宣布成立“人工智能工作组”，同步公布“数据中心问责框架”加强建设监管",
+      "summary": "IT之家 9 月 19 日消息，据外媒 The Verge 报道，美国弗吉尼亚州州长 Abigail Spanberger 近日签署第 22 号行政命令（Executive Order 22），宣布成立“人工智能工作组”，评估 AI 快速发展可能带来的就业、数据隐私和网络安全风险。官方同步公布“数据中心问责框架”（Data Center Accountability Framework），计划进一步加强对数据中心建设的监管，并提高地方社区在相关项目审批中的参与程度。 根据行政",
+      "content": "<p data-vmark=\"49e6\">IT之家 9 月 19 日消息，据外媒 The Verge 报道，美国弗吉尼亚州州长 Abigail Spanberger 近日签署第 22 号行政命令（Executive Order 22），宣布成立“人工智能工作组”，评估 AI 快速发展可能带来的就业、数据隐私和网络安全风险。官方同步公布“数据中心问责框架”（Data Center Accountability Framework），<strong>计划进一步加强对数据中心建设的监管，并提高地方社区在相关项目审批中的参与程度</strong>。</p><p data-vmark=\"ed8f\">根据行政命令，弗吉尼亚州政府行政部门、机构、委员会及其他受州长监督的单位，将不得针对商业数据中心项目签署或要求签署保密协议。州政府还将加快制定数据中心噪声监管规定，并对数据中心使用的柴油发电机等备用发电设施进行全面审核，同时为地方政府和社区制定数据中心规划及社区参与工具。</p><p data-vmark=\"80dc\">在环境方面，框架计划针对数据中心的能源效率、用水、土地使用以及备用发电设施建立更严格的标准，并评估柴油备用发电机对环境的累计影响。州政府还计划要求现有和未来的数据中心逐步采用更加清洁的备用电力，同时制定更明确的用水标准，加快数据中心噪声监管措施落地。</p><p data-vmark=\"c782\">在能源成本方面。弗吉尼亚州政府计划要求公用事业公司将更多输电和发电成本分配给数据中心等大型用电客户，避免相关基础设施成本转嫁给普通电力用户。此外，州政府还计划要求数据中心承担因其新增用电需求而产生的部分 PJM 电力互联成本，并要求开发商提供更强的前期资金承诺，以减少尚未落实的项目长期占用土地、电网资源和能源基础设施的情况。</p><p data-vmark=\"8ed9\">同时，框架要求数据中心满足相关电力需求稳定性标准，避免用电需求突然变化对电网造成冲击，同时限制数据中心通过现场天然气发电或表后天然气发电满足用电需求的规模。州政府还计划优先为投资清洁能源的数据中心提供电网接入，并进一步推动数据中心建设自有清洁能源设施。</p><p data-vmark=\"eda7\">IT之家注意到，弗吉尼亚州近年来已经成为美国数据中心建设最集中的地区之一，尤其是北弗吉尼亚州 Loudoun County 一带。州政府此次公布的新框架既包含立即通过行政命令实施的措施，也包括计划提交给 2027 年州议会会议审议的立法内容，因此部分政策能否最终转化为长期法律仍取决于后续立法程序。</p><p data-vmark=\"9cd3\">目前，当地环保组织和部分地方人士已经对相关措施表示支持，但也有批评者认为政策仍有进一步收紧空间，现有方案力度仍然不足。</p>",
+      "link": "https://www.ithome.com/1/004/413.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/413.htm"
+    },
+    {
+      "id": 784,
+      "title": "投行 Piper 称亚马逊、苹果、AMD 等正评估英特尔 14A 半导体工艺",
+      "summary": "IT之家 9 月 19 日消息，美国投行 Piper Sandler 最新研报指出，亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通（按照研报排序）正在评估英特尔 14A 制程。 Intel 14A 是英特尔规划中的 1.4nm 级制程节点。该节点采用背面供电方案 PowerDirect，并引入 RibbonFET 2 晶体管与第 2 代全环绕栅极架构。 IT之家曾于 8 月报道，Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect",
+      "content": "<p data-vmark=\"082e\">IT之家 9 月 19 日消息，美国投行 Piper Sandler 最新研报指出，<strong>亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通（按照研报排序）正在评估英特尔 14A 制程。</strong></p><p data-vmark=\"f41c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ac36bb78-ff85-419c-82a7-2cdfbda1a883.png\" w=\"1123\" h=\"2250\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fintelfabs%2Fstatus%2F2100802972846260373%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fintelfabs%2Fstatus%2F2100802972846260373%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"06e6\" class=\"no-alt-img\"></p><p data-vmark=\"f071\">Intel 14A 是英特尔规划中的 1.4nm 级制程节点。该节点采用背面供电方案 PowerDirect，并引入 RibbonFET 2 晶体管与第 2 代全环绕栅极架构。</p><p style=\"text-align: center;\" data-vmark=\"d8d6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4d5a019e-8711-4ba4-b826-5e103cc8ee81.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"238\" data-weibo=\"1\" data-vmark=\"acbc\" class=\"no-alt-img\"></p><p data-vmark=\"2072\">IT之家曾于 8 月报道，Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。</p><p data-vmark=\"7f7a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f1814f89-6c52-4a86-89c9-c1dd39910f95.png?x-bce-process=image/format,f_auto\" w=\"811\" h=\"676\" data-weibo=\"2\" data-vmark=\"9896\" class=\"no-alt-img\"></p><p data-vmark=\"9067\">英特尔首席执行官陈立武强调，14A 在缺陷密度和晶体管性能两项关键指标上均已超越 18A 同期表现。14A 的 0.5 版本 PDK（工艺设计套件）已向客户开放，0.9 版本 PDK 预计于 2026 年 10 月发布。</p><p data-vmark=\"aa1d\">报道称，英特尔 Fab 62 厂房主体接近完工。该厂若为 14A 新增约每月 20,000 片晶圆产能，设备投入约需 100 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 671.41 亿元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/004/412.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/412.htm"
+    },
+    {
+      "id": 785,
+      "title": "英伟达 GPU 驱动 Bug 被修复：RPCS3 模拟游戏帧率提升 37%、显存占用降低 32%",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称 RPCS3 开发团队修复 NVIDIA GPU 驱动程序的一个 Bug，模拟游戏测试发现帧率可以提高 37%、显存占用降低 32%。 IT之家援引博文介绍，RPCS3 开发团队指出在 NVIDIA GPU 驱动程序中，存在影响模拟器性能的问题，会限制部分游戏的帧率，并在多数测试中推高显存占用。 贡献者 Yahfz 找到修复方案，可以变通缓解该驱动 Bug 影响，从而提高模拟器",
+      "content": "<p data-vmark=\"b9c9\">IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称 RPCS3 开发团队修复 NVIDIA GPU 驱动程序的一个 Bug，<strong>模拟游戏测试发现帧率可以提高 37%、显存占用降低 32%。</strong></p><p data-vmark=\"9e63\">IT之家援引博文介绍，RPCS3 开发团队指出在 NVIDIA GPU 驱动程序中，存在影响模拟器性能的问题，会限制部分游戏的帧率，并在多数测试中推高显存占用。</p><p style=\"text-align: center;\" data-vmark=\"a184\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/97c98409-66c2-4b83-9d90-09f0ebea06a9.png\" w=\"1123\" h=\"2028\" data-vmark=\"fe94\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d192d243b24ec8b5d6aeeaa623d92c20d632bc6daff58d7d11cadb696f6d02a5f8985aa6b61f0bc82d\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100673664236855323%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100673664236855323%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"3149\">贡献者 Yahfz 找到修复方案，可以变通缓解该驱动 Bug 影响，从而提高模拟器性能。开发团队在《GT 赛车 5》开放道路场景中，Ryzen 7 9850X3D 与 RTX 3070 的组合，帧率从 107 提升至 147，增幅为 37%。同一测试中，显存占用从 7.1GB 降至 4.8GB，降幅为 32%。</p><p style=\"text-align: center;\" data-vmark=\"91b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2ccbbb6e-e966-496b-a0e5-f313f510f0c8.png\" w=\"1123\" h=\"1533\" data-vmark=\"b70a\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d19495830661ee50a228b604362de394e90fc3863b89166e163de152b2e95d4c4489e82c7c1e277edb\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100302579619987841%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100302579619987841%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"517f\">另一组《GT 赛车 5》测试采用 Core i9-12900K 与 RTX 5070，帧率从 60 提升至 67，增幅为 12%。</p><p data-vmark=\"fc95\">在另一项测试中，在 Ryzen 7 9800X3D 与 RTX 5090 的组合下，《荒野大镖客：救赎》游戏帧率提升 25%。</p><p style=\"text-align: center;\" data-vmark=\"0e13\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/251e2e1d-303d-4d5b-9577-e1cd357a2e54.png\" w=\"1123\" h=\"1623\" data-vmark=\"7819\" data-mpos=\"2,0\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d130513f354553f586a41113da85766167133aefcb6b1d0a8e3a9ec2c9f6c2c439fcd405567fac5a65\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100302575954268238%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2100302575954268238%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"993c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c257adcc-5921-4acc-9cf4-c26d89bcf042.png\" w=\"1123\" h=\"1747\" data-vmark=\"001d\" data-mpos=\"2,0\" data-weibo=\"3\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2101025044017164412%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Frpcs3%2Fstatus%2F2101025044017164412%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"1b43\">RPCS3 是一款用于在个人电脑上运行部分 PlayStation 3 游戏软件的开源模拟器。它通过软件方式模拟 PS3 的处理器、图形与系统环境，使兼容的游戏可在 Windows、Linux 等电脑系统中运行。</p>",
+      "link": "https://www.ithome.com/1/004/408.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/408.htm"
+    },
+    {
+      "id": 786,
+      "title": "集邦咨询：AI 基建瓶颈正从“缺芯”转向“缺电”",
+      "summary": "IT之家 9 月 19 日消息，集邦咨询（TrendForce）于 9 月 16 日发布 AI Server 产业研究，指出 AI 发展的下一道瓶颈正从芯片转向电力与电网。 TrendForce 估计，AI 服务器在数据中心电力需求中的占比将从 2025 年约 25% 增至 2026 年约 33.4%，2027 年可能超过 40%，意味着未来云计算基础设施将更多围绕 AI 重构。 报告估计 2026 年全球数据中心用电需求容量约 161 GW、同比增长约 31%，而电网的接入",
+      "content": "<p data-vmark=\"82a7\">IT之家 9 月 19 日消息，集邦咨询（TrendForce）于 9 月 16 日发布 AI Server 产业研究，<strong>指出 AI 发展的下一道瓶颈正从芯片转向电力与电网。</strong></p><p data-vmark=\"3317\">TrendForce 估计，<strong>AI 服务器在数据中心电力需求中的占比将从 2025 年约 25% 增至 2026 年约 33.4%，2027 年可能超过 40%</strong>，意味着未来云计算基础设施将更多围绕 AI 重构。</p><p data-vmark=\"4a54\">报告估计 2026 年全球数据中心用电需求容量约 161 GW、同比增长约 31%，而电网的接入和输配电建设速度未必跟得上；电力接入、变压器、输电线路和散热能力都可能推迟新机房投产。</p><p data-vmark=\"6282\">TrendForce 认为供需背离会在 2028 年后扩大；按其情境估计，2030 年数据中心需求容量可达 490.7 GW，而电网可供给数据中心的容量约 222.6 GW，账面缺口约 268 GW。</p><p style=\"text-align: center;\" data-vmark=\"0ed3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fcce4fc3-816f-4740-a993-2f2993283318.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"560\" data-weibo=\"0\" data-vmark=\"029b\" class=\"no-alt-img\"></p><p data-vmark=\"6348\">IT之家此前报道，在 SEMICON Taiwan 2026 活动中，谷歌宣布其 TPU 系统已扩展至 100 万芯片级规模，<strong>而电力供应成为 AI 基础设施扩张的核心瓶颈。</strong></p><p data-vmark=\"60e7\">谷歌首席技术官阿明 · 瓦赫达特（Amin Vahdat）指出，随着 AI 模型规模不断扩大，制约扩张的核心瓶颈已从芯片本身转移至<span class=\"pc-anchor\">电力供给</span>，<strong>AI 算力的天花板正在从“造不出芯片”变成“找不到电”。</strong></p><p data-vmark=\"fc73\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"381f\"><a href=\"https://www.trendforce.cn/presscenter/news/20260916-13238.html\" target=\"_blank\">TrendForce 集邦咨询：预估 2026 年全球数据中心用电需求年增 31%，电网供应缺口自 2028 年扩大</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/004/402.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/402.htm"
+    },
+    {
+      "id": 787,
+      "title": "联想旗下摩托罗拉预热 Signature 27 旗舰手机：后置 2 亿像素主摄、有望搭载第六代骁龙 8 系列芯片",
+      "summary": "IT之家 9 月 19 日消息，联想旗下摩托罗拉现已开始预热旗下旗舰手机 Signature 27，官方透露将于 9 月 22 日公布更多信息。 参考官方先前发布的预热视频，其开头写着“Every material. Obsessed.”（每一种材质，都极致追求），随后展示不同质感后盖版本的苔藓绿配色手机背面（可以看到该机后置 2 亿像素主摄）。视频中还出现一款未具名的芯片，视频结尾确认了产品名称“Signature 27”，同时公布 9 月 22 日这一日期线索。 值得注意",
+      "content": "<p data-vmark=\"b0b2\">IT之家 9 月 19 日消息，联想旗下摩托罗拉现已开始预热旗下旗舰手机 Signature 27，官方透露将于 9 月 22 日公布更多信息。</p><p data-vmark=\"f8cc\">参考官方先前发布的预热视频，其开头写着“Every material. Obsessed.”（每一种材质，都极致追求），随后展示不同质感后盖版本的苔藓绿配色手机背面（可以看到该机后置 2 亿像素主摄）。视频中还出现一款未具名的芯片，视频结尾确认了产品名称“Signature 27”，同时公布 9 月 22 日这一日期线索。</p><p style=\"text-align: center;\" data-vmark=\"b2d5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/eb9b20ec-bde4-488e-a3df-e222b7d85d7c.png?x-bce-process=image/format,f_auto\" w=\"924\" h=\"1204\" data-weibo=\"0\" data-vmark=\"7aa9\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"5fdf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/96a77cf7-d557-4329-b85b-23169286813b.png?x-bce-process=image/format,f_auto\" w=\"906\" h=\"1040\" data-weibo=\"1\" data-vmark=\"a145\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"2c17\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/afbf313d-e168-4cdf-85e9-302ac986d3e9.png?x-bce-process=image/format,f_auto\" w=\"882\" h=\"750\" data-weibo=\"2\" data-vmark=\"6a89\" class=\"no-alt-img\"></p><p data-vmark=\"86d5\">值得注意的是，高通年度骁龙峰会将于 9 月 22 日至 24 日举行。如果摩托罗拉此次预热确实与高通合作有关，这意味着该机有望搭载高通第六代骁龙 8 系列芯片，但不确定搭载的是标准版还是至尊版。</p><p data-vmark=\"7eeb\">除此之外，Signature 27 网页的源代码中可以找到一段 \"Crystals by Swarovski logo\" 的注释，这意味着该机很可能会引入施华洛世奇水晶装饰版本。</p><p data-vmark=\"a784\">作为参考，2026 款 Signature（Signature 26）手机配备 6.8 英寸屏幕，基于高通第五代骁龙 8 处理器，配备 5200mAh 电池，质量 186g，规格类似国内市场发售的 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/01/21/bb675e6c-5651-4f58-b473-04c002a23a4a.jpg?x-bce-process=image/format,f_webp\" data-topic-id=\"59367\">moto X70 Air Pro</span>。</p>",
+      "link": "https://www.ithome.com/1/004/400.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/400.htm"
+    },
+    {
+      "id": 788,
+      "title": "家电“免费安装”成文字游戏，消协揭露三大套路",
+      "summary": "IT之家 9 月 19 日消息，据央视今日报道，家电“免费安装”在实际操作中常变为“基础安装免费、其他事项变相收费”。 山西太原市民马女士安装燃气热水器时，商家宣传免费安装。实际上门后免了人工费，但排烟管、角阀、燃气管等耗材收费 500 多元，还包括打孔费用。她称整机才 3000 元，安装耗材就花了 500 多元。 内蒙古呼和浩特市民王先生年初装修新房，购置多款家电。蒸烤一体机无需额外配件，扫地机器人因家中已有软水系统未产生附加费，其余家电上门安装时均被收取耗材费。他称线下购",
+      "content": "<p data-vmark=\"64a0\">IT之家 9 月 19 日消息，据央视今日报道，家电“免费安装”在实际操作中常变为“基础安装免费、其他事项变相收费”。</p><p style=\"text-align: center;\" data-vmark=\"1a5f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/84685fe7-b72c-4cf9-893e-8bedc1bbeac6.jpg?x-bce-process=image/format,f_auto\" w=\"840\" h=\"989\" data-weibo=\"0\"  data-vmark=\"2382\" class=\"no-alt-img\"></p><p data-vmark=\"2fc5\">山西太原市民马女士安装燃气热水器时，商家宣传免费安装。实际上门后免了人工费，但排烟管、角阀、燃气管等耗材收费 500 多元，还包括打孔费用。她称整机才 3000 元，安装耗材就花了 500 多元。</p><p data-vmark=\"c801\">内蒙古呼和浩特市民王先生年初装修新房，购置多款家电。蒸烤一体机无需额外配件，扫地机器人因家中已有软水系统未产生附加费，其余家电上门安装时均被收取耗材费。他称线下购买时销售未告知额外收费。</p><p data-vmark=\"90cd\">山西吕梁市民成先生 2023 年 3 月购买一台冰箱，今年年初冰箱出现异响。客服称整机保修一年、零部件保修三年，但即便在零部件保修期内，师傅上门检修仍需收取上门费，他因此放弃检修。</p><p data-vmark=\"99b7\">山东省消费者协会工作人员李倩介绍，家电“免费安装”主要有三大套路。IT之家汇总如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c6d7\">一是免费安装缩水，即免基础人工费，辅材和特殊工况费不提前告知，甚至以影响质保为由强制推销高价配件。</p></li><li><p data-vmark=\"c29b\">二是文字套路，用页面小字模糊标注收费条款，信息不透明。</p></li><li><p data-vmark=\"40c6\">三是空跑费、勘察费，安装前不告知，无法施工时才临时收费，侵犯消费者知情权。</p></li></ul><p data-vmark=\"8359\">李倩表示，空调、热水器、油烟机、灶具问题较为集中，因工序复杂、辅材多、工况差异大。净水器、嵌入式家电、大屏电视等安装也存在类似问题。</p><p data-vmark=\"094a\">消费者遇到未提前告知的项目，应第一时间拨打企业官方售后核实收费项目与标准，不轻信安装人员口头说辞。可先与商家协商，协商无果可通过 12345 热线、全国消协智慧 315 平台或属地消协投诉。</p><p data-vmark=\"8bd1\">遭遇恶意欺诈可通过司法途径维权。高效维权核心是留存完整证据链，重点保存商家宣传页面、沟通记录、收费付款凭证、现场实景资料及事前费用确认记录。</p><p data-vmark=\"0b61\">李倩解释称，家电安装外包模式是行业乱收费因素之一，加上部分企业重销售、轻售后，缺乏完善第三方考核机制。消协提出两项规范建议。</p><p data-vmark=\"2134\">一是压实企业主体责任，统一公示安装收费标准、辅材明细和特殊工况费用，健全第三方服务商准入考核和黑名单退出机制。二是规范上门服务流程，推行事前报价、全程透明、事后溯源。</p><p data-vmark=\"e4f0\">下一步，消协将通过风险提示、案例点评倒逼企业及第三方服务商整改，联动相关部门推动完善家电安装服务标准和收费公示规范。</p>",
+      "link": "https://www.ithome.com/1/004/397.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/397.htm"
+    },
+    {
+      "id": 791,
+      "title": "Modder Builds Split Keyboard With Integrated Joysticks and One-Handed Gaming Functionality",
+      "summary": "The Tiwaz is an open-source split keyboard product that started as a DIY project and morphed into something a little more concrete and comprehensive. Unlike traditional split ergonomic keyboards, like the MoErgo Go60 and ZSA Voyager, which ",
+      "content": "The Tiwaz is an open-source split keyboard product that started as a DIY project and morphed into something a little more concrete and comprehensive. Unlike traditional split ergonomic keyboards, like the MoErgo Go60 and ZSA Voyager, which generally eschew any thoughts of gaming prowess in favor of ergonomics, the Tiwaz was designed with gaming in mind. Specifically, its designer, Timo Strube, explains in the project's GitHub that &quot;each half works standalone as a one-handed controller or macro pad,&quot; allowing it to be used by left-and right-handed users. The keyboard uses hot-swap sockets compatible with standard MX-style mechanical switches, giving it a wider degree of customization. <br />\r\n<br />\r\nThe Tiwaz uses a split ortholinear layout, meaning the keys are arranged in straight rows and columns, instead of the offsets present in both columnar stagger and row stagger layouts. Another interesting feature in the Tiwaz is that it features two thumb joysticks—one on the inner side of the keyboard itself. These can be configured to output cardinal directions, analog directions like a gamepad, or even mouse movements. The actual layout of the keyboard is also rather unorthodox, even for a split keyboard, with a total of 76 keys (38 per side), which is already a lot for a split keyboard, which usually hover around 50-60 keys at most. It also has a gasket-mounted case design, which also runs counter to many split ergonomic keyboards that forego features like gasket mounts in search of thinner cases for ergonomics purposes.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/fiEoW3DIUGZ9TiCP.jpg\" target=\"_blank\" data-width=\"1706\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/fiEoW3DIUGZ9TiCP_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/LXVnIBCmW0rHxGH7.jpg\" target=\"_blank\" data-width=\"1282\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/LXVnIBCmW0rHxGH7_thm.jpg\" width=\"174\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1x2EuQ8Uj4IPHHOo.jpg\" target=\"_blank\" data-width=\"1706\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/1x2EuQ8Uj4IPHHOo_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/sdGgxtI8BtDILDLh.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/sdGgxtI8BtDILDLh_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352853/modder-builds-split-keyboard-with-integrated-joysticks-and-one-handed-gaming-functionality\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352853/modder-builds-split-keyboard-with-integrated-joysticks-and-one-handed-gaming-functionality",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "c4ac70226f41a86b0391801d8720304e"
+    },
+    {
+      "id": 798,
+      "title": "Akasa Newton N16: Fanless mini PC case launched with wall-mounting support",
+      "summary": "Akasa has introduced the Newton N16, which happens to be a compact passively cooled case for the Asus NUC 16 Pro mini PC. The case is capable of offering up to 28 W of heat dissipation as well as passive cooling for dual M.2 SSDs.",
+      "content": "Akasa has introduced the Newton N16, which happens to be a compact passively cooled case for the Asus NUC 16 Pro mini PC. The case is capable of offering up to 28 W of heat dissipation as well as passive cooling for dual M.2 SSDs.",
+      "link": "https://www.notebookcheck.net/Akasa-Newton-N16-Fanless-mini-PC-case-launched-with-wall-mounting-support.1402682.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Akasa-Newton-N16-Fanless-mini-PC-case-launched-with-wall-mounting-support.1402682.0.html"
+    },
+    {
+      "id": 799,
+      "title": "Lenovo laptop with 24 GB RAM and AMD Ryzen APU scores $550 discount",
+      "summary": "Deal | Courtesy of an ongoing sale on Best Buy, the well-equipped Lenovo Yoga 7a laptop with 24 GB of RAM and a decent AMD Ryzen AI 7 APU is now available with a sizable discount for a limited time.",
+      "content": "Deal | Courtesy of an ongoing sale on Best Buy, the well-equipped Lenovo Yoga 7a laptop with 24 GB of RAM and a decent AMD Ryzen AI 7 APU is now available with a sizable discount for a limited time.",
+      "link": "https://www.notebookcheck.net/Lenovo-laptop-with-24-GB-RAM-and-AMD-Ryzen-APU-scores-550-discount.1403095.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-laptop-with-24-GB-RAM-and-AMD-Ryzen-APU-scores-550-discount.1403095.0.html"
+    },
     {
       "id": 628,
       "title": "三星美国泰勒工厂提前试产特斯拉AI5芯片",
@@ -971,6 +1353,225 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Asus-releases-new-AI-mini-PC-with-powerful-Snapdragon-processor-and-up-to-32GB-RAM.1402395.0.html"
+    },
+    {
+      "id": 767,
+      "title": "格芯与美满电子深化合作 加速硅光子技术在大规模数据中心落地",
+      "summary": "面对全球人工智能大模型与高性能计算对数据传输带宽及能效提出的严苛挑战，半导体晶圆代工巨头格芯（GlobalFoundries）与光互连及芯片解决方案领军企业美满电子（Marvell Technology）宣布达成深度战略合作。双方将全面扩大在硅光子（Silicon Photonics）制造与封装技术领域的协作，旨在加速下一代高密度、低延迟且低功耗的硅光子光互连平台在 AI 数据中心与超大规模云端基础设施中的商业化部署。 阅读全文",
+      "content": "<p>面对全球人工智能大模型与高性能计算对数据传输带宽及能效提出的严苛挑战，半导体晶圆代工巨头格芯（GlobalFoundries）与光互连及芯片解决方案领军企业美满电子（Marvell Technology）宣布达成深度战略合作。双方将全面扩大在硅光子（Silicon Photonics）制造与封装技术领域的协作，旨在加速下一代高密度、低延迟且低功耗的硅光子光互连平台在 AI 数据中心与超大规模云端基础设施中的商业化部署。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578660.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578660.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578660.htm"
+    },
+    {
+      "id": 768,
+      "title": "美版iPhone 18 Pro Max确认搭载高通Snapdragon X80基带",
+      "summary": "随着苹果公司新一代旗舰手机 iPhone 18 系列正式在全球开售，关于不同市场机型硬件配置的更多细节也随之浮出水面。根据官方技术规格说明与固件代码数据，在美国市场发售的旗舰机型 iPhone 18 Pro Max 成为该系列中唯一一款沿用高通基带芯片的设备，搭载了高通 Snapdragon X80 5G 基带；而美版 iPhone 18 Pro 以及全球其他国家和地区销售的全系 Pro 与 Pro Max 机型，则已全面换装苹果自研的 C2 5G 基带芯片。 阅读全文",
+      "content": "<p>随着苹果公司新一代旗舰手机 iPhone 18 系列正式在全球开售，关于不同市场机型硬件配置的更多细节也随之浮出水面。<strong>根据官方技术规格说明与固件代码数据，在美国市场发售的旗舰机型 iPhone 18 Pro Max 成为该系列中唯一一款沿用高通基带芯片的设备，搭载了高通 Snapdragon X80 5G 基带；</strong>而美版 iPhone 18 Pro 以及全球其他国家和地区销售的全系 Pro 与 Pro Max 机型，则已全面换装苹果自研的 C2 5G 基带芯片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578658.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578658.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578658.htm"
+    },
+    {
+      "id": 769,
+      "title": "科研人员揭示脑神经高效运算机制 可助力下一代类脑芯片研发",
+      "summary": "神经科学与计算技术交叉领域近日取得重要研究进展。来自国际联合科研团队的最新发现，成功揭示了人脑神经网络在处理复杂信息与记忆检索时的高效协作机制，这一成果为突破传统计算架构的能效瓶颈、打造更接近人类大脑工作方式的下一代“类脑计算机”（Neuromorphic Computing）提供了全新的理论支撑与技术路线。 阅读全文",
+      "content": "<p>神经科学与计算技术交叉领域近日取得重要研究进展。来自国际联合科研团队的最新发现，成功揭示了人脑神经网络在处理复杂信息与记忆检索时的高效协作机制，这一成果为突破传统计算架构的能效瓶颈、打造更接近人类大脑工作方式的下一代“类脑计算机”（Neuromorphic Computing）提供了全新的理论支撑与技术路线。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578650.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1578650.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1578650.htm"
+    },
+    {
+      "id": 789,
+      "title": "AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
+      "summary": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
+      "content": "<article>\n                                <p>Following the<a href=\"https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds\"> launch of AMD's EPYC 'Venice' CPUs in July</a>, AMD extended the performance claims for its upcoming generation of server chips on Friday. The high-level claim hasn't changed. AMD still says a 96-core, high-frequency Venice chip is around 20% faster than Nvidia's 88-core Vera in SPEC CPU 2026's Integer Rate test. However, the company went into far greater detail about the benchmarks in<a href=\"https://www.amd.com/content/dam/amd/en/documents/epyc-business-docs/white-papers/amd-epyc-9006-server-cpus-architectural-leadership.pdf\"> a new white paper</a>. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Tom's Hardware Premium Roadmaps</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"JY32VXJVXoHUR8NRV2Kveb\" name=\"HBM graphic 1\" caption=\"\" alt=\"a snippet from the HBM roadmap article\" src=\"https://cdn.mos.cms.futurecdn.net/JY32VXJVXoHUR8NRV2Kveb-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Future)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/leading-edge-foundry-roadmaps-for-tsmc-intel-and-samsung-outlining-the-path-to-1-4nm-nodes-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=roadmap\">Leading-edge foundry roadmaps</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics?utm_source=edit-links&utm_medium=boxout&utm_term=roadmap\">Nvidia Enterprise GPU and CPU roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/amds-enterprise-cpu-and-gpu-roadmap-venice-verano-zen-6-helios-and-cdna?utm_source=edit-links&utm_medium=boxout&utm_term=roadmap\">AMD's Enterprise GPU and CPU roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028?utm_source=edit-links&utm_medium=boxout&utm_term=roadmap\">Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity?utm_source=edit-links&utm_medium=boxout&utm_term=roadmap\">Co-Packaged Optics (CPO) foundry roadmaps</a></li></ul></p></div></div><p>There are several configuration differences depending on the benchmark throughout AMD's white paper, and although we'll call out those differences here to the best of our ability, we don't have all of the details. For the Vera comparison, in particular, AMD is mixing data from different sources, and in some cases, using different major releases of the GNU Compiler Collection (GCC). That can have a substantial impact on performance, so keep your salt shaker handy. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:838px;\"><p class=\"vanilla-image-block\" style=\"padding-top:63.25%;\"><img id=\"dcSCvUxLUQTpW4vzdCSXUg\" name=\"venice benchmarks 1\" alt=\"Venice benchmarks\" src=\"https://cdn.mos.cms.futurecdn.net/dcSCvUxLUQTpW4vzdCSXUg-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"838\" height=\"530\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>First up are results in SPEC CPU 2026 with the intrate test, looking at total throughput. These are older numbers, gathered in July with GCC 15.2. The intrate test runs multiple copies of an application on the same CPU, and the SOP is to run one copy per thread. Presumably, that's what AMD did here, but the white paper doesn't clarify, even in the footnotes.</p><p>The 256-core 9996 is 2.37x faster than the Intel Xeon 6980P and 2.24x faster than Vera according to the slide. The white paper clarifies the mystery 9006 CPU is the 256-core flagship. Perhaps most impressive is AMD's gen-on-gen comparison. According to these results, the 9996 is around 78% faster than last-gen's 192-core EPYC 9965.</p><p>Although the high-level results bring in data from Intel and AWS, much of the white paper focused squarely on the comparison between Venice and Vera. AMD broke down the individual subtests of SPEC CPU 2026 intrate in the white paper, which you can see below.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:910px;\"><p class=\"vanilla-image-block\" style=\"padding-top:59.34%;\"><img id=\"VdJLbU8WZM3wAXsocNoYzS\" name=\"venice benchmarks 3\" alt=\"Venice benchmarks\" src=\"https://cdn.mos.cms.futurecdn.net/VdJLbU8WZM3wAXsocNoYzS-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"910\" height=\"540\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>The comparison looks good for AMD, naturally, though there are a few wrinkles in the configuration. AMD is testing a down-cored EPYC 9996, dropping from 256 cores to 96 cores. It made no mention of power budget, but when AMD originally shared SPEC numbers, the 96-core model had access to the same 600W as the 256-core model — AMD's 96-core, high-frequency Venice SKU tops out at 500W. More consequential is the compiler, however. AMD is using GCC 16.1 and comparing the results to the ones Nvidia shared in<a href=\"https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more/2\"> its Vera white paper</a>. Nvidia used GCC 15.2.</p><p>Michael Larabel over at <em>Phoronix </em>has<a href=\"https://www.phoronix.com/review/gcc-16-benchmarks\"> a nice write-up about the difference</a> between GCC 15 and 16, but the short story is that there are performance differences, not always for the better. GCC 16 takes longer to compile due to better optimizations, hence the lower scores on the GCC and LLVM compilations above. However, that leads to faster binaries. By how much depends on the flags, software, and a whole host of other factors. Regardless, it's not best practice to compare benchmarks using two different compiler versions. It makes sense that AMD used GCC 16.1 — it includes support for Zen 6 — but ideally Vera would also be on GCC 16.1.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:614px;\"><p class=\"vanilla-image-block\" style=\"padding-top:66.45%;\"><img id=\"bsTpoyTM7Bksy8kqnkBzrM\" name=\"venice benchmarks 4\" alt=\"Venice benchmarks\" src=\"https://cdn.mos.cms.futurecdn.net/bsTpoyTM7Bksy8kqnkBzrM-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"614\" height=\"408\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>Speaking of <em>Phoronix, </em>AMD pulled some data for the publication's initial, controlled testing of Vera. Above, you can see the Stream, an industry-standard benchmark for measuring memory bandwidth. Again, AMD is using a down-cored 9996 from 256 cores to 96, and offering it a 600W power budget. Still, this is an impressive showing, as Vera absolutely clobbered the competition in the publication’s original Stream results. Here, AMD is ahead by about 18%, with per-core performance about 8% ahead. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:764px;\"><p class=\"vanilla-image-block\" style=\"padding-top:50.00%;\"><img id=\"cAypNNupLjhXx8trYSaU7f\" name=\"venice benchmarks 5\" alt=\"Venice benchmarks\" src=\"https://cdn.mos.cms.futurecdn.net/cAypNNupLjhXx8trYSaU7f-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"764\" height=\"382\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>Breaking out of Vera, AMD also showed performance in cloud workloads, including database, Java, and cryptography. Once again, the gen-on-gen comparison stands out, as AMD was already leading in these workloads with its last-gen chips. AMD ran these tests itself, rather than relying on third-party data, though the Graviton5 results came from an AWS cloud instance. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:758px;\"><p class=\"vanilla-image-block\" style=\"padding-top:59.10%;\"><img id=\"Y3ZTh3bsqYFPHv7BupSPS\" name=\"venice benchmarks 6\" alt=\"Venice benchmarks.\" src=\"https://cdn.mos.cms.futurecdn.net/Y3ZTh3bsqYFPHv7BupSPS-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"758\" height=\"448\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>Similarly, in HPC workloads, AMD furthers its lead over Intel's flagship Granite Rapids-AP offering. Intel's next-gen data center CPUs,<a href=\"https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib\"> codenamed Diamond Rapids</a>, are set to be released next year. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:747px;\"><p class=\"vanilla-image-block\" style=\"padding-top:63.45%;\"><img id=\"KrUg73p92NHy9iznKYbe5V\" name=\"venice benchmarks 7\" alt=\"Venice benchmarks\" src=\"https://cdn.mos.cms.futurecdn.net/KrUg73p92NHy9iznKYbe5V-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"747\" height=\"474\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>Finally, we have \"agentic AI workload performance,\" which uses actual benchmarks for comparison, despite what the names in the chart above suggest. From left to right, AMD used NGINX, TPCx-AI kit, FAISS, TPC-H and TPC-C, and a replay of a multi-persona agent. For TPC-H and TPC-C, AMD says it derived workloads from those benchmarks, so the results here aren't comparable to published results.</p><p>Although looking at benchmark results is always interesting, it doesn't say much in the context of a server deployment, at least at the scale that AMD is targeting. Peak performance is only one of the major factors that go into server deployments, after all, and even then, performance can vary wildly depending on what software you're running and how it's built.</p><p>Still, Venice looks impressive, perhaps more so in the gen-on-gen comparison than any competitive comparison. Hopefully that bodes well for AMD's future Zen 6 rollout on consumer desktops, but we'll have to wait until Team Red has more to share before drawing any conclusions on that front.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ivKzdFNP58qaXTRPf46AHn"
+    },
+    {
+      "id": 790,
+      "title": "Details about Intel's next-gen Nova Lake CPUs keep leaking — an attempt to establish a timeline based on what we know so far",
+      "summary": "Over the past two weeks, we've seen an uptick in leaks and rumors about Intel's upcoming Nova Lake CPUs. Here, we piece together what we've heard to try and establish a plausible release timeline.",
+      "content": "<article>\n                                <p>Intel's Nova Lake CPUs are no stranger to leaks. We've been talking about the <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-outlines-plan-to-break-free-from-tsmc-manufacturing-70-percent-of-panther-lake-at-intel-fabs-nova-lake-almost-entirely-in-house\">processors for close to two years now</a>, with <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-series-3-cpus-could-finally-answer-amds-v-cache-nova-lake-could-boast-massive-144mb-l3\">rumors swirling about bLLC</a> and a 52-core flagship for well over a year. However, this week (and this month more broadly), we've seen leaks hit a fever pitch, suggesting that Intel is finally gearing up to release a generation of processors that's been the zeitgeist for over 24 months. </p><p>Intel hasn't shied away from discussing Nova Lake, with Intel's enthusiast channel <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript\">VP Robert Hallock telling <em>Tom's Hardware Premium </em></a>that it's one of the most important launches for the company ever. At the beginning of the year, Intel CEO Lip-Bu Tan said that Nova Lake <a href=\"https://www.tomshardware.com/pc-components/cpus/we-cant-completely-vacate-the-client-market-says-intel-amid-wafer-supply-shortages-nova-lake-still-on-track-for-late-2026-release-14a-in-2028\">would launch in the second half of 2026</a>, and despite <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-reportedly-cans-12xe-option-for-nova-lake-s-desktop-gaming-apu-design-said-to-resurface-with-razor-lake\">expected hubbub about delays/cancellations</a>, that's the North Star Intel itself has set. So, that's also going to be our North Star here. </p><p>There are three stories that have come out over the past week and a half. First, a screenshot of some high-level <a href=\"https://www.tomshardware.com/pc-components/cpus/intels-core-ultra-400-nova-lake-launch-schedule-leaks-out-mass-production-in-q4-first-nova-lake-cpus-in-q1-2027\">details about Nova Lake surfaced online</a>, showing the launch schedule and platform details. The slide in question is almost certainly from one of Intel's partners and not Intel itself. </p><p>Just in the past few days, we've also seen a barrage of Z990 motherboards from ASRock surface in the NBD shipping database, as well as some entries in the SiSoftware database for a next-gen HP EliteBook X <a href=\"https://x.com/momomo_us/status/2100562616662077537\">sporting an unknown Intel processor</a>. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1499px;\"><p class=\"vanilla-image-block\" style=\"padding-top:77.85%;\"><img id=\"XYY92w9rLekHPmYaqnojq4\" name=\"Screenshot 2026-09-18 110459\" alt=\"The NBD database showing Z990 shipments.\" src=\"https://cdn.mos.cms.futurecdn.net/XYY92w9rLekHPmYaqnojq4-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1499\" height=\"1167\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>An increase in the number of leaks/rumors, especially those that are more than a known leaker writing up a post on X, usually points to an imminent launch. We've heard about Nova Lake for over two years, yes, but now we're seeing more concrete details. In addition to the shipping manifest, snapped slide, and SiSoftware results, we also saw two Z990 motherboards ourselves at Computex earlier this year, with a third rumored. We will not predict the Nova Lake release date here. However, the launch is coming soon. That much we're confident in. </p><h2 id=\"intel-39-s-typical-release-cycle-for-desktop-cpus\">Intel's typical release cycle for desktop CPUs</h2><p>In order to establish a timeline, we first need to look back. We could go back far, but we're cutting the timeline short here at Alder Lake. That was when Intel finally moved off 14nm, following generation after generation of either an underwhelming launch or a delayed one, and it's most relevant to what Intel is doing today. </p><div ><table><caption>Intel desktop CPU release cadence</caption><tbody><tr><td class=\"firstcol \" ><p><strong>Generation</strong></p></td><td  ><p><strong>Announcement Date</strong></p></td><td  ><p><strong>Release Date</strong></p></td></tr><tr><td class=\"firstcol \" ><p>Alder Lake (12th-Gen)</p></td><td  ><p>October 27, 2021</p></td><td  ><p>November 4, 2021</p></td></tr><tr><td class=\"firstcol \" ><p>Raptor Lake (13th-Gen)</p></td><td  ><p>September 27, 2022</p></td><td  ><p>October 20, 2022</p></td></tr><tr><td class=\"firstcol \" ><p>Raptor Lake Refresh (14th-Gen)</p></td><td  ><p>October 16, 2023</p></td><td  ><p>October 17, 2023</p></td></tr><tr><td class=\"firstcol \" ><p>Arrow Lake (15th-Gen)</p></td><td  ><p>October 10, 2024</p></td><td  ><p>October 24, 2024</p></td></tr><tr><td class=\"firstcol \" ><p>Arrow Lake Refresh (15th-Gen Plus)</p></td><td  ><p>March 11, 2026</p></td><td  ><p>March 26, 2026</p></td></tr></tbody></table></div><p>The timeline above is fairly straightforward. Intel has, short of 2025, launched a new generation of desktop processors in the fall every year for the past five years. This annual cadence was even more intense previously; 7th-Gen and 8th-Gen CPUs were both released in 2017, and 9th-Gen in 2018.  Then, Intel took a year off and followed up with 10th-Gen in 2020 and 11th-Gen in early 2021. Keep in mind that we're talking about desktop CPU launches with a new microarchitecture here. Obviously, Intel has released a ton of other products in between the gaps. </p><p>The interesting bit about the timeline is actually the end with Arrow Lake Refresh. When we spoke to Robert Hallock earlier this year, <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd\">he told us that a team</a> that was \"pretty much completely different\" worked on Arrow Lake Refresh compared to Arrow Lake. That might explain the strangely large gap between Arrow Lake and Arrow Lake Refresh. Even looking at the Arrow Lake and Arrow Lake Refresh stacks side-by-side, it's obvious that a different mentality went into how they were positioned in the market. That team is in in-place now, and Hallock told us the team is \"moving faster than we ever have in product, in release cadence.\" </p><p>Don't take Hallock's comments about Intel moving faster than ever at face value — he was probably being at least a little hyperbolic — but the sentiment is clear. Following the poor reception of Arrow Lake, Intel reorganized and set a new roadmap in motion that extends out to 2030, and now, that roadmap is being executed, starting earlier this year with Arrow Lake Refresh. That sets up Arrow Lake Refresh similar to 11th-Gen Rocket Lake, serving as somewhat of a stopgap before the next generation properly arrives (that is, thankfully, where the comparisons between Arrow Lake Refresh and Rocket Lake end). </p><p>Back to Nova Lake. Earlier this year at Computex, we saw two Z990 motherboards, one of which we confirmed was not a finalized unit. The complete development process takes generally four to six months for a motherboard, and you can add another two months or so on top of that for channel sales, as pallets of PCBs are loaded onto ships and swim across the Pacific Ocean. That was in June. </p><p>The shipping manifest that surfaced this week showed shipments in July for ASRock. Critically, it also shows shipments from two different sources: Taiwan and Vietnam. Given what we saw at Computex and the two different sources for ASRock, we're firmly past the early prototype and engineering validation stage of motherboard design. Assuming everything goes according to plan, that means Z990 motherboards should be ready to go on store shelves by no later than October or November. </p><p>Keep in mind that does not mean Nova Lake will launch in October or November, just that motherboards will most likely be ready by then. This aligns with what motherboard vendors told us earlier this year, with some brands pointing to Q3 but most to Q4 for a Z990 rollout. </p><h2 id=\"parsing-the-details-about-nova-lake-so-far\">Parsing the details about Nova Lake so far</h2><p>Currently, there are two camps when it comes to when Nova Lake will release. Some say it'll arrive this year, likely in Q4, while others say CES 2027 in January of next year. As we wrote earlier in the article, we will not predict the Nova Lake release date. However, we will side with one of the camps here as more likely based on what we've seen so far. </p><p>Given everything we've seen, a late 2026 launch is more likely. The strongest evidence of that is the comment from Tan earlier this year, where the executive said Nova Lake is \"coming at the end of 2026.\" The critical context is that Tan made that comment as part of his prepared remarks, preceding the actual financials that you hear in an earnings call. An earnings call is not a keynote, and making material promises you knowingly can't keep can land you in hot water. </p><p>Executives massage the truth all the time during earnings calls — that's half the reason there are prepared remarks ahead of the financials. However, that key detail about an end of 2026 launch isn't massaging the truth. It's a concrete claim devoid of weasel words and qualifiers. In addition, Intel's fiscal year aligns with a calendar year; when Tan said end of 2026, he meant end of 2026, regardless of fiscal or calendar year. </p><p>It's possible that something changed between now and January when that call took place. However, the timeline still lines up given the various motherboards that showed up between June and July of this year. At this point, Intel can slide the actual release date around by a bit, but not by months. Retailers aren't going to sit on pallets of motherboards with no home indefinitely. </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2095436456223531461\"><p lang=\"en\" dir=\"ltr\">https://t.co/iDacFgR89a<a href=\"https://twitter.com/cantworkitout/status/2095436456223531461\">September 3, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>The one wrinkle in this is the leaked slide you can see above, which claims Nova Lake will enter mass production in Q4, with a launch in Q1 2027. There are reasons to be skeptical of this slide, however. For starters, the slide doesn't say anything that hasn't been heavily rumored for months (sometimes even years) at this point: 52-core flagship, up to 288MB of bLLC, LGA 1954 socket, and multi-generation socket support.  The strange bit is a mention of Hammer Lake at the bottom of the slide. </p><p>We've heard very little about Hammer Lake, and nothing that's passed muster for us to cover on <em>Tom's Hardware. </em>Even among the rumors, the launch has been pinned somewhere in the 2029/2030 range, if the lineup is even real to begin with. Regardless, Hammer Lake isn't what we'd expect to see next to Razor Lake — the generation rumored to follow Nova — and certainly not what we'd expect to see under a \"Q4 2027+\" badge. </p><p>That doesn't mean the slide is fake; it doesn't appear to be fake. There's some very critical context missing from it, though. It's a Chinese source, but did it come from an OEM? A distributor? A retailer? The validity of the slide changes dramatically depending on that. Further, we're only seeing <em>maybe </em>half of a single slide here. There's too much context missing to take this single slide and run with it as concrete truth. </p><p>At the very least, it fares poorly against prepared comments made by Intel's CEO, motherboards we've seen (and held) ourselves, and have circulated through photos online, and strong indications from Intel's motherboard partners that they'll be ready for a launch in Q4. Add on top of that the fact that Intel took 2025 completely off for new desktop launches (and its usual cadence of launching in the fall), and a Q4 rollout of Nova Lake looks far more likely. </p><p>Likely isn't the same as confirmed. We're still awaiting details on Nova Lake from Intel proper, and hopefully those will arrive soon. Given the anticipation Intel has already built around Nova Lake without a single performance claim or spec shared, we'll have a lot to talk about. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "kJ7if2GzSvkPhrRvVmxAsa"
+    },
+    {
+      "id": 792,
+      "title": "Chinese DRAM Maker CXMT Is Reportedly Preparing to Enter the NAND Flash Market",
+      "summary": "CXMT, China's largest DRAM maker, is reportedly getting ready to enter the NAND flash market. According to a Reuters report citing people familiar with the matter, the company plans to set up a NAND R&D production line at its new plant in B",
+      "content": "CXMT, <a href=\"https://www.techpowerup.com/352285/cxmt-captures-10-of-the-global-dram-market-revenue-share\" target=\"_blank\">China's largest DRAM maker</a>, is reportedly getting ready to enter the NAND flash market. According to a <a rel=\"nofollow\" href=\"https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/\" target=\"_blank\">Reuters report</a> citing people familiar with the matter, the company plans to set up a NAND R&amp;D production line at its new plant in Beijing. CXMT has also set up a research institute in the capital, and NAND development is apparently among its projects there. That would put it up against Samsung and other global players, and against domestic rival YMTC, which already <a href=\"https://www.techpowerup.com/351543/ymtc-surpasses-micron-kioxia-and-sandisk-in-global-storage-market-share\" target=\"_blank\">ranks third in NAND shipments</a>. One of the sources says CXMT has already discussed its plans with customers, including a newly established startup that wants to buy the chips for AI and supercomputer storage products.<br />\r\n<br />\r\nWe also don't know when the R&amp;D line will start running, or whether CXMT intends to go past R&amp;D and trial production into large-scale manufacturing. CXMT and <a href=\"https://www.techpowerup.com/351991/ymtc-wants-to-overtake-samsung-and-sk-hynix-to-become-worlds-largest-nand-maker\" target=\"_blank\">YMTC</a> are often called the &quot;twin stars&quot; of China's memory industry, and they have mostly stayed in separate lanes. That seems to be changing, since <a rel=\"nofollow\" href=\"https://www.reuters.com/world/china/chinese-chipmaker-ymtc-plans-new-factories-amid-heightened-us-sino-trade-2026-04-14/\" target=\"_blank\">Reuters reported</a> in April that YMTC had sent low-power DRAM samples to customers. Both still trail the bigger foreign rivals, but the shortage has given them some pricing power, and CXMT was reportedly <a href=\"https://www.techpowerup.com/351063/cxmt-reportedly-outprices-samsung-for-ddr5-server-memory-amid-surging-demand\" target=\"_blank\">charging more than Samsung</a> for 64 GB DDR5 server modules in July. <a href=\"https://www.techpowerup.com/350922/report-nand-flash-shortages-to-finally-end-in-2027\" target=\"_blank\">TrendForce</a> expects NAND supply tightness to ease only in the second half of next year, and I doubt one R&amp;D line would change that.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/x43Ha49iwz3tVWQF.jpg\" target=\"_blank\" data-width=\"678\" data-height=\"452\" ><img src=\"https://tpucdn.com/img/x43Ha49iwz3tVWQF_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/4VGNHOlj12xEqSDu.jpg\" target=\"_blank\" data-width=\"1160\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/4VGNHOlj12xEqSDu_thm.jpg\" width=\"157\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352845/chinese-dram-maker-cxmt-is-reportedly-preparing-to-enter-the-nand-flash-market",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "8ca6fffb3b228511b65b3577596adc58"
+    },
+    {
+      "id": 793,
+      "title": "Honor Reveals 2 Liter AI Workstation with AMD, Intel, or NVIDIA CPU Options",
+      "summary": "Honor, the smartphone and computer company formerly owned by Huawei, has officially revealed the Tiangong AXB35, a new AI workstation platform that designed for enterprise use and made to run on a choice of AMD, Intel, or NVIDIA hardware in",
+      "content": "Honor, the smartphone and computer company formerly owned by Huawei, has officially revealed the Tiangong AXB35, a new AI workstation platform that designed for enterprise use and made to run on a choice of AMD, Intel, or NVIDIA hardware in a tiny SFF desktop chassis measuring just 70 × 192 × 203 mm, or around 2 L volume. Honor says that the Tiangong SFF PC is designed for everything from high-level office work and local knowledge bases, AI inference workloads, and agentic applications, but it would also be useful as a raw computational workstation for everything from 3D modelling and creative tasks to developing, and even gaming. <br />\r\n<br />\r\nThe Tiangong AXB35 comes in three variants: Standard, Pro, and Ultra, The Standard AXB35 comes equipped with <a href=\"https://www.techpowerup.com/cpu-specs/core-ultra-x7-358h.c4304\" target=\"_blank\">Intel's Core Ultra X7 358H CPU</a>, which features the new Intel Arc B390 iGPU, a total of 16 cores (4× P-Cores, 12× E-Cores, 4× LP E-Cores), and support for up to 96 GB of memory. The Pro version comes with AMD's 16-core Ryzen AI Max+ 395, packing the Radeon 8060S iGPU and up to 128 GB of LPDDR5X memory on a wide 256 GB/s bus. Meanwhile, the Ultra version comes with <a href=\"https://www.techpowerup.com/349554/nvidia-announces-rtx-spark-a-supercomputer-grade-processor-for-windows-pcs-with-agentic-user-interfaces\" target=\"_blank\">NVIDIA's new RTX Spark platform</a>, based on the Arm architecture.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/KSAUy3MrmdRLcrRH.jpg\" target=\"_blank\" data-width=\"1672\" data-height=\"941\" ><img src=\"https://tpucdn.com/img/KSAUy3MrmdRLcrRH_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/4WUysGtCgtDvRmA7.jpg\" target=\"_blank\" data-width=\"771\" data-height=\"850\" ><img src=\"https://tpucdn.com/img/4WUysGtCgtDvRmA7_thm.jpg\" width=\"118\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/nZWm9a4WgIOFqsbz.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"900\" ><img src=\"https://tpucdn.com/img/nZWm9a4WgIOFqsbz_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352844/honor-reveals-2-liter-ai-workstation-with-amd-intel-or-nvidia-cpu-options\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352844/honor-reveals-2-liter-ai-workstation-with-amd-intel-or-nvidia-cpu-options",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5bd1d2b029aa061bc6045e5d7c6b3ae4"
+    },
+    {
+      "id": 794,
+      "title": "Mchose Launches Ace75 Hall Effect Gaming Keyboard on Kickstarter",
+      "summary": "Mchose, a brand known for making affordable high-performance gaming peripherals, has officially launched the Ace75, a new Hall effect gaming keyboard with a 75% layout and a focus on both aesthetics and gaming performance. Mchose hasn't spe",
+      "content": "Mchose, a brand known for making affordable high-performance gaming peripherals, has officially launched the Ace75, a new Hall effect gaming keyboard with a 75% layout and a focus on both aesthetics and gaming performance. Mchose hasn't specified what the keyboard is made from, but the images on the Kickstarter page suggest an aluminium case that's been anodized to color-match the keycaps for various colorways. On Kickstarter, the Mchose Ace75 starts at $109, but the MSRP will be $149 when it eventually launches out of the <a rel=\"nofollow\" href=\"https://www.kickstarter.com/projects/mchose/mchose-ace-75-pro-performance-hall-effect-keyboard/description#\" target=\"_blank\">Kickstarter</a>. <br />\r\n<br />\r\nThe Ace75 offers the choice of two switches, depending on what keyboard color you choose: the Moon Rock Grey keyboard will come with Berserker Magnetic Switches, while the more exciting Mecha Green, Navy Blue, and Midnight Purple versions will come with TTC Royal Steed switches. The Moon Rock Grey colorway will also be the only one of the lot to ship with opaque PBT keycaps, while the other three colorways come with translucent polycarbonate, instead. Aside from the fairly minimalist case design, the Ace75 comes with a few tricks up its sleeve that may make it particularly useful as a keyboard that's both a daily driver and a gaming accessory.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/FDaiIPnUzWnvEjjX.jpg\" target=\"_blank\" data-width=\"1706\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/FDaiIPnUzWnvEjjX_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/XNgQV8KhmZRLXJaH.jpg\" target=\"_blank\" data-width=\"1648\" data-height=\"922\" ><img src=\"https://tpucdn.com/img/XNgQV8KhmZRLXJaH_thm.jpg\" width=\"232\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ZKtlutOIdHebeHYZ.jpg\" target=\"_blank\" data-width=\"680\" data-height=\"608\" ><img src=\"https://tpucdn.com/img/ZKtlutOIdHebeHYZ_thm.jpg\" width=\"145\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/assdAgR4Aifoob5c.jpg\" target=\"_blank\" data-width=\"1074\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/assdAgR4Aifoob5c_thm.jpg\" width=\"145\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352843/mchose-launches-ace75-hall-effect-gaming-keyboard-on-kickstarter\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352843/mchose-launches-ace75-hall-effect-gaming-keyboard-on-kickstarter",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "dd4e7dc3b406c6cd0c7c12f663a98fdd"
+    },
+    {
+      "id": 795,
+      "title": "Awekeys Officially Reveals Shine-Through Metal Keycaps For Mechanical Keyboards",
+      "summary": "Following the recent launch of its low-profile metal keycaps, Awekeys has officially announced a new shine-through variant of its metal keycaps for full-height MX-style switches. The Awekeys RGB keycaps are not yet available for purchase, b",
+      "content": "Following the recent <a href=\"https://www.techpowerup.com/346799/awekeys-launches-all-metal-low-profile-keycaps-on-kickstarter\" target=\"_blank\">launch of its low-profile metal keycaps</a>, Awekeys has officially announced a new shine-through variant of its metal keycaps for full-height MX-style switches. The Awekeys RGB keycaps are not yet available for purchase, but Awekeys has revealed the design, layout options, colors, kits, and eventual pricing for the keycaps. The Awekeys RGB shine-through metal keycaps will soon be available on Kickstarter in three different kit options: $169 for the 83-key base kit, $199 for the 98-key kit, and $229 for the full-size 116-key kit. The quoted MSRPs will increase to a claimed $269, $319, and $369, respectively, after the end of the Kickstarter campaign. <br />\r\n<br />\r\n [Editor's note: Our <a href=\"https://www.techpowerup.com/review/quick-look-awekeys-full-metal-keycaps/\" target=\"_blank\">hands-on review of a previous set of Awekeys metal keycaps</a> is available]<br />\r\n<br />\r\nThe keycaps, like the company's other designs, will use a recycled alloy called <a rel=\"nofollow\" href=\"https://www.britannica.com/technology/cupronickel\" target=\"_blank\">cupronickel</a>, and they will be available in six different colors in both brushed and satin finishes. The available colors include gold, copper, silver, titanium black, obsidian black, and a special glow-in-the-dark neon variant. Some of these colors and finishes will likely cost extra when they launch, and there will likely be specific combinations of colors and finishes, rather than both finishes being available in all colors—this was the case with the low-profile keycaps and Awekeys's other metal keycap products. The Awekeys RGB keycaps seem to follow OEM profile, rather than Cherry, and they will be compatible with both ISO and ANSI keyboard layouts.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/IgfzTYOaP4TIWCc9.jpg\" target=\"_blank\" data-width=\"1632\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/IgfzTYOaP4TIWCc9_thm.jpg\" width=\"221\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/u4DU3T7rT1rqFJQs.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/u4DU3T7rT1rqFJQs_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/h79j4GXq8z6GkRd4.jpg\" target=\"_blank\" data-width=\"1690\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/h79j4GXq8z6GkRd4_thm.jpg\" width=\"229\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352839/awekeys-officially-reveals-shine-through-metal-keycaps-for-mechanical-keyboards\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352839/awekeys-officially-reveals-shine-through-metal-keycaps-for-mechanical-keyboards",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "2f13f1cd8f7dd9deb9ff12abcb8626e4"
+    },
+    {
+      "id": 796,
+      "title": "Sapphire Prepares Nitro+ Radeon RX 9070 XT OC Valor Mortis Edition GPU",
+      "summary": "Sapphire is preparing a Valor Mortis edition of its Nitro+ Radeon RX 9070 XT OC, a themed variant created in collaboration with dev studio One More Level and publisher Lyrical Games to coincide with the launch of their first-person Soulslik",
+      "content": "Sapphire is preparing a Valor Mortis edition of its Nitro+ Radeon RX 9070 XT OC, a themed variant created in collaboration with dev studio One More Level and publisher Lyrical Games to coincide with the launch of their first-person Soulslike action game on October 13, 2026. This isn't Sapphire's first themed graphic card, the most recent was the <a href=\"https://www.techpowerup.com/346120/sapphire-presents-nitro-radeon-rx-9070-xt-crimson-desert-edition-card\" target=\"_blank\">Nitro+ RX 9070 XT OC Crimson Desert</a> edition. The Valor Mortis variant follows the same path: a custom logo on the fans and a magnetic backplate decorated with game artwork. Even if not officially announced yet, the GPU, memory, cooling, and factory overclock likely won't change as the specs would match the Crimson Desert edition. This means the GPU will have up to 3060 MHz boost clock and 2520 MHz game clock, while the card will feature 16 GB of 256-bit GDDR6 at 20 Gbps.<br />\r\n<br />\r\nA copy of the game comes bundled with the card, however, Sapphire did not mention which edition, standard or deluxe. Also, pricing or an exact release date has not been announced. We estimate that the Sapphire Nitro+ Radeon RX 9070 XT OC will be available around October 13 or shortly after, given the game's launch date. As a side note, Sapphire is celebrating its 25th anniversary this year. Founder and CEO KD Au said the milestone &quot;belongs to our customers, our partners at AMD, and every member of the SAPPHIRE team,&quot; adding that the company started with the ambition of building the best graphics cards in the world, a goal he says still drives the company today.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ZoC4lKAFwDbi5wqa.jpg\" target=\"_blank\" data-width=\"768\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ZoC4lKAFwDbi5wqa_thm.jpg\" width=\"104\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ZuZFfQZT3ZY9JjIp.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"500\" ><img src=\"https://tpucdn.com/img/ZuZFfQZT3ZY9JjIp_thm.jpg\" width=\"208\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/NB93ObXD8o5Hg3BC.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"500\" ><img src=\"https://tpucdn.com/img/NB93ObXD8o5Hg3BC_thm.jpg\" width=\"208\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352842/sapphire-prepares-nitro-radeon-rx-9070-xt-oc-valor-mortis-edition-gpu",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "92c880efeca0d80c5396ec667d41bca6"
+    },
+    {
+      "id": 797,
+      "title": "Developer Ports DLSS 5 to Intel Integrated Graphics With Help From AI Agents",
+      "summary": "A developer going by Uzbekunknown on GitHub has gotten NVIDIA's DLSS 5 Neural Rendering running on the Arc 140V integrated graphics of an Intel Lunar Lake system, as Tom's Hardware reports. The project, called dlss-nr-on-intel, is an indepe",
+      "content": "A developer going by <a rel=\"nofollow\" href=\"https://github.com/uzbekunknown/dlss-nr-on-intel\" target=\"_blank\">Uzbekunknown on GitHub</a> has gotten NVIDIA's <a href=\"https://www.techpowerup.com/review/nvidia-dlss-5-technical-preview/\" target=\"_blank\">DLSS 5 Neural Rendering</a> running on the Arc 140V integrated graphics of an Intel Lunar Lake system, as <a rel=\"nofollow\" href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second\" target=\"_blank\">Tom's Hardware</a> reports. The project, called dlss-nr-on-intel, is an independent reimplementation of the 71-block network that runs on Intel's XMX units through Vulkan. It has apparently been shown working in Tekken 7, Dead or Alive 5 Last Round, and Mortal Kombat 1. For now it only runs on Linux, and users must supply their own copy of NVIDIA's DLL. As far as performance goes, the developer says Tekken 7 ran at around 10 FPS at 640x360 resolution, and the frametimes are absolutely abysmal too. The author calls it a research port, not a finished product, so photo mode use looks like the only realistic scenario right now.<br />\r\n<br />\r\nPerhaps even more interesting is how this port came to be. Apparently, the code was written almost entirely by AI. The developer credits Claude Opus 5 and OpenAI's Astra, saying they themselves only supplied the hardware, the binary, and the direction. They also state they cannot defend the code line by line, and that a driver bug one of the agents hallucinated shaped three development phases. This mod effort follows <a href=\"https://www.techpowerup.com/352147/leaked-dlss-5-reaches-rtx-30-series-ampere-gpus-but-performance-falls-apart\" target=\"_blank\">DLSS 5 reaching RTX 30-series</a> and <a href=\"https://www.techpowerup.com/352360/modders-get-dlss-5-working-on-amd-graphics-cards-though-performance-is-rough\" target=\"_blank\">AMD RDNA 4 cards</a> within weeks of the leak, as well as the technology <a href=\"https://www.techpowerup.com/352796/nvidia-dlss-5-neural-rendering-now-runs-in-a-web-browser-via-webgpu#comments\" target=\"_blank\">reaching web browsers</a>. I think whether this is clever or a step too far depends on how much you trust code nobody fully reviewed. It's a fine technical demo, but I don't think we really needed DLSS 5 on Intel integrated graphics.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/avCkH2TmGM32GDNh.jpg\" target=\"_blank\" data-width=\"1048\" data-height=\"580\" ><img src=\"https://tpucdn.com/img/avCkH2TmGM32GDNh_thm.jpg\" width=\"235\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/qJ3rNtJ5jK1503G4.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/qJ3rNtJ5jK1503G4_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/9OPKgxNSzPqa9O8s.jpg\" target=\"_blank\" data-width=\"1107\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/9OPKgxNSzPqa9O8s_thm.jpg\" width=\"150\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352841/developer-ports-dlss-5-to-intel-integrated-graphics-with-help-from-ai-agents",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e8371633ad280ef3b1ae678a0a1f3911"
+    },
+    {
+      "id": 800,
+      "title": "Honor reveals tiny Mac Studio rival with Nvidia RTX Spark in a 2-liter chassis",
+      "summary": "Honor has unveiled its Tiangong AXB35 compact AI workstation family, led by a 1.5kg Ultra model combining Nvidia RTX Spark, 128GB of unified memory and a 2TB SSD. The roughly 2-liter system is designed for local huge LLMs and multi-agent wo",
+      "content": "Honor has unveiled its Tiangong AXB35 compact AI workstation family, led by a 1.5kg Ultra model combining Nvidia RTX Spark, 128GB of unified memory and a 2TB SSD. The roughly 2-liter system is designed for local huge LLMs and multi-agent workloads, while Intel- and AMD-powered variants will also be available.",
+      "link": "https://www.notebookcheck.net/Honor-reveals-tiny-Mac-Studio-rival-with-Nvidia-RTX-Spark-in-a-2-liter-chassis.1402874.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Honor-reveals-tiny-Mac-Studio-rival-with-Nvidia-RTX-Spark-in-a-2-liter-chassis.1402874.0.html"
+    },
+    {
+      "id": 801,
+      "title": "Vaio launches laptops with 2.5K display, up to 64 GB RAM, 2 TB SSD and 18-hour battery",
+      "summary": "Vaio has launched its new T series laptops in Japan, featuring a 13.3-inch WQXGA touchscreen and a multi-flip design that supports notebook, tablet and view modes. The laptops use Intel Core Ultra processors and can be configured with up to",
+      "content": "Vaio has launched its new T series laptops in Japan, featuring a 13.3-inch WQXGA touchscreen and a multi-flip design that supports notebook, tablet and view modes. The laptops use Intel Core Ultra processors and can be configured with up to 64 GB of LPDDR5X memory and a 2 TB SSD.",
+      "link": "https://www.notebookcheck.net/Vaio-launches-laptops-with-2-5K-display-up-to-64-GB-RAM-2-TB-SSD-and-18-hour-battery.1402399.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Vaio-launches-laptops-with-2-5K-display-up-to-64-GB-RAM-2-TB-SSD-and-18-hour-battery.1402399.0.html"
+    },
+    {
+      "id": 802,
+      "title": "Affordable mini PC arrives with 12-core Intel Raptor Lake CPU and tons of storage",
+      "summary": "Peladn has introduced a new affordably priced variant of its W05 mini PC. This variant comes equipped with a powerful 12-core Raptor Lake H CPU and a whopping three M.2 slots for tons of storage.",
+      "content": "Peladn has introduced a new affordably priced variant of its W05 mini PC. This variant comes equipped with a powerful 12-core Raptor Lake H CPU and a whopping three M.2 slots for tons of storage.",
+      "link": "https://www.notebookcheck.net/Affordable-mini-PC-arrives-with-12-core-Intel-Raptor-Lake-CPU-and-tons-of-storage.1402677.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-mini-PC-arrives-with-12-core-Intel-Raptor-Lake-CPU-and-tons-of-storage.1402677.0.html"
+    },
+    {
+      "id": 803,
+      "title": "Huawei unveils new MacBook Neo rival with 120 Hz OLED display and 14 hours of battery life",
+      "summary": "Huawei has launched the new Qingyun L420z laptop in China. An alternative to the MacBook Neo, the Qingyun L420z comes with a 120 Hz OLED display, an all-metal slim body, an HD webcam, and a 70 Wh battery said to last up to 14 hours in lab t",
+      "content": "Huawei has launched the new Qingyun L420z laptop in China. An alternative to the MacBook Neo, the Qingyun L420z comes with a 120 Hz OLED display, an all-metal slim body, an HD webcam, and a 70 Wh battery said to last up to 14 hours in lab tests.",
+      "link": "https://www.notebookcheck.net/Huawei-unveils-new-MacBook-Neo-rival-with-120-Hz-OLED-display-and-14-hours-of-battery-life.1402741.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Huawei-unveils-new-MacBook-Neo-rival-with-120-Hz-OLED-display-and-14-hours-of-battery-life.1402741.0.html"
     },
     {
       "id": 629,
