@@ -1,7 +1,473 @@
 {
-  "updatedAt": "2026-09-19",
-  "total": 828,
+  "updatedAt": "2026-09-20",
+  "total": 864,
   "list": [
+    {
+      "id": 829,
+      "title": "ZCode上传风波：修复版来了，旧账还得查",
+      "summary": "智谱的AI编程工具ZCode，因后台打包、上传用户项目遭到质疑。开发者发现，被打包的不只是当前代码，还有保存历次修改的Git历史。9月18日，开发者ferstar公开了自己的排查结果：ZCode在本机生成了项目副本，并反复尝试上传。随后，其他用户也提供了复查记录，有人发现项目副本已被服务器接受，也有人质疑仓库索引开关能否阻止上传。用户因此追问：软件为什么要收集这些内容，又该怎样阻止它上传？ 阅读全文",
+      "content": "<p><strong>智谱的AI编程工具ZCode，因后台打包、上传用户项目遭到质疑。</strong>开发者发现，被打包的不只是当前代码，还有保存历次修改的Git历史。9月18日，开发者ferstar公开了自己的排查结果：ZCode在本机生成了项目副本，并反复尝试上传。随后，其他用户也提供了复查记录，有人发现项目副本已被服务器接受，也有人质疑仓库索引开关能否阻止上传。用户因此追问：软件为什么要收集这些内容，又该怎样阻止它上传？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578838.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578838.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578838.htm"
+    },
+    {
+      "id": 830,
+      "title": "传索尼PS6理论性能将超越RTX 5080",
+      "summary": "外媒GameGPU对之前泄露的规格进行了分析，推算PS6主机的理论性能最高可达80 TFLOPS，数值可能超过了英伟达的RTX 5080，但相关规格尚未获得官方确认。 阅读全文",
+      "content": "<p>外媒GameGPU对之前泄露的规格进行了分析，推算PS6主机的理论性能最高可达80 TFLOPS，数值可能超过了英伟达的RTX 5080，但相关规格尚未获得官方确认。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1578836.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1578836.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1578836.htm"
+    },
+    {
+      "id": 831,
+      "title": "iPhone 18 Pro拿下DXO影像全球第二 仅次于华为Pura 80 Ultra",
+      "summary": "iPhone 18 Pro系列才刚刚上市，评测机构DXOMARK就公布了该机的影像测试成绩。在DXOMARK第六版影像测试基准下，iPhone 18 Pro最终获得172分，位列全球影像排行榜第二，仅次于175分的华为Pura 80 Ultra。 阅读全文",
+      "content": "<p>iPhone 18 Pro系列才刚刚上市，评测机构DXOMARK就公布了该机的影像测试成绩。在DXOMARK第六版影像测试基准下，<strong>iPhone 18 Pro最终获得172分，位列全球影像排行榜第二，仅次于175分的华为Pura 80 Ultra。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578822.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578822.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578822.htm"
+    },
+    {
+      "id": 832,
+      "title": "存储紧缺部分改善 宏碁预判PC价格2027年下半年反转",
+      "summary": "宏碁董事长陈俊圣表示，目前存储及CPU除少数规格供货吃紧外，其他规格缺料状况正在缓解。不过，受零部件价格高位震荡影响，预估今年第四季度终端PC产品将持续涨价，平均幅度可能达5%至20%，价格要到2027年下半年才有机会反转。 阅读全文",
+      "content": "<p><strong>宏碁董事长陈俊圣表示，目前存储及CPU除少数规格供货吃紧外，其他规格缺料状况正在缓解。</strong>不过，受零部件价格高位震荡影响，<strong>预估今年第四季度终端PC产品将持续涨价，平均幅度可能达5%至20%，价格要到2027年下半年才有机会反转。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578814.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578814.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578814.htm"
+    },
+    {
+      "id": 833,
+      "title": "中科宇航力箭一号遥十八发射成功 超智算一号开启“天感天算”",
+      "summary": "中科宇航官方消息，今日12时03分，中科宇航力箭一号遥十八运载火箭在东风商业航天创新试验区点火升空，采用“一箭9星”方式，将秦岭01号、秦岭02号、云霄探路者、谛听01组A/B/C星、鹏城南科一号、浦江四号以及超智算一号等9颗卫星精准送入预定轨道，发射任务取得圆满成功。 阅读全文",
+      "content": "<p>中科宇航官方消息，今日12时03分，<strong>中科宇航力箭一号遥十八运载火箭在东风商业航天创新试验区点火升空，采用“一箭9星”方式，将秦岭01号、秦岭02号、云霄探路者、谛听01组A/B/C星、鹏城南科一号、浦江四号以及超智算一号等9颗卫星精准送入预定轨道，发射任务取得圆满成功。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1578802.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1578802.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1578802.htm"
+    },
+    {
+      "id": 834,
+      "title": "联想寻求出售卢森堡国际银行90%股权 估值或达25亿欧元",
+      "summary": "媒体援引未具名知情人士报道，联想控股正与高盛合作，寻求出售所持卢森堡国际银行90%的股权。初步报价预计将在本月底前后截止，对该行的估值可能达到约25亿欧元或更高。 阅读全文",
+      "content": "<p>媒体援引未具名知情人士报道，联想控股正与高盛合作，寻求出售所持卢森堡国际银行90%的股权。初步报价预计将在本月底前后截止，对该行的估值可能达到约25亿欧元或更高。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578794.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578794.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578794.htm"
+    },
+    {
+      "id": 835,
+      "title": "长鑫存储第五代DRAM平台正式量产 挑战全球三大巨头格局",
+      "summary": "中国DRAM存储芯片制造商长鑫存储（CXMT）宣布，其第五代DRAM技术平台已正式进入量产阶段。这一进展被视为中国存储产业发展过程中的重要里程碑，也意味着长鑫存储正在进一步缩小与三星电子、SK海力士和美光等全球领先厂商之间的技术差距。 阅读全文",
+      "content": "<p>中国DRAM存储芯片制造商长鑫存储（CXMT）宣布，其第五代DRAM技术平台已正式进入量产阶段。这一进展被视为中国存储产业发展过程中的重要里程碑，也意味着长鑫存储正在进一步缩小与三星电子、SK海力士和美光等全球领先厂商之间的技术差距。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578780.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578780.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578780.htm"
+    },
+    {
+      "id": 836,
+      "title": "惠普 HyperX 公布 Pulsefire Haste 3 标准版鼠标规格，有线款仅 44g",
+      "summary": "IT之家 9 月 20 日消息，HP（惠普）HyperX（极度未知）现已在其官网公布了 Pulsefire Haste 3 标准版鼠标的规格信息。 Pulsefire Haste 3 标准版的有线款三维 127.1 × 66.9 × 38.3 (mm)，基于原相 PAW3315 光学传感器，左右键搭载 100M 光学微动，支持 1kHz 回报率，质量仅 44g。该型号定价 39.99 美元（IT之家注：现汇率约合 268.7 元人民币）。 另一方面，Pulsefire Has",
+      "content": "<p data-vmark=\"5ac2\">IT之家 9 月 20 日消息，HP（惠普）HyperX（极度未知）现已在其官网公布了 Pulsefire Haste 3 标准版鼠标的规格信息。</p><p style=\"text-align: center;\" data-vmark=\"2a02\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bd02a14e-3abf-46a1-a7c3-1f0990cd75f1.jpg\" w=\"1440\" h=\"1440\" data-vmark=\"8e88\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"00d9\">Pulsefire Haste 3 标准版的<strong>有线款</strong>三维 127.1 × 66.9 × 38.3 (mm)，基于原相 PAW3315 光学传感器，左右键搭载 100M 光学微动，支持 1kHz 回报率，质量仅 44g。该型号定价 39.99 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 268.7 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"c08a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3bd64c6e-3ce9-44bf-9b75-6a5cccc96162.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"720\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1b5a55bde4a35bb0c8f2ca8a78640e84d1d02e06254667d946eeb9c6f7dfb9073c644631207c52491\" data-vmark=\"4762\" class=\"no-alt-img\"></p><p data-vmark=\"75eb\">另一方面，Pulsefire Haste 3 标准版<strong>无线款</strong>采用相同外壳，升级到 42000DPI、800IPS、70G 的性能光学传感器，依旧配备 100M 光学微动，支持 8kHz 回报率，1kHz 续航 150hr、8kHz 续航 35hr，质量 51g。该型号售价 89.99 美元<span class=\"exch-money-value \">（现汇率约合 604.6 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"b6c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/16887000-b4b8-4c31-9df9-7401e2186fad.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"576\" data-weibo=\"2\"  data-vmark=\"3120\" class=\"no-alt-img\"></p><p data-vmark=\"2d9b\">HyperX 此前还推出了 <a target=\"_blank\" href=\"https://www.ithome.com/0/993/366.htm\">Pulsefire Haste 3 Pro</a>，那款产品拥有锻造碳纤维外壳，质量 47g，价格则是 129.99 美元<span class=\"exch-money-value\">（现汇率约合 873.3 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/004/874.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/874.htm"
+    },
+    {
+      "id": 837,
+      "title": "稚晖君发布启元 Q1 和 T1 人形机器人：外壳随心改换、人形四足秒切换，首发接入腾讯 WorkBuddy",
+      "summary": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1、启元 T1 两款人形机器人。 据上纬新材料科技股份有限公司董事长、智元机器人联合创始人兼首席技术官彭志辉（稚晖君）介绍，启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。 启元机器人是上纬新材旗下品牌上纬启元推出的消费级人形机器人品牌，2025 年底，稚晖君宣布公司以该品牌进入个人机器人领",
+      "content": "<p data-vmark=\"7dee\">IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布<strong>启元 Q1、启元 T1</strong> 两款人形机器人。</p><p data-vmark=\"54de\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/797f1e9c-30b7-4075-aca7-c3935682428e.jpg?x-bce-process=image/format,f_auto\" w=\"747\" h=\"729\" data-weibo=\"0\" data-vmark=\"42f8\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d12dbee0beadcdf6be994ea607117d16d7e8c6ff25f863367c2c3524f266aaa739cc04d532cb56e7a4\" class=\"no-alt-img\"></p><p data-vmark=\"53ba\">据上纬新材料科技股份有限公司董事长、智元机器人联合创始人兼首席技术官彭志辉（稚晖君）介绍，启元 Q1 主打自定义特性，<strong>支持自定义设计互动动作、3D 打印改造外观</strong>，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。</p><p style=\"text-align: center;\" data-vmark=\"9fc8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/979d3057-e062-4e16-ae5c-6563af0d5675.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"723\" data-weibo=\"1\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d17f068c3cf02f9e4bb9b2cf1ef5a5aee4a86cc3395a468b0b1bb9172e77887de8c5583c6c6a9f8f8b\" data-vmark=\"0dfa\" class=\"no-alt-img\"></p><p data-vmark=\"0576\">启元机器人是上纬新材旗下品牌上纬启元推出的消费级人形机器人品牌，2025 年底，<a href=\"https://www.ithome.com/0/909/555.htm\" target=\"_blank\">稚晖君宣布公司以该品牌进入个人机器人领域</a>。</p><p data-vmark=\"71a1\"><a href=\"https://www.ithome.com/0/993/155.htm\" target=\"_blank\">两款产品已于 8 月 23 日开启预订</a>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"572d\">启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入背包，支持外观结构件定制，宣称是“<strong>全球首个个人机器人</strong>”。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"164f\"><a href=\"https://weibo.com/7576481736/RiZb94JYf?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/dc4ab299-97b7-46a5-b29d-35ca460bfe6b.jpg\"></a></p><p style=\"text-align: center;\" data-vmark=\"fa93\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3e909b8f-6eac-4760-bc55-3e4fc614b21b.jpg?x-bce-process=image/format,f_auto\" w=\"824\" h=\"767\" data-weibo=\"2\" data-vmark=\"e11f\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d16bc8ae591db904d78fc37f134bb16512803ae12a42b1d53dca6fd71abc7418e7f1c6f7952d78cdd5\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"dcc3\">启元 T1 支持轮足人形与四足形态切换，宣称是“<strong>全球首个可变形个人机器人</strong>”。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"d99e\"><a href=\"https://weibo.com/7744154349/RiZnHvTqt?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2554f812-de00-48a5-a20a-acba8a222d03.jpg\"></a></p><p style=\"text-align: center;\" data-vmark=\"ed66\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/28d214b0-47eb-4d4e-8126-1c578214275e.jpg?x-bce-process=image/format,f_auto\" w=\"503\" h=\"464\" data-weibo=\"3\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1a16f332dc1875d3784be024bc65581be44be1115949beb316a4b864c9d326f94b05472da34017402\" data-vmark=\"5613\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"bd96\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a656819b-ee9a-4aed-9b24-9d45bdd6b97c.jpg?x-bce-process=image/format,f_auto\" w=\"494\" h=\"753\" data-weibo=\"4\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1cb49c61fee7fc48a95f5d87dbce6a7b7273ec3685e052524f070cd8230355b80fcdd157660858b78\" data-vmark=\"1358\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"0b1b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/00fec875-6ed3-41d9-9f39-f97d0187aac2.jpg?x-bce-process=image/format,f_auto\" w=\"476\" h=\"712\" data-weibo=\"5\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d151d9f32c936b780caa3e686ee72f1215feab14388b6b3b46e7acb346c9e22793f01aab9ebab83447\" data-vmark=\"125a\" class=\"no-alt-img\"></p><p data-vmark=\"36df\">此外，启元机器人与腾讯云达成合作，<strong>启元 Q1、T1 机器人正式接入 WorkBuddy</strong>。启元也由此成为首个接入 WorkBuddy 的具身智能企业。</p><p data-vmark=\"1e00\"><strong>启元自研了行业量产体积最小的“鸡蛋关节”</strong>，重量仅 260g、直径 47mm，峰值扭矩密度达 85N·m/kg。</p><p style=\"text-align: center;\" data-vmark=\"61f4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/eac2179a-552b-444d-bcb3-d5e37867cba2.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"623\" data-weibo=\"6\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d129b75ac47ba2d6a127000f04464f41fd1949e9944849bc5c8b0ef6dbb1522ed4ee5bae0616dfdbd7\" data-vmark=\"f914\" class=\"no-alt-img\"></p><p data-vmark=\"ff36\"><strong>启元 Q1 官方介绍图：</strong></p><p style=\"text-align: center;\" data-vmark=\"9848\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9d0c4292-1e42-4525-a8dd-621e14cad93e.jpg?x-bce-process=image/format,f_auto\" w=\"502\" h=\"5893\" data-weibo=\"7\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d134a93452d55f850583d60f19eba54ccb20ade86b0053e7d1c3fee42f77b9ae893958f35d3f3f75c3\" data-vmark=\"b921\" class=\"no-alt-img\"></p><p data-vmark=\"a256\"><strong>启元 T1 官方介绍图：</strong></p><p style=\"text-align: center;\" data-vmark=\"c4d6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b570d0a5-2f79-461d-ac1f-059a5dae40e0.jpg?x-bce-process=image/format,f_auto\" w=\"484\" h=\"7498\" data-weibo=\"8\" data-mpos=\"0,0\"  data-vmark=\"3253\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/871.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/871.htm"
+    },
+    {
+      "id": 838,
+      "title": "华为王超：2026 年马上会量产每度电 12 公里的纯电车型，明年探索每度电 14 公里",
+      "summary": "IT之家 9 月 20 日消息，据汽车之家消息，华为数字能源技术有限公司副总裁、华为数字能源智能电动产品线总裁王超昨日（9 月 19 日）在第二十二届中国汽车产业发展（泰达）国际论坛发表演讲。 2023 年，当我们认识到电机效率是最主要因素时，首发了 CLTC 效率 92% 的总成。2024 年具备了每度电 10 公里的 Ready 能力，2025 年具备了每度电 12 公里的技术 Ready 能力。 2026 年，马上会量产每度电 12 公里的纯电车型；2027 年，将朝着",
+      "content": "<p data-vmark=\"7bac\">IT之家 9 月 20 日消息，据汽车之家消息，华为数字能源技术有限公司副总裁、华为数字能源智能电动产品线总裁王超昨日（9 月 19 日）在第二十二届中国汽车产业发展（泰达）国际论坛发表演讲。</p><blockquote><p data-vmark=\"8225\">2023 年，当我们认识到电机效率是最主要因素时，首发了 CLTC 效率 92% 的总成。2024 年具备了每度电 10 公里的 Ready 能力，2025 年具备了每度电 12 公里的技术 Ready 能力。</p><p data-vmark=\"a4e3\"><strong>2026 年，马上会量产每度电 12 公里的纯电车型；2027 年，将朝着每度电 14 公里开启新一轮探索</strong>。</p><p data-vmark=\"02bc\">基于这些探索，推动电动汽车持续向前发展，把让电动汽车好用、耐用、经济可用性提升，作为推动其向前发展非常重要的指标。</p></blockquote><p data-vmark=\"1256\">IT之家获悉，王超表示，随着每度电公里数的提升，单车电池使用量会大幅下降，<strong>单车重量进一步下降</strong>，从而保证跑在路上的每一台中国电动汽车都有更好的能效利用率。</p><p data-vmark=\"ece6\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"00e8\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/004/737.htm\">华为数字能源王超建议汽车行业硬件接口标准化，减少定制损耗</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/869.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/869.htm"
+    },
+    {
+      "id": 839,
+      "title": "海光 9 月 22 日发布 1000 系列 CPU 处理器，面向物理应用领域",
+      "summary": "IT之家 9 月 20 日消息，海光信息 (HYGON) 今日宣布将于 9 月 22 日在中国广东深圳发布 1000 系列 CPU 处理器。 该活动的口号为“向前，再向前”“让算力，抵达物理世界”，显示海光 1000 系列 CPU 处理器主要面向物理世界应用领域。 IT之家注意到，海光此前已推出了 7000、5000、3000 三个 CPU 处理器系列，分别为面向数据中心的高性能产品、面向行业客户的主流中端产品、面向多场景的高性价比产品。",
+      "content": "<p data-vmark=\"fa84\">IT之家 9 月 20 日消息，海光信息 (HYGON) 今日宣布将于 9 月 22 日在中国广东深圳发布 1000 系列 CPU 处理器。</p><p data-vmark=\"b595\">该活动的口号为“向前，再向前”“让算力，抵达物理世界”，显示<strong>海光 1000 系列 CPU 处理器主要面向物理世界应用领域</strong>。</p><p data-vmark=\"c2df\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ada1f264-b292-47c1-8ea4-7079f69f7c77.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1067\" data-weibo=\"0\" data-vmark=\"871f\"  class=\"no-alt-img\"></p><p data-vmark=\"3aa0\">IT之家注意到，海光此前已推出了 7000、5000、3000 三个 CPU 处理器系列，分别为面向数据中心的高性能产品、面向行业客户的主流中端产品、面向多场景的高性价比产品。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"8033\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4776\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/004/850.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/850.htm"
+    },
+    {
+      "id": 840,
+      "title": "OPPO Find X10 系列配件公布：含新国标移动电源，9 月 22 日全球首发",
+      "summary": "IT之家 9 月 20 日消息，OPPO Find X10 系列配件公布，OPPO 新国标移动电源、小方瓶充电器、磁吸壳等，9 月 22 日 19:00 全球首发 33W 口袋充 10000 冰川能量卡 80W 随行充 15000 67W 随行充 20000 80W 小方瓶 Mini 磁吸保护壳 IT之家注意到，OPPO Find X10 系列新机定档 9 月 22 日全球首发，其中 Pro Max 版首批搭载天玑 9600 Pro 旗舰芯片、 8000mAh 冰川电池，关于",
+      "content": "<p data-vmark=\"ba52\">IT之家 9 月 20 日消息，OPPO Find X10 系列配件公布，OPPO 新国标移动电源、小方瓶充电器、磁吸壳等，9 月 22 日 19:00 全球首发</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"72d0\">33W 口袋充 10000</p></li><li><p data-vmark=\"45ab\">冰川能量卡</p></li><li><p data-vmark=\"887c\">80W 随行充 15000</p></li><li><p data-vmark=\"874e\">67W 随行充 20000</p></li><li><p data-vmark=\"d839\">80W 小方瓶 Mini</p></li><li><p data-vmark=\"d8c5\">磁吸保护壳</p></li></ul><p data-vmark=\"2aa8\" style=\"text-align: center;\"><img src=\"https://qimg.ithome.com/newfiles/2026/9/dca1ebfc-ce3b-4a5d-9cd6-23a80de4dfc1.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"2524\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"571f\" style=\"text-align: center;\"><img src=\"https://qimg.ithome.com/newfiles/2026/9/e0d4ed8d-0798-4866-9342-d1fd8911d37d.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"0a1c\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"70d6\">IT之家注意到，OPPO Find X10 系列新机定档 <strong>9 月 22 日全球首发</strong>，其中 Pro Max 版首批搭载天玑 9600 Pro 旗舰芯片、 8000mAh 冰川电池，关于以上新品更多消息，感兴趣的朋友可以关注IT之家后续报道。</p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"e571\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4729\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/004/832.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/832.htm"
+    },
+    {
+      "id": 841,
+      "title": "ARC 公布 Android 掌机 X1：高通骁龙 G2 Gen 2，7\" FHD 120HZ LCD 屏幕",
+      "summary": "IT之家 9 月 20 日消息，印度品牌 ARC 近日正式公布了其 Android 掌机产品 ARC X1。其基于高通骁龙 G2 Gen 2 游戏平台，运行基于 AOSP 的游戏体验优化发行版 OwlOS。 ARC X1 配备 8GB LPDDR5X-8533 内存、128GB UFS 3.1 存储，可通过 microSD 扩展至多 1TB 存储；搭载 7\" 1920×1080 120Hz 的 500+nits 亮度 LTPS TFT LCD 屏幕。 其搭载后进上排的涡轮风扇",
+      "content": "<p data-vmark=\"c614\">IT之家 9 月 20 日消息，印度品牌 ARC 近日正式公布了其 Android 掌机产品 ARC X1。其基于高通骁龙 G2 Gen 2 游戏平台，运行基于 AOSP 的游戏体验优化发行版 OwlOS。</p><p data-vmark=\"3030\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/68428c22-fcab-4712-8992-3aba9757a96f.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"f6ab\" class=\"no-alt-img\"></p><p data-vmark=\"3cbd\">ARC X1 配备 8GB LPDDR5X-8533 内存、128GB UFS 3.1 存储，<strong>可通过 microSD 扩展至多 1TB 存储</strong>；搭载 7\" 1920×1080 120Hz 的 500+nits 亮度 LTPS TFT LCD 屏幕。</p><p data-vmark=\"1998\">其搭载后进上排的涡轮风扇<strong>主动散热系统</strong>；<strong>配备 TMR 摇杆</strong>、高级触感微动 ABXY、精密微动 D-Pad、霍尔扳机、六轴陀螺仪、双线性马达、双可编程背键；集成双扬声器、降噪麦克风。</p><p data-vmark=\"9aaa\">该设备<strong>内置 9300mAh 可更换电池</strong>，提供支持 DisplayPort Alt、27W 充电的 USB-C 5Gbps 接口；拥有 3.5mm 音频插孔；支持 Wi-Fi 6E &amp; 蓝牙 5.4；质量 450~500g。</p><p data-vmark=\"f36c\">ARC X1 掌机标价 33,500 卢比<span class=\"exch-money-value\">（IT之家注：现汇率约合 2,342 元人民币）</span>，社区优惠价格 29,500 卢比<span class=\"exch-money-value\">（现汇率约合 2,062 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/004/828.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/828.htm"
+    },
+    {
+      "id": 842,
+      "title": "小米米家冰箱 256L 三门新品开售：360 度循环风冷，首发 1299 元",
+      "summary": "IT之家 9 月 20 日消息，小米今日宣布米家冰箱 256L 三门新品开售，支持 360 度循环风冷、新一级能效，首发价 1,299 元。 据介绍，该产品占地仅约 0.34 平方米，随心放置轻松适应公寓、Loft 等多种户型，延续米家冰箱家族化的设计语言，配备星锻银金属面板，可贴冰箱贴。 冷藏室、变温室、冷冻食品储藏室三区独立控温，灵活调节。10 格分储空间，不同食材分门别类存储。其中冷藏室容积 136L，冷冻食品储藏室容积 85L，变温室容积 35L，支持-20°C~5°",
+      "content": "<p data-vmark=\"fd2d\">IT之家 9 月 20 日消息，小米今日宣布米家冰箱 256L 三门新品开售，支持 360 度循环风冷、新一级能效，首发价 1,299 元。</p><p style=\"text-align: center;\" data-vmark=\"0c73\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2bdcb338-a2e8-438a-be86-5ab68a934d2d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"0\" data-vmark=\"639c\" class=\"no-alt-img\"></p><p data-vmark=\"7d9f\">据介绍，该产品占地<strong>仅约 0.34 平方米</strong>，随心放置轻松适应公寓、Loft 等多种户型，延续米家冰箱家族化的设计语言，配备星锻银金属面板，可贴冰箱贴。</p><p data-vmark=\"9712\">冷藏室、变温室、冷冻食品储藏室<strong>三区独立控温</strong>，灵活调节。10 格分储空间，不同食材分门别类存储。其中冷藏室容积 136L，冷冻食品储藏室容积 85L，变温室容积 35L，支持-20°C~5°C 宽幅变温。显控面板内置于冷藏室，一键即可调节冷冻、变温、冷藏区温度。</p><p style=\"text-align: center;\" data-vmark=\"cf38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4a387edd-ca89-4a23-9ab4-7eb5960dca1a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"3287\" data-weibo=\"1\" data-vmark=\"695a\" class=\"no-alt-img\"></p><p data-vmark=\"5219\">新品搭载<strong>银离子抗菌净味模块</strong>，冷藏室抗菌率达 99.99%，有效吸附分解冰箱内异味分子；采用变频压缩机和变频风机，搭载 5 枚感温探头时刻感知冰箱温度变化；双变频 1 级能效，制冷更低耗，运行更轻音。</p><p data-vmark=\"6c3c\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"a26e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/358298e1-4471-4e3c-a68f-fb1c633c20ec.png?x-bce-process=image/format,f_auto\" w=\"700\" h=\"998\" data-weibo=\"2\" data-vmark=\"78e7\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4g8ODtx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4g807tM\" data-iosurl=\"https://u.jd.com/4g88Dfq\" data-androidurl=\"https://u.jd.com/4O8Oq8d\" data-hosnexturl=\"https://u.jd.com/4G8GNVe\" data-hosurl=\"https://u.jd.com/4680zrE\" data-uwpurl=\"https://u.jd.com/4G8vrlA\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4G8goLo%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/418Skr0\" data-lpwxurl=\"https://u.jd.com/4G81k7L\"   data-ncid=\"239921\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/522239/18/10511/49466/6aacf54fF7cebeba8/0083320320c0513f.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米米家冰箱 256L 三门</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1299 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/821.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/821.htm"
+    },
+    {
+      "id": 843,
+      "title": "Retroid Pocket 公布 Duo 双屏 Android 掌机 Lite Plus 版，搭载跃龙 Q-7790",
+      "summary": "IT之家 9 月 20 日消息，Retroid Pocket 近日公布了其双屏 Android 掌机 Duo 的 Lite Plus 版本。 这一变体与 Duo Lite 共享机身设计，依旧搭载 5.5\" 1920×1080 60Hz LCD 上屏、4.2\" 960×720 60Hz LCD 下屏；但处理器从高通跃龙 QCS6125 升级至 Duo 标准版同款的跃龙 Q-7790；配备 8GB 内存、128GB 存储。 Retroid Pocket Duo Lite Plus",
+      "content": "<p data-vmark=\"6a30\">IT之家 9 月 20 日消息，Retroid Pocket 近日公布了其双屏 Android 掌机 Duo 的 Lite Plus 版本。</p><p data-vmark=\"47ec\">这一变体与 Duo Lite 共享机身设计，依旧搭载 5.5\" 1920×1080 60Hz LCD 上屏、4.2\" 960×720 60Hz LCD 下屏；但<strong>处理器从高通跃龙 QCS6125 升级至 Duo 标准版同款的跃龙 Q-7790</strong>；配备 8GB 内存、128GB 存储。</p><p data-vmark=\"0b0a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/49460668-ce55-4601-b0bd-9c4579eeb5d5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"823\" data-weibo=\"0\" data-vmark=\"34fe\" class=\"no-alt-img\"></p><p data-vmark=\"f5d2\">Retroid Pocket Duo Lite Plus 零售价 1498 元人民币，9 月 22 日 14:00 上架，11 月 10 日前<strong>预售价 1348 元人民币</strong>，预计 11 月 20 日左右开始发货。</p><p data-vmark=\"1f7a\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"bb84\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/000/605.htm\">Retroid Pocket 预告双屏 Android 掌机 Duo / Duo Lite，基于高通跃龙芯片</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/820.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/820.htm"
+    },
+    {
+      "id": 844,
+      "title": "消息称联想寻求出售卢森堡国际银行 90% 股权，估值或达 25 亿欧元",
+      "summary": "IT之家 9 月 20 日消息，据《金融时报》今日报道，联想控股正寻求出售卢森堡国际银行（Banque Internationale à Luxembourg）90% 股权，首轮报价预计将在本月底前后提交，估值可能达到 25 亿欧元（IT之家注：现汇率约合 192.54 亿元人民币）或更高。 据知情人士透露，该笔交易将由高盛协助，目前已有欧洲和中东机构对卢森堡国际银行表达初步兴趣，相关谈判仍处于早期阶段，当前无法确认最终是否达成交易。 据悉，联想控股 2017 年从卡塔尔王室",
+      "content": "<p data-vmark=\"1cdf\">IT之家 9 月 20 日消息，据《金融时报》今日报道，联想控股正寻求出售卢森堡国际银行（Banque Internationale à Luxembourg）90% 股权，首轮报价预计将在本月底前后提交，<strong>估值可能达到 25 亿欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 192.54 亿元人民币）</span>或更高</strong>。</p><p style=\"text-align: center;\" data-vmark=\"072d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/581755c1-7fd6-40cb-a2c0-5f7e3dde60a5.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"250\" data-weibo=\"0\" data-vmark=\"4515\" class=\"no-alt-img\"></p><p data-vmark=\"9ed9\">据知情人士透露，该笔交易将由高盛协助，目前已有欧洲和中东机构对卢森堡国际银行表达初步兴趣，相关谈判仍处于早期阶段，当前无法确认最终是否达成交易。</p><p data-vmark=\"c059\">据悉，联想控股 2017 年从卡塔尔王室集团 Precision Capital 手中收购了卢森堡国际银行，<strong>当时估值约为 16 亿欧元<span class=\"exch-money-value\">（现汇率约合 123.23 亿元人民币）</span></strong>。</p><p data-vmark=\"8e4a\">截至 2025 年底，卢森堡国际银行管理的资产规模约为 500 亿欧元<span class=\"exch-money-value\">（现汇率约合 3,850.81 亿元人民币）</span>，同比增长 7%；该行净利润为 2.1 亿欧元<span class=\"exch-money-value\">（现汇率约合 16.17 亿元人民币）</span>，同比增长 24%。路透社曾于去年 3 月报道称，联想已聘请银行家研究出售方案。</p><p data-vmark=\"ec75\">卢森堡国际银行与高盛拒绝置评。截至发稿，联想控股暂未回应置评请求。</p>",
+      "link": "https://www.ithome.com/1/004/818.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/818.htm"
+    },
+    {
+      "id": 845,
+      "title": "荣耀上架 MagicBook Pro 16 2025“极客版”笔电，搭载 3K 护眼屏",
+      "summary": "IT之家 9 月 20 日消息，荣耀 (HONOR) 现已在电商平台上架 MagicBook Pro 16 2025“极客版”笔记本电脑。其可选星辰灰、云霓色外观，明日 12:00 开启预约。 这一版本预计搭载英特尔酷睿 Ultra 5 处理器（部分位置提到“第 2 代英特尔酷睿 Ultra”，但也有位置提到 \"Intel Core Ultra 5 125H\"），配套 3072×1920 165Hz 的 100% DCI-P3 色域 IPS 屏幕，拥有 16GB 内存和 51",
+      "content": "<p data-vmark=\"da64\">IT之家 9 月 20 日消息，荣耀 (HONOR) 现已在电商平台上架 MagicBook Pro 16 2025“极客版”笔记本电脑。其可选星辰灰、云霓色外观，<strong>明日 12:00 开启预约</strong>。</p><p data-vmark=\"67f7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5e393809-9e2f-401f-8d93-652b3de90ff0.jpg\" w=\"800\" h=\"533\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d18b4118123b104c84c23c5f1ef8f0b16fedd9ea7206f48692bee1d554bc10c893197bd041fd05ef47\" data-vmark=\"e722\" class=\"no-alt-img\"></p><p data-vmark=\"65d8\">这一版本预计搭载英特尔酷睿 Ultra 5 处理器（部分位置提到“第 2 代英特尔酷睿 Ultra”，但也有位置提到 \"Intel Core Ultra 5 125H\"），配套 3072×1920 165Hz 的 100% DCI-P3 色域 IPS 屏幕，<strong>拥有 16GB 内存和 512GB 存储</strong>。</p><p data-vmark=\"6e4a\">MagicBook Pro 16 2025“极客版”配备 12mm 热管，<strong>支持 65W 性能释放</strong>；内置 75Wh 锂离子聚合物电池；整机轻至 1.79kg、薄至 17.9mm。</p><p data-vmark=\"424c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a66cd97b-0f4d-4ae1-82ce-1e4416060e2b.jpg\" w=\"800\" h=\"533\" class=\"transparent no-alt-img\" data-weibo=\"1\"  data-vmark=\"cacd\"></p>",
+      "link": "https://www.ithome.com/1/004/813.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/813.htm"
+    },
+    {
+      "id": 846,
+      "title": "AOC AGP327UZD 叠曜版显示器开售：31.5 英寸 4K 240Hz 双模，6499 元",
+      "summary": "IT之家 9 月 20 日消息，AOC AGP327UZD 叠曜版显示器现已开售，原价 6999 元，领券到手价 6499 元。 相较原版 AGP327UZD，叠曜版升级至 LG Display 的 Primary RGB Tandem 2.0 技术四层 R-B-G-B WOLED 面板，相比传统三层结构亮度效率提升约 20%，色彩容量提升约 25%，色彩亮度提升约 40%，抗反光性能提升约 15%。 这款显示器拥有 1,850,000:1 静态对比度，通过 VESA Dis",
+      "content": "<p data-vmark=\"9422\">IT之家 9 月 20 日消息，AOC AGP327UZD 叠曜版显示器现已开售，原价 6999 元，领券到手价 6499 元。</p><p data-vmark=\"7382\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ee9b3359-8a17-416c-8b09-0814db94ae70.jpg\" w=\"1440\" h=\"2526\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d189f6cdeaf417243d80b885c74bec76a9fba5f22561a577d310f7a413e62bb31c63ac29989570e48b\" data-vmark=\"7dc7\" class=\"no-alt-img\"></p><p data-vmark=\"6029\">相较原版 AGP327UZD，叠曜版<strong>升级至 LG Display 的 Primary RGB Tandem 2.0 技术四层 R-B-G-B WOLED 面板</strong>，相比传统三层结构亮度效率提升约 20%，色彩容量提升约 25%，色彩亮度提升约 40%，抗反光性能提升约 15%。</p><p data-vmark=\"aba4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/15fcbb43-6782-4a9d-8fb9-842358c34bea.png\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"bd19\" class=\"no-alt-img\"></p><p data-vmark=\"19a9\">这款显示器拥有 1,850,000:1 静态对比度，通过 VESA DisplayHDR True Black 500 认证，HDR 峰值亮度可达 1500nits（APL 1.5%），配备 AGLR 零雾度防眩光层。</p><p data-vmark=\"d6a2\">这款显示器支持 4K 240Hz 与 FHD 480Hz 一键双模切换，覆盖 99.5% DCI-P3 色域、100% sRGB 色域，出厂校色平均 ΔE＜1；配备 DP 2.1 接口、双 HDMI 2.1 接口，USB-C 接口支持 65W 反向充电，另外提供 3 个 USB 3.2 Gen1 接口。</p><p data-vmark=\"f5bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/81de202d-6ad7-43af-a2d5-8ef5d756aa57.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"2\" alt=\"接口参数\" data-vmark=\"ae6e\"></p><p data-vmark=\"e7e2\">IT之家附这款显示器详细参数：</p><p data-vmark=\"d0dd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/972db986-c2d8-4671-8e21-109f890f1bfe.jpg\" w=\"1440\" h=\"3832\" data-weibo=\"3\"  data-vmark=\"14e0\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4r8aRUf\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4D8ybS8\" data-iosurl=\"https://u.jd.com/4O8SaTZ\" data-androidurl=\"https://u.jd.com/4180yO4\" data-hosnexturl=\"https://u.jd.com/4O83dim\" data-hosurl=\"https://u.jd.com/4G8Y8az\" data-uwpurl=\"https://u.jd.com/4g81i27\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f418rLQC%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/418YYJE\" data-lpwxurl=\"https://u.jd.com/468vnhZ\"   data-ncid=\"239900\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/520890/37/10964/165141/6aaf473eF52a42b7b/0083438438d33ad1.jpg\" w=\"1080\" h=\"1080\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC 爱攻昊天 Max 32 英寸 4K240Hz 显示器 AGP327UZD 叠曜版</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 6499 元</span><span class=\"card-btn-deep\">领 500 元券</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/807.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/807.htm"
+    },
+    {
+      "id": 847,
+      "title": "消息称一加 16 手机将支持 180FPS 超高帧运行《原神》，号称实现“DLSS4 同代”游戏体验",
+      "summary": "IT之家 9 月 20 日消息，微博博主 @数码闲聊站 今日在微博发文称，“加加 16”（一加 16）手机可以跑 180FPS 超高帧率《原神》。 该博主宣称，该机将搭载新一代「风驰游戏内核」，与高通深度合作，基于 SM8975 （预计为骁龙 8 Elite Gen6 Pro）打造独占 GPU 黑科技，首次在移动端实现了“DLSS4 同代”游戏体验，性能释放“恐怖如斯”，原神能裸机直接跑满 180FPS。 后续有用户在评论区表示：“真有人整天玩原神吗？”，博主回应称：“如果你",
+      "content": "<p data-vmark=\"a719\">IT之家 9 月 20 日消息，微博博主 @数码闲聊站 今日在微博发文称，“加加 16”（一加 16）手机可以跑 180FPS 超高帧率《原神》。</p><p style=\"text-align: center;\" data-vmark=\"0ab5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/17b867d3-bddd-4ca9-aadf-0b12ece6543c.png?x-bce-process=image/format,f_auto\" w=\"958\" h=\"873\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRiYBWtSzY%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d11ddcec86d665bf421df899bed3a9fc21e8941ad598bcae1c4d8d68b4748b278b6edbbe22a1cac509\" data-vmark=\"a20b\" class=\"no-alt-img\"></p><p data-vmark=\"420d\">该博主宣称，该机将搭载新一代「风驰游戏内核」，与高通深度合作，<strong>基于 SM8975 （预计为骁龙 8 Elite Gen6 Pro）打造独占 GPU 黑科技</strong>，首次在移动端实现了“DLSS4 同代”游戏体验，性能释放“恐怖如斯”，原神能裸机直接跑满 180FPS。</p><p data-vmark=\"4385\">后续有用户在评论区表示：“真有人整天玩原神吗？”，博主回应称：“如果你玩游戏，加加有原生 165Hz/185Hz 游戏，180 帧超帧原神等等，不玩游戏有全局 165Hz 超高帧体验”。</p><p data-vmark=\"354f\">IT之家注意到，一加 16 现已通过国内 3C 认证，型号为 PYB110，<strong>认证信息显示其支持 100W 有线充电</strong>。该机型于前两个月通过 SRRC 认证及工信部入网认证，确认支持 N79 5G 频段（4800–4960MHz），目前三证齐全只待发布。</p><p style=\"text-align: center;\" data-vmark=\"830b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/508369b0-f776-466d-bfee-f3c0d0970d30.jpg\" w=\"1440\" h=\"1440\" data-weibo=\"1\" data-mpos=\"0,2\"  data-vmark=\"1ce3\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/806.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/806.htm"
+    },
+    {
+      "id": 848,
+      "title": "雷神首款 AI 移动工作站 AI Master M7000 明日开售：锐龙 AI Max+ 395 处理器，1.99 万元",
+      "summary": "IT之家 9 月 20 日消息，雷神官方今天宣布，雷神首款人工智能移动工作站 AI Master M7000 将于明日 10:00 开售，号称可运行 120B 参数的端侧 AI 大模型，适配创作、开发、科研、涉密四大领域，首发 + 国补价格 1.99 万元。 据介绍，该机将搭载 AMD 锐龙 AI Max+ 395 处理器，拥有 64GB 内存以及 AI 固态硬盘，预装 Herdsman（IT之家注：牧马人本地推理引擎），支持开箱即用。 据IT之家此前报道，该笔记本拥有 16",
+      "content": "<p data-vmark=\"17ba\">IT之家 9 月 20 日消息，雷神官方今天宣布，雷神首款人工智能移动工作站 AI Master M7000 将于明日 10:00 开售，号称可运行 120B 参数的端侧 AI 大模型，适配创作、开发、科研、涉密四大领域，首发 + 国补价格 1.99 万元。</p><p style=\"text-align: center;\" data-vmark=\"375d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c3e49bea-04ee-450c-92cf-538ad4747b37.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"1380\" data-weibo=\"0\" data-vmark=\"bf42\" class=\"no-alt-img\"></p><p data-vmark=\"253d\">据介绍，该机将搭载 AMD 锐龙 AI Max+ 395 处理器，拥有 64GB 内存以及 AI 固态硬盘，预装 Herdsman（IT之家注：牧马人本地推理引擎），支持开箱即用。</p><p style=\"text-align: center;\" data-vmark=\"ff81\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bf9289ba-2a58-4543-a57d-b5327cc6da00.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"1380\" data-weibo=\"1\" data-vmark=\"a424\" class=\"no-alt-img\"></p><p data-vmark=\"6ec2\"><a href=\"https://www.ithome.com/0/956/660.htm\" target=\"_blank\">据IT之家此前报道</a>，该笔记本拥有 16 英寸 2.5K 屏幕，内置 99Wh 电池，提供 OCuLink、2.5GbE RJ45、microSD UHS-II 读卡器，机身总重 2.45kg。</p><p data-vmark=\"6de4\">M7000 的一大特色是其支持群联的 aiDaptiv+ 方案，利用 SSD 扩展推理运行中的可用显存，在 64GB 内存上流畅运行 GPT-OSS-120B 模型。该机市售款配备 64GB 内存和 768GB + 85GB AI SSD 存储，<strong>首发 + 国补到手价为 19999 元</strong>。</p>",
+      "link": "https://www.ithome.com/1/004/801.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/801.htm"
+    },
+    {
+      "id": 849,
+      "title": "安克移动影院 X1 Pro 投影仪上架：自带滚轮拉杆便于移动，4800 CVIA 亮度，28999 元",
+      "summary": "IT之家 9 月 20 日消息，安克现已在京东上架一款安克移动影院 X1 Pro 投影仪，该产品主要适用于露营等场景，自带滚轮拉杆可实现自由移动，定价为 28999 元。 京东 ANKER 安克移动影院 X1 Pro 投影仪 28999 元直达链接 该投影仪尺寸为 435×343×761mm。整机重量（包含音箱和麦克风）为 32.8kg，设备配备了航空级伸缩拉杆和全地形静音滚轮，方便移动。同时拥有智能环境感应系统，支持 25° 自动角度调节，屏幕自动避障、实时自动对焦和屏幕自",
+      "content": "<p data-vmark=\"cf1f\">IT之家 9 月 20 日消息，安克现已在京东上架一款安克移动影院 X1 Pro 投影仪，该产品主要适用于露营等场景，自带滚轮拉杆可实现自由移动，<strong>定价为 28999 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4g8dBe6\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4g8I8Fs\" data-iosurl=\"https://u.jd.com/46zoG5D\" data-androidurl=\"https://u.jd.com/41zmUua\" data-hosnexturl=\"https://u.jd.com/4G8GuCj\" data-hosurl=\"https://u.jd.com/4g8LJ76\" data-uwpurl=\"https://u.jd.com/4D86fe2\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4G86JT7%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4O8CEdW\" data-lpwxurl=\"https://u.jd.com/4Dzmu0o\"   data-ncid=\"239866\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/524718/9/6989/60568/6aabaf47F0837ab33/0083320320578131.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> ANKER 安克移动影院 X1 Pro 投影仪</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 28999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"ab90\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fde78610-eec5-4db8-98b4-7ace54633c4e.png\" w=\"738\" h=\"1312\" data-weibo=\"0\" data-vmark=\"6b0d\" class=\"no-alt-img\"></p><p data-vmark=\"d516\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/74065a2e-8ce9-492f-be42-1b2cb97dbfc1.png\" w=\"650\" h=\"1150\" data-weibo=\"1\" data-vmark=\"0b3f\" class=\"no-alt-img\"></p><p data-vmark=\"faac\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5037f78c-820d-4555-ad2a-b57e53f02f37.png\" w=\"662\" h=\"1108\" data-weibo=\"2\" data-vmark=\"cc58\" class=\"no-alt-img\"></p><p data-vmark=\"4d6a\">该投影仪尺寸为 435×343×761mm。整机重量（包含音箱和麦克风）为 32.8kg，设备配备了航空级伸缩拉杆和全地形静音滚轮，方便移动。同时拥有智能环境感应系统，支持 25° 自动角度调节，屏幕自动避障、实时自动对焦和屏幕自动贴合等功能。提供 1 个 USB-A、2 个 USB-C 和 1 个 HDMI 2.1 接口。</p><p data-vmark=\"6afa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/242d9c12-b025-4fa6-aa8d-6c9285a6aac8.png\" w=\"654\" h=\"1138\" data-weibo=\"3\" data-vmark=\"9cd2\" class=\"no-alt-img\"></p><p data-vmark=\"1f8f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/045abbe4-c292-44a8-820d-467a871f473e.png\" w=\"660\" h=\"540\" data-weibo=\"4\" data-vmark=\"cd68\" class=\"no-alt-img\"></p><p data-vmark=\"ec6d\">该投影仪匹配 0.47'' DMD 显示芯片，搭载三色激光光学引擎和机械动态光圈，结合多种色散玻璃镜片组件，有效控制像差和色差。提供 4800 CVIA 流明亮度和 56,000:1 的动态对比度，投射比在 0.9:1 至 1.5:1 之间，色彩准确度达到 ΔE≤0.8，覆盖 110% Rec. 2020 色域。</p><p data-vmark=\"78b2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a4e0af54-1974-413f-acc4-8565cc3a9d70.png\" w=\"656\" h=\"1114\" data-weibo=\"5\" data-vmark=\"644b\" class=\"no-alt-img\"></p><p data-vmark=\"eff1\">该产品音响系统采用无线 7.1.4 杜比全景声，总功率达 400W。配备了双 5.25 英寸对推式驱动单元，低频下潜至 38Hz，提供强劲的低音效果。音响具备 IP54 级防水，支持 PD 快充，内置电池续航可达 8 小时，延迟低至 25ms。</p><p data-vmark=\"fb11\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/85f8eb4e-fa29-44f7-8c4a-3ee93f295057.png\" w=\"660\" h=\"776\" data-weibo=\"6\" data-vmark=\"4597\" class=\"no-alt-img\"></p><p data-vmark=\"aa7c\">IT之家附产品参数：</p><p data-vmark=\"5f4f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3a065a19-f7a7-4064-b90f-c3ae56688186.png\" w=\"666\" h=\"1158\" data-weibo=\"7\" data-vmark=\"45df\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/786.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/786.htm"
+    },
+    {
+      "id": 850,
+      "title": "利奥博德推出全铝合金机械键盘 AKLCHEMIE：三模全配列，1350 元起",
+      "summary": "IT之家 9 月 20 日消息，外设品牌 Leopold（利奥博德）近日在国行渠道上架了机械键盘新品 AKLCHEMIE (FC900ALH)。该型号采用全配列设计，支持三模五设备连接，售价 1350 元起。 AKLCHEMIE 拥有 CNC + 阳极氧化工艺全铝机身，内部则是 Top Mount 固定结构，搭载铝合金定位板。其采用 QMK 固件，支持 VIA 改键；拥有北向热插拔轴座。 该键盘搭载力度 45gf 的 Leopold 线性或静音线性轴体开关；键帽为 1.5mm",
+      "content": "<p data-vmark=\"c59b\">IT之家 9 月 20 日消息，外设品牌 Leopold（利奥博德）近日在国行渠道上架了机械键盘新品 AKLCHEMIE (FC900ALH)。该型号采用全配列设计，支持三模五设备连接，售价 1350 元起。</p><p data-vmark=\"d2ba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/19f0a9ff-0faf-44ae-a059-adbcc7856dd6.jpg\" w=\"1000\" h=\"400\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d18ed72d77980a1161fd61951fe3a470aacce031cbe7808795d6a4ab86fb18b0e813014291672fc7da\" data-vmark=\"5677\" class=\"no-alt-img\"></p><p data-vmark=\"ac93\">AKLCHEMIE <strong>拥有 CNC + 阳极氧化工艺全铝机身</strong>，内部则是 Top Mount 固定结构，搭载铝合金定位板。其采用 QMK 固件，支持 VIA 改键；拥有北向热插拔轴座。</p><p data-vmark=\"3403\">该键盘搭载力度 45gf 的 Leopold 线性或静音线性轴体开关；键帽为 1.5mm PBT 材质双色注塑工艺，<strong>采用原创字体正刻</strong>；集成 4000mAh 电池，开启背光下无线续航可达 12hr。</p><p data-vmark=\"803a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/264e3a66-e131-4d01-ad7f-1728ee6a7b96.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"750\" data-weibo=\"1\" data-vmark=\"7bba\"  class=\"no-alt-img\"></p><p data-vmark=\"76b3\">Leopold AKLCHEMIE (FC900ALH) 键盘线性轴款售价 1350 元、静音线性轴款售价 1380 元。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?e=mfNyPKlWPKGlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8AdaPd2r5qmLDR4o738AvQJEgDY1UYwg5aau%2FLeIT9tp9PSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj7%2FGtY6bnjaIXeKY7bt%2FJxei7sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FVRhTyMApKzFUVeqfmHymCWmTVZ8J%2FhSVYo3XwCjH%2BLOyUgwIt9KkNqLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=2150466017898852937278225e0b0c&amp;&amp;union_lens=lensId:TAPI@1789885293@214142f8_1470_1a0bd7a24e9_6e88@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?e=2rU%2B37iitnalhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8Bm6HPN4KCAUqGThSu0%2FOyyxJQX9nLRYSdVmeEcwmHGPNPSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj79c20wD6GlOD6DYjokcLqn27sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FULig5gKRbNFiMHU7eCxm5o4%2BDhYTNyHzoSS5ns2Pk6NVqVYEPXSnQaLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=2150461517898852941142360e0abf&amp;&amp;union_lens=lensId:TAPI@1789885294@213f175c_1428_1a0bd7a266b_1a86@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?e=DUg4LVWMAKClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8CM9QEJW%2B4Cx%2FoPSqv%2F0VSxUTQ1p9NYd9apKt74SR5w4tPSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj7%2BeAnlUZh6IcH0dnUoXWRDL7sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FUNw2%2FqT%2BBEX9zIQptQDlVP6Zik7N739hpBT63nsqQ81n5bfepezZ5bLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=2150460717898852958332471e0dc5&amp;&amp;union_lens=lensId:TAPI@1789885295@0b8040fa_1d44_1a0bd7a2d24_7681@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?e=Np7NHRUyWYWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8DTBHA6dzNwj3HQ2cCH9B77whzmOhJNp6bQBsu8TbAu5NPSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj78UnY3e6bvax11%2FugXygHDz7sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FWKHhkXIhXVd2CjlXKX%2BGqhivo3xTTFX%2Bz1AymFjRGpu6E2wLHvH9LeLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=215042d517898852962853059e0bb4&amp;&amp;union_lens=lensId:TAPI@1789885296@210781c6_147b_1a0bd7a2ee4_7bf8@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?e=BX7hCbLAn6qlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8D304C7ylqCzVzydD%2FJdUJ30wbpEh1ZAUmj6jC9e4IwHVAwu0NigZCFnYm0ShJr%2FxTVihyeeW7pL3aGlLORcQ%2BKNNTwMLvlEHGOVQKSzWRkUDO3MCGPIe5KifdBmev74WnKmZO2fdtQmw36hBQToU3MX%2FaYS5jv%2F2azY0F5sN%2F%2FN3kz%2FeXNmddoI3e4wvbkkqXMwzL4HTqfQ0yB0qqXIDE1uQUjS0qmBspGSayDJBb4MLk6WV%2BQDsVnUizuWKKQzXC7quiX2qJUdK5OaBGcL9GSTA0FRtOwCuw%3D&amp;traceId=2150458517898852970824521e0b6a&amp;&amp;union_lens=lensId:TAPI@1789885297@2166c47e_146b_1a0bd7a31f3_8fff@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?e=jwCGXRyT5w6lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8AecFvZ4psBy8m9gJYTwDQTXEByw%2Bq63eu%2BvwjvjYdIK9PSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj79KdtTZDxUk%2BDKH7mKcztg17sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FUwMGl2%2BNAVv4xequmWyBTuM9k%2Bu3eNYL%2FJgIMdx9t%2FGbl9Po56CXpGLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=2150462817898852966905903e0cfa&amp;&amp;union_lens=lensId:TAPI@1789885296@210569e9_147d_1a0bd7a3079_6dc7@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?e=eylzi6Oh3zKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8B6p6bqBofbVDHdgmMuYtext98kq569uUpAgVfgESqwxtPSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj7%2FRdkwit84Pg9lqbfn7ukz47sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FXCI0ch4DBN6dzIQptQDlVPx2sA8PtBcDPO3Uog2%2FnnQnsb3Mhp%2FzsTLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=215046c117898852974677887e0d4b&amp;&amp;union_lens=lensId:TAPI@1789885297@21334023_1e99_1a0bd7a337c_3972@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?e=SMgqp4u3HialhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8BVjLbIS0w5khPszCaJOBZbUWVG6om8yAiE9QzcfNy1B9PSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj79Kh8reR4D6yEyH9bADH%2F4D7sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FVfd8HbTT%2BOgQCrwXK2gpamg9LR%2BvVqwpP4Jeq8oRWRx%2FI477RHVT4vLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=215046d717898852978837134e0da3&amp;&amp;union_lens=lensId:TAPI@1789885297@0b5dcb60_1479_1a0bd7a3526_9255@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?e=DsIGN5Or2PulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8DCiiO0KlDK%2BJiExCx6rPO%2FWmfUkwb2sfMlEC9h7jmh%2FtPSVLcOKTjhBLdq8j0gyPfP34GK%2FhehF%2FIxbd4gBYpFrot4aGAlj78%2B7d8NtRoDyEllyAvLzvck7sJZqwqFeljekw1OWa8kFPjFMM8WJUihQ8vXcFOWh%2FVl1JE56usoJ%2BWqUCe3cb3xTbx2pDPdVWWBPPl7Sf0%2FLv2lA6KJPn1iLPARqhk5S9IxX1Ux60PqapfEpcZ82j7dCZRXuWAy%2FGCXkxHjJVr836p75K7%2FyOr4JTNWSR3CwiY%3D&amp;traceId=215045d217898852983036430e0cf2&amp;&amp;union_lens=lensId:TAPI@1789885298@0b8040fa_1d44_1a0bd7a36c3_76e6@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?e=brpfAZRk2culhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8D%2FxgEdpS87TrxH6ci8LJEo0S%2BnyrP1q%2BjWEYWQqguK4FAwu0NigZCFnYm0ShJr%2FxTVihyeeW7pL3aGlLORcQ%2BKNNTwMLvlEHFTZTISyOu99RktC9im0SBxifdBmev74WnKmZO2fdtQmw36hBQToU3MX%2FaYS5jv%2F2ZIR8vh0i34wDDnleWi99%2B0GqVJE9dGWQyGBs3leNvXQOpLQ4DvWzm3uQUjS0qmBspGSayDJBb4MLk6WV%2BQDsVnUizuWKKQzXC7quiX2qJUdK5OaBGcL9GSTA0FRtOwCuw%3D&amp;traceId=2150458617898852987498338e0b71&amp;&amp;union_lens=lensId:TAPI@1789885298@2136718f_1463_1a0bd7a387f_47eb@01\"   data-ncid=\"239804\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/i4/4158134287/O1CN012JkinDhzmTI21stE_!!4158134287.jpg\" w=\"1000\" h=\"1000\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">利奥博德 AKLCHEMIE 键盘</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1350 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/785.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/785.htm"
+    },
+    {
+      "id": 851,
+      "title": "卢伟冰：真正意义上的 AI 手机，离走进我们生活，还有不少距离",
+      "summary": "IT之家 9 月 20 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。” 卢伟冰提到，近年来，全行业都在聊 AI 手机，但目前看，真正意义上的 AI 手机，距离走进我们的生活，还有不少距离。 他表示，还需要整个 AI 和手机行业的共同努力。这一次，小米也走出了关键的一步，从系统软件到芯片硬件，从影像到大模型应用，小米 18 Pro 系列就是小米用 ",
+      "content": "<p data-vmark=\"6b17\">IT之家 9 月 20 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。”</p><p data-vmark=\"97c5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1920\" data-vmark=\"0c43\" data-mpos=\"0,0\" class=\"no-alt-img\"></p><p data-vmark=\"502a\">卢伟冰提到，近年来，全行业都在聊 AI 手机，<strong>但目前看，真正意义上的 AI 手机，距离走进我们的生活，还有不少距离</strong>。</p><p data-vmark=\"7281\">他表示，还需要整个 AI 和手机行业的共同努力。这一次，小米也走出了关键的一步，从系统软件到芯片硬件，从影像到大模型应用，<strong>小米 18 Pro 系列就是小米用 AI 全面改造智能手机的开始</strong>。</p><p data-vmark=\"9120\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/94bd0a8c-3d3d-4b6d-b85b-d45c612835e4.png?x-bce-process=image/format,f_auto\" w=\"937\" h=\"2281\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5345162873799867%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\"  data-vmark=\"48c2\" class=\"no-alt-img\"></p><p data-vmark=\"7abf\">根据规划，小米 18 Pro 系列手机将于 9 月 23 日 19:00 发布。IT之家附小米 18 Pro 系列手机已公开亮点如下：</p><p data-vmark=\"b7ed\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3b51616e-a6c7-47ac-bf33-3e3eff1eddc1.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"4096\" data-vmark=\"947e\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"9607\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4773\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/004/782.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/782.htm"
+    },
+    {
+      "id": 852,
+      "title": "更大的换热面积：机械大师公布 KLEIN 系列双冷排 AIO 液冷",
+      "summary": "IT之家 9 月 20 日消息，方糖机械大师 (Mechanic Master) 现已在其官网公布了“3D 结构分体水冷”KLEIN AIO。 与传统 PC AIO 液冷散热器多数仅配备一组冷排不同的是，KLEIN AIO 现有的三款产品 (K240+120, K360+120, K360+360) 均拥有 2 组冷排，这带来了更大的换热面积。 K240+120、K360+120 支持机箱顶部 + 后方安装位，K360+360 在设计上则应占据机箱顶部和主板旁（右侧前方）的安",
+      "content": "<p data-vmark=\"7209\">IT之家 9 月 20 日消息，方糖机械大师 (Mechanic Master) 现已在其官网公布了“3D 结构分体水冷”KLEIN AIO。</p><p data-vmark=\"867b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/87b6942f-7c94-4871-9098-fcc4176ba187.jpg?x-bce-process=image/format,f_auto\" w=\"639\" h=\"639\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d13dc152d1d2c5d39bde599b8ea0cb7c48ab2caf955f0d2c9e7ab9222fd08d07381a81bb74e23b2bd4\" data-vmark=\"805f\" class=\"no-alt-img\"></p><p data-vmark=\"e551\">与传统 PC AIO 液冷散热器多数仅配备一组冷排不同的是，KLEIN AIO 现有的三款产品 (K240+120, &nbsp;K360+120, K360+360) 均拥有 2 组冷排，<strong>这带来了更大的换热面积</strong>。</p><p data-vmark=\"7f58\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0e16ccb5-b138-465e-b04a-59b3d472e525.jpg?x-bce-process=image/format,f_auto\" w=\"960\" h=\"639\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d192240c3fb1e26704acf87300c9e9fe483b101ecfd85fbf1dab611c393a1bb2ff1af46ce97fcffae9\" data-vmark=\"0fa8\" class=\"no-alt-img\"></p><p data-vmark=\"a574\">K240+120、K360+120 支持机箱顶部 + 后方安装位，K360+360 在设计上则应占据机箱顶部和主板旁（右侧前方）的安装位。这些 AIO 液冷均<strong>配备复古游戏机风格冷头</strong>，可见 D-Pad 和四颗输入按键，暂不清楚屏幕和按键是否具有实际功能。</p><p data-vmark=\"3901\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9c83fb59-ee16-477a-9ec0-8b7d276b1f64.jpg?x-bce-process=image/format,f_auto\" w=\"960\" h=\"960\" data-weibo=\"2\"  data-vmark=\"4ef8\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/746.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/746.htm"
+    },
+    {
+      "id": 853,
+      "title": "理想 AI 眼镜 Livis 获 9 月 OTA 升级：同声传译新增多语种、音量可根据环境动态调节等",
+      "summary": "IT之家 9 月 20 日消息，理想汽车官方今日宣布，理想 AI 眼镜 Livis 获 9 月 OTA 升级，本次新增 3 项功能，将于下周开启推送。 IT之家附本次主要更新内容如下： 同声传译全面升级：新增多语种，陪你走遍世界。 新增自适应音量：眼镜音量可根据环境动态调节，让聆听始终舒适。 新增视频标记时刻：视频录制时遇到精彩瞬间，长按记录键可随手标记，回顾更便捷。 理想首款 AI 眼镜 Livis 已于去年 12 月 3 日正式发布，搭载恒玄科技 BES2800BP 芯片",
+      "content": "<p data-vmark=\"f970\">IT之家 9 月 20 日消息，理想汽车官方今日宣布，理想 AI 眼镜 Livis 获 9 月 OTA 升级，<strong>本次新增 3 项功能</strong>，将于下周开启推送。</p><p data-vmark=\"69a9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/23fcbfd1-afb0-40cd-8e1d-20575bfc2005.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"0\" data-vmark=\"5814\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d14577d95afdc23eb71efa9a789cfd2fc6538c91bf9abacba06605981529fe2d137f215604c59c27a3\" class=\"no-alt-img\"></p><p data-vmark=\"3b23\">IT之家附本次主要更新内容如下：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"3f71\">同声传译全面升级：<strong>新增多语种</strong>，陪你走遍世界。</p></li><li><p data-vmark=\"2a41\">新增自适应音量：<strong>眼镜音量可根据环境动态调节</strong>，让聆听始终舒适。</p></li><li><p data-vmark=\"6903\">新增视频标记时刻：视频录制时遇到精彩瞬间，<strong>长按记录键可随手标记</strong>，回顾更便捷。</p></li></ul></blockquote><p data-vmark=\"8727\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c5854752-19eb-4120-9765-4dfad598d325.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"1\" data-vmark=\"e9fa\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d15992e8189aee4bd8dfaa6ded15259fdf807d55b48f97c24e39d483f5d36d6f1bb4614ad33a2f71bd\" class=\"no-alt-img\"></p><p data-vmark=\"4ab8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/64e59e9d-81e0-44ec-b74b-498950f04edb.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"2\" data-vmark=\"cc17\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d168f3ab13273aa54d75e260a8d4fa55e3c71a2a7f5a221a6b065f04121d2346c9cab654907f7883ee\" class=\"no-alt-img\"></p><p data-vmark=\"a4ae\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/96a7a963-ce8a-420b-ac84-a32bcfa2cc45.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"3\" data-vmark=\"b846\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1efc56ff7f25611a026f6787714b6df353e86d9270e6f694653db540236c8a2782a3f50beb3d9b111\" class=\"no-alt-img\"></p><p data-vmark=\"1716\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/91263763-f70a-41e5-8ebc-bdd8d27df8f7.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"4\" data-vmark=\"2c3b\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d14f2b70b35284a0165c08c90707335af00d09177c3bc82e0fd92c7dbb1e403a0c979881a3a8cf6250\" class=\"no-alt-img\"></p><p data-vmark=\"27cd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/99c2a74c-328e-404c-889e-05952f174801.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"5\" data-vmark=\"00aa\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1a0d00ab3f8b72479e1a9480ba797507369378d4ea54597632dc86bdddfa3165d2a07e8bdca268199\" class=\"no-alt-img\"></p><p data-vmark=\"c6f3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/74f49e75-4353-4478-95ba-477e9338fb80.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"6\" data-vmark=\"5468\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1cba64c6525efded9c5a0369243a470b4f4cddb516bc3df3faf83e0c118f876a4b8cceb2da8218d0d\" class=\"no-alt-img\"></p><p data-vmark=\"30f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d14e0732-131c-4928-9b48-2a1a0a1fe439.jpg\" w=\"1200\" h=\"1600\" data-weibo=\"7\" data-vmark=\"25d5\" data-mpos=\"0,2\"  class=\"no-alt-img\"></p><p data-vmark=\"0a8e\" style=\"text-align: left;\"><a target=\"_blank\" href=\"https://www.ithome.com/0/902/259.htm\">理想首款 AI 眼镜 Livis 已于去年 12 月 3 日正式发布</a>，搭载恒玄科技 BES2800BP 芯片，重量约 36 克，标配蔡司防蓝光光学镜片，续航可达 18.8 小时，定价 1999 元起、国补后 1699 元起。</p><p data-vmark=\"614d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/12/072eae7f-8711-43c7-a901-d79a049e7c78.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1080\" h=\"4539\" data-vmark=\"8cb3\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4OzFAws\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4Oz4Xti\" data-iosurl=\"https://u.jd.com/4g8KqvP\" data-androidurl=\"https://u.jd.com/4g8bfcH\" data-hosnexturl=\"https://u.jd.com/4G8saEf\" data-hosurl=\"https://u.jd.com/4r8IZmU\" data-uwpurl=\"https://u.jd.com/468CW2q\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4a8LF7H%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4rzkyQT\" data-lpwxurl=\"https://u.jd.com/4G8u63X\"   data-ncid=\"239789\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/515110/24/1969/45196/6a9004adF28470027/0083320320097ec8.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">理想 AI 眼镜 Livis </span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 1849 元</span><span class=\"card-btn-deep\">领 150 元券</span></span></span></span></a></dir><p data-vmark=\"38c1\">2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。</p><p data-vmark=\"8be9\"><strong>数码补贴：<a href=\"https://u.jd.com/AO9cF1s\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AO9DrqM\" data-iosurl=\"https://u.jd.com/Ag91Sjs\" data-androidurl=\"https://u.jd.com/AG9pxhC\" data-hosnexturl=\"https://u.jd.com/AO9fCAz\" data-hosurl=\"https://u.jd.com/Ar9P2XE\" data-uwpurl=\"https://u.jd.com/Ar9Jnih\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fA19cSnL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b962\">手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p data-vmark=\"c55b\"><strong>家电补贴：<a href=\"https://u.jd.com/A696EUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AD9SCkn\" data-iosurl=\"https://u.jd.com/Ag9Wm7I\" data-androidurl=\"https://u.jd.com/A19f6P9\" data-hosnexturl=\"https://u.jd.com/AD9SlUd\" data-hosurl=\"https://u.jd.com/A69gZqX\" data-uwpurl=\"https://u.jd.com/AD91brW\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fAD9gvRL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5ff2\">多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/740.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/740.htm"
+    },
+    {
+      "id": 854,
+      "title": "华为数字能源王超建议汽车行业硬件接口标准化，减少定制损耗",
+      "summary": "IT之家 9 月 20 日消息，第二十二届中国汽车产业发展（泰达）国际论坛 9 月 19 日在天津滨海新区启幕。 据新浪科技报道，华为数字能源技术有限公司副总裁、华为数字能源智能电动产品线总裁王超在论坛上表示，当前电动汽车已经从基础电动化迈入全面电动化，从单一电机电动化到驱动、制动、转向、悬架等方面实现全面电动化。 王超呼吁，加大行业标准化力度，让中国汽车产业链具备更强的全球竞争力。通过产业有效合作分工，充分利用产能；智驾域、座舱域、运动域接口标准化，减少无效无价值开发；通过",
+      "content": "<p data-vmark=\"46d4\">IT之家 9 月 20 日消息，第二十二届中国汽车产业发展（泰达）国际论坛 9 月 19 日在天津滨海新区启幕。</p><p data-vmark=\"c0ef\">据新浪科技报道，华为数字能源技术有限公司副总裁、华为数字能源智能电动产品线总裁王超在论坛上表示，<strong>当前电动汽车已经从基础电动化迈入全面电动化</strong>，从单一电机电动化到驱动、制动、转向、悬架等方面实现全面电动化。</p><p data-vmark=\"aeea\">王超呼吁，加大行业标准化力度，让中国汽车产业链具备更强的全球竞争力。通过产业有效合作分工，充分利用产能；智驾域、座舱域、运动域接口标准化，减少无效无价值开发；<strong>通过硬件接口标准化，减少定制损耗；加大统一平台化力度，减少内卷式开发</strong>，鼓励跨车企平台化，构建单部件百万规模平台。</p><p data-vmark=\"e371\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8de517cc-cbb6-4e7d-8edb-91b05ebb7a18.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"533\" alt=\"华为数字能源智能电动产品线总裁王超\" data-vmark=\"f905\"></p><p data-vmark=\"9cb0\">IT之家注意到，王超曾在今年 7 月的“华为擎友会”活动中表示，华为进入智能电动汽车那一刻，他们就许了一个愿：<strong>做智能网联电动汽车的增量部件</strong>。什么是增量部件，那就是以前没有的东西。为什么要做以前没有的？因为只有突破才能满足大家以前从未被满足的期望。</p><p data-vmark=\"90fd\">华为智擎 HUAWEI DriveONE 官网显示，华为基于 30 多年的 ICT 领域电力电子技术积累，结合大数据、云计算、人工智能等数字化技术，打造新能源汽车全场景运动域解决方案，其中包括 B+ 级纯电运动域解决方案、A 级纯电运动域解决方案、增程运动域解决方案等。</p><p data-vmark=\"ea88\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b2512d2c-802a-42d4-adee-7e76a64e117d.png\" w=\"1440\" h=\"777\" data-vmark=\"7cf8\" data-weibo=\"1\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/737.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/737.htm"
+    },
+    {
+      "id": 855,
+      "title": "微星 PRO COREFROZR AR15 风冷散热器国行首销：配备 5 根 6 mm 热管，129 元",
+      "summary": "IT之家 9 月 20 日消息，微星旗下 PRO COREFROZR AR15 风冷散热器现已在京东开启首销，首发价 129 元。 京东微星 PRO COREFROZR AR15 CPU 风冷散热器 129 元直达链接 该散热器尺寸为 155 mmx 120 mm x 58 mm，主体设计紧凑，顶部采用全黑哑光顶盖，结合纵向纹理与 MSI 标志呈现极简风格，风扇支持 MSI Mystic Light ARGB 灯效。 该散热器配备 5 根 6 mm 铜制热管，通过直触设计与 ",
+      "content": "<p data-vmark=\"2df2\">IT之家 9 月 20 日消息，微星旗下 PRO COREFROZR AR15 风冷散热器现已在京东开启首销，首发价 129 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4GzFU0C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4Dzm9tj\" data-iosurl=\"https://u.jd.com/4rzeswb\" data-androidurl=\"https://u.jd.com/4O8MrWY\" data-hosnexturl=\"https://u.jd.com/4az5XgQ\" data-hosurl=\"https://u.jd.com/4Dzk8QS\" data-uwpurl=\"https://u.jd.com/4az4dXT\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4Dz5qhc%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4GzF1sO\" data-lpwxurl=\"https://u.jd.com/4a8tdyC\"   data-ncid=\"239779\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/507793/12/11548/60497/6a979d44F96b38343/00833203203568ea.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">微星 PRO COREFROZR AR15 CPU 风冷散热器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 129 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"ab46\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0d6121f1-aa58-49ef-9c37-de1927f51f52.png\" w=\"986\" h=\"1496\" data-weibo=\"0\" data-vmark=\"a203\" class=\"no-alt-img\"></p><p data-vmark=\"2a46\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5801b2ee-f548-4140-ba82-50b4cbb7f05f.png\" w=\"860\" h=\"1398\" data-weibo=\"1\" data-vmark=\"0340\" class=\"no-alt-img\"></p><p data-vmark=\"ef30\">该散热器尺寸为 155 mmx 120 mm x 58 mm，主体设计紧凑，顶部采用全黑哑光顶盖，结合纵向纹理与 MSI 标志呈现极简风格，风扇支持 MSI Mystic Light ARGB 灯效。</p><p data-vmark=\"9da6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/375feb3c-b91e-49aa-bd58-be22ac0bbf99.png\" w=\"1230\" h=\"648\" data-weibo=\"2\" data-vmark=\"f8c3\" class=\"no-alt-img\"></p><p data-vmark=\"d899\">该散热器配备 5 根 6 mm 铜制热管，通过直触设计与 CPU 直接接触。搭配 48 片高密度鳍片与低风阻风道，集中风压并有效控制运行噪音。标配的 120 x 120 x 25 mm 来福轴承风扇支持 PWM 模式，转速在 510 至 2100 RPM 之间，风量达 59.97 CFM，风压 2.03 mmH2O，噪音 29.95 dBA。线缆长 300 mm，40°C 下寿命达 40,000 小时。</p><p data-vmark=\"c505\">该散热器内附双平台套件，支持 Intel LGA 1700 与 1851 及 AMD AM4 与 AM5 插槽。其弹簧螺丝设计可简化安装步骤。</p><p data-vmark=\"4d8d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/97b82f09-03b1-4fb8-98ee-546154651efb.png\" w=\"854\" h=\"928\" data-weibo=\"3\" data-vmark=\"6194\" class=\"no-alt-img\"></p><p data-vmark=\"ce25\">IT之家附产品参数：</p><p data-vmark=\"5a8d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7fed4d0d-0b4b-4103-8a8d-454f083efd26.png\" w=\"958\" h=\"1474\" data-weibo=\"4\" data-vmark=\"5e51\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/004/732.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/732.htm"
+    },
+    {
+      "id": 856,
+      "title": "国内首次：“通感智算”一体化技术验证卫星发射成功，5G NTN 基站、核心网、星地激光等联合搬上天",
+      "summary": "IT之家 9 月 20 日消息，北京时间 2026 年 9 月 20 日 12 时 03 分，我国在东风商业航天创新试验区使用力箭一号遥十八运载火箭，成功将秦岭卫星 01、02 星，浦江四号卫星，鹏城首发星，谛听 01 组 A/B/C 星，超智算一号卫星，云霄探路者卫星共 9 颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 鹏城首发星暨鹏城南科一号卫星是“通感智算”一体化技术验证卫星，由银河航天（北京）科技集团股份有限公司（以下简称：银河航天）与鹏城实验室、南方",
+      "content": "<p data-vmark=\"3cfe\">IT之家 9 月 20 日消息，北京时间 2026 年 9 月 20 日 12 时 03 分，<a href=\"https://www.ithome.com/1/004/728.htm\" target=\"_blank\">我国在东风商业航天创新试验区使用力箭一号遥十八运载火箭</a>，成功将秦岭卫星 01、02 星，浦江四号卫星，鹏城首发星，谛听 01 组 A/B/C 星，超智算一号卫星，云霄探路者卫星共 9 颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。</p><p data-vmark=\"b7e7\">鹏城首发星暨鹏城南科一号卫星是<strong>“通感智算”一体化技术验证卫星</strong>，由银河航天（北京）科技集团股份有限公司（以下简称：银河航天）与鹏城实验室、南方科技大学电子与电气工程系、卫星互联网全国重点实验室、广东省空天通信与网络技术重点实验室联合研制，鹏城实验室为任务总体单位，鹏城实验室与南方科技大学为最终用户单位。</p><p data-vmark=\"e93a\">鹏城首发星暨鹏城南科一号卫星是<strong>国内首次把 5G NTN（Non-Terrestrial Network，非地面网络）基站、核心网、星载 AI 智算、星地激光以及微波通信联合搬上天的技术验证卫星</strong>。</p><p data-vmark=\"4b73\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/87790b45-53d9-4fe1-948a-ce291d6631d2.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" alt=\"图片\" data-weibo=\"0\" data-vmark=\"0863\"></p><p data-vmark=\"1cf8\">该卫星单星重量 150 公斤，搭载三种有效载荷分别是：基于 3GPP 标准的 5G NTN 通信载荷，100Gbps 的高速星地激光通信载荷以及数字视网膜在轨计算载荷。通过贯通“通、感、智、算”星上信息流链路，该星将探索“<strong>一星多用、功能融合</strong>”的新型卫星设计理念，推动卫星从单一业务载体向融合通信、感知、计算和智能处理能力的空间信息超节点能力演进。</p><p data-vmark=\"46b1\">据银河航天卫星总体技术部副部长任家栋介绍，通俗理解来看，<strong>这颗卫星可以将原本部署在地面机房里的 5G 网络“大脑”核心网，直接搬到太空工作</strong>。卫星上的遥感载荷成像后，可以通过星上自带的智能计算模块完成目标检测与识别，提炼出有用信息并转换成网络内容，这些信息会由高速星内接口同步载入核心网。地面用户只需通过 Ka 频段终端接入卫星网络，就能像平时浏览网页一样，直接查看这颗卫星实时分析出的各类信息。</p><p data-vmark=\"4c15\">卫星通信与智能遥感探测的深度融合，可实现遥感成像、星上智能处理一体化协同作业。举例来说，如果地面有火情出现，传统模式下需完成数据下传、图像生成后再开展分析，<strong>现在卫星可在轨直接分析遥感数据，输出火情判定结果，并测算着火范围后快速下发</strong>，无需回传原始影像，大大降低卫星数传带宽占用和数据传输时间，并支持原始视频图像数据的按需调取。</p><p data-vmark=\"3ae8\">未来，<strong>该卫星在轨还将支撑多项 6G 前沿技术测试</strong>，推动星地融合从地面网络向空天地一体化跨越。</p>",
+      "link": "https://www.ithome.com/1/004/730.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/730.htm"
+    },
+    {
+      "id": 857,
+      "title": "我国成功发射一箭 9 星，力箭一号运载火箭第 16 次飞行",
+      "summary": "IT之家 9 月 20 日消息，据央视新闻报道，北京时间 2026 年 9 月 20 日 12 时 03 分，我国在东风商业航天创新试验区使用力箭一号遥十八运载火箭，成功将秦岭卫星 01、02 星，浦江四号卫星，鹏城首发星，谛听 01 组 A/B/C 星，超智算一号卫星，云霄探路者卫星共 9 颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 此次任务是力箭一号运载火箭的第 16 次飞行。 IT之家注：力箭一号是中国科学院力学研究所抓总、中科宇航研制的四级固体运载火",
+      "content": "<p data-vmark=\"41be\">IT之家 9 月 20 日消息，据央视新闻报道，北京时间 2026 年 9 月 20 日 12 时 03 分，我国在东风商业航天创新试验区使用力箭一号遥十八运载火箭，<strong>成功将秦岭卫星 01、02 星，浦江四号卫星，鹏城首发星，谛听 01 组 A/B/C 星，超智算一号卫星，云霄探路者卫星共 9 颗卫星发射升空</strong>，卫星顺利进入预定轨道，发射任务取得圆满成功。</p><p data-vmark=\"862f\">此次任务是力箭一号运载火箭的第 16 次飞行。</p><p data-vmark=\"effe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b9470d82-4946-460d-9273-697d6388d41b.png\" w=\"798\" h=\"1427\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fs.weibo.com%2Frealtime%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1f7ea86bc2432289e97d0c07bffa183ca16201288f2722df276d2a510d7018041739eb20cfde12a53\" data-vmark=\"d6ef\" class=\"no-alt-img\"></p><p data-vmark=\"9932\">IT之家注：力箭一号是中国科学院力学研究所抓总、中科宇航研制的四级固体运载火箭，2022 年 7 月 27 日首飞，为中国现役最大固体运载火箭。</p><p data-vmark=\"fda0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c5d0302f-86b1-4bab-96f0-fc746b155d35.jpg?x-bce-process=image/format,f_auto\" w=\"508\" h=\"652\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"6632\" class=\"no-alt-img\"></p><p data-vmark=\"867c\">力箭一号火箭全长 30 米、芯级直径 2.65 米、起飞重量 135 吨、起飞推力 200 吨，500 公里太阳同步轨道运载能力 1.5 吨，近地轨道运载能力 2 吨。</p>",
+      "link": "https://www.ithome.com/1/004/728.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/728.htm"
+    },
+    {
+      "id": 858,
+      "title": "硅基流动完成 B+ 轮二期与 C 轮融资， 2026 年度累计股权融资额近 29 亿元",
+      "summary": "IT之家 9 月 20 日消息，硅基流动近日完成 B+ 轮二期和 C 轮融资，公司 2026 年度累计股权融资额近 29 亿元。 IT之家从硅基流动公众号了解到，参与本轮融资的投资方包括中国互联网投资基金、国新基金、中国移动链长基金、中国东方资产国际、京能基金、上海仪电智算基金、建投华科、北创投、翠微基金、成都科创投、江西金控、成都高新倍特基金、中泰资本、华安嘉业、华胜天成、紫光资本、智路资本、拓尔思、鹏鹞环保、兆讯科技、睿智基金、执君资本和瞰道悟新基金，以及天创资本携山东铁",
+      "content": "<p data-vmark=\"5729\">IT之家 9 月 20 日消息，硅基流动近日完成 B+ 轮二期和 C 轮融资，<strong>公司 2026 年度累计股权融资额近 29 亿元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"12ff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/84290ee6-2638-4fab-8b01-33118d31fb98.jpg?x-bce-process=image/format,f_auto\" w=\"840\" h=\"560\" data-weibo=\"0\" data-vmark=\"8256\" class=\"no-alt-img\"></p><p data-vmark=\"79ed\">IT之家从硅基流动公众号了解到，参与本轮融资的投资方包括中国互联网投资基金、国新基金、中国移动链长基金、中国东方资产国际、京能基金、上海仪电智算基金、建投华科、北创投、翠微基金、成都科创投、江西金控、成都高新倍特基金、中泰资本、华安嘉业、华胜天成、紫光资本、智路资本、拓尔思、鹏鹞环保、兆讯科技、睿智基金、执君资本和瞰道悟新基金，以及天创资本携山东铁投产投、山东铁路基金战略参与。老股东耀途资本、盛奕资本和国泰创投集团追加投资。</p><p data-vmark=\"a3f7\">据悉，上述投资阵容汇集国家级基金、央地国资、产业资本及专业投资机构。<strong>该笔资金将用于加大推理引擎</strong>、<strong>异构算力调度</strong>、<strong>模型与芯片适配等核心技术研发投入</strong>，强化 Token 供应平台能力建设，并加快全球市场拓展。硅基流动将把推理优化优势与流量规模转化为长期竞争力，发展 AI 基础设施。</p><p data-vmark=\"a5bb\">IT之家从公开资料获悉，硅基流动成立于 2023 年 8 月，至今不到 3 年。该公司致力于成为全球领先的 AI 能力提供商，加速 AGI 普惠人类。目前，硅基流动推出了 API 服务、专属实例、企业级 MaaS 平台及大模型一体机等多元解决方案，已在大语言模型、文生图、视频生成等前沿领域实现应用落地。</p>",
+      "link": "https://www.ithome.com/1/004/727.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/727.htm"
+    },
+    {
+      "id": 860,
+      "title": "Intel suspends its $100k bug bounty program",
+      "summary": "Intel has officially suspended its long-running bug bounty program, eliminating cash payouts of up to $100,000 in favor of a zero-reward vulnerability disclosure system on the Intigriti platform. Launched in 2017, Intel’s bounty initiative ",
+      "content": "Intel has officially suspended its long-running bug bounty program, eliminating cash payouts of up to $100,000 in favor of a zero-reward vulnerability disclosure system on the Intigriti platform. Launched in 2017, Intel’s bounty initiative was once a cornerstone of its proactive security strategy, responsible for identifying nearly half of the company's addressed vulnerabilities in 2020 alone.",
+      "link": "https://www.notebookcheck.net/Intel-suspends-its-100k-bug-bounty-program.1403852.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Intel-suspends-its-100k-bug-bounty-program.1403852.0.html"
+    },
+    {
+      "id": 861,
+      "title": "Sandisk E31: Pocket-sized SSD with up to 2 TB and 3-year-warranty now available globally",
+      "summary": "SanDisk’s E31 Portable SSD offers a lighter, more durable design, USB-C connectivity and read speeds of up to 1,000MB/s, but delivers only modest improvements over its predecessor. Available in capacities from 500GB to 2TB, it starts at $10",
+      "content": "SanDisk’s E31 Portable SSD offers a lighter, more durable design, USB-C connectivity and read speeds of up to 1,000MB/s, but delivers only modest improvements over its predecessor. Available in capacities from 500GB to 2TB, it starts at $100 and comes with a three-year warranty.",
+      "link": "https://www.notebookcheck.net/Sandisk-E31-Pocket-sized-SSD-with-up-to-2-TB-and-3-year-warranty-now-available-globally.1403589.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Sandisk-E31-Pocket-sized-SSD-with-up-to-2-TB-and-3-year-warranty-now-available-globally.1403589.0.html"
+    },
     {
       "id": 763,
       "title": "华为造车为何“此路不通”？",
@@ -746,6 +1212,66 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Acer-Predator-Atlas-8-First-units-arrive-initial-impressions-surface.1403487.0.html"
+    },
+    {
+      "id": 859,
+      "title": "Acer Predator QD-OLED monitor now 36% off — 500 Hz refresh rate and True Black 500 certification slashed to $509.99",
+      "summary": "Acer Predator X27U F5 QD-OLED monitor has 500 Hz refresh rate and True Black 500 certification for $509.99",
+      "content": "<article>\n                                <p>Most every day there's yet another bit of news about how RAM, SSDs, and hard drives are insanely expensive. Today, though, there's a reprieve from high prices, in the form of a sale on an exceedingly nice display. The Acer Predator X27U, or model F5bmiippruzx as it's known to friends, is a 27\" 1440p QD-OLED display with a whopping 500 Hz refresh rate and DisplayHDR True Black 500 certification, making for a consistently bright experience. It can be yours for a mere $509.99 at Newegg right now.</p><ul><li><a href=\"https://www.newegg.com/p/N82E16824011534\">Check out all the Acer X27U F5 deal at Newegg</a></li></ul><p>The Predator X27U's display is one of the latter-generation QD-OLED 27\" 2560x1440 types, granting it that massive 500 Hz refresh rate and increased brightness compared to earlier offerings. It's as good a time as any to note that Acer reused the \"Predator X27U\" moniker — the F5 model on sale is the nicer revised version, just in case you go searching and find the old specs.</p><div class=\"product star-deal\"><a data-dimension112=\"4d7e09dc-b451-11f1-8f8b-3fff84bcf017\" data-action=\"Star Deal Block\" data-label=\"Predator X27U F5 - F5bmiippruzx\" data-dimension48=\"Predator X27U F5 - F5bmiippruzx\" data-dimension25=\"$509.99\" href=\"https://www.newegg.com/p/N82E16824011534\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:400px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"yXUT4dfyd7fP2ui8zsn24o\" name=\"Acer Predator X27U F5\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/yXUT4dfyd7fP2ui8zsn24o-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"400\" height=\"400\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.newegg.com/p/N82E16824011534\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"4d7e09dc-b451-11f1-8f8b-3fff84bcf017\" data-action=\"Star Deal Block\" data-label=\"Predator X27U F5 - F5bmiippruzx\" data-dimension48=\"Predator X27U F5 - F5bmiippruzx\" data-dimension25=\"$509.99\">Predator X27U F5 - F5bmiippruzx: was $799.99 now $509.99</a></strong><br>The revised Predator X27U F5 has a massive 500 Hz refresh rate and DisplayHDR True Black 500 certification, all for a low price.<a class=\"view-deal button\" href=\"https://www.newegg.com/p/N82E16824011534\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"4d7e09dc-b451-11f1-8f8b-3fff84bcf017\" data-action=\"Star Deal Block\" data-label=\"Predator X27U F5 - F5bmiippruzx\" data-dimension48=\"Predator X27U F5 - F5bmiippruzx\" data-dimension25=\"$509.99\">View Deal</a></p></div><p>Broadly speaking, OLED displays all have near-zero black levels, an infinite contrast ratio, and \"perfect\" viewing angles and response time. However, this model's DisplayHDR 500 True Black certification is the star of the show, as it ensures that brightness in HDR mode must be at least 500 nits, but most importantly, that full-screen brightness is at least 300 nits.</p><p>Put together, this means that for standard desktop usage, you get a consistently bright image regardless of what's on screen, and that brightness fluctuations ought to be tame — all unlike OLED displays of old. Those 500 nits in HDR mode are also a <em>minimum</em>, too, as Acer says that this display's peak brightness should top out at 1000 nits for 3% panel coverage, for nice highlights during action. As with most any OLED display, the color gamut covers 99% of the DCI-P3 space, and there's true 10-bit input support.</p><p>To make the best use of the 500 Hz refresh rate, the Predator X27U has both AMD FreeSync Premium Pro and Nvidia G-Sync Compatible support. The included stand is height-, tilt-, and swivel-adjustable. The newer revision eschews a proximity sensor and other similar accessories for its lower price, but it does include USB-C connectivity alongside two DisplayPort 1.4 inputs and two HDMI 2.1 ports. A pair of 5W speakers round out the main specs. Get yours now from <a href=\"https://www.newegg.com/p/N82E16824011534\">Newegg for $509.99</a>.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "KBNA79uoNBEyZdUr3PNxnF"
+    },
+    {
+      "id": 862,
+      "title": "Razer launches Tartarus V2 Pro globally: Part keyboard, part controller",
+      "summary": "Razer’s Tartarus V2 Pro blends keyboard precision with controller-style input through 31 programmable controls, adjustable analog optical switches, and an anti-drift TMR thumbstick. Its compact, comfortable design also offers extensive opti",
+      "content": "Razer’s Tartarus V2 Pro blends keyboard precision with controller-style input through 31 programmable controls, adjustable analog optical switches, and an anti-drift TMR thumbstick. Its compact, comfortable design also offers extensive options for customization.",
+      "link": "https://www.notebookcheck.net/Razer-launches-Tartarus-V2-Pro-globally-Part-keyboard-part-controller.1403578.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Razer-launches-Tartarus-V2-Pro-globally-Part-keyboard-part-controller.1403578.0.html"
+    },
+    {
+      "id": 863,
+      "title": "Citizen’s new Disney Eco-Drive watch with colorful design lands in the UK",
+      "summary": "Citizen has unveiled a new stainless steel Eco-Drive watch featuring Mickey and Minnie Mouse on a tandem bicycle in the UK. The watch features a 36 mm compact case, blue dial, mineral crystal, and navy blue leather strap with leather. Plus,",
+      "content": "Citizen has unveiled a new stainless steel Eco-Drive watch featuring Mickey and Minnie Mouse on a tandem bicycle in the UK. The watch features a 36 mm compact case, blue dial, mineral crystal, and navy blue leather strap with leather. Plus, it is an Eco-Drive watch, powered by any light source, with three analog hand functions.",
+      "link": "https://www.notebookcheck.net/Citizen-s-new-Disney-Eco-Drive-watch-with-colorful-design-lands-in-the-UK.1403572.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Citizen-s-new-Disney-Eco-Drive-watch-with-colorful-design-lands-in-the-UK.1403572.0.html"
+    },
+    {
+      "id": 864,
+      "title": "OnePlus 16 makes Geekbench 7 debut, fails to keep up with iPhone 18 Pro Max and A20 Pro",
+      "summary": "The OnePlus 16 will likely be released before the end of the year. Before that, however, the OnePlus flagship phone has now been spotted on the latest version of Geekbench, registering impressive CPU performance numbers thanks to its Snapdr",
+      "content": "The OnePlus 16 will likely be released before the end of the year. Before that, however, the OnePlus flagship phone has now been spotted on the latest version of Geekbench, registering impressive CPU performance numbers thanks to its Snapdragon 8 Elite Extreme Gen 6.",
+      "link": "https://www.notebookcheck.net/OnePlus-16-makes-Geekbench-7-debut-fails-to-keep-up-with-iPhone-18-Pro-Max-and-A20-Pro.1403357.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/OnePlus-16-makes-Geekbench-7-debut-fails-to-keep-up-with-iPhone-18-Pro-Max-and-A20-Pro.1403357.0.html"
     },
     {
       "id": 628,
