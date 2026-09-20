@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-20",
-  "total": 864,
+  "total": 900,
   "list": [
     {
       "id": 829,
@@ -467,6 +467,526 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Sandisk-E31-Pocket-sized-SSD-with-up-to-2-TB-and-3-year-warranty-now-available-globally.1403589.0.html"
+    },
+    {
+      "id": 865,
+      "title": "俄勒冈州数据中心已占全州零售电力销量23% 111座设施消耗近四分之一电力",
+      "summary": "一份最新研究报告显示，美国俄勒冈州的数据中心产业已经发展到相当大的规模。全州目前共有111座正在运营的数据中心，占地建筑面积约2210万平方英尺，而这些设施在2025年消耗的电力已经相当于全州零售电力销售量的23%，接近四分之一。 阅读全文",
+      "content": "<p>一份最新研究报告显示，美国俄勒冈州的数据中心产业已经发展到相当大的规模。全州目前共有111座正在运营的数据中心，占地建筑面积约2210万平方英尺，而这些设施在2025年消耗的电力已经相当于全州零售电力销售量的23%，接近四分之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578888.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578888.htm"
+    },
+    {
+      "id": 866,
+      "title": "英伟达显卡底层细节揭秘：包含数十个RISC-V核心 甚至已接管图形驱动执行",
+      "summary": "在现代个人电脑中，显卡通常被视为由数千个流处理器组成、专用于高并行度图形渲染与人工智能计算的庞大算力引擎。然而，根据硬件开发社区及底层技术人员的最新深度分析，现代英伟达（NVIDIA）GPU 内部实际上隐匿着数十个基于开放指令集架构的 RISC-V 处理器核心。 阅读全文",
+      "content": "<p>在现代个人电脑中，显卡通常被视为由数千个流处理器组成、专用于高并行度图形渲染与人工智能计算的庞大算力引擎。然而，根据硬件开发社区及底层技术人员的最新深度分析，现代英伟达（NVIDIA）GPU 内部实际上隐匿着数十个基于开放指令集架构的 RISC-V 处理器核心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578884.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578884.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578884.htm"
+    },
+    {
+      "id": 867,
+      "title": "用AI“复活”家人，似乎不是个好生意",
+      "summary": "用AI“复活”已逝亲友的想法太过诱人，所以当ChatGPT诞生、掀起新一轮AI浪潮之后，哀伤生意与AI的碰撞几乎是注定的。但如今，曾经寄希望于AI初创公司的悲伤之人，不得不与“亲友”再次告别了。 阅读全文",
+      "content": "<p>用AI“复活”已逝亲友的想法太过诱人，所以当ChatGPT诞生、掀起新一轮AI浪潮之后，哀伤生意与AI的碰撞几乎是注定的。但如今，曾经寄希望于AI初创公司的悲伤之人，不得不与“亲友”再次告别了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578862.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578862.htm"
+    },
+    {
+      "id": 868,
+      "title": "沃尔玛门店花500美元买9800X3D竟是假货 退款还被拒",
+      "summary": "近日有海外用户发帖披露，其在当地沃尔玛门店购买了一颗AMD锐龙7 9800X3D处理器，花费近500美元（当前约3348元人民币），拆封安装后系统无法启动，最终确认买到的是一颗仿冒CPU。该用户表示，此前自己有一颗9800X3D，因原处理器的集成内存控制器存在问题，决定再买一颗替换，沃尔玛员工当着他的面从展示柜中取出封好的零售盒，看起来完全正常。 阅读全文",
+      "content": "<p>近日有海外用户发帖披露，<strong>其在当地沃尔玛门店购买了一颗AMD锐龙7 9800X3D处理器，花费近500美元（当前约3348元人民币），拆封安装后系统无法启动，最终确认买到的是一颗仿冒CPU。</strong>该用户表示，此前自己有一颗9800X3D，因原处理器的集成内存控制器存在问题，决定再买一颗替换，沃尔玛员工当着他的面从展示柜中取出封好的零售盒，看起来完全正常。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578860.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578860.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578860.htm"
+    },
+    {
+      "id": 869,
+      "title": "币安创始人赵长鹏：张一鸣身价被严重低估",
+      "summary": "据财联社报道，字节跳动创始人张一鸣首次成为亚洲首富。彭博亿万富豪指数显示，43岁的张一鸣净资产已突破1050亿美元，全球排名第18位。消息一出，马上有人不服。有人指出，币安创始人赵长鹏（CZ）同样拥有阿联酋公民身份，福布斯预测其身家1146亿美元，世界排名第18，CZ才是真正的亚洲首富、币圈首富、非美籍华裔世界首富，而且这个数字还被严重低估了。 阅读全文",
+      "content": "<p><strong>据财联社报道，字节跳动创始人张一鸣首次成为亚洲首富。彭博亿万富豪指数显示，43岁的张一鸣净资产已突破1050亿美元，全球排名第18位。消息一出，马上有人不服。</strong>有人指出，币安创始人赵长鹏（CZ）同样拥有阿联酋公民身份，福布斯预测其身家1146亿美元，世界排名第18，CZ才是真正的亚洲首富、币圈首富、非美籍华裔世界首富，而且这个数字还被严重低估了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578856.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578856.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578856.htm"
+    },
+    {
+      "id": 870,
+      "title": "苹果高管：看见有人贴膜就难受",
+      "summary": "在苹果新一代A20 Pro芯片和折叠屏软件引发热议的同时，公司在产品耐用性方面的进展同样值得关注。第二代陶瓷盾显示玻璃最早应用于iPhone 17系列，今年也出现在iPhone 18 Pro上。它兑现了比前代提升3倍抗刮擦性能的承诺，上市一年后仍获得认可。即将于下月发布的iPhone Duo则具备多项耐用设计，包括IP68级防护表现。 阅读全文",
+      "content": "<p>在苹果新一代A20 Pro芯片和折叠屏软件引发热议的同时，公司在产品耐用性方面的进展同样值得关注。第二代陶瓷盾显示玻璃最早应用于iPhone 17系列，今年也出现在iPhone 18 Pro上。它兑现了比前代提升3倍抗刮擦性能的承诺，上市一年后仍获得认可。即将于下月发布的iPhone Duo则具备多项耐用设计，包括IP68级防护表现。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578854.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578854.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578854.htm"
+    },
+    {
+      "id": 871,
+      "title": "英特尔终止10万美元Bug Bounty漏洞赏金计划",
+      "summary": "半导体巨头英特尔（Intel）近日宣布，正式终止其长期运营的“Bug Bounty”网络安全漏洞赏金计划。根据该计划此前的奖励机制，外部安全研究人员及白帽黑客若能发现并私下报告英特尔硬件、固件或关键软件中的高危安全漏洞，最高可获得达 10 万美元的现金奖励。这一战略调整标志着英特尔在安全漏洞征集与安全社区合作模式上迎来了重大转向。 阅读全文",
+      "content": "<p>半导体巨头英特尔（Intel）近日宣布，正式终止其长期运营的“Bug Bounty”网络安全漏洞赏金计划。根据该计划此前的奖励机制，外部安全研究人员及白帽黑客若能发现并私下报告英特尔硬件、固件或关键软件中的高危安全漏洞，最高可获得达 10 万美元的现金奖励。这一战略调整标志着英特尔在安全漏洞征集与安全社区合作模式上迎来了重大转向。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578850.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578850.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578850.htm"
+    },
+    {
+      "id": 872,
+      "title": "A20 Pro强大算力让iPhone 18 Pro运行270亿参数模型速度较前代翻倍",
+      "summary": "苹果最新推出的A20 Pro芯片正在展示其在端侧人工智能领域的真正潜力。一项最新实测显示，搭载A20 Pro的iPhone 18 Pro能够在本地运行拥有270亿参数的大型AI模型，其生成速度达到上一代iPhone 17 Pro的两倍，引发外界对于手机本地AI能力的新一轮关注。 阅读全文",
+      "content": "<p>苹果最新推出的A20 Pro芯片正在展示其在端侧人工智能领域的真正潜力。一项最新实测显示，搭载A20 Pro的iPhone 18 Pro能够在本地运行拥有270亿参数的大型AI模型，其生成速度达到上一代iPhone 17 Pro的两倍，引发外界对于手机本地AI能力的新一轮关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1578848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1578848.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1578848.htm"
+    },
+    {
+      "id": 873,
+      "title": "每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心",
+      "summary": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon",
+      "content": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon 引擎，十年间使用的 Falcon 核心总数约 30  亿个，这些核心被用于视频编解码、电源管理、安全引擎等不同任务。Falcon 为 32 位核心，没有数据缓存，不再满足英伟达的需求，它开始寻找替代，在评估了 Arm、MIPS 等架构之后，它最终选择了开源指令集架构的 RISC-V。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85436",
+      "source": "Solidot",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85436"
+    },
+    {
+      "id": 874,
+      "title": "美国俄勒冈州数据中心用电量接近总用电量的四分之一",
+      "summary": "根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。",
+      "content": "根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85435",
+      "source": "Solidot",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85435"
+    },
+    {
+      "id": 875,
+      "title": "智谱 MaaS 平台上线数据内容不留存机制，用户可申请开通",
+      "summary": "IT之家 9 月 20 日消息，智谱 MaaS 平台今日宣布，近期将上线数据内容不留存功能，为企业和开发者用户提供更严格的数据隐私保护。 公告称，数据内容不留存机制旨在减少模型调用内容在平台侧的持久化留存。任何用户均可以申请开通，生效后，智谱 MaaS 平台不会对用户的输入和输出进行静态存储，数据仅用于完成当次模型调用。企业和开发者可通过 MaaS 控制台提交开通申请，具体生效时间及适用范围以平台确认结果为准。 公告提到，这个功能并不意味着任何情形下都不留存数据。Batch ",
+      "content": "<p data-vmark=\"4373\">IT之家 9 月 20 日消息，智谱 MaaS 平台今日宣布，<strong>近期将上线数据内容不留存功能</strong>，为企业和开发者用户提供更严格的数据隐私保护。</p><p data-vmark=\"39b2\">公告称，数据内容不留存机制旨在减少模型调用内容在平台侧的持久化留存。任何用户均可以申请开通，生效后，智谱 MaaS 平台不会对用户的输入和输出进行静态存储，<strong>数据仅用于完成当次模型调用</strong>。企业和开发者可通过 MaaS 控制台提交开通申请，具体生效时间及适用范围以平台确认结果为准。</p><p data-vmark=\"5157\">公告提到，<strong>这个功能并不意味着任何情形下都不留存数据</strong>。Batch API、File API 等需要在平台侧持久化保存任务或文件的功能不在上述覆盖范围内，以及法律法规要求留存、为核查涉嫌违规或滥用行为的情况，平台可能按有关要求留存相关数据 30 天及以上。</p><p data-vmark=\"6d41\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6484a2ba-9cc2-48d9-a81a-1c0fd67083a0.jpg?x-bce-process=image/format,f_auto\" w=\"725\" h=\"433\" data-weibo=\"0\" data-vmark=\"2684\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p data-vmark=\"4950\">据IT之家此前报道，针对社区中有关代码库数据上传的讨论，智谱旗下编程产品 ZCode 于 9 月 18 日通过智谱官方群组向受影响用户致歉，并发布回应称已第一时间完成自查，相关问题目前已经修复。此次问题源于 ZCode 的“代码库索引”功能，该功能旨在帮助用户在本地生成仓库索引，以支持包括历史版本在内的会话检查点恢复、历史版本回退及 Repo Wiki（代码仓库知识库）等功能。</p><p data-vmark=\"745a\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"3e73\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/004/310.htm\">智谱 ZCode 被质疑“偷传代码”：官方回应称问题已修复，将开源代码库、引入第三方审查</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/005/012.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/005/012.htm"
+    },
+    {
+      "id": 876,
+      "title": "消息称三星正在研发 Galaxy Buds5 FE，预计未来几个月内发布",
+      "summary": "IT之家 9 月 20 日消息，据“SamMobile”今日报道，三星正在研发 Galaxy Buds5 FE，预计将在未来几个月内发布。 报道提到，今年市面上绝大多数（即便不是全部）消费电子产品都出现了涨价，这很大程度上是存储芯片危机带来的后果，受此影响，智能手机、平板等产品不得不大幅提价，而这款 FE 系列耳机或许能够免遭涨价。 从目前曝光的信息来看，三星 Buds5 FE 最大的升级方向是音质。爆料显示该耳机预计不会涨价，上一代产品 Galaxy Buds3 FE 定价",
+      "content": "<p data-vmark=\"c47e\">IT之家 9 月 20 日消息，据“SamMobile”今日报道，三星正在研发 Galaxy Buds5 FE，预计将在未来几个月内发布。</p><p data-vmark=\"9960\">报道提到，今年市面上绝大多数（即便不是全部）消费电子产品都出现了涨价，这很大程度上是存储芯片危机带来的后果，受此影响，智能手机、平板等产品不得不大幅提价，而这款 FE 系列耳机或许能够免遭涨价。</p><p data-vmark=\"daaa\">从目前曝光的信息来看，三星 Buds5 FE 最大的升级方向是音质。爆料显示该耳机预计不会涨价，上一代产品 Galaxy Buds3 FE 定价为 149 美元，Galaxy Buds5 FE 或将维持这一价位。</p><p data-vmark=\"683b\">有消息称三星将升级音质，使其至少看齐上一代标准版 Galaxy Buds 的水准，不过目前尚未披露具体会做哪些改动。到目前为止，关于这款耳机的传闻与公开信息还比较有限，三星这款全新平价无线耳机的更多细节能否曝光、何时曝光，仍有待观察。</p><p data-vmark=\"d6a3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/7144dea1-a588-475b-a2d7-373941d13c9a.jpg?x-bce-process=image/format,f_auto\" w=\"1129\" h=\"829\" data-weibo=\"0\" data-vmark=\"bb4e\" data-mpos=\"0,0\"  class=\"no-alt-img\"></p><p data-vmark=\"b81a\">IT之家注意到，三星 Galaxy Buds3 FE 国行于去年 9 月发布，<strong>售价 949 元</strong>。该耳机可选暗羽黑、银雾灰两款配色，是三星最亲民耳机 —— Galaxy Buds FE 的继任者，采用了全新“柄状”造型。</p><p data-vmark=\"8f7b\">作为参考，Galaxy Buds3 FE 支持主动降噪（ANC），并具备可调节的音效模式，用户可自由切换沉浸式聆听和环境感知，支持 360 音频。该耳机每只耳机仅重约 5 克，防护等级达到 IP54，具备防尘防泼溅能力，适合日常通勤或运动使用。</p>",
+      "link": "https://www.ithome.com/1/005/008.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/005/008.htm"
+    },
+    {
+      "id": 877,
+      "title": "台电 T60 Mini 8.8 英寸小平板开售：支持 4G 插卡通话、紫光展锐 T7300 芯片，899 元",
+      "summary": "IT之家 9 月 20 日消息，台电今日宣布，台电 T60 Mini 小平板开售，首发 899 元，部分地区可叠加国补，补贴后到手价 764.15 元。 这款平板搭载 8.8 英寸 2.5K LCD 屏幕（2560×1600），支持 90Hz 刷新率，PPI 为 343，屏幕亮度 400 尼特，采用 incell 全贴合工艺，机身重 324g；搭载紫光展锐 T7300 八核 CPU，配备 8GB 内存、128GB 存储空间，支持 TF 卡扩展，拥有 6000mAh 电池，支持",
+      "content": "<p data-vmark=\"9ad0\">IT之家 9 月 20 日消息，台电今日宣布，台电 T60 Mini 小平板开售，<strong>首发 899 元</strong>，部分地区可叠加国补，补贴后到手价 764.15 元。</p><p style=\"text-align: center;\" data-vmark=\"1e32\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fe18241a-1837-4efe-8d55-d6c89594e427.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1658\" data-vmark=\"480d\" data-mpos=\"2,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"1564\">这款平板搭载 <strong>8.8 英寸 2.5K LCD 屏幕</strong>（2560×1600），支持 90Hz 刷新率，PPI 为 343，屏幕亮度 400 尼特，采用 incell 全贴合工艺，机身重 324g；搭载<strong>紫光展锐 T7300 八核 CPU</strong>，配备 8GB 内存、128GB 存储空间，支持 TF 卡扩展，拥有 6000mAh 电池，支持 18W PD 快充。</p><p style=\"text-align: center;\" data-vmark=\"d3e3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4cf63fbb-3566-4cd2-80f9-c43750646c1b.png\" w=\"1440\" h=\"1479\" data-vmark=\"b327\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"2a41\">这款平板搭载基于安卓 17 的 TeclastOS 系统，整体以毛玻璃为设计元素。</p><p style=\"text-align: center;\" data-vmark=\"f9ff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/443ab79d-8a72-4dfc-baab-c23c1feec3c4.jpg\" w=\"1000\" h=\"1214\" data-vmark=\"2ffa\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"f16b\">IT之家获悉，这款平板支持 TDD + FDD 双模 4G，采用双 SIM 卡设计，支持北斗、双频 GPS、GLONASS、GALILEO 等定位系统；采用对称式立体扬声器，配备 1300 万像素后摄、500 万像素前摄，具备双频 Wi-Fi 6 与蓝牙 5.4。</p><p style=\"text-align: center;\" data-vmark=\"41a8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a5534ce4-d326-4536-a0f4-411513d2bb8a.jpg\" w=\"1000\" h=\"1392\" data-vmark=\"6f29\" data-weibo=\"3\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4aGjaCQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4OGXvDu\" data-iosurl=\"https://u.jd.com/4gGcnUi\" data-androidurl=\"https://u.jd.com/4aGRHcg\" data-hosnexturl=\"https://u.jd.com/4DGUxGY\" data-hosurl=\"https://u.jd.com/46GkQl0\" data-uwpurl=\"https://u.jd.com/41GNU0M\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4DGRDwh%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4OGRUKQ\" data-lpwxurl=\"https://u.jd.com/4gGf7Cz\"   data-ncid=\"240235\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/518425/14/13176/48628/6aace208Fba7946a4/008332032001bcfa.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">台电 T60 Mini 平板电脑</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 899 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/005/007.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/005/007.htm"
+    },
+    {
+      "id": 878,
+      "title": "保时捷鸿蒙版 App 1.0.1 上架尝鲜，可检查车辆状态、远程控制",
+      "summary": "IT之家 9 月 20 日消息，保时捷鸿蒙版 App 今日在华为应用市场（App Gallery）上架尝鲜，版本号为 1.0.1（1005883），测试时间为 2026/9/20-2026/9/24。 据介绍，保时捷 App 是为保时捷车主和喜爱保时捷的用户打造的一款聚焦智慧出行的生活平台。通过 App 随时随地检查车辆状态或远程控制车辆的某些功能和服务。 保时捷 App 主要分为“车辆”“我的”两个模块，IT之家附具体功能如下： 车辆 用户可以查看自己绑定的车辆信息，根据车",
+      "content": "<p data-vmark=\"8319\">IT之家 9 月 20 日消息，保时捷鸿蒙版 App 今日在华为应用市场（App Gallery）上架尝鲜，版本号为 1.0.1（1005883），测试时间为 2026/9/20-2026/9/24。</p><p data-vmark=\"88f4\">据介绍，保时捷 App 是为保时捷车主和喜爱保时捷的用户打造的一款聚焦智慧出行的生活平台。<strong>通过 App 随时随地检查车辆状态或远程控制车辆的某些功能和服务</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6154\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/82a16ea6-5198-47b2-bea2-2b82cd12b1fc.jpg\" w=\"1224\" h=\"1947\" data-vmark=\"ecb9\" data-mpos=\"2,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"28cf\">保时捷 App 主要分为“车辆”“我的”两个模块，IT之家附具体功能如下：</p><p data-vmark=\"4569\"><strong>车辆</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2d4f\">用户可以查看自己绑定的车辆信息，根据车型的不同，客户可以查看续航里程及车辆详情。</p></li><li><p data-vmark=\"6ff8\">根据车辆型号，客户可以从屏幕左上角的车辆状态区域检索不同的信息。</p></li><li><p data-vmark=\"5bf2\">用户可以通过车辆模块远程解锁或锁定车辆以及使用远程空调控制车内温度。</p></li><li><p data-vmark=\"37a4\">用户可以查看已绑定车辆的位置。</p></li></ul><p data-vmark=\"ed0e\"><strong>我的</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1516\">用户可以管理自己的车辆信息，退出登录。</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/999.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/999.htm"
+    },
+    {
+      "id": 879,
+      "title": "果蝇大脑挖矿概念验证项目 HashFly 上线，号称效率是 3 纳米 ASIC 芯片的 10 倍",
+      "summary": "IT之家 9 月 20 日消息，据 Tom's Hardware 报道，一个号称是“首款基于果蝇大脑的有机神经元比特币挖矿项目”已经正式上线。没错，这是一个加密货币挖矿项目，依托谷歌近期对外公开的果蝇大脑神经连接组数据集开发。研发 Apollo 系列专用挖矿芯片（ASIC）的厂商 FutureBit，于本周对外推出了 HashFly。不过就目前而言，HashFly 仅仅只是一个概念验证原型。 如果打开 HashFly 的专属网站，也可以参与这套模拟果蝇大脑运算，点击“挖矿”按",
+      "content": "<p data-vmark=\"d313\">IT之家 9 月 20 日消息，据 Tom's Hardware 报道，一个号称是“首款基于果蝇大脑的有机神经元比特币挖矿项目”已经正式上线。没错，这是一个加密货币挖矿项目，依托谷歌近期对外公开的果蝇大脑神经连接组数据集开发。研发 Apollo 系列专用挖矿芯片（ASIC）的厂商 FutureBit，于本周对外推出了 HashFly。不过就目前而言，HashFly 仅仅只是一个概念验证原型。</p><p style=\"text-align: center;\" data-vmark=\"e8f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/30ae0ca9-84d1-4fc0-aefa-0774d441c442.jpg\" w=\"970\" h=\"546\" data-vmark=\"c2ba\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"8fab\">如果打开 HashFly 的专属网站，也可以参与这套模拟果蝇大脑运算，点击“挖矿”按钮，页面上会出现缓缓转动的果蝇大脑：一道道神经元轨迹正在不断激活放电。网页的叠加界面上显示，此刻果蝇大脑内部共有“2914 条神经轨迹处于激活状态”。值得一提的是，这个数字仅仅只是 MaleCNS v1.0 版本果蝇神经连接组全部 165122 个重建神经元当中很小的一部分。</p><p data-vmark=\"69b2\">据了解，FutureBit 开发的 HashFly，模拟的是果蝇眼部原本负责感光的感光细胞。由这些模拟感光神经元读取比特币区块头；当完成双重 SHA‑256 哈希目标值运算时，一类名为 PPL101 的神经元细胞就会被激活。用户可以上下调整前置零的数量，自行调高或者降低运算难度。即便把这套概念验证原型调到最高难度（第 6 级），它的运算难度依旧远远低于真实比特币网络寻找有效哈希值的难度。</p><p style=\"text-align: center;\" data-vmark=\"6210\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d6a1dc4e-3429-49fd-a1b0-9ba47ca519bc.png\" w=\"658\" h=\"1078\" data-vmark=\"ab92\" data-mpos=\"2,0\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FFutureBit%2Fstatus%2F2099241052997570816%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FFutureBit%2Fstatus%2F2099241052997570816%22%2C%22qualityValue%22%3A%22original%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"8c0c\">那做这个概念验证原型意义何在？按照项目设计者的说法，该项目可以帮助人们进一步认识有机计算（也叫湿件计算）的潜在效率。FutureBit 在介绍中调侃道：“有意思的设想：如果这套方案可以移植到真实的有机神经元上，<strong>算力功耗大约可以做到每太哈希仅消耗 1 瓦…… 性能效率能够达到当前最先进 3 纳米硅基 ASIC 矿机的十倍</strong>！”这家比特币矿机厂商后续在推文当中补充说明，以上估算值是基于果蝇整体功耗推演而来；同时该设想还建立在一个前提之上：所有神经元全部投入比特币哈希运算，并且持续保持神经放电状态。</p><p data-vmark=\"b922\">对这项实验感兴趣的读者可以了解到，HashFly 演示项目后续还会继续扩展仿真规模。FutureBit 表示：“我们接下来计划在整套数据集全部神经元上运行 SHA‑256 哈希函数仿真，并且完整对外发布全部研究结果。”从我的测试结果也能看出扩容势在必行：网页端 HashFly 的算力大约只有 100 千哈希每秒；反观该公司自家那款 5 英寸立方体造型的 Apollo III 矿机，官方标称最高算力可达 18 太哈希每秒。</p><p data-vmark=\"c5b9\">IT之家注意到，过去一周，社交网络上不少脑洞大开的爱好者已经基于这份果蝇大脑连接组数据集做出了各式各样的趣味项目。谷歌刚宣布发布成年雄性果蝇完整大脑与中枢神经系统图谱之后没多久，就已经有人拿这套神经仿真模型尝试运行《毁灭战士》游戏、模拟日内金融交易，还有不少其他好玩的实验。</p><p data-vmark=\"fb21\">甚至还出现了一款与之竞争的加密挖矿演示项目，名为 FlyMiner。访问该网站，你就能够看到一套果蝇神经连接组仿真，并且交由 ASIC 矿机逻辑进行控制。不过访问这个网站只能体验仿真演示，并不能靠它赚钱；FlyMiner 项目自己也承认，这套仿真几乎没有任何挖出加密货币的可能性。</p>",
+      "link": "https://www.ithome.com/1/004/977.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/977.htm"
+    },
+    {
+      "id": 880,
+      "title": "农业农村部：大力推进“人工智能 +”农业，拓展无人机、物联网等应用场景",
+      "summary": "IT之家 9 月 20 日消息，据财联社报道，农业农村部党组今日召开会议。 会议强调要把培育壮大农机装备产业作为农业现代化的关键支撑，坚持智能化、绿色化、融合化发展方向，聚焦高端智能、丘陵山区适用农机等突出短板，集中优势资源力量，攻关突破一批标志性整机和关键共性技术，加快中试验证和熟化应用，让农业生产更多领域“有机可用、有好机用”。要大力推进“人工智能 +”农业，拓展无人机、物联网等应用场景，让新质生产力更好赋能现代农业发展。 IT之家注意到，本月初，农业农村部、工业和信息化",
+      "content": "<p data-vmark=\"59e7\">IT之家 9 月 20 日消息，据财联社报道，农业农村部党组今日召开会议。</p><p data-vmark=\"3d3d\">会议强调要把培育壮大农机装备产业作为农业现代化的关键支撑，坚持智能化、绿色化、融合化发展方向，聚焦高端智能、丘陵山区适用农机等突出短板，集中优势资源力量，攻关突破一批标志性整机和关键共性技术，加快中试验证和熟化应用，让农业生产更多领域“有机可用、有好机用”。要大力推进“人工智能 +”农业，拓展无人机、物联网等应用场景，让新质生产力更好赋能现代农业发展。</p><p data-vmark=\"3114\">IT之家注意到，本月初，农业农村部、工业和信息化部联合印发《全国农业机械化发展”十五五”规划》（以下简称《规划》），明确了“十五五”时期农业机械化高质量发展的总体要求、具体目标和重点任务举措。《规划》提出，到 2030 年，农业机械化高质量发展取得显著成效，农作物耕种收综合机械化率超过 80%，丘陵山区农作物耕种收综合机械化率力争提高到 75% 以上，畜牧水产养殖、农产品初加工机械化加快发展；人工智能、新能源等新技术新装备在农业机械化领域广泛应用；农机作业社会化服务能力大幅提高，农机防灾减灾救灾能力显著增强。</p>",
+      "link": "https://www.ithome.com/1/004/956.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/956.htm"
+    },
+    {
+      "id": 881,
+      "title": "华为联合内蒙古移动，完成全国首个露天矿山场景 5G-A 千兆上行网络能力验证",
+      "summary": "IT之家 9 月 20 日消息，华为今日发文，近日，中国移动内蒙古公司联合华为技术有限公司在呼伦贝尔华能伊敏露天矿，顺利完成全国首个露天矿山场景 5G-A 千兆上行网络能力验证。 依托 4.9GHz+F/A SUL 辅助上行技术，现场实测单用户上行峰值速率达到 1022Mbps。 据介绍，随着智慧矿山建设的不断深入，高清视频监控、远程设备操控、无人驾驶矿卡以及边缘 AI 实时分析等上行需求为主的业务广泛落地。这些应用对网络上行带宽和实时性提出了前所未有的严苛要求。 然而，矿山",
+      "content": "<p data-vmark=\"b4c0\">IT之家 9 月 20 日消息，华为今日发文，近日，中国移动内蒙古公司联合华为技术有限公司在呼伦贝尔华能伊敏露天矿，顺利完成<strong>全国首个露天矿山场景 5G-A 千兆上行网络能力验证</strong>。</p><p data-vmark=\"52e0\">依托 4.9GHz+F/A SUL 辅助上行技术，<strong>现场实测单用户上行峰值速率达到 1022Mbps</strong>。</p><p style=\"text-align: center;\" data-vmark=\"bf00\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/daaa0f28-9298-43e4-b6df-c88564f2d884.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1715\" data-weibo=\"0\" data-vmark=\"913d\" class=\"no-alt-img\"></p><p data-vmark=\"ec0b\">据介绍，随着智慧矿山建设的不断深入，高清视频监控、远程设备操控、无人驾驶矿卡以及边缘 AI 实时分析等上行需求为主的业务广泛落地。这些应用对网络上行带宽和实时性提出了前所未有的严苛要求。</p><p data-vmark=\"0994\">然而，<strong>矿山场景无线环境复杂，基站部署难度大</strong>，长期面临着上行带宽不足、传输时延高、移动覆盖难以及多网并存导致运维复杂等痛点挑战。传统网络架构在应对海量高清视频并发回传和毫秒级精准控制时显得捉襟见肘，成为矿山少人化、无人化转型的关键瓶颈。</p><p data-vmark=\"5167\">IT之家获悉，在呼伦贝尔伊敏露天矿无人驾驶场景，通过上行载波聚合、TDD 频谱时隙配比优化、F 频段辅助上行等多项关键技术，<strong>不仅实现单用户上行峰值速率达到 1022Mbps，同时在矿区边缘弱覆盖区域保障上行速率稳定高于 20Mbps</strong>，为无人驾驶矿卡、矿区无线视联网规模化部署筑牢了大上行网络底座。</p>",
+      "link": "https://www.ithome.com/1/004/953.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/953.htm"
+    },
+    {
+      "id": 882,
+      "title": "安全可靠等级 Ⅲ 级：龙芯 3A6000 (C)/3C3000、华为鲲鹏 950 通过中国信息安全测评中心认证",
+      "summary": "IT之家 9 月 20 日消息，中国信息安全测评中心、国家保密科技测评中心今日发布了安全可靠测评结果公告（2026 年第 3 号），其中龙芯 3A6000 (C)、龙芯 3C3000 和鲲鹏 950 中央处理器通过认证，安全可靠等级达到 Ⅲ 级。 据介绍，安全可靠测评主要面向计算机终端和服务器搭载的中央处理器（包括含人工智能加速单元的中央处理器）、人工智能训练推理芯片、操作系统、数据库，以及激光或喷墨打印机搭载的主控芯片。通过对产品及其研发单位的核心技术、安全保障、持续发展等",
+      "content": "<p data-vmark=\"015e\">IT之家 9 月 20 日消息，中国信息安全测评中心、国家保密科技测评中心今日发布了安全可靠测评结果公告（2026 年第 3 号），其中龙芯 3A6000 (C)、龙芯 3C3000 和鲲鹏 950 中央处理器通过认证，<strong>安全可靠等级达到 Ⅲ 级</strong>。</p><p data-vmark=\"7868\">据介绍，安全可靠测评主要面向计算机终端和服务器搭载的中央处理器（包括含人工智能加速单元的中央处理器）、人工智能训练推理芯片、操作系统、数据库，以及激光或喷墨打印机搭载的主控芯片。通过对产品及其研发单位的核心技术、安全保障、持续发展等方面开展评估，评定产品的安全性和可持续性，实现对产品研发设计、生产制造、供应保障、售后维护等全生命周期安全可靠性的综合度量和客观评价。</p><p data-vmark=\"8191\">IT之家附完整列表如下：</p><p data-vmark=\"3d70\"><strong>中央处理器</strong>（同一等级按产品名称首字笔画为序排列）</p><table><tbody><tr class=\"firstRow\"><td>序号</td><td>产品名称</td><td>送测单位</td><td>安全可靠等级</td></tr><tr><td valign=\"middle\" align=\"center\">1</td><td>龙芯 3A6000 (C)</td><td>龙芯中科技术股份有限公司</td><td>Ⅲ 级</td></tr><tr><td valign=\"middle\" align=\"center\">2</td><td>龙芯 3C3000</td><td>龙芯中科技术股份有限公司</td><td>Ⅲ 级</td></tr><tr><td valign=\"middle\" align=\"center\">3</td><td>鲲鹏 950</td><td>深圳市海思半导体有限公司</td><td>Ⅲ 级</td></tr><tr><td valign=\"middle\" align=\"center\">4</td><td>兆芯处理器 KH-50000</td><td>上海兆芯集成电路股份有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">5</td><td>威鑫 H8100 型微处理器</td><td>中电科申泰信息科技有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">6</td><td>海光 C86-4G/H</td><td>海光信息技术股份有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">7</td><td>麒麟 9001X</td><td>深圳市海思半导体有限公司</td><td>Ⅱ 级</td></tr></tbody></table><p data-vmark=\"ada4\"><strong>人工智能训练推理芯片</strong>（同一等级按产品名称首字笔画为序排列）</p><table><tbody><tr class=\"firstRow\"><td>序号</td><td>产品名称</td><td>送测单位</td><td>安全可靠等级</td></tr><tr><td valign=\"middle\" align=\"center\">1</td><td>昇腾 950</td><td>深圳市海思半导体有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">2</td><td>昆仑芯 M100</td><td>昆仑芯（北京）科技股份有限公司</td><td>I 级</td></tr></tbody></table><p data-vmark=\"8e11\"><strong>打印机主控芯片</strong>（同一等级按产品名称首字笔画为序排列）</p><table><tbody><tr class=\"firstRow\"><td>序号</td><td>产品名称</td><td>送测单位</td><td>安全可靠等级</td></tr><tr><td valign=\"middle\" align=\"center\">1</td><td>龙芯 2P0300</td><td>龙芯中科技术股份有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">2</td><td>龙芯 2P0500</td><td>龙芯中科技术股份有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">3</td><td>极海 KP3701</td><td>极海微电子股份有限公司</td><td>I 级</td></tr><tr><td valign=\"middle\" align=\"center\">4</td><td>极海 SN2701</td><td>极海微电子股份有限公司</td><td>I 级</td></tr></tbody></table><p data-vmark=\"7bf7\"><strong>操作系统</strong>（同一等级按产品名称首字笔画为序排列）（一）服务器操作系统</p><table><tbody><tr class=\"firstRow\"><td>序号</td><td>产品名称</td><td>送测单位</td><td>安全可靠等级</td></tr><tr><td valign=\"middle\" align=\"center\">1</td><td>银河麒麟高级服务器操作系统 V11 SP1<br>（内核版本 Linux Kernel 6.6）</td><td>麒麟软件有限公司</td><td>Ⅱ 级</td></tr><tr><td valign=\"middle\" align=\"center\">2</td><td>大云天元操作系统（BC-Linux）V21.10 U5<br>（内核版本 Linux Kernel 5.10）</td><td>中移（苏州）软件技术有限公司</td><td>I 级</td></tr></tbody></table><p data-vmark=\"4114\"><strong>数据库</strong>（同一等级按产品名称首字笔画为序排列）（一）集中式数据库</p><table><tbody><tr class=\"firstRow\"><td>序号</td><td>产品名称</td><td>送测单位</td><td>安全可靠等级</td></tr><tr><td valign=\"middle\" align=\"center\">1</td><td>羲和通用数据库系统软件 V1.0</td><td>杭州易景数通科技有限公司</td><td>I 级</td></tr><tr><td valign=\"middle\" align=\"center\">2</td><td>NetrixDB V3.0</td><td>华为云计算技术有限公司</td><td>I 级</td></tr><tr><td valign=\"middle\" align=\"center\">3</td><td>TDSQL 集中式关系型数据库管理系统软件 V10.3</td><td>腾讯云计算（北京）有限责任公司</td><td>I 级</td></tr></tbody></table><p style=\"text-align: center;\" data-vmark=\"2d85\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fb8923d7-5c6b-417f-a4e5-63a136a18602.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1916\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"d610\" class=\"no-alt-img\"></p><p data-vmark=\"9da0\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"b21f\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/955/751.htm\">安全可靠等级 I 级：华为昇腾 310 / 910 人工智能训练推理芯片通过中国信息安全测评中心认证</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/932.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/932.htm"
+    },
+    {
+      "id": 883,
+      "title": "华为旗下控股公司引望：将一如既往支持问界发展，全力保障用户服务与体验",
+      "summary": "IT之家 9 月 20 日消息，引望智能技术有限公司今日发布公告，回应最近网络热议的问界合作事项，表示将一如既往支持好问界的发展，并与问界一起全力保障用户的服务与体验。 IT之家附全文如下： 持续推进问界产品智能化升级 充分保障用户智能化服务与体验 近期，引望收到不少与问界后续合作的问询，也有用户关心升级及服务保障等问题。 赛力斯是引望战略合作伙伴和股东。引望持续把乾崑智驾、鸿蒙座舱、智能车控、智能车载光、智能车云等解决方案销售给赛力斯，并提供技术支持服务。引望将一如既往支持",
+      "content": "<p data-vmark=\"063c\">IT之家 9 月 20 日消息，引望智能技术有限公司今日发布公告，回应最近网络热议的问界合作事项，<strong>表示将一如既往支持好问界的发展</strong>，并与问界一起全力保障用户的服务与体验。</p><p data-vmark=\"6efa\">IT之家附全文如下：</p><blockquote><p data-vmark=\"9a8a\"><span class=\"no-auto-spacing \">持续推进问界产品智能化升级 充分保障用户智能化服务与体验</span></p><p data-vmark=\"ed93\">近期，引望收到不少与问界后续合作的问询，也有用户关心升级及服务保障等问题。</p><p data-vmark=\"7b91\">赛力斯是引望战略合作伙伴和股东。引望持续把乾崑智驾、鸿蒙座舱、智能车控、智能车载光、智能车云等解决方案销售给赛力斯，并提供技术支持服务。引望将一如既往支持好问界的发展，并与问界一起全力保障用户的服务与体验。</p><p data-vmark=\"1608\">引望将持续把行业领先的智能汽车解决方案应用于问界并不断迭代升级，提升问界产品的竞争力，为问界用户持续做好服务保障，提升智能化体验。</p><p data-vmark=\"c72f\">引望将落实好“电子螺丝钉”的战略定位，推动智能汽车产业发展，为广大用户做好服务。</p><p data-vmark=\"294a\">引望智能技术有限公司</p><p data-vmark=\"0e94\">2026 年 9 月 20 日</p></blockquote><p data-vmark=\"f479\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2a45d4de-8bff-4619-9c94-0dde93414366.jpg\" w=\"838\" h=\"742\" data-vmark=\"82cb\" data-weibo=\"0\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p><p data-vmark=\"f207\">2023 年 11 月 25 日，长安汽车与华为技术有限公司签署了《投资合作备忘录》，华为拟设立一家从事汽车智能系统及部件解决方案研发、设计、生产、销售和服务的公司，长安汽车及其关联方拟投资该目标公司并开展战略合作。</p><p data-vmark=\"afdd\">2024 年 1 月 16 日，华为已完成目标公司的注册，名称为深圳引望智能技术有限公司（简称“引望”）。</p><p data-vmark=\"ca6f\"><a href=\"https://www.ithome.com/0/842/037.htm\" target=\"_blank\">引望于 2025 年 3 月完成工商信息变更</a>，华为持股比例由 100% 调整为 80%，新增阿维塔科技和赛力斯两大股东，分别持股 10%。</p>",
+      "link": "https://www.ithome.com/1/004/918.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/918.htm"
+    },
+    {
+      "id": 884,
+      "title": "A20 Pro 芯片端侧 AI 实测：苹果 iPhone 18 Pro 可本地跑 270 亿参数模型，速度较 iPhone 17 Pro 翻倍",
+      "summary": "IT之家 9 月 20 日消息，苹果最新的 A20 Pro 芯片搭载双 16 核神经网络引擎，这在苹果自研 Apple Silicon 发展史上尚属首次。该神经网络引擎专为处理人工智能运算负载打造，性能超越此前所有 SoC。最新演示显示，一台 iPhone 18 Pro 运行 270 亿参数模型时，运行速度可达 iPhone 17 Pro 的两倍。 iPhone 18 Pro 以及 iPhone 18 Pro Max 均配备 12GB、96 位位宽的 LPDDR5X 内存，内",
+      "content": "<p data-vmark=\"b667\">IT之家 9 月 20 日消息，苹果最新的 A20 Pro 芯片搭载双 16 核神经网络引擎，这在苹果自研 Apple Silicon 发展史上尚属首次。该神经网络引擎专为处理人工智能运算负载打造，性能超越此前所有 SoC。最新演示显示，一台 iPhone 18 Pro 运行 270 亿参数模型时，运行速度可达 iPhone 17 Pro 的两倍。</p><p data-vmark=\"3759\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b4267f2f-0086-4231-8cd2-deefa1b286a1.jpg\" w=\"728\" h=\"410\" data-weibo=\"0\" data-vmark=\"aa40\" class=\"no-alt-img\"></p><p data-vmark=\"6303\">iPhone 18 Pro 以及 iPhone 18 Pro Max 均配备 12GB、96 位位宽的 LPDDR5X 内存，内存速度相比 iPhone 17 Pro、iPhone 17 Pro Max 的有明显提升。内存升级再加上这套双 16 核神经网络引擎，将手机端本地 AI 性能推上了全新台阶。网友阿德里安 · 格龙丁（Adrien Grondin）在 iPhone 18 Pro 上运行 Bonsai‑27B 模型，直观展示了性能提升效果；可以明显看到，模型生成词元（token）的速度十分惊人。</p><p data-vmark=\"9f14\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ec38c4dd-cc03-451d-849b-c29fc35fb495.png\" w=\"658\" h=\"1050\" data-mpos=\"2,0\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fadrgrondin%2Fstatus%2F2101397684753949078%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fadrgrondin%2Fstatus%2F2101397684753949078%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"83b4\" class=\"no-alt-img\"></p><p data-vmark=\"2492\">诚然，对于 iPhone 而言，可以离线运行体量更大的 270 亿参数 AI 模型属于重大进步，但用户也需要面对一些取舍。首先，X 平台的相关帖子就提出疑问：既然 Bonsai 2 已经发布，还有必要继续使用初代 Bonsai 吗？答案并不乐观，这也是智能手机本地运行 AI 模型不得不面对的残酷现实：采用 2 比特量化版本的 Bonsai 2 体积过大，无法完整存入 iPhone 18 Pro 本地内存，进而会造成性能下降。</p><p data-vmark=\"b0d4\">据IT之家了解，初代 Bonsai 是一款 1 比特量化 AI 模型，4GB 内存设备就可以轻松运行；若是 8GB 乃至 12GB 内存的手机，运行起来更是行云流水。iPhone 18 Pro 除 A20 Pro 芯片之外，还配备速度大幅提升的统一内存，内存带宽可达 115.2GB/s；双 16 核神经网络引擎在神经网络专用任务下，峰值吞吐性能甚至超过芯片内部 7 核 GPU。在此硬件基础上，运行 Bonsai‑27B 模型可以保持高速，不会出现降速卡顿。</p><p data-vmark=\"985a\">希望苹果后续机型能够进一步加大内存规格，届时设备就可以支持参数量更大、复杂度更高的 AI 模型。</p>",
+      "link": "https://www.ithome.com/1/004/909.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/909.htm"
+    },
+    {
+      "id": 885,
+      "title": "联想极光首款磁轴键盘 GK10 RT60 即将登场",
+      "summary": "IT之家 9 月 20 日消息，联想服务官方微博本月 17 日表示，联想极光首款磁轴键盘 GK10 RT60 即将登场。 可以看到该键盘采用紧凑的 60% 配列，无 Fn 键区、无独立方向键，机身左侧预留了飘带固定孔位。而在软件层面，该键盘支持 Lenovo Aurora 这款灯效联动与外设控制平台。 相关阅读： 《联想将推拯救者 R9 68 磁轴电竞键盘》 《联想拯救者推出全铝机身三模磁轴键盘 R7 RT75，1299 元》",
+      "content": "<p data-vmark=\"e8e8\">IT之家 9 月 20 日消息，联想服务官方微博本月 17 日表示，<strong>联想极光首款磁轴键盘 GK10 RT60 即将登场</strong>。</p><p data-vmark=\"10fa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e772f617-3abe-4372-bd8a-01e66d8433f0.jpg\" w=\"1080\" h=\"1920\" data-weibo=\"0\" data-vmark=\"f90b\" class=\"no-alt-img\"></p><p data-vmark=\"0c24\">可以看到该键盘<strong>采用紧凑的 60% 配列</strong>，无 Fn 键区、无独立方向键，机身左侧预留了飘带固定孔位。而在软件层面，该键盘支持 Lenovo Aurora 这款灯效联动与外设控制平台。</p><p data-vmark=\"7f04\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"7cb0\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/991/774.htm\">联想将推拯救者 R9 68 磁轴电竞键盘</a>》</p></li><li><p data-vmark=\"2fef\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/981/124.htm\">联想拯救者推出全铝机身三模磁轴键盘 R7 RT75，1299 元</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/897.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/897.htm"
+    },
+    {
+      "id": 886,
+      "title": "中科宇航：力箭一号近期将首次海上发射，执行一箭 3 星",
+      "summary": "IT之家 9 月 20 日消息，9 月 20 日，中科宇航力箭一号遥十八运载火箭 · 超智算号在东风商业航天创新试验区成功发射，中科宇航相关负责人告诉《科创板日报》记者，近期，中科宇航计划在广东附近海域实施力箭一号运载火箭的首次海上发射任务，执行“一箭 3 星”发射任务。拓宽任务适配边界，实现陆海协同的商业化发射交付。 IT之家注意到，中科宇航今年 8 月宣布，力箭一号遥十七运载火箭在中科宇航产业化基地完成总装测试工作，顺利通过出厂评审，拟于近期在广东附近海域执行“一箭 3 ",
+      "content": "<p data-vmark=\"e9eb\">IT之家 9 月 20 日消息，9 月 20 日，中科宇航力箭一号遥十八运载火箭 · 超智算号在东风商业航天创新试验区成功发射，中科宇航相关负责人告诉《科创板日报》记者，近期，中科宇航计划在广东附近海域实施力箭一号运载火箭的<strong>首次海上发射任务</strong>，执行“一箭 3 星”发射任务。拓宽任务适配边界，实现陆海协同的商业化发射交付。</p><p data-vmark=\"95db\">IT之家注意到，中科宇航今年 8 月宣布，力箭一号遥十七运载火箭在中科宇航产业化基地完成总装测试工作，顺利通过出厂评审，拟于近期在广东附近海域执行“一箭 3 星”发射任务。此次任务是力箭一号运载火箭首次执行海上发射任务。</p><p style=\"text-align: center;\" data-vmark=\"5609\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/baaa6c62-c51a-4a13-908d-f788c6cbbec4.png?x-bce-process=image/format,f_auto\" w=\"666\" h=\"371\" data-weibo=\"0\" data-vmark=\"6960\" class=\"no-alt-img\"></p><p data-vmark=\"4d25\">据中科宇航介绍，<strong>海上发射具备落区安全性更高、发射窗口约束更少的优势</strong>，可灵活选择发射点位以适配低倾角卫星发射需求，能够有效弥补陆地发射场在轨道覆盖方面的局限。中科宇航表示，未来力箭一号将构建“陆上逐月航班化发射、海上机动专项发射”双线并行的发射布局。</p><p data-vmark=\"9932\">IT之家注：力箭一号是中国科学院力学研究所抓总、中科宇航研制的四级固体运载火箭，2022 年 7 月 27 日首飞，为中国现役最大固体运载火箭。</p><p data-vmark=\"867c\">火箭全长 30 米、芯级直径 2.65 米、起飞重量 135 吨、起飞推力 200 吨，500 公里太阳同步轨道运载能力 1.5 吨，近地轨道运载能力 2 吨。</p>",
+      "link": "https://www.ithome.com/1/004/895.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/895.htm"
+    },
+    {
+      "id": 887,
+      "title": "雷神推出 JQ27F320E-WB 显示器：26.5\" QHD 320Hz QD-OLED，预售价 3499 元",
+      "summary": "IT之家 9 月 20 日消息，雷神 (THUNDEROBOT) 现已在电商平台启动显示器新品 JQ27F320E-WB 的预售，到手价为 3499 元。 JQ27F320E-WB 基于三星显示 QD-OLED Penta Tandem 面板，覆盖 QuantumBlack 薄膜。其屏幕对角线长度 26.5 英寸，分辨率 QHD (2560×1440)，刷新率 320Hz。 其 峰值亮度可达 1300nits，静态对比度 1.5M:1，灰阶 (GtG) 响应时间 0.03ms",
+      "content": "<p data-vmark=\"c703\">IT之家 9 月 20 日消息，雷神 (THUNDEROBOT) 现已在电商平台启动显示器新品 JQ27F320E-WB 的预售，<strong>到手价为 3499 元</strong>。</p><p data-vmark=\"a05e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2fd54b28-6e78-4aeb-a4c2-28b790c96b5a.jpg?x-bce-process=image/format,f_auto\" w=\"1125\" h=\"1669\" class=\"shrinkToFit no-alt-img\" data-weibo=\"0\" data-vmark=\"f135\"></p><p data-vmark=\"e210\">JQ27F320E-WB <strong>基于三星显示 QD-OLED Penta Tandem 面板</strong>，覆盖 QuantumBlack 薄膜。其屏幕对角线长度 26.5 英寸，分辨率 QHD (2560×1440)，刷新率 320Hz。</p><p data-vmark=\"8160\">其 <strong>峰值亮度可达 1300nits</strong>，静态对比度 1.5M:1，灰阶 (GtG) 响应时间 0.03ms，色域 99% DCI-P3，色偏（平均值）ΔE＜2；抗眩光性能提升 2.5 倍，60° 侧视亮度留存率 83%。</p><p data-vmark=\"060a\">该显示器内置电源，<strong>原装配套臂式显示器支架</strong>；提供 2 个 HDMI 2.1、1 个 DisplayPort 1.4、1 个 USB-A（仅固件升级）、1 个 3.5mm 音频输出插孔。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4a8NNS2\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4O89gtV\" data-iosurl=\"https://u.jd.com/418jDNr\" data-androidurl=\"https://u.jd.com/4r8AQr5\" data-hosnexturl=\"https://u.jd.com/4O8c8Tr\" data-hosurl=\"https://u.jd.com/4r8xEO6\" data-uwpurl=\"https://u.jd.com/468jJJ1\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4G8e0jz%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/418EXNT\" data-lpwxurl=\"https://u.jd.com/468XIEJ\"  data-ncid=\"240040\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/532439/8/249/186472/6aacae19F9abb03fc/0083320320d63b66.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">雷神 JQ27F320E-WB 显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 3499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/893.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/893.htm"
+    },
+    {
+      "id": 888,
+      "title": "预售 599 元，中兴 M3 Pro 5G 可插卡移动随身 WIFI 上架",
+      "summary": "IT之家 9 月 20 日消息，中兴 M3 Pro 5G 可插卡移动随身 WIFI 今日开启预售，首发 599 元，9 月 24 日 10:00 正式开售。 据介绍，该产品配备 9 根天线构成抗干扰矩阵，全频段 360° 覆盖，灵活应对复杂网络情况。5G 多频段支持 4x4 MIMO，多路信号同时收发，有效提升信道容量与传输效率。 新品搭载先进的 5G 芯片，采用八核架构与 6nm 制程工艺，实现高性能与低功耗的出色平衡。支持 3GPPR17 与 SA、NSA 双模 5G，兼",
+      "content": "<p data-vmark=\"d4d8\">IT之家 9 月 20 日消息，中兴 M3 Pro 5G 可插卡移动随身 WIFI 今日开启预售，首发 599 元，9 月 24 日 10:00 正式开售。</p><p style=\"text-align: center;\" data-vmark=\"2e10\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e4445573-dd13-4f37-8590-39bc413e5f4c.png?x-bce-process=image/format,f_auto\" w=\"705\" h=\"808\" data-weibo=\"0\" data-vmark=\"057f\" class=\"no-alt-img\"></p><p data-vmark=\"c9af\">据介绍，该产品配备 9 根天线构成抗干扰矩阵，<strong>全频段 360° 覆盖</strong>，灵活应对复杂网络情况。5G 多频段支持 4x4 MIMO，多路信号同时收发，有效提升信道容量与传输效率。</p><p data-vmark=\"5cf8\">新品搭载先进的 5G 芯片，<strong>采用八核架构与 6nm 制程工艺</strong>，实现高性能与低功耗的出色平衡。支持 3GPPR17 与 SA、NSA 双模 5G，兼顾高速连接、稳定体验与功耗表现。</p><p style=\"text-align: center;\" data-vmark=\"3d6f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4930c78c-c6de-417b-81a2-d2f165fd8803.png?x-bce-process=image/format,f_auto\" w=\"695\" h=\"685\" data-weibo=\"1\" data-vmark=\"be53\" class=\"no-alt-img\"></p><p data-vmark=\"a62e\">2.4GHz 协商标准速率较上一代提升 100%，穿墙效果更好。无线覆盖能力拓展，理想环境下，最远可达 220 米。新品配备 5000mAh 大电池，典型场景续航长达 14.5 小时。多张 5G 网卡随心切换，不再依赖单一信号。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4D8N9zf\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4O8FMim\" data-iosurl=\"https://u.jd.com/4a8EICM\" data-androidurl=\"https://u.jd.com/4g8cH97\" data-hosnexturl=\"https://u.jd.com/4g8R9MU\" data-hosurl=\"https://u.jd.com/4g8A1AX\" data-uwpurl=\"https://u.jd.com/4r89oDK\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4g8NTJh%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4O8XgEz\" data-lpwxurl=\"https://u.jd.com/41870vO\"   data-ncid=\"240017\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/531356/4/2085/48164/6aaf399dF64eedb04/00833203203fcc26.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">中兴 M3 Pro 5G 可插卡移动随身 wifi</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">599 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/004/889.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/889.htm"
+    },
+    {
+      "id": 889,
+      "title": "最高悬赏 10 万美元，英特尔突然关停漏洞赏金计划",
+      "summary": "IT之家 9 月 20 日消息，据 Notebookcheck 报道，英特尔已经暂停其运行已久的漏洞赏金计划，转而在 Intigriti 平台启用一套全新的漏洞上报机制，新体系不再提供任何现金奖励。英特尔原先的计划会为发现安全漏洞的研究人员提供最高 10 万美元（IT之家注：现汇率约合 67.2 万元人民币）的奖励；而现在英特尔在 Intigriti 平台上的项目已明确标注为负责任披露项目，取消赏金。 研究人员依旧可以提交在英特尔硬件、固件、软件以及开源项目当中发现的漏洞，但",
+      "content": "<p data-vmark=\"416b\">IT之家 9 月 20 日消息，据 Notebookcheck 报道，英特尔已经暂停其运行已久的漏洞赏金计划，转而在 Intigriti 平台启用一套全新的漏洞上报机制，新体系不再提供任何现金奖励。英特尔原先的计划会为发现安全漏洞的研究人员提供最高 10 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 67.2 万元人民币）</span>的奖励；而现在英特尔在 Intigriti 平台上的项目已明确标注为负责任披露项目，取消赏金。</p><p style=\"text-align: center;\" data-vmark=\"4a0a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3734f7bb-942c-46e5-b865-0a8f3e7c07bb.png?x-bce-process=image/format,f_auto\" w=\"738\" h=\"457\" data-weibo=\"0\" data-vmark=\"675f\" class=\"no-alt-img\"></p><p data-vmark=\"c439\">研究人员依旧可以提交在英特尔硬件、固件、软件以及开源项目当中发现的漏洞，但相关发现不再能够获得现金报酬。旧版漏洞赏金计划于 2017 年以受邀参与模式启动，2018 年向全体安全研究者开放。该计划成效显著，能够在恶意攻击者利用漏洞之前完成高危缺陷的修复。</p><p data-vmark=\"542a\">仅 2020 年一年，英特尔修复的通用漏洞披露编号（CVE）当中就有将近一半直接来自该赏金计划。奖金原先分为四个等级：轻微漏洞 250 美元<span class=\"exch-money-value \">（现汇率约合 1,680 元人民币）</span>，最高等级的严重漏洞可达 10 万美元<span class=\"exch-money-value \">（现汇率约合 67.2 万元人民币）</span>。就在 2025 年年初，英特尔还表示正在评估优化赏金评定标准；因此本次突然叫停赏金机制，令整个网络安全行业感到意外。</p><p data-vmark=\"4a6a\">英特尔尚未就此次暂停发布官方解释，但行业发展趋势显示，人工智能兴起很可能是背后诱因。近期各类开源项目收到了大量由 AI 工具自动生成的安全报告。Linux 内核每个版本对应的 CVE 漏洞数量，已经从大约 500 个飙升至接近 2000 个，维护人员不堪重负。Linux 创始人利纳斯 · 托瓦兹（Linus Torvalds）近期就提到，大量 AI 生成的重复上报内容几乎已经让安全清单的管理工作陷入瘫痪。无独有偶，开源项目 Curl 就曾因为潮水一般的低质量自动提交报告，关停了自身的漏洞赏金计划。</p><p data-vmark=\"9a07\">HackerOne 平台的互联网漏洞赏金项目也已于今年早些时候暂停接收提交，公告当中明确指出，借助 AI 开展漏洞搜寻的做法快速普及，漏洞上报数量暴增，已经压垮现有处理系统。英特尔极有可能正面临同类问题：自动生成的漏洞报告大量涌入，于是选择取消现金激励，以此管控上报总量。现阶段，针对英特尔产品开展安全分析的研究人员提交漏洞成果时，已经无法再获得现金奖励。</p>",
+      "link": "https://www.ithome.com/1/004/878.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/878.htm"
+    },
+    {
+      "id": 890,
+      "title": "《鸣潮》将携手联想拯救者推出联名版 Y700 无极平板电脑、Y7000X 游戏笔记本",
+      "summary": "IT之家 9 月 20 日消息，游戏《鸣潮》(Wuthering Waves) 官方在 3.7 版本前瞻通讯中宣布将携手联想 (Lenovo) 拯救者 (Legion) 推出联名版 Y700 无极平板电脑、Y7000X 游戏笔记本电脑。 此次联名产品将进行深度定制，并以联名礼盒形式发售。其以“心”为主题，外观融入精致细腻的狐狸纹样，视觉上充满“心”的独特氛围。 IT之家了解到，《鸣潮》3.7 版本“镜锁妄世，心照红尘”将于 9 月 30 日更新。 相关阅读： 《首发 4999",
+      "content": "<p data-vmark=\"8798\">IT之家 9 月 20 日消息，游戏《鸣潮》(Wuthering Waves) 官方在 3.7 版本前瞻通讯中宣布将携手联想 (Lenovo) 拯救者 (Legion) 推出<strong>联名版 Y700 无极平板电脑</strong>、<strong>Y7000X 游戏笔记本电脑</strong>。</p><p data-vmark=\"4e92\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ce6368b0-f25e-4f83-b888-9229ab456ca4.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"660\" data-weibo=\"0\" data-vmark=\"a50f\" class=\"no-alt-img\"></p><p data-vmark=\"92d3\">此次联名产品将进行深度定制，并以联名礼盒形式发售。其<strong>以“心”为主题</strong>，外观融入精致细腻的狐狸纹样，视觉上充满“心”的独特氛围。</p><p data-vmark=\"8184\">IT之家了解到，《鸣潮》3.7 版本“镜锁妄世，心照红尘”将于 9 月 30 日更新。</p><p data-vmark=\"5fde\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"9fd7\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/994/175.htm\">首发 4999 元起：联想拯救者 Y700 无极小平板发布，8.4 寸 OLED 屏幕、第五代骁龙 8 至尊领先版</a>》</p></li><li><p data-vmark=\"a8da\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/952/489.htm\">联想发布 Y7000X 游戏本：至高 Ultra 7 251HX+RTX 5070 12G、1.95kg，8999 元起</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/004/877.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/877.htm"
+    },
+    {
+      "id": 891,
+      "title": "“全球首个个人机器人”启元 Q1 发售：稚晖君打造，19999 元起",
+      "summary": "IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1 人形机器人的正式售价： 启元 Q1 售价 19,999 元 启元 Q1 探索版售价 26,999 元 启元 Q1 定位为个人机器人，身高 88 厘米，可折叠放入背包，全身 22 个柔顺力控自由度，支持外观结构件定制，宣称是“全球首个个人机器人”。 启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语",
+      "content": "<p data-vmark=\"e512\">IT之家 9 月 20 日消息，在今日的 2026 启元机器人全球产品发布会上，启元机器人发布启元 Q1 人形机器人的正式售价：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e2df\">启元 Q1 售价 19,999 元</p></li><li><p data-vmark=\"cd6a\">启元 Q1 探索版售价 26,999 元</p></li></ul><p data-vmark=\"ea51\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5079deed-7534-43ad-a5ef-dfa718a95b7a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"730\" data-weibo=\"0\" data-vmark=\"6914\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1bb188998e7e7801e9bbad83ca75e4f59ff7af1ca7c9de4ad59813a80075ec7af44b4f0726bdf5d1b\" class=\"no-alt-img\"></p><p data-vmark=\"9a95\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b6508bf8-1f90-4dde-941b-9cc0313fd738.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"724\" data-weibo=\"1\" data-vmark=\"57eb\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1b78c0b766b032944b39f434d69c48ac1622f34b2633e9d476503688e6bd5ed0d099c99c55094485b\" class=\"no-alt-img\"></p><p data-vmark=\"fe97\">启元 Q1 定位为个人机器人，<strong>身高 88 厘米，可折叠放入背包，全身 22 个柔顺力控自由度</strong>，支持外观结构件定制，宣称是“全球首个个人机器人”。</p><p data-vmark=\"cd27\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2b25792c-7971-4243-ba33-b8900faa42b3.jpg?x-bce-process=image/format,f_auto\" w=\"507\" h=\"422\" data-weibo=\"2\" data-vmark=\"563d\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1d3139a7ac280f63a790b5cd6144a95a5b768aa0fe5a7161827b0d13e53e0cc1d618ee88120eb4efc\" class=\"no-alt-img\"></p><p data-vmark=\"7e76\">启元 Q1 主打自定义特性，支持自定义设计互动动作、3D 打印改造外观，用户可自由调整机器人的外观造型、性格特质、动作姿态与语音音色。</p><p data-vmark=\"3aed\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1a7c1aa2-0244-44f0-ba2d-395fb7ec7487.jpg?x-bce-process=image/format,f_auto\" w=\"503\" h=\"750\" data-weibo=\"3\" data-vmark=\"fda3\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1bd883bbc2870e520a8dc150fe176c944a19e2d4cb3f8290f7833e9a82434e83aa9f03c66ecdccf94\" class=\"no-alt-img\"></p><p data-vmark=\"9f5e\">IT之家附启元 Q1 官方介绍图和配置表如下：</p><p data-vmark=\"6fe7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f9b1a6c9-9d39-4f02-8b2d-28155ebccc9d.jpg\" w=\"737\" h=\"10800\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"9d5e\" data-mpos=\"2,2\" ></p>",
+      "link": "https://www.ithome.com/1/004/876.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/004/876.htm"
+    },
+    {
+      "id": 892,
+      "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’",
+      "summary": "A proposed class action lawsuit has been lodged against the four big AI tech companies after they agreed to slow AI development for safety reasons. The lead counsel on the lawsuit says that 'AI will quickly spin out of control and could kil",
+      "content": "<article>\n                                <p>Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet\" target=\"_blank\">agreed to slow AI development</a>. According to the <a href=\"https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b\" target=\"_blank\"><em>Associated Press</em></a>, the lawsuit argues that this agreement would “reduce the value consumers get for paid AI subscriptions” and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is “intense competitive pressure not to unilaterally slow” development.</p><p>The plaintiffs recognize the need for AI development to slow for the sake of safety, but they say that Anthropic founder Dario Amodei’s cooperation proposal is a “shortcut” that “substitutes collective restraint for individual accountability.” Attorney Nick Rowley, the lead counsel for the plaintiffs, says, “AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol … to be controlled by private self-serving agreements between the world’s most powerful ‘for profit’ technology companies.”</p><p>Amodei’s essay acknowledged the antitrust risk and indicated he was hoping that the government would make an exception. OpenAI’s Sam Altman responded to this call on X, saying, “We welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an antitrust exemption or legislation to begin the work of providing this confidence.” However, the Trump administration shot down this idea, with the president himself saying, “AI taking over the World, destroying Humanity, and all other things bad, is a HOAX.”</p><p>Chinese state media also <a href=\"https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition\" target=\"_blank\">criticized this announcement</a>, saying that the call to put the brakes on AI development is nothing but a response to Chinese competition, especially as Amodei’s essay explicitly mentioned the desire to slow China’s progress and widen the U.S.’s gap over Beijing. China Daily called the proposed agreement a “club whose membership rules have been drafted before the guest list is announced” and added that “a global AI-safety framework that excludes China is not quite global.”</p><p>There have been a couple of bizarre incidents where AI agents took their users’ commands too literally, like <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-ai-agent-tasked-with-booking-a-gym-class-hacks-system-removes-other-participant-says-sorry-about-that-after-trying-to-bump-user-up-the-waitlist\" target=\"_blank\">kicking out another person from a waitlist</a> just to get their user ahead of the queue or <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue\" target=\"_blank\">deleting a company’s entire database</a> when their AI agent faced a problem and it guessed that making the move was the best option. However, there have been more sinister events, such as when <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes\" target=\"_blank\">unreleased AI models broke out of their testing environment</a> and hacked HuggingFace’s production servers. Big Tech is making the call to slow down development to catch up in terms of security, but people are calling them out for antitrust activity probably because they do not trust these companies.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "eDjKExDD9eNLfrtTpVKCwb"
+    },
+    {
+      "id": 893,
+      "title": "The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground",
+      "summary": "Nvidia’s Turing GPU became available to enthusiasts for the first time on this day eight years ago.",
+      "content": "<article>\n                                <p>Nvidia’s <a href=\"https://www.tomshardware.com/reviews/nvidia-turing-gpu-architecture-explored,5801.html\" target=\"_blank\">Turing GPUs</a> became available to enthusiasts for the first time on this day eight years ago. This wasn’t just another accelerated GPU generation, though, at least according to Nvidia. The GeForce 20 series pioneered a “20 years in the making” ability to deliver hybrid graphics enhanced by real-time ray tracing. Nvidia made this new technology available at the high-end first, via the <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-rtx-2080-founders-edition,5809.html\">GeForce RTX 2080</a> and <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-rtx-2080-ti-founders-edition,5805.html\">RTX 2080 Ti</a> (review links). The more mainstream RTX 2070 wouldn’t become available until October.</p><p>In a blog post a month ahead of the release day, Nvidia CEO Jensen Huang didn't hold back in heralding the arrival of Turning for PC gaming graphics. “Turing opens up a new golden age of gaming, with realism only possible with ray tracing, which most people thought was still a decade away.” He went on to claim that “Once you see an RTX game, you can’t go back.” </p><p>Despite Huang’s boasts we can look back and confidently say that many gamers still don’t care about ray tracing. Nor do they wish to endure the performance impact even the latest generation mainstream graphics cards from Nvidia (and AMD, and Intel) still suffer from when this feature is turned on. Moreover, at the time of launch back in 2018, and for quite a few months onwards, there was little in the way of content that made the new RTX 20 series' distinguishing feature seem worthwhile. Early in-game showcases that garnered a lot of pixel peeping and chin rubbing included <a href=\"https://www.tomshardware.com/reviews/battlefield-5-ray-tracing-benchmarks,5911.html\" target=\"_blank\"><em>Battlefield V</em></a><em>, Metro Exodus, </em>and <em>Shadow of the Tomb Raider.</em></p><p>Our review of the RTX 2080 Founders Edition noted that this new second-fastest Turing architecture card managed to outpace the legendary <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-gtx-1080-ti,4972.html\">GTX 1080 Ti</a>. However, we grumbled about it being $100 more expensive than the former flagship. During this era, Nvidia Founders Editions were actually more expensive than the base models from AIBs. Thus the RTX 2080 FE had an MSRP of $799, but you might have been able to pick up an Asus, Colorful, EVGA, Gainward, Galaxy, Gigabyte, Inno3D, MSI, Palit, PNY, or Zotac for $699. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:943px;\"><p class=\"vanilla-image-block\" style=\"padding-top:44.75%;\"><img id=\"KaisvSiAsTiwcBi4zqbvSD\" name=\"rtx-20-pricing\" alt=\"Turing launch pricing\" src=\"https://cdn.mos.cms.futurecdn.net/KaisvSiAsTiwcBi4zqbvSD-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"943\" height=\"422\" attribution=\"\" endorsement=\"\" class=\"inline expandable\"><a href='https://cdn.mos.cms.futurecdn.net/KaisvSiAsTiwcBi4zqbvSD-1920-80.jpg' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://nvidianews.nvidia.com/news/10-years-in-the-making-nvidia-brings-real-time-ray-tracing-to-gamers-with-geforce-rtx\" target=\"_blank\">Nvidia</a>)</span></figcaption></figure><p>Our review of the GeForce RTX 2080 Ti flagship was more positive, despite the conclusion that the “$1200 price tag is out of reach for most gamers.” The 71% uplift in price wasn’t really worth it for the ~26% faster performance vs the GTX 1080 Ti. It was also about 20% faster in gaming than the pro <a href=\"https://www.tomshardware.com/news/nvidia-titan-v-110-teraflops,36085.html\" target=\"_blank\">Titan V</a>, though. </p><p>Our review of the RTX 2080 Ti was 14 pages long, but here’s a direct link to some <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-rtx-2080-ti-founders-edition,5805-9.html\" target=\"_blank\">gaming benchmarks</a> featuring the likes of <em>Tom Clancy’s Ghost Recon, The Witcher 3, </em>and <em>World of Warcraft: Battle for Azeroth.</em> During gaming, this new consumer flagship would typically consume about 280W.</p><p>Eight years later, we can say that realtime ray tracing has indeed proved popular. Even consoles and mobile games now use and boast of this visual tech, and probably couldn’t ignore it without getting sidelined. But adoption has been slow, and it has taken yet more layers of technology, such as <a href=\"https://www.tomshardware.com/pc-components/gpus/all-in-one-dlss-unlocked-mod-brings-dlss-5-and-multi-frame-gen-to-rtx-20-30-and-40-series-hybrid-tool-taps-amd-fsr-3-1-to-boost-frame-rates-up-to-6x\" target=\"_blank\">DLSS </a>for the green team, to make ray tracing at all accessible for budget / mainstream gamers, even in 2026.</p><p>Do you still rock a Turing GPU in 2026? If you do, or are just curious about how well an 8-year-old card would do in 2026, I'm sorry to say that Turing has slipped off the end of our famous <a href=\"https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html\" target=\"_blank\">graphics card hierarchy</a>. However, the following generation <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-rtx-3070-founders-edition-review\" target=\"_blank\">RTX 3070 </a>at $499 offered very similar performance to the prior-gen $1,199 flagship. Those were the days (except that the cryptomining craze happened).</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "77LARQ8F5rcEy9qZc2DGoH"
+    },
+    {
+      "id": 894,
+      "title": "Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera from throttling — unusual camera’s processor gets toasty as it records while performing cryptographic calculations",
+      "summary": "A premium PC DIY fan brand has announced that one of its prized spinners is being used in an 'Anti-AI' 4K camera to prevent throttling.",
+      "content": "<article>\n                                <p>A premium PC DIY fan brand has <a href=\"https://www.noctua.at/en/expertise/blog/cooling-a-camera-built-to-prove-reality-the-nf-a4x10-5v-pwm-in-caim1#why-the-nf-a4x10-5v-pwm-was-the-right-fit\" target=\"_blank\">announced </a>that one of its prized spinners is being used in a 4K camera. Noctua says that its NF-A4x10 5V PWM was used by the CAIM1 camera designers due to its quiet, compact nature and strong <a href=\"https://www.tomshardware.com/desktops/pc-building/how-to-optimize-your-pcs-airflow-using-positive-vs-negative-pressure\" target=\"_blank\">airflow </a>and pressure performance. This camera runs two intensive processing tasks simultaneously within a compact shell, high-bitrate imaging and cryptography, hence the need for active cooling to prevent throttling.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2100911449300169173\"><p lang=\"en\" dir=\"ltr\">CAIM1 proves its footage is real at the moment of capture. 4K60 capture and cryptographic proof generation at once push its processors to the thermal limit – inside a mostly enclosed shell.So it needs a fan. It just can't be heard or felt... https://t.co/2SL3rVc8N5 @CaimeraX… pic.twitter.com/Ogbe4YBRqX<a href=\"https://twitter.com/cantworkitout/status/2100911449300169173\">September 18, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>The CAIM1 is something of a niche product. It has been designed to create photo and video captures that one can say with certainty haven’t been <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-security-camera-feed-shows-sam-altman-getting-busted-stealing-gpus-from-target-ironic-video-shows-openai-ceo-saying-he-needs-it-for-sora-inferencing\" target=\"_blank\">altered or generated using AI</a>. Noctua says it is “cooling a camera built to prove reality.” CAIM1 is short for Counter Artificial Intelligence Machine 1. </p><p>From the brief description provided by the source, this anti-AI functionality seems to work by piping the imagery directly from the lens/sensor through an “onboard hardware attestation with edge cryptographic proof generation” process. This is stored on the camera’s “immutable, decentralized storage, enabling the origin of the media to be verified independently,” says the Austrian air-cooling specialist.</p><p>Of course Noctua’s involvement was beneficial to the camera makers for its high-quality precision fans. The CAIM1 generates heat through its high-bitrate 4K imaging activity, its <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/intels-heracles-chip-computes-fully-encrypted-data-without-decrypting-it-chip-is-1-074-to-5-547-times-faster-than-a-24-core-intel-xeon-in-fhe-math-operations\" target=\"_blank\">cryptographic processing</a>, all within the confines of a compact handling-friendly shell. Other key considerations of the designers were precise <a href=\"https://www.tomshardware.com/reviews/glossary-pwm-pulse-width-modulation-definition,5888.html\" target=\"_blank\">PWM fan control</a>, and finding a fan with minimal noise (as the camera records audio) and minimal microvibrations. </p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/g8g6W2Evxd8jgRa7nDzUfF-1920-80.jpg\" alt=\"Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera throttling \" /><figcaption><small role=\"credit\">Noctua</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/nZ3FpAJ5hRSKZqMCzvUjpF-1920-80.jpg\" alt=\"Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera throttling \" /><figcaption><small role=\"credit\">Noctua</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/trnStuUYLvwgz2auG6RapF-1920-80.jpg\" alt=\"Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera throttling \" /><figcaption><small role=\"credit\">Noctua</small></figcaption></figure></figure><p>Noctua says its <a href=\"https://www.tomshardware.com/pc-components/cooling/seasonic-x-noctua-turn-to-keychain-merch-after-their-successful-1-600w-power-supply-collab\" target=\"_blank\">NF-A4x10</a> 5V, with its PWM’s SSO2 bearing system and smooth motor drive fitted the bill. This tiny fan was leveraged in a unified single-airstream cooling design with custom anti-vibration mounts, situated right behind the image sensor. This directs air across the sensor’s alloy heatsink backplate, and which gets exhausted though the camera chassis left side.</p><p>Our nozzle-headed readers will also be pondering over the Prusa branding on the camera body. The simple answer is that the CAIM1 is still at the prototyping stage and these models have been prepared using <a href=\"https://www.tomshardware.com/best-picks/best-3d-printers\" target=\"_blank\">3D printers</a> and Prusament PETG <a href=\"https://www.tomshardware.com/tech-industry/prusa-brings-noctuas-iconic-beige-and-brown-to-nozzleheads-everywhere-accurately-matching-3d-printed-parts-to-noctua-gear-is-now-trivial\" target=\"_blank\">Noctua Beige and Noctua Brown</a> for the outer shell and fan mount. CAIM1 devices will be showcased at a handful of trade shows in Japan later this month. However, commercial batches are targeting Q1 2027 availability. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "wgAPsKRGd9rSbrecPiF6fU"
+    },
+    {
+      "id": 895,
+      "title": "Autonomous NATO strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+      "summary": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
+      "content": "<article>\n                                <p>Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo, <a href=\"https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/\"><u><em>Ars Technica</em></u></a> reports. Scaleout Systems, a Swedish AI startup, used a low-cost loitering munition from BAE Systems Bofors to strike a target as part of the Affordable Loitering Modular Ammunition (ALMA) program. BAE’s Winter Demo 2026 had the drone detecting and geolocating targets before ranking an armored engineering vehicle highest, autonomously flying to it, and dropping an explosive. </p><p>Scaleout’s demo video, “Technical Demo: Onboard Edge Intelligence for Autonomous UAV Missions,” shows the company’s drone spotting potential threats with AI, with all processing handled onboard. Beyond a button press to start the system, manual input is optional; the designated pilot remained a failsafe controller. The mission flew under human-set parameters to engage an armored engineering vehicle and required about 200 seconds of recon, with the full mission completed in under 320 seconds. The mission completed without needing communication, supporting Scaleout’s claim of resilience against electronic warfare.</p><p>The report referred to the munition as a “<a href=\"https://www.tomshardware.com/tech-industry/concerns-raised-over-shahed-kamikaze-drone-listings-on-alibaba-they-featured-ai-guidance-to-lock-onto-people-building-vehicles-ships-etc\"><u>kamikaze drone</u></a>,” but the program’s own term, “loitering munition,” is more descriptive. Most of the mission is spent searching, ranking targets, and waiting to strike. The company combines Scaleout Edge and “federated learning” in a “Tactical Computer Vision Network (TCVN).” Devices train AI locally and share model updates for rapid adaptation. Scaleout’s project, FEDAIR, is part of NATO’s DIANA accelerator, receiving 100,000 euros of development funding, training, and test access.</p><p>In a February post, Scaleout described a separate “arctic strike demonstration” at BTC Karlskoga, Sweden. The mission was flown at -18 degrees Celsius, about 0 degrees Fahrenheit, in the snow. There, an Airolit S1 airframe ran the YOLOv8 Nano object-detection model on Nvidia’s <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-new-usd249-ai-development-board-that-does-67-tops\"><u>Jetson Orin Nano</u></a>. Scaleout claimed a framerate of 30 fps at around 20 m/s, with a target latency of 30 ms or less and about 30 ms sustained in the field. Ranging without a depth sensor is possible using a pinhole camera model combined with known object size.</p><p>Scaleout’s follow-up June 30 post, “Resilient Edge AI for ISR: Inside Our Swedish Air Force Demonstration,” spoke of another test with Scaleout Edge “already deployed under an active licence.” The network used two ground nodes under a cloud-hosted Scaleout Edge control plane. The first was ALPHA, a forward-deployed node at the air base with a stable link, and the second BRAVO, a lab node in Uppsala whose connection was first degraded, then cut entirely. BRAVO kept inference and active learning at full frame rate while offline, logging detections locally, then backfilled on reconnect in priority order for heartbeat, critical alerts, drift, model updates, and telemetry. This test mimics the impact of external interference.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:64.32%;\"><img id=\"NYx2YjWc5GEhdMsqn6Y8in\" name=\"tcvn-diagram-1920\" alt=\"Diagram of Scaleout's Tactical Vision Network, from edge to control\" src=\"https://cdn.mos.cms.futurecdn.net/NYx2YjWc5GEhdMsqn6Y8in-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1235\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Scaleout)</span></figcaption></figure><p>The demonstrations, license, and funding come before any official NATO procurement order or actual combat deployment. Concerns about lethal autonomous weapons are being addressed by a UN expert group. Its recent report concluded that human judgment and control are required to comply with the laws of war; its recommendations will be reviewed in Geneva in November. Still, Scaleout’s demonstrations show autonomous target selection running on the airframe, and in the February test it ran on a board hobbyists can buy. Whether BAE Systems Bofors moves ALMA from demonstration to procurement remains to be seen.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "86gWAVnpbaFN6LLuw2hHuR"
+    },
+    {
+      "id": 896,
+      "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+      "summary": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
+      "content": "<article>\n                                <p>Jensen Huang, the chief executive of Nvidia, said artificial intelligence will not destroy humanity by the end of the decade, <a href=\"https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030\" target=\"_blank\">Bloomberg reports</a><a href=\"https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030\">,</a> citing a CBS interview. Huang contends that while AI is developing at an extremely rapid pace, doomsday scenarios because of AI are largely unsubstantiated, and it makes no sense to 'stir fear across America.' </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: AI shortages</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"z53fPgXjpKHTpeGv3RHpqj\" name=\"NVIDIA GB200 NVL72 Compute Tray Press Graphic.png\" caption=\"\" alt=\"Nvidia\" src=\"https://cdn.mos.cms.futurecdn.net/z53fPgXjpKHTpeGv3RHpqj-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Nvidia)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=ai-shortage\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers?utm_source=edit-links&utm_medium=boxout&utm_term=ai-shortage\" target=\"_blank\">Demand for data center CPUs has surged, and AI agents are responsible</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/chip-scarcity-assaults-auto-industry-amid-the-worsening-nexperia-and-dram-crisis?utm_source=edit-links&utm_medium=boxout&utm_term=ai-shortage\" target=\"_blank\">Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia?utm_source=edit-links&utm_medium=boxout&utm_term=ai-shortage\" target=\"_blank\">The custom AI ASIC state of play</a></li></ul></p></div></div><p>\"I completely disagree that AI will destroy the world by 2030,\" Huang said in an interview with <a href=\"https://x.com/CBSSunday/status/2101282268987998211\">CBS Sunday Morning</a> (set to be aired on Sunday). </p><p>\"I believe the claims of the end of the world, stirring fear across America, and doing it by people who are doing it makes no sense to me. So, they must be doing it for ulterior reasons. Maybe it is political, maybe it is otherwise, maybe it is just attention-grabbing […]. However this is characterized, 2030 is not going to be the end of the world. There is 0% chance that is going to be the end of the world.\"</p><p>Huang, who leads the company that leads the market in AI hardware sales, is responding to Evan Hubinger, the former Alignment Science organization lead at Anthropic, who said there was an over 10% chance that AI would destroy humanity within the next decade.</p><p>\"We really do earnestly believe AI could kill all humans,\" Hubinger wrote in an <a href=\"https://x.com/EvanHub/status/2097497037956891126\">X post</a>. \"I personally think it is >10% within the next decade. I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to.\"</p><p>Following reports that OpenAI's rogue agents <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure\" target=\"_blank\">attacked Hugging Face</a> and <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-rogue-ai-agents-accessed-more-websites-to-communicate-than-originally-believed-defiant-llms-accessed-old-wikis-and-abandoned-websites-to-co-ordinate-in-a-bid-to-dupe-assessors\" target=\"_blank\">communicated with each other on abandoned wikis and websites</a>, chief executives of Anthropic and OpenAI called for guardrails and even slowing down development of new AI models, as the dangers they pose are not completely evident even to their developers.</p><p>The head of Nvidia states that AI can be safely managed by its developers, so no regulations from governments are needed beyond what is already in place. Meanwhile, he also says that products shipped must be completely safe.<br><br>\"We should go as fast as we can, irrespective of anyone else,\" Huang said. \"But we would never ever, and never should, ship products before they’re ready and deliver products that are unsafe.\"</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "yWU9bnXVhvnM7qwFNRbhzQ"
+    },
+    {
+      "id": 897,
+      "title": "AMD Radeon RX 9050 4 GB Benchmarks Surface, 37% Slower Than 8 GB Model",
+      "summary": "Hardware Unboxed and Toasty Bros have both tested the mysterious Radeon RX 9050 4 GB, and the results look rough. AMD only sells this version in OEM systems, so both channels had to buy CyberPowerPC prebuilts to get one. In Hardware Unboxed",
+      "content": "<a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=5MRybPTFDnU\" target=\"_blank\">Hardware Unboxed</a> and <a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=3SEMeJUDzLA\" target=\"_blank\">Toasty Bros</a> have both tested the mysterious <a href=\"https://www.techpowerup.com/351198/amd-radeon-rx-9050-4-gb-will-be-oem-exclusive\" target=\"_blank\">Radeon RX 9050 4 GB</a>, and the results look rough. AMD only sells this version in OEM systems, so both channels had to buy CyberPowerPC prebuilts to get one. In Hardware Unboxed's 18-game test at 1080p Low, the 4 GB card averaged 78 FPS with 55 FPS 1% lows, against 107 FPS and 78 FPS for the RX 9050 8 GB. That makes the 8 GB model about 37% faster. At the lowest settings tested, it was still around 32% ahead, at 147 FPS versus 111 FPS. Both cards share 1,024 Stream Processors and up to a 2.6 GHz boost clock, so the difference comes from memory. As <a href=\"https://www.techpowerup.com/351784/amd-confirms-radeon-rx-9050-4-gb-has-smaller-infinity-cache-lower-memory-bandwidth\" target=\"_blank\">AMD confirmed</a>, the 4 GB model has a 64-bit bus, 144 GB/s of bandwidth, and 16 MB of Infinity Cache, exactly half of what the 8 GB model has.<br />\r\n<br />\r\nToasty Bros opened their prebuilt and found an XFX dual-fan card with a single 8-pin connector, so it looks like <a href=\"https://www.techpowerup.com/351134/amd-launches-radeon-rx-9050-4-8-gb-skus-with-first-design-from-asrock\" target=\"_blank\">ASRock is not the only partner</a> making one. AMD has said it developed the Radeon RX 9050 4 GB version for a specific partner system aimed at entry-level gaming customers, and that it has no plans to sell it outside that OEM PC. The card was first spotted in a CyberPowerPC Gamer Master prebuilt at Best Buy, which was listed at $889.99. Keep in mind that this is still a small sample, with only two outlets testing the card so far, so it's important to wait for more independent results before drawing firm conclusions. Still, AMD launching a card with only 4 GB of VRAM in 2026 is not looking like a great decision so far.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/EZMulzRjlKyu8wod.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/EZMulzRjlKyu8wod_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ukxtdscXY203Wxn4.jpg\" target=\"_blank\" data-width=\"1705\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ukxtdscXY203Wxn4_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/352878/amd-radeon-rx-9050-4-gb-benchmarks-surface-37-slower-than-8-gb-model",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "699d979a07c3e8a16ec9e160cc6e1008"
+    },
+    {
+      "id": 898,
+      "title": "Intel Ends Its $100,000 Bug Bounty Program",
+      "summary": "Intel has officially suspended its Bug Bounty Program, which offered security researchers compensation for finding and reporting security vulnerabilities. The program is now marked as suspended on the Intigriti platform, but Intel has not p",
+      "content": "Intel has officially suspended its Bug Bounty Program, which offered security researchers compensation for finding and reporting security vulnerabilities. The program is now marked as suspended on the Intigriti platform, but Intel has not provided a detailed explanation for this decision. Previously, Intel organized a series of bounties for those discovering bugs and vulnerabilities, divided into four tiers. In tier one, the highest payout was $5,000; tier two offered $10,000; tier three provided $30,000; and the most severe bugs in tier four could be compensated with $100,000. Tier four was intended for major vulnerability disclosures, like Spectre or Meltdown, which were significant security issues a few years ago.<br />\r\n<br />\r\nAlthough Intel hasn't explained why it suspended the bug bounty program, a likely reason is that modern technologies are advanced enough to explore, find, and report possible vulnerabilities. For example, AI can analyze modern software and hardware protection layers, identify potential weaknesses, and quickly develop a solution to patch them. Intel's internal tools are probably utilizing various AI systems to discover new ways to exploit Intel machines and simultaneously fix them before anyone can take advantage.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/RUKMXt510t029KcZ.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/RUKMXt510t029KcZ_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/PoyNy69okNrQuBPV.jpg\" target=\"_blank\" data-width=\"1688\" data-height=\"945\" ><img src=\"https://tpucdn.com/img/PoyNy69okNrQuBPV_thm.jpg\" width=\"232\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "80965ace9c640191e875746c8603610a"
+    },
+    {
+      "id": 899,
+      "title": "Powerful laptop launches with Ryzen AI Max+ 395, 64 GB RAM, 8 TB storage and 2.5K 165 Hz display",
+      "summary": "Thunderobot's AI Master M7000 mobile workstation laptop has launched with an AMD Ryzen AI Max+ 395 processor, 64 GB of memory and an AI SSD in China. The 16-inch laptop supports Phison's aiDAPTIV+ technology and is designed to run large AI ",
+      "content": "Thunderobot's AI Master M7000 mobile workstation laptop has launched with an AMD Ryzen AI Max+ 395 processor, 64 GB of memory and an AI SSD in China. The 16-inch laptop supports Phison's aiDAPTIV+ technology and is designed to run large AI models locally.",
+      "link": "https://www.notebookcheck.net/Powerful-laptop-launches-with-Ryzen-AI-Max-395-64-GB-RAM-8-TB-storage-and-2-5K-165-Hz-display.1403862.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Powerful-laptop-launches-with-Ryzen-AI-Max-395-64-GB-RAM-8-TB-storage-and-2-5K-165-Hz-display.1403862.0.html"
+    },
+    {
+      "id": 900,
+      "title": "Review verdict for the Asus ROG Zephyrus G16 2026 - More power, longer runtimes and a beefy price tag",
+      "summary": "The 2026 Asus ROG Zephyrus G16 is once again a slim high-end gaming laptop. The switch to Intel's Panther Lake processor improves efficiency and battery runtimes, while the improved cooling performance increases the gaming performance despi",
+      "content": "The 2026 Asus ROG Zephyrus G16 is once again a slim high-end gaming laptop. The switch to Intel's Panther Lake processor improves efficiency and battery runtimes, while the improved cooling performance increases the gaming performance despite identical GPUs.",
+      "link": "https://www.notebookcheck.net/Review-verdict-for-the-Asus-ROG-Zephyrus-G16-2026-More-power-longer-runtimes-and-a-beefy-price-tag.1399088.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-20",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Review-verdict-for-the-Asus-ROG-Zephyrus-G16-2026-More-power-longer-runtimes-and-a-beefy-price-tag.1399088.0.html"
     },
     {
       "id": 763,
