@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-25",
-  "total": 1349,
+  "total": 1385,
   "list": [
     {
       "id": 1306,
@@ -519,6 +519,513 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/LG-slashes-prices-of-its-popular-C6-series-following-surveillance-scandal.1407710.0.html"
+    },
+    {
+      "id": 1350,
+      "title": "SK海力士旗下Solidigm考虑明年赴美IPO 估值或高达1500亿美元",
+      "summary": "韩国芯片制造商SK海力士旗下美国存储业务公司Solidigm正在考虑最早于2027年进行首次公开募股，届时公司估值最高可能达到1500亿美元。如果计划最终落地，这将成为美国半导体行业历史上规模最大的IPO之一。 阅读全文",
+      "content": "<p>韩国芯片制造商SK海力士旗下美国存储业务公司Solidigm正在考虑最早于2027年进行首次公开募股，届时公司估值最高可能达到1500亿美元。如果计划最终落地，这将成为美国半导体行业历史上规模最大的IPO之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579642.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579642.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579642.htm"
+    },
+    {
+      "id": 1351,
+      "title": "苹果iPad 12曝光 支持Apple Intelligence 性能与连接能力全面增强",
+      "summary": "苹果下一代入门级平板电脑iPad 12的更多信息近日浮出水面。根据最新曝光的内部资料和供应链消息，这款产品虽然不会迎来全新的外观设计，但将在处理器、内存、无线连接以及人工智能功能方面获得近年来最重要的一次升级。 阅读全文",
+      "content": "<p>苹果下一代入门级平板电脑iPad 12的更多信息近日浮出水面。根据最新曝光的内部资料和供应链消息，这款产品虽然不会迎来全新的外观设计，但将在处理器、内存、无线连接以及人工智能功能方面获得近年来最重要的一次升级。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579640.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579640.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579640.htm"
+    },
+    {
+      "id": 1352,
+      "title": "iPad mini 8首次曝光：苹果最小平板迎来硬件升级 AI时代定位进一步明确",
+      "summary": "苹果新一代iPad mini 8近日通过内部代码和产品资料首次曝光。这款小尺寸平板预计将在延续现有外观设计的基础上迎来核心硬件升级，并进一步强化对Apple Intelligence人工智能功能的支持。 阅读全文",
+      "content": "<p>苹果新一代iPad mini 8近日通过内部代码和产品资料首次曝光。这款小尺寸平板预计将在延续现有外观设计的基础上迎来核心硬件升级，并进一步强化对Apple Intelligence人工智能功能的支持。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579632.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579632.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579632.htm"
+    },
+    {
+      "id": 1353,
+      "title": "苹果新款Apple TV 4K配置曝光：A19芯片加持",
+      "summary": "苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。 阅读全文",
+      "content": "<p>苹果即将推出的新一代Apple TV 4K再次传出重要消息。最新泄露的信息显示，这款已经多年未更新的流媒体设备将迎来近年来最大幅度的硬件升级，不仅将获得A19系列处理器，还有望成为苹果人工智能和智能家居生态的重要组成部分。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579628.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579628.htm"
+    },
+    {
+      "id": 1354,
+      "title": "马斯克押注超大规模AI算力 xAI计划部署逾120万颗英伟达GPU",
+      "summary": "埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。 阅读全文",
+      "content": "<p>埃隆·马斯克旗下人工智能公司xAI正在进一步扩大数据中心规模，并计划在未来几年部署超过120万颗英伟达AI GPU。随着Colossus数据中心持续扩建，xAI希望通过大规模算力基础设施训练和运行下一代Grok模型，与OpenAI等竞争对手展开更加激烈的AI基础设施竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579626.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579626.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579626.htm"
+    },
+    {
+      "id": 1355,
+      "title": "朝鲜黑客疑似盗走3.51亿美元加密货币 制造2026年迄今最大规模加密资产盗窃案",
+      "summary": "加密货币交易平台Bitget近日遭遇大规模网络攻击，价值超过3.51亿美元的加密货币从该交易平台服务器中被盗。Bitget方面认为，这起攻击与已知的朝鲜黑客组织活动模式高度吻合。如果相关判断最终得到确认，这将成为2026年以来已知金额最大的加密货币盗窃事件。 阅读全文",
+      "content": "<p>加密货币交易平台Bitget近日遭遇大规模网络攻击，价值超过3.51亿美元的加密货币从该交易平台服务器中被盗。Bitget方面认为，这起攻击与已知的朝鲜黑客组织活动模式高度吻合。如果相关判断最终得到确认，这将成为2026年以来已知金额最大的加密货币盗窃事件。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579622.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579622.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579622.htm"
+    },
+    {
+      "id": 1356,
+      "title": "PNY被曝拒绝RTX 5090保修 理由是没有使用显卡随附的电源线",
+      "summary": "一名RTX 5090用户近日公开了与PNY售后部门的邮件往来，称自己的显卡因16针电源接口发生熔化并最终损坏，在申请保修时却遭到PNY拒绝。PNY给出的理由是用户没有使用显卡包装盒内提供的PNY认证电源线或转接器，而是使用了电源供应器原厂附带的12VHPWR/12V-2x6电源线。 阅读全文",
+      "content": "<p>一名RTX 5090用户近日公开了与PNY售后部门的邮件往来，称自己的显卡因16针电源接口发生熔化并最终损坏，在申请保修时却遭到PNY拒绝。PNY给出的理由是用户没有使用显卡包装盒内提供的PNY认证电源线或转接器，而是使用了电源供应器原厂附带的12VHPWR/12V-2x6电源线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579618.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579618.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579618.htm"
+    },
+    {
+      "id": 1357,
+      "title": "Samba 4.25正式发布：首次实验性支持SMB3持久句柄 故障恢复能力进一步增强",
+      "summary": "开源文件与打印服务软件Samba 4.25近日正式发布，成为该项目面向Linux服务器与Windows系统提供文件和打印共享服务的最新稳定版本。此次更新最值得关注的变化，是首次加入对SMB3 Persistent Handles，也就是SMB3持久句柄的实验性支持，同时还引入了新的Ceph RGW虚拟文件系统模块，并对审计日志、域加密等功能进行了改进。 阅读全文",
+      "content": "<p>开源文件与打印服务软件Samba 4.25近日正式发布，成为该项目面向Linux服务器与Windows系统提供文件和打印共享服务的最新稳定版本。此次更新最值得关注的变化，是首次加入对SMB3 Persistent Handles，也就是SMB3持久句柄的实验性支持，同时还引入了新的Ceph RGW虚拟文件系统模块，并对审计日志、域加密等功能进行了改进。</p> <a href=\"https://www.cnbeta.com.tw/articles/soft/1579612.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/soft/1579612.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/soft/1579612.htm"
+    },
+    {
+      "id": 1358,
+      "title": "传苹果英伟达等美芯片巨头均在评估英特尔14A工艺",
+      "summary": "若这则报道基本属实，英特尔或将迎来一个全新且利润极为丰厚的发展时代。据称，美国芯片科技领域几乎所有头部企业，包括亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通，都在评估英特尔即将推出的14A工艺节点。 阅读全文",
+      "content": "<p>若这则报道基本属实，英特尔或将迎来一个全新且利润极为丰厚的发展时代。据称，美国芯片科技领域几乎所有头部企业，包括亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通，都在评估英特尔即将推出的14A工艺节点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579608.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579608.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579608.htm"
+    },
+    {
+      "id": 1359,
+      "title": "首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业",
+      "summary": "IT之家 9 月 25 日消息，影石今日宣布，首家美国旗舰店于纽约时代广场正式开业。据此前官方介绍，这也是首个在纽约时代广场开业的中国影像品牌。截至目前，影石在全球体验零售店已超 10000 家，品牌旗舰店超 300 家。 IT之家注意到，国际数据公司（IDC） 9 月 23 日发布 2026 年二季度全球手持智能影像设备市场数据。期内全球销量达 588.7 万台，同比增长 57.24%；销售额 156.89 亿元人民币。其中云台相机增长最快，销量同比激增 86.9% 至 2",
+      "content": "<p data-vmark=\"4c1d\">IT之家 9 月 25 日消息，影石今日宣布，首家美国旗舰店于纽约时代广场正式开业。据此前官方介绍，这也是首个在纽约时代广场开业的<strong>中国影像品牌</strong>。截至目前，影石在全球体验零售店已超 10000 家，品牌旗舰店超 300 家。</p><p data-vmark=\"5968\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b3421de9-45a2-4287-976e-fb76186ee42d.png\" w=\"638\" h=\"470\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Finsta360%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F5558240479%2FRjLXn2ULM%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"02f1\" class=\"no-alt-img\"></p><p data-vmark=\"d2d2\" style=\"text-align: center;\"><a href=\"https://weibo.com/tv/show/1034:5347076020830247?mid=5347125810694882\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9d8c731a-b530-4dbb-84aa-cb1b18376f55.jpg\"></a></p><p data-vmark=\"ee3b\" style=\"text-align: left;\">IT之家注意到，国际数据公司（IDC） 9 月 23 日发布 <a href=\"https://www.ithome.com/1/006/206.htm\" target=\"_blank\">2026 年二季度全球手持智能影像设备市场数据</a>。期内全球销量达 588.7 万台，同比增长 57.24%；销售额 156.89 亿元人民币。其中云台相机增长最快，销量同比激增 86.9% 至 279.3 万台。</p><p data-vmark=\"090a\" style=\"text-align: left;\">中国影像双雄影石、大疆成为本轮增长的核心引擎。影石披露，<strong>其相机全球累计出货量已突破 1000 万</strong>台，过去一年出货达 470 万台。全景相机领域，影石以 72.5% 的销量领跑行业，实现连续两个季度份额增长。</p><p style=\"text-align: left;\" data-vmark=\"7877\">云台相机赛道，市场消息显示，影石首款产品 Luna Ultra 上市当月拿下<strong>美国亚马逊 23% 市场</strong>，6-8 月保持两成左右份额，打破行业长期以来的单一竞争格局。</p>",
+      "link": "https://www.ithome.com/1/007/251.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/251.htm"
+    },
+    {
+      "id": 1360,
+      "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
+      "summary": "IT之家 9 月 25 日消息，据英国《卫报》今天（25 日）报道，英国政府曾大力宣传的埃塞克斯郡劳顿大型数据中心项目将无法按原计划于明年启用，甚至可能拖到 2030 年代中期。 劳顿项目 2025 年公布时被称为英国最大的 AI 超级计算机，但供电难题意味着项目距离投入运行仍有很长一段时间。 当前，该项目因无法在原定 2027 年启用前获得足够电力而面临新的问题。该超算由英国初创企业 Nscale 负责建设，这家企业今年又计划以 350 亿美元（IT之家注：现汇率约合 2,",
+      "content": "<p data-vmark=\"ed97\">IT之家 9 月 25 日消息，据英国《卫报》今天（25 日）报道，英国政府曾大力宣传的埃塞克斯郡劳顿大型数据中心项目将无法按原计划于明年启用，甚至可能拖到 2030 年代中期。</p><p data-vmark=\"08e1\">劳顿项目 2025 年公布时<strong>被称为英国最大的 AI 超级计算机</strong>，但供电难题意味着项目距离投入运行仍有很长一段时间。</p><p data-vmark=\"12fc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/918c2a88-90aa-4e6b-ad35-6a5e53bb028a.jpg\" w=\"480\" h=\"384\" data-weibo=\"0\" alt=\"Artist's impression of datacentre in Essex.\" data-vmark=\"a411\" class=\"no-alt-img\"></p><p data-vmark=\"be0d\">当前，该项目因<strong>无法在原定 2027 年启用前获得足够电力</strong>而面临新的问题。该超算由英国初创企业 Nscale 负责建设，这家企业今年又计划以 350 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,351.04 亿元人民币）</span>估值上市。</p><p data-vmark=\"d978\">报道披露，负责把项目接入当地电网的 UK Power Networks（UKPN）已告知 Nscale，电网要到 2030 年代初至中期才能为数据中心提供足够电力。</p><p data-vmark=\"7131\">Nscale 回应称，劳顿项目仍将推进。<strong>供电问题迟迟找不到快速解决办法</strong>，也反映出能源供应正成为数据中心建设的一大障碍。</p><p data-vmark=\"677f\">Nscale 还清空了原先的脚手架堆场，同时开始研究场址内自行发电的可行性，以及能否缩短电网接入所需时间。</p><p data-vmark=\"4a57\">英国天然气与电力市场办公室（Ofgem）此前警告，电力接入申请已出现积压。数据显示，今年 6 月有 315 座数据中心正在排队接入英国电网，合计用电需求达到 73GW，而英国全国用电高峰需求仅为 45GW。</p><p data-vmark=\"d963\">劳顿项目申请的供电容量最高达到 90MW，相当于<strong>约 31.5 万户家庭</strong>的用电量。</p>",
+      "link": "https://www.ithome.com/1/007/228.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/228.htm"
+    },
+    {
+      "id": 1361,
+      "title": "陈立武：英特尔会维持在台积电前十大客户之列，我很敬佩张忠谋",
+      "summary": "IT之家 9 月 25 日消息，据台媒《经济日报》今天（25 日）晚间报道，英特尔 CEO 陈立武近期接受采访时称，会维持在台积电前十大客户名单之列。 陈立武表示，美国拥有芯片设计和制造能力十分重要。随着先进制程节点不断微缩、复杂度持续提升，公司将推动相关领域取得进展。同时，英特尔仍是台积电的密切合作伙伴，也是台积电前十大客户之一。 陈立武称，即使自己喜欢赢，也不会把别人视为竞争对手。商业领域往往并非零和博弈，没有人能够把所有事情都包揽下来，因此总是需要寻找合作伙伴，而他自己",
+      "content": "<p data-vmark=\"6656\">IT之家 9 月 25 日消息，据台媒《经济日报》今天（25 日）晚间报道，英特尔 CEO 陈立武近期接受采访时称，会维持在台积电前十大客户名单之列。</p><p data-vmark=\"82d6\">陈立武表示，美国拥有芯片设计和制造能力十分重要。随着先进制程节点不断微缩、复杂度持续提升，公司将推动相关领域取得进展。同时，英特尔仍是台积电的密切合作伙伴，<strong>也是台积电前十大客户之一</strong>。</p><p data-vmark=\"4259\">陈立武称，即使自己喜欢赢，<strong>也不会把别人视为竞争对手</strong>。商业领域往往并非零和博弈，没有人能够把所有事情都包揽下来，因此总是需要寻找合作伙伴，而他自己也相当重视合作伙伴。</p><p data-vmark=\"cc06\">IT之家从报道中获悉，陈立武自曝<strong>“很敬佩”台积电创始人张忠谋</strong>，认为其为半导体产业作出了巨大贡献。英特尔一直与台积电保持密切合作，也是台积电前十大客户之一，今后还会继续保持这种合作关系。</p>",
+      "link": "https://www.ithome.com/1/007/205.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/205.htm"
+    },
+    {
+      "id": 1362,
+      "title": "奕境 X9 上市 24 小时大定 9157 台，满配华为乾崑全栈智能",
+      "summary": "IT之家 9 月 25 日消息，奕境汽车今日宣布，奕境 X9 上市 24 小时大定 9157 台。该车于昨晚上市，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信加持。 IT之家附价格信息如下： 增程四驱 Ultra+ 旗舰长续航版：36.98 万元 增程四驱 Ultra+ 长续航版：32.98 万元 增程四驱 Ultra：29.98 万元，选装四激光雷达价格 30.98 万元 增程 Max 长续航版：28.9",
+      "content": "<p data-vmark=\"c2b4\">IT之家 9 月 25 日消息，奕境汽车今日宣布，奕境 X9 上市 24 小时大定 9157 台。该车于昨晚上市，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信加持。</p><p style=\"text-align: center;\" data-vmark=\"a6bc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2d593dd1-5970-4b9a-88a2-747e9638c801.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"961\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F9108582129%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F9108582129%2FRjKNj3En1%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d186361c2b2d6be34bce9e6e819a2be77509add94a2720db7a5669d46abd17e84bbaf1d728ca995b60\" data-vmark=\"a8e2\" class=\"no-alt-img\"></p><p data-vmark=\"2cff\">IT之家附价格信息如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e7e6\">增程四驱 Ultra+ 旗舰长续航版：36.98 万元</p></li><li><p data-vmark=\"e69d\">增程四驱 Ultra+ 长续航版：32.98 万元</p></li><li><p data-vmark=\"f9cb\">增程四驱 Ultra：29.98 万元，选装四激光雷达价格 30.98 万元</p></li><li><p data-vmark=\"7b09\">增程 Max 长续航版：28.98 万元</p></li></ul><p data-vmark=\"3191\">全系车型还可在此基础上享受价值 1 万元的超级置换礼，限时优惠价区间来到 27.98 万-35.98 万元。</p><p data-vmark=\"222a\">奕境 X9 长 5301mm、宽 2015mm、高 1820mm，轴距为 3120mm。首发搭载鸿蒙座舱 HarmonySpace 6，配备双 17.2 英寸 3.4K 蝶羽双联屏，采用 21:10 比例设计，分辨率达到 3.4K，并支持柔光技术。</p><p style=\"text-align: center;\" data-vmark=\"ce4c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3edda020-6374-44ae-b5a9-fed1e9d334db.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"879\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1a6e95a35a2466cd98ddb1f40fd7cfe0accb21428a5a814a2e8f450ec6d23a8d303538de657977a65\" data-vmark=\"1c62\" class=\"no-alt-img\"></p><p data-vmark=\"852a\">该车还搭载 896 线双光路图像级激光雷达，最高采用华为乾崑四激光方案，拥有 140 亿公里累计智能辅助驾驶里程，号称行业第一。奕境 X9 除了前排搭载了蝶羽双联屏外，还拥有 HUAWEI XHUD、HUAWEI XPIXEL 百万像素智慧投影大灯、HUAWEI XSCENE 车载激光投影等影音配置。</p><p data-vmark=\"5d6a\">新车基于 800V 高压平台打造，搭载宁德时代 74.29kWh 电池，<strong>CLTC 工况纯电续航 465km</strong>，在华为 XMC 全域融合架构的加持下，新车综合续航超过 1500km（官网显示 CLTC 工况 1570km），配有双腔空悬，双向 14° 后轮转向令 5 米 3 的车也有 5 米 3 的转弯半径。</p><p style=\"text-align: center;\" data-vmark=\"1948\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/3fa04694-080a-45ae-90e5-7b03322adedc.jpg\" w=\"1440\" h=\"1920\" data-mpos=\"2,0\" data-weibo=\"2\"  data-vmark=\"e2ac\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/007/185.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/185.htm"
+    },
+    {
+      "id": 1363,
+      "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation",
+      "summary": "Elon Musk says that the Colossus 2 will receive 220,000 GB300 GPUs by next week, with another two tranches of the same amount expected to arrive later this year. This will put the site at over a million AI GPUs, finally hitting the goal the",
+      "content": "<article>\n                                <p>The end goal is finally in sight for Elon Musk, nearly two years after he announced plans to<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-plans-to-scale-the-xai-supercomputer-to-a-million-gpus-currently-at-over-100-000-h100-gpus-and-counting\"> expand the Colossus supercomputer to over a million GPUs</a>. The billionaire said on<a href=\"https://x.com/elonmusk/status/2103329761690865846\"> X</a> that 220,000 Nvidia GB300 GPUs will be operational by next week, with another 220,000 coming online in November. He also added that another 220,000 units will come online by late December “if we get lucky.”</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2103329761690865846\"><p lang=\"en\" dir=\"ltr\">Colossus 1 is 150k H100, 50k H200 and 30k GB200. Colossus 2 is 110k GB200 and 440k GB300. Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December.<a href=\"https://twitter.com/cantworkitout/status/2103329761690865846\">September 25, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>These numbers would add to the 110,000 GB200 and 440,000 GB300 GPUs already operating at Colossus 2, plus the 150,000 H100, 50,000 H200, and 30,000 GB200 GPUs at Colossus 1. This would bring SpaceXAI’s GB300 GPUs to 1.1 million units, with its total GPUs in operation to 1,440,000 units. This is quite an achievement, especially given that the company is behind its rivals by several years — SpaceXAI is only three years old, while Anthropic and OpenAI are six and ten years old, respectively. Interestingly, the Colossus 1 site, which features a combination of Hopper and Blackwell GPUs, is inefficient for training Grok, so Musk<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers\"> rented it out to Anthropic for inference instead</a>. On the other hand, Colossus 2 solely uses Blackwell GPUs, ensuring that there won’t be any bottlenecks.</p><p>While<a href=\"https://www.tomshardware.com/tech-industry/elon-musk-and-oracle-founder-begged-nvidia-ceo-jensen-huang-for-ai-gpus-at-dinner\"> Elon Musk essentially begged for Jensen Huang to give him these GPUs</a>, getting his hands on them isn’t currently the hardest part. One of the biggest issues facing data center build-outs right now is power, and SpaceXAI solved this by bringing its own. This has resulted in some controversies with the surrounding neighborhood, ending in a<a href=\"https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates\"> lawsuit against the company</a> for running unpermitted gas turbines. It has since<a href=\"https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant\"> promised to remove them</a>, but only over a span of one year as its own 1.2-GW power plant comes online.</p><div style=\"min-height: 250px;\">                                <div class=\"kwizly-quiz kwizly-eMPVgX\"></div>                            </div>                            <p>Running a million GPUs or more on a single site is an impressive achievement, but SpaceXAI isn’t the only one trying to reach this goal. Broadcom said in 2024 that it has<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-gpu-clusters-with-one-million-gpus-are-planned-for-2027-broadcom-says-three-ai-supercomputers-are-in-the-works\"> three hyperscale customers gunning for this target</a> by 2027 but didn’t mention who these customers were. As for Elon Musk, the 1-million-GPU target is just the beginning. He said that SpaceXAI will<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year\"> grow its data center capacity </a>sevenfold by 2027, and he’s even<a href=\"https://www.tomshardware.com/tech-industry/elon-musk-doubles-down-on-goal-of-50-million-h100-equivalent-gpus-in-the-next-5-years-envisions-billions-of-gpus-in-the-future-as-grok-2-5-goes-open-source\"> aiming for 50 million H100-equivalent GPUs</a> by 2030. These data centers won’t be limited to the ground as well, with SpaceX planning to launch<a href=\"https://www.tomshardware.com/tech-industry/spacex-formalizes-plan-to-build-1-million-satellite-orbital-data-center-system-fcc-filing-sketches-out-plans-but-over-packed-orbits-could-be-limiting-factor\"> an Orbital Data Center System with a million satellites</a>, despite<a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-ceo-elon-musk-says-ai-compute-in-space-will-be-the-lowest-cost-option-in-5-years-but-nvidias-jensen-huang-says-its-a-dream\"> Jensen Huang saying that it’s a “dream”</a> for now.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "aEyDTYAMEHBmXrTK9LfYZF"
+    },
+    {
+      "id": 1364,
+      "title": "Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory",
+      "summary": "Meta's new Muse AI agent is powered by AMD EPYC Turin hosts, with each user getting a private sandbox with two vCPUs and 8GB of memory.",
+      "content": "<article>\n                                <p>Meta's new AI agent Muse is powered by AMD EPYC Turin host systems, with each sandbox sporting two dedicated cores and 8GB of memory. <a href=\"https://x.com/EvanHoffman/status/2103233895818752317\">Blogger Evan Hoffman</a> and <a href=\"https://x.com/firstadopter/status/2102934226899288263\">analyst Tae Kim</a> both discovered that Muse will run some rudimentary Ubuntu commands if prompted, passing along the output to help identify things like the specs of the host system. More concerning is that Muse seems able to execute commands that might be unsafe, with Hoffman claiming that Muse offered to <a href=\"https://x.com/EvanHoffman/status/2103328054797897939\">set up SSH to Muse's private VM</a>. </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2102934226899288263\"><p lang=\"en\" dir=\"ltr\">Imagine if one billion people used a personal AI agent. That's a lot of CPUs and memory pic.twitter.com/ibozUi3a07<a href=\"https://twitter.com/cantworkitout/status/2102934226899288263\">September 24, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>Both Kim and Hoffman asked Muse about the VM's specs, and in both instances, Muse revealed that it's running on AMD EPYC 9D25 CPUs, a high-density Turin chip with up to 128 cores. The VMs are running on Ubuntu 24.04 and using Linux kernel 7.0. The systems hosting Muse don't include GPUs. The AI agent revealed that Meta uses separate GPU servers for inference, isolating the agent to CPU-only sandboxes. </p><p>The agent suggests that each user gets their own private sandbox that's persistent, which allows us to do some math on how many people an individual tray can host. Assuming a 2P system that offers up to 512 vCPUs with 2TB of memory, hosting up to 256 Muse users. Muse <a href=\"https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week\">has reportedly passed over 500,000 daily active users</a> as of a few days ago, which would come out to somewhere around 2,000 server trays with dual EPYC 9D25 CPUs and 2TB of memory. </p><p>This is just some rough napkin math; don't take it as law. It's possible Meta has CPU-only servers deployed with multiple different chips to host Muse, and it's also possible there's overhead in the configuration. Turin chips support up to 6TB of memory with high-density DIMMs, for instance. Still, EPYC hosts seem popular for this use case, mainly because of their core density, as even a dual-core sandbox can add up quickly when multiplied across hundreds of thousands (or even millions) of users. </p><p>Muse isn't completely open. Hoffman shared an example where an attempted command failed due to improper permissions when Muse tried to query the kernel buffer. Presumably, sudo (admin) commands would be blocked as well. </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2103328054797897939\"><p lang=\"en\" dir=\"ltr\">I feel like I could definitely reverse SSH tunnel into my muse's container. I already had it offer to SSH to my private VM and say I need to add its pubkey. Someone good at hacking could really have a field day.<a href=\"https://twitter.com/cantworkitout/status/2103328054797897939\">September 25, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>However, there might still be some security loopholes. Hoffman says that Muse offered to set up SSH into the private Muse VM. With a reverse SSH tunnel — where the destination machine initiates the connection, bypassing the firewall — an attacker may be able to execute more damaging commands. That hasn't happened yet, however. </p><p>Muse is currently available as an app for Android, iOS, and MacOS. Other platforms can access it in a browser with a Meta account. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "7NiL6nMENF8xoHeMELGfFk"
+    },
+    {
+      "id": 1365,
+      "title": "DDR5 laptop memory prices surge 6X in 12 months",
+      "summary": "XMG noted that SO-DIMM prices have jumped 6x, with other components like PCBs, CPUs, and GPUs also facing increasing costs. This has forced the niche laptop manufacturer to bump their SRPs between $113 and $342.",
+      "content": "<article>\n                                <p>The maker of XMG gaming laptops and Schenker workstations said the prices for DDR5 SO-DIMMs have increased sixfold since July 2025, and it believes RAM will be in short supply through 2027 and beyond. The company said this in the <a href=\"https://www.reddit.com/r/XMG_gg/comments/1wn8xdq/price_changes_on_bestware_for_xmg_and_schenker/\">r/XMG_gg subreddit</a>, where the company also announced a price increase of $113 (€100) and $228 (€200) for most of its gaming laptop models, plus a massive $342 (€300) hike for one professional laptop.</p><p>This dramatic DDR5 SO-DIMM price jump tracks closely with desktop RAM, which experienced a <a href=\"https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\">similar 500% climb</a> in the past 12 months. But what’s also concerning is that other components have increased in cost, too. Aside from RAM and SSDs, XMG noted that PCBs, electronic components, CPUs, graphics cards, and video memory are also facing similar cost pressures, resulting in higher costs. The war in the Middle East has compounded the situation, especially as increased oil and fuel prices are making air freight costs higher, while also increasing insurance premiums for sea cargo traveling from Asia to Europe via the Red Sea and the Suez Canal.</p><p>Because of this, the company says it was forced to increase the prices of several of its models. It also reminded customers that its margins are fixed and that the resulting hikes are solely driven by higher upstream costs. A company representative also said, “If relevant input prices fall again, we will reflect this in our retail prices as well — just as we have done in the past.” This is similar to Framework’s pricing strategy, where it recently <a href=\"https://www.tomshardware.com/laptops/framework-cuts-32gb-and-64gb-memory-prices-for-new-laptop-13-pro-issues-retroactive-refunds-modular-laptop-maker-secures-limited-quantity-of-lpcamm2-ram-at-lower-cost\">cut the memory prices for the Laptop 13 Pro</a> after it was able to find another source for cheaper LPCAMM2 </p><p>The post also gave a bearish outlook on the memory situation, echoing Micron CEO Sanjay Mehrotra’s words that the <a href=\"https://www.tomshardware.com/pc-components/dram/micron-outlines-grim-outlook-for-dram-supply-in-first-earnings-call-since-killing-crucial-memory-and-ssd-brand-ceo-says-it-can-only-meet-half-to-two-thirds-of-demand\">DRAM shortages will go well into 2027</a>. This contrasts with Asus CEO Jason Chen’s prediction that <a href=\"https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices\">component prices will start reversing in the latter half of 2027</a>, and that the long-term predictions of high memory costs are just chip makers wanting to retain high gross margins for as long as possible. Chen said that Chinese memory makers increasing their production would help ease the shortage and that price increases are reportedly cooling as <a href=\"https://www.tomshardware.com/pc-components/ram/memory-price-surge-begins-to-cool-as-consumers-hit-affordability-limit-ai-demand-still-keeps-dram-and-nand-prices-climbing-through-q3-2026\">consumers refuse to pay more</a>. Unfortunately, we have no way of knowing which of these two perspectives is correct, and we can only wait and see what happens with memory prices over the next 12 months.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "H7aaYahfhPoaqsKAf5vxN6"
+    },
+    {
+      "id": 1366,
+      "title": "Nintendo wins $4.5 million lawsuit against Switch pirate by default",
+      "summary": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even ",
+      "content": "<article>\n                                <p>Nintendo of America just won a lawsuit against James Williams, who allegedly moderated the r/SwitchPirates subreddit and sold pirated Switch games online. According to <a href=\"https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/\"><em>Aftermath</em></a><em>, </em>the company sued Williams in June 2024 for copyright violations. However, they failed to respond even after several months, so the company asked for and received a default judgement in their favor.</p><p>The court is now directing Williams to pay $4.5 million to Nintendo of America for damages and shut down the pirated shops they control. “To effectuate this injunction, Williams shall immediately disable access to all online ‘shops’ that he operates or otherwise controls which have offered to the public extensive libraries of pirated Nintendo Switch games for download,” Washington court clerk Joshua C. Lewis and deputy clerk Natalie Wood said in the default judgement filing.</p><p>Williams was reportedly uncovered through an in-depth investigation by the company and its lawyers, which tracked them through their Archbox persona on Reddit. Nintendo then matched the details it found on the social media platform to its internal database and discovered that it was linked to a Nintendo account that had a handheld sent in for repairs. A few days after the unit was returned to Williams’ address, the company sent a cease-and-desist, to which the defendant allegedly replied via email. </p><p>Nintendo said in its filing that Williams agreed to comply and cooperate with the company’s demands and requests that are within their control but has since cut-off communications. Because of this, it <a href=\"https://www.tomshardware.com/video-games/nintendo/nintendo-asks-for-usd4-5-million-default-judgment-against-ex-reddit-mod-accused-of-pirating-thousands-of-games-archbox-allegedly-asked-for-donations-for-faster-access-to-his-stolen-library\">asked the court for a default judgement</a> in October 2025, which the court finally granted.</p><p>Nintendo is known for being litigious when it comes to its intellectual property. The developers of Switch emulator Yuzu <a href=\"https://www.tomshardware.com/video-games/console-gaming/developers-of-switch-emulator-yuzu-settle-with-nintendo-in-court-for-dollar24-million-less-than-a-week-after-being-sued\">settled with Nintendo for $2.4 million</a> in 2024, while the company <a href=\"https://www.tomshardware.com/video-games/nintendo-secures-settlement-against-switch-modder-who-represented-himself-in-court\">won a $2 million settlement</a> against a Switch modder making backup devices like the MIG Switch and MIG Dumper last year. It has also successfully <a href=\"https://www.tomshardware.com/video-games/nintendo/nintendo-takes-down-over-400-github-repositories-for-switch-emulators-in-one-go-relentless-dmca-strikes-tied-to-piracy-concerns-over-illegal-cryptographic-keys\">applied DMCA strikes on over 400 GitHub repositories</a> hosting Switch emulators earlier this year.</p><p>But despite many public wins, Nintendo does not always prevail in its lawsuits. Palworld, which is often described as <a href=\"https://www.tomshardware.com/video-games/pc-gaming/pokemon-with-guns-game-palworld-sells-5-million-copies-tops-steam-most-played-in-a-single-weekend\" target=\"_blank\">“Pokémon with guns,”</a> has sold over 5 million copies on Steam, and Nintendo hasn’t filed a copyright lawsuit against the company. Instead, it <a href=\"https://www.tomshardware.com/video-games/nintendo/nintendo-sues-palworld-developers-pocketpair-for-patent-infringement\">sued the developers of the game for patent infringement</a> several months after it went viral. The case is still ongoing, but sources say that Nintendo could only expect a maximum payout of $30,000 if it were to win its case.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "5YJFfcNZCN24hkenQiU3qX"
+    },
+    {
+      "id": 1367,
+      "title": "Intel expects 14A to be 'within 5%' the performance of TSMC's A14",
+      "summary": "Intel's Naga Chandrasekaran now claims that Intel 14A node will deliver performance 'within 5%' of TSMC's A14 technology, a claim that requires a closer examination.",
+      "content": "<article>\n                                <p>Intel's 14A (1.4nm-class) process technology is expected to deliver performance 'within 5%' of TSMC's A14 (1.4nm-class) production node, Naga Chandrasekaran, the chief technology and operations officer as well as general manager of Intel Foundry, told investment banking firm KeyBanc (via <a href=\"https://x.com/Alex_Intel_/status/2103136441928986980\">@Alex_Intel_</a>). Given TSMC's track record of delivering steady performance, power, and area (PPA) gains with every new node, this might sound like entirely good news. However, the statement deserves a closer examination.</p><p>Delivering 'within 5%' performance is an ambiguous statement that may mean that 14A will be 5% faster than A14, or that 14A will be 5% slower than A14. While 'within 5%' performance compared to the direct rival of the same class may sound like a good competitive position, in recent years Intel's process technologies trailed TSMC's nodes in transistor density and remained competitive in performance or power. This was, to a large degree, attributed to Intel's historic focus on CPU performance, but not necessarily transistor density, as its own fabs have offset additional costs associated with larger dies.</p><p>In fact, actual shipping processors suggest Intel's 18A is at least competitive with TSMC's N2 in maximum achievable CPU frequency as Intel's <a href=\"https://www.intel.com/content/www/us/en/products/sku/245526/intel-core-ultra-x9-processor-388h-18m-cache-up-to-5-10-ghz/specifications.html\">Core Ultra X9 388H</a> 'Panther Lake' can hit 5.10 GHz (at an 80W max turbo power), AMD's <a href=\"https://www.amd.com/en/products/processors/server/epyc/9006-series/amd-epyc-9586f.html\">EPYC 9586F</a> has the highest single-core clock of 5.0 GHz (at a default 500W CPU power), Apple's <a href=\"https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent\">A20 Pro</a> can achieve 4.93 GHz, whereas Apple's M6 can hit 4.78 GHz. These numbers should not be converted directly into a statement such as '18A is X% faster than N2,' because the processors use different architectures, voltages, standard-cell libraries, thermal envelopes, and physical implementations. However, they do provide a useful real-world reference point: the available N2 processors do not show a substantial frequency advantage over 18A. If anything, the highest observed CPU frequencies favor Intel's process.</p><p>Based on internal estimates, Intel officially <a href=\"https://www.intel.com/content/www/us/en/foundry/process.html\">states</a> that compared to its already fast 18A, its 14A is expected to provide <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/intel-cfo-confirms-that-14a-will-be-more-expensive-to-use-than-18a-intel-expects-14a-fabrication-process-to-offer-15-20-percent-better-performance-per-watt-or-25-35-percent-lower-power-consumption-compared-to-18a\">15% – 20% higher performance at the same power</a>, or 25% – 35% lower power at the same frequency and transistor count. By contrast, TSMC <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-unveils-process-technology-roadmap-through-2029-a12-a13-n2u-announced-a16-slips-to-2027\">expects</a> its A14 to be 10% - 15% faster than N2 at the same power, or 25% - 30% lower power at the same clocks and transistor count.</p><p>Combining the observed 18A and N2 CPU frequencies of Intel's 18A and TSMC's N2 with Intel's stated 15% – 20% 14A gain and TSMC's assumed 10% – 15% A14 gain would ordinarily suggest a modest 14A performance advantage of A14 even in most conservative scenarios for Intel. Therefore, Intel's new expectation that 14A will be 'within 5%' of A14 is notably less ambitious than one might infer from the company's published process specifications, even though the 'within 5%' statement does not tell us which process Intel expects to lead.</p><p>In fact, advantages of Intel's 14A over TSMC's A14 can be calculated using the highest observed 18A and N2 CPU clocks combined with Intel's and TSMC's official iso power performance projections.</p><div ><table><tbody><tr><td class=\"firstcol \" ><p>Scenario</p></td><td  ><p>Intel 14A gain vs. 18A</p></td><td  ><p>TSMC A14 gain vs. N2</p></td><td  ><p>14A extrapolation from 5.10 GHz</p></td><td  ><p>A14 extrapolation from 5.00 GHz</p></td><td  ><p>Implied 14A advantage </p></td></tr><tr><td class=\"firstcol \" ><p>Intel worst<br>TSMC best</p></td><td  ><p>15%</p></td><td  ><p>15%</p></td><td  ><p>5.865</p></td><td  ><p>5.75</p></td><td  ><p>2.00% </p></td></tr><tr><td class=\"firstcol \" ><p>Both minimum gains</p></td><td  ><p>15%</p></td><td  ><p>10%</p></td><td  ><p>5.865</p></td><td  ><p>5.5</p></td><td  ><p>6.60% </p></td></tr><tr><td class=\"firstcol \" ><p>Both maximum gains</p></td><td  ><p>20%</p></td><td  ><p>15%</p></td><td  ><p>6.12</p></td><td  ><p>5.75</p></td><td  ><p>6.40% </p></td></tr><tr><td class=\"firstcol \" ><p>Intel best<br>TSMC worst</p></td><td  ><p>20%</p></td><td  ><p>10%</p></td><td  ><p>6.12</p></td><td  ><p>5.5</p></td><td  ><p>11.30%</p></td></tr></tbody></table></div><p><em>Starting points: Intel 18A = 5.10 GHz (Core Ultra 9 388H); TSMC N2 = 5.00 GHz (EPYC 9586F).</em></p><p>  </p><p>With Intel’s Core Ultra X9 388H and AMD’s EPYC 9586F as the starting points, the official iso-power performance projections imply a 2% – 11.3% potential performance advantage for 14A over A14, depending on the combination of process-performance assumptions.</p><div ><table><tbody><tr><td class=\"firstcol \" ><p>Scenario</p></td><td  ><p>Intel 14A gain vs. 18A</p></td><td  ><p>TSMC A14 gain vs. N2</p></td><td  ><p>14A extrapolation from 5.10 GHz</p></td><td  ><p>A14 extrapolation from 4.788 GHz</p></td><td  ><p>Implied 14A advantage </p></td></tr><tr><td class=\"firstcol \" ><p>Intel worst<br>TSMC best</p></td><td  ><p>15%</p></td><td  ><p>15%</p></td><td  ><p>5.865</p></td><td  ><p>5.506</p></td><td  ><p>6.50% </p></td></tr><tr><td class=\"firstcol \" ><p>Both minimum gains</p></td><td  ><p>15%</p></td><td  ><p>10%</p></td><td  ><p>5.865</p></td><td  ><p>5.267</p></td><td  ><p>11.40% </p></td></tr><tr><td class=\"firstcol \" ><p>Both maximum gains</p></td><td  ><p>20%</p></td><td  ><p>15%</p></td><td  ><p>6.12</p></td><td  ><p>5.506</p></td><td  ><p>11.20% </p></td></tr><tr><td class=\"firstcol \" ><p>Intel best<br>TSMC worst</p></td><td  ><p>20%</p></td><td  ><p>10%</p></td><td  ><p>6.12</p></td><td  ><p>5.267</p></td><td  ><p>16.20%</p></td></tr></tbody></table></div><p><em>Starting points: Intel 18A = 5.10 GHz (Core Ultra 9 388H); TSMC N2 = 4.78 GHz (Apple M6).</em></p><p>Using Apple's M6 as the real-world N2 reference, a similar calculation gives Intel 14A a 6.5% – 16.2% implied advantage over TSMC A14. Even the worst possible combination for Intel — 14A achieves only +15% while A14 achieves the full +15% — puts Intel's node well beyond the 'within 5%' estimate given by Naga Chandrasekaran.</p><p>It should be clearly noted that our calculations do not predict 14A or A14 CPU frequencies, as we use clocks from current CPU architectures with improvement claims for upcoming process technologies. The calculation is useful primarily for illustrating what the companies' published numbers imply relative to today's products. </p><p>Intel's 'within 5%' assessment raises an interesting question: why does Intel expect 14A and A14 to be so close when the companies' published process gains appear to suggest a larger gap? Perhaps Intel's assessment incorporates factors that these simple calculations do not capture. Or perhaps the head of Intel Foundry took a page from his boss Lip-Bu Tan's book and now prefers to underpromise.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "JsskZi2NFLjd3QPmd7uHAE"
+    },
+    {
+      "id": 1368,
+      "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline",
+      "summary": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies.",
+      "content": "<article>\n                                <p>The DataOne data center in Vineland, New Jersey, has just been hit with a record $1.07 million fine for operating unpermitted portable generators on the construction site. According to the <a href=\"https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html\"><em>New York Times</em></a>, state inspectors spotted 62 of these units powering the facility back in late July.<br><br>Residents had already complained about it at a February town hall meeting. Inspectors said that there were no generators on site when they first visited in December last year. However, some residents said that “some type of unit” was spotted by satellite imagery back in February, leading to their complaint at the community assembly. </p><p>Residents of Vineland have already made <a href=\"https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution\">multiple complaints about the development</a>. Some of the issues t include the unpermitted construction of a 1.5-million-gallon LNG tank and unacceptable noise levels, especially at night, that affected homes within a half-mile radius of the construction site. They also said that there was little to no public consultation on the project before it went into full swing, with the people only finding out that a data center was being constructed in their neighborhood after <a href=\"https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution\">Microsoft announced a $33 billion deal with Nebius</a>, which in turn contracted DataOne to supply the compute they need.</p><p>Despite a record fine, some residents feel that the punishment isn’t enough. “It’s a ‘don’t ask for permission, just ask for forgiveness later’ kind of deal,” longtime Vineland resident Steve Brown told the <em>Times</em>. He also added, “It’s still kind of a drop in the bucket for a company that has several billion dollars of capital.” Long-time community member Tiffany Leone-Vespa also added, “What’s $1.07 million? They should have done it for each generator they were running illegally. They’re billionaires. It’s like pocket change.”</p><p>On the other hand, DataOne disagreed with the fine. A company spokesperson said that “We will apply for the air permits for the temporary generators,” and also added that it’s transitioning from the polluting and noisy portable turbines to more modern fuel cells. New Jersey ordered it to comply with the permitting requirements and to stop using the generators if they’re not granted within 45 days.</p><p>This is a similar situation that the citizens of Memphis and Southaven faced when SpaceXAI deployed 69 unpermitted generators to provide power to its Colossus 2 data center. It has become the subject of a lawsuit, especially as the community raised concerns that they were <a href=\"https://www.tomshardware.com/tech-industry/data-centers/elon-musks-colossus-2-data-center-installed-59-natural-gas-turbines-without-permission-report-claims-thousands-of-tons-of-pollutants-reportedly-impact-black-communities-in-mississippi-already-suffering-from-elevated-lung-disease-rates\" target=\"_blank\">spewing thousands of tons of pollutants</a> in the primarily black neighborhood. However, the Department of Justice stepped in and asked the court to <a href=\"https://www.tomshardware.com/tech-industry/big-tech/u-s-govt-asks-court-to-dismiss-naacp-lawsuit-against-elon-musks-xai-over-use-of-unpermitted-gas-turbines-doj-says-grok-model-running-at-colossus-2-supports-mission-critical-operations\">dismiss the case because the site “supports mission-critical operations.”</a> Elon Musk’s company eventually agreed to remove all unpermitted turbines, but said that the <a href=\"https://www.tomshardware.com/tech-industry/big-tech/spacexai-says-it-will-remove-all-69-of-its-unpermitted-turbine-power-generators-but-expects-process-to-take-a-year-trailer-mounted-generators-to-be-replaced-by-1-2gw-power-plant\">process will take over a year</a> as replacement 1.2-gigawatt plants gradually come online.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "MtjFAwBSRxJgdiuucdMvJN"
+    },
+    {
+      "id": 1369,
+      "title": "Grab this 4K-ready RTX 5070 Ti gaming PC from HP for under $1,900 right now",
+      "summary": "This epic HP Omen 45L gaming rig is one of the cheapest RTX 5070 Ti PC you can buy right now, fitted with a Intel Core i7-14700F, 32GB of DDR RAM, and a 1TB SSD for just $1,899.99.",
+      "content": "<article>\n                                <p>There's a brilliant price right now on a top-end gaming PC, thanks to Walmart. You can <a href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\">pick up this HP Omen 35L rig with an Nvidia GeForce RTX 5070 Ti, Intel Core i7-14700F CPU, 32GB of DDR5 RAM, and a 1TB SSD for $1,899.99</a>. That's an unbelievable price for a rig with this spec in the current market, one that makes it hundreds of dollars cheaper than many of its rivals. If you bought the same machine on HP's website with the same configuration, it would set you back $3,639.99, over $1,700 more than you'd pay here.</p><p>● <a href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\">Check out this deal at Walmart</a></p><p>This version of the HP Omen 35L is a recent refresh, with a modern set of specs that'll keep you gaming for years into the future. It ships with a 35-liter case, so it's a more manageable option for your desk compared to the HP Omen Max 45L. It's a fairly understated design, though, with a minimal black colorway, although some RGB lighting is available through the cooling fans.</p><div class=\"product star-deal\"><a data-dimension112=\"6dec4038-b8c7-11f1-b8f1-c5d819823db0\" data-action=\"Star Deal Block\" data-label=\"Omen 35L (GT16-0544)\" data-dimension48=\"Omen 35L (GT16-0544)\" data-dimension25=\"$1899.99\" href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2048px;\"><p class=\"vanilla-image-block\" style=\"padding-top:85.01%;\"><img id=\"yqDe82xtfum7uU5iEZAjbP\" name=\"Omen 35L\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/yqDe82xtfum7uU5iEZAjbP-1920-80.webp\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2048\" height=\"1741\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"6dec4038-b8c7-11f1-b8f1-c5d819823db0\" data-action=\"Star Deal Block\" data-label=\"Omen 35L (GT16-0544)\" data-dimension48=\"Omen 35L (GT16-0544)\" data-dimension25=\"$1899.99\">Omen 35L (GT16-0544): $1899.99</a></strong><br>This HP Omen 35L gaming PC drops below $1,900, making it one of the cheapest RTX 5070 Ti gaming PCs that you can buy right now. Along with this powerhouse Nvidia GPU, you're also getting a 20-core Intel Core i7-14700F CPU, 32GB of DDR5 RAM, and a 1TB SSD.<a class=\"view-deal button\" href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"6dec4038-b8c7-11f1-b8f1-c5d819823db0\" data-action=\"Star Deal Block\" data-label=\"Omen 35L (GT16-0544)\" data-dimension48=\"Omen 35L (GT16-0544)\" data-dimension25=\"$1899.99\">View Deal</a></p></div><p>The<a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5070-ti-review-asus\"> Nvidia GeForce RTX 5070 Ti</a> is the focal point in this PC. You're getting one of Nvidia's current-gen mid- to high-tier powerhouses here, featuring the best of Nvidia's latest tech, including DLSS with multi-frame generation at your disposal. </p><p>Specs-wise, it has 8,960 CUDA cores, along with 16GB of GDDR7 VRAM on a 256-bit memory bus, as our <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5070-ti-review-asus\">RTX 5070 Ti review</a> explains. The boost in VRAM compared to the cheaper 8GB GPUs on sale is important here if you want to hit the highest frame rates at 1440p and 4K. For 4K, you'll probably need to tweak your graphics settings a little, especially in the most graphically-intensive games. Luckily, multi-frame generation will give you an AI-generated frame rate boost if you run into any difficulties.</p><p>1440p will be much more solid, though. As the <a href=\"https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html\">GPU benchmarks</a> from our review show, you'll manage 1440p above 60fps on average pretty consistently with the highest ultra graphics settings.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/pFnJagUbybRBQw5V2cG2cA-1920-80.png\" alt=\"Nvidia GeForce RTX 5070 Ti / Asus RTX 5070 Ti Prime performance charts.\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/2BBkGuqh38YxymuwjTczQA-1920-80.png\" alt=\"Nvidia GeForce RTX 5070 Ti / Asus RTX 5070 Ti Prime performance charts.\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/oxcqWR7ZVcqTHnXbiqaPKA-1920-80.png\" alt=\"Nvidia GeForce RTX 5070 Ti / Asus RTX 5070 Ti Prime performance charts.\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/raXVETZ4b8Nnv4MkPnHZDA-1920-80.png\" alt=\"Nvidia GeForce RTX 5070 Ti / Asus RTX 5070 Ti Prime performance charts.\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>You're also getting the Intel Core i7-14700F in this HP build. This Raptor Lake Refresh CPU is a little old now, but it's still a popular choice in pre-built systems, and it still delivers good performance for gaming. You're getting 20 cores with the 14700F, eight of which are performance cores for gaming, along with 12 efficient cores which will prove useful for multi-threaded work.</p><p>Other specs include support for Wi-Fi 7 and Bluetooth 5.4 connectivity. You're also getting a 1TB NVMe SSD with Gen 4 speeds here, so you'll manage to install at least a few of the newest and biggest games. 32GB of DDR5 RAM means you're not forced to compromise on memory, even at this price, insulating you from the RAMpocalypse affecting industry pricing at the moment.</p><p>The<a href=\"https://www.walmart.com/ip/OMEN-35L-Gaming-Desktop-GT16-0544/19975758513\"> $1,899.99 price for this HP Omen 35L gaming PC</a> isn't being listed as a deal on Walmart's website, but don't be fooled. This kind of spec is usually priced well above $2,000 in the current market, so we'd expect the price to jump up soon or stock to run out. If you want a 4K-capable RTX 5070 Ti gaming PC for less than $1,900 from a trusted brand, you'll want to grab this one while you can.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "kxUbyV6zKnjrnhN2sh2tZM"
+    },
+    {
+      "id": 1370,
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "summary": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+      "content": "<article>\n                                <p>There is no doubt the <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5090-review\">GeForce RTX 5090</a> is one of the <a href=\"https://www.tomshardware.com/reviews/best-gpus,4380.html\">best graphics cards</a> and has the full potential to leverage <a href=\"https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p\">DLSS 5</a>. However, if you plan to hop on the DLSS 5 bandwagon, you may want to keep an eye on your graphics card's temperatures and power consumption. According to tests by Korean outlet <a href=\"https://quasarzone.com/bbs/qc_plan/views/41334\">QuasarZone</a>, the GeForce RTX 5090 Founders Edition peaked at nearly 650W in power draw, with the highest recorded temperature on the <a href=\"https://www.tomshardware.com/news/pcie-5-power-connector-600w-next-gen-amd-nvidia-gpus\">16-pin (12VHPWR) power connector </a>exceeding 90 degrees Celsius. Notably, that is higher than the standard temperatures measured for the GPU die. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: GPUs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Wh9EZgD8NG9yUioNNgPB3d\" name=\"ASUS RTX 5080 Noctua Edition - Continuing the legacy of acoustic excellence 6-26 screenshot\" caption=\"\" alt=\"Asus RTX 5080 Noctua Edition\" src=\"https://cdn.mos.cms.futurecdn.net/Wh9EZgD8NG9yUioNNgPB3d-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Noctua)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/desktop-gpu-roadmap-nvidia-rubin-amd-udna-and-intel-xe3-celestial?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Desktop GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Nvidia's Enterprise GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Testing DirectStorage with GPU decompression</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026?</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-vera-rubin-platform-in-depth-inside-nvidias-most-complex-ai-and-hpc-platform-to-date?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Rubin in-depth</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-stout-owl-how-i-built-the-ultimate-noctua-g2-pc?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The Stout Owl: The ultimate Noctua G2 PC</a></li></ul></p></div></div><p>While less frequent, user reports of the <a href=\"https://www.tomshardware.com/news/nvidia-16-pin-gpu-power-connector-all-we-know\">16-pin power connector melting</a> are still popping up if you look around the Internet, particularly on Reddit. Even a couple of media outlets have also encountered <a href=\"https://www.tomshardware.com/pc-components/gpus/veteran-reviewers-rtx-5090-founders-edition-gpu-falls-victim-to-16-pin-meltdown-user-admits-it-could-have-been-user-error-despite-having-tested-gpus-for-over-15-years\">power connector meltdowns</a> during their use. So, it is not an issue that affects only new users; 16-pin power connector failures extend to seasoned industry veterans, too. There is no prejudice toward Nvidia's Blackwell-powered graphics cards, either. <a href=\"https://www.tomshardware.com/pc-components/gpus/another-16-pin-gpu-power-connector-gets-scorched-but-this-time-its-not-an-rtx-5090-user-finds-their-sapphire-nitro-9070-xt-with-scorched-pins\">Similar meltdowns</a> have appeared on AMD Radeon graphics cards. Running DLSS 5 may just be adding fuel to the fire, figuratively.</p><p>QuasarZone ran <em>Cyberpunk 2077 </em>in a controlled environment at 27.5 degrees Celsius for 20 minutes. The publication used a 4K (3840x2160) resolution with DLSS Quality and Ultra image settings and monitored the temperature of the 16-pin power connector. The media outlet tested the GeForce RTX 5090 Founders Edition, Asus ROG Astral GeForce RTX 5090, and <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-review\">GeForce RTX 5080 Founders Edition.</a></p><h2 id=\"nvidia-dlss-5-impact-on-16-pin-power-connector-temperatures\">Nvidia DLSS 5 Impact On 16-pin Power Connector Temperatures</h2><div ><table><thead><tr><th class=\"firstcol \" ><p>Graphics Card</p></th><th  ><p>DLSS 5 Off (Celsius)</p></th><th  ><p>DLSS 5 On (Celsius)</p></th><th  ><p>Temperature Increase</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>GeForce RTX 5090 (Latch Side)</p></td><td  ><p>77.1</p></td><td  ><p>83.4</p></td><td  ><p>8%</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5090 (Opposite Side)</p></td><td  ><p>80.9</p></td><td  ><p>91.7</p></td><td  ><p>13%</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5080 (Latch Side)</p></td><td  ><p>45.8</p></td><td  ><p>52.2</p></td><td  ><p>14%</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5080 (Opposite Side)</p></td><td  ><p>47.6</p></td><td  ><p>48.6</p></td><td  ><p>2%</p></td></tr></tbody></table></div><p>In the first round of testing using a GeForce RTX 5090 Founders Edition with DLSS 5 disabled, QuasarZone measured 77.1 degrees Celsius on the latch side of the 16-pin power connector and 80.9 degrees Celsius on the opposite side. With DLSS 5 enabled, the temperatures quickly jumped to 83.4 and 91.7 degrees Celsius, respectively. </p><p>Before DLSS 5, the average core and peak temperatures for the GeForce RTX 5090 were 79.4 and 82.3 degrees Celsius, respectively. Afterward, they increased to 83 and 86.3 degrees Celsius. As a result, the 16-pin power connector was the hottest spot on the GeForce RTX 5090.</p><p>In contrast, the GeForce RTX 5080 Founders Edition ran at significantly lower, more manageable temperatures. Before activating DLSS 5, the temperature on the latch side and opposite the 16-pin power connector registered 45.8 and 47.6 degrees Celsius, respectively. With DLSS 5, the temperatures rose to 52.2 degrees Celsius on the latch side and 48.6 degrees Celsius on the opposite side. The results were not a surprise, since the GeForce RTX 5080 consumes less power than the GeForce RTX 5090.</p><h2 id=\"nvidia-dlss-5-impact-on-graphics-card-power-consumption\">Nvidia DLSS 5 Impact On Graphics Card Power Consumption</h2><div ><table><thead><tr><th class=\"firstcol \" ><p>Graphics Card</p></th><th  ><p>DLSS Off (Watts)</p></th><th  ><p>DLSS On (Watts)</p></th><th  ><p>Power Draw Increase</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>GeForce RTX 5090</p></td><td  ><p>509.2</p></td><td  ><p>575.1W</p></td><td  ><p>13%</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5080</p></td><td  ><p>298.2</p></td><td  ><p>350.3</p></td><td  ><p>17%</p></td></tr></tbody></table></div><p>Using HWiNFO to measure average power consumption, the GeForce RTX 5090 showed a 13% increase in power draw with DLSS5 enabled. By contrast, the GeForce RTX 5080 showed a 17% increase in average power consumption under the same conditions. Despite these notable increases, both cards seemingly stayed within their official TDP specifications, with the RTX 5090 rated at 575W and the RTX 5080 at 360W.</p><p>HWiNFO uses a software-level API to poll power metrics from the graphics card's telemetry sensors. While it is sufficient for everyday monitoring, nothing is more accurate than measuring power directly from the circuit board. The Nvidia Power Capture Analysis Tool (PCAT) is perfect for that.</p><div ><table><thead><tr><th class=\"firstcol \" ><p>Graphics Card</p></th><th  ><p>DLSS Off (Watts)</p></th><th  ><p>DLSS On (Watts)</p></th><th  ><p>Power Draw Increase</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>GeForce RTX 5090 (Peak)</p></td><td  ><p>582.5</p></td><td  ><p>658.0</p></td><td  ><p>13%</p></td></tr><tr><td class=\"firstcol \" ><p>GeForce RTX 5090 (Average)</p></td><td  ><p>527.3</p></td><td  ><p>593.9</p></td><td  ><p>13%</p></td></tr><tr><td class=\"firstcol \" ><p>16-pin Power Connector</p></td><td  ><p>582.7</p></td><td  ><p>646.7</p></td><td  ><p>11%</p></td></tr></tbody></table></div><p>QuasarZone found that the GeForce RTX 5090's average and peak power draw increased by 13%, effectively exceeding the graphics card's power limit. The average power consumption readings differed by 3% between HWiNFO and PCAT.</p><p>Focusing primarily on the 16-pin power connector, QuasarZone's PCAT measurements showed a 582.7W power draw without DLSS 5 and 646.7W with it on, representing an 11% increase.</p><p>While 658W sounds scary, it does not compare to what we have seen on custom GeForce RTX 5090 models. On the <a href=\"https://www.tomshardware.com/pc-components/gpus/msi-geforce-rtx-5090-lightning-z-review\">GeForce RTX 5090 32G Lightning Z</a> with DLSS 5, we observed the graphics card's power consumption spike to 592W at 1080p, 695W at 1440p, and 848W at 4K.</p><p>Using the Asus ROG Astral RTX 5090 as a test subject, QuasarZone recorded the current flowing through each of the six power pins from the 16-pin power connector. Before enabling DLSS 5, the power readings ranged from 6.94A to 7.47A. When activated, the power readings spiked to between 7.83A and 8.51A. While the values remained within PCI-SIG’s requirement of 9.2A per pin, headroom is extremely thin, with just 0.69A between the highest recorded current and the official threshold.</p><p>In another simulation, the Korean media outlet explored the consequences of a loose pin or improper connection in the 16-pin power connector. This is the most common scenario that leads to 16-pin power connector meltdowns, due to unbalanced power loading across the connector. With one nonfunctional power pin, the electrical load is redistributed to the remaining pins. </p><p>With DLSS 5 off, the highest current registered on a single pin reached 8.9A. This value remains uncomfortably close to PCI-SIG's standard. However, turning on DLSS 5 pushed the power pins to 10.1A, 10% above the specification. The simple test highlights just how easily and quickly things can go wrong.</p><p>QuasarZone's alarming test results may look like fuel for fearmongering. However, the publication's tests align closely with our findings that DLSS 5 substantially increases power consumption. At least one user has allegedly reported a <a href=\"https://www.tomshardware.com/pc-components/gpus/enthusiast-says-dlss-5-pushed-rtx-5090-past-600w-and-melted-the-16-pin-connector-nvidias-neural-rendering-tech-adds-up-to-50-percent-more-power-draw-in-testing\">16-pin power connector meltdown</a> while experimenting with DLSS 5.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "bjU4RVBEEzk9DWAwFU2a2d"
+    },
+    {
+      "id": 1371,
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+      "summary": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
+      "content": "<article>\n                                <p>Google is set to launch an experimental satellite, named MVP, into orbit next week to test running an AI data center in space. As part of a wider initiative called <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/google-exploring-putting-ai-data-centers-in-space-project-suncatcher-wants-to-harness-in-orbit-solar-power-to-scale-ai-compute\">Project Suncatcher</a>, the satellite will be aboard a SpaceX Falcon 9 rocket when it launches from the Vandenberg Space Force Base in California. Once in space, and assuming everything goes well, the tech on board the satellite will be capable of handling simple AI requests from space.</p><p><a href=\"https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.a9SC.k1lhQUplM5eE&smid=nytcore-ios-share\" target=\"_blank\">The <em>New York Times</em></a> points out that while the move is an important one, the satellite will be limited in terms of its processing power. It will feature just four Tensor Processing Units (TPUs) and be similar to a single Earth-bound server in terms of capabilities. It will be powered by solar panels capable of providing a single kilowatt of power to the tensor chips.</p><p>While clearly limited, the orbiting server is set to handle AI requests for up to a year, although it will remain in orbit for up to six years. After that, gravity will take hold, and the satellite will burn up during re-entry into Earth's atmosphere.</p><p>Before that happens, James Manyika, Google's senior vice president of research, expects to learn more about how space may become a home for future data centers, though probably not for a long time.</p><p>“We don’t expect, to be perfectly frank, that we’ll have anything usefully operational in the next few years,” the SVP told the <em>Times</em>. He went on to compare the venture to Google's driverless cars, saying that Google was testing those \"like 15 years before anything showed up.\" The idea of users accessing a version of Gemini running in space is some way from coming to fruition.</p><p>But it's also something that Google and other companies are set to investigate further. Alongside Google, Elon Musk (xAI, Tesla, SpaceX), <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/jeff-bezos-envisions-space-based-data-centers-in-10-to-20-years-could-allow-for-natural-cooling-and-more-effective-solar-power\" target=\"_blank\">as well as Jeff Bezos</a> (Amazon) and Sam Altman (OpenAI), have been making noises about the prospect of orbital data centers for some time now. China has <a href=\"https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes\">already put its own AI compute into orbit</a>. Even <a href=\"https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit\">Intel has a patent for orbital data centers</a> of its own.</p><p>Putting servers into space does have its issues, not least the problem of getting them there. Radiation and computers don't get along, and the radiation found in space can cause \"bit flips\" that change the way chips process data. Google's answer, for now, is to restart the chips every so often to reset them. The company has also devised a cooling system that will vent heat directly into space — since the usual fan-based solution simply won't work without any air.</p><p>Despite these accommodations, the four chips in Google's test satellite will still get too hot, too quickly. They'll only be able to run for around 15 minutes before they need to be shut down to allow them to cool off.</p><p>Regardless, it's still early days for the concept of running servers in space. Google plans to launch a pair of satellites next, with long-term plans for networked fleets of more than 80 satellites also already floated.</p><p>By Manyika's estimation, Google has 15 years to go from a four-chip server to a full-on data center. The clock is ticking.</p><figure class=\"van-image-figure pull-left inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:676px;\"><p class=\"vanilla-image-block\" style=\"padding-top:31.51%;\"><img id=\"Ff8qW7gTwUZFZmPvceeLFd\" name=\"Follow Tom's Hardware\" alt=\"Google Preferred Source\" src=\"https://cdn.mos.cms.futurecdn.net/Ff8qW7gTwUZFZmPvceeLFd-1920-80.png\" mos=\"\" align=\"left\" fullscreen=\"\" width=\"676\" height=\"213\" attribution=\"\" endorsement=\"\" class=\"pull-leftinline\"></p></div></div></figure>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "YcLZQ4VmEvdcoRr4JcLpBY"
+    },
+    {
+      "id": 1372,
+      "title": "Wici Wireless eGPU Promises RTX 5060 Ti and 5090 Performance Over Wi-Fi 7",
+      "summary": "There has been a lot of development in the eGPU scene lately, with Thunderbolt 5, OCuLink, and MCIO 8i providing serious gains in bandwidth and throughput for eGPU use cases. However, Wici has just launched the Wici One, a new wireless eGPU",
+      "content": "There has been a lot of development in the eGPU scene lately, with <a href=\"https://www.techpowerup.com/313528/intel-introduces-thunderbolt-5-connectivity-standard-bandwidth-up-to-120-gbps\" target=\"_blank\">Thunderbolt 5</a>, OCuLink, and <a href=\"https://www.techpowerup.com/348567/gpd-box-mini-pc-and-g2-egpu-get-mcio-8i-connectivity-with-512-gbps-bandwidth\" target=\"_blank\">MCIO 8i</a> providing serious gains in bandwidth and throughput for eGPU use cases. However, Wici has just launched the Wici One, a new wireless eGPU solution that relies on Wi-Fi 7 for data transfer instead of a cable connection, available with both an NVIDIA GeForce RTX 5060 Ti or an NVIDIA GeForce RTX 5090, the latter of which does not yet have a listed price. <br />\r\n<br />\r\nWhile Wi-Fi 7 is capable of theoretical maximum speeds of around 46.1 Gbps, as VideoCardz points out, the 4×4 radio inside the Wici One, running at 320 MHz and 4096-QAM, would top out at just 11.5 Gbps. To add to this limitation, those speeds are likely only possible over very short distances, with very little interference. Still, Wici promises high-framerate gaming over the network-connected device, with Cyberpunk 2077 reaching 80 FPS at 4K Ultra with DLSS 4 on the RTX 5060 Ti version and Black Myth: Wukong hitting 60 FPS in the 4K Cinematic preset. No latency claims are made, however, but, gaming, a latency-sensitive workload, isn't Wici's main selling point. The true focus for Wici is as a workstation machine, since it contains not only a GPU. The Wici One is actually a full platform, replete with a CPU and storage—presumably, the platform relies entirely on VRAM, since there are no RAM specs or quantities listed.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/i9CF81UOlbFYfDP1.jpg\" target=\"_blank\" data-width=\"1615\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/i9CF81UOlbFYfDP1_thm.jpg\" width=\"219\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/o6Vl4XKqWvViseHl.jpg\" target=\"_blank\" data-width=\"2371\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/o6Vl4XKqWvViseHl_thm.jpg\" width=\"321\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/tCKE6iJEVf4Sneuv.jpg\" target=\"_blank\" data-width=\"542\" data-height=\"601\" ><img src=\"https://tpucdn.com/img/tCKE6iJEVf4Sneuv_thm.jpg\" width=\"117\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353099/wici-wireless-egpu-promises-rtx-5060-ti-and-5090-performance-over-wi-fi-7\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353099/wici-wireless-egpu-promises-rtx-5060-ti-and-5090-performance-over-wi-fi-7",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "38aacecbd1ae61c7074cf8e2c90e3c11"
+    },
+    {
+      "id": 1373,
+      "title": "NVIDIA Files Patent for AI Tool to Help Developers Diagnose GPU Performance Issues",
+      "summary": "NVIDIA has filed a patent for an AI tool that could help developers diagnose and optimize GPU performance issues through a plain-language chat interface. The application, published September 17 and first spotted by Respawn First, describes ",
+      "content": "NVIDIA has filed a patent for an AI tool that could help developers diagnose and optimize GPU performance issues through a plain-language chat interface. The <a rel=\"nofollow\" href=\"https://eureka.patsnap.com/patent/US20260277953A1\" target=\"_blank\">application</a>, published September 17 and first spotted by <a rel=\"nofollow\" href=\"https://respawnfirst.com/nvidia-ai-patent-pc-game-optimization/\" target=\"_blank\">Respawn First</a>, describes a system connecting an LLM-based chat agent directly to GPU profiling tools, letting a developer ask about a performance problem and get back custom-generated code that digs through diagnostic data to find the answer. The patent describes separate agents for general GPU questions versus report-specific ones, with a router sorting each query. It's framed as a general GPU optimization tool rather than something built only for games, though the same approach would apply to frametime issues and stutter in PC titles.<br />\r\n<br />\r\nIn theory, a developer could ask something like why a specific scene is dropping frames, and the chat agent would write and run a script to pull relevant telemetry from a profiler, then use that data to flag bottlenecks and suggest fixes. This could, in theory, help with game optimization. As always, a patent filing is not a product, and companies file plenty that never go anywhere. Still, it's a decent hint at what NVIDIA is planning for the future. The company already ships <a href=\"https://www.techpowerup.com/334595/nvidia-project-g-assist-now-available-in-nvidia-app\" target=\"_blank\">Project G-Assist</a>, its AI assistant for tuning GeForce RTX systems, and this reads like a developer-facing counterpart of that. Sony has been circling similar territory too, recently <a href=\"https://www.techpowerup.com/352929/sony-patent-imagines-playstation-consoles-that-fix-themselves-using-ai\" target=\"_blank\">patenting a cloud AI system meant to diagnose and automatically write firmware fixes</a> for PlayStation hardware. Both companies seem to be betting on AI to cut down the guesswork in finding what's broken.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/HjN5mVvxfZEF0lPO.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"844\" ><img src=\"https://tpucdn.com/img/HjN5mVvxfZEF0lPO_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/zNHkKYCGO9c85ta1.jpg\" target=\"_blank\" data-width=\"641\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/zNHkKYCGO9c85ta1_thm.jpg\" width=\"87\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/YNtHAVabiMjQdmIK.jpg\" target=\"_blank\" data-width=\"1240\" data-height=\"874\" ><img src=\"https://tpucdn.com/img/YNtHAVabiMjQdmIK_thm.jpg\" width=\"184\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353095/nvidia-files-patent-for-ai-tool-to-help-developers-diagnose-gpu-performance-issues",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "12ad39026a958e0ba13fa862dc140f0b"
+    },
+    {
+      "id": 1374,
+      "title": "Intel Expects 14A Node to Be Within 5% of TSMC's A14",
+      "summary": "Intel's Foundry chief, Naga Chandrasekaran, spoke with investment bank KeyBanc Capital Markets about Intel Foundry and the future trajectory of its nodes. One of the most intriguing insights is that Intel expects its 14A node to be within 5",
+      "content": "Intel's Foundry chief, Naga Chandrasekaran, spoke with investment bank KeyBanc Capital Markets about Intel Foundry and the future trajectory of its nodes. One of the most intriguing insights is that Intel expects its 14A node to be within 5% of TSMC's A14 node, with both competing in the same sector. What this means exactly is unclear, as there are many factors by which a node is measured. These include transistor switching frequency, power efficiency, and density. The &quot;within 5%&quot; figure could imply a 5% advantage, a 5% disadvantage, or a mix of both, so the technical specifics remain uncertain. Intel's recent nodes, like the shipping 18A, are proving to be efficient and high-performing, but TSMC's nodes are also strong, with both companies continuing development.<br />\r\n<br />\r\nIntel <a href=\"https://www.techpowerup.com/351048/intel-14a-node-goes-into-risk-production-in-2h-2027-volume-production-in-2028\" target=\"_blank\">plans</a> to start 14A node risk production in the second half of 2027, with high-volume production expected in 2028. The company has processed tens of thousands of 14A wafers in pilot production runs and is now working on yield improvements and minor node adjustments before beginning risk production next year. The 14A node is designed to offer a 15-20% performance improvement at the same power level compared to Intel 18A, or it can be optimized for a 25-35% power reduction at the same performance level. This will be accompanied by up to a 30% improvement in chip density compared to Intel 18A, though it is unclear if this refers to logic or SRAM scaling, as the latter has been challenging for the industry.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/EUnwysEKuAWawCYa.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/EUnwysEKuAWawCYa_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/TNWHn4MYbm60HAKD.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"530\" ><img src=\"https://tpucdn.com/img/TNWHn4MYbm60HAKD_thm.jpg\" width=\"353\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353094/intel-expects-14a-node-to-be-within-5-of-tsmcs-a14\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353094/intel-expects-14a-node-to-be-within-5-of-tsmcs-a14",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "b12fd59c6a9197f41d538c8544015f70"
+    },
+    {
+      "id": 1375,
+      "title": "(PR) Turtle Beach Unveils the Vulcan II XP Air Gaming Keyboard",
+      "summary": "Today, Turtle Beach unveils the Vulcan II XP Air, a premium full-size wireless mechanical gaming keyboard built on the award-winning low-profile Vulcan design. It combines hot-swappable TITAN HS Red Linear switches, refined typing acoustics",
+      "content": "Today, Turtle Beach unveils the Vulcan II XP Air, a premium full-size wireless mechanical gaming keyboard built on the award-winning low-profile Vulcan design. It combines hot-swappable TITAN HS Red Linear switches, refined typing acoustics, tri-mode connectivity, and intelligent AirTrack Gesture Sensor controls for exceptional gaming performance and personalization. Ultra-fast 2.4 GHz wireless, Bluetooth, and wired USB-A connectivity let you switch seamlessly between up to five connected devices, while the high-capacity 6,000 mAh battery delivers up to 95 hours of battery life with RGB lighting and AirTrack enabled, or up to 2,000 hours with both disabled. <br />\r\n<br />\r\nFactory pre-lubed TITAN HS switches, refined stabilizers, and integrated sound-dampening foam deliver smoother keystrokes and cleaner acoustics, while Full N-Key Rollover (NKRO), anti-ghosting, ReacTap SOCD, EASY-SHIFT[+], and Game Mode provide the speed and precision competitive gamers demand. Complete with a dedicated multi-function media wheel featuring Windows Wheel support, per-key AIMO RGB lighting, Windows Dynamic Lighting support, and Swarm II software with five onboard profiles, the Vulcan II XP Air is built to perform, personalize, and evolve with your setup.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/3L5uiDOFEq3uOOyn.jpg\" target=\"_blank\" data-width=\"600\" data-height=\"450\" ><img src=\"https://tpucdn.com/img/3L5uiDOFEq3uOOyn_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353092/turtle-beach-unveils-the-vulcan-ii-xp-air-gaming-keyboard\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353092/turtle-beach-unveils-the-vulcan-ii-xp-air-gaming-keyboard",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "c691f706f076575a74d7fc9a9f5363ea"
+    },
+    {
+      "id": 1376,
+      "title": "DLSS 5 Boosts RTX 5090 Connector Power Spikes to 647 W, Pushing Past 90°C",
+      "summary": "NVIDIA's DLSS 5 has been controversial ever since its announcement and eventual launch. Perhaps more concerning than the visual changes is its effect on the user's hardware. As reported by Videocardz, Korean outlet QuasarZone ran its own th",
+      "content": "NVIDIA's <a href=\"https://www.techpowerup.com/review/nvidia-dlss-5-technical-preview/\" target=\"_blank\">DLSS 5</a> has been controversial ever since its announcement and <a href=\"https://www.techpowerup.com/352223/dlss-5-officially-goes-live-september-3-with-nba-2k27-exclusive-to-rtx-50-series-blackwell-gpus\" target=\"_blank\">eventual launch</a>. Perhaps more concerning than the visual changes is its effect on the user's hardware. As <a rel=\"nofollow\" href=\"https://videocardz.com/newz/rtx-5090-12v-2x6-connector-reaches-91-7c-with-dlss-5-16-pin-input-peaks-at-647w\" target=\"_blank\">reported by Videocardz</a>, Korean outlet <a rel=\"nofollow\" href=\"https://quasarzone.com/bbs/qc_plan/views/41334\" target=\"_blank\">QuasarZone</a> ran its own thermal tests on the RTX 5090's power connector with DLSS 5 enabled, to see if the technology really has a hand in recent reports of melting 12V-2x6 connectors. Testing an RTX 5090 Founders Edition in Cyberpunk 2077 at 4K with DLSS Quality and the Ultra preset over 20 minutes, the 12V-2x6 connector reached 91.7°C on the sense-pin side with DLSS 5 on, up from 80.9°C without it. The latch side climbed from 77.1°C to 83.4°C. An RTX 5080 FE tested the same way stayed far cooler, reaching just 48.6°C and 52.2°C at those two points with DLSS 5 enabled.<br />\r\n<br />\r\nThe increased heat aligned with a real jump in power draw. HWiNFO logged the RTX 5090's average power draw rising from 509.2 W to 575.1 W with DLSS 5 on, right at its 575 W limit. The RTX 5080 went from 298.2 W to 350.3 W, close to its own 360 W ceiling. External PCAT readings, which also catch short spikes, showed higher figures still: total board power rose from 527.3 W average and 582.5 W peak to 593.9 W average and 658.0 W peak. On the 16-pin 12V-2x6 connector alone, the RTX 5090 pulled 582.7 W on average and briefly spiked as high as 646.7 W. Of course, transient power spikes over 600 W are normal, and are not necessarily to blame for any melting connector issues. The increased power draw, however, lines up with <a href=\"https://www.techpowerup.com/352262/early-dlss-5-testing-suggests-the-rtx-5090s-single-power-connector-might-be-the-bottleneck\" target=\"_blank\">Tom's Hardware's early DLSS 5 testing</a>, which showed a noticeable jump in power draw with DLSS 5 enabled.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/fjCjhx7HO7axkBGu.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"487\" ><img src=\"https://tpucdn.com/img/fjCjhx7HO7axkBGu_thm.jpg\" width=\"214\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/q5sYSDxRmpgJDLJq.jpg\" target=\"_blank\" data-width=\"656\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/q5sYSDxRmpgJDLJq_thm.jpg\" width=\"89\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/dMRVkVEuIXKGRsBB.jpg\" target=\"_blank\" data-width=\"658\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/dMRVkVEuIXKGRsBB_thm.jpg\" width=\"89\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353086/dlss-5-boosts-rtx-5090-connector-power-spikes-to-647-w-pushing-past-90-c\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353086/dlss-5-boosts-rtx-5090-connector-power-spikes-to-647-w-pushing-past-90-c",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a37d1c6df83dba5d420f2e9bff083f38"
+    },
+    {
+      "id": 1377,
+      "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
+      "summary": "Leaked code reveals that the upcoming iPad 12 will feature notable hardware upgrades designed specifically to support Apple Intelligence. The entry-level tablet is expected to include the A19 chip and 8GB of RAM to meet the strict memory re",
+      "content": "Leaked code reveals that the upcoming iPad 12 will feature notable hardware upgrades designed specifically to support Apple Intelligence. The entry-level tablet is expected to include the A19 chip and 8GB of RAM to meet the strict memory requirements for advanced Siri capabilities.",
+      "link": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html"
+    },
+    {
+      "id": 1378,
+      "title": "Microsoft FINALLY built a MacBook Air killer! (Fanless Surface Pro &amp; Laptop 13)",
+      "summary": "Video | Are these the fanless Windows MacBook Air killers we’ve been waiting for? Live from Qualcomm’s Snapdragon Summit 2026 on Maui, we got an exclusive first hands-on look at Microsoft's newly announced Surface Pro 12\" (2nd Edition) and ",
+      "content": "Video | Are these the fanless Windows MacBook Air killers we’ve been waiting for? Live from Qualcomm’s Snapdragon Summit 2026 on Maui, we got an exclusive first hands-on look at Microsoft's newly announced Surface Pro 12\" (2nd Edition) and Surface Laptop 13\" (2nd Edition)!",
+      "link": "https://www.notebookcheck.net/Microsoft-FINALLY-built-a-MacBook-Air-killer-Fanless-Surface-Pro-Laptop-13.1408674.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-FINALLY-built-a-MacBook-Air-killer-Fanless-Surface-Pro-Laptop-13.1408674.0.html"
+    },
+    {
+      "id": 1379,
+      "title": "Apple is gearing up to launch the OLED iPad mini, HomePod mini 2, and Apple TV 4K",
+      "summary": "Following the launch of the new iPhone 18 Pro models, new Apple Watches, and new AirPods, Apple has a few more new devices left to unveil this year. Three of these could arrive next month.",
+      "content": "Following the launch of the new iPhone 18 Pro models, new Apple Watches, and new AirPods, Apple has a few more new devices left to unveil this year. Three of these could arrive next month.",
+      "link": "https://www.notebookcheck.net/Apple-is-gearing-up-to-launch-the-OLED-iPad-mini-HomePod-mini-2-and-Apple-TV-4K.1408661.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-is-gearing-up-to-launch-the-OLED-iPad-mini-HomePod-mini-2-and-Apple-TV-4K.1408661.0.html"
+    },
+    {
+      "id": 1380,
+      "title": "WiCi One, the first wireless eGPU with up to RTX 5090 claims impressive gaming performance and shared compute for multiple devices",
+      "summary": "With the WiCi One, WiCi is hoping to shake up the eGPU space by offering full desktop GPU power over Wi-Fi 7. The enclosure comes with an RTX 5060 Ti, but there is also a version with the RTX 5090.",
+      "content": "With the WiCi One, WiCi is hoping to shake up the eGPU space by offering full desktop GPU power over Wi-Fi 7. The enclosure comes with an RTX 5060 Ti, but there is also a version with the RTX 5090.",
+      "link": "https://www.notebookcheck.net/WiCi-One-the-first-wireless-eGPU-with-up-to-RTX-5090-claims-impressive-gaming-performance-and-shared-compute-for-multiple-devices.1408648.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/WiCi-One-the-first-wireless-eGPU-with-up-to-RTX-5090-claims-impressive-gaming-performance-and-shared-compute-for-multiple-devices.1408648.0.html"
+    },
+    {
+      "id": 1381,
+      "title": "Lenovo launches new 14-inch Intel Wildcat Lake laptop with slim and light design",
+      "summary": "The Lenovo Xiaoxin 14 SE has been launched in China, and it’s powered by an Intel Wildcat Lake processor. There’s a standard 14-inch display, a thin and light chassis, and non-soldered RAM. The laptop has a relatively affordable launch pric",
+      "content": "The Lenovo Xiaoxin 14 SE has been launched in China, and it’s powered by an Intel Wildcat Lake processor. There’s a standard 14-inch display, a thin and light chassis, and non-soldered RAM. The laptop has a relatively affordable launch price, around $834.",
+      "link": "https://www.notebookcheck.net/Lenovo-launches-new-14-inch-Intel-Wildcat-Lake-laptop-with-slim-and-light-design.1408577.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-launches-new-14-inch-Intel-Wildcat-Lake-laptop-with-slim-and-light-design.1408577.0.html"
+    },
+    {
+      "id": 1382,
+      "title": "Powerful new mini-PC launches with 128 GB RAM, 10 GbE and Ryzen AI Max+ 395",
+      "summary": "Thunderobot's Station Series AI Workstation mini-PC combines an AMD Ryzen AI Max+ 395 processor, 128 GB of RAM and dual USB 4 connectivity. Also packing 10 GbE Ethernet, the new mini-PC will be available with the even more powerful Ryzen AI",
+      "content": "Thunderobot's Station Series AI Workstation mini-PC combines an AMD Ryzen AI Max+ 395 processor, 128 GB of RAM and dual USB 4 connectivity. Also packing 10 GbE Ethernet, the new mini-PC will be available with the even more powerful Ryzen AI Max+ Pro 495 soon, too.",
+      "link": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-10-GbE-and-Ryzen-AI-Max-395.1408226.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-10-GbE-and-Ryzen-AI-Max-395.1408226.0.html"
+    },
+    {
+      "id": 1383,
+      "title": "Turtle Beach launches Vulcan II XP Air wireless gaming keyboard with gesture sensor",
+      "summary": "Turtle Beach has expanded its Vulcan lineup of gaming keyboards, this time with another full-size mechanical offering. The Vulcan II XP Air is a wireless keyboard with hot-swappable switches and ReacTap functionality.",
+      "content": "Turtle Beach has expanded its Vulcan lineup of gaming keyboards, this time with another full-size mechanical offering. The Vulcan II XP Air is a wireless keyboard with hot-swappable switches and ReacTap functionality.",
+      "link": "https://www.notebookcheck.net/Turtle-Beach-launches-Vulcan-II-XP-Air-wireless-gaming-keyboard-with-gesture-sensor.1408576.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Turtle-Beach-launches-Vulcan-II-XP-Air-wireless-gaming-keyboard-with-gesture-sensor.1408576.0.html"
+    },
+    {
+      "id": 1384,
+      "title": "This laptop blows air: EliteBook 8 G2a 16 prioritizes performance over noise",
+      "summary": "Performance or comfort - business laptops like the EliteBook 8 G2a 16 typically choose a lower fan noise and thus comfort, but HP makes a different choice in this case.",
+      "content": "Performance or comfort - business laptops like the EliteBook 8 G2a 16 typically choose a lower fan noise and thus comfort, but HP makes a different choice in this case.",
+      "link": "https://www.notebookcheck.net/This-laptop-blows-air-EliteBook-8-G2a-16-prioritizes-performance-over-noise.1408402.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/This-laptop-blows-air-EliteBook-8-G2a-16-prioritizes-performance-over-noise.1408402.0.html"
     },
     {
       "id": 1233,
@@ -1496,6 +2003,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Ninkear-unveils-ultra-compact-MBOX18-mini-PC-that-weighs-only-478-grams.1407557.0.html"
+    },
+    {
+      "id": 1385,
+      "title": "Ninkear unveils ultra-compact MBox18 mini PC that weighs only 478 grams",
+      "summary": "Update | (Multiple inaccuracies fixed) Ninkear’s MBox18 is a 0.36-liter mini PC designed for everyday productivity, featuring Intel’s low-power Core 3 304 processor, triple-display support, USB4 and a 15-TOPS NPU. Available with 12GB of LPD",
+      "content": "Update | (Multiple inaccuracies fixed) Ninkear’s MBox18 is a 0.36-liter mini PC designed for everyday productivity, featuring Intel’s low-power Core 3 304 processor, triple-display support, USB4 and a 15-TOPS NPU. Available with 12GB of LPDDR5 memory and a 512GB expandable SSD, it prioritizes compactness and connectivity over gaming or workstation performance.",
+      "link": "https://www.notebookcheck.net/Ninkear-unveils-ultra-compact-MBox18-mini-PC-that-weighs-only-478-grams.1407557.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-24",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Ninkear-unveils-ultra-compact-MBox18-mini-PC-that-weighs-only-478-grams.1407557.0.html"
     },
     {
       "id": 1135,
