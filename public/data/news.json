@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-27",
-  "total": 1467,
+  "total": 1492,
   "list": [
     {
       "id": 1418,
@@ -413,6 +413,371 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Lightweight-Colorful-laptop-debuts-with-14-inch-120Hz-OLED-and-powerful-Panther-Lake-CPU.1409691.0.html"
+    },
+    {
+      "id": 1468,
+      "title": "新型无线外置显卡方案eGPU亮相 宣称可通过超低延迟无线连接释放RTX 5090桌面级性能",
+      "summary": "硬件初创团队与相关技术研发方日前展示了一款极具颠覆性的无线外置显卡（eGPU）解决方案。该方案声称彻底摆脱了雷电（Thunderbolt）或OCuLink物理线缆的物理束缚，能够通过高带宽、超低延迟的无线数据传输协议，向轻薄笔记本电脑乃至掌机设备无缝输送媲美桌面级旗舰显卡RTX 5090的图形计算性能。 阅读全文",
+      "content": "<p>硬件初创团队与相关技术研发方日前展示了一款极具颠覆性的无线外置显卡（eGPU）解决方案。该方案声称彻底摆脱了雷电（Thunderbolt）或OCuLink物理线缆的物理束缚，能够通过高带宽、超低延迟的无线数据传输协议，向轻薄笔记本电脑乃至掌机设备无缝输送媲美桌面级旗舰显卡RTX 5090的图形计算性能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579824.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579824.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579824.htm"
+    },
+    {
+      "id": 1469,
+      "title": "苹果A20 Pro运行《GTA 5》性能表现达到GTX 1650水平 能效高出近12倍",
+      "summary": "苹果最新推出的A20 Pro芯片正在刷新外界对智能手机性能的认知。最新测试结果显示，搭载A20 Pro的iPhone 18 Pro Max已经能够通过模拟运行经典开放世界游戏《侠盗猎车手5》，并在接近桌面级显卡NVIDIA GTX 1650的性能水平下实现流畅运行。 阅读全文",
+      "content": "<p>苹果最新推出的A20 Pro芯片正在刷新外界对智能手机性能的认知。最新测试结果显示，搭载A20 Pro的iPhone 18 Pro Max已经能够通过模拟运行经典开放世界游戏《侠盗猎车手5》，并在接近桌面级显卡NVIDIA GTX 1650的性能水平下实现流畅运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579820.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579820.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579820.htm"
+    },
+    {
+      "id": 1470,
+      "title": "俄罗斯将数据中心列为打击目标 乌克兰10万户家庭断网",
+      "summary": "俄罗斯与乌克兰冲突中的基础设施打击行动正在出现新的升级方向。近期，俄罗斯开始将乌克兰数据中心和互联网核心节点纳入重点打击目标，导致基辅及周边地区约10万户家庭互联网服务受到影响，也引发外界对于现代战争中数字基础设施安全的广泛关注。 阅读全文",
+      "content": "<p>俄罗斯与乌克兰冲突中的基础设施打击行动正在出现新的升级方向。近期，俄罗斯开始将乌克兰数据中心和互联网核心节点纳入重点打击目标，导致基辅及周边地区约10万户家庭互联网服务受到影响，也引发外界对于现代战争中数字基础设施安全的广泛关注。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579812.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579812.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579812.htm"
+    },
+    {
+      "id": 1471,
+      "title": "育碧也来调侃《GTA6》四百美元收藏版竟不含游戏本体",
+      "summary": "《GTA6》那款售价400美元、争议不断的收藏版，近日遭到《雷曼：传奇再叙》的公开调侃——后者40美元的首发版，直接包含两款完整游戏。此前《GTA6》确认不会推出常规实体版，玩家本就倍感失望，纷纷恳求Rockstar至少推出一款收藏版弥补遗憾。结果这个愿望妥妥是“猴爪许愿”——事与愿违：收藏版是出了，但绝大多数玩家都十分不满。 阅读全文",
+      "content": "<p>《GTA6》那款售价400美元、争议不断的收藏版，近日遭到《雷曼：传奇再叙》的公开调侃——后者40美元的首发版，直接包含两款完整游戏。此前《GTA6》确认不会推出常规实体版，玩家本就倍感失望，纷纷恳求Rockstar至少推出一款收藏版弥补遗憾。结果这个愿望妥妥是“猴爪许愿”——事与愿违：收藏版是出了，但绝大多数玩家都十分不满。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1579800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1579800.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1579800.htm"
+    },
+    {
+      "id": 1472,
+      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，",
+      "content": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 LA664 核心的 3C6000/S 和 3A6000。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85484",
+      "source": "Solidot",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85484"
+    },
+    {
+      "id": 1473,
+      "title": "“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整",
+      "summary": "IT之家 9 月 27 日消息，9 月 25 日，字节跳动旗下豆包手机助手发布声明称，从 9 月 24 日晚上开始陆续收到多条用户反馈，在搭载了豆包手机助手的努比亚 NaviX Ultra 上，登录《王者荣耀》或进行匹配对战时，会出现提示设备环境异常、被强制踢下线的情况。 豆包手机助手在声明中提到，经过确认全程未对腾讯游戏系统进行任何操作，AI 也不存在任何违规点击、外挂或模拟行为。目前团队仍在持续与腾讯相关方接洽沟通，但截至目前暂未收到对方的明确回复。 “对此我们深表歉意。",
+      "content": "<p data-vmark=\"0f21\">IT之家 9 月 27 日消息，9 月 25 日，字节跳动旗下豆包手机助手发布声明称，从 9 月 24 日晚上开始陆续收到多条用户反馈，在搭载了豆包手机助手的<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/20/0f811181-5491-4e12-850b-d81fb2c9b4cb.jpg?x-bce-process=image/format,f_auto\" data-topic-id=\"67620\">努比亚 NaviX Ultra</span> 上，登录《王者荣耀》或进行匹配对战时，<strong>会出现提示设备环境异常、被强制踢下线的情况</strong>。</p><p data-vmark=\"92a1\" style=\"text-align: start;\">豆包手机助手在声明中提到，经过确认全程未对腾讯游戏系统进行任何操作，AI 也不存在任何违规点击、外挂或模拟行为。目前团队仍在持续与腾讯相关方接洽沟通，但截至目前暂未收到对方的明确回复。</p><p data-vmark=\"9444\" style=\"text-align: start;\">“对此我们深表歉意。同时，也建议用户暂时不要在努比亚 NaviX Ultra 上反复尝试登录《王者荣耀》。如果您的账号已经出现被封禁等情况，建议同步通过官方游戏客服渠道进行申诉 / 投诉，以便更快恢复账号。”声明提到。</p><p data-vmark=\"3c48\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/846360b5-073e-405a-a76b-2ccfe934101f.jpg?x-bce-process=image/format,f_auto\" w=\"858\" h=\"596\" data-vmark=\"11d4\" data-mpos=\"2,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"824b\" style=\"text-align: start;\">9 月 27 日，另有知情人士向澎湃新闻记者表示，在机制上，<strong>《王者荣耀》通过各项安全风险策略来保障游戏公平</strong>，这些策略在过去一段时间一直沿用，并没有进行任何针对性的调整。</p><p data-vmark=\"e046\">IT之家注意到，“第二代豆包手机”努比亚 NaviX Ultra 于 9 月 16 日发布，号称“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，豆包手机助手主导 AI 助手体验，售价 5999 元起。</p><p data-vmark=\"28b4\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"412b\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/007/415.htm\">努比亚 NaviX Ultra 手机〈王者荣耀〉使用异常，豆包手机助手回应称全程未对腾讯游戏系统进行任何操作</a>》</p></li><li><p data-vmark=\"2083\">《<a href=\"https://www.ithome.com/1/003/087.htm\" target=\"_blank\">“第二代豆包手机”努比亚 NaviX Ultra 发布：“全球首款 AI 智能体手机”，5999 元起</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/007/607.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/607.htm"
+    },
+    {
+      "id": 1474,
+      "title": "年轻人的第一台 RGB 游戏电视，小米 REDMI X 系列 RGB-Mini LED 2027 竞技版上架",
+      "summary": "IT之家 9 月 27 日消息，小米 REDMI 电视 X 系列 RGB-Mini LED 2027 竞技版上架盲订，号称“年轻人的第一台 RGB 游戏电视”。该产品提供 55 英寸、65 英寸、75 英寸、85 英寸版本，10 月 12 日晚 8 点开售。 IT之家注意到，官方暂未公布该系列新品的售价及详细配置信息。作为参考，小米 REDMI 电视 X 2026 系列 55/65/75 英寸版本于 2025 年 12 月开售，价格为 2499 元起。 小米 REDMI 电视",
+      "content": "<p data-vmark=\"f65e\">IT之家 9 月 27 日消息，小米 REDMI 电视 X 系列 RGB-Mini LED 2027 竞技版上架盲订，号称“<strong>年轻人的第一台 RGB 游戏电视</strong>”。该产品提供 55 英寸、65 英寸、75 英寸、85 英寸版本，10 月 12 日晚 8 点开售。</p><p data-vmark=\"fc32\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/66f8ace0-4fb2-45cb-ac4c-e65cebe85b8e.png\" w=\"1012\" h=\"834\" data-weibo=\"0\" data-vmark=\"b8a2\" class=\"no-alt-img\"></p><p data-vmark=\"b732\">IT之家注意到，官方暂未公布该系列新品的售价及详细配置信息。作为参考，小米 REDMI 电视 X 2026 系列 55/65/75 英寸版本于 2025 年 12 月开售，价格为 2499 元起。</p><p data-vmark=\"9956\">小米 REDMI 电视 X 2026 系列采用 Mini LED 技术，拥有 1200 尼特峰值亮度、94% DCI-P3 色域、4K 144Hz 高刷、小米青山护眼，以及 4GB + 64GB 存储，运行小米澎湃 OS 3，还有 2K 或 1080P 下的 288Hz 超高刷模式。支持杜比视界和杜比视界游戏，搭载四核 A73 处理器核心，配有双路满血 HDMI 2.1 接口、WiFi 6。</p><p data-vmark=\"ca3f\">关于小米 REDMI X 系列 RGB-Mini LED 2027 竞技版的更多消息，感兴趣的朋友可以关注IT之家后续报道。</p>",
+      "link": "https://www.ithome.com/1/007/596.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/596.htm"
+    },
+    {
+      "id": 1475,
+      "title": "消息称小米 18 Pro 系列手机均为 TLC 颗粒，没有 QLC",
+      "summary": "IT之家 9 月 27 日消息，博主 @数码闲聊站 今日发文确认，小米 18 Pro 系列全都是 TLC 颗粒，没有 QLC。 他补充道：“另外这次闪存有多家供应商，其中就包括国产的飞存闪拓，闪存颗粒和主控跟长江存储压根是一套。现在 TOP5 厂商很多主力产品都在用，并不是所谓的杂牌”。 另据博主 @体验more 透露，小米 18 Pro 的全版本闪存是海力士和铠侠，只有小米 18 Pro Max 的 512GB 版本是海力士和飞存闪拓，而且都是 TLC，没有 QLC。 IT",
+      "content": "<p data-vmark=\"5455\">IT之家 9 月 27 日消息，博主 @数码闲聊站 今日发文确认，小米 18 Pro 系列全都是 TLC 颗粒，没有 QLC。</p><p data-vmark=\"457c\">他补充道：“另外这次闪存有多家供应商，其中就包括国产的飞存闪拓，闪存颗粒和主控跟长江存储压根是一套。现在 TOP5 厂商很多主力产品都在用，并不是所谓的杂牌”。</p><p data-vmark=\"a056\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0939ce02-921d-4743-b015-cfd2775f7220.png\" w=\"750\" h=\"246\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5347843785097981%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1d8ec3c931a0566b83eccf227550f8ec9277c630c46f5afcb46ed3f409b8fc570066fc868f602ac4e\" data-vmark=\"e428\" class=\"no-alt-img\"></p><p data-vmark=\"ea06\">另据博主 @体验more 透露，小米 18 Pro 的全版本闪存是<strong>海力士和铠侠</strong>，只有小米 18 Pro Max 的 512GB 版本是<strong>海力士和飞存闪拓</strong>，而且都是 TLC，没有 QLC。</p><p data-vmark=\"add1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f333798f-9861-4567-a15e-8cf807a23413.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"1033\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F3108827753%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F3108827753%2FRk34qqsOL%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"4980\" class=\"no-alt-img\"></p><p data-vmark=\"d17f\">IT之家注意到，小米 18 Pro 手机于 9 月 23 日发布，搭载妙享背屏，支持背屏动态通知、AI 百变背屏，首批上线 100+ 背屏应用卡，包含快捷小工具、信息通知栏、解压小游戏等，售价 5999 元起。</p><p data-vmark=\"d4c6\">小米 18 Pro 首发第六代骁龙 8 至尊版，采用最新一代 2nm 旗舰制程，电池容量升级至 7000mAh，搭载全焦段徕卡光学三摄。该机的屏幕尺寸为 6.4 英寸，采用全新 M11 发光体系，峰值亮度 4000nits，支持硬件级智能防窥。</p><p data-vmark=\"2df2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0ef6646e-1136-4c9a-b389-6744e8f44c17.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"960\" data-vmark=\"6f14\" data-mpos=\"2,0\" class=\"lazy no-alt-img\" title=\"小米 18 标准版手机入网，有望 12 月单独发布\" data-weibo=\"2\"></p><figcaption>▲ 小米 18 Pro</figcaption>",
+      "link": "https://www.ithome.com/1/007/592.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/592.htm"
+    },
+    {
+      "id": 1476,
+      "title": "雷鸟鹤 6 系列 27 款 QD-Mini LED 电视开售：55-98 英寸，3175 元起",
+      "summary": "IT之家 9 月 27 日消息，雷鸟官方今日宣布，鹤 6 系列 27 款电视将于今晚 20:00 正式开售。 鹤 6 27 款 55 英寸：3175 元，券后补贴价 2699 元 65 英寸：4116 元，券后补贴价 3499 元 75 英寸：5293 元，券后补贴价 4499 元 85 英寸：6352 元，券后补贴价 5399 元 98 英寸：8234 元，券后补贴价 6999 元 鹤 6 Ultra 27 款 65 英寸：5528 元，券后补贴价 4499 元 75 英寸",
+      "content": "<p data-vmark=\"74ed\">IT之家 9 月 27 日消息，雷鸟官方今日宣布，鹤 6 系列 27 款电视将于今晚 20:00 正式开售。</p><p data-vmark=\"4b85\"><strong>鹤 6 27 款</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0875\">55 英寸：3175 元，券后补贴价 2699 元</p></li><li><p data-vmark=\"95e0\">65 英寸：4116 元，券后补贴价 3499 元</p></li><li><p data-vmark=\"c39e\">75 英寸：5293 元，券后补贴价 4499 元</p></li><li><p data-vmark=\"bc51\">85 英寸：6352 元，券后补贴价 5399 元</p></li><li><p data-vmark=\"1502\">98 英寸：8234 元，券后补贴价 6999 元</p></li></ul><p data-vmark=\"bc8e\"><strong>鹤 6 Ultra 27 款</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8eb5\">65 英寸：5528 元，券后补贴价 4499 元</p></li><li><p data-vmark=\"863b\">75 英寸：6705 元，券后补贴价 5499 元</p></li><li><p data-vmark=\"e3a7\">85 英寸：8705 元，券后补贴价 6999 元</p></li><li><p data-vmark=\"a393\">98 英寸：13499 元，券后补贴价 11499 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"b3a6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5e6cdf60-8b18-49a8-a4fc-251c85200dec.jpg\" w=\"1280\" h=\"1706\" data-vmark=\"0a10\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d17e10459018bf5d20161d4c93f96bf2c282a19c74089a4efce064b8f1e3eba3e68c99e89463a74975\" class=\"no-alt-img\"></p><p data-vmark=\"5931\">据介绍，雷鸟鹤 6 27 款搭载抗反防眩屏，峰值亮度 1500 尼特，分区数量为 180（55 英寸）至 512（98 英寸），色域覆盖 96% DCI-P3，55 英寸为 4K 150Hz，其他尺寸为 4K 180Hz，三单元 2.1 声道扬声器功率为 2×10 +20W（共 40W）。</p><p style=\"text-align: center;\" data-vmark=\"b73f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/95cedcad-04bc-4755-84e9-d54f1c52bbe0.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2607\" data-weibo=\"1\"  data-vmark=\"c1d7\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4DNHAQj\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41NT1Lc\" data-iosurl=\"https://u.jd.com/4ONBVCe\" data-androidurl=\"https://u.jd.com/41NRLOv\" data-hosnexturl=\"https://u.jd.com/4aNR8wa\" data-hosurl=\"https://u.jd.com/46NpDaA\" data-uwpurl=\"https://u.jd.com/4GNNmqr\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4aNPoCR%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4ONYRVJ\" data-lpwxurl=\"https://u.jd.com/4gNSWFu\"   data-ncid=\"243837\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/525174/17/6240/402338/6aaa4315Ff50b654a/0083320320ae992a.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> FFALCON 雷鸟电视 55 鹤 6 27 款</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2698.75 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"d910\">IT之家获悉，雷鸟鹤 6 Ultra<strong> </strong>27 款搭载蝶翼星曜屏，峰值亮度 6000 尼特（65、98 英寸为 5000 尼特），分区数量为 1680（65 英寸）至 3456（98 英寸），色域覆盖 98% DCI-P3，均为 4K 150Hz，4+1+2 扬声器功率为 2×(10+10) +20 +2×10W（共 80W）。</p><p style=\"text-align: center;\" data-vmark=\"d2c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8538edf8-f1f2-4140-b0c3-a111ffdb413f.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"3282\" data-weibo=\"2\" data-vmark=\"5281\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4GNlWd5\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41NTzsJ\" data-iosurl=\"https://u.jd.com/4DNNlrz\" data-androidurl=\"https://u.jd.com/46NZJE8\" data-hosnexturl=\"https://u.jd.com/4GNfMX6\" data-hosurl=\"https://u.jd.com/4rNBpcm\" data-uwpurl=\"https://u.jd.com/4ONVyHh\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4GNJvHr%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/41NkacJ\" data-lpwxurl=\"https://u.jd.com/4ONjxzz\"   data-ncid=\"243837\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/530931/13/422/418307/6aaa541dF5940a99b/0083320320a95c6b.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> FFALCON 雷鸟电视 65 鹤 6 Ultra 27 款</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 4698.8 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/007/591.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/591.htm"
+    },
+    {
+      "id": 1477,
+      "title": "OPPO Reno16t 手机上线官网：6.32 英寸直屏、天玑 8550 SUPER，3699 元起",
+      "summary": "IT之家 9 月 27 日消息，OPPO Reno16t 手机现已上线 OPPO 官网，售价 3699 元起： 12GB+256GB：3699 元 16GB+512GB：4499 元 IT之家获悉，这款手机搭载天玑 8550 SUPER 处理器，辅以 LPDDR5X/LPDDR5 内存 + UFS 3.1 闪存；采用 6.32 英寸 FHD+（2640×1216）柔性 OLED 直屏，刷新率 120Hz，局部峰值亮度 3600nits。 这款手机搭载 6700 mAh 电池，",
+      "content": "<p data-vmark=\"ac6e\">IT之家 9 月 27 日消息，OPPO Reno16t 手机现已上线 OPPO 官网，<strong>售价 3699 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"348b\">12GB+256GB：3699 元</p></li><li><p data-vmark=\"f370\">16GB+512GB：4499 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"1cd2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7baf437-6590-4112-ac4a-ff7d649aaf8e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-vmark=\"feae\" data-mpos=\"2,2\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"ad7c\">IT之家获悉，这款手机搭载天玑 8550 SUPER 处理器，辅以 LPDDR5X/LPDDR5 内存 + UFS 3.1 闪存；采用 6.32 英寸 FHD+（2640×1216）柔性 OLED 直屏，刷新率 120Hz，局部峰值亮度 3600nits。</p><p style=\"text-align: center;\" data-vmark=\"ffd9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fbe243e2-aaca-4383-93ea-6009b289b6de.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"913\" data-weibo=\"1\" data-vmark=\"d403\" class=\"no-alt-img\"></p><p data-vmark=\"480b\">这款手机搭载 6700 mAh 电池，支持 80 W 超级闪充；后置 2 亿像素广角摄像头、5000 万像素超广角摄像头、5000 万像素长焦摄像头；前置 5000 万像素摄像头。</p><p style=\"text-align: center;\" data-vmark=\"248e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/566f3266-19fb-4965-b581-4c71e469099c.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"779\" data-weibo=\"2\" data-vmark=\"93a2\" class=\"no-alt-img\"></p><p data-vmark=\"5fdb\">这款手机宽 72.42mm，有三种颜色可选，分别重约 188g（月夜黑）、189g（星河紫）、191g（怦然星动）；采用屏下光学短焦指纹，支持红外遥控，支持 IP69K 防水。</p><p style=\"text-align: center;\" data-vmark=\"bfc1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2dda5763-e2a3-4ba8-9508-d07787631866.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1004\" data-weibo=\"3\" data-vmark=\"e47d\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/007/589.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/589.htm"
+    },
+    {
+      "id": 1478,
+      "title": "iQOO 16 手机搭载 LPDDR5X Ultra+UFS 4.1，读写性能提升 30%",
+      "summary": "IT之家 9 月 27 日消息，除了首批搭载第六代骁龙 8 超级至尊版处理器，iQOO 旗舰系列产品经理王侃今日确认 iQOO 16 手机还将搭载 LPDDR5X Ultra+UFS 4.1。 据其介绍，iQOO 16 和 iQOO Pad Ultra 首批搭载第六代骁龙 8 超级至尊版，全大核架构，采用新一代 2nm 工艺制程，首个最高主频达 5GHz 的移动 CPU；团队深度联合高通打造新一代 Monster 超核引擎，调校更极致，深入平台重构调度架构，内核级跃升带来“行",
+      "content": "<p data-vmark=\"1146\">IT之家 9 月 27 日消息，除了首批搭载第六代骁龙 8 超级至尊版处理器，iQOO 旗舰系列产品经理王侃今日确认 iQOO 16 手机还将搭载 LPDDR5X Ultra+UFS 4.1。</p><p data-vmark=\"bada\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/dfdfc9e0-0efa-4f3f-9298-5b1bf01909da.png\" w=\"638\" h=\"1280\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F4013415290%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F4013415290%2FRk3KEsUu7%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"687d\" class=\"no-alt-img\"></p><p data-vmark=\"e0bc\">据其介绍，iQOO 16 和 iQOO Pad Ultra <strong>首批搭载第六代骁龙 8 超级至尊版</strong>，全大核架构，采用新一代 2nm 工艺制程，首个最高主频达 5GHz 的移动 CPU；团队深度联合高通打造新一代 Monster 超核引擎，调校更极致，深入平台重构调度架构，内核级跃升带来“行业最强骁龙体验”。</p><p data-vmark=\"7518\">IT之家注意到，他还透露新品搭载 <strong>LPDDR5X Ultra+UFS 4.1</strong>，读写速率高达 9.6Gbps，游戏操作瞬间响应，多任务也流畅，行业旗舰闪存 UFS 4.1，搭载全新 SLC PIN Plus 技术，<strong>较 iQOO15 读写性能提升 30%</strong>。</p><p data-vmark=\"4012\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/739d2088-69c4-45a7-b40b-f7af092221ab.png\" w=\"1212\" h=\"806\" data-weibo=\"1\" data-vmark=\"b444\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：iQOO 16「赛道」配色图赏</figcaption><p data-vmark=\"2c63\">根据官方公布的信息，iQOO 16 全球首发 2K 165Hz 三星珠峰屏，搭载三星显示 M16 发光材料。除了主摄升级到 5000 万超感光 1/1.3\" 大底，新机还搭载 5000 万索尼超级潜望长焦 + 5000 万超广角。CIPA 5.5 专业级防抖。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"d84b\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4739\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/007/560.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/560.htm"
+    },
+    {
+      "id": 1479,
+      "title": "消息称华为新一代 MatePad Mini 小平板配备 5G+ 双层 OLED，续航有提升",
+      "summary": "IT之家 9 月 27 日消息，微博博主 @智慧皮卡丘 今日爆料称，某厂新一代小平板预计将配备 5G+ 双层 OLED 面板，续航有提升。 后续有用户在评论区表示：“华为 MatePad Mini 二代”，博主回复道：“[大拇指]”；另一名用户则表示：“这下相当于配置更好的阔直板放大版了”，博主则回复称：“[狗头斜眼]”。 从博主文中 Tag 暗示和回复中我们不难看出，这款平板预计是华为的新一代 MatePad Mini。 结合博主 @数码闲聊站 此前爆料，某厂迭代小平板采用",
+      "content": "<p data-vmark=\"1d45\">IT之家 9 月 27 日消息，微博博主 @智慧皮卡丘 今日爆料称，<strong>某厂新一代小平板预计将配备 5G+ 双层 OLED 面板</strong>，续航有提升。</p><p data-vmark=\"8972\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9d1e473d-4469-4d55-b998-c52c2cf5ceb1.png\" w=\"1276\" h=\"266\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F5888095979%2FRk2KTy8sQ%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1202641e540883b3000d36309dfdc6a295fe95009624a12e2ccf756c92c68f2d958e61501790470ab\" data-vmark=\"9083\" class=\"no-alt-img\"></p><p data-vmark=\"e688\">后续有用户在评论区表示：“华为 MatePad Mini 二代”，博主回复道：“[大拇指]”；另一名用户则表示：“这下相当于配置更好的阔直板放大版了”，博主则回复称：“[狗头斜眼]”。</p><p data-vmark=\"1740\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1508cc40-972c-4fba-9557-03e1d90a19ae.png\" w=\"1280\" h=\"382\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F5888095979%2FRk2KTy8sQ%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1da6725b594b7ca7256f2cfc7b1b10cfe9e54c9e83bbfa2f211d593a4ea31a652faa6db4cf5feedce\" data-vmark=\"0d40\" class=\"no-alt-img\"></p><p data-vmark=\"7abc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d563186d-fc36-41c8-b830-9a1ce81e9267.png\" w=\"1280\" h=\"220\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F5888095979%2FRk2KTy8sQ%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"2\" data-mpos=\"2,1\" data-marks=\"1931fd9d012eb6d1e316ddd28aad68e580d1a2409158ffd50f530f6fdde35250206b968122c705c0737d2227b1b31f82\" data-vmark=\"e442\" class=\"no-alt-img\"></p><p data-vmark=\"42d8\">从博主文中 Tag 暗示和回复中我们不难看出，<strong>这款平板预计是华为的新一代 MatePad Mini</strong>。</p><p data-vmark=\"ee77\"><a href=\"https://www.ithome.com/0/943/434.htm\" target=\"_blank\">结合博主 @数码闲聊站 此前爆料</a>，某厂迭代小平板采用 OLED 极窄四等边设计，搭载 9 系迭代旗舰级芯片，同样有 5G 通信版本，目前早期工程机电池加了不少，有评估 NFC，预计为华为新一代 MatePad Mini。</p><p data-vmark=\"c470\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/456375c1-7329-4eba-990d-a0755ad9d9ba.jpg?x-bce-process=image/format,f_auto\" w=\"1316\" h=\"529\" data-weibo=\"3\" data-vmark=\"e806\"  data-mpos=\"2,0\" class=\"no-alt-img\"></p><p data-vmark=\"6d79\">据IT之家了解，<a href=\"https://www.ithome.com/0/880/418.htm\" target=\"_blank\">目前在售的华为 MatePad Mini 小平板发布于 2025 年 9 月</a>，有悦读版、常规版、柔光屏等多个版本。</p><p data-vmark=\"a118\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/4f9b91c0-f829-4304-84dc-e062199cfcfb.png?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"634\" h=\"454\" data-vmark=\"63be\" class=\"lazy no-alt-img\" title=\"消息称某厂迭代小平板配备 OLED 极窄四等边屏、9 系旗舰级芯片，预计为华为新款 MatePad Mini\" data-weibo=\"4\"></p><figcaption>▲ 华为 MatePad Mini</figcaption><p data-vmark=\"5c81\">华为 MatePad Mini 搭载 8.8 英寸 2560*1600p 16:10 OLED 屏，采用 2.99mm 四等边 + 挖孔屏设计，92% 屏占比，支持 120Hz 高刷、1800 尼特 HDR 动态显示。还支持双向北斗卫星短信、华为平板首次支持灵犀通信、华为 M-Pencil Pro 手写笔。</p>",
+      "link": "https://www.ithome.com/1/007/559.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/559.htm"
+    },
+    {
+      "id": 1480,
+      "title": "消息称索尼 PS6 掌机有望用上高规格 Tandem OLED 面板，支持 120Hz 高刷、VRR",
+      "summary": "IT之家 9 月 27 日消息，据外媒 GameGPU 昨天报道，索尼预计将在 PS6 主机发布时同步推出新一代掌机产品，代号为“Project Canis”。 据报道，这款掌机预计将在屏幕方面重点优化。搭载高规格 OLED 面板，采用高能效有机发光材料，或为 Tandem OLED（双层 OLED），局部峰值亮度有望达到 1000nits。该面板预计将完整支持 DCI-P3 广色域，功耗降低约 25%。 此外，该面板的原生分辨率或为 1080P，支持 120Hz 高刷以及可",
+      "content": "<p data-vmark=\"61c9\">IT之家 9 月 27 日消息，据外媒 GameGPU 昨天报道，索尼预计将在 PS6 主机发布时同步推出新一代掌机产品，代号为“Project Canis”。</p><p style=\"text-align: center;\" data-vmark=\"b5a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/19debaf9-e9b1-43a4-8336-5ffe9d5adfab.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"d529\" class=\"no-alt-img\"></p><p data-vmark=\"e0d4\">据报道，这款掌机预计将在屏幕方面重点优化。搭载高规格 OLED 面板，采用高能效有机发光材料，<strong>或为 Tandem OLED（双层 OLED）</strong>，局部峰值亮度有望达到 1000nits。该面板预计将完整支持 DCI-P3 广色域，功耗降低约 25%。</p><p data-vmark=\"e548\">此外，该面板的原生分辨率或为 1080P，支持 120Hz 高刷以及可变刷新率（IT之家注：VRR）。运行高负载游戏时，预计将开启 PSSR 3.0 技术，通过帧生成技术将原本的 30-60FPS 画面提升至 60-120FPS。</p>",
+      "link": "https://www.ithome.com/1/007/558.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/558.htm"
+    },
+    {
+      "id": 1481,
+      "title": "泰坦军团 P2410R3 显示器开售：23.8 英寸 2K 180Hz Fast IPS，747 元",
+      "summary": "IT之家 9 月 27 日消息，泰坦军团在本月初公布了 P2410R3 显示器，这款新品现已开售，售价 747 元，焕新补贴到手价 709 元。 这款显示器搭载了一块 23.8 英寸 2K 180Hz Fast IPS 屏幕，HDR 峰值亮度可达 400nits，静态对比度 1000:1；灰阶（GtG）响应时间 1ms；色域覆盖 99% sRGB、95% DCI-P3，色偏 ΔE＜2；搭载硬件级低蓝光技术。 这款显示器提供 2 个 HDMI 2.0、1 个 DisplayPo",
+      "content": "<p data-vmark=\"72cc\">IT之家 9 月 27 日消息，泰坦军团在本月初公布了 P2410R3 显示器，这款新品现已开售，<strong>售价 747 元</strong>，焕新补贴到手价 709 元。</p><p style=\"text-align: center;\" data-vmark=\"a52c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0baba949-39b3-4fe2-a977-903abe47772c.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1360\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"72f5\" class=\"no-alt-img\"></p><p data-vmark=\"51e5\">这款显示器搭载了一块 23.8 英寸 2K 180Hz Fast IPS 屏幕，HDR 峰值亮度可达 400nits，静态对比度 1000:1；灰阶（GtG）响应时间 1ms；色域覆盖 99% sRGB、95% DCI-P3，色偏 ΔE＜2；搭载硬件级低蓝光技术。</p><p style=\"text-align: center;\" data-vmark=\"26cf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/701a6ebd-62f0-4ad7-a9fb-282a954834cb.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"2059\" data-weibo=\"1\" data-vmark=\"4fcf\" class=\"no-alt-img\"></p><p data-vmark=\"f5e7\">这款显示器提供 2 个 HDMI 2.0、1 个 DisplayPort 1.4、1 个 3.5mm 音频输出插孔；原装支架允许俯仰调节，兼容 100mm × 100mm 标准 VESA 壁挂安装。</p><p style=\"text-align: center;\" data-vmark=\"68a2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ecae3293-7bff-4561-b573-d1d11d4bce11.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1507\" data-weibo=\"2\" data-vmark=\"214e\" class=\"no-alt-img\"></p><p data-vmark=\"bc4f\">IT之家附这款显示器详细参数如下：</p><p style=\"text-align: center;\" data-vmark=\"b1ce\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5103218f-fb9f-4a66-9749-b1433c82304f.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"3\" data-vmark=\"b363\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4GNBDsA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4gNybiA\" data-iosurl=\"https://u.jd.com/4ONyjpT\" data-androidurl=\"https://u.jd.com/4rNAg9s\" data-hosnexturl=\"https://u.jd.com/4ONEznj\" data-hosurl=\"https://u.jd.com/41Nn4XU\" data-uwpurl=\"https://u.jd.com/4aNWus3\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4GN0Sg0%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/46Nrl18\" data-lpwxurl=\"https://u.jd.com/4ONT71t\"   data-ncid=\"243832\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/521670/16/7940/135242/6aa91195F2fe68912/0083320320ab8b46.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">泰坦军团 23.8 英寸 2K 180Hz P2410R3</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">709.65 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/007/557.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/007/557.htm"
+    },
+    {
+      "id": 1482,
+      "title": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
+      "summary": "The gaming laptop pairs Intel’s Core Ultra 9 285H with Nvidia’s RTX 5070 Laptop GPU and a 3K 120Hz OLED display, giving buyers a powerful compact machine at a reduced price.",
+      "content": "<article>\n                                <p>As the memory crisis continues to push up component prices, laptop prices are also rising, making even mainstream models increasingly expensive. However, if you are looking for the right combination of portability and performance, the HP Omen Transcend 14 is currently on sale. The 14-inch powerhouse is <a href=\"https://www.bestbuy.com/product/hp-omen-transcend-14-120hz-3k-oled-gaming-laptop-intel-core-ultra-9-2025-32gb-memory-nvidia-geforce-rtx-5070-1tb-ssd-shadow-black/J3YH845T5W\">available at $1999.99</a> for a limited period, down from its listed price of $2999.99 at Best Buy, which is a massive saving of $1000. </p><ul><li><a href=\"https://www.bestbuy.com/product/hp-omen-transcend-14-120hz-3k-oled-gaming-laptop-intel-core-ultra-9-2025-32gb-memory-nvidia-geforce-rtx-5070-1tb-ssd-shadow-black/J3YH845T5W\">Check out the HP Omen Transcend 14 on Best Buy</a></li></ul><p>The HP Omen Transcend 14 is one of the rare compact gaming laptops packing a powerful set of hardware. This particular configuration comes with Intel’s Core Ultra 9 285H processor, paired with 32GB of LPDDR5x memory and an Nvidia RTX 5070 Laptop GPU with 8GB of GDDR7 VRAM. For storage, there is a 1TB PCIe Gen 4 NVMe SSD, while the laptop ships with Windows 11 Home. The combination should make it capable of handling modern games as well as demanding workloads such as video editing and other content-creation tasks.</p><div class=\"product star-deal\"><a data-dimension112=\"5897e640-ba86-11f1-bd9a-3f040df5aedd\" data-action=\"Star Deal Block\" data-label=\"Omen Transcend 14\" data-dimension48=\"Omen Transcend 14\" data-dimension25=\"$1999.99\" href=\"https://www.bestbuy.com/product/hp-omen-transcend-14-120hz-3k-oled-gaming-laptop-intel-core-ultra-9-2025-32gb-memory-nvidia-geforce-rtx-5070-1tb-ssd-shadow-black/J3YH845T5W\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:657px;\"><p class=\"vanilla-image-block\" style=\"padding-top:83.41%;\"><img id=\"Qas5o5QfbuAX6gW84injxZ\" name=\"HP Omen Transcend 14.png\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/Qas5o5QfbuAX6gW84injxZ-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"657\" height=\"548\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p>The HP Omen Transcend 14 is a premium gaming laptop offering high-end performance in a compact 14-inch chassis. The laptop comes with Intel’s top-tier Core Ultra 9 285H processor with 32GB of LPDDR5x memory and an Nvidia RTX 5070 Laptop GPU. <a class=\"view-deal button\" href=\"https://www.bestbuy.com/product/hp-omen-transcend-14-120hz-3k-oled-gaming-laptop-intel-core-ultra-9-2025-32gb-memory-nvidia-geforce-rtx-5070-1tb-ssd-shadow-black/J3YH845T5W\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"5897e640-ba86-11f1-bd9a-3f040df5aedd\" data-action=\"Star Deal Block\" data-label=\"Omen Transcend 14\" data-dimension48=\"Omen Transcend 14\" data-dimension25=\"$1999.99\">View Deal</a></p></div><p>A highlight feature of the laptop is the 14-inch 3K OLED display, which has a 2880 x 1800 resolution and a 120 Hz refresh rate. The panel supports a 48-120Hz variable refresh rate, covers 100% of the DCI-P3 color gamut, and offers up to 500 nits of HDR brightness, making it suitable for both gaming and content creation. </p><p>Despite packing high-end hardware, the Transcend 14 remains relatively portable, measuring around 0.7 inches thick and weighing about 3.6 pounds. In terms of ports, it comes with Thunderbolt 4, USB-C with DisplayPort and power delivery, HDMI 2.1, and a USB-A port. The laptop also comes with a four-zone RGB backlit keyboard, while the 71 Wh battery is claimed to last up to 14 hours on a full charge. </p><p>Considering the premium hardware and compact footprint, the <a href=\"https://www.bestbuy.com/product/hp-omen-transcend-14-120hz-3k-oled-gaming-laptop-intel-core-ultra-9-2025-32gb-memory-nvidia-geforce-rtx-5070-1tb-ssd-shadow-black/J3YH845T5W\">HP Omen Transcend 14 at $1,999.99</a> is a deal worth considering. The $1,000 discount from its $2,999.99 listed price makes it a considerably more affordable proposition. However, you’ll need to move fast, as the deal price is only available for a few hours.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "8HTJU62qHQp5z5R7Mi4emH"
+    },
+    {
+      "id": 1483,
+      "title": "Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer",
+      "summary": "A chrysophile has ordered a special edition mini PC with a pure 24-carat gold passive chassis which will cost around $1.7 million.",
+      "content": "<article>\n                                <p>A chrysophile has ordered a special edition mini PC with a pure <a href=\"https://www.tomshardware.com/pc-components/gpus/this-gilded-rog-astral-rtx-5090-dhahab-edition-features-actual-24k-gold-and-could-set-you-back-usd10-000\" target=\"_blank\">24-carat gold</a> passive chassis reports <a href=\"https://www.fanlesstech.com/2026/09/gold-kubb-fanless.html\" target=\"_blank\">Fanless Tech</a>. It’s a premium custom version of the ~5-inch (120 x 120 x 120mm) Kubb Fanless PC, but costing around $1.7 million with its opulent gold chassis. As well as its choice of materials pumping up price, this mini PC’s weight has increased from its default 4.6 to 28.7 pounds (2.1kg to 13kg). But as a bonus, which probably still doesn’t make it worth it for most folks, gold has significantly better thermal conductivity than <a href=\"https://www.tomshardware.com/pc-components/cooling/pc-modder-straps-5-5-pound-aluminum-heatsink-to-rtx-4060-convection-only-cooling-seems-to-work-fine-in-a-testbench-style-installation\" target=\"_blank\">aluminum</a>.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2103455604668866625\"><p lang=\"en\" dir=\"ltr\">A rich client asked for a solid gold Kubb Fanless and it's a cooling marvel https://t.co/QyPMRKefTz pic.twitter.com/a9hIdznNYw<a href=\"https://twitter.com/cantworkitout/status/2103455604668866625\">September 25, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>In its social media post, Fanless Tech calls the Kubb Fanless in gold a “cooling marvel.” Its news post on the topic elaborates on this claim, explaining that the <a href=\"https://www.tomshardware.com/best-picks/best-thermal-paste\" target=\"_blank\">thermal conductivity</a> of gold is “about 30% to 50% faster than aluminum.” That might help its Core Ultra chip perform a bit better, all else being equal. However the sacrifice to portability, as this compact gold PC is over 6x heavier, could be a major drawback. As well as the price.</p><p>We looked up the thermal conductivity of aluminum and gold, as well as some other common materials. The chart below could be useful for your own passive computing projects.</p><div ><table><caption>Thermal conductivity comparison chart</caption><thead><tr><th class=\"firstcol \" ><p>Material</p></th><th  ><p>Thermal conductivity (W/m K)</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>Diamond</p></td><td  ><p>1,000</p></td></tr><tr><td class=\"firstcol \" ><p>Silver</p></td><td  ><p>406</p></td></tr><tr><td class=\"firstcol \" ><p>Copper</p></td><td  ><p>385</p></td></tr><tr><td class=\"firstcol \" ><p>Gold</p></td><td  ><p>314</p></td></tr><tr><td class=\"firstcol \" ><p>Aluminum</p></td><td  ><p>205</p></td></tr><tr><td class=\"firstcol \" ><p>Iron</p></td><td  ><p>79</p></td></tr><tr><td class=\"firstcol \" ><p>Glass</p></td><td  ><p>0.8</p></td></tr><tr><td class=\"firstcol \" ><p>Brick</p></td><td  ><p>0.6</p></td></tr><tr><td class=\"firstcol \" ><p>Wood</p></td><td  ><p>0.1</p></td></tr><tr><td class=\"firstcol \" ><p>Polyurethane</p></td><td  ><p>0.02</p></td></tr></tbody></table></div><p>In contrast to its gilded construction, this mini PC's specs are very modest. Standard configurations of the Kubb Fanless are as follows:</p><ul><li>Intel Core Ultra 5 225H, or Intel Core Ultra X7 358H, or AMD Ryzen AI 5 340</li><li>16GB DDR5, up to 128GB</li><li>1TB M.2 NVMe SSD, optional second M.2 SSD</li><li>Intel: 1x USB 3.2 (Type A), 1x USB 3.2 (Type-C, DP1.4a), 1x USB4/Thunderbolt 4 (Type-C, DP 2.1), Wi-Fi 7, Bluetooth 5.4</li><li>AMD: 1x USB 3.2 Gen2 (Type A), 2x USB4 (Type-C, DP 1.4a), Wi-Fi 6, Bluetooth 5.3</li><li>Side ports: 2x Port RJ45, 2x HDMI 2.1 TMDS, 2x USB 3.2 Gen 2 (Type A)</li><li>19V DC, 6.32A, 120W power adapter (100–240V AC)</li><li>Windows 11 Pro</li><li>3 years guarantee</li></ul><p>Kubb Fanless mini PCs are usually made from aluminum, and finished in graphite, blue, or bronze. With an Intel <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-225h-delivers-14-percent-better-single-core-and-16-percent-improved-igpu-performance-than-meteor-lake-per-early-benchmarks-the-cpu-still-falls-short-of-its-lunar-lake-counterparts\" target=\"_blank\">Core Ultra 5 225H</a> at their heart, all those colors are all listed at €1,595 ($1,822) at Kubb.eu, but there is no stock. At that kind of price, the <a href=\"https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review\" target=\"_blank\">Arctic Senza AI 370</a> we tested earlier in the year looks like it would be a knockout passive computing competitor. We aren’t sure if Arctic would accept the 24 carat gold chassis special order, and the Senza is designed for discrete under-desk-mounted silence.</p><p>We previously reported on the fanless <a href=\"https://www.tomshardware.com/desktops/mini-pcs/tiny-3-inch-cube-pcs-bring-a-splash-of-color-to-the-passive-pc-market-with-red-orange-green-and-blue-options-intel-twin-lake-powered-kubb-mini-pcs-start-at-usd500\" target=\"_blank\">Kubb Mini</a> range of 3 x 3 x 3-inch mini PCs which packed Intel Twin Lake chips, came in cute/bright color finishes, and were priced around $500 (€430).</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "Tt7wwnnXMBshnv8WhjxVu3"
+    },
+    {
+      "id": 1484,
+      "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead",
+      "summary": "The two PlusAI trailers with Nvidia-partner markings were apparently left outside the startup's warehouse, making it a juicy target for criminals looking to make easy money on AI GPUs. However, they were deliberately left outside as the tra",
+      "content": "<article>\n                                <p>PlusAI, an autonomous trucking startup, is working with Nvidia to develop its systems and has several trucks and trailers marked with the logos of both companies. This likely caught the attention of thieves who were looking to score big on AI GPUs, with <a href=\"https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/\" target=\"_blank\">Wired</a> reporting that two of the startup’s trailers got stolen and were found at another location. However, the joke’s on the criminals, as they discovered that the two stolen units contained 20,000 pounds of sand each.</p><p>The AI data center construction boom has made PC components like RAM and GPUs insanely expensive, which has led to a <a href=\"https://www.tomshardware.com/pc-components/ddr5/package-theft-leaves-pc-builder-without-ddr5\" target=\"_blank\">rise in petty theft</a> involving these components. Enterprises and startups are being targeted, too, especially as they build data centers and local AI servers with millions of dollars’ worth of equipment and hardware. We’ve already seen cargo <a href=\"https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago\" target=\"_blank\">heists of copper cable and other hardware worth $1.3 million</a>, while other criminals have become more brazen, <a href=\"https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california\" target=\"_blank\">pushing or spinning security escorts off the road</a> so they can get away with a truck’s worth of AI GPUs.</p><p>While PlusAI is partnered with Nvidia, it also uses simulated cargo loads for real-world tests, allowing the company to model how a fully loaded semi-trailer would react to various road conditions. The startup’s truck cabs, which likely had advanced AI hardware installed, were parked securely inside its warehouse, while the trailers were apparently left outside and secured with hand locks. “PlusAI uses simulated loads in its trailers to assist with research and development testing,” company spokesperson Lauren Kwan told <em>Wired, </em>adding that they were recovered with “40,000 pounds of sand intact.” </p><p>Interestingly, the discovery of the theft was accidentally made by one of the startup’s top executives, who received a message from an acquaintance saying that they saw the trailers, which they described as “trucks,” near their workplace. This likely got the executive concerned, as that location was half a mile away from PlusAI’s warehouse, which led to the cops getting called. As for the prospective criminals, they probably left the crime scene disappointed — they thought they were getting a huge payday from two truckloads’ worth of smart silicon, but they ended up with 20 tons of dumb sand instead.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "fm3Eq5ovotPtAWxPvVainB"
+    },
+    {
+      "id": 1485,
+      "title": "Modder Squeezes 74% More Performance Out of DLSS 5 on AMD Radeon in One Day",
+      "summary": "Modders working on bringing NVIDIA's DLSS 5 Neural Rendering to AMD Radeon GPUs just had their busiest day yet. The developer behind the DLSS-NR-on-AMD tool shipped two new versions within 24 hours, Alpha 0.3.3 and Alpha 0.4.0, together add",
+      "content": "Modders working on bringing NVIDIA's <a href=\"https://www.techpowerup.com/352360/modders-get-dlss-5-working-on-amd-graphics-cards-though-performance-is-rough\" target=\"_blank\">DLSS 5 Neural Rendering to AMD Radeon GPUs</a> just had their busiest day yet. The developer behind the <a rel=\"nofollow\" href=\"https://github.com/danielblnc/DLSS-NR-on-AMD\" target=\"_blank\">DLSS-NR-on-AMD</a> tool shipped two new versions within 24 hours, Alpha 0.3.3 and Alpha 0.4.0, together adding roughly 74% performance on Radeon hardware, according to the project's own GitHub release notes. YouTuber <a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=qyRaA4wLYXI\" target=\"_blank\">Ancient Gameplays</a> tested the update in Cyberpunk 2077 at 3440x1440, and saw framerates climb from around 30 FPS on earlier builds to roughly 50 FPS on Alpha 0.4.0. That's a big jump for a workaround that started out barely playable. The original mod release had poor performance, but it looks like that's being addressed.<br />\r\n<br />\r\nThe tool works by feeding NVIDIA's own <a href=\"https://www.techpowerup.com/review/nvidia-dlss-5-technical-preview/\" target=\"_blank\">DLSS 5 DLL</a> into Radeon RX 9000 GPUs, and reportedly RX 7000 cards too, intercepting the calls the DLL expects and routing the neural computation onto AMD hardware, since RDNA 4 supports the FP8 math DLSS 5 relies on. Alpha 0.3.3 also added a graphical installer with a built-in settings editor and overlay controls, so getting Neural Rendering running on Radeon apparently no longer means digging through file paths manually. Moreover, just today, the Alpha 0.4.1 update brought another 8% jump in overall performance, and a 9% performance increase under heavy gameplay loads.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/yUiYdoJk32pLHGxz.jpg\" target=\"_blank\" data-width=\"2305\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/yUiYdoJk32pLHGxz_thm.jpg\" width=\"312\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ALilN85DrmClvwfC.jpg\" target=\"_blank\" data-width=\"2318\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ALilN85DrmClvwfC_thm.jpg\" width=\"314\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/CF3EbNYZGXe2Ul3G.jpg\" target=\"_blank\" data-width=\"852\" data-height=\"758\" ><img src=\"https://tpucdn.com/img/CF3EbNYZGXe2Ul3G_thm.jpg\" width=\"146\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353131/modder-squeezes-74-more-performance-out-of-dlss-5-on-amd-radeon-in-one-day\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353131/modder-squeezes-74-more-performance-out-of-dlss-5-on-amd-radeon-in-one-day",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a71cbdb5e7bf0cbc32e43ecc969ed890"
+    },
+    {
+      "id": 1486,
+      "title": "Lenovo launches new budget gaming monitor with HDMI 2.1 and AMD FreeSync Premium",
+      "summary": "Lenovo has launched a new budget gaming monitor. Set for release in all regions except the Americas, the LOQ 25-10 Monitor combines a 280 Hz refresh rate with HDMI 2.1 (TMDS) ports, 0.5 ms response times and 99% sRGB colour space coverage.",
+      "content": "Lenovo has launched a new budget gaming monitor. Set for release in all regions except the Americas, the LOQ 25-10 Monitor combines a 280 Hz refresh rate with HDMI 2.1 (TMDS) ports, 0.5 ms response times and 99% sRGB colour space coverage.",
+      "link": "https://www.notebookcheck.net/Lenovo-launches-new-budget-gaming-monitor-with-HDMI-2-1-and-AMD-FreeSync-Premium.1409410.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-launches-new-budget-gaming-monitor-with-HDMI-2-1-and-AMD-FreeSync-Premium.1409410.0.html"
+    },
+    {
+      "id": 1487,
+      "title": "Entry-level Minix NUC300 launches with speedy Ethernet port and HDMI CEC support",
+      "summary": "Minix has launched the NUC300, an entry-level mini PC that's powered by the Intel N300. The launch price isn't attractive for the performance, but with a 2.5GbE port and HDMI CEC, it can be a good pick for media needs.",
+      "content": "Minix has launched the NUC300, an entry-level mini PC that's powered by the Intel N300. The launch price isn't attractive for the performance, but with a 2.5GbE port and HDMI CEC, it can be a good pick for media needs.",
+      "link": "https://www.notebookcheck.net/Entry-level-Minix-NUC300-launches-with-speedy-Ethernet-port-and-HDMI-CEC-support.1409872.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Entry-level-Minix-NUC300-launches-with-speedy-Ethernet-port-and-HDMI-CEC-support.1409872.0.html"
+    },
+    {
+      "id": 1488,
+      "title": "A nightmare for bargain hunters? 14-year-old CPU technology in Xiaomi's new 2026 tablet",
+      "summary": "Although the affordable Xiaomi tablet features a Qualcomm Snapdragon chipset that is new on paper, buyers of the Redmi Pad 2 9.7 get outdated technology for their money. This reuse of old processor cores not only affects performance but als",
+      "content": "Although the affordable Xiaomi tablet features a Qualcomm Snapdragon chipset that is new on paper, buyers of the Redmi Pad 2 9.7 get outdated technology for their money. This reuse of old processor cores not only affects performance but also has implications for long-term usability.",
+      "link": "https://www.notebookcheck.net/A-nightmare-for-bargain-hunters-14-year-old-CPU-technology-in-Xiaomi-s-new-2026-tablet.1409693.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/A-nightmare-for-bargain-hunters-14-year-old-CPU-technology-in-Xiaomi-s-new-2026-tablet.1409693.0.html"
+    },
+    {
+      "id": 1489,
+      "title": "Palm-sized Intel Wildcat Lake mini PC debuts with rich port configuration",
+      "summary": "At the Intel Connection 2026 event held in China, Sixunited has showcased a palm-sized mini PC that's powered by an Intel Wildcat Lake CPU. The company didn't share detailed specs yet, but for its size, the system has a rich port configurat",
+      "content": "At the Intel Connection 2026 event held in China, Sixunited has showcased a palm-sized mini PC that's powered by an Intel Wildcat Lake CPU. The company didn't share detailed specs yet, but for its size, the system has a rich port configuration.",
+      "link": "https://www.notebookcheck.net/Palm-sized-Intel-Wildcat-Lake-mini-PC-debuts-with-rich-port-configuration.1409692.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Palm-sized-Intel-Wildcat-Lake-mini-PC-debuts-with-rich-port-configuration.1409692.0.html"
+    },
+    {
+      "id": 1490,
+      "title": "From the top of its game to just another Joe: Apple's cost-cutting spreads to the display",
+      "summary": "Independent testing points to Apple cutting corners on display quality in the iPhone 18 Pro lineup, with the flagship's Samsung-made OLED panel showing a notable regression amid pressure on panel pricing.",
+      "content": "Independent testing points to Apple cutting corners on display quality in the iPhone 18 Pro lineup, with the flagship's Samsung-made OLED panel showing a notable regression amid pressure on panel pricing.",
+      "link": "https://www.notebookcheck.net/From-the-top-of-its-game-to-just-another-Joe-Apple-s-cost-cutting-spreads-to-the-display.1409878.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/From-the-top-of-its-game-to-just-another-Joe-Apple-s-cost-cutting-spreads-to-the-display.1409878.0.html"
+    },
+    {
+      "id": 1491,
+      "title": "Affordable AMD-equipped Minix mini PC debuts with dual Gigabit Ethernet",
+      "summary": "Minix has quietly introduced ZR535, and at the core, it's an AMD-powered mini PC with a relatively dated Zen+ Ryzen APU. On the bright side, it's powerful enough to handle day-to-day tasks and media needs, and it has an affordable price tag",
+      "content": "Minix has quietly introduced ZR535, and at the core, it's an AMD-powered mini PC with a relatively dated Zen+ Ryzen APU. On the bright side, it's powerful enough to handle day-to-day tasks and media needs, and it has an affordable price tag.",
+      "link": "https://www.notebookcheck.net/Affordable-AMD-equipped-Minix-mini-PC-debuts-with-dual-Gigabit-Ethernet.1409698.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-AMD-equipped-Minix-mini-PC-debuts-with-dual-Gigabit-Ethernet.1409698.0.html"
+    },
+    {
+      "id": 1492,
+      "title": "This mini-PC has space for three SSDs, an internal power supply, and speakers",
+      "summary": "Three SSDs in a compact mini-PC? The Minisforum M2 Pro offers three M.2 slots and combines its extensive storage capabilities with fast hardware, USB4, and 10-Gbit LAN. Our review shows what else this mini-PC has to offer.",
+      "content": "Three SSDs in a compact mini-PC? The Minisforum M2 Pro offers three M.2 slots and combines its extensive storage capabilities with fast hardware, USB4, and 10-Gbit LAN. Our review shows what else this mini-PC has to offer.",
+      "link": "https://www.notebookcheck.net/This-mini-PC-has-space-for-three-SSDs-an-internal-power-supply-and-speakers.1408219.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/This-mini-PC-has-space-for-three-SSDs-an-internal-power-supply-and-speakers.1408219.0.html"
     },
     {
       "id": 1386,
