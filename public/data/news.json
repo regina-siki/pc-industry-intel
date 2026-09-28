@@ -1,7 +1,1005 @@
 {
-  "updatedAt": "2026-09-27",
-  "total": 1492,
+  "updatedAt": "2026-09-28",
+  "total": 1563,
   "list": [
+    {
+      "id": 1493,
+      "title": "非K超频玩法十年后依旧能行：i3-6100可直冲4GHz",
+      "summary": "近日一名网友在Reddit论坛发帖询问：自己手里的Intel酷睿i3-6100到底还能不能超频。要知道这颗处理器发布已超过10年，且是锁定倍频的非K型号，按正常情况并不属于可以自由超频的产品。 阅读全文",
+      "content": "<p><strong>近日一名网友在Reddit论坛发帖询问：自己手里的Intel酷睿i3-6100到底还能不能超频。</strong>要知道这颗处理器发布已超过10年，且是锁定倍频的非K型号，按正常情况并不属于可以自由超频的产品。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579920.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579920.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579920.htm"
+    },
+    {
+      "id": 1494,
+      "title": "盯上英伟达标识的卡车却偷到20吨沙子 窃贼空手而归",
+      "summary": "美国自动驾驶卡车企业PlusAI近日经历了一场颇具戏剧性的盗窃案。两辆印有英伟达和PlusAI标识的大型挂车深夜被人从加州弗里蒙特的仓库盗走，但窃贼很快发现，车厢里并非价值不菲的AI芯片或服务器设备，而是总计约20吨用于测试自动驾驶系统的沙子。 阅读全文",
+      "content": "<p>美国自动驾驶卡车企业PlusAI近日经历了一场颇具戏剧性的盗窃案。两辆印有英伟达和PlusAI标识的大型挂车深夜被人从加州弗里蒙特的仓库盗走，但窃贼很快发现，车厢里并非价值不菲的AI芯片或服务器设备，而是总计约20吨用于测试自动驾驶系统的沙子。</p> <a href=\"https://www.cnbeta.com.tw/articles/funny/1579916.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/funny/1579916.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/funny/1579916.htm"
+    },
+    {
+      "id": 1495,
+      "title": "台积电关联公司计划修建第二座新加坡芯片工厂",
+      "summary": "为满足不断增长的需求，台积电关联公司世界先进与荷兰公司恩智浦半导体的合资企业VisionPower Semiconductor Manufacturing Co．（简称VSMC）正在考虑修建第二座新加坡芯片厂。 阅读全文",
+      "content": "<p>为满足不断增长的需求，台积电关联公司世界先进与荷兰公司恩智浦半导体的合资企业VisionPower Semiconductor Manufacturing Co．（简称VSMC）正在考虑修建第二座新加坡芯片厂。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579906.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579906.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579906.htm"
+    },
+    {
+      "id": 1496,
+      "title": "黑客正大量劫持AI账户和服务器以夺取算力",
+      "summary": "对AI模型和算力的非法访问，正迅速成为网络犯罪地下世界中最炙手可热的商品。黑客试图利用昂贵的大语言模型进行勒索、战争和间谍活动。谷歌威胁情报集团（Google Threat Intelligence Group）首席分析师John Hultquist表示，该网络安全部门今年观察到所谓“LLM劫持”（LLM-jacking）攻击大幅增加，其中包括出售公共AI工具被盗的登录凭证，以及一些团体窃取算力资源，以便免费运行自己的模型。 阅读全文",
+      "content": "<p>对AI模型和算力的非法访问，正迅速成为网络犯罪地下世界中最炙手可热的商品。黑客试图利用昂贵的大语言模型进行勒索、战争和间谍活动。谷歌威胁情报集团（Google Threat Intelligence Group）首席分析师John Hultquist表示，该网络安全部门今年观察到所谓“LLM劫持”（LLM-jacking）攻击大幅增加，其中包括出售公共AI工具被盗的登录凭证，以及一些团体窃取算力资源，以便免费运行自己的模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579896.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579896.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579896.htm"
+    },
+    {
+      "id": 1497,
+      "title": "华为手机11月推子品牌星耀传闻再起 客服回应",
+      "summary": "近日行业内流出爆料称，华为手机业务大概率会在今年年底推出全新独立子品牌，相关消息刚在数码圈传开，就引来大批网友围观讨论。从目前披露的行业信息来看，华为手机板块正在酝酿一轮全新的子品牌布局，传闻中主打线上高性价比赛道的新品牌星耀，最快有望在今年11月就正式落地，同时已经运营多年的nova系列，也正在从原本的单一产品线，往独立子品牌的方向逐步演进。 阅读全文",
+      "content": "<p>近日行业内流出爆料称，华为手机业务大概率会在今年年底推出全新独立子品牌，相关消息刚在数码圈传开，就引来大批网友围观讨论。从目前披露的行业信息来看，华为手机板块正在酝酿一轮全新的子品牌布局，传闻中主打线上高性价比赛道的新品牌星耀，最快有望在今年11月就正式落地，同时已经运营多年的nova系列，也正在从原本的单一产品线，往独立子品牌的方向逐步演进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579878.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579878.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579878.htm"
+    },
+    {
+      "id": 1498,
+      "title": "日本正在争夺“光芯片时代”",
+      "summary": "AI算力的下一场产能竞赛，正在从GPU延伸到硅光芯片。晶圆代工厂Tower Semiconductor正在日本大举扩产硅光产能。Tower CEO Russell Ellwanger近日表示，AI数据中心正在推动硅光芯片需求快速增长，公司需要尽快扩大产能，日本将成为Tower全球最重要的光通信半导体生产基地之一。 阅读全文",
+      "content": "<p>AI算力的下一场产能竞赛，正在从GPU延伸到硅光芯片。晶圆代工厂Tower Semiconductor正在日本大举扩产硅光产能。Tower CEO Russell Ellwanger近日表示，AI数据中心正在推动硅光芯片需求快速增长，公司需要尽快扩大产能，日本将成为Tower全球最重要的光通信半导体生产基地之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579870.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579870.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579870.htm"
+    },
+    {
+      "id": 1499,
+      "title": "天降1万美元意外之财，美国这个乡村小镇为何仍抵制数据中心？",
+      "summary": "据《华尔街日报》报道，在美国宾夕法尼亚州黑兹尔镇，如果这里的居民同意建设数据中心，他们就可以获得1万美元。尽管这笔现金补偿颇具吸引力，但许多当地居民仍反对建设数据中心。 阅读全文",
+      "content": "<p>据《华尔街日报》报道，在美国宾夕法尼亚州黑兹尔镇，如果这里的居民同意建设数据中心，他们就可以获得1万美元。尽管这笔现金补偿颇具吸引力，但许多当地居民仍反对建设数据中心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579860.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579860.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579860.htm"
+    },
+    {
+      "id": 1500,
+      "title": "科学家研发无电机无电池弹性微型软体机器人 仅靠红外光照射即可实现无限次弹跳",
+      "summary": "美国北卡罗来纳州立大学科研团队成功研发出一款结构极度精简的微型软体弹跳机器人。该机器人全身不包含任何传统电机、齿轮、电池或电子控制芯片，厚度比一枚硬币还要纤薄，仅需在持续的红外光照射下，即可自主将光热转化为机械扭转弹性势能，完成从起跳、空中重置到再次蓄力起跳的无限次连续弹跳循环。 阅读全文",
+      "content": "<p>美国北卡罗来纳州立大学科研团队成功研发出一款结构极度精简的微型软体弹跳机器人。该机器人全身不包含任何传统电机、齿轮、电池或电子控制芯片，厚度比一枚硬币还要纤薄，仅需在持续的红外光照射下，即可自主将光热转化为机械扭转弹性势能，完成从起跳、空中重置到再次蓄力起跳的无限次连续弹跳循环。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1579846.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1579846.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1579846.htm"
+    },
+    {
+      "id": 1501,
+      "title": "微软为Excel测试重磅新功能：在单元格里存储多个值 列表和嵌套数组同步加入",
+      "summary": "微软日前正在测试可能改变 Excel 数据处理方式的新功能：单元格可以同时容纳多个结构化值。此次更新包括列表、单元格数组以及嵌套数组，支持该功能的新测试版正在向 Microsoft 365 Beta 用户推送，在测试完毕后该功能将陆续支持正式版用户。 阅读全文",
+      "content": "<p>微软日前正在测试可能改变 Excel 数据处理方式的新功能：单元格可以同时容纳多个结构化值。此次更新包括列表、单元格数组以及嵌套数组，支持该功能的新测试版正在向 Microsoft 365 Beta 用户推送，在测试完毕后该功能将陆续支持正式版用户。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1579840.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1579840.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1579840.htm"
+    },
+    {
+      "id": 1502,
+      "title": "英伟达 GeForce RTX 5090 成为热门走私商品",
+      "summary": "澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁，当中包括 7 名内地旅客、3 名澳门居民及 2 名香港居民。澳门海关已根据《对外贸易法》对涉案人士作出起诉，相关违法行为一经证实，可被科处最高 10 万澳元罚",
+      "content": "澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁，当中包括 7 名内地旅客、3 名澳门居民及 2 名香港居民。澳门海关已根据《对外贸易法》对涉案人士作出起诉，相关违法行为一经证实，可被科处最高 10 万澳元罚款，所缉获的货物亦会宣告归澳门特别行政区所有。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85493",
+      "source": "Solidot",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85493"
+    },
+    {
+      "id": 1503,
+      "title": "小偷想要偷英伟达芯片结果偷了 20 吨沙子",
+      "summary": "上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理 Jocelyn Ren 表示，两辆拖车里装载了总计 20 吨的沙子，公司在研发过程中利用沙子模拟实际货物的重量。拖车在距离失窃地点仅几分钟车程的地方找回，小偷",
+      "content": "上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理 Jocelyn Ren 表示，两辆拖车里装载了总计 20 吨的沙子，公司在研发过程中利用沙子模拟实际货物的重量。拖车在距离失窃地点仅几分钟车程的地方找回，小偷撬开了车后门发现没有值钱的东西之后就将其遗弃了。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85492",
+      "source": "Solidot",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85492"
+    },
+    {
+      "id": 1504,
+      "title": "苹果 watchOS 27.0.1 正式版发布",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 watchOS 27 发布历史： 2026-09-22：watchOS 27.2 Beta 2 (24S5091",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2022/4/8bd386fb-ecc7-474d-bd95-4c69ba122e7a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100\" w=\"900\" h=\"506\" alt=\"苹果 watchOS 操作系统\"> </p> <p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 </p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"0011\">附 watchOS 27 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/005/486.htm\" class=\"breakall\" target=\"_blank\">2026-09-22：watchOS 27.2 Beta 2 (24S5091f)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/1/003/345.htm\" class=\"breakall\" target=\"_blank\">2026-09-17：watchOS 27.2 Beta (24S5086l)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/1/002/332.htm\" class=\"breakall\" target=\"_blank\">2026-09-15：watchOS 27.0 (24R364)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/1/000/529.htm\" class=\"breakall\" target=\"_blank\">2026-09-10：watchOS 27.0 RC (24R363)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/996/693.htm\" class=\"breakall\" target=\"_blank\">2026-09-01：watchOS 27.0 Beta 8 (24R5360a)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/993/763.htm\" class=\"breakall\" target=\"_blank\">2026-08-25：watchOS 27.0 Beta 7 (24R5358a)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/990/864.htm\" class=\"breakall\" target=\"_blank\">2026-08-18：watchOS 27.0 Beta 6 (24R5353a)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/988/064.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：watchOS 27.0 Beta 5 (24R5347a)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/979/269.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：watchOS 27.0 Beta 4 (24R5325h)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/973/309.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：watchOS 27.0 Beta 3 (24R5315i)</a></p></li> <li><p data-vmark=\"000e\"><a href=\"https://www.ithome.com/0/967/702.htm\" class=\"breakall\" target=\"_blank\">2026-06-24：watchOS 27.0 Beta 2 (24R5305g)</a></p></li> <li><p data-vmark=\"000f\"><a href=\"https://www.ithome.com/0/961/687.htm\" class=\"breakall\" target=\"_blank\">2026-06-09：watchOS 27 Beta (24R5289n)</a></p></li> </ul> <p data-vmark=\"0010\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/008/070.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/070.htm"
+    },
+    {
+      "id": 1505,
+      "title": "苹果 iPadOS 26.7.1 正式版发布",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 26 发布历史： 2026-09-10：iPadOS 26.7 (23H24) 2026-09-09：iOS 26.6.2 (23G9",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 iPad 用户推送了 iPadOS 26.7.1 更新，本次更新距离上次发布正式版间隔 19 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2025/12/d0e15ea8-5fc4-406b-a093-9f0f02aee587.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100\" w=\"800\" h=\"600\" alt=\"苹果 iPadOS 26 操作系统\"> </p> <p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 </p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"003d\">附 iOS/iPadOS 26 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/000/564.htm\" class=\"breakall\" target=\"_blank\">2026-09-10：iPadOS 26.7 (23H24)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/0/999/950.htm\" class=\"breakall\" target=\"_blank\">2026-09-09：iOS 26.6.2 (23G90)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/0/988/065.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：iOS 26.6.1 (23G82)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/0/982/266.htm\" class=\"breakall\" target=\"_blank\">2026-07-28：iOS 26.6 (23G71)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/979/264.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：iOS 26.6 RC (23G71)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/976/249.htm\" class=\"breakall\" target=\"_blank\">2026-07-14：iOS 26.6 Beta 5 (23G5065a)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/973/310.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：iOS 26.6 Beta 4 (23G5057c)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/970/236.htm\" class=\"breakall\" target=\"_blank\">2026-06-30：iOS 26.6 Beta 3 (23G5052d)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/970/240.htm\" class=\"breakall\" target=\"_blank\">2026-06-30：iOS 26.5.2 (23F84)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/964/606.htm\" class=\"breakall\" target=\"_blank\">2026-06-16：iOS 26.6 Beta 2 (23G5043d)</a></p></li> <li><p data-vmark=\"000e\"><a href=\"https://www.ithome.com/0/958/446.htm\" class=\"breakall\" target=\"_blank\">2026-06-02：iOS 26.5.1 (23F81)</a></p></li> <li><p data-vmark=\"000f\"><a href=\"https://www.ithome.com/0/955/626.htm\" class=\"breakall\" target=\"_blank\">2026-05-27：iOS 26.6 Beta 1 (23G5028e)</a></p></li> <li><p data-vmark=\"0010\"><a href=\"https://www.ithome.com/0/949/034.htm\" class=\"breakall\" target=\"_blank\">2026-05-12：iOS 26.5 (23F77)</a></p></li> <li><p data-vmark=\"0011\"><a href=\"https://www.ithome.com/0/947/990.htm\" class=\"breakall\" target=\"_blank\">2026-05-09：iOS 26.5 RC 2 (23F77)</a></p></li> <li><p data-vmark=\"0012\"><a href=\"https://www.ithome.com/0/946/324.htm\" class=\"breakall\" target=\"_blank\">2026-05-05：iOS 26.5 RC (23F75)</a></p></li> <li><p data-vmark=\"0013\"><a href=\"https://www.ithome.com/0/944/199.htm\" class=\"breakall\" target=\"_blank\">2026-04-28：iOS 26.5 Beta 4 (23F5069b)</a></p></li> <li><p data-vmark=\"0014\"><a href=\"https://www.ithome.com/0/942/344.htm\" class=\"breakall\" target=\"_blank\">2026-04-23：iOS 26.4.2 (23E261)</a></p></li> <li><p data-vmark=\"0015\"><a href=\"https://www.ithome.com/0/941/376.htm\" class=\"breakall\" target=\"_blank\">2026-04-21：iOS 26.5 Beta 3 (23F5059e)</a></p></li> <li><p data-vmark=\"0016\"><a href=\"https://www.ithome.com/0/938/746.htm\" class=\"breakall\" target=\"_blank\">2026-04-14：iOS 26.5 Beta 2 (23F5054d)</a></p></li> <li><p data-vmark=\"0017\"><a href=\"https://www.ithome.com/0/937/204.htm\" class=\"breakall\" target=\"_blank\">2026-04-09：iOS 26.4.1 (23E254)</a></p></li> <li><p data-vmark=\"0018\"><a href=\"https://www.ithome.com/0/935/918.htm\" class=\"breakall\" target=\"_blank\">2026-04-04：iOS 26.5 Beta 1 (v2) (23F5043k)</a></p></li> <li><p data-vmark=\"0019\"><a href=\"https://www.ithome.com/0/934/272.htm\" class=\"breakall\" target=\"_blank\">2026-03-31：iOS 26.5 Beta (23F5043g)</a></p></li> <li><p data-vmark=\"001a\"><a href=\"https://www.ithome.com/0/932/302.htm\" class=\"breakall\" target=\"_blank\">2026-03-25：iOS 26.4 (23E246)</a></p></li> <li><p data-vmark=\"001b\"><a href=\"https://www.ithome.com/0/930/441.htm\" class=\"breakall\" target=\"_blank\">2026-03-19：iOS 26.4 RC (23E244)</a></p></li> <li><p data-vmark=\"001c\"><a href=\"https://www.ithome.com/0/927/387.htm\" class=\"breakall\" target=\"_blank\">2026-03-10：iOS 26.4 Beta 4 (23E5234a)</a></p></li> <li><p data-vmark=\"001d\"><a href=\"https://www.ithome.com/0/925/995.htm\" class=\"breakall\" target=\"_blank\">2026-03-05：iOS 26.3.1 (23D8133)</a></p></li> <li><p data-vmark=\"001e\"><a href=\"https://www.ithome.com/0/925/212.htm\" class=\"breakall\" target=\"_blank\">2026-03-03：iOS 26.4 Beta 3 (23E5223f)</a></p></li> <li><p data-vmark=\"001f\"><a href=\"https://www.ithome.com/0/923/007.htm\" class=\"breakall\" target=\"_blank\">2026-02-24：iOS 26.4 Beta 2 (23E5218e)</a></p></li> <li><p data-vmark=\"0020\"><a href=\"https://www.ithome.com/0/922/153.htm\" class=\"breakall\" target=\"_blank\">2026-02-17：iOS 26.4 Beta (23E5207q)</a></p></li> <li><p data-vmark=\"0021\"><a href=\"https://www.ithome.com/0/921/232.htm\" class=\"breakall\" target=\"_blank\">2026-02-12：iOS 26.3 (23D127)</a></p></li> <li><p data-vmark=\"0022\"><a href=\"https://www.ithome.com/0/919/307.htm\" class=\"breakall\" target=\"_blank\">2026-02-05：iPadOS 26.3 RC (23D125)</a></p></li> <li><p data-vmark=\"0023\"><a href=\"https://www.ithome.com/0/916/641.htm\" class=\"breakall\" target=\"_blank\">2026-01-27：iOS 26.2.1 (23C71)</a></p></li> <li><p data-vmark=\"0024\"><a href=\"https://www.ithome.com/0/916/647.htm\" class=\"breakall\" target=\"_blank\">2026-01-27：iOS 26.3 Beta 3 (23D5114d)</a></p></li> <li><p data-vmark=\"0025\"><a href=\"https://www.ithome.com/0/912/647.htm\" class=\"breakall\" target=\"_blank\">2026-01-13：iOS 26.3 Beta 2 (23D5103d)</a></p></li> <li><p data-vmark=\"0026\"><a href=\"https://www.ithome.com/0/905/218.htm\" class=\"breakall\" target=\"_blank\">2025-12-16：iOS 26.3 Beta (23D5089e)</a></p></li> <li><p data-vmark=\"0027\"><a href=\"https://www.ithome.com/0/904/660.htm\" class=\"breakall\" target=\"_blank\">2025-12-13：iOS 26.2 (23C55)</a></p></li> <li><p data-vmark=\"0028\"><a href=\"https://www.ithome.com/0/902/299.htm\" class=\"breakall\" target=\"_blank\">2025-12-04：iOS 26.2 RC (23C52)</a></p></li> <li><p data-vmark=\"0029\"><a href=\"https://www.ithome.com/0/898/135.htm\" class=\"breakall\" target=\"_blank\">2025-11-18：iOS 26.2 Beta 3 (23C5044b)</a></p></li> <li><p data-vmark=\"002a\"><a href=\"https://www.ithome.com/0/897/036.htm\" class=\"breakall\" target=\"_blank\">2025-11-13：iOS 26.2 Beta 2 (23C5033g)</a></p></li> <li><p data-vmark=\"002b\"><a href=\"https://www.ithome.com/0/894/911.htm\" class=\"breakall\" target=\"_blank\">2025-11-05：iOS 26.2 Beta (23C5027f)</a></p></li> <li><p data-vmark=\"002c\"><a href=\"https://www.ithome.com/0/894/629.htm\" class=\"breakall\" target=\"_blank\">2025-11-04：iOS 26.1 (23B85)</a></p></li> <li><p data-vmark=\"002d\"><a href=\"https://www.ithome.com/0/893/104.htm\" class=\"breakall\" target=\"_blank\">2025-10-29：iOS 26.1 RC (23B82)</a></p></li> <li><p data-vmark=\"002e\"><a href=\"https://www.ithome.com/0/890/970.htm\" class=\"breakall\" target=\"_blank\">2025-10-21：iOS 26.1 Beta 4 (23B5073a)</a></p></li> <li><p data-vmark=\"002f\"><a href=\"https://www.ithome.com/0/889/178.htm\" class=\"breakall\" target=\"_blank\">2025-10-14：iOS 26.1 Beta 3 (23B5064e)</a></p></li> <li><p data-vmark=\"0030\"><a href=\"https://www.ithome.com/0/887/791.htm\" class=\"breakall\" target=\"_blank\">2025-10-07：iOS 26.1 Beta 2 (23B5059e)</a></p></li> <li><p data-vmark=\"0031\"><a href=\"https://www.ithome.com/0/886/762.htm\" class=\"breakall\" target=\"_blank\">2025-09-30：iOS 26.0.1 (23A355)</a></p></li> <li><p data-vmark=\"0032\"><a href=\"https://www.ithome.com/0/884/949.htm\" class=\"breakall\" target=\"_blank\">2025-09-26：iOS 26.1 Beta (23B5044l)</a></p></li> <li><p data-vmark=\"0033\"><a href=\"https://www.ithome.com/0/883/195.htm\" class=\"breakall\" target=\"_blank\">2025-09-16：iOS 26 (23A341)</a></p></li> <li><p data-vmark=\"0034\"><a href=\"https://www.ithome.com/0/879/982.htm\" class=\"breakall\" target=\"_blank\">2025-09-03：iOS 26 Beta 9 (23A5336a)</a></p></li> <li><p data-vmark=\"0035\"><a href=\"https://www.ithome.com/0/877/980.htm\" class=\"breakall\" target=\"_blank\">2025-08-26：iOS 26 Beta 8 (23A5330a)</a></p></li> <li><p data-vmark=\"0036\"><a href=\"https://www.ithome.com/0/876/318.htm\" class=\"breakall\" target=\"_blank\">2025-08-19：iOS 26 Beta 7 (23A5326a)</a></p></li> <li><p data-vmark=\"0037\"><a href=\"https://www.ithome.com/0/874/642.htm\" class=\"breakall\" target=\"_blank\">2025-08-12：iOS 26 Beta 6 (23A5318c)</a></p></li> <li><p data-vmark=\"0038\"><a href=\"https://www.ithome.com/0/873/293.htm\" class=\"breakall\" target=\"_blank\">2025-08-06：iOS 26 Beta 5 (23A5308g)</a></p></li> <li><p data-vmark=\"0039\"><a href=\"https://www.ithome.com/0/870/011.htm\" class=\"breakall\" target=\"_blank\">2025-07-23：iOS 26 Beta 4 (23A5297i)</a></p></li> <li><p data-vmark=\"003a\"><a href=\"https://www.ithome.com/0/866/447.htm\" class=\"breakall\" target=\"_blank\">2025-07-08：iOS 26 Beta 3 (23A5287g)</a></p></li> <li><p data-vmark=\"003b\"><a href=\"https://www.ithome.com/0/863/156.htm\" class=\"breakall\" target=\"_blank\">2025-06-24：iOS 26 Beta 2 (23A5276f)</a></p></li> </ul> <p data-vmark=\"003c\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/008/069.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/069.htm"
+    },
+    {
+      "id": 1506,
+      "title": "苹果 visionOS 27.0.1 正式版发布",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-09-22：visionOS 27.2 Beta 2 (24N50",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0.1 更新（内部版本号：24M372），本次更新距离上次发布正式版间隔 14 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2024/2/0a176a39-e916-49c8-ba8b-1241019bd125.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"450\" alt=\"苹果 visionOS 操作系统\"> </p><p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。</p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"0011\">附 visionOS 27 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/005/485.htm\" class=\"breakall\" target=\"_blank\">2026-09-22：visionOS 27.2 Beta 2 (24N5093f)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/1/003/344.htm\" class=\"breakall\" target=\"_blank\">2026-09-17：visionOS 27.2 Beta (24N5088l)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/1/002/331.htm\" class=\"breakall\" target=\"_blank\">2026-09-15：visionOS 27.0 (24M362)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/1/000/528.htm\" class=\"breakall\" target=\"_blank\">2026-09-10：visionOS 27.0 RC (24M362)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/996/692.htm\" class=\"breakall\" target=\"_blank\">2026-09-01：visionOS 27.0 Beta 8 (24M5361a)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/993/762.htm\" class=\"breakall\" target=\"_blank\">2026-08-25：visionOS 27.0 Beta 7 (24M5359a)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/990/863.htm\" class=\"breakall\" target=\"_blank\">2026-08-18：visionOS 27.0 Beta 6 (24M5355a)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/988/063.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：visionOS 27.0 Beta 5 (24M5348b)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/979/268.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：visionOS 27.0 Beta 4 (24M5326g)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/973/308.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：visionOS 27.0 Beta 3 (24M5316k)</a></p></li> <li><p data-vmark=\"000e\"><a href=\"https://www.ithome.com/0/967/243.htm\" class=\"breakall\" target=\"_blank\">2026-06-23：visionOS 27.0 Beta 2 (24M5306i)</a></p></li> <li><p data-vmark=\"000f\"><a href=\"https://www.ithome.com/0/961/686.htm\" class=\"breakall\" target=\"_blank\">2026-06-09：visionOS 27 Beta (24M5291p)</a></p></li> </ul> <p data-vmark=\"0010\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/008/068.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/068.htm"
+    },
+    {
+      "id": 1507,
+      "title": "苹果 macOS 27.0.1 正式版发布",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 27 发布历史： 2026-09-22：macOS 27.2 Beta 2 (26B5091g) 2026-09-1",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0.1 更新（内部版本号：26A434），本次更新距离上次发布正式版间隔 14 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2022/4/43319a24-e228-40a9-9047-44c5a77893d4.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100\" w=\"900\" h=\"506\" alt=\"苹果 macOS 操作系统\"> </p> <p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 </p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"0011\">附 macOS 27 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/005/484.htm\" class=\"breakall\" target=\"_blank\">2026-09-22：macOS 27.2 Beta 2 (26B5091g)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/1/003/343.htm\" class=\"breakall\" target=\"_blank\">2026-09-17：macOS 27.2 Beta (26B5086k)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/1/002/330.htm\" class=\"breakall\" target=\"_blank\">2026-09-15：macOS 27.0 (26A428)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/1/000/527.htm\" class=\"breakall\" target=\"_blank\">2026-09-10：macOS 27.0 RC (26A428)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/996/691.htm\" class=\"breakall\" target=\"_blank\">2026-09-01：macOS 27.0 Beta 8 (26A5425a)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/993/761.htm\" class=\"breakall\" target=\"_blank\">2026-08-25：macOS 27.0 Beta 7 (26A5421a)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/990/862.htm\" class=\"breakall\" target=\"_blank\">2026-08-18：macOS 27.0 Beta 6 (26A5416b)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/988/062.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：macOS 27.0 Beta 5 (26A5406e)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/979/263.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：macOS 27.0 Beta 4 (26A5388g)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/973/307.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：macOS 27.0 Beta 3 (26A5378j)</a></p></li> <li><p data-vmark=\"000e\"><a href=\"https://www.ithome.com/0/967/242.htm\" class=\"breakall\" target=\"_blank\">2026-06-23：macOS 27.0 Beta 2 (26A5368g)</a></p></li> <li><p data-vmark=\"000f\"><a href=\"https://www.ithome.com/0/961/685.htm\" class=\"breakall\" target=\"_blank\">2026-06-09：macOS 27 Beta (26A5353q)</a></p></li> </ul> <p data-vmark=\"0010\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/008/067.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/067.htm"
+    },
+    {
+      "id": 1508,
+      "title": "苹果 iOS/iPadOS 27.0.1 正式版发布",
+      "summary": "IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 iOS/iPadOS 27 发布历史： 2026-09-22：iOS 27.2 Beta 2 (24B",
+      "content": "<p data-vmark=\"0000\"> IT之家 9 月 29 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0.1 更新（内部版本号：24A446），本次更新距离上次发布正式版间隔 14 天。</p> <p style=\"text-align: center;\" data-vmark=\"0001\"> <img src=\"https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100\" w=\"900\" h=\"506\" alt=\"苹果 iOS 操作系统\"> </p> <p data-vmark=\"0002\"> 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 </p><p data-vmark=\"0003\"> 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。</p> <h3 data-vmark=\"0010\">附 iOS/iPadOS 27 发布历史：</h3> <ul class=\"custom_reference\"> <li><p data-vmark=\"0004\"><a href=\"https://www.ithome.com/1/005/483.htm\" class=\"breakall\" target=\"_blank\">2026-09-22：iOS 27.2 Beta 2 (24B5089g)</a></p></li> <li><p data-vmark=\"0005\"><a href=\"https://www.ithome.com/1/003/342.htm\" class=\"breakall\" target=\"_blank\">2026-09-17：iOS 27.2 Beta (24B5084k)</a></p></li> <li><p data-vmark=\"0006\"><a href=\"https://www.ithome.com/1/002/329.htm\" class=\"breakall\" target=\"_blank\">2026-09-15：iOS 27.0 (24A437)</a></p></li> <li><p data-vmark=\"0007\"><a href=\"https://www.ithome.com/0/996/690.htm\" class=\"breakall\" target=\"_blank\">2026-09-01：iOS 27.0 Beta 8 (24A5430a)</a></p></li> <li><p data-vmark=\"0008\"><a href=\"https://www.ithome.com/0/993/760.htm\" class=\"breakall\" target=\"_blank\">2026-08-25：iOS 27.0 Beta 7 (24A5424a)</a></p></li> <li><p data-vmark=\"0009\"><a href=\"https://www.ithome.com/0/990/861.htm\" class=\"breakall\" target=\"_blank\">2026-08-18：iOS 27.0 Beta 6 (24A5418b)</a></p></li> <li><p data-vmark=\"000a\"><a href=\"https://www.ithome.com/0/988/061.htm\" class=\"breakall\" target=\"_blank\">2026-08-11：iOS 27.0 Beta 5 (24A5408d)</a></p></li> <li><p data-vmark=\"000b\"><a href=\"https://www.ithome.com/0/979/262.htm\" class=\"breakall\" target=\"_blank\">2026-07-21：iOS 27.0 Beta 4 (24A5390f)</a></p></li> <li><p data-vmark=\"000c\"><a href=\"https://www.ithome.com/0/973/306.htm\" class=\"breakall\" target=\"_blank\">2026-07-07：iOS 27.0 Beta 3 (24A5380h)</a></p></li> <li><p data-vmark=\"000d\"><a href=\"https://www.ithome.com/0/967/241.htm\" class=\"breakall\" target=\"_blank\">2026-06-23：iOS 27.0 Beta 2 (24A5370h)</a></p></li> <li><p data-vmark=\"000e\"><a href=\"https://www.ithome.com/0/961/684.htm\" class=\"breakall\" target=\"_blank\">2026-06-09：iOS 27 Beta (24A5355q)</a></p></li> </ul> <p data-vmark=\"000f\"> IT之家小伙伴如果找到更多新内容，可以在投稿或评论区中提出你的发现~[微笑] </p>",
+      "link": "https://www.ithome.com/1/008/066.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/066.htm"
+    },
+    {
+      "id": 1509,
+      "title": "HMD 106 Pure 手机悄然发布，仅支持 2G 网络",
+      "summary": "IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络，售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元）。 据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。 规格方面，该手机配备一块 1.8 英寸 QQVGA（120*160）显示屏，运行 S30+ 操作系统。配备 3.5mm 耳机接口，支持 FM 收音机，拥有 microSD 卡槽，最高支持",
+      "content": "<p data-vmark=\"b226\">IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络，<strong>售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元）</strong>。</p><p style=\"text-align: center;\" data-vmark=\"06b3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c83d9b51-0571-4d91-bfb7-ba8cf9c48b0c.png?x-bce-process=image/format,f_auto\" w=\"1198\" h=\"1284\" data-weibo=\"0\" data-vmark=\"8585\" class=\"no-alt-img\"></p><p data-vmark=\"7037\">据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。</p><p data-vmark=\"d0fd\">规格方面，<strong>该手机配备一块 1.8 英寸 QQVGA（120*160）显示屏</strong>，运行 S30+ 操作系统。配备 3.5mm 耳机接口，支持 FM 收音机，拥有 microSD 卡槽，最高支持 32GB 存储卡。</p><p style=\"text-align: center;\" data-vmark=\"16e8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e8b9dc47-e876-4413-9901-cd177d33a984.png?x-bce-process=image/format,f_auto\" w=\"1310\" h=\"1310\" data-weibo=\"1\" data-vmark=\"03c1\" class=\"no-alt-img\"></p><p data-vmark=\"338e\">此外，该手机拥有后置摄像头，<strong>可拍摄 320*240 分辨率的照片</strong>。<strong>配备 1000mAh 可拆卸电池</strong>，从渲染图来看，这款手机应该搭载了 USB-C 接口。</p>",
+      "link": "https://www.ithome.com/1/008/062.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/062.htm"
+    },
+    {
+      "id": 1510,
+      "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
+      "summary": "IT之家 9 月 28 日消息，据晚点 LatePost 今晚消息，小米 9 月 22 日对内发布晋升名单，31 岁的小米大模型团队负责人罗福莉晋升至 22 级，还有若干其他业务负责人也获得了晋升。 接近小米的人士称，22 级已是小米职级体系的最高级别，继续晋升主要体现为职务变化。 据IT之家此前报道，9 月 22 日当天，小米正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。 得益于 RL 算力的扩展，MiMo",
+      "content": "<p data-vmark=\"5140\">IT之家 9 月 28 日消息，据晚点 LatePost 今晚消息，小米 9 月 22 日对内发布晋升名单，31 岁的<strong>小米大模型团队负责人罗福莉晋升至 22 级</strong>，还有若干其他业务负责人也获得了晋升。</p><p data-vmark=\"01ea\">接近小米的人士称，<strong>22 级已是小米职级体系的最高级别</strong>，继续晋升主要体现为职务变化。</p><p data-vmark=\"3b25\">据IT之家此前报道，9 月 22 日当天，<a target=\"_blank\" href=\"https://www.ithome.com/1/005/496.htm\">小米正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列</a>，包含 Pro 与 Flash 两个原生全模态模型。</p><p data-vmark=\"2efe\">得益于 RL 算力的扩展，MiMo-V2.6-Pro 在 Artificial Analysis Intelligence Index（AA 综合智能指数）v4.3.2 中取得 46 分，超过 Kimi K3（44 分）和 GLM-5.3（45 分），成为当前 AA 指数上排名最高的开源权重模型，较其前代 MiMo-V2.5-Pro 的 26 分高出 20 分。</p><p style=\"text-align: center;\" data-vmark=\"4bf4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/36f31518-3834-4e9d-a294-9236dfabdceb.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"674\" data-weibo=\"0\" data-vmark=\"5978\" class=\"no-alt-img\"></p><p data-vmark=\"422b\">今年 7 月，<a target=\"_blank\" href=\"https://www.ithome.com/0/973/492.htm\">小米调整小爱同学组织架构</a>，将技术能力拆分为基础模型、云端和端侧三部分。其中，<strong>基础模型能力由罗福莉负责的 MiMo 团队提供</strong>，手机、汽车等业务的 OS 团队负责端侧能力，栾剑负责云端工程化。</p>",
+      "link": "https://www.ithome.com/1/008/056.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/056.htm"
+    },
+    {
+      "id": 1511,
+      "title": "华为联合上海电信部署超 3400 个 5G-A 3CC 基站：上行峰值达 1Gbps，下行近 4Gbps",
+      "summary": "IT之家 9 月 28 日消息，华为官方今日发文称，华为联合中国电信在上海已部署 2.1GHz+3.5GHz 5G-A 3CC 站点超 3400 站。依托 F+T 多载波聚合与大上行技术，该基站可实现上行峰值速率 1Gbps、下行峰值速率近 4Gbps。 目前，上海核心城区商圈、步行街等重点区域已实现 20Mbps 上行连续覆盖。VIP 用户可享下行 3Gbps、上行 500Mbps 峰值速率，调度优先级提升。上海电信预计，2026 年底将覆盖上海全域中心城区。 IT之家注：",
+      "content": "<p data-vmark=\"b0e5\">IT之家 9 月 28 日消息，华为官方今日发文称，华为联合中国电信在上海已部署 2.1GHz+3.5GHz 5G-A 3CC 站点超 3400 站。依托 F+T 多载波聚合与大上行技术，该基站可实现上行峰值速率 1Gbps、下行峰值速率近 4Gbps。</p><p data-vmark=\"017a\">目前，上海核心城区商圈、步行街等重点区域已实现 20Mbps 上行连续覆盖。VIP 用户可享下行 3Gbps、上行 500Mbps 峰值速率，调度优先级提升。上海电信预计，2026 年底将覆盖上海全域中心城区。</p><p data-vmark=\"1156\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/af136f29-95b8-423a-b80a-046c6bd1be75.jpg\" w=\"1080\" h=\"945\" data-weibo=\"0\" data-vmark=\"fd97\" class=\"no-alt-img\"></p><p data-vmark=\"310a\">IT之家注：5G-A 即 5G-Advanced，是 5G 向 6G 演进的关键阶段；3CC 指三载波聚合，通过聚合多个频段提升速率。</p><p data-vmark=\"93f1\">上海电信表示，近点极致体验商用套餐已上线。上海松江完成 X 倍速端到端商用验证，VIP 用户速率可达普通用户 2 倍，且不影响普通用户。</p><p data-vmark=\"8a0f\">同时，全场景业务差异化保障套餐已上线。2026 年在黄浦区友好用户片区，基于智能板与动态切片落地微信语音、视频会议保障。</p><p data-vmark=\"1d51\">2025 年，上海电信联合华为打造黄浦江“水陆空”立体网络，游轮端部署 CPE 与室内分布系统，上线 AI 眼镜租赁，支持多语种讲解与实时翻译。</p><p data-vmark=\"cfce\">2026 年 6 月，西岸美术馆样板点展示 AI 眼镜沉浸式看展，并对比 2.1GHz 8T8R 与 1.8GHz 4T4R 网络下豆包多模态业务响应差异。</p><p data-vmark=\"721f\">2026 年 8 月，上海电信启动 5G-A 大上行 500Mbps 场景包试点，覆盖上海体育场、豫园、外滩。外滩上行峰值稳定超 500Mbps，100Mbps 体验满足度超 99%。</p><p data-vmark=\"8a1e\">2026 年 3 月，上海电信建成全国首张 5G-A×AI 大上行商用网络。目前技术能力已就绪，面向政务、文旅、医疗等行业的商业化闭环正在构建。</p>",
+      "link": "https://www.ithome.com/1/008/049.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/049.htm"
+    },
+    {
+      "id": 1512,
+      "title": "ACEMAGIC 推出全球首款锐龙 AI Max+ PRO 495 处理器的 AI 迷你工作站，6499 美元",
+      "summary": "IT之家 9 月 28 日消息，ACEMAGIC 今天宣布推出 F9A 迷你主机，这是全球首款搭载锐龙 AI Max+ 495 处理器的 AI 工作站，配备 192GB 内存和 2TB 硬盘，定价 6,499 美元（IT之家注：现汇率约合 43,670 元人民币）。 据介绍，这款工作站采用铝合金机身，两侧带有散热开孔。整机尺寸仅 158.5*158.5*81.5mm，重量 1.4kg，面向 AI 开发者、专业创作者等群体。 规格方面，这款工作站配备 192GB LPDDR5X",
+      "content": "<p data-vmark=\"5470\">IT之家 9 月 28 日消息，ACEMAGIC 今天宣布推出 F9A 迷你主机，这是全球首款搭载锐龙 AI Max+ 495 处理器的 AI 工作站，<strong>配备 192GB 内存和 2TB 硬盘</strong>，定价 6,499 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 43,670 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"ea0a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a26584ac-7ae6-43f7-979d-3498716d911c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"744\" data-weibo=\"0\" data-vmark=\"65ab\" class=\"no-alt-img\"></p><p data-vmark=\"7e6e\">据介绍，这款工作站采用铝合金机身，两侧带有散热开孔。整机尺寸仅 158.5*158.5*81.5mm，重量 1.4kg，面向 AI 开发者、专业创作者等群体。</p><p style=\"text-align: center;\" data-vmark=\"7deb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ec7f267e-ae65-4926-bfed-f8a82650c555.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"1\" data-vmark=\"c42c\" class=\"no-alt-img\"></p><p data-vmark=\"6afe\">规格方面，这款工作站配备 192GB LPDDR5X-8533 统一内存，最高可将 160GB 分配给显存，本地运行大语言模型。该机配备两个 M.2 2280 NVMe PCIe 4.0x4 SSD 插槽，最高支持扩展 8TB 存储空间。</p><p style=\"text-align: center;\" data-vmark=\"7060\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fc4de14e-0b90-4ab1-880d-06a1efa21e14.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"2\" data-vmark=\"2161\" class=\"no-alt-img\"></p><p data-vmark=\"c5de\">此外，该机还将配备 USB4、DP、OCuLink、HDMI、USB-A、2.5GbE 等接口，支持 Wi-Fi7 和蓝牙 5.4。</p>",
+      "link": "https://www.ithome.com/1/008/043.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/043.htm"
+    },
+    {
+      "id": 1513,
+      "title": "AYANEO 推出竖版安卓掌机 KONKR Pocket BLOCK：联发科 Helio G85，售价 499 元起",
+      "summary": "IT之家 9 月 28 日消息，AYANEO 今晚发布竖版袖珍安卓掌机 KONKR Pocket BLOCK，售价 499 元起： 2GB+32GB：499 元 3GB+64GB：599 元 IT之家获悉，这款新品尺寸为 113.2mm × 77.4mm × 19.8mm，重约 165g；搭载 3.33 英寸 4:3 LCD 屏幕，分辨率 960 × 720、360 PPI，能以点对点方式还原复古游戏画面。 这款掌机搭载联发科 Helio G85 芯片；配备 USB 2.0 ",
+      "content": "<p data-vmark=\"f48b\">IT之家 9 月 28 日消息，AYANEO 今晚发布竖版袖珍安卓掌机 KONKR Pocket BLOCK，<strong>售价 499 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c0c1\">2GB+32GB：499 元</p></li><li><p data-vmark=\"6192\">3GB+64GB：599 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"bca8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8fe3c728-2aca-4f38-85dd-a916da0472bc.jpg?x-bce-process=image/format,f_auto\" w=\"811\" h=\"608\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1cb67ed7f90cef3e508b219af5328b9827dff2f82f9bd63d2980cdde48d3cb902b61df64a439c73b5\" data-vmark=\"0275\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c46d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b820d4f6-ca94-4c03-bf5d-fe5302517a41.jpg\" w=\"1080\" h=\"488\" data-vmark=\"5a06\" data-weibo=\"1\"  class=\"no-alt-img\"></p><p data-vmark=\"6653\">IT之家获悉，这款新品尺寸为 113.2mm × 77.4mm × 19.8mm，重约 165g；搭载 3.33 英寸 4:3 LCD 屏幕，分辨率 960 × 720、360 PPI，能以点对点方式还原复古游戏画面。</p><p style=\"text-align: center;\" data-vmark=\"e67d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/249f23ef-31ec-4c25-afea-31b3c7ed25ed.jpg\" w=\"1080\" h=\"608\" data-vmark=\"72b6\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"692f\">这款掌机搭载<strong>联发科 Helio G85 芯片</strong>；配备 USB 2.0 Type-C 接口，支持数据传输与 PD 快充；拥有 MicroSD 卡槽、Wi-Fi 5、蓝牙 5.0 以及 3.5mm 耳机接口。</p><p style=\"text-align: center;\" data-vmark=\"337c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1391a115-d64e-4a77-a03f-ae30ddc91b51.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"3\" data-vmark=\"4cff\" class=\"no-alt-img\"></p><p data-vmark=\"eea3\">KONKR Pocket BLOCK 采用经典十字键与 ABXY 按键布局，并配备完整的 L1/R1、L2/R2 肩键以及 START/SELECT 功能键；AYA 键、“1/2”键与“=”键提供快捷功能，并支持自定义。</p><p style=\"text-align: center;\" data-vmark=\"d194\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/82bc91bb-9a23-4ed2-9451-2d195a4bffc3.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"4\" data-vmark=\"6bfa\" class=\"no-alt-img\"></p><p data-vmark=\"6f16\">官方表示，这款新品拥有 AYANEO 的自研安卓软件生态，支持游戏导入、多平台管理、云端数据刮削、桌面布局以及掌机设置等功能。</p><p style=\"text-align: center;\" data-vmark=\"b808\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/94391adf-5e63-4143-97d0-0fd6c33de786.jpg\" w=\"1080\" h=\"608\" data-vmark=\"f9bb\" data-weibo=\"5\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/042.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/042.htm"
+    },
+    {
+      "id": 1514,
+      "title": "神舟优雅 X6 轻薄本新增酷睿 i5-13420H、16GB+500GB 配置，3999 元",
+      "summary": "IT之家 9 月 28 日消息，神舟优雅 X6 在原有 i5-12450H、16GB、512GB 配置的基础上新增了一款 i5-13420H、16GB、500GB 的新型号，定价为 3999 元。 京东神舟（HASEE）优雅 X6 轻薄本商务办公本笔记本电脑 16 英寸 i5-13420H 16GB 500G WiFi6 银色 3999 元直达链接 该机搭载 13 代英特尔酷睿 i5-13420H 处理器，共 8 核心 12 线程（4 个性能核 + 4 个能效核），配备 12",
+      "content": "<p data-vmark=\"0000\">IT之家 9 月 28 日消息，神舟优雅 X6 在原有 i5-12450H、16GB、512GB 配置的基础上新增了一款 i5-13420H、16GB、500GB 的新型号，定价为 3999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4DH9h0W\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4DHpJJG\" data-iosurl=\"https://u.jd.com/4OHfAVf\" data-androidurl=\"https://u.jd.com/4OHksRa\" data-hosnexturl=\"https://u.jd.com/41HRKCd\" data-hosurl=\"https://u.jd.com/4aHXaDc\" data-uwpurl=\"https://u.jd.com/4gHB9CH\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4aHJjEq%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4DHZNep\" data-lpwxurl=\"https://u.jd.com/41HAlsL\"   data-ncid=\"244513\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/522138/4/14955/87849/6aba1df3Fc433ec3c/0083320320471fc1.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">神舟（HASEE）优雅 X6 轻薄本商务办公本笔记本电脑</span></span><span class=\"card-abstract\"> 16 英寸 i5-13420H 16GB 500G WiFi6 银色</span><span class=\"card-controls\"><span class=\"price\"> 3999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"0001\">该机搭载 13 代英特尔酷睿 i5-13420H 处理器，共 8 核心 12 线程（4 个性能核 + 4 个能效核），配备 12MB 英特尔智能高速缓存，单核睿频至高可达 4.6 GHz；除此之外，该机还搭载 16GB DDR4 内存，搭配 500GB PCIe 4.0 固态硬盘。</p><p style=\"text-align: center;\" data-vmark=\"a2d9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d90efb6d-ad7e-4f7f-b7fa-e7f84f2ab3c0.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"720\" data-weibo=\"0\"  data-vmark=\"9f9f\" class=\"no-alt-img\"></p><p data-vmark=\"0005\">这款产品配备 16 英寸 IPS 窄边框高清屏（IT之家注：45% NTSC 色域），分辨率为 1920*1200，屏占比高达 89%。机身设计方面，优雅 X6 采用 A 面金属材质，使用镍片 logo、CNC 工艺；机身厚约 19.6 mm，重约 1.8 kg。</p><p data-vmark=\"000b\">其他方面，这款笔记本配备了带物理防窥开关的 200 万像素高清摄像头；键盘（键程 1.4 mm）配备白色背光，可通过 F6 开启，支持两档亮度调节，搭配 96 键布局并带有数字小键盘；内置 60Wh 电池；侧面提供全功能 USB-C、HDMI 接口、两个 USB 3.2、音频接口以及防盗锁孔；预装正版 Windows 11 家庭版，支持 WiFi 6 和蓝牙。</p><p style=\"text-align: center;\" data-vmark=\"ac28\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/227e2679-9554-4734-86dd-ed02dd7abbdc.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"758\" data-weibo=\"1\" alt=\"接口介绍\" data-vmark=\"fc98\"></p>",
+      "link": "https://www.ithome.com/1/008/041.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/041.htm"
+    },
+    {
+      "id": 1515,
+      "title": "小米 18 标准版手机配置曝光：6.4 英寸 1.5K 直屏、骁龙 8E6 芯片",
+      "summary": "IT之家 9 月 28 日消息，据微博博主 @熊猫很禿然 今日透露，小米 18 标准版预计将搭载 6.4 英寸 1.5K M11 直屏，预计 12 月左右发布。 据介绍，这款手机将搭载骁龙 8 Elite Gen 6 芯片，配备 7200mAh 电池，支持 100W 有线充电，以及无线充电。拥有 2 亿像素 1/1.28 英寸主摄、5000 万像素超广角，以及 2 亿像素 3 倍长焦。 据IT之家此前报道，一款型号为 M261DB 的小米新机于 9 月 23 日通过工信部无线",
+      "content": "<p data-vmark=\"43a3\">IT之家 9 月 28 日消息，据微博博主 @熊猫很禿然 今日透露，小米 18 标准版预计将搭载 6.4 英寸 1.5K M11 直屏，<strong>预计 12 月左右发布</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6a9c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/999db8ae-b2f7-4edc-bf59-b74f9fd631d3.png?x-bce-process=image/format,f_auto\" w=\"1276\" h=\"458\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6734482564%2FRk9UXr2sb%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1cc4cd5c9678a293a6f02520e0c4679c41d1c1140847c08ed007a5c2f1efd0289b26a19cf8831e142\" data-vmark=\"25e9\" class=\"no-alt-img\"></p><p data-vmark=\"1359\">据介绍，<strong>这款手机将搭载骁龙 8 Elite Gen 6 芯片</strong>，配备 7200mAh 电池，支持 100W 有线充电，以及无线充电。拥有 2 亿像素 1/1.28 英寸主摄、5000 万像素超广角，以及 2 亿像素 3 倍长焦。</p><p data-vmark=\"7d96\"><a href=\"https://www.ithome.com/1/007/556.htm\" target=\"_blank\">据IT之家此前报道</a>，一款型号为 M261DB 的小米新机于 9 月 23 日通过工信部无线电核准，预计为小米 18 标准版。此前有网友在微博询问小米集团合伙人、总裁 @卢伟冰 有关小米 18 标准版的消息，卢伟冰回复称：有的，后面会单独发。</p><p style=\"text-align: center;\" data-vmark=\"b54e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e4d4176f-03bf-4a43-b8a8-782c46bb222f.jpg\" w=\"611\" h=\"1053\" data-weibo=\"1\" data-vmark=\"3c70\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/038.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/038.htm"
+    },
+    {
+      "id": 1516,
+      "title": "长鑫科技：拟 241 亿元和 108 亿元分别投建技术研发项目、存储器晶圆后道测试基地二期项目",
+      "summary": "IT之家 9 月 28 日消息，长鑫科技 9 月 28 日晚间发布关于使用部分超募资金投资建设新项目的公告。 长鑫科技拟使用超募资金 130 亿元投资新建技术研发项目，同时拟通过增资和借款方式向全资子公司长鑫存储产品 (合肥) 有限公司提供超募资金 50 亿元，由其投资新建存储器晶圆后道测试基地二期项目。 IT之家附项目基本情况如下： 技术研发项目：主要用于技术研发，项目总投资金额 241 亿元，建设周期 30 个月。 长鑫存储产品（合肥）有限公司存储器晶圆后道测试基地二期项",
+      "content": "<p data-vmark=\"6b5b\">IT之家 9 月 28 日消息，长鑫科技 9 月 28 日晚间发布关于使用部分超募资金投资建设新项目的公告。</p><p data-vmark=\"56fe\">长鑫科技拟使用超募资金 130 亿元投资新建<strong>技术研发项目</strong>，同时拟通过增资和借款方式向全资子公司长鑫存储产品 (合肥) 有限公司提供超募资金 50 亿元，由其投资新建<strong>存储器晶圆后道测试基地二期项目</strong>。</p><p data-vmark=\"9685\">IT之家附项目基本情况如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"7f0f\">技术研发项目：主要用于技术研发，项目总投资金额 241 亿元，建设周期 30 个月。</p></li><li><p data-vmark=\"0a27\">长鑫存储产品（合肥）有限公司存储器晶圆后道测试基地二期项目：<strong>计划建设一座测试工厂，为 DRAM 存储芯片提供测试以及模组组装</strong>，项目总投资金额 108 亿元，建设周期 37 个月。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"c328\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bf0bd339-5daf-4bed-b8a1-256037415e6e.jpg?x-bce-process=image/format,f_auto\" w=\"1254\" h=\"1080\" data-mpos=\"2,2\" data-weibo=\"0\"  data-vmark=\"925a\" class=\"no-alt-img\"></p><p data-vmark=\"9612\">长鑫科技表示，测试是 DRAM 生产中不可或缺的关键环节，但因其测试的专用设备特性，随着公司产能不断提升、产品种类增多，可能面临外部封测厂测试产能不足和新增投资配套不足的问题。为了保障测试产能不成为公司产能制约瓶颈并保障供应链安全，<strong>公司急需增加自建测试产能的投入</strong>。</p><p data-vmark=\"08e4\">同时，通过自建存储器晶圆后道测试和模组项目，能够更灵活协调测试产能利用，<strong>降低公司 DRAM 芯片测试成本</strong>，提升公司运营效率和测试技术，有利于公司进一步完善 IDM 模式、增强公司的整体竞争力。</p>",
+      "link": "https://www.ithome.com/1/008/037.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/037.htm"
+    },
+    {
+      "id": 1517,
+      "title": "联想来酷斗战者推出 245W 氮化镓电源适配器：5525 DC 圆口，249 元",
+      "summary": "IT之家 9 月 28 日消息，联想来酷斗战者推出 245W 氮化镓电源适配器，将于 10 月 8 日 10:00 开售，售价 249 元。 相比原装 240W 适配器，这款新品体积缩小约 30%，重量约 449.7g，比原装减轻约 28%，整体尺寸为 82×82×33mm。 这款新品配备三脚接地安全插头，自带长度 1.5 米的 DC 圆口（5.5×2.5mm）充电线，线芯加粗并内置屏蔽保护层，可为斗战者战 7000、战 7000P、战 7000X 开启野兽模式、斗战模式等高",
+      "content": "<p data-vmark=\"d0bd\">IT之家 9 月 28 日消息，联想来酷斗战者推出 245W 氮化镓电源适配器，将于 10 月 8 日 10:00 开售，<strong>售价 249 元</strong>。</p><p data-vmark=\"d436\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d782390a-eeab-4666-ada4-f3b10c415251.jpg\" w=\"1440\" h=\"2136\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1d01fbaad157f1bcf698dd975625a10113338b3410adbb8eb895010b90c679a3ad74a6ba2b3ef6cf2\" data-vmark=\"e841\" class=\"no-alt-img\"></p><p data-vmark=\"1901\">相比原装 240W 适配器，这款新品体积缩小约 30%，重量约 449.7g，比原装减轻约 28%，整体尺寸为 82×82×33mm。</p><p data-vmark=\"22c8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2999e0e8-bc82-469c-8337-d19e33eb0922.jpg\" w=\"800\" h=\"800\" data-weibo=\"1\" alt=\"体积对比\" data-vmark=\"8273\"></p><p data-vmark=\"1206\">这款新品配备三脚接地安全插头，自带长度 1.5 米的 DC 圆口（5.5×2.5mm）充电线，线芯加粗并内置屏蔽保护层，可为斗战者战 7000、战 7000P、战 7000X 开启野兽模式、斗战模式等高负载场景。</p><p data-vmark=\"d107\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/73322463-e340-4d36-b38a-6a4326bac188.jpg\" w=\"800\" h=\"800\" data-weibo=\"2\" alt=\"兼容性列表\" data-vmark=\"8fb6\"></p><p data-vmark=\"2b96\">IT之家附这款新品详细参数如下：</p><p data-vmark=\"d3eb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/35971b0c-97c1-4fba-8c43-8623077ad575.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1825\" data-vmark=\"bbfc\" data-mpos=\"2,0\" data-weibo=\"3\"  class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4rHJGkp\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41H2GLt\" data-iosurl=\"https://u.jd.com/4gHp6ZG\" data-androidurl=\"https://u.jd.com/4aHSs8T\" data-hosnexturl=\"https://u.jd.com/4GHpbod\" data-hosurl=\"https://u.jd.com/4rHjxk2\" data-uwpurl=\"https://u.jd.com/41HvZx5\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f41HYxZw%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4GHlQ1L\" data-lpwxurl=\"https://u.jd.com/4gHyVRd\"  data-ncid=\"244505\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/519032/30/6128/42146/6aa26cc4F6f8dc0f1/0083320320d9a1de.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">来酷斗战者 245W 氮化镓充电器 DC 圆口</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 249 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/008/032.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/032.htm"
+    },
+    {
+      "id": 1518,
+      "title": "JBL Live Buds 4 蓝牙耳机新增苹果橙配色：充电盒带 1.57 英寸彩屏，1599 元",
+      "summary": "IT之家 9 月 28 日消息，JBL LIVE BUDS4 无线蓝牙耳机新增“苹果橙”配色，定价 1699 元，首发 1599 元。 京东 JBL LIVE BUDS 4 新款无线蓝牙耳机 苹果橙超长续航降噪耳机 智能触屏耳机 华为苹果手机通用耳机 1699 元直达链接 这款耳机支持蓝牙 6.0 技术，匹配 10mm 驱动单元，单耳重 4.8 克，采用纳米材质一体注塑工艺，拥有 IP55 认证。耳机充电盒配有一块 1.57 英寸屏幕，支持音量调节、曲目切换、降噪调节功能。 ",
+      "content": "<p data-vmark=\"0000\">IT之家 9 月 28 日消息，JBL LIVE BUDS4 无线蓝牙耳机新增“苹果橙”配色，定价 1699 元，首发 1599 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4rHYjCm\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4OHWdnT\" data-iosurl=\"https://u.jd.com/4OHBkCA\" data-androidurl=\"https://u.jd.com/4OHpbpR\" data-hosnexturl=\"https://u.jd.com/4OHWXGQ\" data-hosurl=\"https://u.jd.com/4OHYA7i\" data-uwpurl=\"https://u.jd.com/46HSnS9\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4GHBoqt%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4DHJuPu\" data-lpwxurl=\"https://u.jd.com/4gH3wau\"  data-ncid=\"244501\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/528866/5/7888/34441/6ab32b6fF13a4291b/00833203203ce43a.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> JBL LIVE BUDS 4 新款无线蓝牙耳机 苹果橙</span></span><span class=\"card-abstract\">超长续航降噪耳机 智能触屏耳机 &nbsp;华为苹果手机通用耳机</span><span class=\"card-controls\"><span class=\"price\"> 1699 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"0001\">这款耳机支持蓝牙 6.0 技术，匹配 10mm 驱动单元，单耳重 4.8 克，采用纳米材质一体注塑工艺，拥有 IP55 认证。耳机充电盒配有一块 1.57 英寸屏幕，支持音量调节、曲目切换、降噪调节功能。</p><p data-vmark=\"7f32\">这款新品主打智能全彩触屏充电仓，全新设计的 Smart Charging Case 兼具耳机控制功能，直观简洁的操作界面，支持音量调节、曲目切换、ANC 或 Ambient Sound 管理及 EQ 精细调校，无需手机或 App 即可完成操作，还支持自定义屏保。</p><p data-vmark=\"0093\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b4ca9b36-ad05-4321-8174-39c5530a49a9.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1863\" data-weibo=\"0\" alt=\"JBL LIVE BUDS4 智能触屏\" data-vmark=\"4935\"></p><p data-vmark=\"0003\">此外，这款新品支持 360° 空间音频及自适应降噪 2.0 模式，内置六麦克风阵列，耳机单耳续航 10 小时（关闭降噪），在配备充电盒的情况下至高拥有 40 小时续航，充电盒同时支持无线充电。</p><p data-vmark=\"8fdf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/79a0e6f8-ccb3-40ef-9ab0-eceab3323417.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"1\" alt=\"五种配色\" data-vmark=\"6f8c\"></p><p data-vmark=\"0011\">IT之家附不同版本对比如下：</p><p data-vmark=\"ab50\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9050213a-7739-4ed7-8991-bd264d7550b5.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1941\" data-weibo=\"2\" alt=\"不同版本对比\" data-vmark=\"7140\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4GHWFD6\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41HNOZi\" data-iosurl=\"https://u.jd.com/46HZmpv\" data-androidurl=\"https://u.jd.com/41HnUBv\" data-hosnexturl=\"https://u.jd.com/4DHSBiz\" data-hosurl=\"https://u.jd.com/4rH0Bfv\" data-uwpurl=\"https://u.jd.com/41HPkaK\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4DHnmzv%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4gHlB5F\" data-lpwxurl=\"https://u.jd.com/4aHJBD8\"  data-ncid=\"244501\"> <span class=\"card main-site\"> <span class=\"card-logo\"> <img src=\"https://img14.360buyimg.com/pop/jfs/t1/518666/28/14287/51409/6aaf494eF41059c77/008332032075aa6b.png\" w=\"800\" h=\"800\"> </span> <span class=\"card-info\"> <span class=\"card-title\"> <span class=\"mall-data\">京东</span> <span class=\"card-name\">JBLLIVEBUDS4 新款无线蓝牙耳机 超长续航降噪耳机 智能触屏耳机 华为苹果手机通用耳机 苹果橙</span> </span> <span class=\"card-abstract\"></span> <span class=\"card-controls\"> <span class=\"price\">1699 元</span> <span class=\"card-btn-deep\">直达链接</span> </span> </span> </span> </a> </dir>",
+      "link": "https://www.ithome.com/1/008/027.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/027.htm"
+    },
+    {
+      "id": 1519,
+      "title": "华为鸿蒙 HarmonyOS 7 系统公测转正，首批覆盖 Mate 80 等系列机型",
+      "summary": "IT之家 9 月 28 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统已开启正式版升级，首批覆盖 Mate 80 / 70、Mate X7 / X6、Mate XTs 非凡大师、Pura 90 / 80、Pura X / X Max、 nova 16 / 15、畅享 90 等系列机型。 ▲ IT之家开箱：华为畅享 90 Pro Max 实拍图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 H",
+      "content": "<p data-vmark=\"7be5\">IT之家 9 月 28 日消息，华为官网最新信息显示，<strong>鸿蒙 HarmonyOS 7 系统已开启正式版升级</strong>，首批覆盖 Mate 80 / 70、Mate X7 / X6、Mate XTs 非凡大师、Pura 90 / 80、Pura X / X Max、 nova 16 / 15、畅享 90 等系列机型。</p><p style=\"text-align: center;\" data-vmark=\"c22f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/f4ee1ece-f092-4937-b64c-098194e19927.jpg\" w=\"1440\" h=\"960\" data-vmark=\"ea48\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/03/24/62821393-c898-4cac-8883-8d0fa925325a.png?x-bce-process=image/format,f_auto\" data-topic-id=\"60763\">华为畅享 90 Pro Max</span> 实拍图赏</figcaption><p data-vmark=\"a37b\">IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下：</p><blockquote><h3 data-vmark=\"3d17\">正式版</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"7ae9\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/11/19/237ffb50-5a1d-499e-8b1c-7addebf02e4e.png?x-bce-process=image/format,f_auto\" data-topic-id=\"58533\">HUAWEI Mate 80</span> 系列</p></li><li><p data-vmark=\"8145\">HUAWEI Mate 70 系列</p></li><li><p data-vmark=\"3dca\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/11/19/a48707d6-4a46-4bd2-826b-fc4059ae7520.png?x-bce-process=image/format,f_auto\" data-topic-id=\"58540\">HUAWEI Mate X7</span> 系列</p></li><li><p data-vmark=\"cfb3\">HUAWEI Mate X6 系列</p></li><li><p data-vmark=\"2e6d\">HUAWEI Mate XTs 非凡大师</p></li><li><p data-vmark=\"7a70\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/04/21/21c7f138-0cb7-4778-a00d-57af841af504.png?x-bce-process=image/format,f_auto\" data-topic-id=\"61787\">HUAWEI Pura 90</span> 系列</p></li><li><p data-vmark=\"3c40\">HUAWEI Pura 80 系列</p></li><li><p data-vmark=\"08d6\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/04/21/eaa45800-4684-44da-8c92-88c06fd19ba3.png?x-bce-process=image/format,f_auto\" data-topic-id=\"61541\">HUAWEI Pura X Max</span> 系列</p></li><li><p data-vmark=\"f851\">HUAWEI Pura X 系列</p></li><li><p data-vmark=\"45d3\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/06/01/49b83090-219c-40b0-8dde-671b5c4e98de.png?x-bce-process=image/format,f_auto\" data-topic-id=\"62876\">HUAWEI nova 16</span> 系列</p></li><li><p data-vmark=\"75c3\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/12/22/5de46108-35f6-4122-b72a-35c6a4d2e881.jpg?x-bce-process=image/format,f_auto\" data-topic-id=\"59201\">HUAWEI nova 15</span> 系列</p></li><li><p data-vmark=\"b467\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/03/24/1c19a6de-67e2-48a1-812a-145846894916.png?x-bce-process=image/format,f_auto\" data-topic-id=\"60970\">华为畅享 90</span> 系列</p></li><li><p data-vmark=\"4f3d\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/12/08/a9c54e0e-0fd9-4552-8aba-c232bd941795.png?x-bce-process=image/format,f_auto\" data-topic-id=\"59037\">HUAWEI MatePad Edge</span></p></li><li><p data-vmark=\"8892\">HUAWEI MatePad Pro Max 系列</p></li><li><p data-vmark=\"2e60\">HUAWEI MatePad Mini 系列</p></li><li><p data-vmark=\"3c89\">HUAWEI MatePad 11.5 2026 系列</p></li><li><p data-vmark=\"7d72\"><span class=\"no-auto-spacing \">HUAWEI MateBook Fold 非凡大师 麒麟 X90 Plus</span></p></li><li><p data-vmark=\"f8d3\">HUAWEI MateBook Fold 非凡大师</p></li><li><p data-vmark=\"7ecb\">HUAWEI MateBook Pro 麒麟 X90 Plus</p></li><li><p data-vmark=\"ebd1\">HUAWEI MateBook Pro</p></li><li><p data-vmark=\"459b\">HUAWEI MateBook Pro S</p></li><li><p data-vmark=\"df7e\">HUAWEI MateBook 14 鸿蒙版</p></li><li><p data-vmark=\"b075\">HUAWEI WATCH GT 7 系列</p></li></ul><h3 data-vmark=\"b100\">公测版</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"6e48\">HUAWEI MatePad Pro 12 英寸系列</p></li><li><p data-vmark=\"4bfc\">HUAWEI WATCH Ultimate 2 非凡探索</p></li><li><p data-vmark=\"db31\"><span class=\"no-auto-spacing\">HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款</span></p></li><li><p data-vmark=\"50ec\"><span class=\"no-auto-spacing\">HUAWEI WATCH ULTIMATE DESIGN 非凡大师 尊界定制款</span></p></li><li><p data-vmark=\"e76e\">HUAWEI WATCH GT 6 系列</p></li><li><p data-vmark=\"db92\">HUAWEI WATCH FIT 5 系列</p></li><li><p data-vmark=\"508f\">HUAWEI FreeClip 2 系列</p></li></ul><h3 data-vmark=\"f5dc\">花粉 Beta 版</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"5d96\">HUAWEI Mate 60 系列</p></li><li><p data-vmark=\"1f2b\">HUAWEI MateX5 系列</p></li><li><p data-vmark=\"51f3\">HUAWEI Mate XT 非凡大师</p></li><li><p data-vmark=\"3e9b\">HUAWEI Pura 70 系列</p></li><li><p data-vmark=\"080b\">HUAWEI Pocket 2 系列</p></li><li><p data-vmark=\"de77\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/10/5ced9d7a-eead-4ed3-9018-7628419e4d66.jpg?x-bce-process=image/format,f_auto\" data-topic-id=\"66309\">HUAWEI nova 16 SE</span></p></li><li><p data-vmark=\"83b4\">HUAWEI nova 14 系列</p></li><li><p data-vmark=\"3dfa\">HUAWEI MatePad Pro 13.2 英寸 2025</p></li><li><p data-vmark=\"1915\">HUAWEI MatePad Pro 12.2 英寸 2025</p></li><li><p data-vmark=\"edc9\">HUAWEI MatePad Air 12 英寸 2026 系列</p></li><li><p data-vmark=\"4090\">HUAWEI MatePad Air 12 英寸 2025 系列</p></li><li><p data-vmark=\"d387\">HUAWEI MatePad 11.5 S 2025 系列</p></li><li><p data-vmark=\"9250\">HUAWEI WATCH GT Runner 2</p></li></ul><h3 data-vmark=\"f578\">2026 年 10 月</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"63ef\">HUAWEI nova 13 系列</p></li><li><p data-vmark=\"84b6\">HUAWEI nova 12 系列</p></li><li><p data-vmark=\"6d9c\">HUAWEI nova Flip S</p></li><li><p data-vmark=\"3ae3\">HUAWEI nova Flip</p></li><li><p data-vmark=\"231b\">华为畅享 70X（含尊享版）</p></li><li><p data-vmark=\"7a94\">HUAWEI MatePad Pro 13.2 英寸 2023 系列</p></li><li><p data-vmark=\"93e4\">HUAWEI MatePad Pro 12.2 英寸 2024 系列</p></li><li><p data-vmark=\"0245\">HUAWEI MatePad Pro 11 英寸 2024</p></li><li><p data-vmark=\"89fc\">HUAWEI MatePad Air 12 英寸 2024</p></li><li><p data-vmark=\"1975\">HUAWEI MatePad 11.5\"S 2024 系列</p></li><li><p data-vmark=\"1d2d\">HUAWEI FreeBuds Pro 5</p></li><li><p data-vmark=\"692a\">HUAWEI FreeBuds Pro 4</p></li><li><p data-vmark=\"4b7f\">HUAWEI FreeBuds 6</p></li></ul><h3 data-vmark=\"a925\">更多机型</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"3651\"><span class=\"no-auto-spacing\">HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放款</span></p></li><li><p data-vmark=\"ce5b\">HUAWEI WATCH 5 系列</p></li><li><p data-vmark=\"3ed0\">华为智能门锁 2 系列</p></li><li><p data-vmark=\"ee36\">华为智能门锁 M2</p></li><li><p data-vmark=\"9007\">华为智能门锁 X1</p></li><li><p data-vmark=\"151a\">华为路由 X3 Pro 日照金山</p></li><li><p data-vmark=\"1d41\">华为路由 X1 系列</p></li><li><p data-vmark=\"c85f\">华为凌霄子母路由 Q7 电线版</p></li><li><p data-vmark=\"7708\">华为凌霄子母路由 Q7 网线版</p></li><li><p data-vmark=\"ce87\">华为鸿蒙智家智能主机 X2 系列</p></li><li><p data-vmark=\"7a02\">华为智慧屏 MateTV 系列</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"e6a5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f89625d8-9c31-4a2f-ba94-fcd66058a8bc.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"5732\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d19ebb8e5163583ddbdef52f302c90dc0df1c5c75dbe4dbfcf89cd29e156dd43c35d1d694c3381f210\" data-vmark=\"199f\" class=\"no-alt-img\"></p><p data-vmark=\"81b9\">在本月初的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，<strong>鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端数突破 8500 万</strong>！</p><p data-vmark=\"fd71\">此次突破为新系统的快速铺开奠定了坚实基础。三年以来，鸿蒙终端设备数持续增长，预计将在今年第四季度内突破 1 个亿。9 月 7 日起，HarmonyOS 7 面向首批多款机型陆续开放升级。</p><p style=\"text-align: center;\" data-vmark=\"c733\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/34345f92-0dbd-440e-b13d-1f550eb1a9b3.jpg\" w=\"1440\" h=\"638\" data-mpos=\"2,2\"  data-vmark=\"1540\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/025.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/025.htm"
+    },
+    {
+      "id": 1520,
+      "title": "谷歌承诺部分 Chromebook 笔记本将获 Googlebook OS 系统更新，细节暂未公开",
+      "summary": "IT之家 9 月 28 日消息，谷歌官方上周（9 月 23 日）发布文档，确认部分 Chromebook 笔记本将可以升级至 Googlebook OS 操作系统。但官方并没有透露具体支持机型、升级开始时间。 谷歌表示，许多最新款 Chromebook 设备将有资格过渡到 Googlebook OS 系统，未来将公布相关细节。 同时谷歌还在文档中提到，公司正努力为 Googlebook 提供完整企业管理功能，预计将在 2027 年下半年推出。 据IT之家此前报道，谷歌及其合作",
+      "content": "<p data-vmark=\"c9c1\">IT之家 9 月 28 日消息，谷歌官方上周（9 月 23 日）发布文档，确认部分 Chromebook 笔记本将可以升级至 Googlebook OS 操作系统。但官方并没有透露具体支持机型、升级开始时间。</p><p style=\"text-align: center;\" data-vmark=\"c9e1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d02aa4da-feb0-4b40-b41e-e33386eda093.jpg?x-bce-process=image/format,f_auto\" w=\"686\" h=\"447\" data-weibo=\"0\" data-vmark=\"408f\" class=\"no-alt-img\"></p><p data-vmark=\"2085\">谷歌表示，<strong>许多最新款 Chromebook 设备将有资格过渡到 Googlebook OS 系统</strong>，未来将公布相关细节。</p><p data-vmark=\"d353\">同时谷歌还在文档中提到，公司正努力为 Googlebook 提供完整企业管理功能，预计将在 2027 年下半年推出。</p><p data-vmark=\"e075\"><a href=\"https://www.ithome.com/1/005/441.htm\" target=\"_blank\">据IT之家此前报道</a>，谷歌及其合作伙伴本月正式发布全新 Googlebook 产品线的首批笔记本电脑，搭载基于安卓技术栈构建、底层源自 Chrome OS 的 Googlebook OS 系统。首批一共五款机型，分别来自宏碁、华硕、戴尔、惠普以及联想。即日起开启预售，10 月 4 日正式上架销售。</p>",
+      "link": "https://www.ithome.com/1/008/023.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/023.htm"
+    },
+    {
+      "id": 1521,
+      "title": "英伟达董事会追加 1500 亿美元创纪录股票回购授权，计划 2028 财年内完成 2350 亿美元回购",
+      "summary": "IT之家 9 月 28 日消息，NVIDIA（英伟达）当地时间今日宣布，其董事会已批准向现有的股票回购计划追加 1,500 亿美元（IT之家注：现汇率约合 1.01 万亿元人民币）授权额度，使其总额达到 2,350 亿美元（现汇率约合 1.58 万亿元人民币）。 这是历史上规模最大的股票回购授权增幅。NVIDIA 计划在 2028 财年内完成剩余的所有回购计划。 NVIDIA 联合创始人兼首席执行官黄仁勋表示： NVIDIA 的增长得益于一次前所未有的平台转型，即向人工智能和",
+      "content": "<p data-vmark=\"d772\">IT之家 9 月 28 日消息，NVIDIA（英伟达）当地时间今日宣布，<strong>其董事会已批准向现有的股票回购计划追加 1,500 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 1.01 万亿元人民币）</span><strong>授权额度</strong>，使其总额达到 2,350 亿美元<span class=\"exch-money-value\">（现汇率约合 1.58 万亿元人民币）</span>。</p><p data-vmark=\"6bdc\">这是历史上规模最大的股票回购授权增幅。NVIDIA 计划在 2028 财年内完成剩余的所有回购计划。</p><p data-vmark=\"b45f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/529bb5db-ffdb-4b87-883c-171658cacf43.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"3010\" class=\"no-alt-img\"></p><p data-vmark=\"8c57\">NVIDIA 联合创始人兼首席执行官黄仁勋表示：</p><blockquote><p data-vmark=\"2b18\">NVIDIA 的增长得益于一次前所未有的平台转型，即向人工智能和加速计算的转型。我们充裕的现金流使我们能够投资于推动这一转型的技术，并为股东带来回报。此次授权<strong>体现了我们对未来长期机遇的信心</strong>。</p></blockquote>",
+      "link": "https://www.ithome.com/1/008/022.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/022.htm"
+    },
+    {
+      "id": 1522,
+      "title": "芝奇保修政策获用户称赞：内存价值暴涨 8 倍仍免费换新",
+      "summary": "IT之家 9 月 28 日消息，海外网友 u/Double-South8863 前天在 Reddit 论坛发文称，他此前花 150 美元（IT之家注：现汇率约合 1,008 元人民币）购买的芝奇 Trident Z5 Neo RGB 64GB DDR5-6000 套条出现损坏，其中一条内存无法正常使用。 据悉，这款内存的售价如今涨到 1,200 美元（现汇率约合 8,063 元人民币），相比此前涨了 8 倍。但他将情况反馈给官方售后时，芝奇仍为他免费更换了产品。 这名用户表示",
+      "content": "<p data-vmark=\"0666\">IT之家 9 月 28 日消息，海外网友 u/Double-South8863 前天在 Reddit 论坛发文称，他此前花 150 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,008 元人民币）</span>购买的芝奇 Trident Z5 Neo RGB 64GB DDR5-6000 套条出现损坏，其中一条内存无法正常使用。</p><p style=\"text-align: center;\" data-vmark=\"028b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ff8e3f7a-7614-412d-863c-4444b645c741.png?x-bce-process=image/format,f_auto\" w=\"1108\" h=\"1150\" data-weibo=\"0\" data-vmark=\"4b40\" class=\"no-alt-img\"></p><p data-vmark=\"dc02\">据悉，这款内存的售价如今涨到 1,200 美元<span class=\"exch-money-value\">（现汇率约合 8,063 元人民币）</span>，相比此前涨了 8 倍。<strong>但他将情况反馈给官方售后时</strong>，<strong>芝奇仍为他免费更换了产品</strong>。</p><p data-vmark=\"18d5\">这名用户表示，芝奇的售后非常爽快。收到工单后，他们先是确认了产品属于终身保修，然后在用户寄出损坏内存时，直接发出了全新替换品。他更是在帖文中表示，自己此生只会买芝奇的内存。</p><p data-vmark=\"b5ba\">IT之家注意到，近年来由于 AI 服务器需求持续增长，内存价格大幅上涨。<strong>一些厂商在处理保修或退货时会按照用户购买时的价格进行退款</strong>，而非更换损坏产品或按照当前市价进行赔偿。</p>",
+      "link": "https://www.ithome.com/1/008/013.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/013.htm"
+    },
+    {
+      "id": 1523,
+      "title": "一台 192GB 内存版贵过两台 128GB 版！FEVM FAEX2 迷你主机上架",
+      "summary": "IT之家 9 月 28 日消息，FEVM（奋微）现已启动 FAEX2 迷你主机的预售。这一产品基于 AMD 锐龙 AI Max+ PRO 495 处理器，提供多种内存与存储配置。 IT之家注意到，在均不含 SSD 存储的情况下，FAEX2 的 128GB LPDDR5X-8533 配置要价 21599 元、192GB 配置则是 43599 元。这意味着一台 192GB 版 FAEX2 的价格能买到两台 128GB 版 FAEX2 还有剩余。 FAEX2 体积约为 1L，拥有 ",
+      "content": "<p data-vmark=\"bba7\">IT之家 9 月 28 日消息，FEVM（奋微）现已启动 FAEX2 迷你主机的预售。这一产品基于 AMD 锐龙 AI Max+ PRO 495 处理器，提供多种内存与存储配置。</p><p data-vmark=\"b5db\">IT之家注意到，在均不含 SSD 存储的情况下，FAEX2 的 128GB LPDDR5X-8533 配置要价 21599 元、192GB 配置则是 43599 元。这意味着<strong>一台 192GB 版 FAEX2 的价格能买到两台 128GB 版 FAEX2 还有剩余</strong>。</p><p data-vmark=\"f96e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/32515d35-2ba8-4b37-b1dd-916a910a795c.jpg\" w=\"790\" h=\"1280\" data-weibo=\"0\"  data-vmark=\"2227\" class=\"no-alt-img\"></p><p data-vmark=\"f8eb\">FAEX2 体积约为 1L，拥有 CNC 铝合金机身；支持 160W 性能释放；提供 3 个 M.2 2280 (PCIe Gen4 ×4) SSD 盘位；配备联发科技 MT7925 无线网卡，支持 Wi-Fi 7 (160MHz) &amp; 蓝牙 5.4。</p><p data-vmark=\"e2af\">其外部 I/O 包括 1 个 SD UHS-II 读卡器、1 个 OCuLink 接口（同一个 M.2 SSD 盘位互斥）、1 个 3.5mm 音频插孔、1 个 USB-C 40Gbps、1 个 HDMI 2.1、1 个 DisplayPort 2.0、2 个 USB-A 10Gbps、1 个 10GbE RJ-45、1 个 2.5GbE RJ-45。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4rHTAtz\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41HOfYd\" data-iosurl=\"https://u.jd.com/4DH3KyX\" data-androidurl=\"https://u.jd.com/46HazOx\" data-hosnexturl=\"https://u.jd.com/4rHpkBz\" data-hosurl=\"https://u.jd.com/4rHZzZN\" data-uwpurl=\"https://u.jd.com/4OHACmv\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4GHWC7R%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4gHB6xg\" data-lpwxurl=\"https://u.jd.com/4OHOs6T\"   data-ncid=\"244480\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/525516/13/12279/40537/6ab8b2c0Faafcfe7e/00833203201e06f0.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> FEVM 奋微 FAEX2 迷你主机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 21599 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/008/011.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/011.htm"
+    },
+    {
+      "id": 1524,
+      "title": "深蓝汽车推出“小蓝同学车载交互屏”：适配全新 S07 AI 激光版，899 元起",
+      "summary": "IT之家 9 月 28 日消息，深蓝汽车今日推出“小蓝同学车载交互屏”，适配全新深蓝 S07 AI 激光版，售价 899 元起。 据介绍，该产品深度契合深蓝座舱生态，随车辆状态秒切生动情绪，开门迎宾、无聊耍宝、默契跟唱多种动态表情加持。 配备 OLED 显示屏，头部支持左右灵活旋转（左右 180° 可旋转），内置定制低噪电机；甄选高强度环保 ABS+ 铝合金材质，耐高温防暴晒；采用隐藏式走线设计搭配主流 Type-C 接口，与车内供电深度契合，自主安装更便捷。 此外，该产品还",
+      "content": "<p data-vmark=\"f1db\">IT之家 9 月 28 日消息，深蓝汽车今日推出“小蓝同学车载交互屏”，适配全新深蓝 S07 AI 激光版，售价 899 元起。</p><p style=\"text-align: center;\" data-vmark=\"64be\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d712eb76-2d19-4f4f-aa4c-57614511a661.png?x-bce-process=image/format,f_auto\" w=\"623\" h=\"573\" data-weibo=\"0\" data-vmark=\"5f78\" class=\"no-alt-img\"></p><p data-vmark=\"f630\">据介绍，该产品深度契合深蓝座舱生态，<strong>随车辆状态秒切生动情绪</strong>，开门迎宾、无聊耍宝、默契跟唱多种动态表情加持。</p><p style=\"text-align: center;\" data-vmark=\"f609\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/987c767d-7ac3-4112-b1e2-da76d66aefd3.png?x-bce-process=image/format,f_auto\" w=\"626\" h=\"773\" data-weibo=\"1\" data-vmark=\"1d90\" class=\"no-alt-img\"></p><p data-vmark=\"60ce\">配备 OLED 显示屏，头部支持左右灵活旋转（<strong>左右 180° 可旋转</strong>），内置定制低噪电机；甄选高强度环保 ABS+ 铝合金材质，耐高温防暴晒；采用隐藏式走线设计搭配主流 Type-C 接口，与车内供电深度契合，自主安装更便捷。</p><p style=\"text-align: center;\" data-vmark=\"f03c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/26715fc4-eb03-4b8f-bff9-79fcf6f036f1.png?x-bce-process=image/format,f_auto\" w=\"612\" h=\"728\" data-weibo=\"2\" data-vmark=\"5547\" class=\"no-alt-img\"></p><p data-vmark=\"482d\">此外，该产品还支持预设温馨行车提示，化身专属智能副驾，用萌趣表情传递安全提醒；开门自动转头微笑，上车仪式感拉满，加速触发炫酷动画。</p><p data-vmark=\"a930\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"6af5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0b564da9-d963-4b4f-b8b2-283ea4d6b488.png?x-bce-process=image/format,f_auto\" w=\"577\" h=\"1465\" data-weibo=\"3\" data-vmark=\"fed6\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/006.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/006.htm"
+    },
+    {
+      "id": 1525,
+      "title": "小米首款热泵洗烘一体机发布：13kg 洗 +9kg 烘，5881 元",
+      "summary": "IT之家 9 月 28 日消息，小米首款热泵洗烘一体机（米家洗衣机 护衣洗 Pro 至尊版 热泵洗烘 13kg）今日上架小米商城、小米有品等平台，售价 5881 元。 IT之家从商品页面获悉，该产品支持 13kg 洗 +9kg 烘，标准尺寸机身，洗烘护三合一。热泵循环利用热能，大幅降低烘干能耗，相比冷凝式洗烘一体省电 73%。配备小米双风机热泵，烘干速度大幅提升 49%；顶置高能效热泵系统，优化冷媒流阻，换热能力提升 59%。 新品配备精巧毛屑收集系统，搭载高密度双层滤网，绒",
+      "content": "<p data-vmark=\"67ca\">IT之家 9 月 28 日消息，小米首款热泵洗烘一体机（米家洗衣<span class=\"no-auto-spacing\">机 护</span>衣洗 Pro 至尊<span class=\"no-auto-spacing\">版 热</span>泵洗烘 13kg）今日上架小米商城、小米有品等平台，售价 5881 元。</p><p data-vmark=\"7a89\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7b0737d7-ad3b-487f-9233-2cba4261646b.png\" w=\"967\" h=\"720\" data-weibo=\"0\" data-vmark=\"0964\" class=\"no-alt-img\"></p><p data-vmark=\"b66d\">IT之家从商品页面获悉，该产品支持 13kg 洗 +9kg 烘，标准尺寸机身，<strong>洗烘护三合一</strong>。热泵循环利用热能，大幅降低烘干能耗，相比冷凝式洗烘一体省电 73%。配备小米双风机热泵，烘干速度大幅提升 49%；顶置高能效热泵系统，优化冷媒流阻，换热能力提升 59%。</p><p data-vmark=\"98f5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9e0808d1-6c06-4888-a90d-c3fdcd9b9a9e.png\" w=\"972\" h=\"1503\" data-weibo=\"1\" data-vmark=\"9d59\" class=\"no-alt-img\"></p><p data-vmark=\"24e9\">新品配备精巧毛屑收集系统，搭载高密度双层滤网，绒毛碎屑一网滤净，<strong>提供 35 种洗烘程序、11 种护理程序</strong>。</p><p data-vmark=\"99ed\">此外，新品配备小米超电解技术，<strong>拥有 1.3 超高洗净比</strong>，号称“有效去除 20 种顽固污渍，1 次洗白泛黄衣物”“超电解冷水杀菌，除菌率 99%”。新品搭载基于自研洗护算法和大语言模型的智能洗护系统，根据衣物材质、颜色、污渍等描述，生成个性化洗护建议推荐最优程序和参数。</p><p data-vmark=\"d150\">新品支持小米澎湃智联，米家 App 和小米音箱智能化控制，远程掌握洗衣进度。</p><p data-vmark=\"9492\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d577ca5c-18b2-466c-af1f-f95ef97208b2.jpg\" w=\"988\" h=\"1751\" data-weibo=\"2\"  data-vmark=\"14e8\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/003.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/003.htm"
+    },
+    {
+      "id": 1526,
+      "title": "荣耀手机：Magic9 系列开售一小时，全平台销量同比上代增长 208%",
+      "summary": "IT之家 9 月 28 日消息，荣耀手机宣布，荣耀 Magic9 系列开售一小时，全平台销量同比上代增长 208%。 此前荣耀手机还宣布，荣耀 Magic9 系列开售 30 分钟，线上全平台销量同比上代增长 194%。 据新浪科技报道，荣耀 CEO 李健表示，行业所有厂家都面临着内存暴涨、成本暴涨的巨大的压力。不同的厂家可能会有不同的思考，荣耀是尽最大努力不去把所有的成本上涨压力完全传导给用户。 你怎么待用户，用户也会怎么待你。我对团队内部的要求是，一定要向内挖潜，不断去降低",
+      "content": "<p data-vmark=\"3fe6\">IT之家 9 月 28 日消息，荣耀手机宣布，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/28/dbb8e5f7-988f-4771-99f6-563568b982ad.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66519\">荣耀 Magic9</span> 系列开售一小时，<strong>全平台销量同比上代增长 208%</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d795\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/422c6b68-e34e-4e38-bb76-4e4c52e0ed95.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"447\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1555b72bdf5a28575a9c1594af863088aeedd8997504ef104cbe3eacce97fd20aefd5890c9ec32770\" data-vmark=\"3369\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"5e6b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4e51e5ce-9ecd-4b85-a308-611a9586228b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2560\" data-mpos=\"2,0\" data-weibo=\"1\"  data-vmark=\"673d\" class=\"no-alt-img\"></p><p data-vmark=\"fcba\">此前荣耀手机还宣布，荣耀 Magic9 系列开售 30 分钟，<strong>线上全平台销量同比上代增长 194%</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9d47\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/00da8c73-7bf7-469e-bf6a-0f62d6c9914e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"388\" data-weibo=\"2\" data-vmark=\"2db9\" class=\"no-alt-img\"></p><p data-vmark=\"dc58\">据新浪科技报道，荣耀 CEO 李健表示，行业所有厂家都面临着内存暴涨、成本暴涨的巨大的压力。不同的厂家可能会有不同的思考，<a target=\"_blank\" href=\"https://www.ithome.com/1/007/999.htm\"><strong>荣耀是尽最大努力不去把所有的成本上涨压力完全传导给用户</strong></a>。</p><blockquote><p data-vmark=\"bb5f\">你怎么待用户，用户也会怎么待你。我对团队内部的要求是，一定要向内挖潜，不断去降低我们的成本，提升我们的效率。尽可能把困难留给我们，如果完全的不做调整，我们也做不到。</p></blockquote><p data-vmark=\"f5fe\">据IT之家此前报道，在今天举行的荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会上，荣耀 Magic9 系列正式发布，包含<a target=\"_blank\" href=\"https://www.ithome.com/1/007/857.htm\">荣耀 Magic9 Pro Max</a>、<a target=\"_blank\" href=\"https://www.ithome.com/1/007/858.htm\">荣耀 Magic9</a>、<a target=\"_blank\" href=\"https://www.ithome.com/1/007/862.htm\">荣耀 Magic9 超能版</a>，<strong>售价</strong><strong> 4499 元起。</strong></p><p style=\"text-align: center;\" data-vmark=\"f204\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7220bfce-c9b9-45ee-84f6-ed21fe99775f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"4659\" data-weibo=\"3\" data-vmark=\"1f3a\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/001.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/001.htm"
+    },
+    {
+      "id": 1527,
+      "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
+      "summary": "GMKtec launches the Evo-X5 Pro, an agentic mini-PC with AMD's Ryzen AI Max+ Pro 495, 192GB of RAM, and a price tag up to $7,099.",
+      "content": "<article>\n                                <p>GMKtec has launched the Evo-X5 Pro, its latest agentic AI mini-PC, featuring AMD's flagship <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-400-gorgon-halo-packs-up-to-192gb-of-unified-memory-refreshed-apu-uses-zen-5-and-rdna-3-5-and-can-clock-up-to-5-2-ghz\">Ryzen AI Max+ Pro 495</a> processor and 192GB of LPDDR5X-8533 memory. The model with a 2TB PCIe 4.0 SSD retails at $6,799, while the 4TB model will set consumers back $7,099.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: CPU</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Xh2MupWrRjJPiLLuopmKRB\" name=\"W1103180\" caption=\"\" alt=\"A hand holding the Ryzen 7 9850X3D.\" src=\"https://cdn.mos.cms.futurecdn.net/Xh2MupWrRjJPiLLuopmKRB-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/cpu-scaling-with-dlss-investigating-cpu-performance-in-the-age-of-upscaling?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">CPU scaling with DLSS</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Intel's one-two punch plan in desktop CPUs is taking shape</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent </a></li></ul></p></div></div><p>The Evo-X5 Pro launches today to go head-to-head with rivals, such as Acemagic’s F9A and <a href=\"https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally\">Minisforum’s MS-S1 Max-P495</a>, which use similar recipes: AMD's Ryzen AI Max+ Pro 495. The processor is the most performant SKU from the Ryzen AI Max+ 400 (codenamed Gorgon Halo) family. Unlike the regular <a href=\"https://www.tomshardware.com/pc-components/cpus/amds-ryzen-ai-400-series-includes-the-first-copilot-desktop-cpu-team-red-refreshes-zen-5-apus-and-strix-halo\">Ryzen AI 400</a> (codenamed Gorgon Point) series, which uses a hybrid Zen 5 and Zen 5c setup, Gorgon Halo keeps only the full-size Zen 5 cores and drops the space-efficient Zen 5c cores.</p><p>Armed with 16 Zen 5 cores and 32 threads, the Ryzen AI Max+ Pro 495 stands out as a powerhouse in the mobile segment. It boasts a 3.1 GHz base clock, 5.2 GHz boost clock, and 64MB of L3 cache. The 16-core, 55W chip is essentially the mobile version of the renowned <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review\">Ryzen 9 9950X</a> (though with a far lower power budget). With abundant processing power, it is easy to see why the Ryzen AI Max+ Pro 495 is the elected candidate for these agentic AI mini-PCs.</p><p>The Evo-X5 Pro supports three performance profiles for the Ryzen AI Max+ Pro 495. The silent and balanced modes keep the chip at 54W and 85W, respectively, while performance mode allows up to 120W sustained and 160W peak. The mini-PC features a vapor chamber cooling system to keep the hardware cool, along with one 80 x 80 x 15mm system fan and two other 80 x 80 x 30mm cooling fans.</p><h2 id=\"gmktec-evo-x5-pro-specifications-and-pricing\">GMKtec Evo-X5 Pro Specifications and Pricing</h2><div ><table><thead><tr><th class=\"firstcol \" ><p>Model</p></th><th  ><p>Super Early Bird Pricing</p></th><th  ><p>Early Bird Pricing</p></th><th  ><p>Regular Pricing</p></th><th  ><p>Processor</p></th><th  ><p>Memory</p></th><th  ><p>SSD</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>Evo-X5 Pro</p></td><td  ><p>$6,699</p></td><td  ><p>$6,899</p></td><td  ><p>$7,099</p></td><td  ><p>Ryzen AI Max+ Pro 495</p></td><td  ><p>192GB LPDDR5X-8533</p></td><td  ><p>4TB PCIe 4.0</p></td></tr><tr><td class=\"firstcol \" ><p>Evo-X5 Pro</p></td><td  ><p>$6,399</p></td><td  ><p>$6,599</p></td><td  ><p>$6,799</p></td><td  ><p>Ryzen AI Max+ Pro 495</p></td><td  ><p>192GB LPDDR5X-8533</p></td><td  ><p>2TB PCIe 4.0</p></td></tr></tbody></table></div><p>The Ryzen AI Max+ Pro 495 supports up to 192GB of LPDDR5x-8533 memory, pushing past the 128GB available on Nvidia's GB10 chip and AMD's previous Strix Halo chips. Eight 24GB chips are soldered to the motherboard in close proximity to the Ryzen AI Max+ Pro 495. Gorgon Halo pairs the 192GB of LPDDR5X-8533 memory with a 256-bit interface to maximize memory bandwidth for local AI. This configuration delivers up to about 273 GB/s of bandwidth. Meanwhile, the Evo-X5 Pro enables allocations of up to 160GB to serve as VRAM for large AI LLM models.</p><p>GMKtec sells the Evo-X5 Pro with a 2TB or 4TB PCIe 4.0 SSD. The price difference is $300. It is a shame the company doesn't offer a bare-bones version of the Evo-X5 Pro, since some enthusiasts could reuse their existing drives or buy a new SSD at a lower price. The mini-PC has three PCIe 4.0 M.2 slots for PCIe-based drives, so users can have up to 24TB of fast storage. However, only two M.2 slots run at x4, while the third is limited to x1.</p><p>Super early bird and early bird customers are eligible for 6% and 3% off, respectively. Consumers can get the 4TB and 2TB versions for as low as $6,699 and $6,399, respectively. To further incentivize early adopters, only the first 30 units of the Evo-X5 Pro are eligible for super early-bird pricing. GMKtec includes a complimentary three-month subscription to the Z.ai coding plan and a 1.5X return in GMKtec Points.</p><p>Existing owners of the <a href=\"https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-x2-ai-mini-pc-review\">Evo-X2</a> and <a href=\"https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review\">Evo-X3</a> models are eligible for an exclusive $50 discount on the Evo-X5 Pro when they use the X5P39550 EDM code at checkout.</p><p>In addition to its early-bird and upgrade offers, GMKtec is trying to seduce buyers with bulk-purchase discounts for the Evo-X5 Pro. However, these \"offers\" sound like a joke. Buying two, three, or five units nets consumers $10, $20, and $40 in discounts, respectively. If you are spending $32,995 on hardware, you would expect more than a meaningless 0.12% discount, but apparently GMKtec does not see it that way.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "gZZvzgxWF5YndPzrwVM2bV"
+    },
+    {
+      "id": 1528,
+      "title": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
+      "summary": "Google confirmed ChromeOS updates will phase out in 2034 as the company transitions to Googlebook OS and new laptops.",
+      "content": "<article>\n                                <p>The announcement of Google's new <a href=\"https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices\">Googlebook laptops</a> raised questions: what happens to the Chromebooks that many, especially students, know well? Google says it will be phasing out ChromeOS updates in mid-2034. That date matches plans <a href=\"https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial\">previously described in court records</a>, but it is now official.<br></p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: CPU</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Xh2MupWrRjJPiLLuopmKRB\" name=\"W1103180\" caption=\"\" alt=\"A hand holding the Ryzen 7 9850X3D.\" src=\"https://cdn.mos.cms.futurecdn.net/Xh2MupWrRjJPiLLuopmKRB-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/cpu-scaling-with-dlss-investigating-cpu-performance-in-the-age-of-upscaling?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">CPU scaling with DLSS</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Intel's one-two punch plan in desktop CPUs is taking shape</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent?utm_source=edit-links&utm_medium=boxout&utm_term=cpu\" target=\"_blank\">AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent </a></li></ul></p></div></div><p>In <a href=\"https://support.google.com/chrome/a/answer/16634428?hl=en#zippy=%2Chow-should-this-announcement-impact-our-current-hardware-purchasing-and-refresh-plans\">a support document</a> for Chrome IT administrators in the enterprise and education space, the company explained that \"many of our newest Chromebook devices will be eligible to transition over to Googlebook OS,\" but it hasn't listed models or described how upgrades will take place. </p><p>Chromebooks have 10-year support lifecycles. If you have a Chromebook with a cycle that extends beyond 2034, Google is telling education and enterprise managers that \"Google is committed to supporting your transition to Googlebook OS, with many devices offering direct migration paths.\"<br><br>Googlebooks will support the same 10-year update and security patch system as Chromebooks, though it starts from the launch of the CPU inside the system.<br><br>The document also reveals that management capabilities for Googlebooks will come in the back half of 2027, suggesting that it also may be a while until we see the first enterprise Googlebooks. Chrome Education and Enterprise upgrade licenses are different from Googlebooks. If IT admins update Chromebooks to Googlebook OS or buy new machines, they will be on new licenses. Google has not yet announced those terms.<br><br>Googlebook OS appears much more like Android than Chrome OS, though we're still waiting for time with a device. In the support document, Google says it is \"commited\" to web developers despite support for Android apps. \"[W]e will continue to support the manageability of web apps for IT admins and a robust set of APIs for web developers,\" it says.<br><br>Googlebooks are available for pre-order now and will launch on October 4. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ff46oY7HxQ7J7HDeTripBm"
+    },
+    {
+      "id": 1529,
+      "title": "Noctua upgrades Thermal Grizzly's 12V-2x6 power monitor",
+      "summary": "The Noctua Edition replaces the original WireView Pro II cooling solution with a semi-passive design that can handle up to 300W without active cooling and runs below 2,000 RPM when the fan is needed.",
+      "content": "<article>\n                                <p>Thermal Grizzly and Noctua have teamed up to release a new version of the WireView Pro II GPU monitoring device. By combining Thermal Grizzly’s power monitoring hardware with Noctua’s expertise in low-noise cooling, the <a href=\"https://www.thermal-grizzly.com/en/blog/new-wireview-pro-ii-noctua-edition\">WireView Pro II Noctua Edition</a> aims to offer quieter operation by reducing the noise generated by the device’s cooling fan. </p><p>According to Roman Hartung, CEO of Thermal Grizzly, the GPU monitoring device has become a popular choice and has helped many users detect potentially dangerous connector issues with the infamous 12V-2x6 connector before they could cause damage. The WireView Pro II measures current independently on each 12V conductor rather than simply monitoring total power consumption. This allows it to identify unusual current distribution and potential contact issues that could contribute to connector damage. The device can also provide visual and audible warnings when configured limits are exceeded, with an optional automatic shutdown function. </p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/gxnuUpweVd7u3n2py396V5-1920-80.jpg\" alt=\"Press images of the Thermal Grizzly WireView Pro II Noctua Edition GPU monitoring device\" /><figcaption><small role=\"credit\">Thermal Grizzly</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/JLsyrMLb6ncRcmuch4mHV5-1920-80.jpg\" alt=\"Press images of the Thermal Grizzly WireView Pro II Noctua Edition GPU monitoring device\" /><figcaption><small role=\"credit\">Thermal Grizzly</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/DRY6o5JbVoyVcxEuGfw2X5-1920-80.jpg\" alt=\"Press images of the Thermal Grizzly WireView Pro II Noctua Edition GPU monitoring device\" /><figcaption><small role=\"credit\">Thermal Grizzly</small></figcaption></figure></figure><p>\"One of the most common points of feedback, however, was that the fan could still be noticeable in very quiet systems, so working with Noctua on a significantly quieter cooling solution was the logical next step - and, for us, really completes the product,\" added Hartung. For the Noctua Edition, the standard cooling solution has been replaced with a customized design featuring a Noctua NF-A4x10 fan, an optimized fan grille, and an enlarged CNC-machined aluminum housing. The fan uses semi-passive operation, remaining off for longer periods and only spinning when additional cooling is required. </p><p>In a worst-case scenario with the case fans turned off and temperatures above 40°C, it could handle up to a 300W GPU load without turning its fan on. When it does need active cooling, its fan runs under 2,000 RPM compared to 5,000 RPM on the standard mode, which cuts down noise from 39.4dB(A) to just 21.5dB(A) at a 10cm distance. This should make it essentially inaudible alongside the other fans in a very quiet PC.</p><p>The WireView Pro II Noctua Edition is available in Normal and Reversed variants to accommodate different 12V-2x6 connector and cable-routing configurations, along with an extended two-year warranty covering the GPU connector. While the press note suggests a retail price of $189.90, it is currently selling at <a href=\"https://www.thermal-grizzly.com/en/wireview-pro-ii-gpu/s-tg-wv-p2-h19r-nf\">$222.18 on Thermal Grizzly’s official online store</a>.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/noctua-upgrades-thermal-grizzlys-12v-2x6-power-monitor-cuts-active-noise-to-21-5db-and-runs-passively-up-to-a-300w-gpu-load",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "2zGL8dGbWfnbLXkJUhPjT7"
+    },
+    {
+      "id": 1530,
+      "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+      "summary": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+      "content": "<article>\n                                <p>Nvidia officially <a href=\"https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon\">rolled out DLSS 5</a> earlier this month, bringing its new Neural Rendering technology to supported games for RTX 50-series GPU owners. While early testing has shown improvements in image quality and rendering, the technology is very resource-intensive, resulting in significant drops in frame rate. That, however, has not stopped modders from experimenting with DLSS 5 and attempting to bring the technology to AMD Radeon GPUs.</p><p>A GitHub project called <a href=\"https://github.com/danielblnc/DLSS-NR-on-AMD\">DLSS-NR-on-AMD</a>, designed to run DLSS 5 Neural Rendering on AMD's Radeon RX 9000 and RX 7000 series GPUs, is already seeing a rapid improvement in performance. It uses a ground-up, full reimplementation of the neural network runtime for AMD GPU architectures. As per the developer, the project currently works with DirectX 12 games that use FSR, with Cyberpunk 2077 and GTA V Enhanced among the tested titles.</p><p>Testing done by YouTube channel Ancient Gameplays shows Cyberpunk 2077 running at over 80 FPS on a Radeon RX 9070 XT without DLSS 5 Neural Rendering. Enabling the unofficial implementation, however, caused performance to drop around 11-12 FPS. Not only is that unplayable, but it also highlights just how much optimization was still needed to make the technology practical on AMD hardware.</p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"low\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/qyRaA4wLYXI\" allowfullscreen></iframe></div></div><p>Development has been rather quick, as an Alpha 0.3.3 version was released with a claimed 23% performance improvement, followed shortly by Alpha 0.4.0, which reportedly added another 42% improvement over version 0.3.3. The changes essentially amount to roughly a 74% performance improvement in just 24 hours. The project has also become easier to install thanks to the AMDNR launcher that can automate much of the setup process, meaning that users no longer need to manually copy and replace DLL files for each game. The launcher also supports different runtimes and provides additional options through the OptiScaler interface. </p><p>Ancient Gameplays tested the latest Alpha 0.4.0 build in Cyberpunk 2077 at 3440 x 1440 resolution and found the Radeon GPU reaching around 50 FPS. That is a substantial improvement over the roughly 30 FPS achieved with the earlier build, although it remains well below the performance of the game without Neural Rendering enabled.</p><p>There is still a long way to go before DLSS 5 on AMD hardware can be considered a practical alternative to native implementation. The project remains in alpha, which means performance and compatibility can vary considerably depending on the game and GPU. That said, the developer has informed Ancient Gameplays that they are working on another major update, which should bring a substantial performance boost on Radeon GPUs. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "RRrgQY9Pjhui8zbB8iMj7m"
+    },
+    {
+      "id": 1531,
+      "title": "ASRock X870E Challenger Wifi Motherboard Review: A value X870E board packed with features",
+      "summary": "ASRock’s X870E Challenger Wifi packs a flagship audio codec, robust VRMs, USB4, 5 GbE, and Wi-Fi 7 into an affordable, all-white ATX board. It’s one of the best-equipped AMD options under $230.",
+      "content": "<article>\n                                <p>The latest all-white board to land on our test bench is from ASRock. But this time, it’s more affordable than the updated <a href=\"https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-taichi-white-motherboard-review\"><u>X870E Taichi White</u></a> we recently covered. The <a href=\"https://www.newegg.com/asrock-challenger-atx-22-motherboards-amd-amd-x870e-am5/p/N82E16813162250\"><u>$230 X870E Challenger Wifi White</u></a> offers a surprising number of features for the price.</p><p>Specs-wise, the Challenger comes handsomely equipped for almost any price point. Features include a flagship audio codec, robust VRMs, and ample (and fast!) USB connectivity (including USB4 ports). You also get plenty of internal storage options, with four M.2 sockets (one PCIe 5.0) and two SATA ports, and fast networking with 5 GbE and Wi-Fi 7 (160MHz). Looking at other boards at this price, some don’t include USB4, offer slower 2.5 GbE, or provide weaker audio solutions. For $230, the Challenger is a great deal for an X870E-based board, though, like everything, it has drawbacks that we’ll cover below.</p><p>On the performance front, the X870E Challenger delivered average-to-below-average results across most tests, as we again had to use our secondary DDR5-6000 kit (the Kingston kit isn’t officially supported and didn’t work after enabling the XMP/DOCP profile). Still, we’re confident it would perform a bit better if you snag some RAM on the board’s QVL list that has tighter secondary and tertiary timings.Below, we’ll examine the X870E Challenger White’s performance and other features, and see if it earns a spot on our list of the <a href=\"https://www.tomshardware.com/best-picks/best-motherboards\">best motherboards</a>. But before we share test results and discuss details, here are the specifications from the ASRock website:</p><h2 id=\"specifications-of-the-asrock-x870e-challenger-wifi-white\">Specifications of the ASRock X870E Challenger Wifi White</h2><div ><table><tbody><tr><td class=\"firstcol \" ><p><strong>Socket</strong></p></td><td  ><p>AM5 (LGA 1718)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Chipset</strong></p></td><td  ><p>X870E</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Form Factor</strong></p></td><td  ><p>ATX</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Voltage Regulator</strong></p></td><td  ><p>23 Phase (20x 110A SPS MOSFETs for Vcore)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Video Ports</strong></p></td><td  ><p>(2) USB4<br>(1) HDMI (v2.1)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>USB Ports</strong></p></td><td  ><p>(2) USB 4 (40 Gbps) Type-C<br>(5) USB 3.2 Gen 2 (10 Gbps)<br>(3) USB 3.2 Gen 1 (5 Gbps)</p><p>(2) USB 2.0 (480 Mbps)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Network Jacks</strong></p></td><td  ><p>(1) 5 GbE</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Audio Jacks</strong></p></td><td  ><p>(2) Analog and SPDIF</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Legacy Ports/Jacks</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Other Ports/Jack</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>PCIe x16</strong></p></td><td  ><p>(1) v5.0 (x16)<br>(1) v3.0 (x2)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>PCIe x8</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>PCIe x4</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>PCIe x1</strong></p></td><td  ><p>(1) v3.0 (x1)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>CrossFire/SLI</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>DIMM Slots</strong></p></td><td  ><p>(4) DDR5-8200+(OC), 256GB Capacity</p></td></tr><tr><td class=\"firstcol \" ><p><strong>M.2 Sockets</strong></p></td><td  ><p>(1) PCIe 5.0 x4 (128 Gbps) / PCIe (up to 80mm)<br>(3) PCIe 4.0 x4 (64 Gbps) / PCIe (up to 80mm)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>SATA Ports</strong></p></td><td  ><p>(2) SATA3 6 Gbps</p></td></tr><tr><td class=\"firstcol \" ><p><strong>USB Headers</strong></p></td><td  ><p>(1) USB v3.2 Gen 2x2 (20 Gbps) Type-C<br>(2) USB v3.2 Gen 1 (5 Gbps)<br>(2) USB v2.0 (480 Mbps)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Fan/Pump Headers</strong></p></td><td  ><p>(7) 4-Pin (Accepts PWM and DC)</p></td></tr><tr><td class=\"firstcol \" ><p><strong>RGB Headers</strong></p></td><td  ><p>(3) 3-pin ARGB Gen2 headers<br>(1) 4-pin RGB header</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Diagnostics Panel</strong></p></td><td  ><p>4 LED Post Status Checker</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Internal Button/Switch</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>SATA Controllers</strong></p></td><td  ><p>✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Ethernet Controller(s)</strong></p></td><td  ><p>(1) Realtek RTL8126 5 GbE</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Wi-Fi / Bluetooth</strong></p></td><td  ><p>Realtek 8922AE Wi-Fi 7 - 160 MHz, 6 GHz, BT 5.4 </p></td></tr><tr><td class=\"firstcol \" ><p><strong>USB Controllers</strong></p></td><td  ><p>ASMedia ASM4242</p></td></tr><tr><td class=\"firstcol \" ><p><strong>HD Audio Codec</strong></p></td><td  ><p>Realtek ALC4082</p></td></tr><tr><td class=\"firstcol \" ><p><strong>DDL/DTS</strong></p></td><td  ><p>✗ / ✗</p></td></tr><tr><td class=\"firstcol \" ><p><strong>Warranty</strong></p></td><td  ><p>3 Years</p></td></tr></tbody></table></div><div data-widget-type=\"review\" data-model-name=\"ASRock X870E Challenger Wifi\"></div><h2 id=\"inside-the-box\">Inside the Box</h2><p>The retail packaging includes a few accessories to help you get up and running. You get the standard Wi-Fi antennas, two white SATA cables (one with a 90-degree connector), an installation guide, and some stickers. It’s not a lot, but par for the course in this price bracket.</p><h2 id=\"design-and-features-of-the-asrock-x870e-challenger-wifi-white\">Design and Features of the ASRock X870E Challenger Wifi White</h2><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/vp3kE3wrm9vN92zXeJ2AfY-1920-80.png\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/XfHnVh36Ua95yfo5fZ7SKY-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/eiWp39A6R3AvNQuYMKSVuX-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/3txfWABmg6QNq3fezRUhFY-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/mEbxxEyKiAHEifiqmsTYzX-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/2Tkdvc9aaaijqsjdG7nouX-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/m6NjurTob4zTAR7zzXwukX-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>The X870E Challenger Wifi White is, as the name describes, all white. In fact, everything save for two light-gray fan headers is white, along with the onboard chips and screws that secure the M.2 heatsinks to the 8-layer, server-grade PCB. Oversized VRM heatsinks cover the top-left part of the board, with Challenger written across them. </p><p>The bottom part of the board has a DIY-friendly, toolless multi-layer heatsink for the primary M.2 socket, plus basic plate-style heatsinks with screws for the M.2 sockets and dual promontory chipset. Overall, it’s a no-frills board (no integrated RGB lighting, even), so it lacks some of the larger plate-style heatsinks and ‘EZ latch features found on more expensive boards. You’ll need an all-white build to take advantage of the all-white look, but it’s still one of the better-looking white boards, especially for its price.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"X6pUyraMSKuSdoEJqAeVFY\" name=\"board4 - tophlf\" alt=\"ASRock X870E Challenger Wifi\" src=\"https://cdn.mos.cms.futurecdn.net/X6pUyraMSKuSdoEJqAeVFY-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Starting in the top left corner, we see two “high-density” 8-pin EPS connectors (one required) to power the processor. Surrounding those are the two “XL” heatsinks to cool the flagship-class power delivery below. To the right of the socket are four DRAM slots with locking mechanisms on both sides. ASRock lists support up to DDR5-8200, which is plenty for the platform. Our Kingston kit didn’t want to play nice with this board, which makes this the third ASRock board that doesn’t support our base test kit. As always, stick to the memory QVL list for assured support.</p><p>Above the DRAM slots are the first three (of seven) 4-pin fan headers. Each header supports PWM- or DC-controlled devices and can be tweaked through the BIOS or ASRock’s Windows-based software. The CPU_FAN1 header supports up to 1A/12W output, while the rest support up to 3A/36W each. You should have plenty of headers and enough power.</p><p>Shifting focust to the right corner and moving down, the next feature is the 4-LED POST Status Checker. There are LEDs for the CPU, Boot, VGA, and RAM. During the POST process, these light up and, if there is a problem, the offending area’s LED stays lit, giving you a general idea of where the issue is. It’s not quite as helpful as the 2-character debug display on higher-end boards, but is a lot better than nothing and typical on a lower-priced motherboard.</p><p>Continuing down the edge, we spy two (of three) 3-pin ARGB headers, just above the main 24-pin ATX power connector. ASRock’s Polychrome Sync application controls the attached RGBs, offering several canned light patterns and adjustments. Last but not least is the front panel USB 3.2 Gen 2x2 (20 Gbps) Type-C connector. If there’s one thing that stands out on this board, it’s the number and speed of the USB ports — there are a lot, and ASRock didn’t skimp on speed.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"WHt49vRV5tc6VgqiYpsZQY\" name=\"board5 - vrm\" alt=\"ASRock X870E Challenger Wifi\" src=\"https://cdn.mos.cms.futurecdn.net/WHt49vRV5tc6VgqiYpsZQY-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Power delivery on the X870E Challenger is one of the most robust we’ve seen, especially for a $230 budget-class motherboard. It comes with 23 total phases, 20 dedicated to Vcore. Power flows from the 8-pin EPS connectors to the Renesas RAA229628 20-phase PWM controller. From there, power heads to the more Renesas bits, this time the R2209004 110A SPS MOSFETs — a surprise to see on a board of this class. The 2,200A available will most certainly handle anything you throw at it. Flagship processors like the <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review\"><u>Ryzen 9 9950X</u></a> or <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x-cpu-review\"><u>Ryzen 9 9950X3D2</u></a>, overclocked even with extreme cooling methods, are also no problem.ALBM - board6 (bottom half): </p><p>On the bottom half of the board, we’ll start on the left where there’s a fully exposed audio solution that shows off the flagship Realtek ALC4082 codec, along with a couple of dedicated audio capacitors. While you won’t find a fancy integrated amplifier or DAC, this is the best codec for the platform and another pleasant surprise on such an inexpensive offering.</p><p>In the middle of the board are three PCIe slots. Two are full-length, and one is an open-ended x1-size slot. The top slot uses ASRock’s Reinforced Steel Slot, connects through the CPU, and is your PCIe 5.0 x16 slot (no bifurcation) for video cards. The second full-length slot at the bottom connects through the chipset and runs up to PCIe 3.0 x2, while the tiny x1 slot runs at PCIe 3.0 x1 speeds and also sources its bandwidth from the chipset. I’d like to see a PCIe 4.0 slot for extra bandwidth, but as-is it will easily support lower-bandwidth expansion needs.</p><p>Mixed among the PCIe slots,  to the right of the chipset heatsink, sit four M.2 sockets. The top socket, under the large, tiered, DIY-friendly heatsink, is the one and only PCIe 5.0 x4 (128 Gbps) “Blazing” M.2 socket (M.2_1). M.2_2/3, which both run at PCIe 4.0 x4 (64 Gbps), are under the plate-style heatsink that’s secured with three captive screws. M.2_4 runs vertically along the right edge of the board and also supports PCIe 4.0 x4 drives. The good news is that the M.2 drives don't share lanes. You can pack the motherboard full of them, and each will run at full bandwidth without degrading or disabling another part. If your system needs a RAID setup on M.2, the board supports RAID0/1/10 modes. I wish there were more DIY-friendly features, but at this price, something has to give to keep prices low.</p><p>Hidden under the M.2 heatsink, along the right edge, is a 19-pin USB 3.2 Gen 1 (5 Gbps) header and the two SATA ports (supports RAID0/1 modes). Finally, we've included a few images of the board's active ICs. ASRock uses a mix of ASMedia (USB4), Realtek (audio, networking), and Renesas for the power bits.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/oxAD8KAhXsMCRpYA7G6j9H-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/V9k4VE3gZqx7T5dYbhAwmG-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/YPNZrZszHUWBGNtCgFiW6H-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/KRt8vEFH5BQ4hPDhxe65zG-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/nZpmrx6p5vwkcPERrmqMtG-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>At the bottom are several headers, including front-panel audio and USB ports. A complete list of connectivity is listed below (from L to R):</p><ul><li>Front panel audio</li><li>4-pin RGB</li><li>3-pin ARGB</li><li>(2) USB 2.0 headers</li><li>(4) 4-pin fan headers</li><li>19-pin USB 3.2 Gen 1 header</li><li>2-pin Clear CMOS jumper</li><li>Power LED and Speaker</li><li>Front panel</li></ul><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"FZCcpyJinszPYfYvuisccX\" name=\"board7 - reario\" alt=\"ASRock X870E Challenger Wifi\" src=\"https://cdn.mos.cms.futurecdn.net/FZCcpyJinszPYfYvuisccX-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Flipping the board around to the rear IO, you can see it’s chock-full of colorful USB and other ports. On the left are Clear CMOS and BIOS Flashback buttons. Next to those are the Wi-Fi 7 (remember, it’s ‘only’ 160 MHz) antenna connections and the HDMI (v2.1) port. Next to that are stacks of colored USB ports. In total, there are 12: two USB 4 (40 Gbps) Type-C ports that double as video outputs; five USB 3.2 Gen 2 (10 Gbps), two of which are the Lightning USB ports (yellow, and designed to reduce latency by using different controllers). Three USB 3.2 Gen 1 (5 Gbps) ports (purple) support USB PD 3.0 charging up to 5V@3A (15W). Lastly, the two USB 2.0 ports are black. Above one of the Type-C ports is the Realtek 5 GbE, and finally, on the right end, is the audio stack with two 3.5mm analog jacks and SPDIF outputs.</p><p>If you’re an esports gamer where every millisecond counts, the lighting gaming ports could come in handy. Otherwise, the feature adds little value for the average user.</p><p><strong>MORE: </strong><a href=\"https://www.tomshardware.com/reviews/best-motherboards,3984.html\"><u><strong>Best Motherboards</strong></u></a><br><br><strong>MORE: </strong><a href=\"https://www.tomshardware.com/reviews/motherboard-selection-guide,3900.html\"><u><strong>How To Choose A Motherboard</strong></u><br><br></a><strong>MORE: </strong><a href=\"https://www.tomshardware.com/reviews/motherboard-selection-guide,3900.html\"><u><strong>Best Motherboard Deals</strong></u><br><br></a><strong>MORE: </strong><a href=\"https://www.tomshardware.com/reviews/motherboard-selection-guide,3900.html\"><u><strong>Best Motherboard Combo Deals</strong></u></a><br><br><strong>MORE: </strong><a href=\"https://www.tomshardware.com/t/motherboards/\"><u><strong>All Motherboard Content</strong></u></a></p><h2 id=\"firmware\">Firmware</h2><p>Like other X870E ASRock boards, the X870E Challenger starts in the informative Easy Mode, but it also lets you adjust several options (XMP, profiles, boot order, access to Fan-Tastic Tuning, etc.). The Challenger White uses a grey background and black characters, closely matching the new Taichi’s theme. The high contrast also makes it easy to read. The standard BIOS displays headings across the top, with subheadings and details below. </p><p>You can tweak anything here, as ASRock includes every option you can think of. Overclocking is straightforward, with most options readily available. The layout is logical, and the mouse movement is smooth. We have no significant complaints about the ASRock firmware, but it could certainly use a facelift if it wants to keep up with recent Asus, Gigabyte, and MSI updates.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/dWcVNP3ayM4FhxiadzEvhH-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/XSZMSUvRpnhNHBKRKQfNTJ-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/5apyYscrWuDA6U5GaZcXSJ-1920-80.jpg\" alt=\"ASRock X870E Challenger Wifi\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure>",
+      "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "qFwN5anKuQodWsfRtTo2QG"
+    },
+    {
+      "id": 1532,
+      "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
+      "summary": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart",
+      "content": "<article>\n                                <p>Hunting around for deals this morning has produced a great find: a powerful RTX 5080-fueled gaming laptop that has just recently dropped a whopping $461 in price to a new all-time low when we check the price history of the Gigabyte laptop at Walmart.  You can now pick up the <a href=\"https://www.walmart.com/ip/GIGABYTE-GAMING-A16-PRO-Gaming-Laptop-165Hz-2560x1600-WQXGA-NVIDIA-GeForce-RTX-5080-Intel-Core-7-240H-1TB-SSD-32GB-LPDDR5X-RAM-Windows-11-Home-GAMING/19078711166\">Gigabyte Gaming A16 Pro for $1,799</a>, a very tasty discount from its previous lowest price of $2,260. It's unfortunately also showing as low in stock, so if you are interested in this large 16-inch gaming laptop with one of the most powerful laptop graphics processors inside, then you might want to jump on the deal before it sells out.   </p><p>● <a href=\"https://www.walmart.com/ip/GIGABYTE-GAMING-A16-PRO-Gaming-Laptop-165Hz-2560x1600-WQXGA-NVIDIA-GeForce-RTX-5080-Intel-Core-7-240H-1TB-SSD-32GB-LPDDR5X-RAM-Windows-11-Home-GAMING/19078711166\">Check out this deal at Walmart</a></p><p>The Gigabyte Gaming A16 Pro is a 16-inch gaming laptop with an IPS display, a WQXGA aspect ratio, and a 2560×1600 pixel resolution. The screen supports refresh rates up to 165Hz and has a 3 ms gray-to-gray response time, a 100% sRGB gamut, and a brightness of 400 nits.</p><p>Inside the chassis of this gaming beast is an Nvidia RTX 5080 laptop graphics card with  16GB of VRAM and an Intel Core 7 240H processor. There's plenty of memory with 32GB of RAM, and for storage, you get a 1TB SSD. </p><div class=\"product star-deal\"><a data-dimension112=\"b5e7a242-bb29-11f1-a232-dbb2627886f8\" data-action=\"Star Deal Block\" data-label=\"Gaming A16 Pro\" data-dimension48=\"Gaming A16 Pro\" data-dimension25=\"$1799\" href=\"https://www.walmart.com/ip/GIGABYTE-GAMING-A16-PRO-Gaming-Laptop-165Hz-2560x1600-WQXGA-NVIDIA-GeForce-RTX-5080-Intel-Core-7-240H-1TB-SSD-32GB-LPDDR5X-RAM-Windows-11-Home-GAMING/19078711166\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:797px;\"><p class=\"vanilla-image-block\" style=\"padding-top:65.75%;\"><img id=\"DkfkVRN24KXbiidKrahThS\" name=\"Gigabyte Gaming A16 Pro\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/DkfkVRN24KXbiidKrahThS-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"797\" height=\"524\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p>The hardware included inside the Gigabyte Gaming A16 Pro includes Nvidia's RTX 5080 laptop graphics card with  16GB of VRAM, an Intel Core 7 240H processor, 32GB of RAM, and a 1TB SSD. <a class=\"view-deal button\" href=\"https://www.walmart.com/ip/GIGABYTE-GAMING-A16-PRO-Gaming-Laptop-165Hz-2560x1600-WQXGA-NVIDIA-GeForce-RTX-5080-Intel-Core-7-240H-1TB-SSD-32GB-LPDDR5X-RAM-Windows-11-Home-GAMING/19078711166\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"b5e7a242-bb29-11f1-a232-dbb2627886f8\" data-action=\"Star Deal Block\" data-label=\"Gaming A16 Pro\" data-dimension48=\"Gaming A16 Pro\" data-dimension25=\"$1799\">View Deal</a></p></div><p>The laptop also packs plenty of connectivity options for connecting to the internet and networks with both Wi-Fi 6E and Bluetooth. For video connections to a monitor or television, there's an HDMI 2.1 port and a USB Type-C port that supports DisplayPort 1.4. </p><p>The Gigabyte Gaming A16 Pro is a well-rounded gaming laptop, offering enough power for the latest games, with a classy gamer aesthetic and tasteful RGB backlighting on the keyboard. Now that it has received a hefty discount, the laptop is much better value for money. Showing at $2,450 in mid-July and then $2,260 throughout August and most of September, the <a href=\"https://www.walmart.com/ip/GIGABYTE-GAMING-A16-PRO-Gaming-Laptop-165Hz-2560x1600-WQXGA-NVIDIA-GeForce-RTX-5080-Intel-Core-7-240H-1TB-SSD-32GB-LPDDR5X-RAM-Windows-11-Home-GAMING/19078711166\">Gigabyte Gaming A16 Pro now hits that new all-time low price of $1,799</a>.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ZrdWnn6LVAPRuPXk3QquNa"
+    },
+    {
+      "id": 1533,
+      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved",
+      "summary": "Data center developer proposes paying checks of $10,000 per household to sway public sentiment.",
+      "content": "<article>\n                                <p>NorthPoint Development wants to build a data center on 1,300 acres in the Pocono foothills, near Hazle Township, Pennsylvania. As well as seeking to charm the local government with various funding packages, it has proposed paying checks of $10,000 per household. Despite the Pennsylvania town’s median income of $60,000, the offer isn’t being warmly welcomed by locals, reports the <a href=\"https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7\" target=\"_blank\">Wall Street Journal</a>. Those interviewed were widely against the data center development plans and cited several reasons for being averse to accepting the payout. The major concerns regarded potential impacts on property values, the specter of <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens\" target=\"_blank\">noise pollution</a>, and a distrust of both the <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building\" target=\"_blank\">AI moguls</a> and local government representatives.</p><p>Offer letters began to be received by Hazle Township back in June. The WSJ recently talked to several residents about NorthPoint’s $10,000 offer. While some say the $10,000 would be handy, it couldn’t find many residents who were “eager to welcome the data center for the payout,” in the journal’s words. We’d point out that opinion polling can often be inaccurate, as what people say and what they do, voting-wise, doesn’t always line up.</p><p>Interviewees cited a number of key reasons for their data center development aversion. We distilled the following points from the source:</p><ul><li>Noise pollution concerns</li><li><a href=\"https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption\">Water and energy cost</a> worries</li><li>Dislike of AI</li><li>Distrust of AI moguls and local authorities</li><li>Potential negative impact on property prices</li></ul><p>Traditionally, developers have offered towns and cities packages worth tens of millions, including <a href=\"https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more\" target=\"_blank\">funding for local services</a>. But direct cash payments to residents represent a new phase of their charm offensive, the WSJ indicates. Perhaps the idea for the direct payments to residents came after “a raucous public meeting last year, where angry locals asked what they had to gain by supporting the data center,” ponders the source.</p><p>The locals won’t just get the direct payout, though. Other funds up to $120 million over the next 15 years have been dangled like a carrot for community and local services investments — improved schools, emergency services, and so on.</p><p>Meanwhile, Hazle Township’s government already rejected the data center project on zoning grounds last year, and it has enacted a temporary moratorium on data center construction. Finally, the $10,000 offer to households is simply not enough in many interviewed folks’ opinions. Residents could feel insulted by it, regarding the offer as a bribe, concludes the WSJ report. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "KvyCttMmTEZahuxxPo2xm"
+    },
+    {
+      "id": 1534,
+      "title": "Denuvo cracking group DenuvOwO reportedly disbands",
+      "summary": "Denuvo hypervisor-bypassing group DenuvOwO reportedly disbands — lawsuit from Irdeto has a chilling effect, but cracking continues",
+      "content": "<article>\n                                <p>Irdeto, the company behind the much-maligned and performance-sapping DRM software Denuvo, has just scored itself an apparent win. According to <a href=\"https://x.com/realCrackWatch/status/2104290304580862231\">reports circulating online</a>, DenuvOwO, the group that came up with the hypervisor-based bypass (HV) of Denuvo, has disbanded. Although it wasn't spelled out, a piracy scene source close to the matter stated that the action was probably due to <a href=\"https://www.tomshardware.com/video-games/denuvo-sues-anonymous-game-cracker-voices38-over-alleged-drm-circumvention-seeks-damages-after-anti-tamper-protections-bypassed-in-26-games\">Irdeto's lawsuit</a> against known cracker Voices38. The HV bypass itself, rather than the games, is a DRM-breaking tool, and one that disables system-level protections to run, to boot.</p><p>The well-known CS.Rin forum was oftentimes the first place where links to DenuvOwO HV-bypassed games first appeared, and it has removed all links to said titles and banned some of the group's members. Despite the fact that the site is hosted in Russia, the likely explanation is that since Irdeto is now reaching out to multiple third-party services searching for Voices38's identity, CS.Rin wishes to reduce its exposure to far-reaching laws like the DMCA. </p><p>Although the loss is causing some consternation and concern among the piracy scene, this latest development isn't expected to freeze Denuvo cracking entirely. DenuvOwO's work was based around the usage of common open-source computing tools, and it's expected it'll be relatively easy for others to replicate.</p><p>Meanwhile, Voices38 has previously said \"all is fine [...] Everything will continue as normal\" regarding the lawsuit and keeps releasing games. Most recently, long-running cracking group RUNE has taken to using Denuvo DRM as cannonball target practice, and a couple days ago released a <a href=\"https://twistedvoxel.com/assassins-creed-mirage-cracked-version-improves-performance-by-15-over-denuvo-drm/\">proof-of-concept crack</a> for <em>Assassin's Creed: Mirage,</em> fully removing Denuvo Anti-Tamper and VMProtect from the executable in one fell swoop.</p><p>Surprising nobody by now, the stripped version appears to run way better than the original, with a 15% boost to average FPS and a 76% uptick in minimum frame rates. This was measured on a beefy rig, too, with an Intel Core i7-13700K and an RTX 5080.</p><p>As an added bonus, the main executable size dropped from 496 MB to 102 MB. That's hardly surprising considering how much the binary resembled a barnacle-encrusted ship — the crack strips out 34 VMProtect-virtualized functions, 200 Denuvo VM cores, 261 function obfuscations, and 25,000 function relocations.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-cracking-group-denuvowo-reportedly-disbands-lawsuit-from-irdeto-has-a-chilling-effect-but-cracking-continues-as-piracy-hub-purges-links",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "kRn66ea3YAqeJBS6mQe8ym"
+    },
+    {
+      "id": 1535,
+      "title": "Save $300 on this 1440p-ready gaming PC with an RTX 5060 Ti 16GB, now $1,399.99",
+      "summary": "This ABS Cyclone Aqua gaming PC, featuring an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD has a $300 discount, now $1,399.99.",
+      "content": "<article>\n                                <p>There's a real advantage right now to buying a pre-built gaming PC. The RAMpocalypse has made it difficult, from a budget point of view, to build new gaming PCs. Instead, the real value is to buy a rig with the specs that'll allow you to game for the next few years. This <a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993?Item=N82E16883360993\">ABS Cyclone Aqua machine with an RTX 5060 Ti 16GB GPU is the perfect example, giving you 1440-capable performance for just $1,399.99</a>.</p><p>● <a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993?Item=N82E16883360993\">Check out this deal at Newegg</a></p><p>You're getting a spec sheet that would be tricky to put together if you were building a rig yourself. The RTX 5060 Ti is the star of this particular show, but the rest of the build includes 16GB of DDR5 RAM, a 1TB SSD, and a 20-core Intel Core i7-14700F processor. We're still seeing the 14700F in pre-builts as an affordable option that can still deliver great gaming performance.</p><div class=\"product star-deal\"><a data-dimension112=\"9cb052ec-bb15-11f1-be05-19caca079b4e\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1399.99\" href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:133.36%;\"><img id=\"Yk2R4k6n6MxcwLAEF8dgk6\" name=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/Yk2R4k6n6MxcwLAEF8dgk6-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"1707\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"9cb052ec-bb15-11f1-be05-19caca079b4e\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1399.99\">Cyclone Aqua (RTX 5060 Ti 16GB): was $1699.99 now $1399.99</a></strong><br>This ABS Cyclone Aqua gaming PC is ready for 1080p and 1440p gaming. It features an Nvidia GeForce RTX 5060 Ti 16GB, 16GB DDR5 RAM, a 1TB SSD, and a 20-core Intel Core i7-14700F CPU.<a class=\"view-deal button\" href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"9cb052ec-bb15-11f1-be05-19caca079b4e\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1399.99\">View Deal</a></p></div><p>The Nvidia GeForce RTX 5060 Ti means you're getting one of Nvidia’s latest-generation cards, with this GPU sitting in the mid-tier. You're getting 4,608 CUDA cores and a boost clock speed of 2,527MHz here. You only need a single eight-pin PCIe connector to deliver power, unlike the RTX 5090, so you don't need to worry about this PC requiring huge amounts of power to run.</p><p>As our <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5060-ti-16gb-review\">RTX 5060 Ti 16 GB review</a> explains, you're getting an impressive set of performance with this Blackwell GPU for 1080p and 1440p gaming. The charts below show how great it is for ray tracing for its price, especially compared to rival cards. You're also getting full Nvidia DLSS support here, giving you the full set of Nvidia's software capabilities for improving performance in-game, including multi-frame generation. MFG will give your games a frame rate boost, inserting AI-generated frames to help deliver performance in the most resource-heavy games at higher resolutions.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/kxZE95sDP64C9cfD6GZfcn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/6W8emE4qtzGBCBosJmQhWn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/PJNkxdkVNWvA2ogTjbfain-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/8uScgGkvdRsWW6aVzME2Rn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>16GB of GDDR7 VRAM, meanwhile, makes this GPU a far better option than the 8GB variants you could pick up at this price. That gives you far more headroom, performance-wise, in games that are resource-heavy, especially for 1440p gaming.</p><p>Meanwhile, the Intel Core i7-14700F is still a good, if older, CPU option for gaming. This Raptor Lake Refresh CPU comes with 20 cores, split across eight performance cores, which are the good ones for gaming, along with 12 efficient cores for multi-threaded work. You also get a max turbo clock speed of 5.4 GHz and a 65W TDP. At 1080p or 1440p, you aren't going to see the 14700F as a bottleneck in modern gaming.</p><p>Some builds at this price are sticking with older specs, including DDR4 RAM, but luckily, you're getting faster DDR5 here. 16GB of G.Skill Flare X5  DDR5 RAM is included, rated for speeds of 6,000 MT/s. Given how pricey RAM is becoming, it's a compromise that it isn't a higher capacity like 32GB, but it could be worse. DDR5 does add to the longevity of this build, however, and you do have scope to upgrade at a later date.</p><p>You also get a 1TB Patriot P410 SSD here. It offers Gen 4 speeds, along with space for a couple of the biggest AAA games alongside Windows. There's also Wi-Fi 6E and Bluetooth 5.2 wireless connectivity included here, along with gigabit Ethernet for a wired connection to your local network.</p><p>The <a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993?Item=N82E16883360993\">$1,399.99 sale price for this ABS Cyclone Aqua gaming PC</a> is a good option in the current market. The Nvidia GeForce RTX 5060 Ti 16GB ensures you've got a rig for 1080p and 1440p gaming, but given how fast prices are rising across the PC hardware market, there's no guarantee that it'll be around for long.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-now-usd1-399-99-newegg-deal-on-abs-cyclone-aqua-rig-nets-you-a-20-core-intel-cpu-along-with-16gb-of-ddr5-and-a-1tb-ssd",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "RzuKhKpYi7btuVube8FCtV"
+    },
+    {
+      "id": 1536,
+      "title": "(PR) AMD to Buy World Labs for $8.2 Billion to Boost 3D Simulation and Robotics Strategy",
+      "summary": "AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model e",
+      "content": "AMD (NASDAQ: AMD) today announced that it has entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. The acquisition will bring a world-class team of researchers and model experts to AMD, strengthening its ability to develop AI hardware, software and systems around the needs of emerging models and applications.<br />\r\n<br />\r\nAs AI expands into reasoning, robotics, simulation and physical AI, the demands on compute infrastructure become more diverse. World Labs' expertise in developing advanced models will give AMD deeper insight into how workloads are evolving and help shape its future technology roadmaps. The acquisition advances AMD's strategy to deliver AI infrastructure for an open ecosystem.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/BDEGyA1GZCdLvEMO.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/BDEGyA1GZCdLvEMO_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353178/amd-to-buy-world-labs-for-usd-8-2-billion-to-boost-3d-simulation-and-robotics-strategy",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "94208140d311d90ef0e61c62bf05d9de"
+    },
+    {
+      "id": 1537,
+      "title": "Colorful Resorts to RTX 3050 and DDR4 for P15E Budget Gaming Laptop",
+      "summary": "Seemingly in light of the recent PC hardware crisis, which has affected PC OEMs big and small alike, Colorful has just revived the NVIDIA GeForce RTX 3050 for its latest Panda laptop design. The latest revision of the Colorful Panda P15E fe",
+      "content": "Seemingly in light of the recent PC hardware crisis, which has affected <a href=\"https://www.techpowerup.com/348206/microsoft-surface-laptops-get-usd-200-300-price-hike-due-to-rampocalypse\" target=\"_blank\">PC OEMs big</a> and <a href=\"https://www.techpowerup.com/353013/xmg-adjusts-laptop-prices-as-rampocalypse-hits-supply-chain\" target=\"_blank\">small alike</a>, Colorful has just revived the NVIDIA GeForce RTX 3050 for its latest Panda laptop design. The latest revision of the Colorful Panda P15E features the typical 15-inch form factor and chassis from the RTX 5050 version the brand previously sold, but it carries a significant downgrade in internals. <br />\r\n<br />\r\nThe new CPU in the Panda P15E is the <a href=\"https://www.techpowerup.com/cpu-specs/core-i5-13420h.c3058\" target=\"_blank\">Intel Core i5-13420H</a>, an 8-core, 12-thread part with 4 P-Cores and 4 E-Cores and an Intel Iris Xe 80EU iGPU, while the dGPU featured in the new laptop is the <a href=\"https://www.techpowerup.com/gpu-specs/geforce-rtx-3050-mobile-refresh-6-gb.c3971\" target=\"_blank\">NVIDIA GeForce RTX 3050</a>. As a result of the older platform, the laptop also resorts to 16 GB of DDR4-3200 memory and a 512 GB M.2 SSD. The display is a 144 Hz IPS unit that measures in at 15.6 inches. At the time of writing, it does not appear as though there is an international version of the RTX 3050 version of the laptop, but it is available on JD.com for RMB 6,299, which converts to roughly $938.70.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/RXrdL9uK7Ovjblch.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/RXrdL9uK7Ovjblch_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/kuW09x2573BAzkQC.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/kuW09x2573BAzkQC_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/lrriwixppToXF7fD.jpg\" target=\"_blank\" data-width=\"880\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/lrriwixppToXF7fD_thm.jpg\" width=\"119\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353170/colorful-resorts-to-rtx-3050-and-ddr4-for-p15e-budget-gaming-laptop",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "d59ba7d5a70f51bcf2d796d7aceb986e"
+    },
+    {
+      "id": 1538,
+      "title": "Pulsar Launches X2F CrazyLight 29 g Wireless Fingertip Gaming Mouse",
+      "summary": "Pulsar has officially launched its latest fingertip grip gaming mouse, the X2F CrazyLight, effectively shaving off a whole extra 9 g—or 24%—from the original X2F design, and updating the mouse's internals in the process. The new X2F CrazyLi",
+      "content": "Pulsar has officially launched its latest fingertip grip gaming mouse, the X2F CrazyLight, effectively shaving off a whole extra 9 g—or 24%—from the original X2F design, and updating the mouse's internals in the process. The new X2F CrazyLight features Pulsar's X2-S gaming sensor, which promises accurate tracking at up to 42,000 DPI, 800 IPS speeds, and 70 G of acceleration. It also has a 20K lock mode, which locks the mouse's frame rate, for faster response times, at the cost of battery life. <br />\r\n<br />\r\nThe mouse itself is capable of 8 kHz polling rate, and it has a symmetrical, fingertip shape measuring in at 87.5 × 31.1 × 31.6 mm. It uses Pulsar Optical Switches, rated for 100 million clicks, and a TTC Gold encoder on the scroll wheel, which Pulsar claims has a more durable, dust-resistant design. The shell is made from a blend of ABS and nylon, and it includes both dot skates and full-cover feet for adjustable levels of control. The mouse can be reprogrammed and customized in Pulsar's downloadable driver or with the Bibimbap web driver for a software-free experience.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/3xrcYtFDC2yBVkg1.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/3xrcYtFDC2yBVkg1_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/8dHgXEpBelzwKzA2.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/8dHgXEpBelzwKzA2_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/T4XKGqrz9mGRNqje.jpg\" target=\"_blank\" data-width=\"1653\" data-height=\"930\" ><img src=\"https://tpucdn.com/img/T4XKGqrz9mGRNqje_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/hLWQ9zV3dRPBTn3i.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/hLWQ9zV3dRPBTn3i_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353168/pulsar-launches-x2f-crazylight-29-g-wireless-fingertip-gaming-mouse\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353168/pulsar-launches-x2f-crazylight-29-g-wireless-fingertip-gaming-mouse",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "8ebdaede0802ac9ce007256c43312a2d"
+    },
+    {
+      "id": 1539,
+      "title": "Acemagic Launches F9A: $6,500 Workstation Mini PC with AMD Ryzen AI Max+ Pro 495",
+      "summary": "After showing off its Gorgon Halo mini workstations at IFA 2026, Acemagic has officially launched the F9A mini PC as an AI workstation powered by the AMD Ryzen AI Max+ APU with its Radeon 8065S iGPU, for 131 TOPS of AI compute and up to 192",
+      "content": "After showing off its <a href=\"https://www.techpowerup.com/352384/acemagic-features-mini-workstation-with-amd-ryzen-ai-max-pro-495-gorgon-halo-apu\" target=\"_blank\">Gorgon Halo mini workstations at IFA 2026</a>, Acemagic has officially launched the F9A mini PC as an AI workstation powered by the AMD Ryzen AI Max+ APU with its Radeon 8065S iGPU, for 131 TOPS of AI compute and up to 192 GB of unified memory. The Ryzen AI mini PC's all-metal chassis measures in at just 158.5 x 158.5 x 81.5 mm, or 2 L volume, and pricing starts at $6,499 for 192 GB of memory and a 2 TB SSD. <br />\r\n<br />\r\nThe mini PC features a modern ports selection, with front I/O consisting of dual USB 3.2 Gen 2 Type-A ports, a USB4 Type-C port, an SD card reader, and a 3.5 mm audio combo jack. The back of the mini PC, meanwhile, features another USB4 port, DisplayPort 2.1, HDMI 2.1, dual 2.5 GbE, a USB 2.0 port, another USB 3.2 Gen 2 port, and an OCuLink port for eGPU expansion in the event that you need more power than the Radeon 8065S can put out. The 192 GB of LPDDR5X-8355 unified memory can be configured so that 160 GB is dedicated to video memory.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/MWPUPmZKW2VfctLS.jpg\" target=\"_blank\" data-width=\"720\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/MWPUPmZKW2VfctLS_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/pu7nax7xOqrto9O6.jpg\" target=\"_blank\" data-width=\"1880\" data-height=\"771\" ><img src=\"https://tpucdn.com/img/pu7nax7xOqrto9O6_thm.jpg\" width=\"317\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/wg0hyMGUJc4ijwGk.jpg\" target=\"_blank\" data-width=\"768\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/wg0hyMGUJc4ijwGk_thm.jpg\" width=\"104\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353163/acemagic-launches-f9a-usd-6-500-workstation-mini-pc-with-amd-ryzen-ai-max-pro-495\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353163/acemagic-launches-f9a-usd-6-500-workstation-mini-pc-with-amd-ryzen-ai-max-pro-495",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "fdaeecc0881b29bca37a9af6350c109c"
+    },
+    {
+      "id": 1540,
+      "title": "Panther Lake Teardown Shows Intel 18A Near TSMC N3E, Newer TSMC Nodes Still Ahead",
+      "summary": "SemiAnalysis has published a teardown of Intel's Panther Lake (Core Ultra 7 365), offering a rare look at 18A inside a shipping chip. Intel's 18A node brings advanced manufacturing technologies such as rear-side power delivery and a new tra",
+      "content": "<a rel=\"nofollow\" href=\"https://newsletter.semianalysis.com/p/intel-panther-lake-teardown\" target=\"_blank\">SemiAnalysis</a> has published a teardown of Intel's Panther Lake (<a href=\"https://www.techpowerup.com/344159/core-ultra-7-365-test-sample-gets-geekbenched-scores-indicate-generational-regression\" target=\"_blank\">Core Ultra 7 365</a>), offering a rare look at 18A inside a shipping chip. Intel's 18A node brings advanced manufacturing technologies such as rear-side power delivery and a new transistor design, so its success is vital for the Foundry. The firm found the 18A compute logic to be similar in density to the TSMC N3E logic used in the 12-core Xe3 GPU tile. It also puts 18A about 18.6% denser than the Intel 3 GPU logic, using a representative-cell model. However, SemiAnalysis says 18A does not lead TSMC N3P, N2, or Samsung SF2 in peak density. It further cautions that whole-die density depends on cell mix and placement. <br />\r\n<br />\r\nPanther Lake is Intel's first chip with RibbonFET gate-all-around transistors, and the first commercial implementation of <a href=\"https://www.techpowerup.com/309636/with-powervia-intel-achieves-a-chipmaking-breakthrough\" target=\"_blank\">PowerVia backside power delivery</a>. SemiAnalysis counted four stacked ribbons per transistor, compared to three sheets on Samsung's SF2. Moreover, the Cougar Cove P-core takes roughly the same area as Lunar Lake's Lion Cove, even though L2 grew from 2.5 MiB to 3 MiB. Panther Lake's NPU 5 reportedly requires 36.9% less chip area than Lunar Lake's NPU 4, though the number of INT8 MAC units remains the same. SemiAnalysis describes the CPU cores as incremental updates.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/RPOqz3OgQDDSEDm9.jpg\" target=\"_blank\" data-width=\"935\" data-height=\"757\" ><img src=\"https://tpucdn.com/img/RPOqz3OgQDDSEDm9_thm.jpg\" width=\"161\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/BJikFZALhfIm9wod.jpg\" target=\"_blank\" data-width=\"1183\" data-height=\"635\" ><img src=\"https://tpucdn.com/img/BJikFZALhfIm9wod_thm.jpg\" width=\"242\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/tVx5yI7ATARgo7CS.jpg\" target=\"_blank\" data-width=\"1383\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/tVx5yI7ATARgo7CS_thm.jpg\" width=\"187\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353161/panther-lake-teardown-shows-intel-18a-near-tsmc-n3e-newer-tsmc-nodes-still-ahead\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353161/panther-lake-teardown-shows-intel-18a-near-tsmc-n3e-newer-tsmc-nodes-still-ahead",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "c861abb257b362aef28696e52aea4953"
+    },
+    {
+      "id": 1541,
+      "title": "(PR) Kingston Retains No. 1 Position in Global DRAM Module Market",
+      "summary": "Kingston Technology Company, Inc., a world leader in memory products and technology solutions, today announced it has been ranked the top third-party DRAM module supplier in the world, according to the latest rankings by revenue from analys",
+      "content": "Kingston Technology Company, Inc., a world leader in memory products and technology solutions, today announced it has been ranked the top third-party DRAM module supplier in the world, according to the latest rankings by revenue from analyst firm TrendForce. Kingston retains its number 1 position with an estimated 62% market share.<br />\r\n<br />\r\nTrendForce reported that the global DRAM module market generated approximately $21.2 billion in revenue in 2025, representing a 59% YoY increase and a significant acceleration from the 7% growth recorded in 2024. The market's expansion was driven by rising DRAM prices and stronger shipment volumes during the second half of the year. According to the report, Kingston's revenue grew 48% YoY in 2025, reinforcing its leadership position in a market where the top five DRAM module suppliers accounted for 77% of total revenue. Kingston alone represented nearly two-thirds of the market.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/M3esBrzsCCzqy5sq.jpg\" target=\"_blank\" data-width=\"1263\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/M3esBrzsCCzqy5sq_thm.jpg\" width=\"171\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353160/kingston-retains-no-1-position-in-global-dram-module-market\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353160/kingston-retains-no-1-position-in-global-dram-module-market",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "9bf4dc394d05cea55cf78a8034f6af4e"
+    },
+    {
+      "id": 1542,
+      "title": "(PR) Turtle Beach Launches Minecraft Dungeons 2 Themed Peripherals",
+      "summary": "Leading gaming accessories maker Turtle Beach Corporation (Nasdaq: TBCH), today announced its new family of Minecraft Dungeons II themed peripherals including an exclusive controller, headset and travel case that celebrate the highly antici",
+      "content": "Leading gaming accessories maker Turtle Beach Corporation (Nasdaq: TBCH), today announced its new family of Minecraft Dungeons II themed peripherals including an exclusive controller, headset and travel case that celebrate the highly anticipated Dungeons II game are now available globally. Officially licensed by Mojang and Nintendo, the new Turtle Beach Rematch Wireless Gaming Controller - Minecraft Dungeons II for Nintendo Switch 2 features a dynamic lenticular design that shifts from Valorie to Creeper while Turtle Beach's renowned engineering lets players triumphantly wield their sword as they thwart danger in unexplored worlds. The premium TMR thumbsticks ensure drift-free precision attacks on the mob hordes causing chaos while the built-in C Button allows easy access to GameChat for seamless communication with friends. This controller also works on the Nintendo Switch family of systems.<br />\r\n<br />\r\nOn the audio front, the Turtle Beach Airlite Fit Wired Gaming Headset - Minecraft Dungeons II for Nintendo Switch 2 ensures every explosive sound, sneak attack and rescue plea from friends are heard in the instants that are needed for victory. And when the session is done the Turtle Beach PlayTrek Travel Case - Minecraft Dungeons II and the Turtle Beach PlayTrek Travel Case - Minecraft Great Outdoors make sure players' Nintendo Switch 2 travels safely and it is ready for their next adventure.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/qB0eQrPW1SeGeDxo.jpg\" target=\"_blank\" data-width=\"1153\" data-height=\"732\" ><img src=\"https://tpucdn.com/img/qB0eQrPW1SeGeDxo_thm.jpg\" width=\"205\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/abr9AxjuS2YFHdRE.jpg\" target=\"_blank\" data-width=\"1052\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/abr9AxjuS2YFHdRE_thm.jpg\" width=\"142\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/hGGl899wrZlM0wCl.jpg\" target=\"_blank\" data-width=\"622\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/hGGl899wrZlM0wCl_thm.jpg\" width=\"84\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1ThcHU2PdUuKCslE.jpg\" target=\"_blank\" data-width=\"799\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/1ThcHU2PdUuKCslE_thm.jpg\" width=\"108\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/SpjBdwA7FpNGF0ej.jpg\" target=\"_blank\" data-width=\"868\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/SpjBdwA7FpNGF0ej_thm.jpg\" width=\"118\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/b34ehIHNzpxqI5iN.jpg\" target=\"_blank\" data-width=\"1087\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/b34ehIHNzpxqI5iN_thm.jpg\" width=\"147\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353159/turtle-beach-launches-minecraft-dungeons-2-themed-peripherals\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353159/turtle-beach-launches-minecraft-dungeons-2-themed-peripherals",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "bf3547b62fb5ca3f8f099b30f50d1337"
+    },
+    {
+      "id": 1543,
+      "title": "(PR) Montage Technology Announces Mass Production of Gen 5 DDR5 Register Clock Driver",
+      "summary": "Montage Technology today announced the mass production of its Gen 5 DDR5 Register Clock Driver (RCD05). Designed for high-performance DDR5 RDIMM memory modules, the RCD05 addresses the growing demand from data centers, AI servers, and other",
+      "content": "Montage Technology today announced the mass production of its Gen 5 DDR5 Register Clock Driver (RCD05). Designed for high-performance DDR5 RDIMM memory modules, the RCD05 addresses the growing demand from data centers, AI servers, and other applications for memory systems with higher bandwidth and greater reliability.<br />\r\n<br />\r\nCompliant with the JEDEC DDR5RCD05 specification, the RCD05 supports data rates of up to 8000 MT/s, an approximately 11% increase over the previous-generation RCD04, providing greater memory bandwidth for next-generation server platforms. The RCD05 integrates a high-performance, low-jitter PLL clock driver circuit and supports key features including continuous-time linear equalization (CTLE) and ZQ calibration, helping improve signal integrity and stability for high-speed signal transmission.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ptNYEO5LoJuqhIbV.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"795\" ><img src=\"https://tpucdn.com/img/ptNYEO5LoJuqhIbV_thm.jpg\" width=\"131\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353158/montage-technology-announces-mass-production-of-gen-5-ddr5-register-clock-driver\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353158/montage-technology-announces-mass-production-of-gen-5-ddr5-register-clock-driver",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "f340a4b54eb7abb845c46817a83b9fd3"
+    },
+    {
+      "id": 1544,
+      "title": "(PR) Lenovo Introduces Its First Googlebook, Delivering Premium AI Experiences in a Sleek, Lightweight Design",
+      "summary": "Lenovo today introduced the Lenovo Googlebook 15, its first Googlebook, expanding the company's laptop portfolio by combining Google's computing experiences with Lenovo's signature design, engineering, and user-focused innovation. Powered b",
+      "content": "Lenovo today introduced the Lenovo Googlebook 15, its first Googlebook, expanding the company's laptop portfolio by combining Google's computing experiences with Lenovo's signature design, engineering, and user-focused innovation. Powered by Intel Core Ultra 5 processors with built-in Gemini Intelligence, up to 32 GB of memory and up to 512 GB of storage, the Lenovo Googlebook 15 helps users stay productive and connected - no matter where the day takes them.<br />\r\n<br />\r\nDesigned for professionals, creators and business owners, the Lenovo Googlebook 15 delivers up to 47 TOPS of performance while weighing under 3 lbs., making it the lightest 15-inch device in Lenovo's portfolio.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/2PxS4dLQRnC8YBcN.jpg\" target=\"_blank\" data-width=\"1661\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/2PxS4dLQRnC8YBcN_thm.jpg\" width=\"225\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/r4SsbczLF0zJsHlI.jpg\" target=\"_blank\" data-width=\"1300\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/r4SsbczLF0zJsHlI_thm.jpg\" width=\"176\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/EXBv8eQoCgrXaOwC.jpg\" target=\"_blank\" data-width=\"768\" data-height=\"634\" ><img src=\"https://tpucdn.com/img/EXBv8eQoCgrXaOwC_thm.jpg\" width=\"157\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/3rrv6FDWsJyzhFaW.jpg\" target=\"_blank\" data-width=\"1536\" data-height=\"680\" ><img src=\"https://tpucdn.com/img/3rrv6FDWsJyzhFaW_thm.jpg\" width=\"294\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353155/lenovo-introduces-its-first-googlebook-delivering-premium-ai-experiences-in-a-sleek-lightweight-design\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353155/lenovo-introduces-its-first-googlebook-delivering-premium-ai-experiences-in-a-sleek-lightweight-design",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "44aeeed026b9da8ff42ebe73d3354a2c"
+    },
+    {
+      "id": 1545,
+      "title": "(PR) GMKtec Launches EVO-X5 Pro with AMD Ryzen AI Max+ PRO 495 and 192 GB Unified Memory",
+      "summary": "GMKtec today officially launched the EVO-X5 Pro, a flagship desktop AI supercomputer built for the emerging Agentic PC era. Powered by the AMD Ryzen AI Max+ PRO 495 and equipped with up to 192 GB of LPDDR5X-8533 unified memory, the EVO-X5 P",
+      "content": "GMKtec today officially launched the EVO-X5 Pro, a flagship desktop AI supercomputer built for the emerging Agentic PC era. Powered by the AMD Ryzen AI Max+ PRO 495 and equipped with up to 192 GB of LPDDR5X-8533 unified memory, the EVO-X5 Pro combines large-scale local AI computing, enterprise-grade management, and high-speed connectivity in a compact desktop platform.<br />\r\n<br />\r\nOriginally designed to support 300B-parameter local AI models, the EVO-X5 Pro has achieved a new development breakthrough through GMKtec's latest engineering tuning and optimization, now supporting fully offline LLM inference with up to 320 billion parameters, with the appropriate model, software, quantization, and system configuration. The breakthrough demonstrates the additional headroom of the system's large unified-memory architecture for demanding local AI workloads.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/Dhpklt4kHyPVcMxD.jpg\" target=\"_blank\" data-width=\"554\" data-height=\"289\" ><img src=\"https://tpucdn.com/img/Dhpklt4kHyPVcMxD_thm.jpg\" width=\"249\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353151/gmktec-launches-evo-x5-pro-with-amd-ryzen-ai-max-pro-495-and-192-gb-unified-memory\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353151/gmktec-launches-evo-x5-pro-with-amd-ryzen-ai-max-pro-495-and-192-gb-unified-memory",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "4f16c242ab618eed6b28da67995f8e80"
+    },
+    {
+      "id": 1546,
+      "title": "(PR) INNO3D Launches the Tower Workstation AWS-511Z-R1",
+      "summary": "INNO3D announces the AWS-511Z-R1 Tower Workstation, a high-performance enterprise platform built for AI development, engineering simulation, digital twins, 3D content creation, and data-intensive workloads. Powered by Intel Xeon W-3400 proc",
+      "content": "INNO3D announces the AWS-511Z-R1 Tower Workstation, a high-performance enterprise platform built for AI development, engineering simulation, digital twins, 3D content creation, and data-intensive workloads. Powered by Intel Xeon W-3400 processors and supporting up to 2 TB DDR5 memory, the AWS-511Z-R1 delivers workstation-class performance for professionals working with advanced AI, rendering, visualization, and scientific computing applications.<br />\r\n<br />\r\nThe system supports up to four NVIDIA RTX PRO 4500 Blackwell Workstation Edition GPUs or two NVIDIA RTX PRO 6000 Blackwell Workstation Edition GPUs, providing the compute power required for demanding AI and graphics workflows. The AWS-511Z-R1 reflects INNO3D's commitment to providing scalable enterprise computing solutions that bring AI and accelerated computing closer to businesses and professionals. By combining powerful GPU performance with a flexible workstation design, organisations can innovate faster across a wide range of industries.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/8uXxyHZZEE1mdCb5.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"857\" ><img src=\"https://tpucdn.com/img/8uXxyHZZEE1mdCb5_thm.jpg\" width=\"121\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/gUuxdQvc89MR5N3q.jpg\" target=\"_blank\" data-width=\"1250\" data-height=\"848\" ><img src=\"https://tpucdn.com/img/gUuxdQvc89MR5N3q_thm.jpg\" width=\"192\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/M7Hm537PygjHlBWf.jpg\" target=\"_blank\" data-width=\"1951\" data-height=\"1063\" ><img src=\"https://tpucdn.com/img/M7Hm537PygjHlBWf_thm.jpg\" width=\"239\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353146/inno3d-launches-the-tower-workstation-aws-511z-r1\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353146/inno3d-launches-the-tower-workstation-aws-511z-r1",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "52419c6894d677b894888c4c6628b414"
+    },
+    {
+      "id": 1548,
+      "title": "The Witcher 3 Remastered apparently needs an RTX 5080 for 4K 60 FPS path tracing with Frame Generation",
+      "summary": "CD Projekt Red has published updated PC requirements for The Witcher 3 Remastered, covering everything from 1080p Low settings to 4K path tracing. The highest-end target calls for an RTX 5080, 24 GB of RAM and Frame Generation to reach 60 F",
+      "content": "CD Projekt Red has published updated PC requirements for The Witcher 3 Remastered, covering everything from 1080p Low settings to 4K path tracing. The highest-end target calls for an RTX 5080, 24 GB of RAM and Frame Generation to reach 60 FPS at 4K.",
+      "link": "https://www.notebookcheck.net/The-Witcher-3-Remastered-apparently-needs-an-RTX-5080-for-4K-60-FPS-path-tracing-with-Frame-Generation.1410610.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/The-Witcher-3-Remastered-apparently-needs-an-RTX-5080-for-4K-60-FPS-path-tracing-with-Frame-Generation.1410610.0.html"
+    },
+    {
+      "id": 1549,
+      "title": "Framework Desktop with 192 GB unified memory gets pre-order date",
+      "summary": "Framework has confirmed that pre-orders for its 192 GB Gorgon Halo-based Framework Desktop will open on September 30 at 'morning Pacific Time'. Prices have not been mentioned, nor have the specifics of Framework's pre-ordering system.",
+      "content": "Framework has confirmed that pre-orders for its 192 GB Gorgon Halo-based Framework Desktop will open on September 30 at 'morning Pacific Time'. Prices have not been mentioned, nor have the specifics of Framework's pre-ordering system.",
+      "link": "https://www.notebookcheck.net/Framework-Desktop-with-192-GB-unified-memory-gets-pre-order-date.1410609.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Framework-Desktop-with-192-GB-unified-memory-gets-pre-order-date.1410609.0.html"
+    },
+    {
+      "id": 1550,
+      "title": "Oppo launches new midrange smartphone with 200 MP camera and 6,700 mAh battery",
+      "summary": "Oppo has released the new Reno 16t smartphone in China. The company’s new midrange smartphone features a compact design, a 120 Hz AMOLED display, a 200 MP main camera, and a 6,700 mAh battery with 80 W wired charging support. Buyers can cho",
+      "content": "Oppo has released the new Reno 16t smartphone in China. The company’s new midrange smartphone features a compact design, a 120 Hz AMOLED display, a 200 MP main camera, and a 6,700 mAh battery with 80 W wired charging support. Buyers can choose from purple, black, and heartbeat color options.",
+      "link": "https://www.notebookcheck.net/Oppo-launches-new-midrange-smartphone-with-200-MP-camera-and-6-700-mAh-battery.1410495.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Oppo-launches-new-midrange-smartphone-with-200-MP-camera-and-6-700-mAh-battery.1410495.0.html"
+    },
+    {
+      "id": 1551,
+      "title": "I Swapped My Gaming Laptops for a PS5 Pro!",
+      "summary": "Video | Can a PS5 Pro, at its current MSRP of $900 / €900, be a better option than a gaming laptop or a desktop PC? To find out, we put Sony's most powerful console to the test from the perspective of a gaming laptop fanboy!",
+      "content": "Video | Can a PS5 Pro, at its current MSRP of $900 / €900, be a better option than a gaming laptop or a desktop PC? To find out, we put Sony's most powerful console to the test from the perspective of a gaming laptop fanboy!",
+      "link": "https://www.notebookcheck.net/Is-the-PS5-Pro-worth-it-in-2026-A-gaming-laptop-fanboy-s-perspective.1410519.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Is-the-PS5-Pro-worth-it-in-2026-A-gaming-laptop-fanboy-s-perspective.1410519.0.html"
+    },
+    {
+      "id": 1552,
+      "title": "Your new work laptop in 2026: EliteBook vs ThinkPad, the battle of the 16-inch laptops",
+      "summary": "If one is looking for a big office laptop for work, the names EliteBook and ThinkPad should quickly appear on the radar. We tested both the Lenovo ThinkPad T16 Gen 5 and the HP EliteBook 8 G2a 16, and can compare both.",
+      "content": "If one is looking for a big office laptop for work, the names EliteBook and ThinkPad should quickly appear on the radar. We tested both the Lenovo ThinkPad T16 Gen 5 and the HP EliteBook 8 G2a 16, and can compare both.",
+      "link": "https://www.notebookcheck.net/Lenovo-ThinkPad-vs-HP-EliteBook-Which-16-inch-office-laptop-is-right-for-you.1410423.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-ThinkPad-vs-HP-EliteBook-Which-16-inch-office-laptop-is-right-for-you.1410423.0.html"
+    },
+    {
+      "id": 1553,
+      "title": "AMD Gorgon Halo-equipped GMKtec mini PC launches with 160GB VRAM support",
+      "summary": "The GMKtec Evo-X5 Pro is now available to purchase. Just like the Minisforum MS-S1 Max-P495, this new mini PC features the AMD Ryzen AI Max+ Pro 495, which is paired with 192GB of RAM. It's a bit less expensive in comparison, starting at $6",
+      "content": "The GMKtec Evo-X5 Pro is now available to purchase. Just like the Minisforum MS-S1 Max-P495, this new mini PC features the AMD Ryzen AI Max+ Pro 495, which is paired with 192GB of RAM. It's a bit less expensive in comparison, starting at $6,599.",
+      "link": "https://www.notebookcheck.net/AMD-Gorgon-Halo-equipped-GMKtec-mini-PC-launches-with-160GB-VRAM-support.1410281.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/AMD-Gorgon-Halo-equipped-GMKtec-mini-PC-launches-with-160GB-VRAM-support.1410281.0.html"
+    },
+    {
+      "id": 1554,
+      "title": "Acemagic F9A Pro 495: Compact AI workstation with Ryzen AI Max+ and up to 192 GB RAM",
+      "summary": "It’s rare to find this much memory in a mini PC: Acemagic pairs the Ryzen AI Max+ Pro 495 with up to 192 GB of LPDDR5X-8533. The F9A Pro 495 AI Mini Workstation should also appeal to users running local AI models, which can quickly hit memo",
+      "content": "It’s rare to find this much memory in a mini PC: Acemagic pairs the Ryzen AI Max+ Pro 495 with up to 192 GB of LPDDR5X-8533. The F9A Pro 495 AI Mini Workstation should also appeal to users running local AI models, which can quickly hit memory limits on conventional mini PCs.",
+      "link": "https://www.notebookcheck.net/Acemagic-F9A-Pro-495-Compact-AI-workstation-with-Ryzen-AI-Max-and-up-to-192-GB-RAM.1410435.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Acemagic-F9A-Pro-495-Compact-AI-workstation-with-Ryzen-AI-Max-and-up-to-192-GB-RAM.1410435.0.html"
+    },
+    {
+      "id": 1555,
+      "title": "Lamtto's RC38 baby monitor camera puts your precious cargo front and centre, now 20% off",
+      "summary": "The LAMTTO RC38 2-in-1 baby car camera and wireless CarPlay adapter offers an easy, distraction-free way to check up on your baby in the back seat, right from the comfort of the car's built-in touch screen, replete with full HD image qualit",
+      "content": "The LAMTTO RC38 2-in-1 baby car camera and wireless CarPlay adapter offers an easy, distraction-free way to check up on your baby in the back seat, right from the comfort of the car's built-in touch screen, replete with full HD image quality and infrared night vision. For a limited time, the RC38 is discounted by 20% with an exklusive discount code.",
+      "link": "https://www.notebookcheck.net/Lamtto-s-RC38-baby-monitor-camera-puts-your-precious-cargo-front-and-centre-now-20-off.1410266.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lamtto-s-RC38-baby-monitor-camera-puts-your-precious-cargo-front-and-centre-now-20-off.1410266.0.html"
+    },
+    {
+      "id": 1556,
+      "title": "Mini PC with 16-core Ryzen APU tested: MSI Pro Max Edge AI+ handles AAA games like champ",
+      "summary": "ETA Prime has tested another powerful Mini PC. This time around, the YouTuber has put the MSI Pro Max Edge AI+ with the Ryzen AI Max+ 395 APU and 128 GB of RAM through a series of synthetic and gaming tests to see the true potential of MSI'",
+      "content": "ETA Prime has tested another powerful Mini PC. This time around, the YouTuber has put the MSI Pro Max Edge AI+ with the Ryzen AI Max+ 395 APU and 128 GB of RAM through a series of synthetic and gaming tests to see the true potential of MSI's 4-litre compact computer.",
+      "link": "https://www.notebookcheck.net/Mini-PC-with-16-core-Ryzen-APU-tested-MSI-Pro-Max-Edge-AI-handles-AAA-games-like-champ.1410273.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Mini-PC-with-16-core-Ryzen-APU-tested-MSI-Pro-Max-Edge-AI-handles-AAA-games-like-champ.1410273.0.html"
+    },
+    {
+      "id": 1557,
+      "title": "Wiko launches Panther Lake-powered MacBook Air rival with 120Hz OLED display",
+      "summary": "The Wiko Hi MateBook 14 Core Edition 2026 has been launched in China, and this new MacBook Air rival features a 14.2-inch OLED display with a 120Hz refresh rate, a lightweight chassis, and an Intel Panther Lake CPU. It has a launch price of",
+      "content": "The Wiko Hi MateBook 14 Core Edition 2026 has been launched in China, and this new MacBook Air rival features a 14.2-inch OLED display with a 120Hz refresh rate, a lightweight chassis, and an Intel Panther Lake CPU. It has a launch price of $1,221.",
+      "link": "https://www.notebookcheck.net/Wiko-launches-Panther-Lake-powered-MacBook-Air-rival-with-120Hz-OLED-display.1410268.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Wiko-launches-Panther-Lake-powered-MacBook-Air-rival-with-120Hz-OLED-display.1410268.0.html"
+    },
+    {
+      "id": 1558,
+      "title": "GTA 2 gets full path tracing 27 years after launch with Nvidia RTX Remix mod",
+      "summary": "Modder gebdag has released GTA2 RTX Remix, a mod that brings full path-traced lighting to Rockstar's 1999 top-down Grand Theft Auto 2. It adds dynamic light from fires, explosions and gunfire, a day-night cycle through Remix Plus, emissive ",
+      "content": "Modder gebdag has released GTA2 RTX Remix, a mod that brings full path-traced lighting to Rockstar's 1999 top-down Grand Theft Auto 2. It adds dynamic light from fires, explosions and gunfire, a day-night cycle through Remix Plus, emissive textures, a 16:9 widescreen fix and frame generation that can reach 60fps, all running through a custom Direct3D 9 wrapper built from two DLL files.",
+      "link": "https://www.notebookcheck.net/GTA-2-gets-full-path-tracing-27-years-after-launch-with-Nvidia-RTX-Remix-mod.1410270.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GTA-2-gets-full-path-tracing-27-years-after-launch-with-Nvidia-RTX-Remix-mod.1410270.0.html"
+    },
+    {
+      "id": 1559,
+      "title": "Minisforum launches powerful AMD mini PC with 192GB RAM at eye-watering price",
+      "summary": "The Minisforum MS-S1 Max-P495 has finally been launched. It's powered by the top-end APU within the AMD Gorgon Halo line, which is paired with 192GB of LPDDR5x RAM. The launch price is $7,399, which makes it pretty expensive over the non-P4",
+      "content": "The Minisforum MS-S1 Max-P495 has finally been launched. It's powered by the top-end APU within the AMD Gorgon Halo line, which is paired with 192GB of LPDDR5x RAM. The launch price is $7,399, which makes it pretty expensive over the non-P495 variant.",
+      "link": "https://www.notebookcheck.net/Minisforum-launches-powerful-AMD-mini-PC-with-192GB-RAM-at-eye-watering-price.1410267.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Minisforum-launches-powerful-AMD-mini-PC-with-192GB-RAM-at-eye-watering-price.1410267.0.html"
+    },
+    {
+      "id": 1560,
+      "title": "Pixel 11 gaming issues may not completely stem from Tensor G6, testing shows",
+      "summary": "Testing on the Pixel 11 shows inconsistent CPU core scheduling in games, suggesting Google's software tuning, not the Tensor G6 chip itself may be behind some of the phone's gaming shortfalls.",
+      "content": "Testing on the Pixel 11 shows inconsistent CPU core scheduling in games, suggesting Google's software tuning, not the Tensor G6 chip itself may be behind some of the phone's gaming shortfalls.",
+      "link": "https://www.notebookcheck.net/Pixel-11-gaming-issues-may-not-completely-stem-from-Tensor-G6-testing-shows.1410035.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Pixel-11-gaming-issues-may-not-completely-stem-from-Tensor-G6-testing-shows.1410035.0.html"
+    },
+    {
+      "id": 1561,
+      "title": "Piracy group that bypassed dozens of Denuvo games quits after voices38 lawsuit",
+      "summary": "The ongoing battle between Irdeto's Denuvo DRM and pirates has taken another turn. The organization most associated with the hypervisor bypass exploit has disbanded. DenuvOwO explained that a lawsuit targeting the infamous voices38 hacker i",
+      "content": "The ongoing battle between Irdeto's Denuvo DRM and pirates has taken another turn. The organization most associated with the hypervisor bypass exploit has disbanded. DenuvOwO explained that a lawsuit targeting the infamous voices38 hacker influenced its decision.",
+      "link": "https://www.notebookcheck.net/Piracy-group-that-bypassed-dozens-of-Denuvo-games-quits-after-voices38-lawsuit.1410172.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Piracy-group-that-bypassed-dozens-of-Denuvo-games-quits-after-voices38-lawsuit.1410172.0.html"
+    },
     {
       "id": 1418,
       "title": "英伟达携手德国SCHMID布局玻璃基板",
@@ -778,6 +1776,51 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/This-mini-PC-has-space-for-three-SSDs-an-internal-power-supply-and-speakers.1408219.0.html"
+    },
+    {
+      "id": 1547,
+      "title": "(PR) Thermal Grizzly and Noctua Introduce WireView Pro II Noctua Edition GPU Monitoring Device",
+      "summary": "Thermal Grizzly, a German specialist in thermal interface materials, liquid cooling and PC enthusiast hardware, and Noctua, an Austrian leader in premium quality quiet cooling components, today introduced the Thermal Grizzly WireView Pro II",
+      "content": "Thermal Grizzly, a German specialist in thermal interface materials, liquid cooling and PC enthusiast hardware, and Noctua, an Austrian leader in premium quality quiet cooling components, today introduced the Thermal Grizzly WireView Pro II Noctua Edition. Combining Thermal Grizzly's patented WireView Pro II platform with a customized Noctua cooling solution, the new device helps to safeguard high-end graphics cards against 12V-2x6 connector damage while running significantly quieter than the standard version.<br />\r\n<br />\r\n&quot;The WireView Pro II has been extremely successful and has already helped many users detect potentially dangerous connector issues before they could cause damage&quot;, says Roman Hartung, CEO of Thermal Grizzly. &quot;One of the most common points of feedback, however, was that the fan could still be noticeable in very quiet systems, so working with Noctua on a significantly quieter cooling solution was the logical next step - and, for us, really completes the product.&quot;<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/YDukPBDuP44jhu6b.jpg\" target=\"_blank\" data-width=\"1639\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/YDukPBDuP44jhu6b_thm.jpg\" width=\"178\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/swjtNo9vNiNN5m7F.jpg\" target=\"_blank\" data-width=\"1661\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/swjtNo9vNiNN5m7F_thm.jpg\" width=\"180\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/oArHaUOSttC1PYXm.jpg\" target=\"_blank\" data-width=\"1784\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/oArHaUOSttC1PYXm_thm.jpg\" width=\"193\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1DCvDhI14P8IYO3A.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/1DCvDhI14P8IYO3A_thm.jpg\" width=\"104\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353137/thermal-grizzly-and-noctua-introduce-wireview-pro-ii-noctua-edition-gpu-monitoring-device\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353137/thermal-grizzly-and-noctua-introduce-wireview-pro-ii-noctua-edition-gpu-monitoring-device",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "43870974dfd35804dc32c684d8c38a0b"
+    },
+    {
+      "id": 1562,
+      "title": "Panther Lake teardown reveals Intel 18A in detail — TSMC still leads in density",
+      "summary": "SemiAnalysis has taken Intel’s Panther Lake apart, showing how the company’s 18A process combines RibbonFET gate-all-around transistors with PowerVia backside power delivery. The analysis finds that 18A delivers logic density similar to TSM",
+      "content": "SemiAnalysis has taken Intel’s Panther Lake apart, showing how the company’s 18A process combines RibbonFET gate-all-around transistors with PowerVia backside power delivery. The analysis finds that 18A delivers logic density similar to TSMC’s N3E, but does not yet give Intel a clear manufacturing lead over TSMC’s newer nodes.",
+      "link": "https://www.notebookcheck.net/Panther-Lake-teardown-reveals-Intel-18A-in-detail-TSMC-still-leads-in-density.1410032.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Panther-Lake-teardown-reveals-Intel-18A-in-detail-TSMC-still-leads-in-density.1410032.0.html"
+    },
+    {
+      "id": 1563,
+      "title": "Vaio releases special-edition laptop with 2.5K display, up to 64 GB RAM and 2 TB SSD",
+      "summary": "Vaio has released the Kachi-iro special edition of its T series in Japan. The 13.3-inch Copilot+ PC features a Core Ultra X7 358H processor, Intel Arc B390 graphics, up to 64GB of LPDDR5X memory and a 2.5K touchscreen.",
+      "content": "Vaio has released the Kachi-iro special edition of its T series in Japan. The 13.3-inch Copilot+ PC features a Core Ultra X7 358H processor, Intel Arc B390 graphics, up to 64GB of LPDDR5X memory and a 2.5K touchscreen.",
+      "link": "https://www.notebookcheck.net/Vaio-releases-special-edition-laptop-with-2-5K-display-up-to-64-GB-RAM-and-2-TB-SSD.1409710.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Vaio-releases-special-edition-laptop-with-2-5K-display-up-to-64-GB-RAM-and-2-TB-SSD.1409710.0.html"
     },
     {
       "id": 1386,
