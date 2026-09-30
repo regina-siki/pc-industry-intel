@@ -1,7 +1,460 @@
 {
-  "updatedAt": "2026-09-29",
-  "total": 1670,
+  "updatedAt": "2026-09-30",
+  "total": 1706,
   "list": [
+    {
+      "id": 1671,
+      "title": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”",
+      "summary": "行政令写道：“随着这些能力的不断提升，它们所代表的已不仅仅是AI，而是一个‘SI’的新时代。”在美国公众日益担忧人工智能（AI）的风险之际，白宫发布行政令，将AI更名为超级智能（SI，即Super Intelligence）。 阅读全文",
+      "content": "<p>行政令写道：“随着这些能力的不断提升，它们所代表的已不仅仅是AI，而是一个‘SI’的新时代。”在美国公众日益担忧人工智能（AI）的风险之际，白宫发布行政令，将AI更名为超级智能（SI，即Super Intelligence）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580186.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580186.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580186.htm"
+    },
+    {
+      "id": 1672,
+      "title": "DeepSeek与华为合作开发昇腾编程工具 开源软件基础设施以减少对NVIDIA的依赖",
+      "summary": "中国人工智能公司DeepSeek周三表示，已与华为合作开发针对昇腾芯片优化的编程工具。DeepSeek在官方微信公众号宣布，将开源面向华为昇腾平台的编程基础设施，其中包括计算库和通信库。这是中国科技企业深化合作、寻求英伟达生态替代方案的最新迹象。 阅读全文",
+      "content": "<p>中国人工智能公司DeepSeek周三表示，已与华为合作开发针对昇腾芯片优化的编程工具。DeepSeek在官方微信公众号宣布，将开源面向华为昇腾平台的编程基础设施，其中包括计算库和通信库。这是中国科技企业深化合作、寻求英伟达生态替代方案的最新迹象。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580156.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580156.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580156.htm"
+    },
+    {
+      "id": 1673,
+      "title": "Anthropic或向SpaceX支付845亿美元AI算力费用 马斯克数据中心业务迎来巨额订单",
+      "summary": "随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未来将向SpaceX支付巨额费用，以获取其数据中心提供的AI计算能力。 阅读全文",
+      "content": "<p>随着人工智能企业Anthropic推进首次公开募股（IPO）计划，一份最新披露的文件揭示了其与SpaceX之间规模惊人的合作协议。根据路透社查阅的相关文件，Anthropic已签署价值最高达845亿美元的算力采购协议，未来将向SpaceX支付巨额费用，以获取其数据中心提供的AI计算能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580146.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580146.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580146.htm"
+    },
+    {
+      "id": 1674,
+      "title": "特朗普下令美国政府弃用“人工智能”一词 全面改称“超级智能”",
+      "summary": "美国总统特朗普近日签署一项新的行政命令，要求联邦政府在未来的官方文件、政策说明、新闻发布、网站内容以及各类公共沟通中，以“超级智能”（Super Intelligence，简称SI）取代长期使用的“人工智能”（Artificial Intelligence，简称AI）这一术语。 阅读全文",
+      "content": "<p>美国总统特朗普近日签署一项新的行政命令，要求联邦政府在未来的官方文件、政策说明、新闻发布、网站内容以及各类公共沟通中，以“超级智能”（Super Intelligence，简称SI）取代长期使用的“人工智能”（Artificial Intelligence，简称AI）这一术语。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580142.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580142.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580142.htm"
+    },
+    {
+      "id": 1675,
+      "title": "英特尔专利提出在CPU封装中集成微型LED 可点亮芯片表面文字",
+      "summary": "英特尔一项近期公开的专利展示了将微型LED直接集成到芯片封装中的方案。专利于2022年提交，描述半导体芯片与微型LED共同嵌入玻璃基板，并通过玻璃通孔（TGV）输送电力和信号。微型LED可直接连接芯片，也可通过纳米线连接；相关线路穿过玻璃基板后，再经封装基板接至主板。 阅读全文",
+      "content": "<p>英特尔一项近期公开的专利展示了将微型LED直接集成到芯片封装中的方案。专利于2022年提交，描述半导体芯片与微型LED共同嵌入玻璃基板，并通过玻璃通孔（TGV）输送电力和信号。微型LED可直接连接芯片，也可通过纳米线连接；相关线路穿过玻璃基板后，再经封装基板接至主板。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580140.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580140.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580140.htm"
+    },
+    {
+      "id": 1676,
+      "title": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员",
+      "summary": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín ",
+      "content": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín Escobari），以及bp集团首席执行官梅格·奥尼尔（Meg O’Neill）。清华经管学院称，这五位接任委员所在公司的前任都曾是学院顾问委员会委员，因工作变动不再担任。清华经管学院现任顾问委员会主席为苹果董事会主席库克。马斯克（Elon Musk）、扎克伯格（Mark Zuckerberg）以及微软 CEO 纳德拉(Satya Nadella)都是委员。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85510",
+      "source": "Solidot",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85510"
+    },
+    {
+      "id": 1677,
+      "title": "Meta 被曝将 AI 数据中心包装成实验性质以获取税收优惠，去年节省近 40 亿美元",
+      "summary": "IT之家 9 月 30 日消息，据纽约时报报道，马克 · 扎克伯格（Mark Zuckerberg）宣称，Meta 在人工智能领域的布局大获全胜。“我们在 AI 领域的投入，正在全面提速所有核心业务板块，”他向投资人表示，“无论是自身业务的发展势头，还是全行业的演进趋势，都印证了这一投资决策的正确性。” 然而在报税环节，Meta 向美国国家税务局 IRS 呈现的却是另一番景象。据四位了解该公司运营内情的人士透露，Meta 向税务部门辩称，其 AI 数据中心本质上只是一项随时可",
+      "content": "<p data-vmark=\"b312\">IT之家 9 月 30 日消息，据纽约时报报道，马克 · 扎克伯格（Mark Zuckerberg）宣称，Meta 在人工智能领域的布局大获全胜。“我们在 AI 领域的投入，正在全面提速所有核心业务板块，”他向投资人表示，“无论是自身业务的发展势头，还是全行业的演进趋势，都印证了这一投资决策的正确性。”</p><p data-vmark=\"0ff3\">然而在报税环节，Meta 向美国国家税务局 IRS 呈现的却是另一番景象。据四位了解该公司运营内情的人士透露，Meta 向税务部门辩称，<strong>其 AI 数据中心本质上只是一项随时可能面临失败的庞大实验</strong>。</p><p data-vmark=\"b444\">Meta 此举意在套用一项专为研发与实验设立的税收抵免政策。Meta 以此为其数据中心扩张申请了数十亿美元的税收减免。</p><p data-vmark=\"9080\">“将 AI 数据中心包装成实验性质，这种做法可以说是相当离谱且大胆的，”咨询机构 BPM 专注研发税收抵免业务的合伙人安德烈 · 舍夫丘克（Andre Shevchuck）指出。</p><p data-vmark=\"7579\">事实上，Meta 自家的财务会计人员也深知该策略缺乏充足的法律支撑。这家科技巨头在证券申报文件的细枝末节中坦言，由于“公司在研发税收抵免方面存在不确定性”，这笔高达数十亿美元的节税额度面临被 IRS 推翻的重大风险。</p><p data-vmark=\"0f69\">Meta 的具体操作如下：在税务申报中，该公司将其耗资数十亿美元的超大规模数据中心归类为“试制模型”。这项设立于 20 世纪 80 年代、旨在激励创新的税收抵免政策规定，企业采购的耗材物料可以享受税费返还，但核心前提是这些物料必须投入到实验性研发中，而不得用于常规商业运营。Meta 据此主张，其向英伟达等供应商采购的高昂 AI 计算芯片，属于上述实验的一部分，理应享受由公共财政（纳税人）买单的税务减免。</p><p data-vmark=\"f331\">这一策略在 Meta 内部财务部门引发了担忧。此前，IRS 就曾多次对企业将常规物资采购纳入该项抵免的做法提出异议。尽管包括其他科技巨头在内的数千家企业也在享受研发税收抵免，但它们的抵免额绝大多数来自支付给研发人员与工程师的薪酬 —— 即真正承担创新工作的人力成本，而非大宗硬件采购。</p><p data-vmark=\"3c84\">财报文件显示，Meta 自两年前开始将数据中心支出纳入该税收抵免范畴。自此之后，公司凭此获得的税收减免额度一路飙升，<strong>仅去年一年就为其直接省下了近 40 亿美元</strong><sub>（IT之家注：现汇率约合 268.71 亿元人民币）</sub><strong>税款</strong>。该媒体查阅公开证券申报记录发现，Meta 目前已成为所有美股上市公司中该项税收优惠的最大受益者。</p><p data-vmark=\"5d0f\">此前，Meta 就曾因滥用该项税收优惠而与 IRS 卷入一场数额庞大的税务纠纷 —— 该公司曾试图以此冲抵其首席执行官数十亿美元的天价薪酬。法庭文件显示，Meta 曾在 2013 年辩称，扎克伯格行使的 41 亿美元<span class=\"exch-money-value \">（现汇率约合 275.43 亿元人民币）</span>股票期权属于研发支出，理由是他参与主导开发了诸如“动态消息”等核心软件。目前，IRS 正通过司法途径追缴 Meta 借此避税所得的 3.55 亿美元<span class=\"exch-money-value \">（现汇率约合 23.85 亿元人民币）</span>款项。</p>",
+      "link": "https://www.ithome.com/1/008/806.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/806.htm"
+    },
+    {
+      "id": 1678,
+      "title": "埃安 RT 汽车 OTA 更新：广汽 × 华为星云空间上车，支持自行上传安装应用",
+      "summary": "IT之家 9 月 30 日消息，广汽埃安今天宣布埃安 RT 汽车将获 OTA 更新，新增广汽 x 华为云联合开发的星云空间功能，为车机带来更多云应用。 据介绍，星云空间由广汽和华为云深度定制开发，采用串流方式运行，因此没有算力、存储方面限制。支持用户自行上传（IT之家注：需经过后台审核）安装应用，快速扩展车内使用场景。 此外，本次 OTA 更新还将酷狗音乐 App 升级至 V6.0 版本，优化交互动画并带来一系列新功能；汽水音乐 App 也一并上线。",
+      "content": "<p data-vmark=\"93af\">IT之家 9 月 30 日消息，广汽埃安今天宣布埃安 RT 汽车将获 OTA 更新，新增广汽 x 华为云联合开发的星云空间功能，为车机带来更多云应用。</p><p style=\"text-align: center;\" data-vmark=\"ee04\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/09872d70-6940-491c-aac8-b73570ab36db.png?x-bce-process=image/format,f_auto\" w=\"774\" h=\"1246\" data-weibo=\"0\" data-vmark=\"3318\" class=\"no-alt-img\"></p><p data-vmark=\"6b75\">据介绍，星云空间由广汽和华为云深度定制开发，采用串流方式运行，因此没有算力、存储方面限制。支持用户自行上传（IT之家注：需经过后台审核）安装应用，快速扩展车内使用场景。</p><p style=\"text-align: center;\" data-vmark=\"237c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e79b80c9-e071-4efa-ac00-93b10d411a10.png?x-bce-process=image/format,f_auto\" w=\"782\" h=\"1300\" data-weibo=\"1\" data-vmark=\"1f83\" class=\"no-alt-img\"></p><p data-vmark=\"3d5a\">此外，本次 OTA 更新还将酷狗音乐 App 升级至 V6.0 版本，优化交互动画并带来一系列新功能；汽水音乐 App 也一并上线。</p><p style=\"text-align: center;\" data-vmark=\"eb03\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ae67cf6b-898c-4f6f-92db-0baff37d33d1.png?x-bce-process=image/format,f_auto\" w=\"792\" h=\"1184\" data-weibo=\"2\" data-vmark=\"d6fe\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/804.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/804.htm"
+    },
+    {
+      "id": 1679,
+      "title": "消息称 AMD 苏姿丰下个月前往韩国，与三星达成新合作",
+      "summary": "IT之家 9 月 30 日消息，据科技媒体 Sammobile 今天报道，AMD 首席执行官苏姿丰预计将在下个月前往韩国，与三星电子高层进行会谈。 ▲ 苏姿丰：图源：AMD IT之家从原报道获悉，苏姿丰本轮预计将谈论 AI 芯片、技术合作等内容，三星有望成为 AMD HBM 4 供应商。作为参考，韩国拥有许多先进半导体生产基地，全球最大的存储芯片供应商 SK 海力士、三星均位于韩国。 AMD 已经与三星接洽了一段时间。今年 3 月，AMD 与三星签署 AI 存储芯片和计算技术",
+      "content": "<p data-vmark=\"e207\">IT之家 9 月 30 日消息，据科技媒体 Sammobile 今天报道，AMD 首席执行官苏姿丰预计将在下个月前往韩国，与三星电子高层进行会谈。</p><p style=\"text-align: center;\" data-vmark=\"6973\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7b4f326-92df-4bd3-819c-a8388cb8ce32.jpg?x-bce-process=image/format,f_auto\" w=\"547\" h=\"365\" data-weibo=\"0\" data-vmark=\"dff2\" class=\"no-alt-img\"></p><figcaption>▲ 苏姿丰：图源：AMD</figcaption><p data-vmark=\"479a\">IT之家从原报道获悉，苏姿丰本轮预计将谈论 AI 芯片、技术合作等内容，三星有望成为 AMD HBM 4 供应商。作为参考，韩国拥有许多先进半导体生产基地，全球最大的存储芯片供应商 SK 海力士、三星均位于韩国。</p><p data-vmark=\"180a\">AMD 已经与三星接洽了一段时间。今年 3 月，AMD 与三星签署 AI 存储芯片和计算技术合作的谅解备忘录。当时有传闻称，三星已被 AMD 选为其 AI 加速器 HBM4 芯片的优先供应商。</p><p data-vmark=\"fa9f\">此外，苏姿丰访韩期间还有可能探访韩国本土的 NPU 企业，并与部分企业的 CEO 会面。</p>",
+      "link": "https://www.ithome.com/1/008/802.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/802.htm"
+    },
+    {
+      "id": 1680,
+      "title": "国内首条 3D 先进封装量产线在武汉光谷通线",
+      "summary": "IT之家 9 月 30 日消息，据中国光谷公众号，9 月 30 日，湖北星辰技术有限公司（以下简称“星辰技术”）先进封装中试平台二期项目正式通线。这是国内首条 3D 先进封装量产线，标志着我国向高端芯片先进封装自主可控又迈出坚实一步。 IT之家获悉，星辰技术先进封装综合实验平台一期、二期合计投资超 70 亿元，二期项目从 2025 年 10 月开工，今年 3 月完成主厂房封顶，6 月 30 日首批核心工艺设备进场搬入，到主生产设备安装调试，以及水、气、化等生产配套系统全面贯通",
+      "content": "<p data-vmark=\"4eec\">IT之家 9 月 30 日消息，据中国光谷公众号，9 月 30 日，湖北星辰技术有限公司（以下简称“星辰技术”）先进封装中试平台二期项目正式通线。这是<strong>国内首条 3D 先进封装量产线</strong>，标志着我国向高端芯片先进封装自主可控又迈出坚实一步。</p><p data-vmark=\"410d\">IT之家获悉，星辰技术先进封装综合实验平台一期、二期合计投资超 70 亿元，二期项目从 2025 年 10 月开工，今年 3 月完成主厂房封顶，6 月 30 日首批核心工艺设备进场搬入，到主生产设备安装调试，以及水、气、化等生产配套系统全面贯通，软件系统联调联试完成，11 个月达成通线节点。</p><p style=\"text-align: center;\" data-vmark=\"09d5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ac7aef5f-33f9-422e-9574-67658ed1c49f.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1140\" data-weibo=\"0\" data-vmark=\"9d0d\" class=\"no-alt-img\"></p><p data-vmark=\"a1d6\">据介绍，二期项目在提升一期工艺水平的基础上，跨越风险量产到批量量产的环节。产线全面建成后，可同步承载 <strong>40 至 50 款芯片的中试与风险量产</strong>，以及 <strong>30 至 40 套国产半导体设备与材料的性能验证</strong>。二期还补齐了 2.5D 中试能力，使星辰技术<strong>同时具备 2.5D 和 3D 先进封装技术</strong>，面向高性能 AI 算力、智能终端、感存算一体及光电集成等芯片提供封装量产服务。</p>",
+      "link": "https://www.ithome.com/1/008/799.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/799.htm"
+    },
+    {
+      "id": 1681,
+      "title": "联想 900 透明无线鼠标开售：高透外壳 + 镜面内胆，399 元",
+      "summary": "IT之家 9 月 30 日消息，联想 900 透明无线鼠标现已开售，售价 399 元。 这款鼠标采用透明双层结构设计，高透外壳 + 镜面内胆；鹅卵石造型圆润流线，左右对称设计适配双手，约 125g 重；配备铝合金按键 + 金属滚轮，拥有约 500 万次点击寿命。 这款鼠标支持三台设备一键切换，采用 2.4G + 双蓝牙三通道设计；搭载原相 PAW 3222 传感器，支持 400-4000 DPI 调节；内置 300mAh 锂电池，日常办公续航约 90 天。 IT之家附这款新品",
+      "content": "<p data-vmark=\"09bd\">IT之家 9 月 30 日消息，联想 900 透明无线鼠标现已开售，<strong>售价 399 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"eeaa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/27937e6d-dea5-41e3-bc16-b94f077b6a0f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2054\" data-vmark=\"0815\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1cb39ea86b2471f8b197dca0dd9904263962803dceb8a1577e1233e7262d91e783f16b48433b5662b\" data-mpos=\"0,0\" class=\"no-alt-img\"></p><p data-vmark=\"e113\">这款鼠标采用透明双层结构设计，<strong>高透外壳 + 镜面内胆；</strong>鹅卵石造型圆润流线，左右对称设计适配双手，约 125g 重；配备铝合金按键 + 金属滚轮，拥有约 500 万次点击寿命。</p><p data-vmark=\"3646\">这款鼠标支持三台设备一键切换，采用 2.4G + 双蓝牙三通道设计；搭载原相 PAW 3222 传感器，支持 400-4000 DPI 调节；内置 300mAh 锂电池，日常办公续航约 90 天。</p><p style=\"text-align: center;\" data-vmark=\"9576\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/65ced5fe-84d2-4588-aeac-32455f834df7.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2277\" data-vmark=\"56c8\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1274e826058d64e2c2a059e9f52118fda5bbcf974ddce3c71fbde436178caf1291c025708fd092a3f\" class=\"no-alt-img\"></p><p data-vmark=\"ec7f\">IT之家附这款新品详细参数：</p><p style=\"text-align: center;\" data-vmark=\"7996\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/550fe92c-6dd9-4ae1-a8c8-2387d56a7614.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2131\" data-vmark=\"d1d7\" data-weibo=\"2\"  class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/41UHPjY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4gUv9hS\" data-iosurl=\"https://u.jd.com/46UAXDM\" data-androidurl=\"https://u.jd.com/4aUcuof\" data-hosnexturl=\"https://u.jd.com/4GUWuT1\" data-hosurl=\"https://u.jd.com/4DUvC65\" data-uwpurl=\"https://u.jd.com/4aUl7ow\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4OUWO0a%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4OUYOSU\" data-lpwxurl=\"https://u.jd.com/4aUcOEK\"   data-ncid=\"245650\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/504384/8/13969/71168/6a9528e9F13040494/00835dc5dcafefe6.png\" w=\"1500\" h=\"1500\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">联想 900 透明鼠标</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 399 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/008/795.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/795.htm"
+    },
+    {
+      "id": 1682,
+      "title": "荣耀年底新机曝光：700 Pro 系列有原生背屏、X 新品主打 7 英寸大屏 + 超万级大电池，阔折叠加速中",
+      "summary": "IT之家 9 月 30 日消息，博主 @数码闲聊站 今天在微博透露，荣耀年底还有一堆新机，其中 700 Pro 系列将带有原生背屏，主打 2 亿像素超清影像。 博主表示，荣耀中端产品线 X 系新品，拥有 7 英寸大屏、超万级大电池，阔折叠也在加速中，阔直板立项了。 据IT之家此前援引博主消息，今年各大手机厂商陆续入局阔折叠手机品类，荣耀也有阔折叠，2nm 骁龙新芯片，排期 2027Q1，希望能赶到春节前。该机预计搭载骁龙 8 Elite Gen6 系列处理器，主屏测试 7.6",
+      "content": "<p data-vmark=\"5473\">IT之家 9 月 30 日消息，博主 @数码闲聊站 今天在微博透露，荣耀年底还有一堆新机，<strong>其中 700 Pro 系列将带有原生背屏</strong>，主打 2 亿像素超清影像。</p><p style=\"text-align: center;\" data-vmark=\"f33c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/442374ed-599e-4651-8081-c68499a92bbd.png?x-bce-process=image/format,f_auto\" w=\"1276\" h=\"314\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRkuyMxv05%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"c059\" class=\"no-alt-img\"></p><p data-vmark=\"1823\">博主表示，荣耀中端产品线 X 系新品，拥有 7 英寸大屏、超万级大电池，阔折叠也在加速中，阔直板立项了。</p><p data-vmark=\"d950\"><a href=\"https://www.ithome.com/0/997/526.htm\" target=\"_blank\">据IT之家此前援引博主消息</a>，今年各大手机厂商陆续入局阔折叠手机品类，荣耀也有阔折叠，2nm 骁龙新芯片，排期 2027Q1，希望能赶到春节前。该机预计搭载骁龙 8 Elite Gen6 系列处理器，主屏测试 7.6 英寸 ±、副屏 5.5 英寸 ±。</p>",
+      "link": "https://www.ithome.com/1/008/788.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/788.htm"
+    },
+    {
+      "id": 1683,
+      "title": "三星 SDI 首次展示 LFP 柱状电池：优化容量与功率表现，强化安全性",
+      "summary": "IT之家 9 月 30 日消息，三星 SDI 在当地时间昨日开幕的 DCWA 亚洲数据中心展 2026 上展示了其面向 AI 数据中心市场优化的电池解决方案和产品阵容。 在本次活动上，三星 SDI 首次公开了其圆柱形磷酸铁锂 (LFP) 电池。该产品基于独有的结构技术，在提升输出功率和容量的同时进一步强化了安全性。 三星 SDI 的其它展品还包括采用底部泄压孔安全设计的高功率高容量 21700 三元锂电池、针对 AI 数据中心应急电源供应而优化的圆柱形电池、用于 ESS 储能",
+      "content": "<p data-vmark=\"197a\">IT之家 9 月 30 日消息，三星 SDI 在当地时间昨日开幕的 DCWA 亚洲数据中心展 2026 上展示了其面向 AI 数据中心市场优化的电池解决方案和产品阵容。</p><p data-vmark=\"8399\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ecb79550-7512-456a-a28e-22f3a1899603.jpg?x-bce-process=image/format,f_auto\" w=\"900\" h=\"600\" data-weibo=\"0\" data-vmark=\"ad4c\" class=\"no-alt-img\"></p><p data-vmark=\"96cf\">在本次活动上，<strong>三星 SDI 首次公开了其圆柱形磷酸铁锂 (LFP) 电池</strong>。该产品基于独有的结构技术，在提升输出功率和容量的同时进一步强化了安全性。</p><p data-vmark=\"6b85\">三星 SDI 的其它展品还包括采用底部泄压孔安全设计的高功率高容量 21700 三元锂电池、针对 AI 数据中心应急电源供应而优化的圆柱形电池、用于 ESS 储能的方形磷酸铁锂电池等。</p><p data-vmark=\"4ede\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7159b068-91cf-4e48-9a41-4d7d944a2f2b.jpg\" w=\"900\" h=\"506\" data-weibo=\"1\" data-vmark=\"c831\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/785.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/785.htm"
+    },
+    {
+      "id": 1684,
+      "title": "铭凡推出新款原子侠 G1 PRO 游戏迷你主机：换用 Radeon RX 9060 XT 显卡，1759 美元",
+      "summary": "IT之家 9 月 30 日消息，铭凡现已在海外市场推出新款原子侠 G1 PRO 游戏迷你主机。新机换用 AMD Radeon RX 9060 XT 显卡，使用锐龙 9 8945HX 处理器，定价 1,759 美元（IT之家注：现汇率约合 11,817 元人民币）。 据介绍，这款迷你主机采用 AMD 锐龙 9 8945HX 处理器，拥有 16 核 32 线程，最高支持 96GB DDR5-5200 内存，提供两个 PCIe 4.0 M.2 插槽，最高可扩容 8TB。 同时，该迷",
+      "content": "<p data-vmark=\"b562\">IT之家 9 月 30 日消息，铭凡现已在海外市场推出新款原子侠 G1 PRO 游戏迷你主机。<strong>新机换用 AMD Radeon RX 9060 XT 显卡</strong>，使用锐龙 9 8945HX 处理器，定价 1,759 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 11,817 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"19c2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/534df613-ecc1-4623-b13c-26f5aa7ccffe.jpg?x-bce-process=image/format,f_auto\" w=\"1225\" h=\"918\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"b999\" class=\"no-alt-img\"></p><p data-vmark=\"4d93\">据介绍，这款迷你主机采用 AMD 锐龙 9 8945HX 处理器，拥有 16 核 32 线程，最高支持 96GB DDR5-5200 内存，提供两个 PCIe 4.0 M.2 插槽，最高可扩容 8TB。</p><p style=\"text-align: center;\" data-vmark=\"426f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/776d0131-9575-4629-b920-64731d02e50e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"900\" data-weibo=\"1\" data-vmark=\"6f5a\" class=\"no-alt-img\"></p><p data-vmark=\"841f\">同时，该迷你主机配备 16GB 显存的 Radeon RX 9060 XT 显卡，更适合游玩高分辨率游戏或担任图形工作繁重的生产力工作。提供 5GbE 以太网、Wi-Fi 7、蓝牙 5.4 和 350W 内置电源等配置。</p><p data-vmark=\"0e95\">此外，该迷你主机定价 1,759 美元<span class=\"exch-money-value\">（现汇率约合 11,817 元人民币）</span>，配置为 32GB 内存和 1TB SSD。</p>",
+      "link": "https://www.ithome.com/1/008/784.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/784.htm"
+    },
+    {
+      "id": 1685,
+      "title": "宜鼎率先发布工业级 DDR5-8000 RDIMM 内存模组，较前代提速 1/9",
+      "summary": "IT之家 9 月 30 日消息，宜鼎 (Innodisk) 昨日宣布领先行业发布 DDR5-8000 工业级 RDIMM 内存模组。新品较此前的 7200MT/s 型号进一步提速 1/9。 该系列模组提供 16~64GB 的灵活容量选择。其集成瞬态电压抑制 (TVS) 二极管与 eFuse 电子保险丝，能有效防范电压波动与异常供电带来的系统故障风险；采用 30μ\" 金手指与抗硫化设计，进一步增强接点的耐用性与抗腐蚀能力。 宜鼎国际工控 DRAM 事业部总经理张伟民表示： 随着",
+      "content": "<p data-vmark=\"60e4\">IT之家 9 月 30 日消息，宜鼎 (Innodisk) 昨日宣布<strong>领先行业发布 DDR5-8000 工业级 RDIMM 内存模组</strong>。新品较此前的 7200MT/s 型号进一步提速 1/9。</p><p data-vmark=\"c865\">该系列模组<strong>提供 16~64GB 的灵活容量选择</strong>。其集成瞬态电压抑制 (TVS) 二极管与 eFuse 电子保险丝，能有效防范电压波动与异常供电带来的系统故障风险；采用 30μ\" 金手指与抗硫化设计，进一步增强接点的耐用性与抗腐蚀能力。</p><p data-vmark=\"fe92\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/19aa11e3-500a-4129-8962-1d804c6ff27d.jpg?x-bce-process=image/format,f_auto\" w=\"600\" h=\"400\" data-weibo=\"0\" data-vmark=\"7feb\" class=\"no-alt-img\"></p><p data-vmark=\"6d5c\">宜鼎国际工控 DRAM 事业部总经理张伟民表示：</p><blockquote><p data-vmark=\"22c6\">随着 AI 工作负载的快速增长，系统性能的关键已不再仅仅是提升算力，如何高效处理海量数据同样至关重要。DDR5 8000 系列产品可协助客户突破内存带宽瓶颈，从内存端提供更具弹性的系统升级路径，为 AI 应用的落地打造坚实基石。</p></blockquote><p data-vmark=\"b1e8\">IT之家获悉，宜鼎计划在 2027 年第 1 季度将 DDR5 8000 系列扩展到 non-ECC&amp;ECC CUDIMM、non-ECC&amp;ECC CSO-DIMM 等模组形态。</p>",
+      "link": "https://www.ithome.com/1/008/780.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/780.htm"
+    },
+    {
+      "id": 1686,
+      "title": "三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。 Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷",
+      "content": "<p data-vmark=\"d0ad\">IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片<strong>，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。</strong></p><p data-vmark=\"f972\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8a9ad768-a1ab-4c43-bb0f-1f22a05ac6e7.png\" w=\"1024\" h=\"576\" data-weibo=\"0\" data-vmark=\"550c\" class=\"no-alt-img\"></p><p data-vmark=\"4f52\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5c49a681-7668-4a3a-973a-ed3c94f3391e.png\" w=\"1440\" h=\"634\" data-weibo=\"1\" data-vmark=\"3d69\" class=\"no-alt-img\"></p><p data-vmark=\"cc96\">Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：</p><p data-vmark=\"b33d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e922cdf1-f069-4ebe-9481-efdfba60c2ab.png\" w=\"1440\" h=\"1050\" data-weibo=\"2\" data-vmark=\"941f\" class=\"no-alt-img\"></p><p data-vmark=\"84db\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bbb67ca0-3af5-42cd-9c2e-9f1a38e93b66.png\" w=\"1440\" h=\"989\" data-weibo=\"3\" data-vmark=\"2ccb\" class=\"no-alt-img\"></p><p data-vmark=\"3804\">该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi 7 与蓝牙 v6.0。</p><p data-vmark=\"ee48\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/45964b01-d92c-460b-a592-aa676a3a9db6.png\" w=\"1440\" h=\"987\" data-weibo=\"4\" data-vmark=\"a48f\" class=\"no-alt-img\"></p><p data-vmark=\"415d\">Galaxy Tab S12+ 采用 12.6 英寸屏幕，其余核心规格与 Ultra 相近，同样支持 S Pen。其内存或最高 12GB、存储最高 512GB，电池为 10600mAh，仍支持 45W 充电，但可能仅支持 Wi‑Fi 6。</p><p data-vmark=\"dfda\">页面显示两款平板均支持最高 2TB 的 MicroSD 卡扩展，预装 One UI 9，提供长达 7 年的安卓系统更新。部分页面同时列出后置 13MP 与前置 12MP 摄像头，与此前 50MP 主摄传闻存在差异，尚待官方确认。</p><p data-vmark=\"7511\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1ca50b9b-616a-48f6-a0a4-659820cb647d.png\" w=\"1440\" h=\"912\" data-weibo=\"5\" data-vmark=\"8241\" class=\"no-alt-img\"></p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\" data-vmark=\"28d2\">泄露材料强调 Galaxy AI 相关功能，包括 Now Nudge、Note Assist、Multi Window，并支持 Bixby、Gemini、Perplexity 等 AI 助手。</p><p data-vmark=\"4443\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/62b2cd3e-155c-473d-a902-064258c123ad.png\" w=\"1440\" h=\"1026\" data-weibo=\"6\" data-vmark=\"4f89\" class=\"no-alt-img\"></p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\" data-vmark=\"6110\">Samsung DeX 被标注为支持最多四个工作区，同时列出 Photoshop、Notability、GoodNotes、LumaFusion、Clip Studio Paint、Notion 等应用。</p><p data-vmark=\"cc72\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3be6e5e6-6b2f-4e68-9f78-affcc872da65.png\" w=\"1440\" h=\"1026\" data-weibo=\"7\" data-vmark=\"e18d\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/762.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/762.htm"
+    },
+    {
+      "id": 1687,
+      "title": "vivo X500 手机新增 16GB+512GB 版本，6499 元",
+      "summary": "IT之家 9 月 30 日消息，vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本，售价 6499 元。 京东 vivo X500 16GB+512GB6499 元直达链接 vivo X500 手机搭载了一块 6.59",
+      "content": "<p data-vmark=\"1670\">IT之家 9 月 30 日消息，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/22/e1502985-8e5e-4cdc-a503-7f24ba58d26f.png?x-bce-process=image/format,f_auto\" data-topic-id=\"60692\">vivo X500</span> 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c81a\">12GB+256GB：5499 元</p></li><li><p data-vmark=\"0b86\">12GB+512GB：5999 元</p></li><li><p data-vmark=\"f420\">12GB+1TB：6999 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"4b98\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8e3ad389-baa5-4a66-bc1a-634fa4190ef8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1999\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"137c\" class=\"no-alt-img\"></p><p data-vmark=\"d010\">IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本，<strong>售价 6499 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/46UndvC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4aU1bl2\" data-iosurl=\"https://u.jd.com/4DUGp1P\" data-androidurl=\"https://u.jd.com/4rUgXIo\" data-hosnexturl=\"https://u.jd.com/41UB5k5\" data-hosurl=\"https://u.jd.com/41U623z\" data-uwpurl=\"https://u.jd.com/4GUOvX2\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4DUOUvj%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/4aUGY2j\" data-lpwxurl=\"https://u.jd.com/4DU0zpY\"   data-ncid=\"245607\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/518230/6/6191/37803/6aa12105F4f5017e2/0083320320602813.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> vivo X500 16GB+512GB</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">6499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"4a01\">vivo X500 手机搭载了一块<strong> </strong>6.59 英寸 1.5K 144Hz LTPS 直屏，有大地回声、晴天、晨曦、摄夜四种颜色可选；首发搭载<strong>天玑 9600M </strong>处理器，内置 7500mAh 电池，支持 90W 有线充电和 40W 无线充电。</p><p data-vmark=\"0431\">vivo X500 手机搭载 X 系列标准版史上主摄最大底 1/1.28 英寸蓝图 × 索尼 LYTIA-828，支持蔡司云台级防抖、达到 CIPA 5.5 专业防抖等级。新机还搭载 X500 Pro APO 长焦同款索尼 LYTIA-610。</p><p style=\"text-align: center;\" data-vmark=\"487b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5ced4d3b-1c5d-4af6-b5bc-cdc4e6b95ab5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"10963\" data-weibo=\"1\" data-vmark=\"e1b1\" class=\"no-alt-img\"></p><p data-vmark=\"04e6\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"7917\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/005/852.htm\">vivo X500 Pro / Pro Max 手机新增 16+512GB、16+1TB 版本，7999 元起</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/008/761.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/761.htm"
+    },
+    {
+      "id": 1688,
+      "title": "英特尔酷睿 Ultra 200S 处理器不兼容 8Gbit 颗粒，部分 8GB、16GB DDR5 老旧内存无法开机",
+      "summary": "IT之家 9 月 30 日消息，由于内存价格不断上涨，DIY 市场热情被严重消耗，但也有部分用户选择继续使用手上已有的老硬件 + 新硬件混搭的方式进行升级，也有部分新用户选择购买二手硬件。 有 Reddit 用户反馈称，将老平台上的 DDR5 内存插至英特尔酷睿 Ultra 200S（Arrow Lake）平台时，遇到了无法点亮、系统无法通过 POST 自检的问题。PCGH 昨日汇总相关案例后指出，问题可能与部分 8GB、16GB DDR5 内存条所采用的 DRAM 颗粒有关",
+      "content": "<p data-vmark=\"3a93\">IT之家 9 月 30 日消息，由于内存价格不断上涨，DIY 市场热情被严重消耗，但也有部分用户选择继续使用手上已有的老硬件 + 新硬件混搭的方式进行升级，也有部分新用户选择购买二手硬件。</p><p data-vmark=\"176b\">有 Reddit 用户反馈称，将老平台上的 DDR5 内存插至英特尔酷睿 Ultra 200S（Arrow Lake）平台时，遇到了无法点亮、系统无法通过 POST 自检的问题。PCGH 昨日汇总相关案例后指出，问题可能与部分 8GB、16GB DDR5 内存条所采用的 DRAM 颗粒有关。</p><p data-vmark=\"a973\">英特尔酷睿 Ultra 200S 数据手册中提到，其 DDR5 支持的 Die 密度仅有 16、24 和 32 Gbit 三种型号，并未列出 8 Gbit 颗粒；非 ECC UDIMM 配置同样从 16 Gbit 颗粒开始。</p><p data-vmark=\"969b\">因此，酷睿 Ultra 200S 平台 + 老内存无法开机的问题与内存条容量并没有什么关系，但与内存条中搭载了多少颗 DRAM 芯片以及每颗芯片的组织方式有关。</p><p data-vmark=\"32eb\">例如，一根 8GB 内存可以采用 4 颗 16 Gbit 颗粒，也可以采用 8 颗 8 Gbit 颗粒，两者容量相同，但后者并不处于英特尔支持范围内。</p><p data-vmark=\"cf75\">同理，16GB 内存条也存在类似情况。采用 8 颗 16 Gbit 颗粒的 16GB 内存条受英特尔支持，而采用 16 颗 8 Gbit 颗粒实现的 16GB 内存条则不在官方支持列表中。例如上面提到的用户无法开机的案例中就出现了 SK 海力士 H-Die、H8A 等颗粒型号。</p><p data-vmark=\"75bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f06dfc12-2bba-41e9-b954-57aa5b4f3504.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"13b1\" class=\"no-alt-img\"></p><p data-vmark=\"fe93\">IT之家提醒：同一品牌甚至同一产品系列的不同批次内存，也可能因为更换 DRAM 颗粒而体现出不同的兼容性差异。因此，仅凭内存品牌、产品名称、频率和容量，并不能准确判断某一根内存是否属于受影响型号。</p><p data-vmark=\"69f6\">目前用户反馈存在问题的内存型号包括 KLEVV FIT V、V-COLOR XSKY、Patriot Venom 5、Patriot Elite 5，以及部分 <span class=\"link-text-start-with-http\">G.Skill</span> Flare X5。不过，这份名单并不完整，而且同一型号不同批次可能使用不同颗粒，因此不能据此判断某个系列的所有产品都无法兼容。</p><p data-vmark=\"793a\">这一问题对于从 Alder Lake、Raptor Lake 等旧平台升级至 LGA1851 的用户尤其值得注意。此前能够正常运行的 DDR5 内存，安装到酷睿 Ultra 200S 平台后并不一定能够继续使用；即使内存容量、频率等规格看起来完全符合要求，也可能因为 DRAM 颗粒配置不同而无法开机。</p><p data-vmark=\"78af\">因此，在为酷睿 Ultra 200S 平台选择 DDR5 内存条时，除了容量和频率，还应优先确认主板厂商的 QVL（Qualified Vendor List，合格供应商列表），并尽可能核实具体内存模组所采用的 DRAM 颗粒和组织方式。对于准备用旧 DDR5 内存升级 LGA1851 平台的用户，这一点尤其重要。</p>",
+      "link": "https://www.ithome.com/1/008/749.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/749.htm"
+    },
+    {
+      "id": 1689,
+      "title": "ShinyHunters 黑客组织成员被荷兰警方逮捕，涉嫌雇凶杀人",
+      "summary": "IT之家 9 月 30 日消息，据路透社今天报道，荷兰警方本周二已逮捕一名 ShinyHunters 黑客组织成员，目前因涉嫌在海外策划雇凶杀人而接受调查。 据报道，该男子时年 24 岁，警方从他的笔记本电脑里发现了谋杀计划，当局正在调查他谋划的谋杀是否真实发生。 尽管荷兰当局尚未公开这名男子的身份，但其前雇主、总部位于阿姆斯特丹的网络安全公司 Neo Security 表示，此人名为佩皮恩 · 范德斯塔普（Pepijn van der Stap）。 公开报道显示，Shiny",
+      "content": "<p data-vmark=\"69c4\">IT之家 9 月 30 日消息，据路透社今天报道，荷兰警方本周二已逮捕一名 ShinyHunters 黑客组织成员，目前因涉嫌在海外策划雇凶杀人而接受调查。</p><p style=\"text-align: center;\" data-vmark=\"406f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/72d45194-0b99-411e-83ed-67a90d3da916.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"390\" data-weibo=\"0\" data-vmark=\"d90f\" class=\"no-alt-img\"></p><p data-vmark=\"a3f5\">据报道，该男子时年 24 岁，<strong>警方从他的笔记本电脑里发现了谋杀计划</strong>，当局正在调查他谋划的谋杀是否真实发生。</p><p data-vmark=\"40ad\">尽管荷兰当局尚未公开这名男子的身份，但其前雇主、总部位于阿姆斯特丹的网络安全公司 Neo Security 表示，<strong>此人名为佩皮恩 · 范德斯塔普（Pepijn van der Stap）</strong>。</p><p data-vmark=\"8514\">公开报道显示，ShinyHunters 是近年来最活跃的网络犯罪团伙之一。2026 年 6 月，该团伙利用 Oracle PeopleSoft 的一个零日漏洞（IT之家注：CVE-2026-35273，CVSS 评分 9.8）攻击了超过 100 家机构，其中约三分之二为大学。此前该团伙还曾攻击 Rockstar Games、教育平台 Canvas 以及医疗供应商 McKesson。</p>",
+      "link": "https://www.ithome.com/1/008/738.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/738.htm"
+    },
+    {
+      "id": 1690,
+      "title": "INNOCN 发布 40C1R Max 显示器：40\" WQHD 200Hz，HDR400",
+      "summary": "IT之家 9 月 30 日消息，INNOCN（联合创新）近日发布了显示器新品 40C1R Max。这一型号采用 40\" 哑光 IPS 面板，拥有 WQHD (3440×1440) 分辨率、200Hz 刷新率，获得 VESA DisplayHDR 400 认证。 该显示器响应时间 1ms；色域 99% sRGB / 95% DCI-P3，色偏（平均值）ΔE＜2；具备 VRR 可变刷新率技术。 其具备 HDMI、DisplayPort、USB-C 端口，其中 USB-C 支持 6",
+      "content": "<p data-vmark=\"a532\">IT之家 9 月 30 日消息，INNOCN（联合创新）近日发布了显示器新品 40C1R Max。这一型号采用 40\" 哑光 IPS 面板，拥有 WQHD (3440×1440) 分辨率、200Hz 刷新率，获得 VESA DisplayHDR 400 认证。</p><p data-vmark=\"958b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/42796257-f65a-4ded-95ff-4edffa0af202.jpg\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"650a\"  class=\"no-alt-img\"></p><p data-vmark=\"ac11\">该显示器响应时间 1ms；色域 99% sRGB / 95% DCI-P3，色偏（平均值）ΔE＜2；具备 VRR 可变刷新率技术。</p><p data-vmark=\"9489\">其具备 HDMI、DisplayPort、USB-C 端口，其中 <strong>USB-C 支持 65W USB PD 供电输出</strong>；内置扬声器；配有三向调节支架，兼容 100×100 (mm) VESA 壁挂规范。</p><p data-vmark=\"787b\">IT之家了解到，INNOCN 40C1R Max 显示器<strong>售价 599.99 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 4,031 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/008/735.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/735.htm"
+    },
+    {
+      "id": 1691,
+      "title": "微软 Win11 预览版测试新装机流程：可选引导安装 TikTok / Netflix 等应用",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 Windows Latest 今天（9 月 30 日）发布博文，报道称微软在 Windows 11 Build 26340.9354 预览版（9 月 8 日发布）中，测试“辅助安装”（Assisted Setup）可选引导，在用户完成首次开箱体验（OOBE）后，一键安装 TikTok、Netflix、Spotify（顺序按照原文小标题选择）等热门应用。 报道称微软已邀请 Experimental 频道的部分 Windows Insid",
+      "content": "<p data-vmark=\"5af6\">IT之家 9 月 30 日消息，科技媒体 Windows Latest 今天（9 月 30 日）发布博文，报道称微软在 Windows 11 Build 26340.9354 预览版（9 月 8 日发布）中，测试“辅助安装”（Assisted Setup）可选引导，在用户完成首次开箱体验（OOBE）后，一键安装 TikTok、Netflix、Spotify（顺序按照原文小标题选择）等热门应用。</p><p data-vmark=\"e9e2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/56a15c53-efe6-461d-8a0e-449a77c0b817.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"812\" data-vmark=\"9106\" data-weibo=\"0\" alt=\"New Get Started app in Windows 11\" class=\"no-alt-img\"></p><p data-vmark=\"bb2a\">报道称微软已邀请 Experimental 频道的部分 Windows Insider 项目成员测试，在 OOBE 的最后一屏“你的电脑已准备就绪”界面，用户可选择“显示可选设置”或“转到桌面”。</p><p data-vmark=\"4225\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/eb637cf2-dbc3-4a56-a5e2-cb127d7d7d3f.png?x-bce-process=image/format,f_auto\" w=\"576\" h=\"432\" data-vmark=\"3e27\" data-weibo=\"1\" alt=\"The new “Your PC is ready” screen at the end of Windows 11 setup. \" class=\"no-alt-img\"></p><p data-vmark=\"6230\">用户点击“显示可选设置”后，OOBE 界面会自动打开“入门指南”（Get Started）应用，首页列出了 WhatsApp、Duolingo（多邻国）、TikTok、Netflix、LinkedIn 和 Spotify（按照页面内容排序）六款“热门应用”。</p><p data-vmark=\"6fd5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c28412d6-2662-4802-b47b-1f5688979c62.png?x-bce-process=image/format,f_auto\" w=\"587\" h=\"440\" data-vmark=\"bc0f\" data-weibo=\"2\" alt=\"TikTok, Netflix and Spotify installed from Get Started without opening the Microsoft Store. \" class=\"no-alt-img\"></p><p data-vmark=\"e5e7\">用户勾选后无需跳转 Microsoft Store 应用商店，可直接在应用内完成下载安装，该媒体测试三款应用均能顺利安装并标记为“已安装”。</p><p data-vmark=\"951a\">而第二页提供十个可固定至任务栏的网站选项，不过列表内容会根据不同地区存在差异。在英国测试机显示 BBC、Amazon UK、eBay UK、Daily Mail 等本地站点，搭配 YouTube、Reddit、Facebook、Instagram、X 和 Wikipedia 等全球平台。用户选择后图标立即出现在任务栏。</p><p data-vmark=\"ad91\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/eb2baed6-3f57-4770-bfa2-e6944bc70e01.png?x-bce-process=image/format,f_auto\" w=\"602\" h=\"451\" data-vmark=\"42aa\" data-weibo=\"3\" alt=\"The site pinning page lists UK websites on my PC, with Wikipedia pinned to the taskbar. \" class=\"no-alt-img\"></p><p data-vmark=\"2b5b\">后续页面包括“更改外观”（链接至设置中的个性化选项）、“检查更新”（提示部分功能需更新后方可使用）及“一切就绪”（指向 <span class=\"link-text-start-with-http\">aka.ms/</span> windows-tips 技巧页面）。IT之家附上相关截图如下：</p><p data-vmark=\"925c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/27dd5d48-08df-4f6b-84e5-f3989c7d6d1f.png?x-bce-process=image/format,f_auto\" w=\"579\" h=\"434\" data-vmark=\"8213\" data-weibo=\"4\" alt=\"The “Change your look” page links to Personalization settings.\" class=\"no-alt-img\"></p><p data-vmark=\"4cff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/09eb3a38-a818-430e-aead-a7e67a682ab8.png?x-bce-process=image/format,f_auto\" w=\"588\" h=\"441\" data-vmark=\"a9b5\" data-weibo=\"5\" alt=\"Get Started asks you to check for updates after setup. \" class=\"no-alt-img\"></p><p data-vmark=\"f89e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/449a9e1a-eac9-411b-9da6-b574a33b8a01.png?x-bce-process=image/format,f_auto\" w=\"575\" h=\"431\" data-vmark=\"f412\" data-weibo=\"6\" alt=\"The last Assisted Setup page links to Microsoft’s Windows tips website. \" class=\"no-alt-img\"></p><figcaption>以上图源：Windows Latest</figcaption>",
+      "link": "https://www.ithome.com/1/008/728.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/728.htm"
+    },
+    {
+      "id": 1692,
+      "title": "银昕推出 ITX NAS 机箱 CS340，提供 4 个三模热插拔硬盘位",
+      "summary": "IT之家 9 月 30 日消息，SilverStone（银欣 / 银昕）近日推出了 ITX NAS 机箱 CS340。其兼容 Mini-ITX 与 Deep Mini-ITX 主板，支持 Flex ATX 电源，提供 4 个可热插拔的 3.5\" / 2.5\" 兼容 U.2 / SAS / SATA 三模盘位。 CS340 三维 220×225×300 (mm)，内部采用可拆式主板托盘设计，拥有 1 条扩展槽（扩展卡限长 250mm、限高 113mm），处理器散热器限高 65m",
+      "content": "<p data-vmark=\"ff3f\">IT之家 9 月 30 日消息，SilverStone（银欣 / 银昕）近日推出了 ITX NAS 机箱 CS340。其兼容 Mini-ITX 与 Deep Mini-ITX 主板，支持 Flex ATX 电源，<strong>提供 4 个可热插拔的 3.5\" / 2.5\" 兼容 U.2 / SAS / SATA 三模盘位</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e00b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d05bb660-a9ce-4296-bec3-c208d2dc258e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-vmark=\"265c\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"96c5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2a95dd27-b352-490a-8034-65202af530c5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"5a36\" class=\"no-alt-img\"></p><p data-vmark=\"c449\">CS340 三维 220×225×300 (mm)，内部采用<strong>可拆式主板托盘</strong>设计，拥有 1 条扩展槽（扩展卡限长 250mm、限高 113mm），处理器散热器限高 65mm；硬盘背板提供 2 个 SlimSAS 8i (PCIe Gen4)、4 个 SATA 信号接口。</p><p style=\"text-align: center;\" data-vmark=\"edfa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5d9af865-1ad9-46b8-9e53-4200df277893.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"2\" data-vmark=\"81c4\" class=\"no-alt-img\"></p><p data-vmark=\"af88\">该机箱前方支持 2 颗 80mm 风扇，后方预装 1 颗 120mm 风扇，内部还能安装 1 颗 60mm 风扇；<strong>前舱支持 1 个 9.5mm 光驱</strong>，<strong>后舱还有 1 个 2.5\" 盘位</strong>；前置 I/O 包括 1 个 USB-C、2 个 USB-A 5Gbps。</p><p style=\"text-align: center;\" data-vmark=\"9ae8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c3a39e9b-97a5-4134-81cd-1e4c6dc7c619.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1152\" data-weibo=\"3\" data-vmark=\"b1dd\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/703.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/703.htm"
+    },
+    {
+      "id": 1693,
+      "title": "徐直军 10 月 1 日起当值华为轮值董事长",
+      "summary": "IT之家 9 月 30 日消息，华为今日发布公告，根据公司轮值董事长制度，2026 年 10 月 1 日～2027 年 3 月 31 日期间由徐直军当值轮值董事长，主持公司董事会及董事会常务委员会。 IT之家附徐直军简历： 1993 年加入华为，徐直军历任公司无线产品线总裁、战略与 Marketing 总裁、产品与解决方案总裁、产品投资评审委员会主任、公司轮值 CEO、战略与发展委员会主任等，现任公司副董事长、轮值董事长等职务。",
+      "content": "<p data-vmark=\"5383\">IT之家 9 月 30 日消息，华为今日发布公告，根据公司轮值董事长制度，<strong>2026 年 10 月 1 日～2027 年 3 月 31 日期间由徐直军当值轮值董事长</strong>，主持公司董事会及董事会常务委员会。</p><p data-vmark=\"8ad6\" style=\"text-align: left;\">IT之家附徐直军简历：</p><p data-vmark=\"5437\" style=\"text-align: left;\">1993 年加入华为，徐直军历任公司无线产品线总裁、战略与 Marketing 总裁、产品与解决方案总裁、产品投资评审委员会主任、公司轮值 CEO、战略与发展委员会主任等，现任公司副董事长、轮值董事长等职务。</p><p data-vmark=\"3a53\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/952d8ae3-8b02-43c8-8693-ded537756be4.jpg\" w=\"351\" h=\"397\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"a100\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/008/701.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/008/701.htm"
+    },
+    {
+      "id": 1695,
+      "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+      "summary": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist.",
+      "content": "<article>\n                                <p>AMD <a href=\"https://newsroom.amd.com/news/amd-acquire-world-labs/\" target=\"_blank\">has agreed to acquire</a> AI model research firm World Labs in an all-stock purchase worth around $8.2 billion. World Labs co-founder Fei-Fei Li will join AMD as executive vice president and chief scientist, reporting to CEO Lisa Su. The deal will be finalized once it passes the usual regulatory hurdles.</p><p>Su says building compute platforms for the next generation of AI requires “a deep understanding of how models are evolving,” and Li says advancing the technology “requires close collaboration across model research, systems and compute,” and <a href=\"https://drfeifei.substack.com/p/worldlabs-joining-amd\" target=\"_blank\">wrote in a separate post</a> that World Labs needs to get “closer to the hardware,” without which AI is “hobbled in efficiency.”</p><p>Before founding World Labs, Li had already established herself as a luminary in AI research and development. She led the vital ImageNet project in the 2010s and has served as the chief scientist of AI and machine learning at Google Cloud and the director of the Stanford Artificial Intelligence Laboratory. Thanks to her many contributions to the field, she has been dubbed the \"Godmother of AI\" by several institutions.</p><p>World Labs develops “spatial-intelligence models that generate, reconstruct and simulate interactive 3D environments,” which are useful in robotics and simulation applications. Its world models build or simulate 3D scenes rather than being text-focused like LLMs. The company’s first commercial product was Marble, launched late last year, which creates persistent, downloadable 3D worlds from source material.</p><p>AMD and World Labs had already been working together to optimize training and inference for its models, and AMD had invested in World Labs’ $1 billion funding round in February. During Su’s <a href=\"https://www.tomshardware.com/news/live/amd-ces-2026-keynote-ryzen-x3d-gorgon-point\"><u>keynote at CES in January</u></a>, Li said that part of World Labs’ model ran on AMD's Instinct accelerators, and her team used both Instinct hardware and the ROCm software stack to achieve performance improvements for their applications. This tuning experience positioned World Labs as one of AMD’s showcase customers, and AMD says the deal will “help shape its future technology roadmaps.”</p><p>World Labs is AMD’s second-largest deal after FPGA designer <a href=\"https://www.tomshardware.com/news/amd-xilinx-acqusition-completed\">Xilinx</a>, which came out to about $50 billion at the close in 2022. AMD's other big buys have been smaller: ATI for $5.4 billion in 2006, AI systems designer <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-aims-to-catch-up-to-nvidia-in-ai-battle-with-dollar49b-acquisition-chipmaker-strengthens-ai-ecosystem-with-zt-systems-expertise-in-server-design\">ZT Systems</a> for $4.9 billion in 2025, and networking solutions developer Pensando for $1.9 billion in 2022. </p><p>AI titan Nvidia was also an investor in World Labs in the round earlier this year. However, Nvidia has already been developing Cosmos, its own family of open-source world models. It agreed to buy <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform\"><u>Hugging Face</u></a>, a platform for hosting and distributing open models, earlier this month for $12.93 billion.</p><p>World Labs' team will continue to do model research. The companies say that the deal will strengthen an “open AI ecosystem,” per the release, and World Labs said in its own post that it remains committed to “widely accessible open models.”</p><p>Atlas, World Labs’ latest world model, will power future versions of its Marble product, the company says. Li’s co-founders Justin Johnson and Ben Mildenhall will continue to work with Li in leading World Labs, including after Li takes on the new role at AMD after the expected close of the transaction by the end of the year.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "CgdJioum38QuEnoZRDu5cS"
+    },
+    {
+      "id": 1696,
+      "title": "Intel \"Nova Lake\" Launch Nears as Platform Passes USB4 and PCIe 5.0 Compliance Testing",
+      "summary": "Intel's Core Ultra 400-series \"Nova Lake\" CPUs are reportedly nearing launch as Intel has successfully passed USB and PCIe compliance testing. This means the platform has officially passed testing with the two organizations, and all the adv",
+      "content": "Intel's Core Ultra 400-series &quot;Nova Lake&quot; CPUs are reportedly nearing launch as Intel has successfully passed USB and PCIe compliance testing. This means the platform has officially passed testing with the two organizations, and all the advertised specifications are working correctly. Starting with the USB Implementers Forum (USB-IF), a governing body of the USB standard, there are two &quot;Nova Lake-H&quot; device IDs certified for compliance with USB4. These include devices with IDs D331 and D333. Additionally, USB-IF lists ID 6E6E for the &quot;Nova Lake&quot; PCH-S chipset for desktop motherboards, compliant with USB 3.2 Gen 2. Intel likely chose a desktop chipset and a laptop CPU to achieve Qualification by Similarity, where testing one product can earn certification for other products easily. To avoid revealing too much before the launch, Intel opted for this strategy instead of testing a full flagship desktop CPU.<br />\r\n<br />\r\nFor the PCI-SIG, a governing body for PCIe compliance, Intel's 900-series chipset has long been present with the IDs 6E38-6E3F, 6E30-6E35, and 6E40-6E47. These were added back in April, but in August, another set of entries for CPUs specifically appeared. Certifying the PCIe 5.0 x16 root complex were device IDs D461, D465, and D467-D46A, which are likely &quot;Nova Lake-S&quot; CPUs or some mobile variation. Regardless, the verification process is the final stage that a platform and the CPU usually go through before the launch is finalized.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/fmZVnavQ8rAjcLLt.jpg\" target=\"_blank\" data-width=\"1142\" data-height=\"796\" ><img src=\"https://tpucdn.com/img/fmZVnavQ8rAjcLLt_thm.jpg\" width=\"187\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353240/intel-nova-lake-launch-nears-as-platform-passes-usb4-and-pcie-5-0-compliance-testing\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353240/intel-nova-lake-launch-nears-as-platform-passes-usb4-and-pcie-5-0-compliance-testing",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "1612951b7a9fc4fad3ac6d97916d8c5d"
+    },
+    {
+      "id": 1697,
+      "title": "ATK Launches Dragonfly A9 Ultimate+ Wireless Gaming Mouse With Magnetic Charging Dock",
+      "summary": "Following on the launch of the ATK Blazing Sky Phantom, ATK has officially launched the Dragonfly A9 Ultimate+, a new wireless gaming mouse that combines flagship internals with convenient wireless charging capabilities. The A9 Ultimate+ us",
+      "content": "Following on the launch of the <a href=\"https://www.techpowerup.com/353200/atk-launches-blazing-sky-phantom-44-g-carbon-fiber-wireless-gaming-mouse-for-usd-100-120\" target=\"_blank\">ATK Blazing Sky Phantom</a>, ATK has officially launched the Dragonfly A9 Ultimate+, a new wireless gaming mouse that combines flagship internals with convenient wireless charging capabilities. The A9 Ultimate+ uses the same symmetrical shape as previous Dragonfly A9 mice, measuring in at 125 × 63.5 × 40 mm, and featuring accommodations like curved side walls for better grip and an &quot;all-new Nano coating.&quot; The mouse will weigh in at a claimed 55 g ±3 g, with the final weight depending on whether or not buyers use the included dot skates of the conventional feet instead. <br />\r\n<br />\r\nThe headline feature of the A9 Ultimate+ mouse is its magnetic charging dock that adds convenience to the wireless mouse experience. While ATK claims that the 500 mAh battery should deliver up to 350 hours on a single charge (at 1 kHz polling), the wireless dock that comes with the A9 Ultimate+ also doubles as a magnetic charging station. The Dragonfly A9 Ultimate+ is powered by a PixArt PAW 3955 Master sensor and Nordic 54L-series MCU, and it will have ATK's own SwiftLight optical switches, which should reduce latency and make the switches more durable. ATK claims click latency on the Dragonfly A9 Ultimate to be as low as 0.181 ms in 8 kHz polling mode. The ATK Dragonfly A9 Ultimate+ Magnetic Charging Edition is currently available for <a rel=\"nofollow\" href=\"https://www.atk.store/products/atk-dragonfly-a9-ultimate-lightweight-wireless-mouse?variant=48638057414874\" target=\"_blank\">$69.98 on ATK's online store</a> during a 10-day launch discount, and the official MSRP is $94.98.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/lup6nTgDMaUCEauw.jpg\" target=\"_blank\" data-width=\"719\" data-height=\"586\" ><img src=\"https://tpucdn.com/img/lup6nTgDMaUCEauw_thm.jpg\" width=\"160\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/wgx2TlmU24dXsEx5.jpg\" target=\"_blank\" data-width=\"720\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/wgx2TlmU24dXsEx5_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/nzBTCp89vhEwe2iO.jpg\" target=\"_blank\" data-width=\"717\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/nzBTCp89vhEwe2iO_thm.jpg\" width=\"97\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/9mOxhM9lYY4sY8zT.jpg\" target=\"_blank\" data-width=\"1199\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/9mOxhM9lYY4sY8zT_thm.jpg\" width=\"162\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353237/atk-launches-dragonfly-a9-ultimate-wireless-gaming-mouse-with-magnetic-charging-dock",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "dc18a9ab1de69c88bd18fd533c5c9429"
+    },
+    {
+      "id": 1698,
+      "title": "Epomaker Shows Off EM3 Carbon Fiber Wireless Gaming Mouse",
+      "summary": "Not too long ago, Epomaker started expanding its gaming peripherals line-up beyond the usual mechanical and analogue keyboards, with gaming mice being one of the company's new categories. The EM3 is Epomaker's latest addition to its gaming ",
+      "content": "Not too long ago, Epomaker started expanding its gaming peripherals line-up beyond the usual mechanical and analogue keyboards, with gaming mice being one of the company's new categories. The EM3 is Epomaker's latest addition to its gaming mouse line-up, and it has just shown off the mouse in a new <a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=TfP_ChMFrtk\" target=\"_blank\">official unboxing livestream</a> and published the full specs ahead of the mouse's actual launch. The actual launch pricing of the EM3 has yet to be announced, but the product page and the mouse specs suggest it will be on the cheaper side. At 56 g, it won't be the lightest mouse around, but it might have a reasonable value proposition if the price is low enough. <br />\r\n<br />\r\nThe EM3 will have an ABS-carbon fiber composite shell and a symmetrical shape that measures in at 121.2 × 63.9 × 37.3 mm. It will have two programmable side buttons, and the main mouse clicks will be Huano Blue Shell White Dot switches, while the scroll wheel will have an F-switch encoder. According to the product page, the Epomaker EM3 will have a PixArt PAW 3315 sensor, which will limit the mouse to just 1 kHz polling rate, up to 16,000 DPI sensitivity, and 30 G acceleration. In Epomaker's livestream, the presenter describes the mouse's coating as being &quot;slightly rough,&quot; and notes that it has good grip.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/hbL6EHr8v60wHDuA.jpg\" target=\"_blank\" data-width=\"1309\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/hbL6EHr8v60wHDuA_thm.jpg\" width=\"177\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1JmEAAmmxbuAb1Mr.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"799\" ><img src=\"https://tpucdn.com/img/1JmEAAmmxbuAb1Mr_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/h5v4e9MMZgtUPrho.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"799\" ><img src=\"https://tpucdn.com/img/h5v4e9MMZgtUPrho_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/MQqMoqxsdy0ysC56.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"750\" ><img src=\"https://tpucdn.com/img/MQqMoqxsdy0ysC56_thm.jpg\" width=\"208\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353236/epomaker-shows-off-em3-carbon-fiber-wireless-gaming-mouse\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353236/epomaker-shows-off-em3-carbon-fiber-wireless-gaming-mouse",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "4d476226f30458fd26e0a3fec2f52b71"
+    },
+    {
+      "id": 1701,
+      "title": "Up to 64 GB RAM, Ultra X7 and ARC B390: Panasonic releases two new rugged tablets",
+      "summary": "Panasonic has announced two new Toughbooks, which receive an upgrade to Intel's Panther Lake platform. The new rugged tablet-laptop hybrids Panasonic Toughbook G3 and Panasonic Toughbook FZ-34 will even be available with powerful Core Ultra",
+      "content": "Panasonic has announced two new Toughbooks, which receive an upgrade to Intel's Panther Lake platform. The new rugged tablet-laptop hybrids Panasonic Toughbook G3 and Panasonic Toughbook FZ-34 will even be available with powerful Core Ultra X7 CPUs and ARC graphics.",
+      "link": "https://www.notebookcheck.net/Radical-upgrade-Panasonic-puts-Intel-Core-Ultra-X7-with-ARC-GPU-in-its-new-tablets.1408683.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Radical-upgrade-Panasonic-puts-Intel-Core-Ultra-X7-with-ARC-GPU-in-its-new-tablets.1408683.0.html"
+    },
+    {
+      "id": 1702,
+      "title": "Keychron launches special edition all-wood K8 HE gaming keyboard",
+      "summary": "Keychron has launched the K8 HE All-Wood Special Edition, a $199.99 tenkeyless magnetic-switch keyboard with a walnut wood body and CNC-machined aluminum side panels. It keeps the K8 HE's adjustable actuation from 0.2mm to 3.8mm, Rapid Trig",
+      "content": "Keychron has launched the K8 HE All-Wood Special Edition, a $199.99 tenkeyless magnetic-switch keyboard with a walnut wood body and CNC-machined aluminum side panels. It keeps the K8 HE's adjustable actuation from 0.2mm to 3.8mm, Rapid Trigger and tri-mode wireless connectivity, adds a 4,000mAh battery rated for up to 110 hours, and weighs 1,009g.",
+      "link": "https://www.notebookcheck.net/Keychron-launches-special-edition-all-wood-K8-HE-gaming-keyboard.1411847.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Keychron-launches-special-edition-all-wood-K8-HE-gaming-keyboard.1411847.0.html"
+    },
+    {
+      "id": 1703,
+      "title": "Minisforum launches new all-AMD gaming mini-PC with 16 GB Radeon GPU",
+      "summary": "Minisforum has launched a new AtomMan G1 Pro configuration that replaces the existing GeForce RTX 5060 with a Radeon RX 9060 XT featuring 16 GB of VRAM. The all-AMD model keeps the same Ryzen 9 8945HX platform, memory and storage configurat",
+      "content": "Minisforum has launched a new AtomMan G1 Pro configuration that replaces the existing GeForce RTX 5060 with a Radeon RX 9060 XT featuring 16 GB of VRAM. The all-AMD model keeps the same Ryzen 9 8945HX platform, memory and storage configurations.",
+      "link": "https://www.notebookcheck.net/Minisforum-launches-new-all-AMD-gaming-mini-PC-with-16-GB-Radeon-GPU.1411850.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Minisforum-launches-new-all-AMD-gaming-mini-PC-with-16-GB-Radeon-GPU.1411850.0.html"
+    },
+    {
+      "id": 1704,
+      "title": "17-inch HP OmniBook 7 with Core Ultra 7 256V discounted by 43%",
+      "summary": "Deal | The HP OmniBook 7 comes equipped with a 1080p touch display, an Intel Lunar Lake processor, 16 GB of on-package RAM, and 512 GB of storage. It also has a Thunderbolt 4 port, as well as the option to upgrade to a wireless card with su",
+      "content": "Deal | The HP OmniBook 7 comes equipped with a 1080p touch display, an Intel Lunar Lake processor, 16 GB of on-package RAM, and 512 GB of storage. It also has a Thunderbolt 4 port, as well as the option to upgrade to a wireless card with support for the latest wireless standards for an extra $20.",
+      "link": "https://www.notebookcheck.net/17-inch-HP-OmniBook-7-with-Core-Ultra-7-256V-discounted-by-43.1411294.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/17-inch-HP-OmniBook-7-with-Core-Ultra-7-256V-discounted-by-43.1411294.0.html"
+    },
     {
       "id": 1564,
       "title": "芯片级造假 花8000元买三星8TB旗舰SSD：到手竟是128GB杂牌货",
@@ -1503,6 +1956,80 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Oppo-K14-Plus-launched-in-India-with-144Hz-display-and-an-8-000mAh-battery.1411084.0.html"
+    },
+    {
+      "id": 1694,
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI",
+      "summary": "We go into the AMD EPYC 9006 series and how the line-up aligns to the demand seens in the era of agentic AI The post Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI appeared first on ServeTheHome.",
+      "content": "<p>We go into the AMD EPYC 9006 series and how the line-up aligns to the demand seens in the era of agentic AI</p>\n<p>The post <a href=\"https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/\">Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-09-29",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=105212"
+    },
+    {
+      "id": 1699,
+      "title": "Intel Patent Describes Micro LEDs Built Into Glass Substrate CPU Packages",
+      "summary": "Intel has been granted a US patent for a chip package with tiny LEDs built into it, according to a TrendForce report. Titled \"IC Package with Micro LEDs\" (patent 12,733,303), it describes a semiconductor die with a micro LED attached, embed",
+      "content": "Intel has been granted a US patent for a chip package with tiny LEDs built into it, according to a <a rel=\"nofollow\" href=\"https://www.trendforce.com/news/2026/09/22/news-intel-unveils-micro-led-based-glass-substrate-packaging-technology-patent/\" target=\"_blank\">TrendForce report</a>. Titled &quot;IC Package with Micro LEDs&quot; (<a rel=\"nofollow\" href=\"https://patentsgazette.uspto.gov/week36/OG/html/1550-2/US12733303-20260908.html\" target=\"_blank\">patent 12,733,303</a>), it describes a semiconductor die with a micro LED attached, embedded at least partially into a glass substrate. Through-glass vias (TGVs) supply power to the LED and connect to the package substrate. The LEDs can apparently use nanowire structures to emit red, green, and blue light. The patent lists a few uses, including illuminated lettering on the CPU surface, personalization for DIY electronics (think RGB lighting), and indicators for electrical testing inside the package. The patent was filed in 2022 but has now been disclosed by Intel.<br />\r\n<br />\r\nOf course, most CPUs sit under a heatsink, so it's hard to think of a scenario where glowing letters on a CPU package would make sense. The optical angle is more interesting. It looks like the patent doesn't describe a working optical link, but AU Optronics is developing a Micro LED co-packaged optics module for links of up to 10 meters in AI data centers, and there are rumors of Intel and AUO collaborating. We don't know if anything has been agreed yet. Intel <a href=\"https://www.techpowerup.com/338564/intel-abandons-in-house-glass-substrate-r-d-leans-on-external-suppliers\" target=\"_blank\">reportedly stepped back from in-house glass substrate R&amp;D</a> last year, then <a href=\"https://www.techpowerup.com/340210/intel-wont-abandon-glass-substrates-will-license-tech-to-externals\" target=\"_blank\">moved to license the tech</a> to others, and in January it <a href=\"https://www.techpowerup.com/345504/intel-unveils-glass-core-substrate-with-emib-multi-chip-connection\" target=\"_blank\">showed a glass core substrate with EMIB</a> at NEPCON Japan. Companies file patents all the time, and most never become products, so I wouldn't expect RGB CPUs anytime soon.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ddhNeCjXsApkGY5r.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ddhNeCjXsApkGY5r_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/zOxoO8XTlAPgdXVi.jpg\" target=\"_blank\" data-width=\"600\" data-height=\"312\" ><img src=\"https://tpucdn.com/img/zOxoO8XTlAPgdXVi_thm.jpg\" width=\"250\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353232/intel-patent-describes-micro-leds-built-into-glass-substrate-cpu-packages",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-29",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "35a123d9864ea956eea15728f7739f91"
+    },
+    {
+      "id": 1700,
+      "title": "Microsoft Blames \"Limited Portfolio\" For Lack of AMD-Powered Surface Devices",
+      "summary": "AMD's processors are notoriously missing from Microsoft's latest Surface device line-up, despite there being more CPU options in Microsoft Surface PCs than ever before, including an upcoming NVIDIA SKU. In a recent statement to Windows Cent",
+      "content": "AMD's processors are notoriously missing from <a href=\"https://www.techpowerup.com/353016/microsoft-introduces-surface-pro-and-surface-laptop-with-snapdragon-x2-plus\" target=\"_blank\">Microsoft's latest Surface device line-up</a>, despite there being more CPU options in Microsoft Surface PCs than ever before, <a href=\"https://www.techpowerup.com/351122/nvidia-rtx-spark-laptop-found-on-roadside-gets-reviewed-before-official-launch\" target=\"_blank\">including an upcoming NVIDIA SKU</a>. In a recent statement to <a rel=\"nofollow\" href=\"https://www.windowscentral.com/hardware/surface/microsoft-surface-lead-explains-why-there-are-no-amd-surface-pcs-we-have-to-make-our-choices-pretty-wisely\" target=\"_blank\">Windows Central</a>, Microsoft's Surface Corporate Vice President, Brett Ostrum, explained that this absence is deliberate, although not malicious, stating that Microsoft has a limited portfolio and needs to make smart choices about its offerings.<blockquote>We love working with AMD. We have a limited portfolio, and so we have to make our choices pretty wisely in terms of what we're doing and where we're doing.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/b8RPw6Yd7nwKpiKX.jpg\" target=\"_blank\" data-width=\"1378\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/b8RPw6Yd7nwKpiKX_thm.jpg\" width=\"187\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353225/microsoft-blames-limited-portfolio-for-lack-of-amd-powered-surface-devices\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353225/microsoft-blames-limited-portfolio-for-lack-of-amd-powered-surface-devices",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-09-29",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "656ba01e2b2455bc91ea44a554e03df8"
+    },
+    {
+      "id": 1705,
+      "title": "Aaeon launches Panther Lake Edge mini PCs with Frore's AirJet active cooling system",
+      "summary": "The AirJet solid-state cooling solution makes the UP Xtreme PTL Edge Air much quieter and lighter compared to the conventional heatsink + fan models. However the implementation is not without slight disadvantages since the system draws 5% m",
+      "content": "The AirJet solid-state cooling solution makes the UP Xtreme PTL Edge Air much quieter and lighter compared to the conventional heatsink + fan models. However the implementation is not without slight disadvantages since the system draws 5% more power on average and the operating temperatures are reduced.",
+      "link": "https://www.notebookcheck.net/Aaeon-launches-Panther-Lake-Edge-mini-PCs-with-Frore-s-AirJet-active-cooling-system.1411256.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-29",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Aaeon-launches-Panther-Lake-Edge-mini-PCs-with-Frore-s-AirJet-active-cooling-system.1411256.0.html"
+    },
+    {
+      "id": 1706,
+      "title": "8BitDo expands its Gears of War: E-Day accessories with branded keyboard and mouse",
+      "summary": "Following the launch of a Gears of War-themed charging dock for Xbox wireless controllers, 8BitDo has announced two more accessories. The Gears of War: E-Day Keyboard and Mouse Collection see its popular Retro 87 mechanical keyboard and Ret",
+      "content": "Following the launch of a Gears of War-themed charging dock for Xbox wireless controllers, 8BitDo has announced two more accessories. The Gears of War: E-Day Keyboard and Mouse Collection see its popular Retro 87 mechanical keyboard and Retro R8 Mouse get a Gears of War makeover.",
+      "link": "https://www.notebookcheck.net/8BitDo-expands-its-Gears-of-War-E-Day-accessories-with-branded-keyboard-and-mouse.1411170.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-09-29",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/8BitDo-expands-its-Gears-of-War-E-Day-accessories-with-branded-keyboard-and-mouse.1411170.0.html"
     },
     {
       "id": 1493,
