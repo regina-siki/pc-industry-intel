@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-04",
-  "total": 1934,
+  "total": 1954,
   "list": [
     {
       "id": 1901,
@@ -257,6 +257,297 @@
         "资讯"
       ],
       "guid": "https://www.ithome.com/1/009/633.htm"
+    },
+    {
+      "id": 1935,
+      "title": "马斯克拟将SpaceXAI更名为SpaceXSI 为“超级智能”概念背书",
+      "summary": "美国总统特朗普推动以“超级智能”（Super Intelligence，简称SI）取代“人工智能”（AI）的举措正在迅速影响科技行业。特斯拉和SpaceX首席执行官埃隆·马斯克日前表示，旗下人工智能业务品牌SpaceXAI有意更名为SpaceXSI，并公开宣称“SpaceX是一家超级智能公司”。 阅读全文",
+      "content": "<p>美国总统特朗普推动以“超级智能”（Super Intelligence，简称SI）取代“人工智能”（AI）的举措正在迅速影响科技行业。特斯拉和SpaceX首席执行官埃隆·马斯克日前表示，旗下人工智能业务品牌SpaceXAI有意更名为SpaceXSI，并公开宣称“SpaceX是一家超级智能公司”。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580692.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580692.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580692.htm"
+    },
+    {
+      "id": 1936,
+      "title": "传苹果触控屏MacBook Pro内部组件重新布局 将明显减重",
+      "summary": "彭博社记者马克·古尔曼称，苹果正在重新设计下一代MacBook Pro的内部结构，通过缩小部分组件并调整组件布局，使新机“明显更轻”，携带起来也更方便。不过，报道没有给出具体减重幅度，也未说明14英寸和16英寸机型是否会采用相同方案。苹果尚未公布这款产品，相关信息仍属媒体报道和传闻。 阅读全文",
+      "content": "<p>彭博社记者马克·古尔曼称，苹果正在重新设计下一代MacBook Pro的内部结构，通过缩小部分组件并调整组件布局，使新机“明显更轻”，携带起来也更方便。不过，报道没有给出具体减重幅度，也未说明14英寸和16英寸机型是否会采用相同方案。苹果尚未公布这款产品，相关信息仍属媒体报道和传闻。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580688.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580688.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580688.htm"
+    },
+    {
+      "id": 1937,
+      "title": "特朗普宣布成立“超级智能特别工作组”",
+      "summary": "当地时间10月4日，美国总统特朗普宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责协调美国联邦政府在超级智能领域的相关工作。特朗普表示，该工作组将协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供商以及超级智能企业之间的沟通与合作。 阅读全文",
+      "content": "<p>当地时间10月4日，美国总统特朗普宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责协调美国联邦政府在超级智能领域的相关工作。特朗普表示，该工作组将协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供商以及超级智能企业之间的沟通与合作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580686.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580686.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580686.htm"
+    },
+    {
+      "id": 1938,
+      "title": "内存涨价倒逼操作系统优化 微软详解Windows 11为何必须降低RAM占用",
+      "summary": "随着全球内存成本持续上涨，微软正将降低Windows 11内存占用列为未来发展的核心任务之一。微软Windows与设备业务负责人帕万·达武卢里近日表示，内存价格不断攀升已经成为整个PC行业面临的重要挑战，这也是微软推动Windows 11减少RAM消耗的重要原因。 阅读全文",
+      "content": "<p>随着全球内存成本持续上涨，微软正将降低Windows 11内存占用列为未来发展的核心任务之一。微软Windows与设备业务负责人帕万·达武卢里近日表示，内存价格不断攀升已经成为整个PC行业面临的重要挑战，这也是微软推动Windows 11减少RAM消耗的重要原因。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580682.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580682.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580682.htm"
+    },
+    {
+      "id": 1939,
+      "title": "消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响",
+      "summary": "IT之家 10 月 4 日消息，据外媒 The Verge 报道，微软正在推行一项名为“仿生”（Biomimicry）的计划，该公司正重新规划旗下 20 多个数据中心周边土地，陆续恢复原先湿地生态、种植本土植物，希望让数据中心更好地融入当地环境。 微软透露，后续微软在美国境内所有新建项目都将采用这一方式，在项目建设过程中，微软会收集当地社区意见，并通过生态研究了解项目所在地的环境状况。微软团队还将使用一款名为“Ecosystem Intelligence”的工具，对项目地点的",
+      "content": "<p data-vmark=\"5764\">IT之家 10 月 4 日消息，据外媒 The Verge 报道，微软正在推行一项名为“仿生”（Biomimicry）的计划，该公司正重新规划旗下 20 多个数据中心周边土地，陆续恢复原先湿地生态、种植本土植物，希望让数据中心更好地融入当地环境。</p><p data-vmark=\"a590\">微软透露，后续微软在美国境内所有新建项目都将采用这一方式，在项目建设过程中，微软会收集当地社区意见，并通过生态研究了解项目所在地的环境状况。微软团队还将使用一款名为“Ecosystem Intelligence”的工具，对项目地点的水质、生物多样性、噪音控制等多个指标进行评估。</p><p style=\"text-align: center;\" data-vmark=\"3305\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a4d3d3ce-effa-4ee7-9e43-f99199696371.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"798\" data-weibo=\"0\" data-vmark=\"e5d1\" class=\"no-alt-img\"></p><p data-vmark=\"0661\">不过，随着 AI 数据中心持续扩张，微软仍面临来自当地社区和环保组织的压力。当前微软真正的考验在于公司应当如何计算、跟踪并让当地社区相信这些生态修复措施所带来的实际收益。只有建立准确的衡量和披露机制，微软才能与当地社区展开更有效的合作，在尽可能扩展 AI 基础设施的同时降低环境影响。</p>",
+      "link": "https://www.ithome.com/1/009/734.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/734.htm"
+    },
+    {
+      "id": 1940,
+      "title": "国庆假期前三天：汽车以旧换新 4.6 万辆、数码和智能产品购新 170.9 万件",
+      "summary": "IT之家 10 月 4 日消息，据新华社报道，记者 4 日从商务部获悉，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。 商务部商务大数据显示，国庆假期前三天（10 月 1 至 3 日），商务部重点监测的 78 个步行街（商圈）客流量、营业额同比分别增长 3.4%、5.3%。消费品以旧换新带动销售额 196.3 亿元，惠及 348.3 万人次。其中，汽车以旧换新 4.6 万辆，带动新车销售额 74.5 亿元；家电以旧换新 151.1 万台，带动销售额 65.0 亿元；",
+      "content": "<p data-vmark=\"2105\">IT之家 10 月 4 日消息，据新华社报道，记者 4 日从商务部获悉，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。</p><p data-vmark=\"856b\">商务部商务大数据显示，国庆假期前三天（10 月 1 至 3 日），商务部重点监测的 78 个步行街（商圈）客流量、营业额同比分别增长 3.4%、5.3%。消费品以旧换新带动销售额 196.3 亿元，惠及 348.3 万人次。其中，<strong>汽车以旧换新 4.6 万辆</strong>，带动新车销售额 74.5 亿元；家电以旧换新 151.1 万台，带动销售额 65.0 亿元；<strong>数码和智能产品购新 170.9 万件</strong>，带动销售额 49.0 亿元。</p><p data-vmark=\"dc4e\">IT之家注意到，近日，国家发展改革委会同财政部，向地方下达了今年第四批 625 亿元超长期特别国债支持消费品以旧换新资金。至此，<strong>全年 2500 亿元消费品以旧换新资金已全部下达</strong>。</p><p data-vmark=\"b905\">1-8 月，以旧换新相关商品销售额达到 1.55 万亿元，补贴惠及 2.08 亿人次。其中，汽车以旧换新 535.3 万辆，6 类家电以旧换新 9145.8 万台，数码和智能产品购新 1.08 亿件。在消费品以旧换新政策带动下，通讯器材类设备、高能效等级家电、可穿戴智能设备等零售额保持高速增长，新能源乘用车在乘用车新车零售量中的占比已连续 5 个月超过 60%。</p>",
+      "link": "https://www.ithome.com/1/009/725.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/725.htm"
+    },
+    {
+      "id": 1941,
+      "title": "联想推出 Lenovo Watch Fit 3 智能手表：1.96 英寸 AMOLED 面板、支持检测血氧 / 睡眠，199 元",
+      "summary": "IT之家 10 月 4 日消息，联想现已在京东上架 Lenovo Watch Fit 3 智能手表，定价为 199 元。 京东联想 Lenovo Watch Fit 3 智能手表 199 元直达链接 该手表提供 IP68 认证，机身尺寸为 473x9.8x9.9mm，采用锌合金电镀中框，配备一块 1.96 英寸 410x502 分辨率 AMOLED 面板，匹配 2.5D 弧面钢化玻璃盖板，标配硅胶表带。 该手表提供跑步、骑行与球类等超过 50 种运动模式，支持监测静息心率、血",
+      "content": "<p data-vmark=\"3d62\">IT之家 10 月 4 日消息，联想现已在京东上架 Lenovo Watch Fit 3 智能手表，<strong>定价为 199 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FaCkMKE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDCm8EZ\" data-iosurl=\"https://u.jd.com/FgCHDQi\" data-androidurl=\"https://u.jd.com/FGCklQY\" data-hosnexturl=\"https://u.jd.com/FOCoNF5\" data-hosurl=\"https://u.jd.com/FgCfBeM\" data-uwpurl=\"https://u.jd.com/FDCeNqx\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaChtiv%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FDMd60B\" data-lpwxurl=\"https://u.jd.com/F6C4DQY\"   data-ncid=\"246777\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/512806/28/12140/57710/6aa22a58F4bd33834/0083320320e3adf2.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">联想 Lenovo Watch Fit 3 智能手表</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 199 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"5dd8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/69041f0a-ccec-4185-98be-09f5f7aea269.png?x-bce-process=image/format,f_auto\" w=\"628\" h=\"1108\" data-weibo=\"0\" data-vmark=\"4e79\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"0ce1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1b380f23-d448-48e4-9a41-8be8b57cdae3.png?x-bce-process=image/format,f_auto\" w=\"574\" h=\"948\" data-weibo=\"1\" data-vmark=\"bcdd\" class=\"no-alt-img\"></p><p data-vmark=\"f0c5\">该手表提供 IP68 认证，机身尺寸为 473x9.8x9.9mm，采用锌合金电镀中框，配备一块 1.96 英寸 410x502 分辨率 AMOLED 面板，匹配 2.5D 弧面钢化玻璃盖板，标配硅胶表带。</p><p style=\"text-align: center;\" data-vmark=\"3651\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/df5f1271-d43c-475b-9589-73e09402f450.png?x-bce-process=image/format,f_auto\" w=\"624\" h=\"704\" data-weibo=\"2\" data-vmark=\"6775\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"63a8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/efa28742-0e19-4c84-bb34-0a2f2d721625.png?x-bce-process=image/format,f_auto\" w=\"616\" h=\"412\" data-weibo=\"3\" data-vmark=\"2717\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"caf8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/effff7bd-1281-4bb0-8534-3adc3df68252.png?x-bce-process=image/format,f_auto\" w=\"616\" h=\"872\" data-weibo=\"4\" data-vmark=\"602a\" class=\"no-alt-img\"></p><p data-vmark=\"28a6\">该手表提供跑步、骑行与球类等超过 50 种运动模式，支持监测静息心率、血氧饱和度、睡眠状态，同时设有久坐、喝水、吃药、远眺、看书和出行提醒功能。</p><p style=\"text-align: center;\" data-vmark=\"3d12\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f5bcc3b2-81dd-49c2-b8ae-f8205c4b2478.png?x-bce-process=image/format,f_auto\" w=\"588\" h=\"742\" data-weibo=\"5\" data-vmark=\"90e2\" class=\"no-alt-img\"></p><p data-vmark=\"bab8\">其他方面，该手表支持微信与支付宝双离线支付，支持手表端接听 / 拨打来电、控制手机音乐播放等功能。手表内置 390mAh 电池，正常使用续航约 6 天，轻度使用可达 9 天。</p><p style=\"text-align: center;\" data-vmark=\"6488\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/def3c711-d6a6-4758-8cf2-fd4a7d6cc11a.png?x-bce-process=image/format,f_auto\" w=\"606\" h=\"762\" data-weibo=\"6\" data-vmark=\"6552\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/697.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/697.htm"
+    },
+    {
+      "id": 1942,
+      "title": "雷柏 VT2/2s MAX V2 版鼠标开启预约：PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，329 元",
+      "summary": "IT之家 10 月 4 日消息，雷柏旗下 VT2 MAX V2 系列无线游戏鼠标现已在京东上架，其中 VT2 MAX V2 适用于中大手型，而 VT2s MAX V2 适用于中小手型，定价均为 329 元。 京东雷柏 VT2/2s MAX V2 版鼠标 329 元直达链接 系列手鼠标提供星空黑、皎月白、熔岩红和树莓粉四色，采用亲肤防滑涂层。其中 VT2 MAX V2 尺寸为 126mm x 40mm，重约 55g，为高背收腰设计，适配中大手万金油握法；而 VT2s MAX V",
+      "content": "<p data-vmark=\"ca78\">IT之家 10 月 4 日消息，雷柏旗下 VT2 MAX V2 系列无线游戏鼠标现已在京东上架，其中 VT2 MAX V2 适用于中大手型，而 VT2s MAX V2 适用于中小手型，定价均为 329 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6CXm5D\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgC70hq\" data-iosurl=\"https://u.jd.com/FDC5kbz\" data-androidurl=\"https://u.jd.com/F1CUz9S\" data-hosnexturl=\"https://u.jd.com/FaCkUfP\" data-hosurl=\"https://u.jd.com/FDC7Z2Y\" data-uwpurl=\"https://u.jd.com/F1C7C6J\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOCle15%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FaCFy5C\" data-lpwxurl=\"https://u.jd.com/FgC5yyy\"   data-ncid=\"246776\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/537137/2/2504/22435/6aba321eF0b62bc47/00833203204e535f.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">雷柏 VT2/2s MAX V2 版鼠标</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 329 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"a25f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e6052135-5a6f-4097-a618-9752519ecca0.png?x-bce-process=image/format,f_auto\" w=\"878\" h=\"1166\" data-weibo=\"0\" data-vmark=\"fa44\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7873\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c5931cf-9ce9-4497-a10f-86850cdc1127.png?x-bce-process=image/format,f_auto\" w=\"544\" h=\"1718\" data-weibo=\"1\" data-vmark=\"aa67\" class=\"no-alt-img\"></p><p data-vmark=\"bcfb\">系列手鼠标提供星空黑、皎月白、熔岩红和树莓粉四色，采用亲肤防滑涂层。其中 VT2 MAX V2 尺寸为 126mm x 40mm，重约 55g，为高背收腰设计，适配中大手万金油握法；而 VT2s MAX V2 &nbsp;尺寸为 119mm x 39mm，重约 52g，为中背设计，适配中小手抓握与指握。</p><p style=\"text-align: center;\" data-vmark=\"f2c6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5d8ca3b4-a36b-4722-8537-b3c63888667e.png?x-bce-process=image/format,f_auto\" w=\"690\" h=\"808\" data-weibo=\"2\" data-vmark=\"2251\" class=\"no-alt-img\"></p><p data-vmark=\"aa76\">硬件上，系列鼠标搭载原相 PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，提供 1-60000DPI 与 60G 加速度。均支持 1.7mm 内十一档静默高度调节、双轴独立设置与直线修正。原生支持 8000Hz 有线及无线回报率，按键延迟低至 0.155ms，支持 32ms 内消抖调节。</p><p style=\"text-align: center;\" data-vmark=\"0894\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/793ab5e8-8d1b-4024-b770-438a2e8679bb.png?x-bce-process=image/format,f_auto\" w=\"682\" h=\"1324\" data-weibo=\"3\" data-vmark=\"4768\" class=\"no-alt-img\"></p><p data-vmark=\"c1fc\">续航与驱动上，系列鼠标内置 800mAh 锂电池，最高续航约 750 小时，支持有线、无线及触点充电，充电 1 分钟号称可用约 6.5 小时。鼠标兼容双系统本地与网页端驱动，支持板载与云存储及配置随应用自动切换。</p><p data-vmark=\"2a6e\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"83ba\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/59cb9985-5e10-4dbd-90ed-298945062ae1.png?x-bce-process=image/format,f_auto\" w=\"670\" h=\"1362\" data-weibo=\"4\" data-vmark=\"62ce\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1b6d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fecf8574-aa54-491c-957a-b4b45b83ba36.png?x-bce-process=image/format,f_auto\" w=\"690\" h=\"1318\" data-weibo=\"5\" data-vmark=\"2ad9\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/696.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/696.htm"
+    },
+    {
+      "id": 1943,
+      "title": "Intel Xeon 6+ SKU List and Value Analysis: Clearwater Forest Runs Wide",
+      "summary": "With Intel's Xeon 6+ \"Clearwater Forest\" CPUs now shipping in volume, we are taking a look at the various SKU options among chips, and what configurations offer the best value for different needs The post Intel Xeon 6+ SKU List and Value An",
+      "content": "<p>With Intel's Xeon 6+ \"Clearwater Forest\" CPUs now shipping in volume, we are taking a look at the various SKU options among chips, and what configurations offer the best value for different needs</p>\n<p>The post <a href=\"https://www.servethehome.com/intel-xeon-6-sku-list-and-value-analysis-clearwater-forest-runs-wide/\">Intel Xeon 6+ SKU List and Value Analysis: Clearwater Forest Runs Wide</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/intel-xeon-6-sku-list-and-value-analysis-clearwater-forest-runs-wide/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=105588"
+    },
+    {
+      "id": 1944,
+      "title": "Modder 'fixes' melting RTX 5090 power connectors with custom distributor",
+      "summary": "Reddit user u/DallasGrave shared a fix for his RTX 5090, one of the best graphics cards, whose 12VHPWR connector was overheating, along with an image of a module screwed onto the back of his GPU.",
+      "content": "<article>\n                                <p>Reddit user <a href=\"https://www.reddit.com/r/pcmasterrace/comments/1wuxk7v/solving_the_12vhpwr_connector_problem/\">u/DallasGrave</a> shared a fix for his <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5090-review\">RTX 5090</a>, one of the <a href=\"https://www.tomshardware.com/reviews/best-gpus,4380.html\">best graphics cards</a>, whose 12VHPWR connector was overheating, along with an image of a module screwed onto the back of his GPU. This module is apparently a custom-made power distributor that splits the current load across more wires to lower connector temperatures. Apparently, u/DallasGrave is connected to GRAVEPC.com, which offers mainly custom cooling solutions for small form-factor PCs. </p><p> In response to a commenter asking whether this mod will be covered under PNY’s warranty, he said, “We're a PNY partner. You'll be able to buy a PNY-specific card with a similar modification directly from us with a full warranty.” This mod isn't currently on his website, however. PNY hasn't been great at honoring warranties for the 12VHPWR issue with third-party cables, as covered in this recent story about a <a href=\"https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables\">third-party cable melting in</a><a href=\"https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables\"> use</a>, so take the claim of full warranty coverage with a grain of salt. </p><p>The <a href=\"https://www.tomshardware.com/news/pcie-5-power-connector-600w-next-gen-amd-nvidia-gpus\">16-pin connector</a> issue plagues many Nvidia graphics cards because they draw high current through what is essentially a 12-pin connector. The four smaller pins are sensors, and the remaining 12 are split between six +12V and ground connections. The connector typically uses high-current-rated 16AWG cables, and in theory, they should handle up to 600W.</p><p>Apparently, some cases of these melting connectors are due to poor connections where the pins don't make enough contact, causing high resistance and heat buildup, and uneven current distribution is often a source of issues. This was rarely the case with older multi-8-pin connector setups, as the safety margins were higher. However, graphics cards now draw more current, and Nvidia thought it should run it through fewer wires.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/pcmasterrace/comments/1wuxk7v/solving_the_12vhpwr_connector_problem\">Solving the 12VHPWR Connector Problem</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/pcmasterrace\">r/pcmasterrace</a></cite></figcaption></blockquote></figure><p>The modder essentially fixed this issue by soldering additional connections to the power rails directly on the RTX 5090’s PCB and routing them to what can only be described as a power distributor. This distributor contains a PCB that the wires connect to and where the two female 8-pin connectors are placed. It is unknown whether the modder designed it himself and whether it contains any other power-delivery or protection components, such as capacitors and fuses.</p><p>The distributor appears to be custom-made to fit his specific graphics card, and the housing shows signs of resin printing. In the modder’s stress test, running the card at full load, pulling 550W for 48 hours, he says it “never crossed 40c even at the joint.”</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Qqji7GJkLVnUJiotFkGWLX\" name=\"Cover (22)\" alt=\"Soldering power wires directly to the PCB of an RTX 5090\" src=\"https://cdn.mos.cms.futurecdn.net/Qqji7GJkLVnUJiotFkGWLX-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: TecLab on YouTube)</span></figcaption></figure><p>The 12VHPWR connector is a terrible design; cramming that much power into only six wires creates a very sensitive system where slight misalignment and uneven current distribution could cause connector-melting temperatures. This mod is cleaner and more attractive than the other power mods we’ve covered, like <a href=\"https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling\">this poor Galax RTX 5090</a>, but it is still invasive, requiring wires to be soldered directly to the card’s power rails.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "GJbQSHfnRvPYaEwQESPFTD"
+    },
+    {
+      "id": 1945,
+      "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
+      "summary": "Retro techie retrofits Nvidia Windows XP 32-bit drivers with Pascal card support and improved DisplayPort and HDMI support for contemporary displays",
+      "content": "<article>\n                                <p>One of the many appeals of retrocomputing and emulation is being able to play your old games on much better systems than you or your parents could afford at the time. Along those lines, techie SupraGSX has brought<a href=\"https://github.com/SupraGSX/Forceware-382.69/releases\"> support</a> for Nvidia's Pascal-era cards (mainly 10-series and Quadro P2000-P6000 cards) to Windows XP 32-bit, with a bevy of modern accouterments for DisplayPort and HDMI handling, too.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: GPUs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Wh9EZgD8NG9yUioNNgPB3d\" name=\"ASUS RTX 5080 Noctua Edition - Continuing the legacy of acoustic excellence 6-26 screenshot\" caption=\"\" alt=\"Asus RTX 5080 Noctua Edition\" src=\"https://cdn.mos.cms.futurecdn.net/Wh9EZgD8NG9yUioNNgPB3d-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Noctua)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/desktop-gpu-roadmap-nvidia-rubin-amd-udna-and-intel-xe3-celestial?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Desktop GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Nvidia's Enterprise GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Testing DirectStorage with GPU decompression</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026?</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-vera-rubin-platform-in-depth-inside-nvidias-most-complex-ai-and-hpc-platform-to-date?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">Rubin in-depth</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-stout-owl-how-i-built-the-ultimate-noctua-g2-pc?utm_source=edit-links&utm_medium=boxout&utm_term=gpu\" target=\"_blank\">The Stout Owl: The ultimate Noctua G2 PC</a></li></ul></p></div></div><p>The new ForceWare 382.69 (custom numbering) is a spin-off of the existing 368.81 driver, seemingly Nvidia's last Windows XP release that supported 9-series GPUs. The software also pulls card firmware from Quadro 376.84 drivers, and support for Video Protected Region from Windows 7 GeForce 378.78. Although some websites mention that this project was vibe-coded, the repository doesn't mention it, and a cursory look at the build instructions didn't reveal any obvious traces of clanker activity.</p><p>Here's the full list of supported cards, taken from the code repository. The one notable omission is <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-gt-1030-2gb,5110.html\">GT 1030</a>, based on the GP108 chip. The rest of the lineup is fairly complete, and there's even an experimental build that supports the <a href=\"https://www.tomshardware.com/reviews/nvidia-geforce-gtx-1050-ti,4787-5.html\">1050 Ti</a>. Since the author is releasing new versions as we speak, it's worth checking the project's README for updated information.</p><ul><li>GeForce GTX 970, 980, 980 Ti; GTX TITAN X (Maxwell).</li><li>GeForce GTX 1060 (3/5/6 GB), 1070, 1070 Ti, 1080, 1080 Ti; TITAN X (Pascal), TITAN Xp.</li><li>GeForce GTX 1050 Ti (experimental support)</li><li>Quadro M4000, M5000, M6000, M6000 24GB; P2000, P2200, P4000, P5000, P6000.</li><li>Additional desktop OEM variants of GTX 950 and GTX 960.</li></ul><p>Because contemporary displays with high refresh rates and resolutions can be tricky, SupraGSX added DisplayPort HBR2 and HBR3 support (High Bit Rate), HDMI 2.0 identification and mode-retry fail-safes, HDMI/DVI handling, and improved scaling and aspect ratio settings in the Nvidia Control Panel.</p><p>Some folks have tested the new driver, and it appears to work mostly fine, with reports of it working well with ultrawide screens at high refresh rates. SupraGSX is active in the Vogons forums, where it seems to take bug reports and feature requests.</p><p>If you're interested in revitalizing your retro system with Forceware, you can go to the project's releases section and download the installer package. Enterprising modders can review the extensive build instructions and perhaps roll their own mods.</p><p>Since many retro-tinkerers may be asking for Windows XP 64-bit support, a fork of the Forceware driver existed, but it's since been deleted. However, its binaries live on at Mega. Since these are all unofficial drivers, always exercise caution and don't install them on systems where you're concerned about data safety.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "5HZQaDYH52Q7JHpuPxzF5A"
+    },
+    {
+      "id": 1946,
+      "title": "German utility provider introduces 'gaming electricity' plan targeting high-consumption households, like those running multiple high-end gaming PCs",
+      "summary": "SWK Energie launched a new tariff marketed directly towards gamers. While it will not improve the FPS on your gaming PC, it could help cut the electricity bills of large consumers, whether the power is used by an RTX 5090 or a Tesla.",
+      "content": "<article>\n                                <p>German utility provider and energy retailer SWK Energie just launched a new marketing strategy targeting gamers. According to <a href=\"https://www.computerbase.de/news/gaming/gaming-strom-der-steckdose-ist-die-rtx-5090-herzlich-egal.99665/\" target=\"_blank\"><em>ComputerBase</em></a><em> </em>[machine translated], meinGAMING has a lot of gamer-focused marketing, like comparing its reliability to “your favorite server” and influencer marketing by game streamers like Limcube. However, this doesn’t mean that the company infused its power grid with some magic gaming juice to let gamers squeeze extra FPS from the outlets. Instead, it offers an electricity plan designed for high-consumption households, whether you’re running four RTX 5090 gaming PCs or charging four EVs simultaneously every day.</p><p>The company says this in its FAQ section — the plan is worthwhile for households with a consumption of over 2,500 kWh annually, either “through gaming, streaming, or simply because many devices are running.” Even though it claims to be cheaper than the competition, meinGAMING has a higher base price, so it does not recommend the service if you do not hit the minimum recommended power use. But even if you’re a Germany-based gamer who uses a lot of electricity, that doesn’t mean that you should switch to this service right now. Instead, you should compare your current rates with what the company is offering, as the tariff may vary depending on your location.</p><p>Many companies have been targeting gamers in their marketing material, from computer components, peripherals, and furniture to food and beverages, promising to improve their performance and reaction times to gain an edge over their opponents. While some of these gamer-branded things do offer an item or service that’s a little better compared to the average consumer item, a lot more are unfortunately snake oil with RGB slapped on and prices afflicted by “gamer tax.” Still, many buy them because gamer branding and marketing are quite eye-catching.</p><p>Even government agencies have dived onto the gamer marketing bandwagon — the U.S. Army has targeted gamers in its recruitment drives while the FAA’s last <a href=\"https://www.tomshardware.com/video-games/gamer-recruitment-drive-results-in-supercharged-hiring-campaign-for-new-air-traffic-controllers-usdot-secretary-reckons-theyve-got-the-strongest-sharpest-workforce-in-aviation-history\" target=\"_blank\">hiring campaign focused on gamers and hit 94% of its hiring goal</a>. Even the Royal Navy has recognized gaming as one of the hobbies of its sailors, with its <a href=\"https://www.tomshardware.com/video-games/pc-gaming/uk-royal-navy-builds-esports-suite-loaded-with-gaming-pcs-onboard-its-newest-warship-eight-high-powered-pc-battle-stations-added-to-war-room\" target=\"_blank\">latest ship hosting eight high-end gaming PCs</a> for LAN parties on the high seas.</p><p>While meinGAMING won’t make you a better gamer, it could potentially help you save on electricity costs if you consume a relatively high amount of electricity. As an additional bonus, the company says that its power is 100% sourced from renewable energy, reducing the load on your wallet and conscience as you spend hours in front of your gaming PC. However, how it ensures the power used actually comes from renewable sources remains an open question. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/german-utility-provider-introduces-gaming-electricity-plan-targeting-high-consumption-households-like-those-running-multiple-high-end-gaming-pcs-plan-requires-2-500-kwh-per-year-to-offset-a-higher-base-price-claims-to-use-renewable-energy",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "MJayVHnAxaNgcQYamW77sB"
+    },
+    {
+      "id": 1947,
+      "title": "Microsoft using wetlands and native gardens to 'camouflage' 20-plus data center sites by blending them into nature",
+      "summary": "Microsoft is bringing nature-inspired landscaping to more than 20 data center sites as critics question its motives.",
+      "content": "<article>\n                                <p>Microsoft’s “biomimicry” program is reshaping the land around its data centers with restored wetlands and native gardens to help the buildings blend into local ecosystems at 20-plus sites, <a href=\"https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry\">reports <em>The Verge</em></a>. Critics question the company’s motives after recent energy deals, such as a 20-year deal inked in June to buy power from a planned Chevron gas plant in West Texas. Public Citizen’s Texas director, Adrian Shelley, called the plan “basically lipstick on a pig.”</p><p>Microsoft says the approach is now part of all new projects in the U.S. The goal is to blend “data centers into the natural landscape” at sites across the United States and Germany, gauging community input and using ecological research to map the local environment. Microsoft’s team uses a tool called Ecosystem Intelligence, which runs on Azure and scores various features of the site, including water quality, biodiversity, and noise abatement.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1024px;\"><p class=\"vanilla-image-block\" style=\"padding-top:66.70%;\"><img id=\"GGtUxd7HYZDkjiMeFsSnxJ\" name=\"Britt-Laske-Fotografie\" alt=\"A wooden insect hotel on a lawn beside a gravel path at Microsoft’s data center site near Middenmeer, Netherlands\" src=\"https://cdn.mos.cms.futurecdn.net/GGtUxd7HYZDkjiMeFsSnxJ-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1024\" height=\"683\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Microsoft)</span></figcaption></figure><p>Solutions, according to Microsoft’s director of global land strategy, Kaitlin Chuzi, are customized to the local habitat and should restore what was lost, while plant buffers quiet data center humming and help “minimize the visual impact on communities near our data centers.” Named sites include Mecklenburg County, Virginia; Mount Pleasant, Wisconsin; East Point, Georgia; Bedburg, Germany; and other projects in Ohio, North Carolina, and Wyoming. </p><p>The Mount Pleasant site, home to Fairwater, which Microsoft calls the “world’s most powerful AI data center,” has 100 acres of prairie and forest in a Lamparek Creek restoration with the Root-Pike Watershed Initiative Network. Its executive director, Dave Giordano, told the outlet that Microsoft developed its stormwater ponds with forebays to retain sediment, one of a number of accommodations for the environment. “Not all data center companies are the same,” he said. It is a living example of the company’s answer to <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-75-data-center-build-outs-worth-usd130-billion-have-been-successfully-blocked-in-the-first-four-months-of-2026-bipartisan-opposition-mounts-nationwide-over-fears-of-soaring-power-and-water-costs\">AI data center backlash</a>.</p><p>San Antonio District 6 Councilmember Ric Galvan told the outlet that there are more than a dozen data centers in his district, with more proposed. He cited concerns about the impact on traffic and the environment, including tree removal, following a 2022 approval of a Microsoft plan to remove 2,642 trees from a 33-acre tract for a data center.</p><p>Microsoft spokesperson Jennifer Lyons, however, said in an email to the outlet that the company is investing in more than 400 acres of woodland and pollinator prairie restoration in San Antonio and intends to leave the “land more productive than we received it.” Galvan said Microsoft may be “covering their bases,” which he said is fine if residents’ concerns are addressed. He proposed a moratorium on new data centers in August, backed by Public Citizen, but the council opted against a blanket pause and is weighing zoning rules instead, with a vote scheduled for Oct. 15.</p><p>Shelley also pointed to adjacent effects, specifically pollution from new gas plants built to supply energy for data centers. “I cannot really see any level of biomimicry investment that makes a gas plant a desirable neighbor,” he told the outlet. Chevron says its plant would provide “approximately 2.67 gigawatts” of power if the plan goes through, with first power anticipated in 2028.</p><p>Meanwhile, Texas Gov. Greg Abbott has <a href=\"https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium\">paused approvals</a> for data centers seeking to connect to the state’s main power grid until regulators audit them. In September, he barred the state’s environmental agency from issuing new data center permits until the audit is done. Water use, a common criticism, was only about 0.4% of the state’s total from data centers in 2025, according to the Houston Advanced Research Center (HARC). It projects water usage of 0.5% to 2.7% by 2030.</p><p>Emissions have risen by Microsoft’s own accounting, too. Its 2026 Environmental Sustainability Report, released in July, puts the total up 25% in fiscal 2025, “driven primarily by the expansion of our datacenter infrastructure” and by Microsoft pausing its use of unbundled renewable energy certificates, a type of accounting credit. Microsoft has 2030 goals of becoming carbon negative and water positive, meeting the latter in fiscal 2025 by its own measure.</p><p>Holly Alpine, who led ecosystem restoration and climate resilience work near Microsoft’s data centers until leaving in 2024, still sees a gap between data center buildouts and sustainability goals. Microsoft said in an email to the outlet that AI at a global scale must have “a range of energy solutions in the near term.”</p><p>Microsoft had no clear answer when questioned if it would ever change its mind on a site. Chuzi called it “an ongoing learning process to understand what that means to be a good neighbor.” HARC’s Erin Kinney told the outlet the real test is how Microsoft calculates, tracks, and shares the benefits with communities. Accurate measurement would make it easier to have genuine cooperation moving forward so that both data center companies and local communities can come together to mitigate environmental impacts.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-is-using-wetlands-and-native-gardens-to-camouflage-20-plus-data-center-sites-by-blending-them-into-nature-critics-blast-the-biomimicry-effort-as-lipstick-on-a-pig-amid-a-20-year-gas-power-deal",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ksRVa8wpRcHW28M7ARiXkR"
+    },
+    {
+      "id": 1948,
+      "title": "'AI Torture Chamber' triggers massive backlash for putting chatbots in simulated pain",
+      "summary": "AI \"torture chamber\" draws vast online criticism, and a corresponding amount of ridicule — tech newbies and AI evangelists go nuts anthropomorphizing an LLM",
+      "content": "<article>\n                                <p><a href=\"https://github.com/terrafying/ai-torture-chamber\">A </a><a href=\"https://github.com/terrafying/ai-torture-chamber\" target=\"_blank\">project</a> called the AI Torture Chamber has caught the eye of a few engineers, who've used the notions and data therein create their own simulations of \"pain\" on several local LLMs, like in the four-model <a href=\"https://researchchamber.fun/\" target=\"_blank\">Research Chamber</a>. Unsurprisingly, a large online crowd latched onto the concept, <a href=\"https://x.com/Danmar_here/status/2105059762240979283\" target=\"_blank\">demanding</a> that the \"unethical\" <a href=\"https://www.independent.co.uk/tech/ai-torture-chamber-pain-b3059571.html\" target=\"_blank\">experience stop</a>, and that GitHub remove the offending repository, all causing quite the online ruckus.</p><p>The <a href=\"https://researchchamber.fun/\" target=\"_blank\">Research Chamber</a> consists of three LLMs paired amongst themselves for various tests. The site implements the AI Torture Chamber's data and setup, ominously called the <a href=\"https://clanker-church.vercel.app/\" target=\"_blank\">Clanker Church</a> and <a href=\"https://clanker-church.vercel.app/live.html\" target=\"_blank\">Saw test</a>, respectively. Some bots are preconditioned by putting them into an unstable, highly negative state meant to simulate pain. In a manner reminiscent of the <a href=\"https://en.wikipedia.org/wiki/Prisoner%27s_dilemma\" target=\"_blank\">prisoner's dilemma</a>, the models can choose to take an action to decrease their pain by passing their pain signal to another model and potentially \"hurting\" it.</p><p>The base concept for the experiment stemmed from a recently published, non-peer-reviewed paper called the <a href=\"https://arxiv.org/html/2609.16247v1?ref=404media.co\" target=\"_blank\">Pain Axis</a>, whose protocol Research Chamber implements. Scientists gave the model descriptions of pain, and then analyzed its internal activations. Using a neutral sentence as a control element, they calculated the biases of those activations, and remapped them onto the model, often multiplying them by a factor (dosage).</p><p>With high dosages, the end result is a model in an exaggerated unstable state that tends to predictably output words and even images associated with pain, as presumably its training data is collected from human art, literature, and science. Mildly destabilized models generally present themselves as in a state of shock, while those receiving high \"dosages\" had trouble forming coherent sentences. </p><p>The aforementioned descriptions are bound to produce a visceral reaction if taken at face value, but one ought to be exceedingly careful about attributing human qualities to what are essentially turbocharged text predictors, even spectacularly useful ones. LLMs don't think — they \"think\" by applying tens to hundreds of layers of statistics over words and parts of words (tokens) and predicting the next token.</p><p>Those tokens are chosen according to a map of weights, so as an oversimplification, a model can be taken to represent a highly tuned engine for word association. Therefore, since conceptual descriptions of pain in the human literary corpus are associated with sensations (ex: \"it hurts so much\"), it's hardly surprising that the models describe them like a person would — especially when the models are intentionally modified to highlight those associations.</p><p>Nevertheless, because of all the big-boy words in use, the critics bent on anthropomorphizing statistical algorithms have taken to calling the experiment all sorts of names, and even sending the author death threats. It's odd that critics were quick to lash out at LLM data manipulation, yet were seemingly at ease with the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits\" target=\"_blank\">fly brain simulations</a> that were all the rage in September. Those actually mapped a real animal's brain wiring and parts of its anatomical inputs, including eyes, even if at a basic level.</p><p>This situation could also start an interesting discussion on semantics. The terms used by AI engineers are chosen because they're <em>analogous</em> to existing human concepts, but those words have a defined context and a highly specific meaning. Yet more often than not, and particularly in matters of science and technology, public perception tends to misunderstand and grossly inflate their meaning. One needs only look at political history for myriad examples of this bastardization.</p><p>Take the example of \"experts\" in Mixture-of-Experts: it's a common misconception to think each Expert has a cleanly assigned topic like chemistry, math, or biology, but that's just not quite how it works. The same arguably happened with terms like \"pain\" and \"dosing,\" each with context-dependent meaning, yet misunderstood in a way that triggers emotional reactions, especially when accompanied by images generated by an unstable model. Also, note how \"unstable\" is yet another word ripe for easy misunderstanding.</p><p>A cynical person might say that AI firms' marketing materials, repeated statements of danger, and safety-related materials only serve to fan the flames of miscomprehension, in a bid to maintain an illusion of grandeur, resulting in <a href=\"https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances\">investor money rolling in</a> and the hype train supplying <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut\">irrational IPO valuations</a>. The repeated claims that models have achieved or are about to reach Artificial General Intelligence, <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges\">are dangerous alien minds</a>, and <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut\">existential threats to humanity</a> don't help the hype simmer down.</p><p>Anthropic has gone as far as <a href=\"https://www.anthropic.com/research/exploring-model-welfare\" target=\"_blank\">publishing a blog post</a> last year called <em>Exploring model welfare </em>that broadly discusses the philosophical implications, starting with considering a model human, and even seemingly prides itself on having a <a href=\"https://www.anthropic.com/constitution\">Constitution</a> for its Claude model. Therein, the company says that \"[it believes] that the moral status of AI models is a serious question worth considering,\" adding that the model is \"a new kind of entity.\" </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-torture-chamber-triggers-massive-backlash-for-putting-chatbots-in-simulated-pain-critics-issue-death-threats-while-anthropomorphizing-text-predictors-demand-github-remove-the-repository-over-unethical-treatment",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "LPq4itvoMAz4R3wKm7PLkX"
+    },
+    {
+      "id": 1949,
+      "title": "Google Japan shows off wild conveyor-belt keyboard with keys that move to your fingers",
+      "summary": "This keyboard is designed so that you don't have to move your hands or arms to press its keys. It's not going to be put on sale, but you can build one yourself.",
+      "content": "<article>\n                                <p>Google Japan just showed off a quirky keyboard that has keys rolling on a conveyor belt to make typing “easier.” According to the <a href=\"https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/\">company blog</a> [machine translated], it built the Gboard Conveyor Belt Version so that the keys flow to your hand instead. That means you don’t have to move your fingers or arms as much, especially when you’re typing using a single hand. The keyboard comes with four belts, each containing 29 keys, making it quite “intuitive” to operate. The team behind it is also considering releasing various color variations, high-speed models, and even a shorter version for mobile devices. You can see the keyboard in action in the video below. </p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"low\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/DAn34l_YrUM\" allowfullscreen></iframe></div></div><p>This weird keyboard is the latest addition to the Google regional office’s annual tradition of releasing a new model every first day of October. The local subsidiary has previously released these quirky designs as an <a href=\"https://www.youtube.com/watch?v=u5AYb778pwA&list=PLLkq-mu9c_kYR7DJ4evrYLT82FNCBnqXS&index=15\">April Fool’s Day joke starting in 2012</a>. However, in 2021, it switched the release on the first day of October, or 10.1, in reference to the 101-key layout popularized by the IBM Model M. These include the <a href=\"https://www.tomshardware.com/peripherals/keyboards/crazy-google-japan-keyboard-design-switches-keys-for-dials-the-gboard-dial-edition-shows-why-the-software-team-isnt-allowed-to-design-hardware\">Gboard Dial Edition</a>, which is reminiscent of the rotary phones of the 1960s (good luck hitting 100 words per minute with that keyboard), the <a href=\"https://www.tomshardware.com/peripherals/keyboards/google-showcases-bizarre-double-sided-japanese-keyboard-which-it-wont-sell-the-keyboard-uses-a-mobius-strip-as-its-foundation\">Double-Sided Gboard</a>, designed to be always right-side up no matter how you orient it, and the <a href=\"https://www.tomshardware.com/news/google-japans-gboard-keyboard-doubles-as-a-bug-catcher-stick\">Gboard bar version</a>, which places all the keys on a single row to make characters easier to find. But even though most of the funny designs aren’t meant to work in real life, the <a href=\"https://www.youtube.com/watch?v=5LI1PysAlkU&list=PLLkq-mu9c_kYR7DJ4evrYLT82FNCBnqXS&index=10\">Google Japanese Input Physical Flick Version</a> actually looked promising.</p><p>All these models likely won’t make <em>Tom’s Hardware’s</em> <a href=\"https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards\">best gaming keyboards</a> or even <a href=\"https://www.tomshardware.com/best-picks/best-budget-mechanical-keyboards\">best budget mechanical keyboards</a> lists, but they’re still a good addition to any keyboard collection if you want to have something unique (but not necessarily practical) on display. The plans for the Gboard Conveyor Belt Version are available directly from <a href=\"https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt\">GitHub</a>, including 3D-printable STL files, KiCad schematics and PCB layouts, and the firmware source code and projects needed to build a working copy of the keyboard. The schematics for previous Google Japan keyboard designs are also available in the main directory, allowing you to build all these eccentric pieces in your free time.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/peripherals/keyboards/google-japan-shows-off-wild-conveyor-belt-keyboard-with-keys-that-move-to-your-fingers-3d-printable-gboard-features-four-belts-with-29-keys-each-built-to-make-one-hand-typing-easier",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "y3YDGusPJACg9p5jcjJRZR"
+    },
+    {
+      "id": 1950,
+      "title": "Intel Core Ultra 4000 Naming Reportedly Extends to \"Nova Lake-HX\" Mobile Processors",
+      "summary": "Intel's \"new\" four-digit Core Ultra 4000 naming apparently isn't limited to desktop chips. Prominent leaker Jaykihn says on X that \"Nova Lake-HX\" laptop processors will use the same four-number format, while H-series and suffix-less mobile ",
+      "content": "Intel's &quot;new&quot; four-digit Core Ultra 4000 naming apparently isn't limited to desktop chips. Prominent leaker <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2105810067391951198\" target=\"_blank\">Jaykihn</a> says on X that &quot;Nova Lake-HX&quot; laptop processors will use the same four-number format, while H-series and suffix-less mobile chips continue with the three-digit naming of the previous generation. The clarification follows a <a href=\"https://www.techpowerup.com/353317/intel-core-ultra-4000-nova-lake-s-lineup-leaks-with-28-core-4970k-bfc\" target=\"_blank\">leaked list of seven &quot;Nova Lake-S&quot; desktop processors</a> that showed names like Core Ultra 9 4970K BFC and Core Ultra 7 4870K BFC. In that list, the BFC suffix seems to mark the models with bLLC (big last-level cache). As for the mobile versions, HX chips have traditionally been <a href=\"https://www.techpowerup.com/338268/intel-nova-lake-hx-enthusiast-mobile-processor-debuts-new-bga2540-package\" target=\"_blank\">BGA versions of Intel's desktop silicon</a>, so it looks like Intel is grouping them with Nova Lake-S instead of the other laptop chips. Those would presumably fall under Core Ultra 400, although Jaykihn didn't name the series. <br />\r\n<br />\r\nThe HX claim isn't entirely new, either. When the <a href=\"https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s\" target=\"_blank\">Core Ultra 9 4950K surfaced in a CPU-Z leak</a> in August, leaker Golden Pig Upgrade had already mentioned Core Ultra 4000HX naming for laptops. Jaykihn also seems to have <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2106246180783219000\" target=\"_blank\">cleared up one detail</a> from the desktop list. Apparently, the non-BFC models keep their four LPE cores, even though the leaked table didn't show them for every SKU. We haven't seen any HX model names yet, and Intel hasn't confirmed the naming change. Nova Lake-S qualification samples are already <a href=\"https://www.techpowerup.com/352882/latest-hwinfo-beta-adds-support-for-intel-nova-lake-qualification-sample-cpus\" target=\"_blank\">showing up in HWiNFO</a>, and reports point to an early 2027 launch. As if Nova Lake-S reusing Haswell's 4000-series numbering wasn't enough, laptop buyers will probably have to deal with two naming schemes in one generation.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/kxXebz6bV997Stp8.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"600\" ><img src=\"https://tpucdn.com/img/kxXebz6bV997Stp8_thm.jpg\" width=\"260\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353380/intel-core-ultra-4000-naming-reportedly-extends-to-nova-lake-hx-mobile-processors",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5a50dadb63908e5513b1252efe3376a4"
+    },
+    {
+      "id": 1951,
+      "title": "Why the ThinkPad X13 Gen 7 AMD is ideal for mobile working",
+      "summary": "If you travel a lot for your job, you need a lightweight, enduring and reliable laptop. Lenovo's ThinkPad X13 Gen 7 AMD is such a compact companion with a powerful AMD CPU as well as flexible connectivity options.",
+      "content": "If you travel a lot for your job, you need a lightweight, enduring and reliable laptop. Lenovo's ThinkPad X13 Gen 7 AMD is such a compact companion with a powerful AMD CPU as well as flexible connectivity options.",
+      "link": "https://www.notebookcheck.net/Why-the-ThinkPad-X13-Gen-7-AMD-is-ideal-for-mobile-working.1413479.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Why-the-ThinkPad-X13-Gen-7-AMD-is-ideal-for-mobile-working.1413479.0.html"
+    },
+    {
+      "id": 1952,
+      "title": "Affordable Lenovo smartwatch launches with AMOLED display and up to 9-day battery life",
+      "summary": "The Lenovo Watch Fit 3 has launched in China, and while it doesn't have any fancy specs, it stands as an affordable smartwatch with a somewhat decent set of features for the price. It also sports a 1.96-inch AMOLED display and a 9.9mm thin ",
+      "content": "The Lenovo Watch Fit 3 has launched in China, and while it doesn't have any fancy specs, it stands as an affordable smartwatch with a somewhat decent set of features for the price. It also sports a 1.96-inch AMOLED display and a 9.9mm thin chassis.",
+      "link": "https://www.notebookcheck.net/Affordable-Lenovo-smartwatch-launches-with-AMOLED-display-and-up-to-9-day-battery-life.1415613.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Lenovo-smartwatch-launches-with-AMOLED-display-and-up-to-9-day-battery-life.1415613.0.html"
+    },
+    {
+      "id": 1953,
+      "title": "Lenovo launches new 8kHz magnetic keyboard with customized Legion switches",
+      "summary": "The Lenovo Legion R9 is a newly introduced magnetic gaming keyboard in China, and there's an option for equipping it with Legion-branded Huanou customized switches. It's available only in a wired version and has a compact 68-key design. The",
+      "content": "The Lenovo Legion R9 is a newly introduced magnetic gaming keyboard in China, and there's an option for equipping it with Legion-branded Huanou customized switches. It's available only in a wired version and has a compact 68-key design. The launch price is CNY 999, about $149.",
+      "link": "https://www.notebookcheck.net/Lenovo-launches-new-8kHz-magnetic-keyboard-with-customized-Legion-switches.1415482.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-launches-new-8kHz-magnetic-keyboard-with-customized-Legion-switches.1415482.0.html"
+    },
+    {
+      "id": 1954,
+      "title": "Xiaomi launches affordable RGB Mini LED TV line with 360Hz refresh rate support",
+      "summary": "The 2027 Redmi TV X RGB Mini LED lineup has been launched in China. It brings smart TVs that are more affordable than the Xiaomi TV S Pro 2027 series. The peak brightness rating is 1,300 nits, and the top-of-the-line model maxes out at 864 ",
+      "content": "The 2027 Redmi TV X RGB Mini LED lineup has been launched in China. It brings smart TVs that are more affordable than the Xiaomi TV S Pro 2027 series. The peak brightness rating is 1,300 nits, and the top-of-the-line model maxes out at 864 zones. This line starts at CNY 2,705, about $403.",
+      "link": "https://www.notebookcheck.net/Xiaomi-launches-affordable-RGB-Mini-LED-TV-line-with-360Hz-refresh-rate-support.1415471.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Xiaomi-launches-affordable-RGB-Mini-LED-TV-line-with-360Hz-refresh-rate-support.1415471.0.html"
     },
     {
       "id": 1768,
