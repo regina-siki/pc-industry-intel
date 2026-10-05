@@ -1,7 +1,531 @@
 {
-  "updatedAt": "2026-10-04",
-  "total": 1954,
+  "updatedAt": "2026-10-05",
+  "total": 1992,
   "list": [
+    {
+      "id": 1955,
+      "title": "俄罗斯砸870亿元建14nm晶圆厂：2036年完工 瞄准300mm晶圆",
+      "summary": "在组建“联合微电子公司”（ОМК）的框架下，俄罗斯计划新建三座芯片工厂，其中一座是面向300mm晶圆、按14nm工艺生产芯片的“前瞻量产”工厂。按照投资进度表，2027年将启动这座300mm工厂的前期设计，并论证14nm基础工艺方案。前期准备持续两年，2029年完成，工厂建设本身将在2036年前完工。 阅读全文",
+      "content": "<p><strong>在组建“联合微电子公司”（ОМК）的框架下，俄罗斯计划新建三座芯片工厂，其中一座是面向300mm晶圆、按14nm工艺生产芯片的“前瞻量产”工厂。</strong>按照投资进度表，2027年将启动这座300mm工厂的前期设计，并论证14nm基础工艺方案。前期准备持续两年，2029年完成，工厂建设本身将在2036年前完工。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580774.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580774.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580774.htm"
+    },
+    {
+      "id": 1956,
+      "title": "华为与高通达成多年期专利许可协议 覆盖5G、计算、人工智能及网络领域",
+      "summary": "10月5日，华为与高通宣布达成一项多年期、广泛的专利许可协议，涵盖5G、计算、人工智能（AI）及网络等多个技术领域。据《南华早报》报道，这是美国通信芯片巨头高通首次同意向华为付费许可并购买专利。 阅读全文",
+      "content": "<p>10月5日，华为与高通宣布达成一项多年期、广泛的专利许可协议，涵盖5G、计算、人工智能（AI）及网络等多个技术领域。据《南华早报》报道，<strong>这是美国通信芯片巨头高通首次同意向华为付费许可并购买专利</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580772.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580772.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580772.htm"
+    },
+    {
+      "id": 1957,
+      "title": "特朗普成立“超级智能工作组”：情报总监牵头，协调联邦政府AI事务",
+      "summary": "美国总统特朗普10月4日宣布成立“超级智能工作组”（Super Intelligence Force，简称SIF），由国家情报总监杰伊·克莱顿牵头，联邦贸易委员会、五角大楼和人事管理局的负责人共同参与。该工作组将协调联邦政府的人工智能事务，并向特朗普及白宫办公厅主任苏西·怀尔斯汇报。 阅读全文",
+      "content": "<p>美国总统特朗普10月4日宣布成立“超级智能工作组”（Super Intelligence Force，简称SIF），由国家情报总监杰伊·克莱顿牵头，联邦贸易委员会、五角大楼和人事管理局的负责人共同参与。该工作组将协调联邦政府的人工智能事务，并向特朗普及白宫办公厅主任苏西·怀尔斯汇报。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580768.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580768.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580768.htm"
+    },
+    {
+      "id": 1958,
+      "title": "美国等17国支持《京都愿景》：扩大科研AI与算力使用 推动科研资助改革",
+      "summary": "美国、日本、英国、德国等17国10月4日在京都举行的第23届科学技术与社会论坛年会上，共同支持《科学黄金时代京都愿景》。宣言提出扩大科研人员使用AI工具、科学数据、算力基础设施和实验设施的机会，并改革科研资助与组织方式，减少不必要的行政负担，提高科学发现效率。 阅读全文",
+      "content": "<p>美国、日本、英国、德国等17国10月4日在京都举行的第23届科学技术与社会论坛年会上，共同支持《科学黄金时代京都愿景》。宣言提出扩大科研人员使用AI工具、科学数据、算力基础设施和实验设施的机会，并改革科研资助与组织方式，减少不必要的行政负担，提高科学发现效率。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580766.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580766.htm"
+    },
+    {
+      "id": 1959,
+      "title": "民间驱动为Titan Xp等Pascal显卡加入Windows XP支持",
+      "summary": "一名名为SupraGSX的Modder发布了非官方显卡驱动Forceware 382.69，试图让NVIDIA部分较新的GeForce显卡在Windows XP 32位版上工作。支持名单包括基于Pascal架构的GTX 1060、1070、1070 Ti、1080、1080 Ti及Titan Xp，也列有部分GTX 900系列和Quadro显卡。 阅读全文",
+      "content": "<p>一名名为SupraGSX的Modder发布了非官方显卡驱动Forceware 382.69，试图让NVIDIA部分较新的GeForce显卡在Windows XP 32位版上工作。支持名单包括基于Pascal架构的GTX 1060、1070、1070 Ti、1080、1080 Ti及Titan Xp，也列有部分GTX 900系列和Quadro显卡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580764.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580764.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580764.htm"
+    },
+    {
+      "id": 1960,
+      "title": "Windows 11 26H2暗藏重大性能升级 微软数月优化成果终于全面释放",
+      "summary": "微软最新发布的Windows 11 26H2表面上看只是一次常规年度更新，但随着越来越多用户完成升级，一个此前并未被广泛宣传的重要变化正在浮现：系统性能和内存效率获得明显改善，不少用户甚至在升级后直接感受到Windows运行速度提升以及内存占用下降。 阅读全文",
+      "content": "<p>微软最新发布的Windows 11 26H2表面上看只是一次常规年度更新，但随着越来越多用户完成升级，一个此前并未被广泛宣传的重要变化正在浮现：系统性能和内存效率获得明显改善，不少用户甚至在升级后直接感受到Windows运行速度提升以及内存占用下降。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580762.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580762.htm"
+    },
+    {
+      "id": 1961,
+      "title": "都2026年了，RTX 3050游戏本怎么又来了？",
+      "summary": "昨天，老狐刷到了一条很有意思的评论，点赞量足足有 3 万多。一位家长给了刚高考完的学生 5000 块钱，学生想拿钱换个新游戏本，但是钱不够买他想要的型号，于是他就发奋图强打了 2 个月的暑假工挣了 4000 多块钱，如果没有意外的话，那么他就能买到自己心怡的电脑了。 阅读全文",
+      "content": "<p>昨天，老狐刷到了一条很有意思的评论，点赞量足足有 3 万多。一位家长给了刚高考完的学生 5000 块钱，学生想拿钱换个新游戏本，但是钱不够买他想要的型号，于是他就发奋图强打了 2 个月的暑假工挣了 4000 多块钱，如果没有意外的话，那么他就能买到自己心怡的电脑了。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580736.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580736.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580736.htm"
+    },
+    {
+      "id": 1962,
+      "title": "原中国电信集团员工实名举报多名高管 指控套取3800万元财政资金",
+      "summary": "10月5日消息，今日，原中国电信集团员工郑某实名举报中国电信多名高管。据郑某公开的举报内容，其曾参与“国家工业互联网大数据中心”项目，指控该项目存在组织围标串标、伪造合同等问题，涉及违规套取3800万元财政资金。 阅读全文",
+      "content": "<p>10月5日消息，今日，原中国电信集团员工郑某实名举报中国电信多名高管。据郑某公开的举报内容，其曾参与“国家工业互联网大数据中心”项目，指控该项目存在组织围标串标、伪造合同等问题，涉及违规套取3800万元财政资金。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580708.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580708.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580708.htm"
+    },
+    {
+      "id": 1964,
+      "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
+      "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.'s nove",
+      "content": "<p data-vmark=\"10a7\">IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，<strong>高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可</strong>，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets）。</p><p data-vmark=\"7ef3\">报道称，<strong>与高通的协议有助于验证华为的芯片制造能力</strong>。华为视其新架构为提升半导体性能的突破，帮助缩小与台积电等行业领导者的差距。该方法着重于提升数据传输速度，弥补光刻机方面的不足。</p><p data-vmark=\"93f6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/028e7003-f16a-4adc-b600-fb6f4a27537d.png\" w=\"658\" h=\"834\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d14806b408c252a8e49cfd086ccdfb3775390813b8879c2cfa195d5fc2c77251a69c0de712d8c34fec\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"7352\" class=\"no-alt-img\"></p><p data-vmark=\"05ec\">据IT之家此前报道，<a href=\"https://www.ithome.com/1/009/806.htm\" target=\"_blank\">华为与高通今日宣布达成一项长期、广泛的专利许可协议</a>，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。</p><p data-vmark=\"e913\">华为称，该交易完成之后，公司全部专利许可协议的累计总金额预计将超过 69 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 463.02 亿元人民币）</span>。</p><p data-vmark=\"4bdc\">专利许可协议公布后，高通盘前股价最高涨超 4%。</p><p data-vmark=\"ba9e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c2710150-5911-41cd-ba3a-3a1d21c8307e.jpg\" w=\"787\" h=\"659\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"bcc9\" class=\"no-alt-img\"></p><p data-vmark=\"880c\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"0e36\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/009/739.htm\">华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代</a>》</p></li><li><p data-vmark=\"9bc9\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/998/598.htm\">麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/009/852.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/852.htm"
+    },
+    {
+      "id": 1965,
+      "title": "荣耀 WIN 小平板上架：搭 8.4 英寸 240Hz OLED 挖孔屏，有望 10 月 15 日发售",
+      "summary": "IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。 京东荣耀 WIN 平板待发布直达链接 此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G 通信版本。 关于荣耀 WIN 小平板的更多消息，IT之家也会持续关注并带来更多报道。",
+      "content": "<p data-vmark=\"88f6\">IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOwjf6K\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDwSUn9\" data-iosurl=\"https://u.jd.com/FOwPBNo\" data-androidurl=\"https://u.jd.com/FrwELm0\" data-hosnexturl=\"https://u.jd.com/FDw3x08\" data-hosurl=\"https://u.jd.com/FDwyHmY\" data-uwpurl=\"https://u.jd.com/F6wWTz7\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6w2bvU%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FOwlNzF\" data-lpwxurl=\"https://u.jd.com/FOwpS88\"   data-ncid=\"246964\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526476/36/3855/123402/6aa9f48fF5c7c5b08/00833203203442e1.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">荣耀 WIN 平板</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">待发布</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"1bb2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8aa41f57-bf5e-4888-ac4a-a8a37d4916a2.png\" w=\"886\" h=\"508\" data-weibo=\"0\" data-vmark=\"ca9f\" class=\"no-alt-img\"></p><p data-vmark=\"3602\">此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G 通信版本。</p><p data-vmark=\"87eb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0b62906e-809a-4f5c-ae1a-c96472f31b7b.png\" w=\"750\" h=\"306\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5345609063334200%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"68f6\" class=\"no-alt-img\"></p><p data-vmark=\"4a6c\">关于荣耀 WIN 小平板的更多消息，IT之家也会持续关注并带来更多报道。</p>",
+      "link": "https://www.ithome.com/1/009/850.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/850.htm"
+    },
+    {
+      "id": 1966,
+      "title": "2027 款玛莎拉蒂 Mcpura 车型上市：提供硬顶 / 敞篷双版本，237 万元起",
+      "summary": "IT之家 10 月 5 日消息，玛莎拉蒂宣布旗下 2027 款 Mcpura 车型正式上市，共推出硬顶版（Coupe）和敞篷版（Cielo）两款车型，售价分别为 237 万元和 270 万元。 该车提供神秘灰、隐秘灰、纯粹黑、冰川皓白、无界曜蓝、烈焰红、绝尘黄、皇家绿、灵动黑、魔力橙配色。前脸采用了与 GT2 赛车相同的设计语言，整个单体壳由碳纤维和复合材料制成。车辆侧面采用了一体式车身颜色，使用中置后驱布局。 内饰方面，该车配备 10.25 英寸中控屏 +10.25 英寸液",
+      "content": "<p data-vmark=\"5c4d\">IT之家 10 月 5 日消息，玛莎拉蒂宣布旗下 2027 款 Mcpura 车型正式上市，共推出硬顶版（Coupe）和敞篷版（Cielo）两款车型，售价分别为 237 万元和 270 万元。</p><p style=\"text-align: center;\" data-vmark=\"b2e5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c6a23f68-f69e-4eca-8cdf-25eae3263367.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"510\" data-weibo=\"0\" data-vmark=\"f0a1\" class=\"no-alt-img\"></p><p data-vmark=\"5827\">该车提供神秘灰、隐秘灰、纯粹黑、冰川皓白、无界曜蓝、烈焰红、绝尘黄、皇家绿、灵动黑、魔力橙配色。前脸采用了与 GT2 赛车相同的设计语言，整个单体壳由碳纤维和复合材料制成。车辆侧面采用了一体式车身颜色，使用中置后驱布局。</p><p style=\"text-align: center;\" data-vmark=\"31a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/058fabe9-ee72-42d1-a602-c52bcbfb22ce.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1280\" data-weibo=\"1\" data-vmark=\"4e3d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"2ace\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0837ea37-8b81-4cc3-ba94-6ac9bac3ba78.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"702\" data-weibo=\"2\" data-vmark=\"8477\" class=\"no-alt-img\"></p><p data-vmark=\"9215\">内饰方面，该车配备 10.25 英寸中控屏 +10.25 英寸液晶仪表，同时换装全新样式的方向盘，采用平顶设计，确保高速操控时的更佳视野与精准度。材质可选择 Alcantara 或碳纤维版本，顶部与底部的 Alcantara 则被碳纤维材质替代。在仪表板和车门上部采用了 Alcantara 材质替代传统皮革。同时，新车还将提供 12 扬声器 Sonus Faber 音响系统。</p><p style=\"text-align: center;\" data-vmark=\"ec9c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f92213f3-0cae-41d2-821f-c96496c60f6e.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"888\" data-weibo=\"3\" data-vmark=\"7399\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"52d9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b21c53a1-6ddd-457d-a7ab-4bbfffff616f.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"890\" data-weibo=\"4\" data-vmark=\"c81b\" class=\"no-alt-img\"></p><p data-vmark=\"bfe2\">规格方面，该车长宽高分别为 4669（4667）/1966（1965）/1222（1214）mm，轴距为 2700mm。车辆依旧搭载“Nettuno 海神”3.0T 双涡轮增压 V6 发动机，最大功率 630 马力，峰值扭矩 730N·m，并配备 8 挡湿式双离合变速箱。Mcpura 重量功率比达 2.33 千克 / 马力，其 0-100 公里 / 小时加速仅需 2.9 秒。</p>",
+      "link": "https://www.ithome.com/1/009/843.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/843.htm"
+    },
+    {
+      "id": 1967,
+      "title": "台电推出 M60 平板电脑：搭 12 英寸 2K 面板、紫光展锐 T7250 处理器，899 元",
+      "summary": "IT之家 10 月 5 日消息，台电现已在京东上架一款 M60 平板电脑，该机配备一块 12 英寸 2K 面板，定价为 899 元，部分地区国补后低至 755.65 元。 京东台电 M60 平板电脑 899 元直达链接 该机使用冰川蓝配色，正面配备一块 2000x1200 分辨率 IPS LCD 面板，匹配 5Mp 自拍摄像头；平板背面搭载 13Mp 主摄。 该机采用紫光展锐 T7250 处理器，配备 6GB RAM 和 128GB UFS 存储，内置 8000mAh 电池，",
+      "content": "<p data-vmark=\"3abd\">IT之家 10 月 5 日消息，台电现已在京东上架一款 M60 平板电脑，该机配备一块 12 英寸 2K 面板，<strong>定价为 899 元</strong>，部分地区国补后低至 755.65 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FrwauFg\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1wv6bD\" data-iosurl=\"https://u.jd.com/Frw1PKm\" data-androidurl=\"https://u.jd.com/F6wz0jZ\" data-hosnexturl=\"https://u.jd.com/Faw0XZN\" data-hosurl=\"https://u.jd.com/FawOWCE\" data-uwpurl=\"https://u.jd.com/FOwOb9y\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFgwO59o%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FrwaT2M\" data-lpwxurl=\"https://u.jd.com/FawYnyf\"   data-ncid=\"246952\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/522887/4/8809/38108/6aaa0737Fa18e6e30/0083320320986440.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">台电 M60 平板电脑</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 899 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"0be1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e308ec87-b1aa-462c-9ac8-a5511d69729e.png?x-bce-process=image/format,f_auto\" w=\"968\" h=\"1180\" data-weibo=\"0\" data-vmark=\"847d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"0952\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2f568de4-5c35-4b9e-b5d4-7e54b01867d6.png?x-bce-process=image/format,f_auto\" w=\"960\" h=\"1234\" data-weibo=\"1\" data-vmark=\"387b\" class=\"no-alt-img\"></p><p data-vmark=\"9bdc\">该机使用冰川蓝配色，正面配备一块 2000x1200 分辨率 IPS LCD 面板，匹配 5Mp 自拍摄像头；平板背面搭载 13Mp 主摄。</p><p style=\"text-align: center;\" data-vmark=\"89ce\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a9772a02-f9ed-4051-8fb4-565d74a8fd75.png?x-bce-process=image/format,f_auto\" w=\"964\" h=\"938\" data-weibo=\"2\" data-vmark=\"93da\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"0b86\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/396605a5-07db-40f2-a679-a535bb456078.png?x-bce-process=image/format,f_auto\" w=\"966\" h=\"784\" data-weibo=\"3\" data-vmark=\"48c3\" class=\"no-alt-img\"></p><p data-vmark=\"e201\">该机采用紫光展锐 T7250 处理器，配备 6GB RAM 和 128GB UFS 存储，内置 8000mAh 电池，支持 4G 通信。</p><p style=\"text-align: center;\" data-vmark=\"1d73\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/da9e8a33-be4b-47a1-b747-0b196fa5ac09.png?x-bce-process=image/format,f_auto\" w=\"984\" h=\"1058\" data-weibo=\"4\" data-vmark=\"9fc6\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/842.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/842.htm"
+    },
+    {
+      "id": 1968,
+      "title": "安钛克推出 HCG PRO Platinum 系列电源：提供 850/1000/1200W 功率、十年质保，1019 元起",
+      "summary": "IT之家 10 月 5 日消息，安钛克现已在京东上架 HCG PRO Platinum 系列电源，系列产品提供十年质保服务，可选 850W、1000W 和 1200W 功率，定价为 1019 元起，IT之家整理价格如下： 850W：1019 元 1000W：1229 元 1200W：1409 元 京东安钛克 HCG PRO Platinum1019 元起直达链接 系列电源整体尺寸为 160 x 150 x 86 mm，采用基于服务器级主动 PFC+ 全桥 LLC+ 同步整流 ",
+      "content": "<p data-vmark=\"5e0f\">IT之家 10 月 5 日消息，安钛克现已在京东上架 HCG PRO Platinum 系列电源，系列产品提供十年质保服务，可选 850W、1000W 和 1200W 功率，定价为 1019 元起，IT之家整理价格如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0732\">850W：1019 元</p></li><li><p data-vmark=\"cda8\">1000W：1229 元</p></li><li><p data-vmark=\"15f0\">1200W：1409 元</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F1w2OdO\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGwyPV8\" data-iosurl=\"https://u.jd.com/Faw6uYG\" data-androidurl=\"https://u.jd.com/F6wvXSF\" data-hosnexturl=\"https://u.jd.com/FrwsKqS\" data-hosurl=\"https://u.jd.com/FgwzRgs\" data-uwpurl=\"https://u.jd.com/Fgw1lYj\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOwaChK%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/Faw3Au9\" data-lpwxurl=\"https://u.jd.com/F1w6oY1\"   data-ncid=\"246947\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/516972/8/7152/99753/6a9fb5a0F18918063/0083320320d144ef.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">安钛克 HCG PRO Platinum</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">1019 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"1452\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2c534bb7-dc72-444d-a125-80c19629e8e7.png?x-bce-process=image/format,f_auto\" w=\"964\" h=\"754\" data-weibo=\"0\" data-vmark=\"10a7\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7d05\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4224188a-0750-4a5a-8fd2-039d52162c1a.png?x-bce-process=image/format,f_auto\" w=\"1002\" h=\"1528\" data-weibo=\"1\" data-vmark=\"d1a8\" class=\"no-alt-img\"></p><p data-vmark=\"aee9\">系列电源整体尺寸为 160 x 150 x 86 mm，采用基于服务器级主动 PFC+ 全桥 LLC+ 同步整流 +DC-DC 架构的 PhaseWave 设计，并获得了 80 PLUS 白金牌认证。电源匹配 105℃ 全日系电容，支持 100~240V 宽幅电压输入，单路 12V 大电流输出。采用全模组压纹线材。</p><p data-vmark=\"cd98\">该电源匹配 FDB 液压轴承 135mm 风扇，支持智能停转技术。同时电源拥有 CircuitShield 全方位工业级保护机制，包括过流保护（OCP）、过压保护（OVP）、短路保护（SCP）、过功率保护（OPP）、欠压保护（UVP）、抗浪涌保护（SIP）、以及无负载操作（NLO）等多重防护，提供十年质保。</p><p style=\"text-align: center;\" data-vmark=\"78eb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f1aed48d-85be-4533-b664-043b7b29452f.png?x-bce-process=image/format,f_auto\" w=\"1002\" h=\"1512\" data-weibo=\"2\" data-vmark=\"beeb\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"86ff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6a6082da-6023-4322-8e1c-0be36f83609e.png?x-bce-process=image/format,f_auto\" w=\"996\" h=\"1468\" data-weibo=\"3\" data-vmark=\"8446\" class=\"no-alt-img\"></p><p data-vmark=\"f4f3\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"6307\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8f2c7141-b13c-45f0-abb4-1b0d5f9f9252.png?x-bce-process=image/format,f_auto\" w=\"858\" h=\"1278\" data-weibo=\"4\" data-vmark=\"3809\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"a62f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/68388acc-4a37-4829-837b-dc91f29d0674.png?x-bce-process=image/format,f_auto\" w=\"728\" h=\"1186\" data-weibo=\"5\" data-vmark=\"7db4\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"f2a8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bb08bbf6-1529-4690-a60a-b4bc9c11a3b1.png?x-bce-process=image/format,f_auto\" w=\"846\" h=\"1260\" data-weibo=\"6\" data-vmark=\"8514\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/836.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/836.htm"
+    },
+    {
+      "id": 1969,
+      "title": "消息称本月 3 台高通第六代骁龙 8 超级至尊版新机登场，至高 10000mAh 电池",
+      "summary": "IT之家 10 月 5 日消息，博主 @数码闲聊站 今日爆料，10 月有 3 台高通第六代骁龙 8 超级至尊版新机登场，电池容量分别是 8400mAh、9000mAh、10000mAh±，全支持 100W/120W 百瓦有线充 + 满血无线充。 据其爆料，10 月还有一堆次旗舰性能机登场，骁龙 8 至尊版、第五代骁龙 8 至尊版、第六代骁龙 8 超级至尊版三代同堂竞对，最高都有万级大电池方案。 IT之家注意到，高通 9 月 23 日宣布推出第六代骁龙 8 超级至尊版芯片，最高",
+      "content": "<p data-vmark=\"7aba\">IT之家 10 月 5 日消息，博主 @数码闲聊站 今日爆料，10 月有 3 台高通第六代骁龙 8 超级至尊版新机登场，电池容量分别是 8400mAh、9000mAh、10000mAh±，全支持 100W/120W 百瓦有线充 + 满血无线充。</p><p data-vmark=\"5e15\">据其爆料，<strong>10 月还有一堆次旗舰性能机登场</strong>，骁龙 8 至尊版、第五代骁龙 8 至尊版、第六代骁龙 8 超级至尊版三代同堂竞对，最高都有万级大电池方案。</p><p data-vmark=\"c532\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5e35933f-4b8b-413f-8fe4-22fcccba8920.png\" w=\"750\" h=\"306\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5350677963342279%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"8156\" class=\"no-alt-img\"></p><p data-vmark=\"fe02\">IT之家注意到，高通 9 月 23 日宣布推出第六代骁龙 8 超级至尊版芯片，<strong>最高主频超过 5.0GHz</strong>，性能提升 13%、能效提升 37%、响应速度提升 15%；具体来看搭载两个 5GHz 超级内核 + 六个 4GHz 性能内核。</p><p data-vmark=\"1604\">GPU 方面，第六代骁龙 8 超级至尊版搭载专为 AI 打造的 Adreno Matrix Cores，还有 18MB Adreno 独立高速显存（HPM），支持虚幻引擎 5 Lumen 光追效果，GPU 性能提升 44%，能效提升 40%。</p>",
+      "link": "https://www.ithome.com/1/009/834.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/834.htm"
+    },
+    {
+      "id": 1970,
+      "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
+      "summary": "IT之家 10 月 5 日消息，据外媒 Tweaktown 报道，一款名为 ForceWare 382.69 的非官方驱动近日引发业界关注，该驱动可以让 32 位 Windows XP 系统支持包括英伟达 GeForce GTX 1080 Ti 在内的 Pascal 架构显卡。 IT之家获悉，该驱动由开发者 SupraGSX 设计，其基于英伟达 ForceWare 368.81 驱动进行了修改，并将其移植至 32 位 Windows XP 系统，形成 ForceWare 38",
+      "content": "<p data-vmark=\"3d47\">IT之家 10 月 5 日消息，据外媒 Tweaktown 报道，一款名为 ForceWare 382.69 的非官方驱动近日引发业界关注，该驱动可以让 32 位 Windows XP 系统支持包括英伟达 GeForce GTX 1080 Ti 在内的 Pascal 架构显卡。</p><p style=\"text-align: center;\" data-vmark=\"bab5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/12b2cb8b-e769-44ee-8379-df5043034f57.png?x-bce-process=image/format,f_auto\" w=\"880\" h=\"1026\" data-weibo=\"0\" data-vmark=\"488b\" class=\"no-alt-img\"></p><p data-vmark=\"24b5\">IT之家获悉，该驱动由开发者 SupraGSX 设计，其基于英伟达 ForceWare 368.81 驱动进行了修改，并将其移植至 32 位 Windows XP 系统，形成 ForceWare 382.69，从而让 Pascal 架构显卡能够在这一老旧操作系统上运行。除 GTX 1060、GTX 1070 等存量较多的显卡外，该驱动还支持 GTX 1080/Ti、TITAN X 和 TITAN XP 等显卡。</p><p data-vmark=\"e68d\">除此之外，SupraGSX 还在 ForceWare 382.69 驱动中引入了 DisplayPort 1.4 HBR3、HDMI 2.0 等显示功能支持，允许 Windows XP 系统在更高的分辨率、刷新率下显示。部分用户已成功在 3840×1080 分辨率 144Hz 刷新率的显示器上运行系统。</p><p data-vmark=\"ce04\">不过，这款驱动的来源存在一定争议。有消息认为 ForceWare 382.69 的开发过程实际上利用了 AI“Vibe Coding”，因此用户尝鲜前需要考虑 AI 辅助生成代码所带来的额外风险，可能会对显卡造成无法修复的重大损坏。</p>",
+      "link": "https://www.ithome.com/1/009/832.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/832.htm"
+    },
+    {
+      "id": 1971,
+      "title": "狼蛛 A8 镂空电竞头戴式耳机上架：约 235g 重量、40mm 单元，299.2 元起",
+      "summary": "IT之家 10 月 5 日消息，狼蛛现已在京东上架 A8 轻量化镂空电竞头戴式耳机，其中镂金黑配色首发价 299.2 元，其他配色首发价 329.8 元。 京东狼蛛 A8 镂空头戴式游戏耳机 299.2 元起直达链接 该耳机提供镂金黑、星耀银、空山翠和炽焰红四色，带有幻彩 RGB 灯效。机身采用镂空设计，重约 235g±5g。同时匹配不锈钢框架头梁、无极滑轨、7° 悬浮耳壳及蛋白皮透气记忆棉耳罩。 该耳机搭载 40mm PET 复合振膜单元与 C-Media 声卡芯片，结合高",
+      "content": "<p data-vmark=\"a298\">IT之家 10 月 5 日消息，狼蛛现已在京东上架 A8 轻量化镂空电竞头戴式耳机，其中镂金黑配色首发价 299.2 元，其他配色首发价 329.8 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgwbglV\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgwQBTH\" data-iosurl=\"https://u.jd.com/FGwgnU0\" data-androidurl=\"https://u.jd.com/Fgw1YKU\" data-hosnexturl=\"https://u.jd.com/F1wgtq9\" data-hosurl=\"https://u.jd.com/Frwbcwz\" data-uwpurl=\"https://u.jd.com/FawuM9P\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaw8KFL%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FDwGHb0\" data-lpwxurl=\"https://u.jd.com/FrwMZKQ\"   data-ncid=\"246943\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/519657/36/5089/233820/6aa0d1b3Fd60fd6f5/00835dc5dc989de0.jpg\" w=\"1500\" h=\"1500\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">狼蛛 A8 镂空头戴式游戏耳机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 299.2 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"8707\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/35df7ca0-97c3-42fb-83e9-62c723f37790.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"1372\" data-weibo=\"0\" data-vmark=\"0445\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1509\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/56228a7a-4463-49a6-ad3f-af5f0e91bd42.png?x-bce-process=image/format,f_auto\" w=\"634\" h=\"452\" data-weibo=\"1\" data-vmark=\"d194\" class=\"no-alt-img\"></p><p data-vmark=\"3a26\">该耳机提供镂金黑、星耀银、空山翠和炽焰红四色，带有幻彩 RGB 灯效。机身采用镂空设计，重约 235g±5g。同时匹配不锈钢框架头梁、无极滑轨、7° 悬浮耳壳及蛋白皮透气记忆棉耳罩。</p><p style=\"text-align: center;\" data-vmark=\"bb40\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fa8fbd78-30f2-4960-b4c9-fae9f325a6d8.png?x-bce-process=image/format,f_auto\" w=\"722\" h=\"1256\" data-weibo=\"2\" data-vmark=\"e9c9\" class=\"no-alt-img\"></p><p data-vmark=\"4a80\">该耳机搭载 40mm PET 复合振膜单元与 C-Media 声卡芯片，结合高低音增强算法及 FPS 环绕 7.1 音效，提供可插拔 360° 全向 AI 降噪麦克风，耳机具备 AG 战队联合定制音效，在呈现游戏与音乐声效的同时，也能让使用者感知周围环境音。</p><p data-vmark=\"0365\">该耳机支持 2.4GHz、USB-C、蓝牙及 USB 声卡四模连接，内置 500mAh 电池，在关闭氛围灯、30%-50% 音量下续航约 40 小时，IT之家附耳机参数：</p><p style=\"text-align: center;\" data-vmark=\"b8a2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/eb4d476a-eb09-4303-a2b0-e2f86ce2fe77.png?x-bce-process=image/format,f_auto\" w=\"728\" h=\"1032\" data-weibo=\"3\" data-vmark=\"1f71\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/830.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/830.htm"
+    },
+    {
+      "id": 1972,
+      "title": "零刻 EQR5 迷你电脑主机新增 AMD R5 5500U 版本：内置电源 + 双网口，准系统 1379 元",
+      "summary": "IT之家 10 月 5 日消息，零刻 EQR5 上个月新增了一款搭载 AMD R5 5500U 处理器的入门级版本，准系统版本（无内存硬盘系统）售价 1379 元，16GB DDR4 内存 +500GB 固态硬盘版本 3029 元。 这款小主机主打“稳静办公”，满载运行噪声仅为 32dB ，噪声水平低于普通图书馆环境（40dB ）、青轴机械键盘（57dB ）、常规一档风扇（50dB ）。 其他方面，这款主机内置 85W 电源，无需外接适配器；提供双 SO-DIMM DDR4 ",
+      "content": "<p data-vmark=\"0000\">IT之家 10 月 5 日消息，零刻 EQR5 上个月新增了一款搭载 AMD R5 5500U 处理器的入门级版本，准系统版本（无内存硬盘系统）售价 1379 元，16GB DDR4 内存 +500GB 固态硬盘版本 3029 元。</p><p style=\"text-align: center;\" data-vmark=\"abae\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/19ce90cb-da34-419c-88f5-a6ff6e8fde5b.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"0\" data-vmark=\"2039\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d1472112-adec-4b60-aa26-1cee7fb69e9d.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"466\" data-weibo=\"1\"  data-vmark=\"b8c2\" class=\"no-alt-img\"></p><p data-vmark=\"0001\">这款小主机主打“稳静办公”，满载运行噪声仅为 32dB ，噪声水平低于普通图书馆环境（40dB ）、青轴机械键盘（57dB ）、常规一档风扇（50dB ）。</p><p data-vmark=\"0005\">其他方面，这款主机内置 85W 电源，无需外接适配器；提供双 SO-DIMM DDR4 内存插槽（最大支持 64GB 内存扩展）、双 M.2 2280 PCIe 3.0 X4 SSD 插槽（最大支持 8TB 存储扩展）；搭载 MSC2.0 热处理系统，通过底部进风实现气流循环，带走机器内部热量，有效降低 CPU、内存和 SSD 等部件温度；配备导热管 + 散热鳍片 + 静音风扇组合，还额外提供 SSD 散热器保障存储颗粒温度。</p><p style=\"text-align: center;\" data-vmark=\"b0de\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e0c8de6e-79e8-4be3-9f89-d7e5338cc39f.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"2\" alt=\"内置85W电源\" data-vmark=\"f6db\"></p><p data-vmark=\"0007\">此外，该机搭载英特尔 AX200 无线网卡，支持 WiFi 6 + 蓝牙 5.2，主机正面配备 USB-A（10Gbps）、3.5mm 音频插孔、USB-C（10Gbps）；后侧配备两个 USB-A（10Gbps）、USB 2.0（480Mbps）、两个 HDMI（Max 4K 60Hz）、两个 1000Mbps 网口、AC 电源接口。</p><p style=\"text-align: center;\" data-vmark=\"6aa3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/628c0ebb-62a5-4816-a2d7-d4dff30fa4b6.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"3\" alt=\"包装配件\" data-vmark=\"6995\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6wLfIf\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgwuH7P\" data-iosurl=\"https://u.jd.com/FawrmVd\" data-androidurl=\"https://u.jd.com/F6wwqq0\" data-hosnexturl=\"https://u.jd.com/F1wK2JO\" data-hosurl=\"https://u.jd.com/FOwabLy\" data-uwpurl=\"https://u.jd.com/FDwdrK5\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6wdpXj%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FOwsByS\" data-lpwxurl=\"https://u.jd.com/FgwOQRk\"   data-ncid=\"246939\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/525862/11/8370/50794/6aaf9dd7Fab78df46/0083320320beb7bf.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">零刻「稳静办公」EQR5 迷你主机</span></span><span class=\"card-abstract\"> AMD 锐龙 5 5500U 超静音商务办公影音台式电脑 mini 主机 准系统 (无内存硬盘系统)</span><span class=\"card-controls\"><span class=\"price\">1379 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"38c1\">2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。</p><p data-vmark=\"8be9\"><strong>数码补贴：<a href=\"https://u.jd.com/AO9cF1s\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AO9DrqM\" data-iosurl=\"https://u.jd.com/Ag91Sjs\" data-androidurl=\"https://u.jd.com/AG9pxhC\" data-hosnexturl=\"https://u.jd.com/AO9fCAz\" data-hosurl=\"https://u.jd.com/Ar9P2XE\" data-uwpurl=\"https://u.jd.com/Ar9Jnih\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fA19cSnL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b962\">手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p data-vmark=\"c55b\"><strong>家电补贴：<a href=\"https://u.jd.com/A696EUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AD9SCkn\" data-iosurl=\"https://u.jd.com/Ag9Wm7I\" data-androidurl=\"https://u.jd.com/A19f6P9\" data-hosnexturl=\"https://u.jd.com/AD9SlUd\" data-hosurl=\"https://u.jd.com/A69gZqX\" data-uwpurl=\"https://u.jd.com/AD91brW\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fAD9gvRL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5ff2\">多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul>",
+      "link": "https://www.ithome.com/1/009/829.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/829.htm"
+    },
+    {
+      "id": 1973,
+      "title": "映众推出 AGS-6220V2 双路服务器：6U 机架，提供 8 条 PCIe 插槽",
+      "summary": "IT之家 10 月 5 日消息，映众 (INNO3D) 今日宣布推出 GPU 服务器 AGS-6220V2。其采用机架式部署设计，高度达到 6U，支持 2 颗第五代英特尔至强处理器 \"Emeralds Rapid SP\"。 AGS-6220V2 上的每颗处理器均支持 8 通道 2DPC 内存，共有 32 条 RDIMM 插槽。其整机提供 8 条 PCIe Gen5 ×16 插槽、2 个 25GbE 网口、12 个前置硬盘位（8 个 SATA、4 个 PCIe），4 颗 270",
+      "content": "<p data-vmark=\"71ae\">IT之家 10 月 5 日消息，映众 (INNO3D) 今日宣布推出 GPU 服务器 AGS-6220V2。其采用机架式部署设计，高度达到 6U，<strong>支持 2 颗第五代英特尔至强处理器 \"Emeralds Rapid SP\"</strong>。</p><p data-vmark=\"4a19\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1a258619-1162-4d72-ac7d-3a0e5bda8843.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"750\" data-weibo=\"0\" data-vmark=\"056b\" class=\"no-alt-img\"></p><p data-vmark=\"5553\">AGS-6220V2 上的每颗处理器均支持 8 通道 2DPC 内存，共有 32 条 RDIMM 插槽。其<strong>整机提供 8 条 PCIe Gen5 ×16 插槽</strong>、2 个 25GbE 网口、12 个前置硬盘位（8 个 SATA、4 个 PCIe），4 颗 2700W CRPS 电源按 3+1 冗余配置。</p><p data-vmark=\"8b90\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/75e4696b-ad86-4afc-9746-d0e213a705a7.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"1\" data-vmark=\"062b\" class=\"no-alt-img\"></p><p data-vmark=\"47d3\">该服务器<strong>针对人工智能、高性能计算、分析、仿真、可视化工作负载进行了优化</strong>，支持 NVIDIA RTX PRO 6000 Blackwell 服务器版本专业显卡，集成信骅 AST2600 BMC 芯片。</p>",
+      "link": "https://www.ithome.com/1/009/824.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/824.htm"
+    },
+    {
+      "id": 1974,
+      "title": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
+      "summary": "IT之家 10 月 5 日消息，据外媒 XDA 报道，一位爱好者 sudu1988 在 Reddit 发帖，展示了自己打造的天气时钟，该机可以从 Open-Meteo 获取天气数据，并显示当前时间、实时天气以及未来天气预报。 硬件方面，该机基于 Freenove FNK0103S 开发板，搭载 ESP32-WROOM-32E 芯片，并配备一块 4 英寸 ST7796 显示屏和 XPT2046 电阻式触摸模组。 除此之外，该机还可选配“人体存在雷达”。据 sudu1988 介绍",
+      "content": "<p data-vmark=\"3b94\">IT之家 10 月 5 日消息，据外媒 XDA 报道，一位爱好者 sudu1988 在 Reddit 发帖，展示了自己打造的天气时钟，该机可以从 Open-Meteo 获取天气数据，并显示当前时间、实时天气以及未来天气预报。</p><p data-vmark=\"d317\">硬件方面，该机基于 Freenove FNK0103S 开发板，搭载 ESP32-WROOM-32E 芯片，并配备一块 4 英寸 ST7796 显示屏和 XPT2046 电阻式触摸模组。</p><p data-vmark=\"9a19\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0352b283-d290-48b6-9811-66ac81f0d23a.png\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"ea27\" class=\"no-alt-img\"></p><p data-vmark=\"7694\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6ed74437-8646-4de9-9158-2d7a83312c56.jpg\" w=\"1440\" h=\"1440\" data-weibo=\"1\" data-vmark=\"af04\" class=\"no-alt-img\"></p><p data-vmark=\"45f0\">除此之外，该机还可选配“人体存在雷达”。据 sudu1988 介绍，相应人体检测机制利用 Hi-Link HLK-LD2410C 毫米波雷达实现，设备检测到有人靠近并且距离足以看清屏幕时，才会自动点亮显示屏；周围无人时则保持熄屏状态，从而减少不必要的耗电。</p><p data-vmark=\"0c4f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/25b676d1-1f01-4cc6-b1db-1fa163849fbe.png\" w=\"976\" h=\"480\" data-weibo=\"2\" data-vmark=\"f691\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/819.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/819.htm"
+    },
+    {
+      "id": 1975,
+      "title": "日本大和证券内部数据外泄：官方通报称“外部服务提供商遭黑客入侵”，约 22 万条信息泄露",
+      "summary": "IT之家 10 月 5 日消息，据外媒 itmedia 报道，日本大和证券于今天通报公司内部数据遭外泄，涉及约 22 万条信息，其中包括约 11 万名客户的姓名、电子邮箱地址、证券账户号码、咨询记录等内容。 大和证券表示，本次安全事件系公司外部服务提供商“斯卡拉通信”的服务器于 10 月 2 日 20 时 33 分左右至 10 月 3 日 8 时 1 分左右遭黑客非法访问，该服务器保存了已经受理的客户咨询记录，其中包含大和证券客户的信息。目前，公司已经采取紧急安全措施。 大和",
+      "content": "<p data-vmark=\"21c7\">IT之家 10 月 5 日消息，据外媒 itmedia 报道，日本大和证券于今天通报公司内部数据遭外泄，涉及约 22 万条信息，其中包括约 11 万名客户的姓名、电子邮箱地址、证券账户号码、咨询记录等内容。</p><p data-vmark=\"7ff2\">大和证券表示，本次安全事件系公司外部服务提供商“斯卡拉通信”的服务器于 10 月 2 日 20 时 33 分左右至 10 月 3 日 8 时 1 分左右遭黑客非法访问，该服务器保存了已经受理的客户咨询记录，其中包含大和证券客户的信息。目前，公司已经采取紧急安全措施。</p><p data-vmark=\"1eca\">大和证券表示，目前尚未发现其自身系统遭到非法访问，也没有发现因本次事件导致的异常交易，或相关信息已经在互联网上公开、传播的情况。大和证券同时强调，仅凭此次可能泄露的信息，黑客无法访问客户的证券账户，亦无法进行网上交易等操作。</p>",
+      "link": "https://www.ithome.com/1/009/817.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/817.htm"
+    },
+    {
+      "id": 1976,
+      "title": "HMD Slate Tab 5G 平板完整规格曝光：10.6 英寸 2K 90Hz 面板、骁龙 7s Gen 2 + 8G + 128G",
+      "summary": "IT之家 10 月 5 日消息，外媒 nokianews 现已曝光了 HMD Slate Tab 5G 平板电脑完整规格信息。 该机使用 Fabula 设计，灵感来自于诺基亚 Lumia 2520 平板。正面配备一块 10.6 英寸 2000x1200 分辨率 90Hz IPS LCD 面板，外覆大猩猩玻璃 3，匹配 8Mp 自拍摄像头和 13Mp 后置摄像头。 该机搭载高通骁龙 7s Gen 2 处理器，匹配 8GB RAM 和 128GB UFS 2.2 存储空间，内置 ",
+      "content": "<p data-vmark=\"ecc5\">IT之家 10 月 5 日消息，外媒 nokianews 现已曝光了 HMD Slate Tab 5G 平板电脑完整规格信息。</p><p style=\"text-align: center;\" data-vmark=\"a45a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f099341b-2ab9-454c-b98c-4436787135ff.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"802\" data-weibo=\"0\" data-vmark=\"f16c\" class=\"no-alt-img\"></p><p data-vmark=\"2563\">该机使用 Fabula 设计，灵感来自于诺基亚 Lumia 2520 平板。正面配备一块 10.6 英寸 2000x1200 分辨率 90Hz IPS LCD 面板，外覆大猩猩玻璃 3，匹配 8Mp 自拍摄像头和 13Mp 后置摄像头。</p><p data-vmark=\"3dbe\">该机搭载高通骁龙 7s Gen 2 处理器，匹配 8GB RAM 和 128GB UFS 2.2 存储空间，内置 9250mAh 电池（支持 30W 有线充电）。同时该机支持 5G 网络通信、蓝牙 5.2、Wi-Fi 6E、NFC 等特性，并提供了 POGO 扩展触点和 3.5mm 耳机孔。</p>",
+      "link": "https://www.ithome.com/1/009/816.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/816.htm"
+    },
+    {
+      "id": 1977,
+      "title": "消息某厂商 2 亿像素三摄旗舰机被砍，预计为小米 18 Ultra",
+      "summary": "IT之家 10 月 5 日消息，博主 @数码闲聊站 发文，曝光了一款未能量产的旗舰手机，该机计划采用 1mm 级四等边直屏、配备三颗 2 亿像素摄像头（包括 1/1.12 英寸 LOFIC 主摄、1/1.56 英寸超广角，以及 1/1.28 英寸 LOFIC 连续光学变焦潜望长焦），搭载高端旗舰芯片，跑分超过 500 万。还规划了多光谱镜头、磁吸外接镜头、0916 马达以及对称式双扬声器等配置。 但遗憾的是，该机最终因为“内部认为过高的定价可能影响市场表现”被砍。结合相应配置",
+      "content": "<p data-vmark=\"31a5\">IT之家 10 月 5 日消息，博主 @数码闲聊站 发文，曝光了一款未能量产的旗舰手机，该机计划采用 1mm 级四等边直屏、配备三颗 2 亿像素摄像头（包括 1/1.12 英寸 LOFIC 主摄、1/1.56 英寸超广角，以及 1/1.28 英寸 LOFIC 连续光学变焦潜望长焦），搭载高端旗舰芯片，跑分超过 500 万。还规划了多光谱镜头、磁吸外接镜头、0916 马达以及对称式双扬声器等配置。</p><p data-vmark=\"db7d\">但遗憾的是，该机最终因为“内部认为过高的定价可能影响市场表现”被砍。结合相应配置以及网友讨论来看，该机正是此前传闻中的小米 18 Ultra。</p><p style=\"text-align: center;\" data-vmark=\"2d47\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2c8e4cf8-0b1a-4506-b842-2f3e6fad8dfe.jpg?x-bce-process=image/format,f_auto\" w=\"1044\" h=\"426\" data-weibo=\"0\" data-mpos=\"0,2\"  data-vmark=\"057d\" class=\"no-alt-img\"></p><p data-vmark=\"349e\">事实上，今年 8 月就曾有消息称，小米 18 系列将产品阵容从四杯精简至三杯，最终仅保留小米 18、小米 18 Pro 和小米 18 Pro Max，小米 18 Ultra 缺席本代产品线。不过，这并不意味着小米彻底放弃 Ultra 系列，按照此前爆料，小米 19 Ultra 仍将正常迭代推出。</p><p style=\"text-align: center;\" data-vmark=\"0df2\"><img src=\"https://img.ithome.com/img/share/e2f78897-37aa-45cd-8a93-f7d7891b20fa.png\" w=\"750\" h=\"1676\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3NDEyJTJDNDc0MzElNUQlMkMlMjJwcm9kdWN0cyUyMiUzQSU1QiU3QiUyMnByb2R1Y3ROYW1lJTIyJTNBJTIyWGlhb21pJTIwMTclMjBVbHRyYSUyMiUyQyUyMnByb2R1Y3RJZCUyMiUzQTQ3NDEyJTdEJTJDJTdCJTIycHJvZHVjdE5hbWUlMjIlM0ElMjJYaWFvbWklMjAxNyUyMFVsdHJhJTIwJUU1JUJFJTk1JUU1JThEJUExJUU3JTg5JTg4JTIyJTJDJTIycHJvZHVjdElkJTIyJTNBNDc0MzElN0QlNUQlMkMlMjJ0aXRsZSUyMiUzQSUyMiVFNCVCQSVBNyVFNSU5MyU4MSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVBNiVFNiU4MyU4NSUyMiUyQyUyMmJnQ29sb3IlMjIlM0ElMjIlMjMwMDAwMDAlMjIlMkMlMjJsaW5lQ29sb3IlMjIlM0ElMjIlMjNBMkEyQTIlMjIlMkMlMjJ0ZXh0Q29sb3IlMjIlM0ElMjIlMjNGRkZGRkYlMjIlMkMlMjJmaXJzdENvbG9yJTIyJTNBJTIyJTIzZDIyMjIyJTIyJTJDJTIycXJDb2RlJTIyJTNBdHJ1ZSUyQyUyMndhdGVyTWFyayUyMiUzQXRydWUlMkMlMjJzaG93SW1hZ2UlMjIlM0F0cnVlJTJDJTIyc2hvd1NhdGVsbGl0ZSUyMiUzQWZhbHNlJTdE\" data-vmark=\"e77c\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/815.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/815.htm"
+    },
+    {
+      "id": 1978,
+      "title": "泰坦军团旗下“P2510H ULTRA”24.5 英寸显示器发售：1080P 310Hz，632 元",
+      "summary": "IT之家 10 月 5 日消息，泰坦军团旗下“P2510H ULTRA”24.5 英寸显示器现已在京东发售，该机主打 1080P 310Hz，定价为 632 元，部分地区国补后低至 568.8 元。 京东泰坦军团“P2510H ULTRA”显示器 632 元直达链接 该机配备一块 1920x1080 分辨率 310Hz 刷新率 Fast IPS 面板，GtG 响应速度 1ms，峰值亮度 400 尼特，显示器支持 8-Bit 色彩，覆盖 99% sRGB 色域。 该机支持 VE",
+      "content": "<p data-vmark=\"369c\">IT之家 10 月 5 日消息，泰坦军团旗下“P2510H ULTRA”24.5 英寸显示器现已在京东发售，该机主打 1080P 310Hz，<strong>定价为 632 元</strong>，部分地区国补后低至 568.8 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGwuGGk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDwL5XR\" data-iosurl=\"https://u.jd.com/FDwsByK\" data-androidurl=\"https://u.jd.com/FDK4vvo\" data-hosnexturl=\"https://u.jd.com/F1wt4HM\" data-hosurl=\"https://u.jd.com/FgwKvWL\" data-uwpurl=\"https://u.jd.com/FGwubGa\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6K4LGF%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/F1KozKO\" data-lpwxurl=\"https://u.jd.com/FrKmbfd\"   data-ncid=\"246922\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/534219/20/4875/141599/6aba2351F4abd8a56/008332032080d697.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">泰坦军团“P2510H ULTRA”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 632 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"34b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4f572889-8579-429c-817f-192c3a168ad1.png?x-bce-process=image/format,f_auto\" w=\"978\" h=\"754\" data-weibo=\"0\" data-vmark=\"5d80\" class=\"no-alt-img\"></p><p data-vmark=\"028e\">该机配备一块 1920x1080 分辨率 310Hz 刷新率 Fast IPS 面板，GtG 响应速度 1ms，峰值亮度 400 尼特，显示器支持 8-Bit 色彩，覆盖 99% sRGB 色域。</p><p style=\"text-align: center;\" data-vmark=\"760d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f56b0ecc-6b58-48cb-934c-dbc0884c6e74.png?x-bce-process=image/format,f_auto\" w=\"980\" h=\"592\" data-weibo=\"1\" data-vmark=\"4afc\" class=\"no-alt-img\"></p><p data-vmark=\"45a6\">该机支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 3.5mm 音频接口。</p><p data-vmark=\"3595\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"2542\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b3eb1b36-7c18-4902-ba7f-9575fdd34b29.png?x-bce-process=image/format,f_auto\" w=\"976\" h=\"978\" data-weibo=\"2\" data-vmark=\"b391\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/009/812.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/812.htm"
+    },
+    {
+      "id": 1979,
+      "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
+      "summary": "IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发。 此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面的丰富专业知识，有望加强两家公司在自动驾驶领域的协同效应。 负责出行业务的台达执行副总裁唐修平表示： 自动驾驶需要多年的技术研发、持续创新和强大的系统集成。我",
+      "content": "<p data-vmark=\"f749\">IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，<strong>利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发</strong>。</p><p data-vmark=\"a3da\">此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面的丰富专业知识，有望加强两家公司在自动驾驶领域的协同效应。</p><p data-vmark=\"354d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/83544903-c287-40e9-89ac-c3837036f1b4.jpg\" w=\"1200\" h=\"800\" data-weibo=\"0\" data-vmark=\"d562\" class=\"no-alt-img\"></p><p data-vmark=\"151c\">负责出行业务的台达执行副总裁唐修平表示：</p><blockquote><p data-vmark=\"17dc\">自动驾驶需要多年的技术研发、持续创新和强大的系统集成。我们早在几年前就开始致力于电动汽车领域，在电力电子和关键汽车技术领域积累了丰富的专业知识，并与世界一流的汽车制造商建立了广泛的合作经验。</p><p data-vmark=\"1263\">我们很荣幸英伟达认可台达在汽车领域的专业实力和战略方向。通过此次合作，我们将进一步整合人工智能和高性能计算能力，增强先进的自动驾驶功能，将下一代智能汽车转化为实际应用，同时在快速增长的智能出行市场中寻求新的机遇。</p></blockquote>",
+      "link": "https://www.ithome.com/1/009/808.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/808.htm"
+    },
+    {
+      "id": 1980,
+      "title": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域",
+      "summary": "IT之家 10 月 5 日消息，华为与高通今日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。 这是华为与高通之间首份涵盖 5G 技术的专利许可协议。 华为称，该交易完成之后，公司全部专利许可协议的累计总金额预计将超过 69 亿美元（IT之家注：现汇率约合 463.02 亿元人民币）。 华为表示，自 2021 年起，公司的知识产权授权业务就",
+      "content": "<p data-vmark=\"2c5e\">IT之家 10 月 5 日消息，华为与高通今日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。</p><p style=\"text-align: center;\" data-vmark=\"6948\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/028e7003-f16a-4adc-b600-fb6f4a27537d.png?x-bce-process=image/format,f_auto\" w=\"658\" h=\"834\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"7352\" class=\"no-alt-img\"></p><p data-vmark=\"c6f0\">这是华为与高通之间<strong>首份涵盖 5G 技术的专利许可协议</strong>。</p><p data-vmark=\"a653\">华为称，该交易完成之后，公司全部专利许可协议的累计总金额预计将超过 69 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 463.02 亿元人民币）</span>。</p><p data-vmark=\"d1bc\">华为表示，自 2021 年起，公司的知识产权授权业务就已经实现正向收入，这也是华为多年持续高额研发投入所取得的回报。</p><p data-vmark=\"35f2\">近些年来华为持续加大研发投入。自 2019 年起美国实施的贸易限制措施，使得华为采购先进芯片与关键软件的活动受到制约。</p><p data-vmark=\"c373\">早在 2001 年，华为就曾经首次向高通支付专利许可费用；而在 2011 年，华为从摩托罗拉手中拿到了自己的第一笔专利授权收入。</p><p data-vmark=\"268b\">在与高通达成这项协议之前，华为已于今年 8 月对外公布了和惠普（HP Inc）之间的专利许可合作。</p>",
+      "link": "https://www.ithome.com/1/009/806.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/806.htm"
+    },
+    {
+      "id": 1981,
+      "title": "海信 Vidda 推出大眼睛 M2 Pro 旗舰版投影仪：1800 CVIA 亮度，5499 元",
+      "summary": "IT之家 10 月 5 日消息，海信 Vidda 现已推出大眼睛 M2 Pro 旗舰版投影仪，目前皓月白配色已经开售，太空银配色需要预约，售价 5499 元，限时补贴到手价 4949 元。 这款三色激光投影仪主打 1800 CVIA 亮度，采用 0.47 英寸 DMD 芯片 + QuaLas42 激光器，相比常见的 0.39 英寸 DMD 成像面积大 44.6%。 这款投影仪支持 1.3 倍无损变焦，变焦范围 1.0~1.3:1，可在 2.2 米距离投射 100 英寸画面；配",
+      "content": "<p data-vmark=\"bb43\">IT之家 10 月 5 日消息，海信 Vidda 现已推出大眼睛 M2 Pro 旗舰版投影仪，目前皓月白配色已经开售，太空银配色需要预约，<strong>售价 5499 元</strong>，限时补贴到手价 4949 元。</p><p style=\"text-align: center;\" data-vmark=\"881c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2bc3963d-b88a-43c5-9adf-06697c65d804.jpg\" w=\"1440\" h=\"2140\" data-vmark=\"0dca\" data-mpos=\"2,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"e6de\">这款三色激光投影仪主打 <strong>1800 CVIA </strong>亮度，采用 0.47 英寸 DMD 芯片 + QuaLas42 激光器，相比常见的 0.39 英寸 DMD 成像面积大 44.6%。</p><p style=\"text-align: center;\" data-vmark=\"1896\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/db4e139d-0897-4fae-b4c2-ce9f2762487c.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"1\" alt=\"核心配置宣传\" data-vmark=\"af7b\"></p><p data-vmark=\"b3a9\">这款投影仪支持 1.3 倍无损变焦，变焦范围 1.0~1.3:1，可在 2.2 米距离投射 100 英寸画面；配备 4 独立发声杜比 HIFI 音响，支持杜比音效、DTS-X、金耳朵认证；支持 240Hz 刷新率（1080P，4K 支持 60Hz），配备 MT9679 旗舰芯片、HDMI 2.1 接口、3GB 运行内存。</p><p style=\"text-align: center;\" data-vmark=\"7f8a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2a36e768-7c03-4c18-b152-a360974eac00.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"854\" data-weibo=\"2\" data-vmark=\"5758\" class=\"no-alt-img\"></p><p data-vmark=\"d4da\">这款投影仪支持 360° 万向云台调节，可以调整到仰投天花板等角度，还支持经纬智能校正；搭载全新升级 JUOS 系统，号称“爸妈孩子一看就会”，支持小聚、小聚问屏等功能。</p><p style=\"text-align: center;\" data-vmark=\"9d3d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dc1ce159-fa8b-4b4f-a91d-1b89c8564d93.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1616\" data-weibo=\"3\" data-vmark=\"b9e1\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F1KkJga\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgwK6Fq\" data-iosurl=\"https://u.jd.com/F6wwO3O\" data-androidurl=\"https://u.jd.com/F1KRTE2\" data-hosnexturl=\"https://u.jd.com/FaKUutF\" data-hosurl=\"https://u.jd.com/F6KHENU\" data-uwpurl=\"https://u.jd.com/F1KXIYO\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6KkFwt%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FGKVLq3\" data-lpwxurl=\"https://u.jd.com/FgKV26R\"   data-ncid=\"246912\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/522048/19/4008/82890/6aa25634Fede4d2c5/008332032002fa12.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Vidda 大眼睛 M2 Pro 旗舰版 皓月白</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 5499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/009/803.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/803.htm"
+    },
+    {
+      "id": 1982,
+      "title": "联想推出 23.8 英寸 FHD 100Hz 来酷 M2460 办公显示器，599 元",
+      "summary": "IT之家 10 月 5 日消息，联想新推出了一款 23.8 英寸的办公显示器，隶属于来酷（Lecoo）品牌，型号为 M2460，定价为 599 元。 京东 Lecoo 联想办公显示器 M246023.8 英寸 FHD 100Hz 高刷 IPS 低蓝光不闪屏 599 元直达链接 这款显示器搭载 23.8 英寸 IPS 面板，支持 1920×1080 分辨率、100Hz 刷新率，拥有 1670 万色彩显示，典型亮度 300 cd/m²，静态对比度 1000:1，可视角度 178°",
+      "content": "<p data-vmark=\"0000\">IT之家 10 月 5 日消息，联想新推出了一款 23.8 英寸的办公显示器，隶属于来酷（Lecoo）品牌，型号为 M2460，定价为 599 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDKer8q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1K4gQD\" data-iosurl=\"https://u.jd.com/FgwKOWa\" data-androidurl=\"https://u.jd.com/FawLvvY\" data-hosnexturl=\"https://u.jd.com/FawKsGN\" data-hosurl=\"https://u.jd.com/FgK9duK\" data-uwpurl=\"https://u.jd.com/FgK5pdo\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrwtS7O%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FGK4IkS\" data-lpwxurl=\"https://u.jd.com/FgK90z9\"   data-ncid=\"246910\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t20270926/520965/25/14505/227535/6ab69f53F232a1d18/09443203203cffc5.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Lecoo 联想办公显示器 M2460</span></span><span class=\"card-abstract\">23.8 英寸 FHD 100Hz 高刷 IPS 低蓝光不闪屏</span><span class=\"card-controls\"><span class=\"price\"> 599 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"0001\">这款显示器搭载 23.8 英寸 IPS 面板，支持 1920×1080 分辨率、100Hz 刷新率，拥有 1670 万色彩显示，典型亮度 300 cd/m²，静态对比度 1000:1，可视角度 178°。</p><p data-vmark=\"0005\">外观方面，该显示器采用三面窄边框设计，侧边边框仅 3.5mm，底座为方形工艺支架设计，外观简约，同时支持 -5°~15° 俯仰角度调节，也兼容 75×75mm 壁挂安装。</p><p style=\"text-align: center;\" data-vmark=\"bcd8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/db7ccec0-7f84-46cd-8ec9-2a35747460b1.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1040\" data-weibo=\"0\" alt=\"产品场景图\" data-vmark=\"34c3\"></p><p data-vmark=\"0007\">护眼方面，这款显示器支持低蓝光不闪屏技术，还配备电子书模式，可减少有害蓝光波段输出，提供暖色光源，长时间办公阅读也能缓解眼部疲劳。接口方面，该显示器配备 HDMI + D-Sub 双接口。</p><p style=\"text-align: center;\" data-vmark=\"00ac\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/52b95c24-0a90-45ce-94a0-be3d392aee54.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-weibo=\"1\" alt=\"接口配置\" data-vmark=\"c4e1\"></p><p data-vmark=\"000d\">IT之家附详细参数如下：</p><p style=\"text-align: center;\" data-vmark=\"d88f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4b363d97-1777-4670-9291-2298d4f7cdab.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1325\" data-weibo=\"2\" alt=\"产品参数表\" data-vmark=\"8489\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDwKuAQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1Km54N\" data-iosurl=\"https://u.jd.com/FgKXASI\" data-androidurl=\"https://u.jd.com/FDwMdlK\" data-hosnexturl=\"https://u.jd.com/FDK4HbU\" data-hosurl=\"https://u.jd.com/F1wLSpU\" data-uwpurl=\"https://u.jd.com/F6KU5xM\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaKo2pK%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FgKXmWs\" data-lpwxurl=\"https://u.jd.com/FDKVncF\"   data-ncid=\"246910\"> <span class=\"card main-site\"> <span class=\"card-logo\"> <img src=\"https://img14.360buyimg.com/pop/jfs/t1/525123/18/2110/99613/6aa37ba9F1fb10206/008332032026b40f.png\" w=\"800\" h=\"800\"> </span> <span class=\"card-info\"> <span class=\"card-title\"> <span class=\"mall-data\">京东</span> <span class=\"card-name\">Lecoo 联想 23.8 英寸 FHD100Hz 高刷 IPS 低蓝光不闪屏 HDMI+VGA 方形底座行业家用办公显示器 M2460</span> </span> <span class=\"card-abstract\"></span> <span class=\"card-controls\"> <span class=\"price\">599 元</span> <span class=\"card-btn-deep\">直达链接</span> </span> </span> </span> </a> </dir>",
+      "link": "https://www.ithome.com/1/009/801.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/801.htm"
+    },
+    {
+      "id": 1983,
+      "title": "泰坦军团 V27MQ7 MAX 显示器开售：27 英寸 2K 565Hz 双模，5555 元",
+      "summary": "IT之家 10 月 5 日消息，泰坦军团 V27MQ7 MAX 显示器现已开售，标价 5555 元，国补到手价 4999.5 元。 这款显示器搭载了一块 27 英寸 QD-Mini LED + HFS 第二代氧化物面板，拥有 2304 分区，搭载区域调光（5 档可调）与光晕控制（100 档可调）算法；搭载内外双层纳米 LR 低反光学膜，反射率低至 1.8%；同时配备 UWV 光学膜，色彩偏移 Δu'v' ＜ 0.02，左右 178° 大角度观看，亮度色度几乎无衰减。 这款显示",
+      "content": "<p data-vmark=\"1324\">IT之家 10 月 5 日消息，泰坦军团 V27MQ7 MAX 显示器现已开售，标价 5555 元，国补到手价 4999.5 元。</p><p style=\"text-align: center;\" data-vmark=\"e8a0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2fc57d8c-d4ab-4d56-8eee-627bfe757efe.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"3136\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"a899\" class=\"no-alt-img\"></p><p data-vmark=\"e7a6\">这款显示器搭载了一块 27 英寸 QD-Mini LED + HFS 第二代氧化物面板，拥有 2304 分区，搭载区域调光（5 档可调）与光晕控制（100 档可调）算法；搭载内外双层纳米 LR 低反光学膜，反射率低至 1.8%；同时配备 UWV 光学膜，色彩偏移 Δu'v' ＜ 0.02，左右 178° 大角度观看，亮度色度几乎无衰减。</p><p style=\"text-align: center;\" data-vmark=\"99cf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4c91b6f9-721a-4c66-8a9c-bd8a759f2b8c.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1305\" data-weibo=\"1\" data-vmark=\"adef\" class=\"no-alt-img\"></p><p data-vmark=\"5357\">这款显示器支持 2K 500Hz / 720P 1000Hz 双模显示，超频下可达 &nbsp;2K 565Hz / 720P 1060Hz；静态对比度 1800:1，色域覆盖 99% DCI-P3、99% Adobe RGB、100% sRGB；亮度可达 750 尼特（SDR）、1400 尼特（HDR）、3000 尼特（XDR）。</p><p style=\"text-align: center;\" data-vmark=\"8017\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e83a6c43-9758-4a32-88d0-c1b1dcea09f3.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1591\" data-weibo=\"2\" data-vmark=\"c17b\" class=\"no-alt-img\"></p><p data-vmark=\"54b9\">接口方面，这款显示器提供 2 个 HDMI 2.1 、1 个 DP 1.4、1 个 3.5mm 音频接口，1 个 USB-B 上行、2 个 USB-A 下行。</p><p style=\"text-align: center;\" data-vmark=\"4d9d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0d25e309-3b1d-4432-8883-3006567b073b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1406\" data-weibo=\"3\" data-vmark=\"b392\" class=\"no-alt-img\"></p><p data-vmark=\"4f7c\">IT之家附这款显示器详细参数如下：</p><p style=\"text-align: center;\" data-vmark=\"0680\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/72e8f861-6850-409e-807d-8ecac11368b1.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"2432\" data-weibo=\"4\" alt=\"详细参数\" data-vmark=\"a316\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOKmBMX\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FaKFaon\" data-iosurl=\"https://u.jd.com/FgwLiVd\" data-androidurl=\"https://u.jd.com/FGK4toE\" data-hosnexturl=\"https://u.jd.com/FGKf7mb\" data-hosurl=\"https://u.jd.com/F6wdrOx\" data-uwpurl=\"https://u.jd.com/F6Kemg8\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaKXcEW%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/F6KFC78\" data-lpwxurl=\"https://u.jd.com/FgKHLIo\"   data-ncid=\"246909\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/498001/29/7658/706300/6a797c2aF60e15f6c/0083320320305011.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">泰坦军团 V27MQ7 MAX</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">5555 元（国补后 4999.5 元）</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/009/799.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/799.htm"
+    },
+    {
+      "id": 1984,
+      "title": "特朗普宣布成立超级智能工作组，谋求维持美国技术领先地位",
+      "summary": "IT之家 10 月 5 日消息，正如此前所承诺的，美国总统唐纳德 · 特朗普已经宣布成立全新的超级智能工作组（Super Intelligence Force）。他表示，该机构将由美国国家情报总监杰伊 · 克莱顿（Jay Clayton）以及本届政府的其他官员牵头负责。 特朗普当地时间上周日上午在自己的社交平台“真实社交（Truth Social）”上发帖称：“超级智能工作组的任务是协调联邦政府的各项相关工作，确保美国能够继续在超级智能领域引领全世界。很多人认为，这项技术的影",
+      "content": "<p data-vmark=\"1d21\">IT之家 10 月 5 日消息，正如此前所承诺的，美国总统唐纳德 · 特朗普已经宣布成立全新的超级智能工作组（Super Intelligence Force）。他表示，该机构将由美国国家情报总监杰伊 · 克莱顿（Jay Clayton）以及本届政府的其他官员牵头负责。</p><p data-vmark=\"4b32\">特朗普当地时间上周日上午在自己的社交平台“真实社交（Truth Social）”上发帖称：“超级智能工作组的任务是协调联邦政府的各项相关工作，<strong>确保美国能够继续在超级智能领域引领全世界</strong>。很多人认为，这项技术的影响力已经超过工业革命与互联网。工作组还将捍卫全体美国人的利益，改善民众的生活。”</p><p style=\"text-align: center;\" data-vmark=\"a88b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a00fdaff-72ab-468f-a64b-710631017151.jpg?x-bce-process=image/format,f_auto\" w=\"596\" h=\"1146\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"cfa3\" class=\"no-alt-img\"></p><p data-vmark=\"1bde\">IT之家注意到，在 9 月份，针对人工智能安全相关的争论，特朗普大体上将其斥之为“激进左翼民主党人”编造出来的骗局。但即便如此，他当时就表态将会组建一支人工智能专项工作组，并任命一名“AI 事务总管”（他当时写道：“仅限高智商人士应聘！”）。</p><p data-vmark=\"c3b2\">自那之后，特朗普签署了一项行政令，推动把“人工智能（AI）”重新命名为“超级智能（super intelligence）”。上周一众科技企业高管齐聚白宫，签署一份不具备法律约束力的安全承诺书时，也开始使用这一新叫法，不过过程当中也出现过一些用词混乱；这份承诺书文本甚至还出现了一处显眼的拼写错误。</p><p data-vmark=\"2fe2\">顺理成章，特朗普这支新专项工作组就采用了这套全新命名。据《华尔街日报》报道，克莱顿将出任超级智能工作组的主席，实际上也就成为新一任超级智能事务总管；美国联邦贸易委员会主席安德鲁 · 弗格森（Andrew Ferguson）、美国国防部负责研究与工程的副部长埃米尔 · 迈克尔（Emil Michael）、美国人事管理局局长斯科特 · 库珀（Scott Kupor）担任工作组副主席。</p><p data-vmark=\"8098\">据介绍，<strong>该专项工作组需要在 120 天之内提交一份报告，分析人工智能带来的风险与发展机遇</strong>。克莱顿此前曾经提出，如果在中国等国家持续向前推进相关技术的同时，美国却选择“后退”，这是一种不负责任的做法。他在接受《华尔街日报》采访时再次表达了类似看法，并坚持认为，最大风险之一就是不能抢占行业第一的位置。</p><p data-vmark=\"a2a1\">根据该工作组的工作章程，其工作内容包括：“制定应对依托超级智能所产生的各类社会威胁的预案；同时要防止监管过度，也要防范监管俘获现象，避免扼杀创新与市场竞争。”</p>",
+      "link": "https://www.ithome.com/1/009/792.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/009/792.htm"
+    },
+    {
+      "id": 1985,
+      "title": "US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers",
+      "summary": "The U.S. Senate has blocked the Ratepayer Protection Act in a 57-43 vote, killing legislation that would have pushed regulators to consider making data centers pay the incremental grid costs created by their massive electricity demand.",
+      "content": "<article>\n                                <p>The United States Senate has decided against advancing the Ratepayer Protection Act, a bipartisan bill designed to shield everyday Americans from rapidly <a href=\"https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure\">rising electricity costs driven by data center buildouts</a> nationwide. On September 30, the bill fell short of the 60 votes required to pass the bill by just three votes, ending 57-43, according to a Reuters <a href=\"https://www.reuters.com/world/us-senate-set-block-bill-address-data-center-costs-2026-09-30/\">report</a>. The <a href=\"https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing\">Ratepayer Protection Act bill had cleared the U.S. House of Representatives</a> just two weeks earlier, with the Senate as the last procedural step before President Donald Trump could sign it into law. Following the vote, the bill is now officially dead.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: AI and data centers</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Vh4nY3pMCcmra2ymXah9S7\" name=\"Microsoft data center in Mount Pleasant, Wisconsin\" caption=\"\" alt=\"Microsoft data center in Mount Pleasant, Wisconsin\" src=\"https://cdn.mos.cms.futurecdn.net/Vh4nY3pMCcmra2ymXah9S7-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Microsoft)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-data-center-cooling-state-of-play-2025-liquid-cooling-is-on-the-rise-thermal-density-demands-skyrocket-in-ai-data-centers-and-tsmc-leads-with-direct-to-silicon-solutions?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">The data center cooling state of play</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">The custom AI ASIC state of play </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\">America’s AI chip rules keep changing — and the rest of the world is paying the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\">GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">Demand for data center CPUs has surged, and AI agents are responsible</a></li></ul></p></div></div><p>Introduced in the Senate by Senator Jon Husted, the bill was the legal culmination of <a href=\"https://www.tomshardware.com/tech-industry/policy/president-trump-expands-ai-data-center-ratepayer-protection-pledge-to-include-state-governors-and-utility-companies-white-house-claims-this-will-make-electricity-more-affordable\">President Trump’s “Ratepayer Protection Pledge</a>.” It sought to institute a federal standard for states and Public Utility Commissions, directing regulators to <em>consider</em> whether entities that consume large amounts of electricity, such as data centers, should cover the incremental costs of energy infrastructure needed to serve them.</p><p>Proponents say the act would prevent data center operators from passing infrastructure costs to residents and small businesses, a growing concern in communities seeing a rise in data center construction. “If America wants to lead the world in AI and strengthen our national security, we have to build the energy infrastructure to support it. But we must do that without passing the costs on to working families and small businesses. The Ratepayer Protection Act would keep America globally competitive while protecting Ohioans and Americans from higher electricity bills,” said Husted.</p><p>On the other hand, opponents, mostly Democrats, labeled the bill “toothless,” arguing that its non-binding nature provided no real protection because it did not mandate that states adopt the standard; it simply directs regulators to consider it as part of their rate-setting processes. Only four Democrats voted for the bill; the general consensus was that it does not go far enough to protect consumers from soaring electricity bills.</p><p>With the bill’s collapse, Congress has yet to impose any new federal protection on data center-related grid costs. Some lawmakers have suggested they may reevaluate the issue after the mid-term elections in November, possibly with revisions that would require utility regulators to ensure data center operators cover additional costs caused by their operations. The debate over data center energy costs and who should cover them will likely remain a key issue during campaigns, especially in states where new facilities are planned or where buildouts are ongoing.</p><p>Meanwhile, local communities continue to push back against data centers over several issues, including <a href=\"https://www.tomshardware.com/tech-industry/ai-data-centers-soaring-energy-consumption-is-causing-skyrocketing-power-bills-for-households-across-the-us-states-reporting-spikes-in-energy-costs-of-up-to-36-percent\">electricity bill hikes</a>. Some states are already taking steps to address the hikes. An Oregon<a href=\"https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share\"> power company hiked data center bills by 30% and cut residential electricity costs by 1.3%</a>. Certain hyperscalers are also moving their data centers off-grid, with others pledging to supply electricity to the grid or offset increases in residents’ bills.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/us-senate-kills-bill-that-could-potentially-shield-americans-from-skyrocketing-power-bills-due-to-ai-data-centers-opponents-say-bill-is-toothless-and-doesnt-do-enough-to-protect-citizens",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "6GMMSJ4MaZ9PtNJ8r5pMp4"
+    },
+    {
+      "id": 1986,
+      "title": "Customer sends two-stick $16,000 DDR5 memory kit to repair shop",
+      "summary": "A YouTube channel best known for its skillful graphics card fixes has published its first DDR5 module repair video after the economics of RAM repair change.",
+      "content": "<article>\n                                <p>A YouTube channel best known for its skillful graphics card fixes has published its first RAM module repair video. Tony from NorthWestRepair’s latest video shows his attempts to mend a pair of high-capacity DDR5 sticks worth a purported $16,000. It isn’t the repair skills that are newsworthy here. Rather, it’s the shift in economics that makes the chuck-it-and-replace-it attitude to bad RAM a philosophy that simply doesn’t apply in 2026. The impact of the AI-pocalypse means that spending a couple of hundred dollars on repair labor to save a several-thousand-dollar DDR5 DIMM is now sensible. If you can repair RAM, you can now start a business.</p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"high\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/3aHRfNaMv14\" allowfullscreen></iframe></div></div><p>Two DDR5 sticks were sent in to Tony, described as having physical damage. They are both ECC sticks, meant for servers, one with 128GB and the other with 256GB of DRAM ICs onboard. Tony sounded happy at the start of the video, as this is an excuse to use his Unified DDR Flasher Main Board, for which he had just acquired an RDIMM extension that works with these server sticks.</p><p>Initial close physical inspection didn’t reveal any conclusive evidence of the source of the problems. So, it was hoped electrical tests would provide more clues. A data line tester didn’t highlight any issues, though. Tony used flux and hot air to reflow the solder on the first DIMM, which is a far simpler process than a reball (where all the memory ICs are taken off, cleaned, and given new solder balls). Initial signs were that the module was now working OK. So, he moved to the next DDR5 DIMM.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/sjoF8phuNJb2v3PT6BWLod-1920-80.jpg\" alt=\"DDR5 RAM stick repair \" /><figcaption><small role=\"credit\">NorthWestRepair</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/auBD2moAFBMVuEiiSvv6qd-1920-80.jpg\" alt=\"DDR5 RAM stick repair \" /><figcaption><small role=\"credit\">NorthWestRepair</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/5vvVNykvkfC7cY6WicqEqd-1920-80.jpg\" alt=\"DDR5 RAM stick repair \" /><figcaption><small role=\"credit\">NorthWestRepair</small></figcaption></figure></figure><p>The second DIMM “may have a faulty PMIC chip,” which is why it seemed more severely broken than the first module, Tony indicated. Powering on a system with this DIMM inserted showed no signs of life, and the DIMM didn’t even warm up (thermal camera checks). That contrasts with the first fix. </p><p>Because this DIMM is completely dead, Tony did some work on the non-DRAM chips like the PMIC and SPD EEPROM first. Then he decided to reflow some other chips, including memory ICs, like before, while the board was warm. Some ICs were also reballed after inspection, making Tony suspicious of them. </p><p>The repairer found a short circuit via voltage injection and thermal camera monitoring. This was fixed with a new capacitor and by fixing the short on the damaged edge of the PCB. Finally, a new PMIC chip ended the quest, and this second DDR5 DIMM powered on and trained successfully.</p><p>The repair is good to see, saving these valuable components from e-waste. However, the bigger picture is that repairing memory modules could now be a viable business. Previously, it didn’t make sense to spend a hundred or two on labor to fix a DIMM that would cost about the same or even less to replace with a new one. Now the repair fee might be just a fraction of a replacement price.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/customer-sends-two-stick-usd16-000-ddr5-memory-kit-to-repair-shop-soaring-replacement-costs-make-dimm-repairs-viable-technician-revives-dead-module-with-hot-air-reflow-and-new-pmic",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "L86UQd4b957rq2ZuTJeQxB"
+    },
+    {
+      "id": 1987,
+      "title": "(PR) INNO3D Announces 6U RTX PRO 6000BSE GPU Server",
+      "summary": "INNO3D announces the AGS-6220V2 6U Rack Mount GPU Server, a high-performance enterprise platform designed for AI training, AI inference, high-performance computing (HPC), analytics, and visualization workloads. Powered by dual Intel Xeon 5t",
+      "content": "INNO3D announces the AGS-6220V2 6U Rack Mount GPU Server, a high-performance enterprise platform designed for AI training, AI inference, high-performance computing (HPC), analytics, and visualization workloads.<br />\r\n<br />\r\nPowered by dual Intel Xeon 5th Gen Scalable processors and supporting up to 32 DDR5 RDIMMs, the AGS-6220V2 delivers the compute performance required for modern AI and data center environments. The system supports NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs across eight PCIe Gen 5 x16 slots, enabling accelerated AI, simulation, and data-intensive applications. The AGS-6220V2 reflects INNO3D's commitment to delivering scalable AI infrastructure that helps organizations accelerate innovation and unlock greater performance.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/VczSJ8b7vhe9xwiY.jpg\" target=\"_blank\" data-width=\"1170\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/VczSJ8b7vhe9xwiY_thm.jpg\" width=\"158\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/HylxoQoRlE5kbxXJ.jpg\" target=\"_blank\" data-width=\"1170\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/HylxoQoRlE5kbxXJ_thm.jpg\" width=\"158\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/XfML23G1U8YlYNyP.jpg\" target=\"_blank\" data-width=\"1300\" data-height=\"805\" ><img src=\"https://tpucdn.com/img/XfML23G1U8YlYNyP_thm.jpg\" width=\"210\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353391/inno3d-announces-6u-rtx-pro-6000bse-gpu-server\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353391/inno3d-announces-6u-rtx-pro-6000bse-gpu-server",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e0639b0237df4026cd3c9f26294be822"
+    },
+    {
+      "id": 1988,
+      "title": "TITAN Xp Finally Runs on Windows XP Thanks to a Modded NVIDIA Driver",
+      "summary": "A modder going by SupraGSX has released an unofficial Windows XP driver on GitHub that adds support for NVIDIA's GeForce GTX 10-series \"Pascal\" graphics cards, including the TITAN Xp. Called Forceware 382.69, it is a patched version of NVID",
+      "content": "A modder going by <a rel=\"nofollow\" href=\"https://github.com/SupraGSX/Forceware-382.69\" target=\"_blank\">SupraGSX</a> has released an unofficial Windows XP driver on GitHub that adds support for NVIDIA's GeForce GTX 10-series &quot;Pascal&quot; graphics cards, including the TITAN Xp. Called Forceware 382.69, it is a patched version of NVIDIA's 368.81 driver from July 2016 and only works on 32-bit Windows XP. The timing is a bit funny, since NVIDIA <a href=\"https://www.techpowerup.com/339479/nvidia-to-end-geforce-regular-driver-support-for-maxwell-volta-and-pascal-gpus-in-q4\" target=\"_blank\">ended regular driver support for Pascal</a> last year and later <a href=\"https://www.techpowerup.com/343612/nvidia-deprecates-geforce-gtx-900-series-maxwell-and-gtx-10-series-pascal-with-590-driver\" target=\"_blank\">dropped the cards from its 590 driver branch</a>. However, Forceware's latest release covers the GTX 1060, GTX 1070, GTX 1070 Ti, GTX 1080, GTX 1080 Ti, TITAN X (Pascal) and TITAN Xp, along with some GTX 900-series and Quadro cards. <br />\r\n<br />\r\nIt also adds DisplayPort 1.4 HBR3 and HDMI 2.0 handling. SupraGSX notes that these are INF additions, and that not every model was individually validated. The October 4 build fixes OpenGL crashes on Pascal, which was verified on a GTX 1080 Ti. Support for GP107 cards such as the GTX 1050 Ti is experimental and untested on real hardware. X user <a rel=\"nofollow\" href=\"https://x.com/TheBobPony/status/2105971682020131127\" target=\"_blank\">@TheBobPony</a>, who shared a GPU-Z screenshot of a GTX 1080 running on Windows XP, described the driver as &quot;vibe coded.&quot; That claim remains unconfirmed currently, as the project's README and release notes make no mention of AI tools. Readers are cautioned to keep unverified drivers off their primary PCs, AI-coded or otherwise. Still, the effort deserves some credit, if only for keeping the Xp on XP meme alive.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/SfieyHAjmnvH0y6U.jpg\" target=\"_blank\" data-width=\"739\" data-height=\"415\" ><img src=\"https://tpucdn.com/img/SfieyHAjmnvH0y6U_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/QcggH5JHs17tow8P.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"600\" ><img src=\"https://tpucdn.com/img/QcggH5JHs17tow8P_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353387/titan-xp-finally-runs-on-windows-xp-thanks-to-a-modded-nvidia-driver",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5e0a1c6f8524a7e6e341d414cd5da258"
+    },
+    {
+      "id": 1990,
+      "title": "Nvidia Shield TV Pro with Nintendo Switch chip becomes 50% more expensive",
+      "summary": "The Nvidia Shield TV Pro is already seven years old. But instead of a new model, Nvidia is now announcing a major price increase – the AI boom is making the set-top box with an Nvidia Tegra X1+ ARM chip and 3 GB of RAM a full 50 percent mor",
+      "content": "The Nvidia Shield TV Pro is already seven years old. But instead of a new model, Nvidia is now announcing a major price increase – the AI boom is making the set-top box with an Nvidia Tegra X1+ ARM chip and 3 GB of RAM a full 50 percent more expensive.",
+      "link": "https://www.notebookcheck.net/Nvidia-Shield-TV-Pro-with-Nintendo-Switch-chip-becomes-50-more-expensive.1416017.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-Shield-TV-Pro-with-Nintendo-Switch-chip-becomes-50-more-expensive.1416017.0.html"
+    },
+    {
+      "id": 1991,
+      "title": "OLED MacBook Pro could be significantly lighter, but fans fear compromises",
+      "summary": "According to Mark Gurman, Apple's upcoming OLED MacBook Pro could be significantly lighter. On Reddit, however, the potential upgrade is raising concerns about battery life, cooling and ports.",
+      "content": "According to Mark Gurman, Apple's upcoming OLED MacBook Pro could be significantly lighter. On Reddit, however, the potential upgrade is raising concerns about battery life, cooling and ports.",
+      "link": "https://www.notebookcheck.net/OLED-MacBook-Pro-could-be-significantly-lighter-but-fans-fear-compromises.1415997.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/OLED-MacBook-Pro-could-be-significantly-lighter-but-fans-fear-compromises.1415997.0.html"
+    },
+    {
+      "id": 1992,
+      "title": "New Vivo phone launches with 9,000mAh battery and bright AMOLED display",
+      "summary": "The Vivo Y600K Turbo has been launched in China, and at the core, it's a rebadged version of the non-K Y600 Turbo that was released earlier in 2026. This mid-range phone features a big 9,000mAh battery, has a bright 6.83-inch AMOLED display",
+      "content": "The Vivo Y600K Turbo has been launched in China, and at the core, it's a rebadged version of the non-K Y600 Turbo that was released earlier in 2026. This mid-range phone features a big 9,000mAh battery, has a bright 6.83-inch AMOLED display, and a large VC cooling setup. The launch price is around $417.",
+      "link": "https://www.notebookcheck.net/New-Vivo-phone-launches-with-9-000mAh-battery-and-bright-AMOLED-display.1415947.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-Vivo-phone-launches-with-9-000mAh-battery-and-bright-AMOLED-display.1415947.0.html"
+    },
     {
       "id": 1901,
       "title": "全球跨国投资十强榜单出炉：台积电居首、字节跳动位列第二",
@@ -548,6 +1072,34 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Xiaomi-launches-affordable-RGB-Mini-LED-TV-line-with-360Hz-refresh-rate-support.1415471.0.html"
+    },
+    {
+      "id": 1963,
+      "title": "苹果新任CEO特努斯上任即亲掌设计 10月密集推新品对冲服务业务放缓",
+      "summary": "苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。此外，除了触摸屏和转向OLED技术外，苹果改版后的MacBook Pro还有另一项重大变化。最后，该公司即将发布新的智能家居中枢、HomePod mini和搭载Siri AI的Apple TV。 阅读全文",
+      "content": "<p>苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。此外，除了触摸屏和转向OLED技术外，苹果改版后的MacBook Pro还有另一项重大变化。最后，该公司即将发布新的智能家居中枢、HomePod mini和搭载Siri AI的Apple TV。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1580696.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1580696.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1580696.htm"
+    },
+    {
+      "id": 1989,
+      "title": "Ace Combat 8: Wings Of Theve Smashes Series Steam Record With Over 52,000 Concurrent Players",
+      "summary": "Ace Combat 8: Wings of Theve is off to the series' best PC launch by a wide margin. The game came out on October 2 and peaked at over 52,000 concurrent Steam players a day later, according to SteamDB. That is nearly four times the 13,758 th",
+      "content": "Ace Combat 8: Wings of Theve is off to the series' best PC launch by a wide margin. The game came out on October 2 and peaked at over 52,000 concurrent Steam players a day later, according to <a rel=\"nofollow\" href=\"https://steamdb.info/charts/?compare=502500%2C2288340\" target=\"_blank\">SteamDB</a>. That is nearly four times the 13,758 that Ace Combat 7: Skies Unknown managed in 2019, while Assault Horizon only reached 3,795. It also apparently topped Steam's global top sellers chart. That's certainly not bad for a fairly niche series that <a href=\"https://www.techpowerup.com/344020/bandai-namco-revives-the-legendary-franchise-with-ace-combat-8-wings-of-theve\" target=\"_blank\">Bandai Namco revived</a> more than seven years after the last mainline game.<br />\r\n<br />\r\nSteam reviews, however, are a little less glowing. The game sits at around 78% positive, which puts it in the &quot;Mostly Positive&quot; bracket. Players seem to like the dogfights, the mission variety, the campaign, and the soundtrack. Most complaints are about performance, with frame rates lower than people expected, and opinions on multiplayer are mixed. There was also some confusion around the pre-order bonus, Ace Combat Zero: The Belkan War, which needs Wings of Theve installed because it's treated as DLC due to licensing restrictions. Bandai Namco hasn't shared sales figures yet, and Steam is only one of three platforms, so we don't know how big the launch officially was. I think a patch or two for the frame rates would probably help that review score.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/hWBeEJt3SXeS2ZLT.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/hWBeEJt3SXeS2ZLT_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1nBh3DmXPbbCuXUl.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/1nBh3DmXPbbCuXUl_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/AKp6RIS2BByowdRM.jpg\" target=\"_blank\" data-width=\"953\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/AKp6RIS2BByowdRM_thm.jpg\" width=\"129\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353384/ace-combat-8-wings-of-theve-smashes-series-steam-record-with-over-52-000-concurrent-players",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-04",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "252141e3f065ad9cb2bc6c5ad5fd571c"
     },
     {
       "id": 1768,
