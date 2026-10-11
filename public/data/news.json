@@ -1,7 +1,340 @@
 {
-  "updatedAt": "2026-10-10",
-  "total": 2381,
+  "updatedAt": "2026-10-11",
+  "total": 2407,
   "list": [
+    {
+      "id": 2382,
+      "title": "CUDA生态优势持续扩大RTX Spark笔记本热销 微软128GB版Surface Laptop开始缺货",
+      "summary": "随着人工智能应用持续升温，围绕高性能AI计算硬件的市场需求正在快速增长。业内人士指出，英伟达长期打造的CUDA软件生态系统正在成为其最重要的竞争壁垒之一，而这一优势也开始直接反映在新一代AI电脑和开发设备的市场表现上。 阅读全文",
+      "content": "<p>随着人工智能应用持续升温，围绕高性能AI计算硬件的市场需求正在快速增长。业内人士指出，英伟达长期打造的CUDA软件生态系统正在成为其最重要的竞争壁垒之一，而这一优势也开始直接反映在新一代AI电脑和开发设备的市场表现上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581642.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581642.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581642.htm"
+    },
+    {
+      "id": 2383,
+      "title": "CPU、DRAM和SSD如今占了一台主流级别笔记本电脑制造成本的68%",
+      "summary": "全球笔记本电脑市场可能在2027年面临新一轮下行压力。市场研究机构TrendForce最新报告指出，随着DRAM内存、CPU和固态硬盘等核心零部件价格持续上涨，笔记本电脑行业的主要风险正在从供应不足转向成本上升对消费者需求的冲击。如果厂商不得不将更多成本转嫁给消费者，终端售价上涨可能进一步延长换机周期，导致2027年全球笔记本电脑出货量出现更大幅度的下滑。 阅读全文",
+      "content": "<p>全球笔记本电脑市场可能在2027年面临新一轮下行压力。市场研究机构TrendForce最新报告指出，随着DRAM内存、CPU和固态硬盘等核心零部件价格持续上涨，笔记本电脑行业的主要风险正在从供应不足转向成本上升对消费者需求的冲击。如果厂商不得不将更多成本转嫁给消费者，终端售价上涨可能进一步延长换机周期，导致2027年全球笔记本电脑出货量出现更大幅度的下滑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581640.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581640.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581640.htm"
+    },
+    {
+      "id": 2384,
+      "title": "英伟达洽谈收购Reflection AI 已投资8亿美元 后者估值达250亿美元",
+      "summary": "英伟达正与美国人工智能初创企业Reflection AI就潜在收购或进一步扩大投资展开初步谈判，交易可能采取全面收购、追加股权投资、提供更多芯片及算力支持，或通过聘用员工并获得技术授权等多种形式。英伟达此前已向Reflection AI投资8亿美元，是其最大股东之一。 阅读全文",
+      "content": "<p>英伟达正与美国人工智能初创企业Reflection AI就潜在收购或进一步扩大投资展开初步谈判，交易可能采取全面收购、追加股权投资、提供更多芯片及算力支持，或通过聘用员工并获得技术授权等多种形式。英伟达此前已向Reflection AI投资8亿美元，是其最大股东之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581622.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581622.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581622.htm"
+    },
+    {
+      "id": 2385,
+      "title": "马斯克：Terrafab芯片工厂未来生产效率有望超越竞争对手 但可能需要数年时间",
+      "summary": "特斯拉及SpaceX首席执行官埃隆·马斯克10月10日表示，尽管半导体制造技术复杂、进入门槛极高，但旗下企业未来仍有可能开发出比现有竞争对手更高效的芯片生产方式。马斯克计划通过特斯拉、SpaceX及英特尔参与的合资项目，在得克萨斯州建设Terrafab半导体工厂，项目初始投资超过150亿美元，预计创造约3000个就业岗位。 阅读全文",
+      "content": "<p>特斯拉及SpaceX首席执行官埃隆·马斯克10月10日表示，尽管半导体制造技术复杂、进入门槛极高，但旗下企业未来仍有可能开发出比现有竞争对手更高效的芯片生产方式。马斯克计划通过特斯拉、SpaceX及英特尔参与的合资项目，在得克萨斯州建设Terrafab半导体工厂，项目初始投资超过150亿美元，预计创造约3000个就业岗位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581604.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581604.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581604.htm"
+    },
+    {
+      "id": 2386,
+      "title": "AI投资热潮降温 韩国股市散户交易降温、企业回购逐步结束",
+      "summary": "随着人工智能投资热潮降温，韩国股市正面临外国投资者大规模撤资和市场交易活跃度急剧下降的双重压力。交易所数据显示，今年以来，外国投资者累计从韩国股市撤出1310亿美元，流出规模居亚洲主要市场之首。韩国股市总市值约4.3万亿美元，市场成交额较5月底高点萎缩70%，基准KOSPI指数2026年下半年以来累计下跌22%。此前，受AI存储芯片需求推动，KOSPI曾在上半年成为全球表现最好的主要股指。 阅读全文",
+      "content": "<p>随着人工智能投资热潮降温，韩国股市正面临外国投资者大规模撤资和市场交易活跃度急剧下降的双重压力。交易所数据显示，今年以来，外国投资者累计从韩国股市撤出1310亿美元，流出规模居亚洲主要市场之首。韩国股市总市值约4.3万亿美元，市场成交额较5月底高点萎缩70%，基准KOSPI指数2026年下半年以来累计下跌22%。此前，受AI存储芯片需求推动，KOSPI曾在上半年成为全球表现最好的主要股指。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581602.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581602.htm"
+    },
+    {
+      "id": 2387,
+      "title": "AI反而拖累了PC市场：内存涨价让全球PC出货量暴跌了20%",
+      "summary": "人工智能原本被视为推动个人电脑市场增长的重要引擎，但最新数据却呈现出截然相反的局面。2026年第三季度，全球PC出货量同比下降约20%，创下自2023年第一季度以来最严重的年度跌幅之一。与此同时，人工智能数据中心对内存和存储芯片的巨大需求推高了电脑制造成本，而微软力推的Windows 11人工智能功能，也尚未充分证明自己能够成为消费者升级设备的有力理由。 阅读全文",
+      "content": "<p>人工智能原本被视为推动个人电脑市场增长的重要引擎，但最新数据却呈现出截然相反的局面。2026年第三季度，全球PC出货量同比下降约20%，创下自2023年第一季度以来最严重的年度跌幅之一。与此同时，人工智能数据中心对内存和存储芯片的巨大需求推高了电脑制造成本，而微软力推的Windows 11人工智能功能，也尚未充分证明自己能够成为消费者升级设备的有力理由。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581592.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581592.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581592.htm"
+    },
+    {
+      "id": 2389,
+      "title": "盛色推出“G74 护瞳版”显示器：2K 280Hz，支持圆偏光护眼，1110 元",
+      "summary": "IT之家 10 月 11 日消息，盛色现已在京东上架“G74 护瞳版”27 英寸显示器，该机相对于此前的 G74 主要升级圆偏光护眼功能，面板核心规格仍为 2K 280Hz，定价为 1110 元，部分地区国补后低至 948.6 元。 京东盛色“G74 护瞳版”显示器 1110 元点此访问 该机配备一块 2560x1440 分辨率 280Hz IPS 面板，GtG 响应速度 1ms，峰值亮度 450 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% ",
+      "content": "<p data-vmark=\"743b\">IT之家 10 月 11 日消息，盛色现已在京东上架“G74 护瞳版”27 英寸显示器，该机相对于此前的 G74 主要升级圆偏光护眼功能，面板核心规格仍为 2K 280Hz，<strong>定价为 1110 元</strong>，部分地区国补后低至 948.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgYu5XH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOYG8Ya\" data-iosurl=\"https://u.jd.com/Favmj4d\" data-androidurl=\"https://u.jd.com/FrYqRhE\" data-hosnexturl=\"https://u.jd.com/FGYdAG6\" data-hosurl=\"https://u.jd.com/FGYO86R\" data-uwpurl=\"https://u.jd.com/F1YQcDS\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFDYG5so%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/F1YL6du\" data-lpwxurl=\"https://u.jd.com/FaYtqeI\"   data-ncid=\"249463\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/538901/16/6125/104007/6ac605a3Fbd2d99be/00833203202bc5df.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">盛色“G74 护瞳版”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1110 元</span><span class=\"card-btn-deep\">点此访问</span></span></span></span></a></dir><p data-vmark=\"a101\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5c0052e0-2ee2-4951-a6f3-910f8e34d6da.png\" w=\"824\" h=\"1324\" data-weibo=\"0\" data-vmark=\"c6db\" class=\"no-alt-img\"></p><p data-vmark=\"04e0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/57991195-2579-4e02-a405-2625383092e5.png\" w=\"840\" h=\"1272\" data-weibo=\"1\" data-vmark=\"3fc9\" class=\"no-alt-img\"></p><p data-vmark=\"e238\">该机配备一块 2560x1440 分辨率 280Hz IPS 面板，GtG 响应速度 1ms，峰值亮度 450 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% sRGB、96% DCI-P3 色域。</p><p data-vmark=\"9642\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm &nbsp;壁挂，提供两个 HDMI 2.1 接口、一个 DisplayPort 1.4 接口、一个仅供固件升级的 USB-A 接口以及一个音频插孔，采用外置电源设计。</p><p data-vmark=\"5763\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5ba51c8a-d647-4ea1-aeb3-818d572767d3.png\" w=\"840\" h=\"1284\" data-weibo=\"2\" data-vmark=\"9ac2\" class=\"no-alt-img\"></p><p data-vmark=\"959d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/acd5cbae-b057-4f6e-931b-be6a8fbde366.png\" w=\"1056\" h=\"816\" data-weibo=\"3\" data-vmark=\"be5c\" class=\"no-alt-img\"></p><p data-vmark=\"0e1a\">IT之家附显示器参数：</p><p data-vmark=\"3b69\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5d59552f-00ba-4cf5-a10f-4ff75a5aaf2d.png\" w=\"738\" h=\"1092\" data-weibo=\"4\" data-vmark=\"6bbe\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/657.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/657.htm"
+    },
+    {
+      "id": 2390,
+      "title": "丹麦 CPR 数据库泄露波及 880 万人信息，涉事公司管理员密码竟是“123456”",
+      "summary": "IT之家 10 月 11 日消息，据《哥本哈根邮报》昨天报道，丹麦中央个人登记系统（CPR）近期出现一起大规模个人数据泄露事件。黑客入侵系统时，与该事件有关的 Pays ApS 公司至少三个账户使用了“123456”密码，其中一个还是管理员账户。 据报道，CPR 是丹麦的中央民事登记数据库，存储目前居住在丹麦或曾在丹麦居住过人员的个人信息，此次事件导致大约 880 万个 CPR 编号泄露。 奥胡斯大学电气与计算机工程系教授延斯 · 米鲁普 · 彼得森（IT之家注：Jens M",
+      "content": "<p data-vmark=\"2a14\">IT之家 10 月 11 日消息，据《哥本哈根邮报》昨天报道，丹麦中央个人登记系统（CPR）近期出现一起大规模个人数据泄露事件。黑客入侵系统时，<strong>与该事件有关的 Pays ApS 公司至少三个账户使用了“123456”密码</strong>，<strong>其中一个还是管理员账户</strong>。</p><p style=\"text-align: center;\" data-vmark=\"1b34\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a86573e6-8611-49ce-9ef8-0c8dcfae6b99.png?x-bce-process=image/format,f_auto\" w=\"1194\" h=\"762\" data-weibo=\"0\" data-vmark=\"cf83\" class=\"no-alt-img\"></p><p data-vmark=\"9220\">据报道，CPR 是丹麦的中央民事登记数据库，存储目前居住在丹麦或曾在丹麦居住过人员的个人信息，此次事件导致大约 880 万个 CPR 编号泄露。</p><p data-vmark=\"3957\">奥胡斯大学电气与计算机工程系教授延斯 · 米鲁普 · 彼得森（IT之家注：Jens Myrup Pedersen）接受采访时表示：“这简直是没有任何安全保障，等同于为黑客敞开大门。如果你拿着密码词典，那 123456 绝对是最先尝试的密码之一。我很难想象还能有比这更糟糕的安全措施，出事不过是时间问题罢了。”</p><p data-vmark=\"96a2\">Pays ApS 公司对此表示：“我们确实遭遇了一次攻击，黑客滥用我们依法获得的 CPR 系统信息查询权限。”</p>",
+      "link": "https://www.ithome.com/1/011/648.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/648.htm"
+    },
+    {
+      "id": 2391,
+      "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
+      "summary": "IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。 IT之家注意到，2026 款理想 i6 是理想首款纯电全球车，10 月 12 日将在巴黎车展完成欧洲首秀，后续将在欧洲市场上市交付。从整车到关键零部件，包括自研电机、电池、芯片等，均按照全球标准打造。安全方面，2026 款理想 i6 同样按照 Euro NCAP 五星安全标准开发，在欧洲上市后也会接受 Euro NCAP 的",
+      "content": "<p data-vmark=\"46f6\">IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。</p><p data-vmark=\"5677\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b29fc1c-a902-450b-9e08-ee7e9185d10a.png\" w=\"638\" h=\"1482\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6001272153%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6001272153%2FRmarbs5Dh%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"120d\" class=\"no-alt-img\"></p><p data-vmark=\"1fd4\">IT之家注意到，<strong>2026 款理想 i6 是理想首款纯电全球车</strong>，10 月 12 日将在巴黎车展完成欧洲首秀，后续将在欧洲市场上市交付。从整车到关键零部件，包括自研电机、电池、芯片等，均按照全球标准打造。安全方面，2026 款理想 i6 同样按照 Euro NCAP 五星安全标准开发，在欧洲上市后也会接受 Euro NCAP 的正式测试。</p><p data-vmark=\"fe18\">今日，全国 485 家门店将同步开启 2026 款理想 i6 的静态体验。10 月 28 日，2026 款理想 i6 将正式发布，并同步开启试驾。开启交付的时间预计为 11 月初。</p><p data-vmark=\"ebec\">据此前官方介绍，2026 款理想 i6 有多项升级，包括更好的 ADB 矩阵大灯、电动前备箱、前排零重力、后排大躺椅、一排旗舰同款 29 英寸 6K 全景屏、二排 21 英寸 4K 娱乐屏、高通骁龙 8797 座舱芯片、自研马赫 M100 芯片、96 千瓦时自研大电池、780 公里超长续航。</p><p style=\"text-align: center;\" data-vmark=\"bbcd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b6466a5-4ba6-474f-9bf3-c90b9e1aca5b.jpg\" w=\"1080\" h=\"16011\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"5e90\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"1e4b\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4869\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/011/639.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/639.htm"
+    },
+    {
+      "id": 2392,
+      "title": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等",
+      "summary": "IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。 据IT之家此前报道，一加 16 手机首批搭载第六代骁龙 8 超级至尊版，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。 配置汇总如下",
+      "content": "<p data-vmark=\"7827\">IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。</p><p data-vmark=\"34fe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1da0ed4c-166d-4720-ab9d-ce62a02e8716.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"0\" data-vmark=\"e7be\" class=\"no-alt-img\"></p><p data-vmark=\"004d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/730d1f04-1c5a-4008-b568-2db2f1d82668.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"c308\" class=\"no-alt-img\"></p><p data-vmark=\"86da\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4287fd1-0389-448a-9999-3c8fecc3b304.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"2\" data-vmark=\"b686\" class=\"no-alt-img\"></p><p data-vmark=\"9bde\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d0ff8345-f76d-4e14-beb1-c612c4585ba6.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"3\" data-vmark=\"3780\" class=\"no-alt-img\"></p><p data-vmark=\"4354\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/007/689.htm\">一加 16 手机首批搭载第六代骁龙 8 超级至尊版</a>，搭配全新一代风驰游戏内核，出厂即写入芯片底层。</p><p data-vmark=\"1e45\">一加 16 手机搭载与京东方联合研发的 <a href=\"https://www.ithome.com/1/010/837.htm\" target=\"_blank\">185Hz 第四代东方屏</a>，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。</p><p data-vmark=\"db33\"><strong>配置汇总如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2809\">6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO 物理四等边；</p></li><li><p data-vmark=\"d1e6\">前置 50Mp，后置 200Mp HPE 主摄 +50Mp 超广角 +50Mp IMX882 3X 潜望长焦；</p></li><li><p data-vmark=\"df37\">骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版处理器），9000mAh 电池 +100W 有线充 +50W 无线充，</p></li><li><p data-vmark=\"783c\">相对大尺寸 X 轴马达，大师对称双扬，3D 超声波指纹，IP66/IP68/IP69/IP69K，USB 3.2 Gen1</p></li></ul><p data-vmark=\"7562\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/25c7d189-d309-4162-b8f0-0ff82324ec57.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"4\" data-vmark=\"7ccc\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"ad32\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4813\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/011/635.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/635.htm"
+    },
+    {
+      "id": 2393,
+      "title": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元",
+      "summary": "IT之家 10 月 11 日消息，小米 REDMI 显示器 A27U 2027 款现已在京东上架，该机主打 4K 75Hz，定价为 1199 元。 京东小米 REDMI 显示器 A27U 2027 款 1199 元直达链接 该机配备一块 3840x2160 分辨率 75Hz IPS 面板，显示器亮度 400 尼特，响应速度 6ms，对比度 1500:1，对比度 1500:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% DCI-P3 色域。 该机支架",
+      "content": "<p data-vmark=\"de19\">IT之家 10 月 11 日消息，小米 REDMI 显示器 A27U 2027 款现已在京东上架，该机主打 4K 75Hz，<strong>定价为 1199 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDv44mb\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FrvFqgd\" data-iosurl=\"https://u.jd.com/FgvJjhb\" data-androidurl=\"https://u.jd.com/FOveev3\" data-hosnexturl=\"https://u.jd.com/FgvXocc\" data-hosurl=\"https://u.jd.com/FavXCkq\" data-uwpurl=\"https://u.jd.com/F6vRR1n\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOvcXOI%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FavxDK5\" data-lpwxurl=\"https://u.jd.com/FavJOsf\"   data-ncid=\"249447\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/529513/24/9755/7354/6abb2da6F62f9e305/00831e01e001d5ec.png\" w=\"480\" h=\"480\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米 REDMI 显示器 A27U 2027 款</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1199 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"d3d2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ffe421ba-7a15-4224-9d33-8f26057a9861.png\" w=\"886\" h=\"1414\" data-weibo=\"0\" data-vmark=\"cd59\" class=\"no-alt-img\"></p><p data-vmark=\"06d3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e9b65b4d-656c-4883-9abc-dd767991deb0.png\" w=\"840\" h=\"1276\" data-weibo=\"1\" data-vmark=\"309a\" class=\"no-alt-img\"></p><p data-vmark=\"e641\">该机配备一块 3840x2160 分辨率 75Hz IPS 面板，显示器亮度 400 尼特，响应速度 6ms，对比度 1500:1，对比度 1500:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% DCI-P3 色域。</p><p data-vmark=\"fe8a\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 75x75mm 壁挂，提供 2 个 HDMI 2.0、2 个 DP1.4、1 个 3.5mm 音频接口。</p><p data-vmark=\"e981\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/00f8f176-662f-495c-99ea-8e28279a9125.png\" w=\"902\" h=\"536\" data-weibo=\"2\" data-vmark=\"628b\" class=\"no-alt-img\"></p><p data-vmark=\"571f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d046def7-978a-4332-a286-657dd487038d.png\" w=\"824\" h=\"1234\" data-weibo=\"3\" data-vmark=\"aef6\" class=\"no-alt-img\"></p><p data-vmark=\"92d2\">IT之家附产品参数：</p><p data-vmark=\"f08e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/234da491-ccfc-4cb2-83b0-9d0f5af95701.png\" w=\"836\" h=\"1278\" data-weibo=\"4\" data-vmark=\"d856\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/633.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/633.htm"
+    },
+    {
+      "id": 2394,
+      "title": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单",
+      "summary": "IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破，成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目）。 ▲ TIME 评测榜单 ▲ GIFT-Eval 榜单（Pretrained 类目） 据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、",
+      "content": "<p data-vmark=\"4ca4\">IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破，<strong>成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目）</strong>。</p><p data-vmark=\"b843\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ffcf5f19-1aa4-4917-b566-913cb239eb36.png\" w=\"1080\" h=\"570\" data-s=\"300,640\" data-type=\"png\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"5b9b\"></p><figcaption>▲ TIME 评测榜单</figcaption><p data-vmark=\"9387\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/133918d3-6188-4791-8210-ced4b29918a6.png\" w=\"1080\" h=\"665\" data-s=\"300,640\" data-type=\"png\" data-weibo=\"1\" alt=\"图片\" data-vmark=\"731b\"></p><figcaption>▲ GIFT-Eval 榜单（Pretrained 类目）</figcaption><p data-vmark=\"fa84\">据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、金融分析等核心场景的关键技术底座，<strong>是当下 AI 基础研究与产业落地的核心赛道</strong>。研发团队基于华为昇腾生态，完成了模型的训练推理的深度优化，最终打造出高精度、高鲁棒性、高通用性、易工程化的通用时序基模型底座。</p><p data-vmark=\"ce2f\">华为云官方表示，在顶级模型扎堆的 TIME-leaderboard 和 GIFT-Eval 榜单中，七曜模型脱颖而出，成功登顶，<strong>标志着国内时序基础模型正式跻身全球第一梯队，完成从跟跑到赶超的跨越式突破</strong>。</p><p data-vmark=\"19fa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/865d6db4-ec07-4a9b-9fa5-6b3b1ca2d1c1.png\" w=\"1080\" h=\"543\" data-weibo=\"2\" alt=\"图片\" data-vmark=\"6b1c\"></p><p data-vmark=\"079a\">IT之家从华为云官方获悉，<strong>模型既可直接用于各类零样本时序预测任务</strong>，适配电网负荷研判、工业设备异常时序检测、金融趋势分析等核心场景，<strong>也支持低成本二次微调，快速适配各垂直行业定制化需求</strong>，兼顾算力、高自主模型知识产权。</p>",
+      "link": "https://www.ithome.com/1/011/631.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/631.htm"
+    },
+    {
+      "id": 2395,
+      "title": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
+      "summary": "苹果今日宣布推出 AirPods 5，支持主动降噪，国行定价 999 元起。 京东目前支持部分地区政府补贴（收货地址在江苏、吉林、北京、大连，今日新增河北、云南），实付 849.15 元起。 另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元： 京东 Apple AirPods 5 支持主动降噪国补后 849 元直达链接京东 Apple AirPods 5 搭配无线充电盒 增强续航国补后 977 元直达链接 京东 11.11 红",
+      "content": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连，</strong>今日新增<strong>河北、云南</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOv7RGB\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1vXqJF\" data-iosurl=\"https://u.jd.com/FOvUFzd\" data-androidurl=\"https://u.jd.com/FGvlHPF\" data-hosnexturl=\"https://u.jd.com/FOv7qGw\" data-hosurl=\"https://u.jd.com/FGvVNPe\" data-uwpurl=\"https://u.jd.com/F6vjUsp\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFDveGus%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FDvJsBN\" data-lpwxurl=\"https://u.jd.com/FavEVQo\"   data-ncid=\"249439\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/508991/23/5637/15808/6aa1af6bF62a0b555/00833203207564db.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Apple AirPods 5</span></span><span class=\"card-abstract\"> 支持主动降噪</span><span class=\"card-controls\"><span class=\"price\">国补后 849 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FavcAeE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGvfBJV\" data-iosurl=\"https://u.jd.com/FOvfHVN\" data-androidurl=\"https://u.jd.com/FGvRSEQ\" data-hosnexturl=\"https://u.jd.com/Fav5uRJ\" data-hosurl=\"https://u.jd.com/FrveWxv\" data-uwpurl=\"https://u.jd.com/FgvNZfD\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6ve23N%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FavxDzi\" data-lpwxurl=\"https://u.jd.com/FgvUegD\"   data-ncid=\"249439\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/510534/13/11187/16012/6aa1b021F5cb12594/0083320320765073.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Apple AirPods 5</span></span><span class=\"card-abstract\"> 搭配无线充电盒 增强续航</span><span class=\"card-controls\"><span class=\"price\">国补后 977 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"9bcf\">京东 11.11 红包 10 月 12 日 20:00 开抢，至高 26888 元无门槛可用：<a href=\"https://u.jd.com/FavN9Th\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGvlUda\" data-iosurl=\"https://u.jd.com/FGvXpZ0\" data-androidurl=\"https://u.jd.com/Favo251\" data-hosnexturl=\"https://u.jd.com/FgvEGDW\" data-hosurl=\"https://u.jd.com/F1vU1EJ\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6vcfJ4%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFGvHJtA%26EA_PTAG%3d17078.27.380\" data-uwpurl=\"https://u.jd.com/FrvXvOG\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrvFpMj%26EA_PTAG%3d17078.27.380\" data-ncid=\"249439\"><strong>点此抢红包</strong></a>。</p><p data-vmark=\"15db\">京东“换新补贴”由系统自动发放，如果点击上方卡片没有弹出，可尝试<strong>反复点击上方卡片</strong> / 换号下单哦。</p><p data-vmark=\"32be\">AirPods 5 采用全新多孔声学架构，具备新一代自适应均衡功能，打造更具沉浸感的音效。突破性的无耳塞式主动降噪功能，<strong>消除外部噪音效果相较 AirPods 4（支持主动降噪）提升最高 50%</strong>，通透模式也更为自然。用户还可使用头部动作回应 Siri。</p><p data-vmark=\"0df4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c033272d-fb80-465e-b993-ad1aa3eccccf.jpg?x-bce-process=image/format,f_auto\" w=\"1009\" h=\"721\" data-weibo=\"0\" data-vmark=\"3ddb\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d12ca2546a442980bf47914423d6b5d640aa7f6bb102ef8d0a06f27a2c5f6b61de2e217fac10e1a324\" class=\"no-alt-img\"></p><p data-vmark=\"1369\">专为 AirPods 5 重新打造的全新多孔声学架构和新一代自适应均衡功能，灵感源自 AirPods Pro 3，适用于更多耳形，可呈现更丰富细腻的音质。</p><p data-vmark=\"0e12\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6586e8c2-5881-435a-a416-42a228e23bdd.jpg?x-bce-process=image/format,f_auto\" w=\"777\" h=\"620\" data-weibo=\"1\" data-vmark=\"a91c\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d17d24ddc8d30897c810115129e6fd08902403511a1effd97a609c2d6fed50a70f2c8cf0f32762ef5b\" class=\"no-alt-img\"></p><p data-vmark=\"4544\">对于有更高需求的用户，配备无线充电盒的 AirPods 5 进一步大幅提升了 AirPods 体验。<strong>AirPods 5 首次为无耳塞式耳机配备了支持音量轻扫功能的力度感应器</strong>，用户可上下轻扫耳机柄来快速调节音量。</p><p data-vmark=\"611a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a920e8dc-be2c-43a9-8c1d-e14469537ef7.jpg?x-bce-process=image/format,f_auto\" w=\"770\" h=\"722\" data-weibo=\"2\" data-vmark=\"08d1\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d129d4481c2e51179290d08fd2ae7ec56cf7334acd30a6d921dd101533b5297de1caf7f988546b10bb\" class=\"no-alt-img\"></p><p data-vmark=\"1cfe\">得益于重新设计的电池，AirPods 5 电池续航能力亦有提升。单次充电后，<strong>启用主动降噪的播放时间最长可达 5 小时</strong>，比 AirPods 4（支持主动降噪）长 1 小时。搭配充电盒使用并启用主动降噪功能时，续航时间最长可达 22 小时。无线充电盒支持 Apple Watch 充电器、Qi 兼容充电器和 USB-C 充电。</p><p data-vmark=\"5e36\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aada9f9f-f6d2-4fea-8d89-dda97c83c173.jpg?x-bce-process=image/format,f_auto\" w=\"799\" h=\"717\" data-weibo=\"3\" data-vmark=\"c82a\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p data-vmark=\"4c95\">新款 AirPods 5 设计以环保为宗旨，整体使用的再生材料占比达到 40%，包括无线充电盒采用 70% 再生塑料，电池采用 100% 再生钴。AirPods 5 整个供应链上的生产过程使用 35% 可再生能源，如风能和太阳能。与其他 Apple 产品一样，其纸质包装采用 100% 纤维基材料，用户在家中即可轻松回收处理。</p><p data-vmark=\"70f8\">IT之家从苹果官方获悉，AirPods 5 还具备升级的防尘、抗汗、抗水性能，<strong>售价 RMB 999</strong>。</p><p data-vmark=\"ffb7\">对于有更高需求的用户，配备无线充电盒的 AirPods 5 具备更长的电池续航时间和耳机柄音量控制功能，<strong>售价为 RMB 1,149</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4Da7kev\" target=\"_blank\" data-wapurl=\"https://u.jd.com/46ajiX0\" data-iosurl=\"https://u.jd.com/4raU3CI\" data-androidurl=\"https://u.jd.com/46afveZ\" data-hosnexturl=\"https://u.jd.com/4GaRKjn\" data-hosurl=\"https://u.jd.com/4raUPOi\" data-uwpurl=\"https://u.jd.com/4GaAIVR\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f4GaXuHZ%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/46axgqd\" data-lpwxurl=\"https://u.jd.com/4Dakafi\"  data-ncid=\"240669\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/508991/23/5637/15808/6aa1af6bF62a0b555/00833203207564db.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Apple AirPods 5</span></span><span class=\"card-abstract\"> 支持主动降噪</span><span class=\"card-controls\"><span class=\"price\">国补后 849 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOv4kbD\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1vFWjl\" data-iosurl=\"https://u.jd.com/FgvmUHL\" data-androidurl=\"https://u.jd.com/F1vRXoc\" data-hosnexturl=\"https://u.jd.com/4OaWo4B\" data-hosurl=\"https://u.jd.com/F6vkouq\" data-uwpurl=\"https://u.jd.com/FDvc1vp\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFDvkh9b%26EA_PTAG%3d17078.27.380\" data-ncid=\"249439\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/510534/13/11187/16012/6aa1b021F5cb12594/0083320320765073.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Apple AirPods 5</span></span><span class=\"card-abstract\"> 搭配无线充电盒 增强续航</span><span class=\"card-controls\"><span class=\"price\">国补后 977 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/011/628.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/628.htm"
+    },
+    {
+      "id": 2396,
+      "title": "宏碁推出“XV273X V”27 英寸显示器：5K 180Hz/2K 330Hz 双模 + 双扬，4699 元",
+      "summary": "IT之家 10 月 11 日消息，宏碁现已在京东上架“XV273X V”27 英寸显示器，该机主打 5K 180Hz/2K 330Hz，定价为 4699 元。 京东宏碁“XV273X V”显示器 4699 元直达链接 该机配备的 Fast IPS 面板支持以 5120x2880 分辨率 180Hz 或 2560x1440 分辨率 330Hz 显示，GtG 响应速度 1ms，峰值亮度 600 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 95% DCI-",
+      "content": "<p data-vmark=\"22ea\">IT之家 10 月 11 日消息，宏碁现已在京东上架“XV273X V”27 英寸显示器，该机主打 5K 180Hz/2K 330Hz，<strong>定价为 4699 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F1vZUKD\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F6vH63y\" data-iosurl=\"https://u.jd.com/FDvRQKj\" data-androidurl=\"https://u.jd.com/F1vAwbC\" data-hosnexturl=\"https://u.jd.com/F1vfhik\" data-hosurl=\"https://u.jd.com/FOvHp8C\" data-uwpurl=\"https://u.jd.com/FavFxrb\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOvV0xT%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FOv5mR7\" data-lpwxurl=\"https://u.jd.com/FGv9wgJ\"   data-ncid=\"249438\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/518581/36/14189/880012/6ab22726Fb54c7c48/0083320320af27f9.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">宏碁“XV273X V”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 4699 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"027b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8353e0ef-cb90-42d3-8185-c7698f60fd5c.png?x-bce-process=image/format,f_auto\" w=\"656\" h=\"1404\" data-weibo=\"0\" data-vmark=\"a8bc\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"a4f7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5a78abd6-145f-47d6-a613-a19d372fd313.png?x-bce-process=image/format,f_auto\" w=\"508\" h=\"1602\" data-weibo=\"1\" data-vmark=\"54d5\" class=\"no-alt-img\"></p><p data-vmark=\"1009\">该机配备的 Fast IPS 面板支持以 5120x2880 分辨率 180Hz 或 2560x1440 分辨率 330Hz 显示，GtG 响应速度 1ms，峰值亮度 600 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 95% DCI-P3 色域。</p><p data-vmark=\"94e7\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，配备双 2 W 扬声器，提供 2 个 HDMI 2.1、1 个 DP 1.4、1 个 3.5mm 音频接口。</p><p data-vmark=\"4b73\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"85af\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d7a974d0-e6b0-4a8c-a5df-8253ad7becbf.png?x-bce-process=image/format,f_auto\" w=\"656\" h=\"1278\" data-weibo=\"2\" data-vmark=\"defb\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/625.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/625.htm"
+    },
+    {
+      "id": 2397,
+      "title": "特朗普将 AI 人工智能改为 SI 超级智能后，马斯克宣布 SpaceXAI 官方账号正式更名 SpaceXSI",
+      "summary": "IT之家 10 月 11 日消息，今日凌晨 4 点，马斯克在社交平台发布一张截图，宣布 SpaceXAI 的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。 参考IT之家此前报道，美东时间 9 月 29 日，美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。 在特朗普宣布将“人工智能”改为“超级智能”后，多位科技领袖在白宫前接受媒体群访",
+      "content": "<p data-vmark=\"1537\">IT之家 10 月 11 日消息，今日凌晨 4 点，马斯克在社交平台发布一张截图，宣布 SpaceXAI 的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。</p><p data-vmark=\"54b9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c48ba2a-faba-4ef8-8c16-190ffbf40a16.jpg\" w=\"1312\" h=\"1325\" data-mpos=\"1,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d17edb3e26ef3a1ab5bb6f25c567753bec862d5680c757b2da2b6b3db6dcc417e9e64f1983425b095d\" data-vmark=\"175d\" class=\"no-alt-img\"></p><p data-vmark=\"4564\">参考IT之家此前报道，美东时间 9 月 29 日，<a href=\"https://www.ithome.com/1/008/693.htm\" target=\"_blank\">美国总统特朗普正式签署行政令</a>，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。</p><p data-vmark=\"ad3c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e1433d09-4f6d-434b-8150-aee2810d6f53.jpg\" w=\"1146\" h=\"1046\" data-vmark=\"00b2\" data-mpos=\"0,2\"  alt=\"image\" data-weibo=\"1\"></p><p data-vmark=\"d8d6\"><a target=\"_blank\" href=\"https://www.ithome.com/1/008/693.htm\">在特朗普宣布将“人工智能”改为“超级智能”后</a>，多位科技领袖在白宫前接受媒体群访，轮到马斯克发言时，他脱口而出“AI（人工智能）”，随即迅速改口“SI（超级智能）”。</p><p data-vmark=\"66fd\">站在一旁的特朗普听到马斯克改口，对马斯克说“谢谢”。特朗普脸上露出微笑，并伸手拍了拍马斯克的肩膀。</p><p data-vmark=\"02a4\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV1vyad6aEKZ&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"403e\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"decb\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/008/693.htm\">特朗普签署行政令把 AI 改叫 SI，推出美国政府对话式问答网站</a>》</p></li><li><p data-vmark=\"5156\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/009/688.htm\">特朗普将“人工智能”改为“超级智能”后，马斯克确认 SpaceXAI 将更名为 SpaceXSI</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/011/620.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/620.htm"
+    },
+    {
+      "id": 2398,
+      "title": "AOC“Q27U4D”27 英寸显示器上架：2K 144Hz QD-OLED 配双扬，2999 元",
+      "summary": "IT之家 10 月 11 日消息，AOC 旗下“Q27U4D”27 英寸显示器现已在京东上架：该机主打 2K 144Hz QD-OLED，定价为 2999 元，部分地区国补后低至 2706.55 元。 京东 AOC“Q27U4D”显示器 2999 元点此访问 该机配备一块 2560x1440 分辨率 144Hz QD-OLED 面板，全屏亮度 200nits、HDR APL 10% 亮度 400nits；色域 100% sRGB / 99% DCI-P3，sRGB 下色偏 Δ",
+      "content": "<p data-vmark=\"e71d\">IT之家 10 月 11 日消息，AOC 旗下“Q27U4D”27 英寸显示器现已在京东上架：该机主打 2K 144Hz QD-OLED，<strong>定价为 2999 元</strong>，部分地区国补后低至 2706.55 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOvc07q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F6vVtsW\" data-iosurl=\"https://u.jd.com/FavRUjI\" data-androidurl=\"https://u.jd.com/FDvNGhs\" data-hosnexturl=\"https://u.jd.com/FGvfrKs\" data-hosurl=\"https://u.jd.com/FavcIXt\" data-uwpurl=\"https://u.jd.com/Fgv0A6a\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFgv7OuF%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FDvBU2I\" data-lpwxurl=\"https://u.jd.com/FOvJ3lY\"   data-ncid=\"249431\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/531817/4/3793/167167/6ab4c5f5F2435e200/00834384385af2a4.png\" w=\"1080\" h=\"1080\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC“Q27U4D”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2999 元</span><span class=\"card-btn-deep\">点此访问</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"18d9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7ba7b7e1-3dfe-48a3-87e0-6dd4b09774bd.png?x-bce-process=image/format,f_auto\" w=\"794\" h=\"1206\" data-weibo=\"0\" data-vmark=\"a004\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"b054\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e7b50df5-5587-4edf-8c65-dcd7e9a5c240.png?x-bce-process=image/format,f_auto\" w=\"600\" h=\"1062\" data-weibo=\"1\" data-vmark=\"975f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"fb21\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/178e87c5-2f6c-47ea-8629-45bbea0fd9be.png?x-bce-process=image/format,f_auto\" w=\"612\" h=\"786\" data-weibo=\"2\" data-vmark=\"94e3\" class=\"no-alt-img\"></p><p data-vmark=\"ad41\">该机配备一块 2560x1440 分辨率 144Hz QD-OLED 面板，全屏亮度 200nits、HDR APL 10% 亮度 400nits；色域 100% sRGB / 99% DCI-P3，sRGB 下色偏 ΔE＜1；拥有 0.03ms 灰阶 (GtG) 响应时间与 1.5M:1 静态对比度，支持 VRR 可变刷新率、MBR 低运动模糊技术。</p><p data-vmark=\"6b1b\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 HDMI 2.1 TMDS、DisplayPort 1.4、3.5mm 音频输出插孔，集成 USB Hub，提供全功能 USB-C 上行 (96W PD-out)、4 个 USB 10Gbps 下行等接口，支持 KVM 切换；集成 2 个扬声器。</p><p style=\"text-align: center;\" data-vmark=\"5af5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c962b7f8-6486-4970-aac1-5e28cbdeba35.png?x-bce-process=image/format,f_auto\" w=\"640\" h=\"990\" data-weibo=\"3\" data-vmark=\"d85f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"ef9a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/865e972e-2f10-43b2-bac3-ecf82f0f25ed.png?x-bce-process=image/format,f_auto\" w=\"618\" h=\"1252\" data-weibo=\"4\" data-vmark=\"5497\" class=\"no-alt-img\"></p><p data-vmark=\"a58b\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"0c7c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/68ea02ee-e8dc-41e2-8563-3fc59088c419.png?x-bce-process=image/format,f_auto\" w=\"728\" h=\"1444\" data-weibo=\"5\" data-vmark=\"a1c2\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/619.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/619.htm"
+    },
+    {
+      "id": 2399,
+      "title": "黑爵推出 AM5 镁合金无线鼠标：PAW3950 传感器、8KHz 回报率，499 元",
+      "summary": "IT之家 10 月 11 日消息，黑爵现已在京东上架 AM5 镁合金无线鼠标，该鼠标配备 PAW3950 传感器，提供 8KHz 回报率，定价为 499 元。 京东黑爵 AM5 镁合金无线鼠标 499 元直达链接 该鼠标整体尺寸为 117.92x61.95x39.24 mm，外壳采用镁合金材质，辅以高温烘烤漆面工艺。鼠标内使用轻量化金属骨架设计，整体重量约 52g。 该鼠标搭载 Nordic 52840 主控芯片与 PAW3950 传感器，匹配 7000 万次寿命欧姆龙光微动",
+      "content": "<p data-vmark=\"ecc0\">IT之家 10 月 11 日消息，黑爵现已在京东上架 AM5 镁合金无线鼠标，该鼠标配备 PAW3950 传感器，提供 8KHz 回报率，<strong>定价为 499 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgvJqJe\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1v22ye\" data-iosurl=\"https://u.jd.com/F1vHqrt\" data-androidurl=\"https://u.jd.com/FavBKLF\" data-hosnexturl=\"https://u.jd.com/FDv28Ye\" data-hosurl=\"https://u.jd.com/FGvBxkd\" data-uwpurl=\"https://u.jd.com/FGvnuBb\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFGvWeoO%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/F6vAsN3\" data-lpwxurl=\"https://u.jd.com/FGvnvrl\"   data-ncid=\"249428\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526393/31/12380/201254/6aba3f25Fef3d97c0/008332032051b170.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">黑爵 AM5 镁合金无线鼠标</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"59fb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8497ba4d-a036-4aa6-9650-644b50150d09.png?x-bce-process=image/format,f_auto\" w=\"662\" h=\"1150\" data-weibo=\"0\" data-vmark=\"16e1\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"033d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/08aceed1-a06e-4d88-9cef-c8e20c6f2bf8.png?x-bce-process=image/format,f_auto\" w=\"656\" h=\"1170\" data-weibo=\"1\" data-vmark=\"c8c3\" class=\"no-alt-img\"></p><p data-vmark=\"e76b\">该鼠标整体尺寸为 117.92x61.95x39.24 mm，外壳采用镁合金材质，辅以高温烘烤漆面工艺。鼠标内使用轻量化金属骨架设计，整体重量约 52g。</p><p style=\"text-align: center;\" data-vmark=\"29a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/268208ed-c4d4-49e0-a8c8-852864e4cb38.png?x-bce-process=image/format,f_auto\" w=\"650\" h=\"1256\" data-weibo=\"2\" data-vmark=\"d7d8\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"787a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5931ec86-51fa-4715-a94d-51c665811311.png?x-bce-process=image/format,f_auto\" w=\"610\" h=\"956\" data-weibo=\"3\" data-vmark=\"7525\" class=\"no-alt-img\"></p><p data-vmark=\"7f96\">该鼠标搭载 Nordic 52840 主控芯片与 PAW3950 传感器，匹配 7000 万次寿命欧姆龙光微动，按键部分采用了塑胶弹力臂结构，鼠标在 2.4G 模式下的轮询率最高可达 8KHz，响应延迟约 0.125 ms。</p><p data-vmark=\"83c0\">该产品支持 USB 有线、2.4G 无线及 BT5.0 蓝牙三种连接模式。内部装有 350 mAh 锂电池，配合主控算法的功耗优化，在 1KHz 轮询率模式下可提供约 126 小时的有效续航时间。</p><p data-vmark=\"6e16\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"f791\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/03d4ae0e-0799-454e-8df6-176da5d55583.png?x-bce-process=image/format,f_auto\" w=\"932\" h=\"1386\" data-weibo=\"4\" data-vmark=\"125b\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/614.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/614.htm"
+    },
+    {
+      "id": 2400,
+      "title": "马斯克称尽管自己目前不知道如何制造微芯片，但一定会弄清楚",
+      "summary": "IT之家 10 月 11 日消息，据彭博社报道，埃隆 · 马斯克（Elon Musk）表示，鉴于其旗下公司在制造定制设备方面的专长，他相信自己的公司很可能会“找到比任何人都更好地制造芯片的方法”。 在得克萨斯州奥斯汀的特斯拉超级工厂外，马斯克向到场的客户与投资人坦言，尽管自己目前“不知道如何制造微芯片，但我们（一定）会弄清楚”。 在周六通过线上直播参与 X Takeover 活动时，他特别提到，此前在参观竞争对手的设施时，并没有看到多少定制化设备；而他的企业在制造这些设备方面",
+      "content": "<p data-vmark=\"6167\">IT之家 10 月 11 日消息，据彭博社报道，埃隆 · 马斯克（Elon Musk）表示，鉴于其旗下公司在制造定制设备方面的专长，他相信自己的公司很可能会“找到比任何人都更好地制造芯片的方法”。</p><p data-vmark=\"d58e\">在得克萨斯州奥斯汀的特斯拉超级工厂外，马斯克向到场的客户与投资人坦言，尽管自己目前“<strong>不知道如何制造微芯片</strong><strong>，但我们（一定）会弄清楚</strong>”。</p><p data-vmark=\"af05\">在周六通过线上直播参与 X Takeover 活动时，他特别提到，此前在参观竞争对手的设施时，并没有看到多少定制化设备；而他的企业在制造这些设备方面拥有丰富经验，这使他们能够改进制造流程。</p><p data-vmark=\"fee8\">“我认为可以说，这（指芯片制造）是世界上最难做的事情之一”马斯克表示，“<strong>我绝非盲目自大或自命不凡，但我认为我们很可能会找到比任何人都更好地制造芯片的方法。坦白讲，我不确定这需要多久，可能要耗费我们数年时间</strong>。”</p><p data-vmark=\"b8f0\">目前，马斯克正计划通过特斯拉、SpaceX 与英特尔的合资模式，在得克萨斯州格莱姆斯投资兴建一座名为 Terafab 的芯片制造工厂，初期投资额预计将超过 150 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,006.03 亿元人民币）</span>。</p><p data-vmark=\"c379\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f980\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/010/241.htm\">马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营</a>》</p></li><li><p data-vmark=\"b94b\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/011/201.htm\">相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难</a>》</p></li><li><p data-vmark=\"73b7\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/010/202.htm\">英特尔 CEO 陈立武：将继续参与马斯克 Terafab 芯片项目</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/011/613.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/613.htm"
+    },
+    {
+      "id": 2401,
+      "title": "盛色推出“S65u”23.8 英寸显示器：4K 160Hz、白色边框 / 支架，1796 元",
+      "summary": "IT之家 10 月 11 日消息，盛色现已在京东上架型号为“S65u”的 23.8 英寸显示器，该机主打 4K 160Hz，定价为 1796 元，部分地区国补后低至 1598.4 元。 京东 SANC 盛色 S65u 显示器 1796 元领 20 元券 该机配备一块 3840x2160 分辨率 160Hz IPS 面板，静态对比度 1000:1，峰值亮度 400 尼特，覆盖 99% sRGB 色域。 该机采用白色边框、白色支架，其支架支持升降 / 倾斜 / 旋转，显示器本体支",
+      "content": "<p data-vmark=\"e1f3\">IT之家 10 月 11 日消息，盛色现已在京东上架型号为“S65u”的 23.8 英寸显示器，该机主打 4K 160Hz，<strong>定价为 1796 元</strong>，部分地区国补后低至 1598.4 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F1v3Hru\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOvpe1p\" data-iosurl=\"https://u.jd.com/FDvWPyu\" data-androidurl=\"https://u.jd.com/Fav3wPp\" data-hosnexturl=\"https://u.jd.com/F1vlF1h\" data-hosurl=\"https://u.jd.com/FavBmFa\" data-uwpurl=\"https://u.jd.com/FOvPPbh\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6vJYRR%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FrvEEKC\" data-lpwxurl=\"https://u.jd.com/F6vPRNa\"   data-ncid=\"249420\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/540976/33/3985/160428/6ac84fbdF9ad40f03/00833203204e259e.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> SANC 盛色 S65u 显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1796 元</span><span class=\"card-btn-deep\">领 20 元券</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"77df\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d76ac684-0a33-49a9-a582-591bcb41f595.png?x-bce-process=image/format,f_auto\" w=\"754\" h=\"1428\" data-weibo=\"0\" data-vmark=\"7610\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"566f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0bb88273-ad7c-46e3-a401-010a0a2fbb3f.png?x-bce-process=image/format,f_auto\" w=\"596\" h=\"1344\" data-weibo=\"1\" data-vmark=\"e4e8\" class=\"no-alt-img\"></p><p data-vmark=\"87da\">该机配备一块 3840x2160 分辨率 160Hz IPS 面板，静态对比度 1000:1，峰值亮度 400 尼特，覆盖 99% sRGB 色域。</p><p data-vmark=\"0fb1\">该机采用白色边框、白色支架，其支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI、2 个 DP、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"8e82\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1dbb5b2c-b0d7-4fd4-9e0d-5da42b08bbda.png?x-bce-process=image/format,f_auto\" w=\"708\" h=\"1056\" data-weibo=\"2\" data-vmark=\"40a2\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"4598\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8e997d49-f95e-4f2c-8e13-3c3e5138407a.png?x-bce-process=image/format,f_auto\" w=\"702\" h=\"1334\" data-weibo=\"3\" data-vmark=\"e5d5\" class=\"no-alt-img\"></p><p data-vmark=\"19ec\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"720d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/eed24b04-bce7-44ae-8ff4-18ce680cd746.png?x-bce-process=image/format,f_auto\" w=\"774\" h=\"1356\" data-weibo=\"4\" data-vmark=\"fc78\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/011/610.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/610.htm"
+    },
+    {
+      "id": 2402,
+      "title": "Bosgame 推出 E7 迷你主机：酷睿 3 100U 处理器、16GB 内存、双网口，449 欧元",
+      "summary": "IT之家 10 月 11 日消息，Bosgame 现已在海外市场推出 E7 迷你主机。该产品采用英特尔 Raptor Lake-U Refresh 平台。从外观来看，该产品应该不是自主设计，而是 OEM 贴牌。 据介绍，这款迷你主机搭载英特尔酷睿 3 100U 处理器，采用 6 核心、8 线程设计，最高睿频可达 4.7GHz。 同时，该迷你主机尺寸为 128*129*44mm，提供 16GB 内存和 512GB 固态硬盘，前者最高支持扩容至 64GB，并提供 2 个 M.2 ",
+      "content": "<p data-vmark=\"65ca\">IT之家 10 月 11 日消息，Bosgame 现已在海外市场推出 E7 迷你主机。该产品采用英特尔 Raptor Lake-U Refresh 平台。从外观来看，该产品应该不是自主设计，而是 OEM 贴牌。</p><p style=\"text-align: center;\" data-vmark=\"9849\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/db9b6d3b-b4fa-4ba1-80e1-60becbb73839.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1079\" data-weibo=\"0\" data-mpos=\"0,2\"  data-vmark=\"aec3\" class=\"no-alt-img\"></p><p data-vmark=\"b1f3\">据介绍，<strong>这款迷你主机搭载英特尔酷睿 3 100U 处理器</strong>，采用 6 核心、8 线程设计，最高睿频可达 4.7GHz。</p><p data-vmark=\"978a\">同时，该迷你主机尺寸为 128*129*44mm，<strong>提供 16GB 内存和 512GB 固态硬盘</strong>，前者最高支持扩容至 64GB，并提供 2 个 M.2 2280 SSD 插槽，方便扩展存储空间。</p><p style=\"text-align: center;\" data-vmark=\"8ba6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bf9c305e-84b2-475e-b3d5-f40f7d2d0718.jpg?x-bce-process=image/format,f_auto\" w=\"1435\" h=\"1500\" data-weibo=\"1\" data-vmark=\"6203\" class=\"no-alt-img\"></p><p data-vmark=\"986c\">此外，该迷你主机提供 USB 3.2 Gen 2 Type-A、USB Type-C、HDMI、DisplayPort、USB 2.0 Type-A 以及双 RJ-45 等接口，售价 449 欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,370 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/011/608.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/608.htm"
+    },
+    {
+      "id": 2403,
+      "title": "一加 16 官宣首发「高精度大师陀螺仪」：至高 800Hz 采样率，超越游戏主机手柄",
+      "summary": "IT之家 10 月 11 日消息，一加手机官方今日宣布，一加 16 将首发高精度大师陀螺仪，支持至高 800Hz 陀螺仪采样率，宣称“拉枪更快、跟枪更准、压枪更稳”，核心规格超越游戏主机手柄陀螺仪。 一加中国区总裁李杰还介绍称，一加 16 将首发自研「电竞网络芯片 G3」，专为游戏网络低时延设计，各个场景游戏时延都更低；首发「抗干扰电竞天线」，即使手指握住天线，网络也不波动；采用 360° 环绕式天线设计，宿舍、咖啡馆、地铁这类拥塞网络场景打游戏照样稳。 根据规划，一加 16",
+      "content": "<p data-vmark=\"7f6d\">IT之家 10 月 11 日消息，一加手机官方今日宣布，一加 16 将首发高精度大师陀螺仪，<strong>支持至高 800Hz 陀螺仪采样率</strong>，宣称“拉枪更快、跟枪更准、压枪更稳”，核心规格超越游戏主机手柄陀螺仪。</p><p style=\"text-align: center;\" data-vmark=\"db7c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/922da7ff-983d-45bf-84a2-a14a12daacc5.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d18fe105267c4d73e6e0dfda9bff3efa860f2838f2e6c59ff8e63b8c3a6b838f2f4ac525df03e1a51a\" data-vmark=\"919e\" class=\"no-alt-img\"></p><p data-vmark=\"511f\">一加中国区总裁李杰还介绍称，一加 16 将首发自研「电竞网络芯片 G3」，专为游戏网络低时延设计，各个场景游戏时延都更低；首发「抗干扰电竞天线」，即使手指握住天线，网络也不波动；采用 360° 环绕式天线设计，宿舍、咖啡馆、地铁这类拥塞网络场景打游戏照样稳。</p><p style=\"text-align: center;\" data-vmark=\"edf3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/92b2e8f7-52ee-4740-9ca7-66242cc5e693.jpg\" w=\"1080\" h=\"1440\" data-vmark=\"0915\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p data-vmark=\"e691\">根据规划，一加 16 手机将于 10 月 12 日 19:00 发布，IT之家整理新机已曝光配置如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2809\">6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO 物理四等边；</p></li><li><p data-vmark=\"d1e6\">前置 50Mp，后置 200Mp HPE 主摄 +50Mp 超广角 +50Mp IMX882 3X 潜望长焦；</p></li><li><p data-vmark=\"df37\">骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版处理器），9000mAh 电池 +100W 有线充 +50W 无线充，</p></li><li><p data-vmark=\"783c\">相对大尺寸 X 轴马达，大师对称双扬，3D 超声波指纹，IP66/IP68/IP69/IP69K，USB 3.2 Gen1</p></li></ul><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"dc2f\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4813\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/011/598.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/598.htm"
+    },
+    {
+      "id": 2404,
+      "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
+      "summary": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD 售价 49999 元。 这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55",
+      "content": "<p data-vmark=\"8267\">IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD <strong>售价 49999 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d7b6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dd17bb2b-596f-4197-a7b8-d9892256b015.jpg?x-bce-process=image/format,f_auto\" w=\"990\" h=\"1347\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"abe0\" class=\"no-alt-img\"></p><p data-vmark=\"edf5\">这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55 TOPS，总算力 131TOPS。</p><p data-vmark=\"3e24\">这款迷你工作站标配 192GB LPDDR5X 四通道内存，配备 3 个 PCIe4.0 x4 2280 M.2 插槽。</p><p style=\"text-align: center;\" data-vmark=\"bffa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/df2378f4-ce1a-4ebd-90ac-80371c5944f6.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1104\" data-weibo=\"1\" data-vmark=\"b729\" class=\"no-alt-img\"></p><p data-vmark=\"f565\">这款迷你工作站配备 2 个 USB4 40Gbps Type-C 接口、3 个 USB 3.2 Gen2 Type-A 接口以及 2 个 USB 2.0 接口；1 个 HDMI 2.1 接口 +1 个 DP 2.0 接口；板载 2 个 2.5G 有线网口，此外支持 WIFI 7 与蓝牙 5.4，搭载指纹识别模块。</p><p style=\"text-align: center;\" data-vmark=\"f355\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e110663e-952b-4554-97f2-7d83ac78f072.jpg?x-bce-process=image/format,f_auto\" w=\"990\" h=\"816\" data-weibo=\"2\" data-vmark=\"deb0\" class=\"no-alt-img\"></p><p data-vmark=\"535b\">这款迷你工作站实体按键可一键切换三档功耗模式（55W 静音模式、85W 均衡模式、120W 狂暴模式），TDP 峰值 160W；支持 4 台满配串联 640GB 显存，可运行超大量化大模型。</p><p style=\"text-align: center;\" data-vmark=\"7b3b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d91394b8-c75e-4af8-945b-697b68f250a1.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1092\" data-weibo=\"3\" data-vmark=\"1a9f\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGnhSH0\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FrnhF7V\" data-iosurl=\"https://u.jd.com/FGvsF28\" data-androidurl=\"https://u.jd.com/FDn5oOM\" data-hosnexturl=\"https://u.jd.com/F6neYBW\" data-hosurl=\"https://u.jd.com/FOnxoKZ\" data-uwpurl=\"https://u.jd.com/FOvwgqo\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFavbRZ0%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FavuTuX\" data-lpwxurl=\"https://u.jd.com/FgvdJV4\"   data-ncid=\"249391\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/530653/24/6347/80860/6ab4ba38F965341af/0083320320e4db4f.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">磐镭 YO2 AMD 锐龙 AI Max+ PRO 495 192GB+2TB</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">49999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/011/587.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/011/587.htm"
+    },
+    {
+      "id": 2405,
+      "title": "New mini PC with Intel SoC and up to 64 GB RAM launches on Amazon",
+      "summary": "The Bosgame E7 is a new mini PC now available on Amazon, powered by an Intel SoC and supporting up to 64 GB of RAM. The system ships with a 512 GB SSD out of the box.",
+      "content": "The Bosgame E7 is a new mini PC now available on Amazon, powered by an Intel SoC and supporting up to 64 GB of RAM. The system ships with a 512 GB SSD out of the box.",
+      "link": "https://www.notebookcheck.net/New-mini-PC-with-Intel-SoC-and-up-to-64-GB-RAM-launches-on-Amazon.1421375.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-mini-PC-with-Intel-SoC-and-up-to-64-GB-RAM-launches-on-Amazon.1421375.0.html"
+    },
     {
       "id": 2310,
       "title": "PS3安卓模拟器ARMSX3上架Google Play 运行轻量游戏至少需8GB内存",
@@ -1002,6 +1335,19 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/PlayStation-creator-predicts-AI-generated-entertainment-by-2029-as-he-questions-gaming-s-technological-progress.1420349.0.html"
+    },
+    {
+      "id": 2388,
+      "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
+      "summary": "英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。 阅读全文",
+      "content": "<p>英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1581576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1581576.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1581576.htm"
     },
     {
       "id": 2234,
@@ -2052,6 +2398,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Intel-prepares-another-Raptor-Lake-refresh-for-2027-Gigabyte-confirms.1420444.0.html"
+    },
+    {
+      "id": 2406,
+      "title": "RTX 5060-powered gaming laptop with 16 GB RAM sees $650 discount",
+      "summary": "Deal | Courtesy of an ongoing sale on Best Buy, the Lenovo LOQ Essential gaming laptop with a 15.6-inch 144 Hz display and Nvidia GeForce RTX 5060 GPU is now available with a sizeable $650 discount.",
+      "content": "Deal | Courtesy of an ongoing sale on Best Buy, the Lenovo LOQ Essential gaming laptop with a 15.6-inch 144 Hz display and Nvidia GeForce RTX 5060 GPU is now available with a sizeable $650 discount.",
+      "link": "https://www.notebookcheck.net/RTX-5060-powered-gaming-laptop-with-16-GB-RAM-sees-650-discount.1420180.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-09",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/RTX-5060-powered-gaming-laptop-with-16-GB-RAM-sees-650-discount.1420180.0.html"
     },
     {
       "id": 1993,
@@ -3769,6 +4130,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Asus-launches-MacBook-Pro-alternatives-with-RTX-Spark-4K-120Hz-OLED-display-128-GB-RAM-and-2-TB-SSD.1418561.0.html"
+    },
+    {
+      "id": 2407,
+      "title": "Affordable laptop with 16 GB RAM gets massive 57% discount",
+      "summary": "Deal | Courtesy of an ongoing sale on Lenovo's official online store, the well-equipped IdeaPad Slim 5x laptop with 16 GB RAM and a powerful ARM-based processor is now available with a sizable $850 discount.",
+      "content": "Deal | Courtesy of an ongoing sale on Lenovo's official online store, the well-equipped IdeaPad Slim 5x laptop with 16 GB RAM and a powerful ARM-based processor is now available with a sizable $850 discount.",
+      "link": "https://www.notebookcheck.net/Affordable-laptop-with-16-GB-RAM-gets-massive-57-discount.1419270.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-laptop-with-16-GB-RAM-gets-massive-57-discount.1419270.0.html"
     },
     {
       "id": 2006,
