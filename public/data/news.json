@@ -1,7 +1,508 @@
 {
-  "updatedAt": "2026-10-13",
-  "total": 2648,
+  "updatedAt": "2026-10-14",
+  "total": 2686,
   "list": [
+    {
+      "id": 2649,
+      "title": "铭芯启睿完成首款高密度、大容量1T4R 1Gb RRAM芯片流片 正在推进验证",
+      "summary": "铭芯启睿（MemSilicon）宣布完成基于1TnR技术路线的首代高密度、大容量RRAM芯片“泰山一号（MountTai 2026）”流片。 阅读全文",
+      "content": "<p>铭芯启睿（MemSilicon）宣布完成基于1TnR技术路线的首代高密度、大容量RRAM芯片“泰山一号（MountTai 2026）”流片。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582114.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582114.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582114.htm"
+    },
+    {
+      "id": 2650,
+      "title": "Yandex数据中心遭袭致俄罗斯数字生活瘫痪：邮箱、打车、门禁受影响，全面恢复还需数月",
+      "summary": "10月14日，据《金融时报》报道，乌克兰对俄罗斯科技巨头Yandex数据中心的袭击，已使俄罗斯日常生活的诸多关键环节陷入混乱，扰乱了从电子邮件、出租车应用，到约会网站，甚至莫斯科公寓楼电子门禁在内的多项服务。 阅读全文",
+      "content": "<p>10月14日，据《金融时报》报道，乌克兰对俄罗斯科技巨头Yandex数据中心的袭击，已使俄罗斯日常生活的诸多关键环节陷入混乱，扰乱了从电子邮件、出租车应用，到约会网站，甚至莫斯科公寓楼电子门禁在内的多项服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582108.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582108.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582108.htm"
+    },
+    {
+      "id": 2651,
+      "title": "AI设备订单涌入 ASML称2027至2028年产能仍难满足客户需求",
+      "summary": "荷兰光刻设备制造商ASML表示，人工智能带来的芯片制造设备需求持续升温，按目前规划，公司2027年和2028年的供应能力都不足以完全满足客户需求，正研究进一步扩大产能。首席执行官克里斯托夫·富凯称，客户讨论已逐渐从2027年延伸至更远年份，公司不仅看到大量面向2028年的订单需求，也有客户开始询问2029年甚至2030年的供货安排。 阅读全文",
+      "content": "<p>荷兰光刻设备制造商ASML表示，人工智能带来的芯片制造设备需求持续升温，按目前规划，公司2027年和2028年的供应能力都不足以完全满足客户需求，正研究进一步扩大产能。首席执行官克里斯托夫·富凯称，客户讨论已逐渐从2027年延伸至更远年份，公司不仅看到大量面向2028年的订单需求，也有客户开始询问2029年甚至2030年的供货安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582096.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582096.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582096.htm"
+    },
+    {
+      "id": 2652,
+      "title": "英伟达发布全新帧生成模型预设C 游戏性能最高提升35%",
+      "summary": "除了更新DLSS 5模型外，英伟达还发布了一种全新的帧生成模型，该模型将针对“性能模式”，旨在提高RTX 50和RTX 40系显卡的游戏表现，游戏性能最高可提升35%，虽然游戏画质略微下降。 阅读全文",
+      "content": "<p>除了更新DLSS 5模型外，英伟达还发布了一种全新的帧生成模型，该模型将针对“性能模式”，旨在提高RTX 50和RTX 40系显卡的游戏表现，游戏性能最高可提升35%，虽然游戏画质略微下降。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1582094.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1582094.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1582094.htm"
+    },
+    {
+      "id": 2653,
+      "title": "几十元笔记本清灰变上千元维修：大学生网购“官方售后”遭遇连环套",
+      "summary": "小刘在杭州上大学，9月上旬她和同学来到杭州拱墅区的一家修理店打算给笔记本清灰，可最后她们各花了上千元的维修费用。 阅读全文",
+      "content": "<p>小刘在杭州上大学，9月上旬她和同学来到杭州拱墅区的一家修理店打算给笔记本清灰，可最后她们各花了上千元的维修费用。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582088.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582088.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582088.htm"
+    },
+    {
+      "id": 2654,
+      "title": "抖音鸿蒙版被指屏蔽《人民日报》涉尊界报道 实测系适配问题 华为同步回应",
+      "summary": "近日网上流传出一则说法，称使用鸿蒙系统的手机看不到《人民日报》抖音账号发布的涉及尊界V800制动踏板断裂相关内容的作品，不少网友由此怀疑相关内容遭到了平台定向屏蔽。 阅读全文",
+      "content": "<p>近日网上流传出一则说法，称使用鸿蒙系统的手机看不到《人民日报》抖音账号发布的涉及尊界V800制动踏板断裂相关内容的作品，不少网友由此怀疑相关内容遭到了平台定向屏蔽。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582086.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582086.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582086.htm"
+    },
+    {
+      "id": 2655,
+      "title": "三大CPU巨头集体涨价 Intel、AMD、高通最高涨20%",
+      "summary": "CPU市场近期正迎来新一轮涨价潮。英特尔、高通、AMD三大厂商接力调价，涨价压力从晶圆制造端一路传导至PC、服务器及终端整机。英特尔自9月1日起率先调价，这是其自去年底以来的第三轮涨价。 阅读全文",
+      "content": "<p>CPU市场近期正迎来新一轮涨价潮。英特尔、高通、AMD三大厂商接力调价，涨价压力从晶圆制造端一路传导至PC、服务器及终端整机。英特尔自9月1日起率先调价，这是其自去年底以来的第三轮涨价。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582078.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582078.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582078.htm"
+    },
+    {
+      "id": 2656,
+      "title": "美媒关注长鑫技术突破：为何它能让全球存储巨头集体下挫",
+      "summary": "CNBC周二发文，关注了长鑫存储取得的技术突破。文章称，长鑫存储的知名度可能没有那么高，但它的技术突破却导致全球存储巨头的股票集体大跌。 阅读全文",
+      "content": "<p>CNBC周二发文，关注了长鑫存储取得的技术突破。文章称，长鑫存储的知名度可能没有那么高，但它的技术突破却导致全球存储巨头的股票集体大跌。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582074.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582074.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582074.htm"
+    },
+    {
+      "id": 2657,
+      "title": "微软据悉讨论在Azure云业务部门削减至少20%成本",
+      "summary": "据知情人士透露，微软已讨论对其 Azure 云服务器租赁业务进行大幅成本削减。Azure 部门总裁吉里什·巴布拉尼（Girish Bablani）近几周指示其拥有约 11500 名员工的团队高管，设法将成本至少降低 20%；不过，尚不清楚这种削减措施是否包含裁员。 阅读全文",
+      "content": "<p>据知情人士透露，微软已讨论对其 Azure 云服务器租赁业务进行大幅成本削减。Azure 部门总裁吉里什·巴布拉尼（Girish Bablani）近几周指示其拥有约 11500 名员工的团队高管，设法将成本至少降低 20%；不过，尚不清楚这种削减措施是否包含裁员。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582068.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582068.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582068.htm"
+    },
+    {
+      "id": 2658,
+      "title": "美国司法部称朝鲜远程IT人员渗透逾70家企业 德州查获187台设备",
+      "summary": "美国司法部宣布，美国执法部门近日针对朝鲜远程IT人员以欺诈方式进入美国企业的网络展开协同行动，涉及逮捕、起诉以及搜查“笔记本农场”。检方称，相关人员利用盗取或伪造的美国身份申请远程职位，至少影响70家美国企业，并为相关IT人员带来约300万美元收入；这笔资金据信流向朝鲜受制裁实体。 阅读全文",
+      "content": "<p>美国司法部宣布，美国执法部门近日针对朝鲜远程IT人员以欺诈方式进入美国企业的网络展开协同行动，涉及逮捕、起诉以及搜查“笔记本农场”。检方称，相关人员利用盗取或伪造的美国身份申请远程职位，至少影响70家美国企业，并为相关IT人员带来约300万美元收入；这笔资金据信流向朝鲜受制裁实体。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582056.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582056.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582056.htm"
+    },
+    {
+      "id": 2659,
+      "title": "币安将在11月10日关闭矿池及相关服务",
+      "summary": "加密货币交易所币安发布公告宣布，将在 2026 年 11 月 10 日 15:00 (UTC+8) 停止币安矿池及其相关服务。受影响的项目包括币安矿池宝、云算力、交易加速以及矿池 API、Telegram 算力提醒以及邮件通知等功能。 阅读全文",
+      "content": "<p>加密货币交易所币安发布公告宣布，将在 2026 年 11 月 10 日 15:00 (UTC+8) 停止币安矿池及其相关服务。受影响的项目包括币安矿池宝、云算力、交易加速以及矿池 API、Telegram 算力提醒以及邮件通知等功能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582048.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582048.htm"
+    },
+    {
+      "id": 2660,
+      "title": "Ledger 证实其硬件钱包被植入间谍芯片",
+      "summary": "提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池",
+      "content": "提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池同时为间谍芯片和 Ledger X 供电。恶意电路是一颗基于 Arm Cortex-M4 架构、配备 128 KB 闪存以及采用 UFQFPN32 封装的 ST STM32G431KBU6 芯片，位于电池和天线下方。攻击者在微控制器单元（MCU）旁边安装了一个微型 eSIM，使用一个屏蔽式 LTE 模块发送信号。Tibane Labs 还发现攻击者使用了多个版本，第二种篡改的硬件钱包使用了原装电池供电，间谍芯片安装在 OLED 显示屏下方原本用于放置泡沫衬垫的空间内。攻击者利用间谍芯片通过 OCR 技术读取硬件钱包屏幕上显示的字体，在受害者设置过程中窃取密钥。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85604",
+      "source": "Solidot",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85604"
+    },
+    {
+      "id": 2661,
+      "title": "华为 MateBook 鸿蒙电脑获 HarmonyOS 7.0.0.111 升级，新增 3D 壁纸、多人互助通信共享等功能",
+      "summary": "IT之家 10 月 14 日消息，华为官方今日宣布，MateBook 鸿蒙电脑开启了 HarmonyOS 7.0.0.111SP7 版本升级。此次升级覆盖 MateBook Pro / Pro S / 14 鸿蒙版 / Fold 非凡大师，新增 3D 影像壁纸、多人互助通信共享等功能，同时支持设置个性化字体和图标、外接光驱刻录光盘等功能。 ▲ IT之家图赏：华为 MateBook 14 鸿蒙版实拍 IT之家附版本更新日志如下： 【亮点推荐】 新增 3D 影像壁纸功能，双指滑动",
+      "content": "<p data-vmark=\"71e9\">IT之家 10 月 14 日消息，华为官方今日宣布，MateBook 鸿蒙电脑开启了 <strong>HarmonyOS 7.0.0.111SP7</strong> 版本升级。此次升级覆盖 MateBook Pro / Pro S / 14 鸿蒙版 / Fold 非凡大师，新增 3D 影像壁纸、多人互助通信共享等功能，同时支持设置个性化字体和图标、外接光驱刻录光盘等功能。</p><p style=\"text-align: center;\" data-vmark=\"b63d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/49c6e49a-c1dd-41f4-88d5-4856718bf8c8.jpg\" w=\"1440\" h=\"960\" data-vmark=\"6bdc\" data-weibo=\"0\" class=\"no-alt-img\"></p><figcaption>▲ IT之家图赏：华为 MateBook 14 鸿蒙版实拍</figcaption><p data-vmark=\"8569\">IT之家附版本更新日志如下：</p><blockquote><h3 data-vmark=\"1ab5\">【亮点推荐】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"034d\">新增 3D 影像壁纸功能，双指滑动锁屏界面，屏幕可实时进行响应，呈现 3D 效果 (设置&gt; 桌面和个性化 &gt; 壁纸 &gt; 3D 影像)。</p></li></ul><h3 data-vmark=\"d8c5\">【图库】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2d4d\">新增“时刻”功能，可根据时间、主题或场景，自动聚合精华照片、视频，生成精彩时刻。</p></li></ul><h3 data-vmark=\"228d\">【设置】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"bc7d\">支持字体和图标的个性化设置 (设置&gt; 桌面和个性化 &gt; 图标 / 字体样式)。</p></li></ul><h3 data-vmark=\"e9da\">【系统】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8535\">1. 支持外接光驱刻录光盘。</p></li><li><p data-vmark=\"4cab\">2. 优化隔空手势功能，提升使用体验。</p></li><li><p data-vmark=\"5862\">3. 提升整机系统稳定性和性能，为您提供更流畅的操作体验。</p></li></ul><h3 data-vmark=\"73bf\">【音效】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8d11\">优化浏览网页时麦克风拾音效果。</p></li></ul><h3 data-vmark=\"33f9\">【桌面】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2bc3\">优化部分场景粒子动效显示效果。</p></li></ul><h3 data-vmark=\"f684\">【小艺】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8129\">点击右下角小艺球由打开小艺小窗变更为打开小艺大窗口，方便您使用更多小艺功能。</p></li></ul><h3 data-vmark=\"29ad\">【安全】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ea8a\">合入 2026 年 10 月安全补丁，增强设备系统安全。</p></li></ul><h3 data-vmark=\"010f\">【笔记】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"6698\">修复“全景智记”跨设备协同场景下，从电脑切换至手机录音时，录音内容不转写的问题。</p></li></ul><h3 data-vmark=\"a5cd\">【文件管理】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"108a\">修复预览打开云盘图片不支持翻页的问题。</p></li></ul></blockquote><p data-vmark=\"36d2\">需要注意的是，多人互助通信共享功能并未体现在更新日志中，但华为官方账号确认了该功能的存在。</p><p style=\"text-align: center;\" data-vmark=\"68cc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7bd31b36-a9d2-4b23-a6e9-baf7e16351f9.jpg?x-bce-process=image/format,f_auto\" w=\"1023\" h=\"1053\" data-weibo=\"1\"  data-vmark=\"90e2\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/968.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/968.htm"
+    },
+    {
+      "id": 2662,
+      "title": "TUXEDO 发布 Linux 独显笔电 Stellaris 16 – Gen8，可选 Mini LED、OLED 屏",
+      "summary": "IT之家 10 月 14 日消息，德国 Linux PC 制造商 TUXEDO 当地时间昨日发布了其最新笔记本电脑 Stellaris 16 - Gen8 - INTEL。 这一型号定位“台式机替代”平台，搭载英特尔酷睿 Ultra 9 处理器 290HX Plus，可选 NVIDIA GeForce RTX 5070 Ti / 5080 / 5090 笔记本电脑 GPU，可选一般 LCD LED / Mini LED / OLED 屏幕。 Stellaris 16 - Ge",
+      "content": "<p data-vmark=\"606c\">IT之家 10 月 14 日消息，德国 Linux PC 制造商 TUXEDO 当地时间昨日发布了其最新笔记本电脑 Stellaris 16 - Gen8 - INTEL。</p><p style=\"text-align: center;\" data-vmark=\"0a51\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/aef1bec8-e212-47bb-885d-87a0ed4367c1.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"816\" data-weibo=\"0\" data-vmark=\"6ea8\" class=\"no-alt-img\"></p><p data-vmark=\"cc1a\">这一型号定位“台式机替代”平台，搭载英特尔酷睿 Ultra 9 处理器 290HX Plus，可选 NVIDIA GeForce RTX 5070 Ti / 5080 / 5090 笔记本电脑 GPU，可选一般 LCD LED / Mini LED / OLED 屏幕。</p><p data-vmark=\"4f70\">Stellaris 16 - Gen8 - INTEL 拥有全铝机身，内置 3 风扇散热系统（<strong>支持 240W 持续性能释放</strong>），集成 99Whr 电池，本机质量 2.6~2.8kg，兼容 Aquaris 外置液冷。</p><p style=\"text-align: center;\" data-vmark=\"23df\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6e0646ee-e21d-434c-bc90-442ac45c8b88.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"640\" data-weibo=\"1\" data-vmark=\"bc48\" class=\"no-alt-img\"></p><p data-vmark=\"5587\">其拥有 2 个 DDR5-6400 CSO-DIMM 内存模组插槽、2 个 M.2 2280 PCIe SSD 盘位，支持 2.5GbE LAN，配备无线网卡，集成支持人脸识别的 FHD 摄像头、麦克风、2 个 2W 扬声器，提供雷电 4、Mini DisplayPort 2.1、SD UHS-II 读卡器等 I/O。</p><p data-vmark=\"3138\">屏幕方面，这款笔电的 3 种屏幕配置分辨率均为 WQXGA (2560×1600)，分别是 300Hz 刷新率 500nits 亮度的雾面一般 LCD LED、300Hz 刷新率 1000nits HDR 亮度的雾面 Mini LED、240Hz 刷新率 1000nits HDR 亮度的镜面 OLED。</p><p style=\"text-align: center;\" data-vmark=\"28c3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0c201658-2658-4aa1-9a9d-1a4c2b3f3cd0.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"700\" data-weibo=\"2\" data-vmark=\"67a3\" class=\"no-alt-img\"></p><p data-vmark=\"eb2d\">IT之家了解到，TUXEDO Stellaris 16 - Gen8 - INTEL 的 NVIDIA GeForce RTX 5070 Ti 笔记本电脑 GPU、一般 LCD LED、2×8GB 内存、500GB SSD 存储的<strong>基础配置不含税价格为 2,350 欧元</strong><span class=\"exch-money-value \">（IT之家注：现汇率约合 17,615 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/012/967.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/967.htm"
+    },
+    {
+      "id": 2663,
+      "title": "紫光股份 2026 年三季度归母净利润预估 24.2~30.6 亿元，同比增长 72.38%~117.97%",
+      "summary": "IT之家 10 月 14 日消息，紫光股份今日发布 2026 年三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 归母净利润：24.2 亿元 ~30.6 亿元，同比增长 72.38%~117.97% 扣非净利润：21 亿元 ~27.4 亿元，同比增长 43.84%~87.68% 基本每股收益：0.85 元 ~1.07 元 AI 解读 本次业绩预告归母净利润增速区间高于市场普遍预期，业绩表现超预期。 公司主营业务说明 紫光股份主营智能联接、智慧计算、智慧存储、",
+      "content": "<p data-vmark=\"0000\">IT之家 10 月 14 日消息，紫光股份今日发布 2026 年三季度（2026 年 1 月～2026 年 9 月）业绩预告报告：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0001\"><strong>归母净利润</strong>：24.2 亿元 ~30.6 亿元，同比增长 72.38%~117.97%</p></li><li><p data-vmark=\"0002\"><strong>扣非净利润</strong>：21 亿元 ~27.4 亿元，同比增长 43.84%~87.68%</p></li><li><p data-vmark=\"0003\"><strong>基本每股收益</strong>：0.85 元 ~1.07 元</p></li></ul><p data-vmark=\"0004\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0bc85707-862d-4f57-927f-24a9adc94b5b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2879\" data-weibo=\"0\" data-vmark=\"a421\" class=\"no-alt-img\"> </p><blockquote class=\"ai-point\" data-ai-tip=\"IT之家提示：解读内容由 Doubao Seed 2.0 lite 大模型生成，仅供参考。\"><h3 data-vmark=\"0010\">AI 解读</h3><p data-vmark=\"0005\">本次业绩预告归母净利润增速区间高于市场普遍预期，业绩表现超预期。</p><h3 data-vmark=\"0011\">公司主营业务说明</h3><p data-vmark=\"0006\">紫光股份主营智能联接、智慧计算、智慧存储、主动安全、云与智能、算力网络等信息通信技术（ICT）基础设施及解决方案，旗下拥有新华三知名品牌，聚焦 AI 基础设施领域布局。</p><h3 data-vmark=\"0012\">本次财报亮点</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0007\">2026 年前三季度，预计归属于上市公司股东的净利润为 24.2 亿元～ 30.6 亿元，同比增长 72.38%～ 117.97%，上年同期盈利 14.04 亿元。</p></li><li><p data-vmark=\"0008\">扣除非经常性损益后的净利润预计为 21 亿元～ 27.4 亿元，同比增长 43.84%～ 87.68%%，上年同期盈利 14.6 亿元。</p></li><li><p data-vmark=\"0009\">基本每股收益预计为 0.85 元～ 1.07 元，上年同期为 0.49 元。</p></li></ul><h3 data-vmark=\"0013\">业绩增长原因</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"000a\">人工智能需求持续释放，公司聚焦 AI 基础设施及解决方案核心业务，优化业务布局，推动营业收入快速增长和毛利水平提升。</p></li><li><p data-vmark=\"000b\">2026 年 5 月末完成新华三 6.98% 股权收购，持股比例提升至 87.98%，增厚归母净利润。</p></li><li><p data-vmark=\"000c\">原新华三少数股东股权收购义务对应的金融负债到期，不再计提利息费用。</p></li><li><p data-vmark=\"000d\">报告期内非经常性收益预计约 2.7 亿元～ 3.7 亿元，上年同期为非经常性损失 0.56 亿元。</p></li></ul><h3 data-vmark=\"0014\">后续展望</h3><p data-vmark=\"000e\">本次为初步测算结果，具体财务数据将在 2026 年第三季度报告中详细披露，投资者需注意投资风险。</p></blockquote><p class=\"ad-tips\" data-vmark=\"000f\"><span class=\"ai-tip-name\">风险提示：</span>本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。</p>",
+      "link": "https://www.ithome.com/1/012/956.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/956.htm"
+    },
+    {
+      "id": 2664,
+      "title": "骁龙“8E5”硬刚“8EE6”：曝一加本月底有重量级性能新机，首发双路出风散热架构",
+      "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文透露，一加本月底还有一款重量级性能新机，内置主动散热风扇，首发双路出风散热架构。 据称，新机在这套架构加持下，其搭载的骁龙 8 Elite Gen5 性能表现可以硬刚骁龙 8 Elite Extreme Gen6。博主表示，主要是它能同时覆盖 CPU 核心区域和机身后盖，一路负责强效压制芯片温度，一路负责降低背板壳温，保证持续高性能输出。 IT之家注意到，博主还透露，这套技术里有很多自研专利，不仅加上了一颗 AI ",
+      "content": "<p data-vmark=\"1419\">IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文透露，<strong>一加本月底还有一款重量级性能新机</strong>，内置主动散热风扇，首发双路出风散热架构。</p><p data-vmark=\"dc8c\">据称，新机在这套架构加持下，<strong>其搭载的骁龙 8 Elite Gen5 性能表现可以硬刚骁龙 8 Elite Extreme Gen6</strong>。博主表示，主要是它能同时覆盖 CPU 核心区域和机身后盖，一路负责强效压制芯片温度，一路负责降低背板壳温，保证持续高性能输出。</p><p data-vmark=\"d00e\">IT之家注意到，博主还透露，这套技术里有很多自研专利，<strong>不仅加上了一颗 AI 温控传感器智能调度，还将一些主机显卡散热架构搬到手机里</strong>，对噪音和进灰等主动散热痛点做了深度优化。</p><p data-vmark=\"c49b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1c184327-0c97-462e-9acb-502c64ea7187.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"926\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d113ff007c9d5e99a01585327358ae97859d31db0aebe072e11fead8b9616c93e7cce82ef737d828d4\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRmBi0onC2%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"4bc0\" class=\"no-alt-img\"></p><p data-vmark=\"d829\">有网友询问，一加新机实测散热效果怎么样？博主回复称：“<strong>实测游戏表现真的很残暴，8EE6 不加散热背夹干不过。</strong>”还有网友询问新机是否采用双摄设计？博主表示：“<strong>同样是双摄，加加不凑数，懂？</strong>”</p><p data-vmark=\"1d77\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/788d0b62-8a93-4bcb-b5c8-8817163ca4d6.jpg?x-bce-process=image/format,f_auto\" w=\"791\" h=\"560\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d13938e17819261a1fb006e7dc539e98c725022c6fde081ae703905ddaa5e2ccefd67d7c910d9b9b91\" data-vmark=\"91f5\" class=\"no-alt-img\"></p><p data-vmark=\"949c\">目前，博主暂未曝出新机的具体命名，有网友猜测为一加 Ace 7。据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/011/391.htm\">型号为 PMS110 的一加（OnePlus）手机已现身 GeekBench 跑分库，预估关联一加 Ace 7</a>。跑分页面显示，PMS110 手机搭载高通“SM8850”芯片组，包含六个主频为 3.63GHz 的核心和两个主频为 4.61GHz 的核心，以及 Adreno 840 GPU，对应高通第五代骁龙 8 至尊版芯片。</p><p data-vmark=\"f057\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d012f251-4060-4f03-b460-b2813f527e4c.jpg?x-bce-process=image/format,f_auto\" w=\"1146\" h=\"1619\" data-vmark=\"3da3\" data-mpos=\"1,0\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/943.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/943.htm"
+    },
+    {
+      "id": 2665,
+      "title": "Omdia：中国大陆 2026Q3 智能手机出货量创 2013 年以来同期新低",
+      "summary": "IT之家 10 月 14 日消息，Omdia 在英国当地时间今日发布的报告中指出，中国大陆市场在 2026 年第 3 季度的智能手机出货量仅有 5,930 万部，同比下降 12% 的同时也是自 2013 年以来的同期新低数据。该机构预计全年出货将下滑 7%。 Omdia 首席分析师 Hayden Hou 指出，各制造商正积极调整产品线应对存储器等组件价格飙升带来的设备成本压力。部分厂商选择在新一代旗舰布局初期精简型号，有其它企业则反其道而行之。与此同时，各品牌都选择精简中低端",
+      "content": "<p data-vmark=\"0ecb\">IT之家 10 月 14 日消息，Omdia 在英国当地时间今日发布的报告中指出，中国大陆市场在 2026 年第 3 季度的智能手机出货量仅有 5,930 万部，同比下降 12% 的同时也是<strong>自 2013 年以来的同期新低数据</strong>。该机构预计全年出货将下滑 7%。</p><p data-vmark=\"b436\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/24c1cba8-b29c-4a6a-8415-be313490482e.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"720\" data-weibo=\"0\" data-vmark=\"2928\" class=\"no-alt-img\"></p><p data-vmark=\"9df9\">Omdia 首席分析师 Hayden Hou 指出，<strong>各制造商正积极调整产品线应对存储器等组件价格飙升带来的设备成本压力</strong>。部分厂商选择在新一代旗舰布局初期精简型号，有其它企业则反其道而行之。与此同时，各品牌都选择精简中低端产品规格，减少外观选择，降低存储器容量。</p><p data-vmark=\"384c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7ee1d9c3-6065-4df5-9db4-1b696d74e99e.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"720\" data-weibo=\"1\" data-vmark=\"94a7\" class=\"no-alt-img\"></p><p data-vmark=\"5b1d\">主要制造商方面，华为和苹果凭借相对更高端的产品组合和相对更早的产品发布时间实现了销量和市占上的增长，vivo、OPPO、小米都出现了较大幅度的下滑，<strong>五大品牌外的出货衰退则更为严重</strong>。</p><p data-vmark=\"90bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f74d2fb7-f659-4f89-945c-4604990e9d30.png?x-bce-process=image/format,f_auto\" w=\"1098\" h=\"802\" data-weibo=\"2\" data-vmark=\"0ae8\" class=\"no-alt-img\"></p><p data-vmark=\"9327\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"5ea3\"><a href=\"https://omdia.tech.informa.com/pr/2026/oct/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013\" target=\"_blank\">Omdia: Mainland China smartphone shipments drop to lowest Q3 level since 2013</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/012/934.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/934.htm"
+    },
+    {
+      "id": 2666,
+      "title": "大眼橙联合钉钉发布可弯折 AI 听记眼镜 Q1：最轻仅 28g，定价 1299 元起",
+      "summary": "IT之家 10 月 14 日消息，大眼橙于 10 月 13 日联合钉钉发布可弯折 AI 听记眼镜 Q1，定价 1,299 元起。 佩戴体验上，产品采用轻量化纯钛镜框设计，整机最轻仅 28g，全系列推出 5 款风格镜框，覆盖商务、休闲等多元审美需求。 在此基础上，该眼睛首创可弯折定型镜腿专利结构，可根据用户脸型灵活调整镜腿弧度，缓解 AI 眼镜常见的镜腿粗、夹耳、佩戴不稳等问题。 声学配置上，眼镜采用“1 颗定向麦 +2 颗全向麦”的单边三麦阵列，可实现 8 米有效拾音距离： ",
+      "content": "<p data-vmark=\"abde\">IT之家 10 月 14 日消息，大眼橙于 10 月 13 日联合钉钉发布可弯折 AI 听记眼镜 Q1，定价 1,299 元起。</p><p data-vmark=\"f7f6\"><strong>佩戴体验上，产品采用轻量化纯钛镜框设计，整机最轻仅 28g</strong>，全系列推出 5 款风格镜框，覆盖商务、休闲等多元审美需求。</p><p data-vmark=\"bfcf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e56a4885-32c8-4e8a-9b56-53b3a624f264.jpg?x-bce-process=image/format,f_auto\" w=\"770\" h=\"666\" data-weibo=\"0\" data-vmark=\"f8b8\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1677b3ecba27ac82331b549c149a296213c7221417165b125a8db68369006ea3e7595cee06f5f1893\" class=\"no-alt-img\"></p><p data-vmark=\"032c\">在此基础上，<strong>该眼睛首创可弯折定型镜腿专利结构</strong>，可根据用户脸型灵活调整镜腿弧度，缓解 AI 眼镜常见的镜腿粗、夹耳、佩戴不稳等问题。</p><p data-vmark=\"035a\">声学配置上，眼镜采用“<strong>1 颗定向麦 +2 颗全向麦</strong>”的单边三麦阵列，可实现 8 米有效拾音距离：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5f0f\">定向麦克风捕捉佩戴者人声，搭配智能降噪算法，嘈杂环境下也能保证通话与录音清晰度；</p></li><li><p data-vmark=\"d5b8\">全向麦克风补充环境收音，大空间会议场景也能清晰收录人声。</p></li></ul><p data-vmark=\"ab8e\">音频输出采用定制大振幅双音圈喇叭，搭配低音动态增强算法，兼顾会议通话、日常听歌等多场景。</p><p data-vmark=\"1907\">续航方面，双镜腿搭载 100mAh 钢壳纽扣电池，<strong>可实现 80 小时佩戴待机、11.5 小时连续听歌使用</strong>。</p><p data-vmark=\"0773\">交互与隐私层面，<strong>眼镜支持点头接听、摇头挂断的头部姿态交互</strong>，搭配线性马达分层震动反馈，无需掏手机即可感知录音启停、来电、消息通知；支持无痕模式，录制不留存原始音频文件，用户可放心对话。</p><p data-vmark=\"0f31\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e3ebbd72-e93e-42cb-9395-07d1caf0d0fa.jpg?x-bce-process=image/format,f_auto\" w=\"835\" h=\"3275\" data-weibo=\"1\" data-vmark=\"e982\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d13528c839082377581b6b8ab613357d6e34ab6505e67ce19edfd4ef0eb9dc5511d347f6104f04eb5d\" class=\"no-alt-img\"></p><p data-vmark=\"a985\">大眼橙这款 AI 听记眼镜实现了<strong>与钉钉办公体系的原生深度打通</strong>。用户无需下载独立的“眼镜专属 App”，通过钉钉、千问办公、QwenNote 三个入口均可完成设备绑定，录音、转写、纪要、协作全链路都在用户熟悉的办公体系内完成。</p><p data-vmark=\"a708\">会议内容记录后，可直接联动钉钉日程、待办、多维表格等原生能力，打通从信息采集到任务落地的完整工作流。</p><p data-vmark=\"92c7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9cb7eb4b-4bec-4f36-9bab-f0cbd5ca469a.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" alt=\"图片\" data-weibo=\"2\" data-vmark=\"968b\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1c92bb9d84c141af0b05ffc5d2ec21e01b83341ef12d00b0e775dd1c3da75e99c7f0bdb9459d783e1\"></p><p data-vmark=\"6468\">大眼橙 AI 听记眼镜 Q1 将于 10 月 31 日现货发售。价格方面，磐石黑、极客黑、文雅墨三款首发价 <strong>1,299 元</strong>，盘石黑、凌云银、胭脂红两款首发价 <strong>1,399 元</strong>。IT之家附 5 款镜框设计如下：</p><p data-vmark=\"255e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1121a10a-f98d-4377-a245-34eb8cee1c1c.jpg?x-bce-process=image/format,f_auto\" w=\"844\" h=\"4721\" data-weibo=\"3\" data-vmark=\"703d\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/925.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/925.htm"
+    },
+    {
+      "id": 2667,
+      "title": "铭芯启睿首款 1Gb RRAM 芯片“泰山一号”流片：采用 1T4R 存储结构，密度达 30Mb / mm²",
+      "summary": "IT之家 10 月 14 日消息，铭芯启睿（MemSilicon）宣布完成基于 1TnR 技术路线的首代高密度、大容量 RRAM 芯片“泰山一号（MountTai 2026）”流片，目前正推进芯片验证。 据界面新闻报道，该芯片采用 28nm CMOS 工艺平台及 1T4R 存储结构，单芯片容量达 1Gb，存储密度为 30Mb / mm²，访问延时小于 20ns，并集成片上硬件纠错电路。 IT之家注：1T4R 结构通过一个选择晶体管连接四个阻变存储单元，以提高存储密度。该技术路",
+      "content": "<p data-vmark=\"bf2a\">IT之家 10 月 14 日消息，铭芯启睿（MemSilicon）宣布完成基于 1TnR 技术路线的首代高密度、大容量 RRAM 芯片“泰山一号（MountTai 2026）”流片，目前正推进芯片验证。</p><p data-vmark=\"4223\">据界面新闻报道，该芯片采用 28nm CMOS 工艺平台及 1T4R 存储结构，单芯片容量达 1Gb，存储密度为 30Mb / mm²，访问延时小于 20ns，并集成片上硬件纠错电路。</p><p data-vmark=\"2dc2\">IT之家注：1T4R 结构通过一个选择晶体管连接四个阻变存储单元，以提高存储密度。该技术路线利用与 CMOS 平台完全兼容的后道集成方式，在密度、容量和成本之间实现协同。</p><p data-vmark=\"ae9f\">铭芯启睿表示，泰山一号在大容量、高密度与高速读取之间取得了协同突破，为片上高密度大容量新型非易失存储应用提供了具有国际竞争力的解决方案。</p><p data-vmark=\"3cb4\">公开资料显示，铭芯启睿成立于 2024 年 5 月，致力于以先进工艺节点阻变存储器为基础，结合存算融合及先进封装技术，解决“内存墙”瓶颈，面向服务消费、工业与数据中心领域，提供 AI 高性能“感-存-算”一体化解决方案及定制化存储 IP / 芯片产品。公司联合创始人、董事长为刘琦教授。</p><p data-vmark=\"6688\">铭芯启睿已于 2025 年完成近亿元天使轮融资，2026 年 1 月完成超亿元 Pre-A 轮融资，由国开科创、联想创投领投，中芯聚源、顺禧基金、恒裕投资跟投，老股东中科创星、小米战投持续加码。</p><p data-vmark=\"865c\">目前，铭芯启睿已与多家上下游企业建立合作，围绕存储工艺制造技术展开联合攻关，并深度绑定多家龙头企业客户。公司方面表示，泰山一号的流片标志着 1TnR 高密度存储技术从实验室研究阶段推进至 Gb 级芯片产品化落地的关键一步。</p>",
+      "link": "https://www.ithome.com/1/012/924.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/924.htm"
+    },
+    {
+      "id": 2668,
+      "title": "前英特尔 CEO 基辛格称 HBM 是“糟糕的内存”",
+      "summary": "IT之家 10 月 14 日消息，科技媒体 Wccftech 昨日（10 月 13 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）再次批评高带宽内存（HBM）存在位密度低、散热与“海岸线带宽”受限等问题，称其为“糟糕的内存”。 IT之家注：海岸线带宽（Shoreline Bandwidth）是指计算芯片边缘可用于连接 HBM 的物理周长资源。由于 HBM 接口需要占用芯片边缘大量面积，可布置的内存堆叠数量受到限制，从而形成带宽扩展瓶颈。 ",
+      "content": "<p data-vmark=\"0f78\">IT之家 10 月 14 日消息，科技媒体 Wccftech 昨日（10 月 13 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）再次批评高带宽内存（HBM）存在位密度低、散热与“海岸线带宽”受限等问题，<strong>称其为“糟糕的内存”。</strong></p><p data-vmark=\"e08f\">IT之家注：海岸线带宽（Shoreline Bandwidth）是指计算芯片边缘可用于连接 HBM 的物理周长资源。由于 HBM 接口需要占用芯片边缘大量面积，可布置的内存堆叠数量受到限制，从而形成带宽扩展瓶颈。</p><p data-vmark=\"7636\">基辛格在接受 a16Z 的专访时，批评高带宽内存 (HBM) 解决方案：</p><blockquote><p data-vmark=\"9cf6\">HBM 内存简直糟糕透了。<strong>这只是我们目前能实现的最佳方案</strong>…… 但它真的太差劲了。你知道，它的位密度非常低。带宽受限，功耗、散热等等问题也让我很头疼。DRAM 内存不喜欢高温。所有数据都集中在一个地方…… 对于人工智能这种内存计算密集型工作负载来说，HBM 内存简直是灾难性的。</p></blockquote><p data-vmark=\"e76e\">基辛格指出，HBM 的位密度较低，且数据集中布局会带来功耗与散热压力，对 AI 这类内存与计算高度耦合的工作负载而言，该架构存在明显短板。</p><p data-vmark=\"a2c2\">散热方面，HBM3/3E 总线宽度为 1,024 位，HBM4 提升至 2,048 位，需要大量并行连接与微凸点。韩国科学技术院的分析显示，当 HBM 功耗超过约 30 瓦时，GPU 或 ASIC 与 HBM 堆栈之间的物理层接口（PHY）自身发热会成为内存热应力的主要来源。</p><p data-vmark=\"d427\">位密度方面，HBM 堆叠中的 DRAM 裸片需通过大量硅通孔（TSV）连接。该结构减少单颗裸片可容纳的存储单元数量，导致单颗 DRAM 裸片位密度较低；但整个堆叠在每平方毫米层面仍可提供更高累计密度。</p><p style=\"text-align: center;\" data-vmark=\"4204\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/18eaeae6-a3aa-4812-89e0-857b46b81250.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1811\" data-weibo=\"0\" data-vmark=\"803e\" class=\"no-alt-img\"></p><figcaption>图源：WikiMedia</figcaption>",
+      "link": "https://www.ithome.com/1/012/922.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/922.htm"
+    },
+    {
+      "id": 2669,
+      "title": "北汽星钽 5X 将于 10 月 21 日开启预售：方盒子造型，搭载华为乾崑智驾",
+      "summary": "IT之家 10 月 14 日消息，据易车消息，北汽星钽 5X 将于 10 月 21 日开启预售。 据IT之家此前报道，星钽 5X 已官宣搭载华为乾崑智驾。车身尺寸方面，新车长宽高为 4865（5005）/ 2000 / 1910mm，轴距为 2875mm。 内饰方面，新车采用最新设计语言，中控台搭载 15.6 寸双联屏，并配备大尺寸液晶仪表。此外，新车还搭载三辐式多功能方向盘，中央岛台区域配备了手机无线充电以及双杯架。 动力方面，北汽星钽 5X 提供燃油、插混、纯电三种动力供",
+      "content": "<p data-vmark=\"b4c3\">IT之家 10 月 14 日消息，据易车消息，北汽星钽 5X 将于 10 月 21 日开启预售。</p><p style=\"text-align: center;\" data-vmark=\"30a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/238bbc81-ca9a-4f05-bd4d-85900aa1e47f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1242\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1d8356f2edcd5d3e8d0f435c34de141f71ab2785667543a5976a33ff15bb1a4797c53a370c6984526\" data-vmark=\"7191\" class=\"no-alt-img\"></p><p data-vmark=\"f993\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/004/619.htm\">星钽 5X 已官宣搭载华为乾崑智驾</a>。车身尺寸方面，新车长宽高为 4865（5005）/ 2000 / 1910mm，<strong>轴距为 2875mm</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e9ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/98ef1a52-265e-4eb3-ad4d-7c871fe55224.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1692\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d16cc14d819a6bd3558fc8ebfa3ae0b9d2d5c885e9161b8df06fadce4ad9bfdc3b7a7575e523b9539c\" data-vmark=\"1f03\" class=\"no-alt-img\"></p><p style=\"text-align: left;\" data-vmark=\"1e26\">内饰方面，新车采用最新设计语言，中控台搭载 15.6 寸双联屏，并配备大尺寸液晶仪表。此外，新车还搭载三辐式多功能方向盘，中央岛台区域配备了手机无线充电以及双杯架。</p><p style=\"text-align: center;\" data-vmark=\"84c3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dbabec36-6f88-4366-8acf-017373a291fe.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1587\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d18299d418891fef2a80ef8e446600260defac0e8cf3ab942ad05463666e1df04603fd9feff6e50608\" data-vmark=\"e01b\" class=\"no-alt-img\"></p><p data-vmark=\"e1f1\">动力方面，北汽星钽 5X 提供燃油、插混、纯电三种动力供选择。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"928d\">插混车型搭载 1.5T 发动机与电机组成的插混系统，配备 50.4kWh 电池组，WLTC 纯电续航 232km；</p></li><li><p data-vmark=\"1b91\">纯电车型搭载最大功率 227 千瓦电机，配备 81.9kWh 电池组，CLTC 续航 625km；</p></li><li><p data-vmark=\"0231\">燃油版车型搭载最大功率 187 千瓦的 2.0T 发动机。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"8b7e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/93f9f482-c673-454f-a844-689b8da09938.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2164\" data-weibo=\"3\" data-marks=\"1931fd9d012eb6d164c5ccb4170e6ed52f743ef6e71eae7476d99f5ddbf74e5c0491b2f7d4e3fd98bdebd9e97ff43980\" data-vmark=\"5a21\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"2351\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d8cd72c7-6a68-4a64-a804-a4ea60166712.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2164\" data-weibo=\"4\"  data-vmark=\"dacb\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"45df\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4884\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/012/920.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/920.htm"
+    },
+    {
+      "id": 2670,
+      "title": "AMD CEO 苏姿丰：今年是真正的“AI 推理之年”",
+      "summary": "IT之家 10 月 14 日消息，当地时间 10 月 12 日，AMD CEO 苏姿丰在 2026 年开放计算项目全球峰会发表主题演讲，表态看好 CPU 市场的未来增长前景。 苏姿丰预计，2030 年数据中心 AI 加速器市场规模将接近 1.5 万亿美元（IT之家注：现汇率约合 10.06 万亿元人民币），CPU 业务的增长空间可能更大。就在一年前，整体 CPU 市场规模还只有约 200 亿美元（现汇率约合 1,341.01 亿元人民币），业界预计年增长率仅为个位数。 随着智",
+      "content": "<p data-vmark=\"5c56\">IT之家 10 月 14 日消息，当地时间 10 月 12 日，AMD CEO 苏姿丰在 2026 年开放计算项目全球峰会发表主题演讲，表态看好 CPU 市场的未来增长前景。</p><p data-vmark=\"55e7\">苏姿丰预计，2030 年数据中心 AI 加速器市场规模将接近 1.5 万亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 10.06 万亿元人民币）</span>，CPU 业务的增长空间可能更大。就在一年前，整体 CPU 市场规模还只有约 200 亿美元<span class=\"exch-money-value\">（现汇率约合 1,341.01 亿元人民币）</span>，业界预计年增长率仅为个位数。</p><p data-vmark=\"b7dd\">随着智能体 AI 兴起，苏姿丰认为 CPU 需求将迎来新一轮增长。“过去 9 个月，我们三次上调了 CPU 市场规模预期，因为整体需求的增长实在太快。我们认为，未来 4 至 5 年的年<strong>复合增长率将达到约 50%</strong>，到 2030 年，潜在市场规模将<strong>突破 2,000 亿美元</strong><span class=\"exch-money-value\">（现汇率约合 1.34 万亿元人民币）</span>。”</p><p data-vmark=\"ff8f\">苏姿丰还将 2026 年称为“<strong>真正的推理之年</strong>”，预计 AI 推理今后将占据约 60% 的市场份额。“我们认为，从今年开始，推理将占据约 60% 的市场份额。不仅如此，智能体工作负载更是<strong>迎来了爆发式增长</strong>。”</p><p data-vmark=\"35db\">在产品交付方面，苏姿丰透露，AMD 从 9 月开始交付 Helios 量产系统，首批设备部署在 OpenAI、Meta、微软、甲骨文和 Anthropic 等主要客户的数据中心。“第四季度到明年上半年，我们还会继续扩大产量。”</p><p data-vmark=\"0e56\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"67a9\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/012/535.htm\">AMD 首次展示 Verano 霄龙处理器：计划 2027 年上市，支持 LPDDR5X</a>》</p></li><li><p data-vmark=\"3423\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/012/104.htm\">AMD 发布新一代锐龙 AI Halo 开发者平台，升级 Max+ PRO 495 与至高 192GB 内存</a>》</p></li><li><p data-vmark=\"5546\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/012/103.htm\">AMD 发布智能体 AI 计算机架 Helion，纯 CPU 版本可扩展至 32,768 核心</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/012/915.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/915.htm"
+    },
+    {
+      "id": 2671,
+      "title": "小鹏汽车开始向全球开放技术合作，涵盖整车平台、模块化技术与全套工具链等",
+      "summary": "IT之家 10 月 14 日消息，据第一财经报道，2026 巴黎车展期间，小鹏集团董事长何小鹏宣布，公司将面向全球开放智能汽车技术合作，涵盖整车平台、模块化技术与全套工具链三大核心板块。 其中整车平台包含整车平台架构、电子电气架构；模块化技术覆盖智驾、AI BOX、芯片、电池、电驱；配套工具链包含远程 XCP 标定、整车 EOL、AI 诊断等。 除智能汽车板块之外，小鹏还将同步开放物理 AI 生态全域解决方案业务，包括人形机器人、Robotaxi、飞行汽车、图灵 AI 芯片、",
+      "content": "<p data-vmark=\"6faa\">IT之家 10 月 14 日消息，据第一财经报道，2026 巴黎车展期间，小鹏集团董事长何小鹏宣布，<strong>公司将面向全球开放智能汽车技术合作</strong>，涵盖整车平台、模块化技术与全套工具链三大核心板块。</p><p data-vmark=\"662a\">其中整车平台包含整车平台架构、电子电气架构；模块化技术覆盖智驾、AI BOX、芯片、电池、电驱；配套工具链包含远程 XCP 标定、整车 EOL、AI 诊断等。</p><p data-vmark=\"98d7\">除智能汽车板块之外，<strong>小鹏还将同步开放物理 AI 生态全域解决方案业务</strong>，包括人形机器人、Robotaxi、飞行汽车、图灵 AI 芯片、物理世界基座模型等板块，提供全域商业化解决方案。</p><p data-vmark=\"3120\">何小鹏表示：“小鹏的 Robotaxi 业务正在与欧洲多家头部出行平台展开深度洽谈，相关合作进展预计不久后对外公开。”</p><p data-vmark=\"9e86\">据IT之家此前报道，小鹏已在全球设有 8 大研发中心和 6 大生产基地，销售网络已覆盖 82 个国家和地区，拥有超 1,200 家门店。</p><p data-vmark=\"ae70\">何小鹏还表示，目标是到 2030 年底全球年销量达到 100 万辆，<strong>其中欧洲占一半</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8d41\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c159db13-6677-4646-a808-2e89d5e65352.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"cf31\" class=\"no-alt-img\"></p><p data-vmark=\"8fbe\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"e83e\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/012/154.htm\">何小鹏：小鹏汽车目标到 2030 年底全球年销量达 100 万辆，其中欧洲占一半</a>》</p></li><li><p data-vmark=\"7b62\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/012/094.htm\">小鹏今年底实现人形机器人量产，2027 年上半年开启交付</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/012/911.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/911.htm"
+    },
+    {
+      "id": 2672,
+      "title": "AOC 推出 Mini LED 显示器 AGP277QKM：27\" QHD 425Hz，峰值亮度 1200nits",
+      "summary": "IT之家 10 月 14 日消息，AOC 昨日在其官网上线了电竞显示器爱攻 AGON 擎天 2K MiniLED AGP277QKM。 这一型号采用 27\" QHD 425Hz Fast IPS LCD 面板，结合 QD 量子点技术与 1,152 分区 Mini LED 背光，获得 VESA DisplayHDR 1000 认证。 AGP277QKM 拥有 450nits 的 SDR 亮度、700nits 的 HDR 亮度、1200nits 的 HDR 峰值亮度，静态对比度 ",
+      "content": "<p data-vmark=\"c16a\">IT之家 10 月 14 日消息，AOC 昨日在其官网上线了电竞显示器爱攻 AGON 擎天 2K MiniLED AGP277QKM。</p><p data-vmark=\"16ce\">这一型号采用 27\" QHD 425Hz Fast IPS LCD 面板，结合 QD 量子点技术与 1,152 分区 Mini LED 背光，<strong>获得 VESA DisplayHDR 1000 认证</strong>。</p><p data-vmark=\"aead\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/53566001-2d29-405e-8b51-89fe583333d5.png\" w=\"1440\" h=\"1440\" data-weibo=\"0\" data-vmark=\"666f\" class=\"no-alt-img\"></p><p data-vmark=\"0e2a\">AGP277QKM 拥有 450nits 的 SDR 亮度、700nits 的 HDR 亮度、1200nits 的 HDR 峰值亮度，静态对比度 1300:1；MPRT 响应时间 0.3ms、GtG 响应时间低至 0.5ms；<strong>色域覆盖 100% sRGB / 98% DCI-P3</strong>，sRGB 下色偏（平均值）ΔE＜1。</p><p data-vmark=\"f3d2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fc4125d7-821a-4b17-a527-f3cec01818f0.png\" w=\"1440\" h=\"1440\" data-weibo=\"1\" data-vmark=\"0008\" class=\"no-alt-img\"></p><p data-vmark=\"2e56\">其提供 2 个 HDMI 2.1 (FRL6)、<strong>1 个 DisplayPort 2.1 (UHBR13.5)</strong>、1 个 3.5mm 音频输出插孔；集成 USB Hub，提供 3 个 USB 5Gbps 下行；无扬声器；标配 4 向可调人体工学支架，兼容 100×100 (mm) VESA 壁挂规范；配备 Light FX 音乐律动炫彩氛围灯、伸缩式耳机挂钩。</p>",
+      "link": "https://www.ithome.com/1/012/908.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/908.htm"
+    },
+    {
+      "id": 2673,
+      "title": "朗道燧岩 EUV 光源系统样机 2026 工博会首秀：国产化率达 90%，距量产仍需 3~5 年",
+      "summary": "IT之家 10 月 14 日消息，2026 年第二十六届中国国际工业博览会正在国家会展中心（上海）举行，创新科技馆内百余项上海科创成果集中亮相。 据解放日报，朗道燧岩首次在此次工博会上展示了一台极紫外（EUV）光源系统样机，这也是目前公开展示中国产进度最靠前的 EUV 光源样机，被称作高端光刻机的“心脏”。 据现场工作人员介绍，本次展出的光源系统国产化率达 90%，绝大多数核心零部件为自主研发，技术路线与国际领先厂商一致，可用于芯片曝光测试。 解放日报指出，极紫外光源是 7n",
+      "content": "<p data-vmark=\"d4b1\">IT之家 10 月 14 日消息，2026 年第二十六届中国国际工业博览会正在国家会展中心（上海）举行，创新科技馆内百余项上海科创成果集中亮相。</p><p data-vmark=\"6d72\">据解放日报，朗道燧岩首次在此次工博会上展示了一台极紫外（EUV）光源系统样机，这也是目前公开展示中国产进度最靠前的 EUV 光源样机，被称作高端光刻机的“心脏”。</p><p data-vmark=\"6852\">据现场工作人员介绍，本次展出的光源系统国产化率达 90%，绝大多数核心零部件为自主研发，技术路线与国际领先厂商一致，可用于芯片曝光测试。</p><p data-vmark=\"b8b1\">解放日报指出，极紫外光源是 7nm 及以下先进制程芯片制造的三大核心零部件之一，长期受海外技术垄断与禁运限制，是制约中国高端芯片自主可控的关键环节。</p><p data-vmark=\"9861\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV1tgpz6EEhj&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\" data-subs=\"[{&quot;label&quot;:&quot;中文&quot;,&quot;language&quot;:&quot;zh&quot;,&quot;default&quot;:true,&quot;src&quot;:&quot;2026-10/6fae3598-c1bb-4f90-963a-0eb0c0a3673a-b&quot;}]\"></iframe></p><p data-vmark=\"7359\">IT之家注意到，朗道燧岩官网已列出多款 EUV 产品，包括高功率极紫外光源腔体 FlintMicro-LPP Alpha01、激光诱导等离子体极紫外光源，以及低功率 EUV 光源系统 FlintNano LPP-OXXO 系统。</p><p data-vmark=\"c428\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4399b9e3-7fc9-4fdc-9ce4-6cba7f0f503c.png\" w=\"1440\" h=\"681\" data-weibo=\"0\" data-vmark=\"1493\" class=\"no-alt-img\"></p><p data-vmark=\"4f97\">官网显示，高功率极紫外光源系统 FlintMicro-LPP 系列已完成原理论证，低功率极紫外光源系统 FlintNano-LPP 系列已处于产品化阶段。</p><p data-vmark=\"c387\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e8ab812a-29c3-4417-a660-dd871c00cdbd.png\" w=\"1440\" h=\"504\" data-weibo=\"1\" data-vmark=\"1218\" class=\"no-alt-img\"></p><p data-vmark=\"7192\">据官网公布的技术参数，FlintNano LPP-OXXO 的驱动激光功率为 1000W，激光频率 1 至 20kHz，转换效率大于 2%，亮度为 100W/mm²sr，EUV 能量大于 15W，持续工作时间超过 100 小时，发散角为 1×10⁻³mm²sr，等离子体尺寸 60μm，等离子体稳定性为 3% RMS，能量稳定性为 5%。</p><p data-vmark=\"4bd7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c71d9be2-f679-4f51-b5af-b3a2c6b7acb8.jpg\" w=\"1440\" h=\"1037\" data-weibo=\"2\" data-mpos=\"2,0\"  data-vmark=\"5c74\" class=\"no-alt-img\"></p><p data-vmark=\"1266\">朗道科技主要从事半导体制造专用设备的研发、生产与相关技术服务，创始人王豪博士团队以清华大学气体放电等离子体实验室的研发成果为基础，聚焦 LPP-EUV 光刻光源技术。公司成立于 2024 年，2025 年 10 月获得张江高科旗下燧玥创投的天使轮融资，累计融资额超千万元，并入驻上海集成电路设计产业园。2026 年 1 月完成天使 + 轮融资，2026 年 7 月完成 A 轮融资，投资方包括沃衍资本、中芯聚源等。目前公司拥有燧岩、辉光、天算三大核心业务板块，分别聚焦 EUV 光源系统、大功率二氧化碳轴快流激光器以及等离子体仿真软件。</p><p data-vmark=\"75bf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9ea9f4dc-c8aa-4092-9158-abf921987f01.png\" w=\"1440\" h=\"720\" data-weibo=\"3\" data-vmark=\"4b52\" class=\"no-alt-img\"></p><p data-vmark=\"5a9d\">尽管首秀标志着国产 EUV 光源从实验室走向产业化的关键一步，但现场工作人员坦言，该光源系统距离量产仍需 3 至 5 年时间。当前面临的核心挑战在于提升输出功率和长期运行稳定性。商用 EUV 光刻系统要求光源功率达到数百瓦级别，并能在长时间运行中保持高度可靠。工博会现场展示的样机目前验证了技术路线的可行性，但距离工业级应用所需的产品成熟度仍有明显差距。</p><p data-vmark=\"5c5d\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"6525\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/010/286.htm\">华为余承东：极紫外光刻（EUV）设备是制造先进芯片的关键，国内目前正在研发</a>》</p></li><li><p data-vmark=\"0e03\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/923/005.htm\">阿斯麦 ASML 公布 EUV 光源技术突破，2030 年芯片产能有望提升 50%</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/012/907.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/907.htm"
+    },
+    {
+      "id": 2674,
+      "title": "全汉推出 4U 机箱 W600：卧则机架、立则塔式，支持 ATX 与 2U CRPS 电源",
+      "summary": "IT之家 10 月 14 日消息，全汉 (FSP) 近日在其官网上线了 W600 机箱。其采用 1.2mm 的 EMC 合规 SGCC 钢板，高度 175mm，符合 4U 规范要求，可以机架或塔式的方式部署。 W600 机箱拥有 8 条扩展槽，兼容 SSE-EEB / E-ATX 及以下主板，支持标准 ATX 或 2U CRPS 1+1 电源，集成扩展卡支架；提供 1 个 USB-C、2 个 USB-A 5Gbps。 其扩展卡限长 330mm、处理器散热器限高 135mm；提",
+      "content": "<p data-vmark=\"4a09\">IT之家 10 月 14 日消息，全汉 (FSP) 近日在其官网上线了 W600 机箱。其采用 1.2mm 的 EMC 合规 SGCC 钢板，高度 175mm，<strong>符合 4U 规范要求</strong>，可以机架或塔式的方式部署。</p><p data-vmark=\"8357\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a7bb56f1-06c1-4c4f-bd88-fdc3a411a39a.jpg\" w=\"700\" h=\"700\" data-weibo=\"0\" data-vmark=\"2332\" class=\"no-alt-img\"></p><p data-vmark=\"2787\">W600 机箱拥有 8 条扩展槽，<strong>兼容 SSE-EEB / E-ATX 及以下主板</strong>，支持标准 ATX 或 2U CRPS 1+1 电源，集成扩展卡支架；提供 1 个 USB-C、2 个 USB-A 5Gbps。</p><p data-vmark=\"bb8c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7212a3d4-64df-4f21-b6e1-556482795a1f.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"1\"  data-vmark=\"2175\" class=\"no-alt-img\"></p><p data-vmark=\"5622\">其扩展卡限长 330mm、处理器散热器限高 135mm；提供 3 个 3.5\" 盘位、2 个 2.5\" 盘位；前方预装 2 颗 12038 风扇、1 颗 9225 风扇，后方预装 1 颗 9225 风扇，前方兼容 240 冷排，<strong>可选外置 GPU 辅助散热</strong>。</p><p data-vmark=\"f432\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3d21b0f5-80b2-493d-85b1-57eec7885bd0.jpg\" w=\"1440\" h=\"860\" data-weibo=\"2\" data-vmark=\"75bc\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/903.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/903.htm"
+    },
+    {
+      "id": 2675,
+      "title": "红魔 × UBISOFT 育碧达成游戏合作，红魔 12 Pro+ 跨端首发《孤岛惊魂 3》",
+      "summary": "IT之家 10 月 14 日消息，红魔游戏手机官方今日宣布，与 UBISOFT 育碧正式成为官方游戏合作伙伴。 据介绍，《孤岛惊魂 3》是双方首个合作游戏，将在全新红魔 12 Pro+ 游戏手机上跨端首发。 综合IT之家此前报道，红魔 12 Pro+ 将搭载高通第六代骁龙 8 超级至尊版芯片，主打“更轻、更薄、更窄、更圆润”。新机还将采用红魔第九代屏下技术，打造无孔全面屏。官方表示，红魔 12 Pro+ 搭载行业首款 185Hz 全面屏，支持 35+ 款热门游戏原生 185H",
+      "content": "<p data-vmark=\"1a86\">IT之家 10 月 14 日消息，红魔游戏手机官方今日宣布，<strong>与 UBISOFT 育碧正式成为官方游戏合作伙伴</strong>。</p><p data-vmark=\"4d30\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9de1c374-ca45-4fa2-8a30-55cec7e0e420.jpg\" w=\"1080\" h=\"1556\" data-mpos=\"0,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d13a6e572e6508dfd6f07088616d7f91ec895b201e451993a363173334cb747f91cd6e3901de7b8ab9\" data-vmark=\"f93b\" class=\"no-alt-img\"></p><p data-vmark=\"dce0\">据介绍，<strong>《孤岛惊魂 3》是双方首个合作游戏，将在全新红魔 12 Pro+ 游戏手机上跨端首发</strong>。</p><p data-vmark=\"e908\">综合IT之家此前报道，红魔 12 Pro+ 将搭载高通第六代骁龙 8 超级至尊版芯片，主打“更轻、更薄、更窄、更圆润”。新机还将采用红魔第九代屏下技术，打造无孔全面屏。官方表示，红魔 12 Pro+ 搭载行业首款 185Hz 全面屏，支持 35+ 款热门游戏原生 185Hz 超高刷，可实现主流游戏全档位满帧。</p><p data-vmark=\"0e99\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/956d1025-1f53-4cd2-810b-27112bfcef7d.jpg\" w=\"1080\" h=\"1546\" data-vmark=\"9f22\" data-mpos=\"2,0\" data-weibo=\"1\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"7542\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4811\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/012/897.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/897.htm"
+    },
+    {
+      "id": 2676,
+      "title": "大众安徽与众 06 / 07 激光雷达版将于 10 月 17 日上市，支持城区领航辅助功能",
+      "summary": "IT之家 10 月 14 日消息，据汽车之家消息，大众与众 06 和与众 07 激光雷达版将于 10 月 17 日上市。新车将主要新增激光雷达，带来城区领航辅助，同时动力方面也将迎来升级，预计提供四驱版本。 新款与众 06 和与众 07 延续现款车型的设计，主要在车头顶部增加一颗激光雷达。 据IT之家此前报道，今年 5 月，焕新与众 06、全新与众 07 双车正式上市并启动交付，两款车型率先搭载基于征程 6M 芯片的行云智行智能辅助驾驶系统。 官方当时就曾预告，2026 年年",
+      "content": "<p data-vmark=\"e926\">IT之家 10 月 14 日消息，据汽车之家消息，大众与众 06 和与众 07 激光雷达版将于 10 月 17 日上市。<strong>新车将主要新增激光雷达，带来城区领航辅助</strong>，同时动力方面也将迎来升级，预计提供四驱版本。</p><p data-vmark=\"341c\">新款与众 06 和与众 07 延续现款车型的设计，主要在车头顶部增加一颗激光雷达。</p><p style=\"text-align: center;\" data-vmark=\"dbff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a857b3ae-151b-42e3-87f5-ed08182d867f.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"768\" data-weibo=\"0\" data-vmark=\"c6a9\" class=\"no-alt-img\"></p><p data-vmark=\"d0c1\">据IT之家此前报道，今年 5 月，<a target=\"_blank\" href=\"https://www.ithome.com/0/954/453.htm\">焕新与众 06、全新与众 07 双车正式上市并启动交付</a>，两款车型率先搭载基于征程 6M 芯片的行云智行智能辅助驾驶系统。</p><p style=\"text-align: center;\" data-vmark=\"72ef\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1569d6ac-e78f-4a24-b861-f3475a87086c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"540\" data-weibo=\"1\" data-vmark=\"029e\" class=\"no-alt-img\"></p><p data-vmark=\"e0d0\">官方当时就曾预告，2026 年年底，与众 06、与众 07 还将推出搭载基于<strong>征程 6H 芯片</strong>的酷睿程高阶辅助驾驶系统的版本。届时，<strong>两款车型将全面进阶城市 NOA 领航辅助</strong>，实现从“车位到车位”的无缝衔接，适配城市 U 型路口掉头、窄路会车、闸机智能识别等复杂城市路况。</p><p data-vmark=\"4a07\">动力方面，根据此前申报信息，新款与众 06 将升级搭载双电机四驱系统，目前现款车型仅提供单电机版本，前电机峰值功率 80kW，后电机峰值功率 170kW，系统综合功率为 250kW。</p><p data-vmark=\"78f9\">新款与众 07 依旧提供单电机版本，最大功率依然为 170kW，预计新车还将同步引入双电机四驱版本。</p><p data-vmark=\"80a7\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f046\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/954/365.htm\">大众安徽新款与众 06 上市：限时权益价 13.49 万-14.49 万元，528km 续航</a>》</p></li><li><p data-vmark=\"4964\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/954/357.htm\">金标大众首款轿车与众 07 上市，限时权益价 10.99 万-11.99 万元</a>》</p></li></ul><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"7d33\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4883\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/012/892.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/892.htm"
+    },
+    {
+      "id": 2677,
+      "title": "提升视听体验：苹果第四代 Apple TV 4K 支持 AV1 和杜比视界 Profile 8.1",
+      "summary": "IT之家 10 月 14 日消息，根据苹果官方技术规格页面，2026 款 Apple TV 4K（也称第四代）支持 AV1 硬件解码与 Dolby Vision Profile 8.1，两项能力均未出现在第三代 Apple TV 4K 的规格页中。 IT之家注：AV1 是一种由开放媒体联盟开发的开放视频编解码器，用于在传输前压缩视频。其目标是在相近画质下降低数据量，常用于流媒体平台，设备需具备相应解码能力才能播放该格式内容。 A19 芯片内置全新专用 AV1 解码器。苹果表示",
+      "content": "<p data-vmark=\"eea6\">IT之家 10 月 14 日消息，根据苹果官方技术规格页面，2026 款 Apple TV 4K（也称第四代）<strong>支持 AV1 硬件解码与 Dolby Vision Profile 8.1</strong>，两项能力均未出现在第三代 Apple TV 4K 的规格页中。</p><p data-vmark=\"f4e0\">IT之家注：AV1 是一种由开放媒体联盟开发的开放视频编解码器，用于在传输前压缩视频。其目标是在相近画质下降低数据量，常用于流媒体平台，设备需具备相应解码能力才能播放该格式内容。</p><p data-vmark=\"c817\">A19 芯片内置全新专用 AV1 解码器。苹果表示，该解码器可在占用更少带宽的情况下，提供更高效、更高质量的流媒体播放。苹果尚未公布哪些应用将提供 AV1 流。使用 HEVC 或 H.264 编码的服务仍可按原有方式播放。</p><p data-vmark=\"6b50\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1c7a93dd-ed2a-43b7-9eb1-f822e30e3c68.png\" w=\"980\" h=\"626\" data-weibo=\"0\" data-vmark=\"4d68\" class=\"no-alt-img\"></p><p data-vmark=\"50aa\">Dolby Vision Profile 8.1 是杜比视界动态 HDR 格式的一种配置文件。杜比视界内容按不同 Profile 封装，播放设备必须支持对应 Profile 才能以杜比视界方式呈现。</p><p data-vmark=\"cc4e\">苹果 Apple TV 4K 第三代仅列出 Profile 5，<strong>不过在升级 tvOS 17 后已支持 Profile 8.1</strong>；第四代则同时列出 Profile 8.1 与 Profile 5，可接受两种配置文件的杜比视界内容。</p><p data-vmark=\"2516\">Dolby Vision Profile 8.1 与 Profile 5 的核心区别在于封装方式与兼容性：Profile 5 是杜比视界专用的单层封装，不向下兼容 HDR10；Profile 8.1 在 HDR10 基础层之上加入杜比视界动态元数据。支持杜比视界的设备可读取动态元数据；不支持杜比视界的设备仍可依据 HDR10 基础层播放，因而具备更好的设备兼容性。</p><p data-vmark=\"6f6d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f061b41-b00e-4622-86c6-3f44661fb9fd.jpg\" w=\"1440\" h=\"811\" data-weibo=\"1\" data-vmark=\"8904\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/883.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/883.htm"
+    },
+    {
+      "id": 2678,
+      "title": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元",
+      "summary": "IT之家 10 月 14 日消息，华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机今日正式开售，内含专属保护壳、限定手办等，定价 799 元、优惠价 749 元。 京东华为 FreeBuds Neo【王者荣耀 朵莉亚 · 限定款】749 元直达链接 据介绍，华为 FreeBuds Neo 搭载鸿蒙 HarmonyOS 7 操作系统，耳机舱采用“星际小飞碟”全曲面飞梭设计，灵感源自黄金分割比例，人体工学流线造型贴合掌心；耳机本体采用“流光小灵杆”全新设计形",
+      "content": "<p data-vmark=\"cb63\">IT之家 10 月 14 日消息，华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机今日正式开售，内含专属保护壳、限定手办等，<strong>定价 799 元、优惠价 749 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"966b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1686dfc-1cae-452c-8eaf-35901e29d0c0.jpg?x-bce-process=image/format,f_auto\" w=\"1092\" h=\"849\" alt=\"HUAWEI FreeBuds Neo\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d12ab7a3acbdcf402b4fa63a7da5591e71b654f83170e56509b79521da25064249948e13865c3a295d\" data-vmark=\"0406\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDjYy0f\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDjPfnj\" data-iosurl=\"https://u.jd.com/FDjzwT0\" data-androidurl=\"https://u.jd.com/FGjOGJL\" data-hosnexturl=\"https://u.jd.com/FOj80VW\" data-hosurl=\"https://u.jd.com/FDjnvkC\" data-uwpurl=\"https://u.jd.com/FOj1t36\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6jDz7Y%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FajP4wU\" data-lpwxurl=\"https://u.jd.com/FgjnVKK\"   data-ncid=\"251184\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/517939/32/16001/32700/6ab478ceF42b4920e/008332032021833e.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为 FreeBuds Neo【王者荣耀 朵莉亚 · 限定款】</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">749 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"f3c7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3b978e47-9c64-4b86-9b22-74b74cb3ebd0.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"7066\" data-mpos=\"0,0\" data-weibo=\"1\"  data-vmark=\"979d\" class=\"no-alt-img\"></p><p data-vmark=\"8aef\">据介绍，华为 FreeBuds Neo 搭载鸿蒙 HarmonyOS 7 操作系统，耳机舱采用“星际小飞碟”全曲面飞梭设计，灵感源自黄金分割比例，人体工学流线造型贴合掌心；耳机本体采用“流光小灵杆”全新设计形态，单只耳机轻至 4.8 克、触控区域占比达 60%。</p><p style=\"text-align: center;\" data-vmark=\"779c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f227ca06-412d-498c-8ed9-4ed575ab0928.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1137\" data-vmark=\"4424\" data-mpos=\"2,0\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"9d65\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/599955f9-889a-44ad-a64e-7772b15c9f41.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1191\" data-vmark=\"57b6\" data-mpos=\"0,2\" class=\"no-alt-img\"></p><p data-vmark=\"d760\">该耳机搭载自研第三代音频 AI 芯片，双 DSP 架构与 NPU AI 处理器协同驱动 + 高阶自适应算法，每秒采集环境噪音信息高达 40 万次，噪音处理时延低至 8 微秒，可实现全场景智感降噪；通过 C 型管和导气孔双路协同优化声波传播路径，可减少风噪、环境杂音等进入耳内，全频段平均降噪深度最高可达 30dB。</p><p style=\"text-align: center;\" data-vmark=\"fd43\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/227b6bf1-98ee-4697-8831-93589417c96a.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"796\" data-vmark=\"9473\" data-mpos=\"0,2\" class=\"no-alt-img\"></p><p data-vmark=\"fe7c\">IT之家注意到，华为 FreeBuds Neo 支持双向静谧通话，三麦克风与骨传导麦克风协同，可滤除环境杂音，同时耳机支持自动强化人声频段。背景噪声高达 95dB 或风速达 9m/s 的嘈杂环境，也能保留清晰干净的通话人声。</p><p data-vmark=\"efae\" style=\"text-align: center;\"><a href=\"https://weibo.com/1839167003/RkjDJ9O13\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aa3174e5-795f-4f71-b9d3-fad2510e07b2.jpg?x-bce-process=image/format,f_auto\"></a></p><p data-vmark=\"7851\">该耳机降噪模式续航达 6.5 小时、关闭降噪续航达 10 小时，HarmonyOS、Android、iOS 系统用户可下载华为智慧音频 App 对耳机进行控制调整。另外，FreeBuds Neo 还支持星闪音频连接，拥有 16Mbps 速率（48kHz/24bit 无损传输）、170 米超广覆盖范围能力。</p><p style=\"text-align: center;\" data-vmark=\"8b75\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/67cc1d90-f2c8-45f7-8f56-e98f6be436e8.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"853\" data-vmark=\"a091\" data-mpos=\"0,2\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDjYy0f\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDjPfnj\" data-iosurl=\"https://u.jd.com/FDjzwT0\" data-androidurl=\"https://u.jd.com/FGjOGJL\" data-hosnexturl=\"https://u.jd.com/FOj80VW\" data-hosurl=\"https://u.jd.com/FDjnvkC\" data-uwpurl=\"https://u.jd.com/FOj1t36\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6jDz7Y%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FajP4wU\" data-lpwxurl=\"https://u.jd.com/FgjnVKK\"   data-ncid=\"251184\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/517939/32/16001/32700/6ab478ceF42b4920e/008332032021833e.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为 FreeBuds Neo【王者荣耀 朵莉亚 · 限定款】</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">749 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li></ul>",
+      "link": "https://www.ithome.com/1/012/852.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/852.htm"
+    },
+    {
+      "id": 2679,
+      "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
+      "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色，屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造，电池容量超 8000mAh。 而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色，会做运营商渠道机，包括移动 AI 定制版，用来继续冲量。 有网友询问畅享系列能否出阔直板机型，博主表示：“nova 先做了再说吧，一步步均摊成本",
+      "content": "<p data-vmark=\"f62c\">IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色，<strong>屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造</strong>，电池容量超 8000mAh。</p><p data-vmark=\"cb7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1fcbd7c0-185e-485a-bc53-91a0bc4e7c29.png\" w=\"800\" h=\"936\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1baf89c8f478771129dd2e71098af6f75d6061fd0fb564a9ec774d70d21b73e099a09ecdc9b3883f8\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRmC1fbZpy%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"658a\" class=\"no-alt-img\"></p><p data-vmark=\"7425\">而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色，<strong>会做运营商渠道机，包括移动 AI 定制版</strong>，用来继续冲量。</p><p data-vmark=\"9f9b\">有网友询问畅享系列能否出阔直板机型，博主表示：“<strong>nova 先做了再说吧，一步步均摊成本。</strong>”还有网友询问华为何时推出 10000mAh 电池的机型，博主称：“<strong>在做，明年应该能见到。</strong>”</p><p data-vmark=\"2611\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/f4ee1ece-f092-4937-b64c-098194e19927.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-vmark=\"ea48\" data-weibo=\"1\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：华为畅享 90 Pro Max 实拍图赏</figcaption><p data-vmark=\"0258\">综合IT之家此前报道，今年 6 月，华为畅享 100 Pro Max 被曝已立项，<a target=\"_blank\" href=\"https://www.ithome.com/0/958/732.htm\">内部代号“叶问”，预计年底前后登场</a>，瞄准中端市场。<a target=\"_blank\" href=\"https://www.ithome.com/1/011/896.htm\">该博主还在 10 月 12 日发文</a>，透露华为接下来子品牌、畅享 100 系列手机、Air（有 WATCH Air）产品线、麒麟 7 / 8 / 9 系芯片“来势汹汹”。</p><p data-vmark=\"54ea\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/85e166c4-c30d-4ec7-8831-de998319522a.png\" w=\"798\" h=\"538\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRmjQ9bnDr%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"14e3\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/012/835.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/835.htm"
+    },
+    {
+      "id": 2680,
+      "title": "映泰推出基于英特尔 \"Wildcat Lake\" 处理器的 BIWCL-PAT 工业单板计算机",
+      "summary": "IT之家 10 月 14 日消息，映泰 (BIOSTAR) 昨日宣布推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 BIWCL-PAT 工业单板计算机 (SBC)。 这一 SBC 尺寸为 148×102 (mm)，拥有 1 个 DDR5 SO-DIMM 内存模组插槽，3 个 M.2 插槽分别扩展 SSD 存储、蜂窝网络、WLAN 连接，配备 2 个 2.5GbE RJ-45，通过 HDMI 2.1、DisplayPort 1.4、LVDS 支持三路视频信",
+      "content": "<p data-vmark=\"fb69\">IT之家 10 月 14 日消息，映泰 (BIOSTAR) 昨日宣布推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 BIWCL-PAT 工业单板计算机 (SBC)。</p><p style=\"text-align: center;\" data-vmark=\"17db\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/65c94fe2-ceda-49e8-8faa-c709f7a80391.png?x-bce-process=image/format,f_auto\" w=\"1200\" h=\"600\" data-weibo=\"0\" data-vmark=\"e5d5\" class=\"no-alt-img\"></p><p data-vmark=\"8536\">这一 SBC 尺寸为 148×102 (mm)，拥有 1 个 DDR5 SO-DIMM 内存模组插槽，<strong>3 个 M.2 插槽分别扩展 SSD 存储、蜂窝网络、WLAN 连接</strong>，配备 2 个 2.5GbE RJ-45，通过 HDMI 2.1、DisplayPort 1.4、LVDS 支持三路视频信号输出。</p><p data-vmark=\"1c98\">其还具备 2 组 USB 10Gbps、4 组 USB 480Mbps、2 组 RS232/422/485、2 组 RS232、1 组 8bit 数字 I/O，支持 9~24V DC 供电，工作环境温度范围 0~+60℃。</p><p style=\"text-align: center;\" data-vmark=\"db12\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3840fd4d-e3ea-42cc-93b4-994124340558.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"750\" data-weibo=\"1\" data-vmark=\"ba0b\" class=\"no-alt-img\"></p><p data-vmark=\"1a27\">映泰表示，BIWCL-PAT 专为系统集成商 (SI) 设计，<strong>可应用于工业自动化、AIoT、边缘计算、HMI、POS、自助服务机等场景</strong>。</p>",
+      "link": "https://www.ithome.com/1/012/831.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/012/831.htm"
+    },
+    {
+      "id": 2681,
+      "title": "Epomaker Reveals Galaxy75 Wireless Mechanical Keyboard with Aluminium Case and VIA Support",
+      "summary": "Epomaker has officially confirmed that it is planning to launch a 75% version of its popular Galaxy series mechanical keyboards, building on the Galaxy100, Galaxy100 Lite, Galaxy80, Galaxy70, and Galaxy68. Although pricing is yet to be conf",
+      "content": "Epomaker has officially confirmed that it is planning to launch a 75% version of its popular Galaxy series mechanical keyboards, building on the Galaxy100, Galaxy100 Lite, Galaxy80, Galaxy70, and Galaxy68. Although pricing is yet to be confirmed, the keyboard was shown off in a recent Epomaker <a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=UlHiRPcEDto\" target=\"_blank\">livestream</a>, and there is already a <a rel=\"nofollow\" href=\"https://epomaker.com/products/epomaker-galaxy75\" target=\"_blank\">product page</a> for it on the Epomaker online store, denoting key specs and features. Speculation would put the Galaxy75 somewhere around the $80-100 price point, since the Galaxy68 and Galaxy70 are priced at $99.99 on Epomaker's website and Amazon. According to the site, the Galaxy75 will be available only with Epomaker's Creamy Jade linear switches. <br />\r\n<br />\r\nUnlike the Galaxy70 and Galaxy68, the Galaxy75 follows a more traditional, no-frills 75% layout, replete with a key in the F13 position and a full four-key navigation column on the right edge of the keyboard. The construction is also fairly standard, with an aluminium chassis, polycarbonate switch plate, and five layers of sound-damping foam, all of which Epomaker says delivers a &quot;dense thock&quot; sound signature. The case is also gasket mounted, and the keyboard has two aesthetic touches in the sparkle in what appears to be an electrophoretic coating and in the keycap sets. The Galaxy75 will launch in three colors, each of which has a matching Cherry profile keycap set: the black keyboard comes with black and orange dye-sublimated keycaps with cityscape printing, and the lavender and pink versions come with a mix of dye-sublimated solid PBT keycaps with accent keycaps featuring opaque ABS under a clear PC layer with UV-printed legends.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/bpklSXEn91fdozc9.jpg\" target=\"_blank\" data-width=\"1152\" data-height=\"810\" ><img src=\"https://tpucdn.com/img/bpklSXEn91fdozc9_thm.jpg\" width=\"185\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/QeSrRDHlFy0CdOBs.jpg\" target=\"_blank\" data-width=\"1819\" data-height=\"1062\" ><img src=\"https://tpucdn.com/img/QeSrRDHlFy0CdOBs_thm.jpg\" width=\"223\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/kETMDo85ZF6foGLF.jpg\" target=\"_blank\" data-width=\"1819\" data-height=\"1062\" ><img src=\"https://tpucdn.com/img/kETMDo85ZF6foGLF_thm.jpg\" width=\"223\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/xUzUtTZObh2E89gv.jpg\" target=\"_blank\" data-width=\"1819\" data-height=\"1062\" ><img src=\"https://tpucdn.com/img/xUzUtTZObh2E89gv_thm.jpg\" width=\"223\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353699/epomaker-reveals-galaxy75-wireless-mechanical-keyboard-with-aluminium-case-and-via-support\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353699/epomaker-reveals-galaxy75-wireless-mechanical-keyboard-with-aluminium-case-and-via-support",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "24d83565d6a0e073cf2eccc71a44aa71"
+    },
+    {
+      "id": 2684,
+      "title": "RTX 5070 Ti, 32 GB RAM: Powerful gaming laptop with 165 Hz display gets huge $701 discount",
+      "summary": "Deal | The Gigabyte Gaming A16 Pro laptop is now available with a sizable $701 discount on Walmart. Aimed at folks who prefer a sleek design, the gaming laptop sports a slim chassis and a whopping 32 GB of RAM.",
+      "content": "Deal | The Gigabyte Gaming A16 Pro laptop is now available with a sizable $701 discount on Walmart. Aimed at folks who prefer a sleek design, the gaming laptop sports a slim chassis and a whopping 32 GB of RAM.",
+      "link": "https://www.notebookcheck.net/RTX-5070-Ti-32-GB-RAM-Powerful-gaming-laptop-with-165-Hz-display-gets-huge-701-discount.1423336.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/RTX-5070-Ti-32-GB-RAM-Powerful-gaming-laptop-with-165-Hz-display-gets-huge-701-discount.1423336.0.html"
+    },
+    {
+      "id": 2685,
+      "title": "High-end Honor tablet with 8.4-inch OLED display detailed before launch",
+      "summary": "Honor has revealed the Win Tablet's design and color options ahead of its launch in China. A hands-on report has also detailed its key specifications.",
+      "content": "Honor has revealed the Win Tablet's design and color options ahead of its launch in China. A hands-on report has also detailed its key specifications.",
+      "link": "https://www.notebookcheck.net/High-end-Honor-tablet-with-8-4-inch-OLED-display-detailed-before-launch.1422844.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/High-end-Honor-tablet-with-8-4-inch-OLED-display-detailed-before-launch.1422844.0.html"
+    },
     {
       "id": 2566,
       "title": "乌克兰无人机袭击俄罗斯Yandex数据中心后 俄网络水军并未明显减少",
@@ -1130,6 +1631,36 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/HP-releases-compact-keyboard-mini-PC-with-AMD-Gorgon-Point-and-up-to-32-GB-RAM.1421773.0.html"
+    },
+    {
+      "id": 2682,
+      "title": "Cooler Master GPU Shield Gets Lower Price and Warranty Period in EU",
+      "summary": "A month after Cooler Master launched its GPU Shield 12v-2×6 power cable monitoring solution in the US, it has finally released the safety accessory in the EU, where it received a €29.99 price tag—compared to $49.99 in the US. Along with the",
+      "content": "A month after <a href=\"https://www.techpowerup.com/352611/cooler-master-gpu-shield-adapter-officially-launches-in-the-us\" target=\"_blank\">Cooler Master launched its GPU Shield 12v-2×6 power cable monitoring solution in the US</a>, it has finally released the safety accessory in the EU, where it received a €29.99 price tag—compared to $49.99 in the US. <br />\r\n<br />\r\nAlong with the lower price, however, Cooler Master has also reduced the warranty period on the GPU Shield adaptor cable from three years in the US and China to just two years in the EU—just barely covering the minimum threshold for legally mandated warranties in the EU, but still longer than the one-year warranty granted for the international version of the GPU Shield. The GPU Shield adaptor cable is available via <a rel=\"nofollow\" href=\"https://store.coolermaster.eu/products/gpu-shield-adapter\" target=\"_blank\">Cooler Master directly</a>, and it does not appear to be available on sites like Amazon just yet.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/KDO7GHWG3gl53rLH.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/KDO7GHWG3gl53rLH_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/s1CjywdpTjrdkm5s.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/s1CjywdpTjrdkm5s_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/o7iJztPApofc0Wmd.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/o7iJztPApofc0Wmd_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353692/cooler-master-gpu-shield-gets-lower-price-and-warranty-period-in-eu\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353692/cooler-master-gpu-shield-gets-lower-price-and-warranty-period-in-eu",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5b531b8a1c09974145ad5a420edede38"
+    },
+    {
+      "id": 2683,
+      "title": "HP EliteBoard G2a Keyboard Computer Launches with Eyewatering Price and AMD Ryzen AI 400 APUs",
+      "summary": "HP revealed the EliteBoard G2a keyboard PC at CES 2026, promising \"next-generation local AI power in a keyboard-sized form factor.\" Now, 10 months later, HP has released the updated EliteBoard G2a, revealing pricing and some of the keyboard",
+      "content": "HP revealed the <a href=\"https://www.techpowerup.com/344892/hp-brings-amd-powered-keyboard-computer-and-new-4k-office-monitor-with-thunderbolt-4-to-ces\" target=\"_blank\">EliteBoard G2a keyboard PC</a> at CES 2026, promising &quot;next-generation local AI power in a keyboard-sized form factor.&quot; Now, 10 months later, HP has released the updated EliteBoard G2a, revealing pricing and some of the keyboard and underlying PC specs, in the process. The G2a features either the updated AMD Ryzen AI 7 Pro 450 APU or its smaller Ryzen AI 5 Pro 435 counterpart. The cheapest version of the HP EliteBoard G2a, which packs a Ryzen AI 5 Pro, 16 GB of DDR5-5600 memory, and 512 GB of PCIe Gen 5 SSD storage, comes in at $3,028, while the SKU with the Ryzen AI 7 Pro 450 APU paired with 32 GB of memory and a 512 GB SSD, comes in at $4,167. <br />\r\n<br />\r\nThe small form factor PC is capable of drawing 65 W over USB Power Delivery, and the only I/O it features is a single USB4 port and a single USB Type-C 10 Gbps port. The EliteBoard G2a also features built-in dual speakers and comes bundled with an HP 675M wireless mouse. The keyboard component of the mini PC is a membrane keyboard, not mechanical, and it follows what appears to be an 1800 layout, and it has white backlighting. Fortunately, the EliteBoard G2a uses SODIMM RAM, so it's upgradeable in the event that you want 32 GB of RAM but don't want to pay HP's upgrade cost.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ADYx3iIjBv9WKbrI.jpg\" target=\"_blank\" data-width=\"1706\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ADYx3iIjBv9WKbrI_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/22xjK9uX9KZT0fS3.jpg\" target=\"_blank\" data-width=\"1130\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/22xjK9uX9KZT0fS3_thm.jpg\" width=\"153\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/iSFjsYvsl8VOFTmb.jpg\" target=\"_blank\" data-width=\"1130\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/iSFjsYvsl8VOFTmb_thm.jpg\" width=\"153\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/BWCFZ3uJpqVNmmNO.jpg\" target=\"_blank\" data-width=\"1130\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/BWCFZ3uJpqVNmmNO_thm.jpg\" width=\"153\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353690/hp-eliteboard-g2a-keyboard-computer-launches-with-eyewatering-price-and-amd-ryzen-ai-400-apus\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353690/hp-eliteboard-g2a-keyboard-computer-launches-with-eyewatering-price-and-amd-ryzen-ai-400-apus",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e2bf62a7bebf18b051506a1538e2a6a9"
     },
     {
       "id": 2438,
@@ -2945,6 +3476,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Sandisk-releases-SSDs-with-up-to-14-900-MB-s-speeds-and-7-68-TB-capacity-for-network-storage.1421858.0.html"
+    },
+    {
+      "id": 2686,
+      "title": "AMD Ryzen 9-powered Asus ROG gaming laptop with RTX 5060 scores $600 discount",
+      "summary": "Deal | Courtesy of an ongoing sale on Walmart, a well-equipped gaming laptop from Asus ROG is now available with a sizable $600 discount for a limited time. This laptop comes equipped with a powerful 16-core AMD CPU, an RTX 5060 GPU, and 16",
+      "content": "Deal | Courtesy of an ongoing sale on Walmart, a well-equipped gaming laptop from Asus ROG is now available with a sizable $600 discount for a limited time. This laptop comes equipped with a powerful 16-core AMD CPU, an RTX 5060 GPU, and 16 GB of RAM.",
+      "link": "https://www.notebookcheck.net/AMD-Ryzen-9-powered-Asus-ROG-gaming-laptop-with-RTX-5060-scores-600-discount.1421994.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/AMD-Ryzen-9-powered-Asus-ROG-gaming-laptop-with-RTX-5060-scores-600-discount.1421994.0.html"
     },
     {
       "id": 2382,
