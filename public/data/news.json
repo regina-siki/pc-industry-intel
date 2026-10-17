@@ -1,7 +1,372 @@
 {
-  "updatedAt": "2026-10-16",
-  "total": 2887,
+  "updatedAt": "2026-10-17",
+  "total": 2917,
   "list": [
+    {
+      "id": 2888,
+      "title": "RTX Spark对比M5 Pro：性能更差 价格却贵2200美元？",
+      "summary": "RTX Spark版Surface Laptop Ultra在多项性能测试中落后于M5 Pro版14英寸MacBook Pro。两款受测设备分别售价5900美元和3700美元，前者贵出2200美元，但在本次测试涉及的多数工作流中未能取得更高性能。 阅读全文",
+      "content": "<p>RTX Spark版Surface Laptop Ultra在多项性能测试中落后于M5 Pro版14英寸MacBook Pro。两款受测设备分别售价5900美元和3700美元，前者贵出2200美元，但在本次测试涉及的多数工作流中未能取得更高性能。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582636.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582636.htm"
+    },
+    {
+      "id": 2889,
+      "title": "高通CMO：第六代骁龙8至尊版不存在系统性散热问题",
+      "summary": "近日有市场传闻指出，高通最新的旗舰移动平台骁龙8 Elite Extreme Gen 6虽然是业内首款落地台积电2nm工艺的手机芯片，但全新制程并没有完全解决芯片在高负载长时间运行场景下的发热顽疾。 阅读全文",
+      "content": "<p>近日有市场传闻指出，高通最新的旗舰移动平台骁龙8 Elite Extreme Gen 6虽然是业内首款落地台积电2nm工艺的手机芯片，但全新制程并没有完全解决芯片在高负载长时间运行场景下的发热顽疾。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582618.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582618.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582618.htm"
+    },
+    {
+      "id": 2890,
+      "title": "中美芯片差距有多大？英特尔CEO陈立武发声谈及特朗普政府",
+      "summary": "10月17日，据《日经亚洲》报道，英特尔CEO陈立武(Lip-Bu Tan)在接受独家采访时表示，特朗普政府并没有制定“任何政策”，利用其在英特尔的少数股权来干预公司商业战略。 阅读全文",
+      "content": "<p>10月17日，据《日经亚洲》报道，英特尔CEO陈立武(Lip-Bu Tan)在接受独家采访时表示，特朗普政府并没有制定“任何政策”，利用其在英特尔的少数股权来干预公司商业战略。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582616.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582616.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582616.htm"
+    },
+    {
+      "id": 2891,
+      "title": "AI存储热潮推高后回落 铠侠市值较峰值缩水约三分之二",
+      "summary": "日本存储芯片厂商铠侠控股的市值从今年6月约60万亿日元的高点回落至10月中旬约21万亿日元，蒸发约六成半。10月15日，铠侠股价盘中一度下跌约14%，收盘跌幅约12.3%；次日收报13375日元。按拆股调整后的价格计算，该股较6月22日约37，565日元的高点回落约64%。铠侠于10月1日实施3合1拆股，因此比较历史每股价格时需使用调整后的口径。 阅读全文",
+      "content": "<p>日本存储芯片厂商铠侠控股的市值从今年6月约60万亿日元的高点回落至10月中旬约21万亿日元，蒸发约六成半。10月15日，铠侠股价盘中一度下跌约14%，收盘跌幅约12.3%；次日收报13375日元。按拆股调整后的价格计算，该股较6月22日约37，565日元的高点回落约64%。铠侠于10月1日实施3合1拆股，因此比较历史每股价格时需使用调整后的口径。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582604.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582604.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582604.htm"
+    },
+    {
+      "id": 2892,
+      "title": "微软将App-V Server支持期延至2029年10月 企业迁移窗口再延三年",
+      "summary": "微软宣布，将经典应用虚拟化基础设施App-V Server重新纳入固定生命周期延长支持，期限延至2029年10月9日，比原定于2026年4月结束的支持时间再延长三年。此举为仍依赖App-V服务器的企业争取更多时间，以评估并迁移至新的应用交付方案。 阅读全文",
+      "content": "<p>微软宣布，将经典应用虚拟化基础设施App-V Server重新纳入固定生命周期延长支持，期限延至2029年10月9日，比原定于2026年4月结束的支持时间再延长三年。此举为仍依赖App-V服务器的企业争取更多时间，以评估并迁移至新的应用交付方案。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582586.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582586.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582586.htm"
+    },
+    {
+      "id": 2894,
+      "title": "华为 WATCH Ultimate 2 非凡探索等开启鸿蒙 HarmonyOS 7 升级：系统界面全面焕新，新增高尿酸风险评估研究",
+      "summary": "IT之家 10 月 17 日消息，近日，华为 WATCH Ultimate 2 非凡探索 / HUAWEI WATCH ULTIMATE DESIGN 非凡大师紫金款 / 非凡大师尊界定制款开启鸿蒙 HarmonyOS 7 版本升级，带来更精致的界面交互、更进阶的运动体验，还有更多便捷、好用的新功能。 IT之家整理主要内容如下： “健康摘要”升级为“健康洞察”应用，新增身体状态准备度，评估当日状态。 华为创新研究应用新增高尿酸风险评估研究，可在手表侧直接启动高尿酸风险评估。 ",
+      "content": "<p data-vmark=\"7be2\">IT之家 10 月 17 日消息，近日，华为 WATCH Ultimate 2 非凡探索 / HUAWEI WATCH ULTIMATE DESIGN 非凡大师紫金款 / 非凡大师尊界定制款开启鸿蒙 HarmonyOS 7 版本升级，带来更精致的界面交互、更进阶的运动体验，还有更多便捷、好用的新功能。</p><p data-vmark=\"b2f8\"><strong>IT之家整理主要内容如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2429\">“健康摘要”升级为“健康洞察”应用，新增身体状态准备度，评估当日状态。</p></li><li><p data-vmark=\"d72b\">华为创新研究应用新增高尿酸风险评估研究，可在手表侧直接启动高尿酸风险评估。</p></li><li><p data-vmark=\"5b74\">微体检报告总览页布局更新，顶部类别图标支持一键直达测量结果，报告详情根据类别清晰分类。</p></li><li><p data-vmark=\"8084\">系统界面全面焕新，表盘与多任务列表等融入灵动光影，锻炼与睡眠等页面强化生命律动视觉。</p></li><li><p data-vmark=\"5f76\">新增万象模块表盘，支持自由搭配喝水、萌宠天气、熊猫敲木鱼等组件。</p></li><li><p data-vmark=\"02de\">新增录音机应用，可满足长时间录音需求。</p></li><li><p data-vmark=\"ada7\">科学睡眠全新升级，更新睡眠结构、新增稳定睡眠比例，更全面地呈现睡眠质量。</p></li><li><p data-vmark=\"5c63\">高尔夫功能体验提升。</p></li></ul><p data-vmark=\"026a\"><strong>报名方式：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a15d\">华为手机 / 平板：【我的华为 / 服务】App &gt; 首页 &gt; 升级尝鲜，根据提示一键报名</p></li><li><p data-vmark=\"7274\">其他品牌手机 / 平板：微信小程序 &gt;【我的华为】&gt; 点击首页热门活动下对应产品图，根据提示填写信息报名</p></li></ul><p data-vmark=\"197e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/86f83149-d7cd-46d7-963b-d3fa6c1f06a6.jpg\" w=\"1080\" h=\"7083\" data-weibo=\"0\" data-vmark=\"ee24\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/014/321.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/321.htm"
+    },
+    {
+      "id": 2895,
+      "title": "开发团队为 Sigma Touch 安卓平台 PC 游戏模拟器推出 1.4.2 更新，支持运行初代《孤岛惊魂》",
+      "summary": "IT之家 10 月 17 日消息，开发团队 Open Touch Gaming 为旗下 Sigma Touch 安卓平台 PC 游戏模拟器推出 1.4.2 更新，为初代《孤岛惊魂》引入支持。目前该模拟器已支持《雷神之锤 4》《异形大战铁血战士》（2000 年版）、《虚幻竞技场》（1999 年版）等作品。 Open Touch Gaming 表示，为了适应手机屏幕，其为游戏进行了多项优化，包括引入了“宽屏修正补丁”，让瞄准镜、双筒望远镜、雷达及 HUD 能够在现代全面屏手机保持",
+      "content": "<p data-vmark=\"b44d\">IT之家 10 月 17 日消息，开发团队 Open Touch Gaming 为旗下 Sigma Touch 安卓平台 PC 游戏模拟器推出 1.4.2 更新，为初代《孤岛惊魂》引入支持。目前该模拟器已支持《雷神之锤 4》《异形大战铁血战士》（2000 年版）、《虚幻竞技场》（1999 年版）等作品。</p><p style=\"text-align: center;\" data-vmark=\"8def\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c7323292-e7df-4916-ba7d-7bd9dbdf3391.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"720\" data-weibo=\"0\" data-vmark=\"0a29\" class=\"no-alt-img\"></p><p data-vmark=\"10a0\">Open Touch Gaming &nbsp;表示，为了适应手机屏幕，其为游戏进行了多项优化，包括引入了“宽屏修正补丁”，让瞄准镜、双筒望远镜、雷达及 HUD 能够在现代全面屏手机保持正确的显示比例。而针对触屏和手柄操作，游戏新增瞄准辅助功能，提供关闭、轻度、强力和自动锁定四档设置，帮助玩家更好地在游戏中操作武器。</p><p data-vmark=\"d86e\">目前，玩家可以从 Open Touch Gaming 官网相应模拟器 APK 文件进行安装，不过模拟器本身仅提供运行脚本，玩家需要自备“正版游戏”镜像运行，IT之家附官网（<a href=\"http://opentouchgaming.com/sigma-touch/\" target=\"_blank\"><span class=\"link-text-start-with-http\">http://opentouchgaming.com/sigma-touch/</span></a>）。</p>",
+      "link": "https://www.ithome.com/1/014/318.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/318.htm"
+    },
+    {
+      "id": 2896,
+      "title": "我国科学家在量子声学领域取得实验进展，实现跨 HBAR 多模式真纠缠声子态传输",
+      "summary": "IT之家 10 月 17 日消息，据新华社昨日报道，在中国科学院院士俞大鹏带领下，深圳国际量子研究院谭电课题组联合德国斯图加特大学研究人员，在声子量子信息领域取得实验进展，率先在可扩展的二维混合量子芯片实验平台上实现了多方真纠缠声子态的制备与跨节点传输。 论文摘要显示，研究团队利用两个高阶体声学波机械振子（HBAR）与可调超导量子比特耦合，在两个独立的 HBAR 中制备并表征了涉及两模式、四模式和六模式的真多体纠缠态，保真度分别为 0.912、0.790 和 0.570；团队",
+      "content": "<p data-vmark=\"a816\">IT之家 10 月 17 日消息，据新华社昨日报道，在中国科学院院士俞大鹏带领下，深圳国际量子研究院谭电课题组联合德国斯图加特大学研究人员，在声子量子信息领域取得实验进展，率先在可扩展的二维混合量子芯片实验平台上实现了多方真纠缠声子态的制备与跨节点传输。</p><p data-vmark=\"c4e1\">论文摘要显示，研究团队利用两个高阶体声学波机械振子（HBAR）与可调超导量子比特耦合，在两个独立的 HBAR 中制备并表征了涉及两模式、四模式和六模式的真多体纠缠态，保真度分别为 0.912、0.790 和 0.570；团队进一步演示了两模式和四模式真纠缠态在两个谐振器之间的传输，保真度分别为 0.785 和 0.601。</p><p data-vmark=\"5eea\">论文共同通讯作者谭电解释称，真纠缠意味着该量子态的纠缠不能归结为若干相互独立的低阶纠缠，而是由整个多模式系统共同分享的量子关联，这一特性是构建多节点量子网络和分布式量子信息处理的重要资源。</p><p data-vmark=\"3ea8\">HBAR 是此次实验的核心器件。声子作为固体晶格振动的准粒子，能够像光子一样充当量子信息的载体；HBAR 则具有多模式、长寿命和可在芯片上集成等优点，被研究团队视为构建下一代量子信息处理平台的关键器件。此前量子声学已在机械振动模式上实现了量子态的制备、操控和存储，但如何在机械振子系统中获得大规模多方真纠缠，并将纠缠资源在不同量子节点之间分发，一直是该领域的突出难题。</p><p data-vmark=\"82c2\">此次研究的硬件方案与传统路径有所不同。研究团队没有沿用依赖三维微波腔体的架构，而是将 HBAR、超导量子比特和可调量子耦合器集成在同一块二维混合量子芯片中，从而避免了三维腔体方案的空间与工程限制。在此基础上，团队完成了跨两个独立 HBAR 的多模式真纠缠态传输，使多模式声子纠缠从单个振子内部的局域资源，走向不同量子节点之间的分发。</p><p data-vmark=\"1faa\">在表征环节，研究团队还发展了量子比特复用的多模式声子态层析方法，仅用两个超导量子比特即完成了多模式声子纠缠态的量子态层析，实现了当前量子声学平台中规模最大的多模式声子态实验表征。研究团队进一步提出了可扩展的多 HBAR 混合声子量子处理架构：将多个超导量子比特分别耦合至独立的 HBAR 谐振器，并通过可控耦合器实现量子比特之间的相互作用，形成可模块化扩展的多节点声子量子网络。</p><p data-vmark=\"bf85\">这一架构的扩展空间部分来自 HBAR 本身支持大量声学模式的特性，团队认为未来通过增加 HBAR 和超导量子比特的数量，有望将多模式声子纠缠资源推进到更大规模。该成果标志着量子声学研究从少数机械模式的操控，迈向多模式、多节点和可扩展的声子量子信息处理，为新型声子量子计算平台和分布式量子网络提供了实验基础与硬件方向。</p><p data-vmark=\"4b96\">相关研究成果于当地时间 10 月 15 日在线发表于《科学》。IT之家附论文地址：<br><span class=\"link-text-start-with-http\">https://doi.org/10.1126/science.aeh4273</span></p>",
+      "link": "https://www.ithome.com/1/014/315.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/315.htm"
+    },
+    {
+      "id": 2897,
+      "title": "6499 → 4922 元：AOC AGP327UZD 叠曜版显示器新低，31.5 英寸 4K 240Hz 双模",
+      "summary": "AOC AGP327UZD 叠曜版 32 英寸显示器开售于 2026 年 9 月，首发价 6499 元。 京东 11.11 大促期间，PLUS 立减 29.99 元，领取 500 元优惠券，焕新补贴立减 546.9 元，到手价 4922.11 元： 京东 AOC 爱攻昊天 Max 32 英寸 WOLED 显示器 AGP327UZD 叠曜版券后 4949.1 元领 500 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。 相较原版 AGP32",
+      "content": "<p data-vmark=\"9422\">AOC AGP327UZD 叠曜版 32 英寸显示器开售于 2026 年 9 月，首发价 6499 元。</p><p data-vmark=\"4b93\">京东 11.11 大促期间，PLUS 立减 29.99 元，领取 500 元优惠券，焕新补贴立减 546.9 元，到手价 4922.11 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GdEKkd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GdpvSp\" data-iosurl=\"https://u.jd.com/5OdgCkR\" data-androidurl=\"https://u.jd.com/51dSbCd\" data-hosnexturl=\"https://u.jd.com/56dDjgV\" data-hosurl=\"https://u.jd.com/5OdBkNF\" data-uwpurl=\"https://u.jd.com/5gd05Qr\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5GdngDS%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5rdBeFQ\" data-lpwxurl=\"https://u.jd.com/56d328B\"   data-ncid=\"253351\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/519401/38/12473/281595/6aaf4735F3dc0e91b/00834384386d05fc.png\" w=\"1080\" h=\"1080\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC 爱攻昊天 Max 32 英寸 WOLED 显示器</span></span><span class=\"card-abstract\"> AGP327UZD 叠曜版</span><span class=\"card-controls\"><span class=\"price\">券后 4949.1 元</span><span class=\"card-btn-deep\">领 500 元券</span></span></span></span></a></dir><p data-vmark=\"fe09\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/5adrpDb\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5rd2vme\" data-iosurl=\"https://u.jd.com/56dvoCR\" data-androidurl=\"https://u.jd.com/51dAaDK\" data-hosnexturl=\"https://u.jd.com/5GdaRNr\" data-hosurl=\"https://u.jd.com/5OdgJps\" data-uwpurl=\"https://u.jd.com/5rdWE2H\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f56dAh0M%26EA_PTAG%3d17078.27.380\" data-ncid=\"253351\"><strong>点此抽取</strong></a>。</p><p data-vmark=\"7382\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ee9b3359-8a17-416c-8b09-0814db94ae70.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2526\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d189f6cdeaf417243d80b885c74bec76a9fba5f22561a577d310f7a413e62bb31c63ac29989570e48b\" data-vmark=\"7dc7\" class=\"no-alt-img\"></p><p data-vmark=\"6029\">相较原版 AGP327UZD，叠曜版<strong>升级至 LG Display 的 Primary RGB Tandem 2.0 技术四层 R-B-G-B WOLED 面板</strong>，相比传统三层结构亮度效率提升约 20%，色彩容量提升约 25%，色彩亮度提升约 40%，抗反光性能提升约 15%。</p><p data-vmark=\"aba4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/15fcbb43-6782-4a9d-8fb9-842358c34bea.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"bd19\" class=\"no-alt-img\"></p><p data-vmark=\"19a9\">这款显示器拥有 1,850,000:1 静态对比度，通过 VESA DisplayHDR True Black 500 认证，HDR 峰值亮度可达 1500nits（APL 1.5%），配备 AGLR 零雾度防眩光层。</p><p data-vmark=\"d6a2\">这款显示器支持 4K 240Hz 与 FHD 480Hz 一键双模切换，覆盖 99.5% DCI-P3 色域、100% sRGB 色域，出厂校色平均 ΔE＜1；配备 DP 2.1 接口、双 HDMI 2.1 接口，USB-C 接口支持 65W 反向充电，另外提供 3 个 USB 3.2 Gen1 接口。</p><p data-vmark=\"f5bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/81de202d-6ad7-43af-a2d5-8ef5d756aa57.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1080\" data-weibo=\"2\" alt=\"接口参数\" data-vmark=\"ae6e\"></p><p data-vmark=\"e7e2\">IT之家附这款显示器详细参数：</p><p data-vmark=\"d0dd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/972db986-c2d8-4671-8e21-109f890f1bfe.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"3832\" data-weibo=\"3\"  data-vmark=\"14e0\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GdEKkd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GdpvSp\" data-iosurl=\"https://u.jd.com/5OdgCkR\" data-androidurl=\"https://u.jd.com/51dSbCd\" data-hosnexturl=\"https://u.jd.com/56dDjgV\" data-hosurl=\"https://u.jd.com/5OdBkNF\" data-uwpurl=\"https://u.jd.com/5gd05Qr\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5GdngDS%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5rdBeFQ\" data-lpwxurl=\"https://u.jd.com/56d328B\"   data-ncid=\"253351\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/519401/38/12473/281595/6aaf4735F3dc0e91b/00834384386d05fc.png\" w=\"1080\" h=\"1080\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC 爱攻昊天 Max 32 英寸 WOLED 显示器</span></span><span class=\"card-abstract\"> AGP327UZD 叠曜版</span><span class=\"card-controls\"><span class=\"price\">券后 4949.1 元</span><span class=\"card-btn-deep\">领 500 元券</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f8e0\">淘宝 11.11 主会场：<a href=\"https://s.click.taobao.com/a6muNbi\" target=\"_blank\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"9603\">京东 11.11 主会场：<a href=\"https://u.jd.com/FgXTbTA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1XkzeO\" data-iosurl=\"https://u.jd.com/F6XEMr0\" data-androidurl=\"https://u.jd.com/FaXBM2A\" data-hosnexturl=\"https://u.jd.com/FaXE6ud\" data-hosurl=\"https://u.jd.com/FaXWGOm\" data-uwpurl=\"https://u.jd.com/FOXjm0u\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaXEnKV%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"bb09\" style=\"text-align: left;\">京东 11.11 手机叠加国补立减千元：<a href=\"https://u.jd.com/FDXJm2Q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGXXcon\" data-iosurl=\"https://u.jd.com/paPWrmy\" data-androidurl=\"https://u.jd.com/FGXTAaA\" data-hosnexturl=\"https://u.jd.com/paPWrmy\" data-hosurl=\"https://u.jd.com/FrXEEHo\" data-uwpurl=\"https://u.jd.com/FaXUwNy\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOXRxYJ%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此查看</strong></a></p></li><li><p data-vmark=\"f2eb\">京东 11.11 家电家居主会场：<a href=\"https://u.jd.com/F6Xx6fg\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgXNRwE\" data-iosurl=\"https://u.jd.com/FrXxd1m\" data-androidurl=\"https://u.jd.com/FOXJxnf\" data-hosnexturl=\"https://u.jd.com/FOXfLLj\" data-hosurl=\"https://u.jd.com/FgXc3fP\" data-uwpurl=\"https://u.jd.com/FGXkTz1\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrXR52p%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"c8c9\">京东 11.11 数码主会场：<a href=\"https://u.jd.com/F6XZzwW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FrXchRd\" data-iosurl=\"https://u.jd.com/FDXlKad\" data-androidurl=\"https://u.jd.com/pGPx9Qn\" data-hosnexturl=\"https://u.jd.com/F1Xj32k\" data-hosurl=\"https://u.jd.com/FOXjnzm\" data-uwpurl=\"https://u.jd.com/FDXANoO\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFgX5wjM%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/014/308.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/308.htm"
+    },
+    {
+      "id": 2898,
+      "title": "华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本",
+      "summary": "IT之家 10 月 17 日消息，数码博主“数码闲聊站”今日发文透露，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。 据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。 “星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。 2026 年 7 月，华为再次提交“星芒”商标申请，覆盖智能手机与芯片",
+      "content": "<p data-vmark=\"67df\">IT之家 10 月 17 日消息，数码博主“数码闲聊站”今日发文透露，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。</p><p data-vmark=\"69ba\">据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。</p><p style=\"text-align: center;\" data-vmark=\"bfaa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d26d5849-8000-4456-a089-2073345a4dc6.png?x-bce-process=image/format,f_auto\" w=\"1125\" h=\"321\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5354937991038612%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"582b\" class=\"no-alt-img\"></p><p data-vmark=\"d5bb\">“星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。</p><p data-vmark=\"3fb9\">2026 年 7 月，华为再次提交“星芒”商标申请，覆盖智能手机与芯片品类，目前状态为“注册申请中”。不过，商标布局本身并不等同于产品落地，此前多年市场上也曾出现过“星耀手机”等子品牌传闻，最终迟迟未兑现。</p><p data-vmark=\"fcfc\">目前，关于星芒手机的发布时间、具体型号、芯片规格和定价，均无来自华为的官方信息。</p><p data-vmark=\"86cb\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f833\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/672/039.htm\">华为申请“华为星耀”“星耀手机”“星耀环”“星耀版”等商标</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/014/299.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/299.htm"
+    },
+    {
+      "id": 2899,
+      "title": "AOC 推出“24E40XN”23.8 英寸显示器：1080P 180Hz VA 面板，549 元",
+      "summary": "IT之家 10 月 17 日消息，AOC 旗下“24E40XN”23.8 英寸显示器现已在京东发售，该机主打 1080P 180Hz，定价为 549 元。 该机配备一块 1920x1080 分辨率 180Hz VA 面板，GtG 响应速度 4ms，MPRT 响应速度 0.5ms，最高亮度可达 350 尼特，面板对比度可达 3000:1（Typ），支持 HDR 10，显示器支持 8-Bit 色彩，覆盖 90% DCI-P3 色域。 该机支架支持俯仰，显示器本体支持 100mm×",
+      "content": "<p data-vmark=\"ffe0\">IT之家 10 月 17 日消息，AOC 旗下“24E40XN”23.8 英寸显示器现已在京东发售，该机主打 1080P 180Hz，<strong>定价为 549 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0f48\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4af03709-df6e-4a3c-acea-ec1cde7e04fe.png?x-bce-process=image/format,f_auto\" w=\"588\" h=\"868\" data-weibo=\"0\" data-vmark=\"9dce\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c7fa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a0b1d220-99e5-4ec4-b66e-e43764a9a632.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"1150\" data-weibo=\"1\" data-vmark=\"5181\" class=\"no-alt-img\"></p><p data-vmark=\"3a3a\">该机配备一块 1920x1080 分辨率 180Hz VA 面板，GtG 响应速度 4ms，MPRT 响应速度 0.5ms，最高亮度可达 350 尼特，面板对比度可达 3000:1（Typ），支持 HDR 10，显示器支持 8-Bit 色彩，覆盖 90% DCI-P3 色域。</p><p data-vmark=\"2bb9\">该机支架支持俯仰，显示器本体支持 100mm×100mm VESA 壁挂，提供 1 个 HDMI 2.1、1 个 DP 1.4、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"045e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3a7b7cbc-c957-40a2-9861-116d0a11700e.png?x-bce-process=image/format,f_auto\" w=\"1102\" h=\"670\" data-weibo=\"2\" data-vmark=\"68d6\" class=\"no-alt-img\"></p><p data-vmark=\"2a1b\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"5a02\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b7f58a82-c06a-499f-b711-dc14531bca13.png?x-bce-process=image/format,f_auto\" w=\"630\" h=\"1346\" data-weibo=\"3\" data-vmark=\"6a25\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OdsoEJ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5Ddvsmq\" data-iosurl=\"https://u.jd.com/5Od3zKK\" data-androidurl=\"https://u.jd.com/5Odqom0\" data-hosnexturl=\"https://u.jd.com/5rdDUbT\" data-hosurl=\"https://u.jd.com/5Gd3O0B\" data-uwpurl=\"https://u.jd.com/51dGK7G\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5rdu8FS%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/56dqdtF\" data-lpwxurl=\"https://u.jd.com/5gd22JI\"   data-ncid=\"253334\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/520559/7/15021/73131/6ad1cf13F23d179dc/00833203200a7cf0.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC“24E40XN”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 549 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/014/292.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/292.htm"
+    },
+    {
+      "id": 2900,
+      "title": "我国首个全自主可控气象 AI 集合预报系统“风清”正式投入业务运行",
+      "summary": "IT之家 10 月 17 日消息，据香港文汇报，“风清”人工智能全球短中期集合天气预报系统 V1.0 近日通过业务化评审，正式投入全国气象业务运行。该系统依托国家超级计算天津中心核心节点的十万卡 AI4S 超算集群完成全流程训练与迭代，是我国首个实现数据、模型和算力完全自主可控的业务级气象 AI 集合预报模型，标志着天津超算算力在支撑我国气象人工智能技术发展方面取得重要进展。 据介绍，“风清”系统依托位于天津的国家超级计算中心算力基础设施，利用大规模、高并行度的 AI4S 科",
+      "content": "<p data-vmark=\"f6c1\">IT之家 10 月 17 日消息，据香港文汇报，“风清”人工智能全球短中期集合天气预报系统 V1.0 近日通过业务化评审，正式投入全国气象业务运行。该系统依托国家超级计算天津中心核心节点的十万卡 AI4S 超算集群完成全流程训练与迭代，<strong>是我国首个实现数据、模型和算力完全自主可控的业务级气象 AI 集合预报模型，标志着天津超算算力在支撑我国气象人工智能技术发展方面取得重要进展</strong>。</p><p data-vmark=\"c5e4\">据介绍，“风清”系统依托位于天津的国家超级计算中心算力基础设施，利用大规模、高并行度的 AI4S 科学计算集群，完成海量气象数据训练、模型优化与精度迭代。据介绍，该系统的核心算力、底层算法和数据源均实现国产化，构建起自主可控的气象智能预报技术体系，补齐了我国全球中期集合智能预报领域的技术短板。</p><p data-vmark=\"5aa3\">IT之家获悉，“风清”系统由国家气象中心牵头，联合多所高校和科研院所共同研发，融合视觉 Transformer 架构与气象物理约束算法，可刻画大气运动的不确定性，提升暴雨、台风、强对流等灾害性天气的概率预报能力。<strong>该系统的全球有效预报时效可达 11 天，多项核心预报指标、概率预报精度及离散度误差控制能力均优于欧洲中期天气预报中心（ECMWF）最新的人工智能集合预报系统</strong>。</p><p data-vmark=\"dc84\">与传统数值天气预报模式相比，该系统能够借助天津超算的算力支持，在数分钟内完成全球大范围气象要素推演，兼顾预报速度、精度与稳定性，提升对极端天气及中长期天气趋势的预判能力。</p><p data-vmark=\"4ba8\">该系统投入业务运行后，将服务全国气象防灾减灾、交通运输、能源调度、生态保护及民生保障等领域。后续研发团队还将持续优化模型精度与预报时效，进一步完善国产智能气象预报体系。</p><p data-vmark=\"0d0d\">近年来，天津持续推动超级计算、人工智能与气象科技融合发展，依托国家超级计算天津中心的算力优势，为大气科学、地球系统模拟和智能气象预报等领域的科研工作提供支持。“风清”系统正式投入运行，是天津超算支撑国家级气象科技创新的一项成果，也将为我国气象科技自主创新及全球智能天气预报技术发展提供支持。</p>",
+      "link": "https://www.ithome.com/1/014/289.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/289.htm"
+    },
+    {
+      "id": 2901,
+      "title": "Bolt 完成 Zeus GPU 测试芯片调试，实际产品预计 2028 年发售",
+      "summary": "IT之家 10 月 17 日消息，GPU 初创企业 Bolt Graphics 当地时间本月 13 日宣布，其已完成 Zeus 架构 GPU 测试芯片的调试工作，为商用产品的 2028 年发售打下了基础。 Bolt 的 Zeus 架构集成专用电磁仿真硬件，同时也能加速路径追踪图形负载，适用于物理 AI 等复杂计算场景。 Bolt 在台积电 12nm 工艺上进行了小尺寸测试芯片的流片。该测试芯片仅有 6mm²，A0 步进回片未被发现任何功能问题，功耗 1.4W。 Bolt 的商",
+      "content": "<p data-vmark=\"cfa3\">IT之家 10 月 17 日消息，GPU 初创企业 Bolt Graphics 当地时间本月 13 日宣布，其已完成 Zeus 架构 GPU 测试芯片的调试工作，为商用产品的 2028 年发售打下了基础。</p><p data-vmark=\"03cb\">Bolt 的 Zeus 架构<strong>集成专用电磁仿真硬件</strong>，同时也能加速路径追踪图形负载，适用于物理 AI 等复杂计算场景。</p><p data-vmark=\"feef\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/de4e65c3-7fb7-4edd-8f8d-a8dc1ceb4ac7.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"622e\" class=\"no-alt-img\"></p><p data-vmark=\"c031\">Bolt 在台积电 12nm 工艺上进行了小尺寸测试芯片的流片。该测试芯片仅有 6mm²，<strong>A0 步进回片未被发现任何功能问题</strong>，功耗 1.4W。</p><p data-vmark=\"1515\">Bolt 的<strong>商用 GPU 芯片则将采用台积电的 N5P 制程工艺</strong>，预计 2027Q1 开放开发者访问权限、2027 年底向早期访问计划客户提供首批产品、2028 年启动 PCIe AIC 和服务器量产、同年全面上市。</p>",
+      "link": "https://www.ithome.com/1/014/283.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/283.htm"
+    },
+    {
+      "id": 2902,
+      "title": "群智咨询：超七成主流品牌笔记本 OLED 面板来自三星显示，厂商加速引入中国供应商",
+      "summary": "IT之家 10 月 17 日消息，群智咨询 15 日公布的数据显示，主要笔记本电脑品牌使用的 OLED 面板中，超过 70% 来自三星显示。随着面板供应进一步集中，各大电脑厂商开始引入中国面板厂商，以确保供货稳定，并在价格谈判中争取更多主动权。 联想的 OLED 面板主要由三星供应，另有部分来自京东方与和辉光电。惠普同样以三星显示为主要供应商，部分机型采用和辉光电的面板。 华硕同时向三星显示、京东方与和辉光电采购面板，宏碁约 75% 的 OLED 面板则来自三星显示。戴尔 X",
+      "content": "<p data-vmark=\"42b0\" style=\"text-align: start;\">IT之家 10 月 17 日消息，群智咨询 15 日公布的数据显示，<strong>主要笔记本电脑品牌使用的 OLED 面板中，超过 70% 来自三星显示</strong>。随着面板供应进一步集中，各大电脑厂商开始引入中国面板厂商，以确保供货稳定，并在价格谈判中争取更多主动权。</p><p data-vmark=\"745e\" style=\"text-align: start;\">联想的 OLED 面板主要由三星供应，另有部分来自<strong>京东方与和辉光电</strong>。惠普同样以三星显示为主要供应商，部分机型采用和辉光电的面板。</p><p data-vmark=\"2718\" style=\"text-align: start;\">华硕同时向三星显示、京东方与和辉光电采购面板，宏碁约 75% 的 OLED 面板则来自三星显示。戴尔 XPS 系列使用 LG 显示的面板，其他产品主要由三星显示供货。</p><p data-vmark=\"1232\" style=\"text-align: start;\">随着越来越多笔记本电脑采用 OLED 屏幕，面板供应也进一步向少数厂商集中。去年第一季度，笔记本电脑 OLED 面板出货量为 210 万片，今年第二季度增至 430 万片，增长超过一倍，第三季度预计达到 490 万片。</p><p data-vmark=\"de74\" style=\"text-align: start;\">今年下半年，OLED 面板在笔记本电脑面板市场的份额<strong>预计将突破 10%</strong>。联想、惠普和华硕今年各自采用 OLED 面板的笔记本电脑占比预计也将超过 10%。</p><p data-vmark=\"19a7\" style=\"text-align: start;\">据韩媒 The Elec 报道，对单一供应商的依赖加深，给电脑厂商带来了更多压力。一旦生产中断，厂商很难迅速找到其他供货渠道，有限的采购选择也削弱了议价能力。在安排新品上市时间、确定面板规格时，厂商还需要与供应商进行更密切的协调。群智咨询指出，各大笔记本电脑品牌因此<strong>开始调整采购策略，寻求更多供应来源</strong>。</p><p data-vmark=\"ee97\" style=\"text-align: start;\">在入门级市场，<strong>TCL 华星准备供应采用喷墨打印技术生产的 OLED 面板</strong>。继今年第三季度开始供应显示器面板后，TCL 华星计划于第四季度量产笔记本电脑面板。</p><p data-vmark=\"f719\" style=\"text-align: start;\">中高端市场方面，京东方和维信诺也在扩大柔性 OLED 面板的供应。京东方 B16 产线于今年第二季度开始量产，维信诺则在第三季度启动笔记本电脑用柔性 OLED 面板的生产。</p><p data-vmark=\"5093\" style=\"text-align: start;\">液晶面板的市场份额则持续下滑。群智咨询预计，到 2030 年，非晶硅液晶面板在笔记本电脑面板市场的份额<strong>将从 2024 年的约 79% 降至约 48%</strong>。同期，OLED 面板的份额预计升至约 20%，氧化物液晶面板则将达到约 29%。随着 OLED 屏幕从高端笔记本电脑向入门级产品普及，笔记本电脑面板的技术格局也在改变。</p>",
+      "link": "https://www.ithome.com/1/014/277.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/277.htm"
+    },
+    {
+      "id": 2903,
+      "title": "市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元",
+      "summary": "IT之家 10 月 17 日消息，据新华社报道，国家市场监督管理总局 16 日通报，2025 年以来，市场监管总局会同公安部等部门聚焦城乡接合部、国省道沿线等加油机作弊违法行为高发频发区域，共立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元。 市场监管总局市场稽查专员嵇小灵介绍，当前加油机作弊呈现科技化、隐蔽化、链条化、双重危害性四大突出特点。 一是作弊手段科技化，可以远程控制调整作弊参数。不法分子不再局限于传统机械改动，主要通过更换加油机主板、",
+      "content": "<p data-vmark=\"6a31\">IT之家 10 月 17 日消息，据新华社报道，国家市场监督管理总局 16 日通报，2025 年以来，市场监管总局会同公安部等部门聚焦城乡接合部、国省道沿线等加油机作弊违法行为高发频发区域，<strong>共立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元</strong>。</p><p data-vmark=\"b755\">市场监管总局市场稽查专员嵇小灵介绍，当前加油机作弊呈现<strong>科技化、隐蔽化、链条化、双重危害性</strong>四大突出特点。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"aa59\">一是作弊手段科技化，可以远程控制调整作弊参数。不法分子不再局限于传统机械改动，主要通过更换加油机主板、加装作弊模块、植入作弊软件等方式，破解加油机原有防作弊自锁机制。经营者可以通过<strong>电脑、手机 App、遥控发射器</strong>，一键切换作弊开关、调整偷油比例。</p></li><li><p data-vmark=\"4f7e\">二是作弊行为高度隐蔽，常规检查难以即时发现。不法分子利用更换外观相同的计控芯片，修改芯片内部计控程序，在<strong>后台电脑设置多层防火墙隐藏作弊软件</strong>等方式，从外观上看不出改动痕迹。他们的反侦查意识强，日常执法检查时关闭作弊功能，加油机检定数据可以完全恢复正常，只有在开启作弊功能时才会产生计量偏差，普通车主加油时无法直观分辨加油量是否短缺，取证难度大。</p></li><li><p data-vmark=\"16f0\">三是违法链条化，形成跨区域黑灰产闭环。<strong>上游团伙负责研发、生产、销售作弊主板、作弊软件和控制设备；中游人员上门改装、现场调试；下游加油站负责实际使用作弊装置</strong>。团伙内部封闭性强，不法加油站之间还互相通风报信。</p></li><li><p data-vmark=\"a62e\">四是危害双重叠加，<strong>同时损害消费者与国家利益</strong>。一方面，直接侵害广大车主财产权益，每次加油短斤少两，日积月累损害群众利益；另一方面，篡改加油机税控累计数据，造成国家税款流失，破坏公平竞争的成品油市场秩序，损害行业利益，社会影响恶劣。</p></li></ul><p data-vmark=\"0e0d\">IT之家从报道中获悉，针对加油机作弊上述新特点，市场监管、公安、商务、税务等部门联合发力，既查办加油站终端违法行为，又深挖上游生产、销售作弊设备犯罪链条。</p><p data-vmark=\"537b\">公安部十一局二级巡视员李海峰说，下一步，公安机关将紧密结合当前加油机作弊违法犯罪活动的新形势新特点，加强线索发现，坚持全链打击，推动源头治理，注重宣传警示。同时，欢迎群众积极提供线索。</p>",
+      "link": "https://www.ithome.com/1/014/273.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/273.htm"
+    },
+    {
+      "id": 2904,
+      "title": "颂拓推出 Suunto Race 3S 智能运动手表：3000nit 亮度、钛金属 + 蓝宝石，3999 元",
+      "summary": "IT之家 10 月 17 日消息，颂拓于 10 月 15 日发布 Suunto Race 3S 智能运动手表，新品现已开售，售价 3999 元。 Suunto Race 3S 表头重量 38g，整机含表带重量 56g；采用 5 级钛金属外壳搭配蓝宝石镜面，支持 50 米防水，搭配多孔亲肤硅胶表带；有暮光紫、岩雾灰、玄夜黑三种颜色可选。 这款新品配备 1.32 英寸 AMOLED 高清高亮触控屏，分辨率 466*466，峰值亮度可达 3000nit；高性能模式（双频多星定位）续",
+      "content": "<p data-vmark=\"c6d2\">IT之家 10 月 17 日消息，颂拓于 10 月 15 日发布 Suunto Race 3S 智能运动手表，新品现已开售，<strong>售价 3999 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6527\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/207539a4-d4be-4fd2-9d32-2c2f97f43df4.jpg?x-bce-process=image/format,f_auto\" w=\"790\" h=\"1255\" data-mpos=\"2,0\" data-weibo=\"0\"  alt=\"配色展示\" data-vmark=\"0862\"></p><p data-vmark=\"9ff7\">Suunto Race 3S 表头重量 38g，整机含表带重量 56g；采用 5 级钛金属外壳搭配蓝宝石镜面，支持 50 米防水，搭配多孔亲肤硅胶表带；有暮光紫、岩雾灰、玄夜黑三种颜色可选。</p><p style=\"text-align: center;\" data-vmark=\"be7b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/955da627-dd95-4dd8-8617-7fffec9f2d24.png\" w=\"1440\" h=\"1219\" data-vmark=\"16bf\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"59d5\">这款新品配备 1.32 英寸 AMOLED 高清高亮触控屏，分辨率 466*466，峰值亮度可达 3000nit；高性能模式（双频多星定位）续航可达 38 小时，持久模式（单频多星定位）续航可达 45 小时，日常使用模式（每天运动 1 小时 + 全天心率监测）续航可达 10 天。</p><p style=\"text-align: center;\" data-vmark=\"ddec\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f2fd5b65-8986-4c51-bece-3837ea60a3f4.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"800\" data-vmark=\"41c9\" data-weibo=\"2\" alt=\"AMOLED高亮屏介绍\"></p><p data-vmark=\"8f44\">这款产品升级 4PD 6LED 心率传感器，配合玻璃后盖能减少运动晃动和汗水干扰；内置 64GB 存储空间，提供全球免费离线地图，满足户外越野导航需求；支持 100+ 种运动模式，覆盖跑步、越野、骑行、铁三、徒步、滑雪等多种运动场景，支持 300+ 第三方运动 App 数据同步。</p><p style=\"text-align: center;\" data-vmark=\"48a6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cd492e90-cf50-40ca-8687-6f8f0cd8e707.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1708\" data-vmark=\"de66\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"4e3e\">IT之家附产品型号对比如下：</p><p style=\"text-align: center;\" data-vmark=\"17f3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b7dc21e7-e4db-473b-91ca-d75aaf09d899.jpg?x-bce-process=image/format,f_auto\" w=\"790\" h=\"2069\" data-weibo=\"4\" alt=\"产品型号对比\" data-vmark=\"0e41\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gthXty\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5Ot90ws\" data-iosurl=\"https://u.jd.com/5atlrV1\" data-androidurl=\"https://u.jd.com/5GtV1NF\" data-hosnexturl=\"https://u.jd.com/5DtN3AC\" data-hosurl=\"https://u.jd.com/5GtXb6e\" data-uwpurl=\"https://u.jd.com/5GtkRHi\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5at7VWs%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5DtxojM\" data-lpwxurl=\"https://u.jd.com/5rthtiR\"   data-ncid=\"253300\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/538861/26/11893/58089/6acf4dcbFbf450952/00833203206aaa46.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">颂拓（SUUNTO） RACE 3S 运动手表 暮光紫</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 3999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/014/270.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/270.htm"
+    },
+    {
+      "id": 2905,
+      "title": "努比亚 V90 Pro 手机渲染图曝光：1.08 亿像素主摄、存储翻倍至 512GB",
+      "summary": "IT之家 10 月 17 日消息，消息源 @_evanblass_ 于 10 月 15 日在 X 平台发布推文，分享了一组渲染图，展示了努比亚（nubia）V90 Pro 手机，外观方面延续 V80 Pro 设计，并带来更大存储、湿手触控等升级。 屏幕方面，努比亚 V90 Pro 预计采用 6.75 英寸挖孔屏，屏幕峰值亮度可达 1,000 尼特，并支持湿手触控。机身厚度为 7.7 毫米，与前代保持一致，主打轻薄手感。 影像方面，后置相机模组上印有“108MP”标识，表明该机",
+      "content": "<p data-vmark=\"d5ed\">IT之家 10 月 17 日消息，消息源 @_evanblass_ 于 10 月 15 日在 X 平台发布推文，分享了一组渲染图，<strong>展示了努比亚（nubia）V90 Pro 手机，外观方面延续 V80 Pro 设计，并带来更大存储、湿手触控等升级。</strong></p><p style=\"text-align: center;\" data-vmark=\"fe3b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/18356e50-736a-48eb-bf81-dd7ff1e34f14.png?x-bce-process=image/format,f_auto\" w=\"1123\" h=\"1365\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2F_evanblass_%2Fstatus%2F2110729945156853893%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2F_evanblass_%2Fstatus%2F2110729945156853893%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"28a8\" class=\"no-alt-img\"></p><p data-vmark=\"cdb3\">屏幕方面，努比亚 V90 Pro 预计采用 6.75 英寸挖孔屏，屏幕峰值亮度可达 1,000 尼特，并支持湿手触控。机身厚度为 7.7 毫米，与前代保持一致，主打轻薄手感。</p><p data-vmark=\"9d13\">影像方面，后置相机模组上印有“108MP”标识，表明该机将配备 1.08 亿像素主摄；模组虽呈现三个开孔，但目前尚不能确认是否搭载三颗独立传感器。机身还带有 Neo Vision 标识和 LED 闪光灯。</p><p data-vmark=\"967e\">存储方面，V90 Pro 预计提供 512GB 版本，容量是 V80 Pro 的两倍。泄露图显示，该机具备防摔能力和 IP 级防尘防水，机身底部保留了 3.5mm 耳机孔和 USB-C 接口；侧面则有努比亚标志性的红色电源键，以及 SIM 卡槽下方的额外按键。</p><p data-vmark=\"0ee8\">配色上，本次曝光的渲染图中，展示 V90 Pro 提供酒红色、黑色 / 深灰色和浅蓝色三种选择。IT之家附上相关图片如下：</p><p style=\"text-align: center;\" data-vmark=\"c00e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f44de9dd-6d2c-4006-a570-e35ea48d5452.png?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"377\" data-weibo=\"1\" data-vmark=\"ed46\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"43df\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a6ac7209-628c-4c1f-85ba-110e911ce177.png?x-bce-process=image/format,f_auto\" w=\"867\" h=\"565\" data-weibo=\"2\" data-vmark=\"fabe\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"4e64\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/29a72e93-0318-42dc-86a1-007a1c1f9570.png?x-bce-process=image/format,f_auto\" w=\"867\" h=\"496\" data-weibo=\"3\" data-vmark=\"e329\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"efda\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b0bd1a57-3ea0-4ec1-a7b6-824db271cc98.png?x-bce-process=image/format,f_auto\" w=\"1200\" h=\"1200\" data-weibo=\"4\" data-vmark=\"b21d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"29f6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/99729c34-d44e-4dcb-b213-3190ac9ac84e.png?x-bce-process=image/format,f_auto\" w=\"712\" h=\"900\" data-weibo=\"5\" data-vmark=\"abdf\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"f8bd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3954de68-ec52-4c0f-b43d-ae70085cfc55.png?x-bce-process=image/format,f_auto\" w=\"646\" h=\"900\" data-weibo=\"6\" data-vmark=\"51ef\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"623c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/76002099-7f59-47a4-bb09-4e175c30f573.png?x-bce-process=image/format,f_auto\" w=\"870\" h=\"502\" data-weibo=\"7\" data-vmark=\"0ae6\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"4014\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f381b525-c428-4d6b-acf5-ed8f0081db7b.png?x-bce-process=image/format,f_auto\" w=\"601\" h=\"900\" data-weibo=\"8\" data-vmark=\"903e\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"ddd7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/11a0bf64-5fb3-493e-bf71-2ae1e924bb20.png?x-bce-process=image/format,f_auto\" w=\"844\" h=\"900\" data-vmark=\"6259\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"22bf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ade5eff9-4dc3-4833-a744-288d4e061664.png?x-bce-process=image/format,f_auto\" w=\"870\" h=\"890\" data-vmark=\"3909\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"a349\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/297cd09e-8f98-4a29-9a0e-7b1a75a06d87.png?x-bce-process=image/format,f_auto\" w=\"809\" h=\"1200\" data-vmark=\"21ca\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"2aa1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/300c4a5c-7fbf-4083-8b28-560728109f6c.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"900\" data-vmark=\"ead1\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/014/268.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/268.htm"
+    },
+    {
+      "id": 2906,
+      "title": "工信部公布新准入车辆生产企业名单，岚图汽车在列",
+      "summary": "IT之家 10 月 17 日消息，工信部昨日公布《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，岚图汽车科技股份有限公司在列，备注显示为东风集团成员企业。 岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。2020 年 7 月 17 日，东风公司在武汉正式发布全新高端电动品牌中文名“岚图”及品牌 LOGO，全新的岚图汽车科技公司正式成立。 今年 3 月 19 日，岚图汽车正式在香港联交所主板挂牌上市，",
+      "content": "<p data-vmark=\"c5b3\">IT之家 10 月 17 日消息，工信部昨日公布《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，岚图汽车科技股份有限公司在列，备注显示为东风集团成员企业。</p><p style=\"text-align: center;\" data-vmark=\"ddae\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/58398002-7dc8-443c-a711-5255df13a13a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"678\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"15fe\" class=\"no-alt-img\"></p><p data-vmark=\"5f35\">岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。2020 年 7 月 17 日，东风公司在武汉正式发布全新高端电动品牌中文名“岚图”及品牌 LOGO，全新的岚图汽车科技公司正式成立。</p><p data-vmark=\"5501\">今年 3 月 19 日，岚图汽车正式在香港联交所主板挂牌上市，号称“央国企高端新能源汽车第一股”。</p><p data-vmark=\"0672\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/009/095.htm\">岚图汽车 2026 年 9 月交付 13,025 辆</a>；今年 1-9 月累计交付 115,481 辆，同比增长 19%。</p><p style=\"text-align: center;\" data-vmark=\"5c3c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/03929c6c-460f-401e-87f8-edb73f766b82.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"2241\" data-weibo=\"1\" data-vmark=\"17a6\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/014/262.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/262.htm"
+    },
+    {
+      "id": 2907,
+      "title": "行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行",
+      "summary": "IT之家 10 月 17 日消息，10 月 16 日，第十届未来网络发展大会在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。 紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布基于确定性网络（指在一个网络域内给承载的业务提供确定性业务保证的能力）的智能体互联平台 AXP，可实现智算网深度融合调度、异构智能体协议统一转换，支持百万级智能体注册接入、十万级智能体同时在线运行，达成秒级故障感知切换、百毫秒级",
+      "content": "<p data-vmark=\"89c8\">IT之家 10 月 17 日消息，10 月 16 日，<strong>第十届未来网络发展大会</strong>在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。</p><p style=\"text-align: center;\" data-vmark=\"cc5e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/80c45e1d-2aa1-42ac-8050-3089cd94dd79.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"958\" data-weibo=\"0\" data-vmark=\"b13b\" class=\"no-alt-img\"></p><p data-vmark=\"9346\">紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布<strong>基于确定性网络</strong>（指在一个网络域内给承载的业务提供确定性业务保证的能力）<strong>的智能体互联平台 AXP</strong>，可实现智算网深度融合调度、异构智能体协议统一转换，<strong>支持百万级智能体注册接入、十万级智能体同时在线运行</strong>，达成秒级故障感知切换、百毫秒级语义寻址响应。</p><p data-vmark=\"9a10\">IT之家获悉，依托国家级未来网络试验设施（CENI），平台可完成 4000 公里以上跨域高精度智能体寻址访问，有效降低 20% 以上端到端任务执行耗时。</p><p data-vmark=\"eb22\">目前，紫金山实验室已联合电信运营商、通信设备企业、大型钢铁制造企业等多方主体，开展多场景智能体联合测试与产业化验证。</p><p data-vmark=\"80dc\">此次平台的成功发布，标志着我国在智能体互联网新型基础设施建设领域取得关键性技术突破，为人工智能跨域协同、规模化落地应用提供了坚实的网络支撑。</p>",
+      "link": "https://www.ithome.com/1/014/259.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/259.htm"
+    },
+    {
+      "id": 2908,
+      "title": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年",
+      "summary": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。 IT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。 功能方面，App-V Serv",
+      "content": "<p data-vmark=\"d256\">IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，<strong>报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。</strong></p><p data-vmark=\"87c3\">IT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。</p><p style=\"text-align: center;\" data-vmark=\"4fcf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6a11840b-440b-425c-bcf5-051b091f4a9d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"927\" data-weibo=\"0\" data-mpos=\"2,1\"  data-vmark=\"6cf5\" class=\"no-alt-img\"></p><p data-vmark=\"a378\">功能方面，App-V Server 主要将 Win32 应用以“流式”方式集中分发到用户设备，无需在每台电脑上完成完整本地安装；企业曾广泛用它来简化软件部署、降低终端管理负担。</p><p data-vmark=\"659d\">微软原本计划于 2026 年 4 月停止支持，此次延长支持并不代表 App-V Server 恢复功能开发。微软明确表示，该产品不会获得新增功能或功能性改动，扩展支持主要是在必要时提供安全补丁。</p>",
+      "link": "https://www.ithome.com/1/014/258.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/258.htm"
+    },
+    {
+      "id": 2909,
+      "title": "微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题",
+      "summary": "IT之家 10 月 17 日消息，微软今天（10 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的新预览版 Build 28120.3272，主要修复音频组件导致部分应用崩溃故障。 Windows 11 26H1 主要适用于高通骁龙 X2 系列 ARM 笔记本（最主要目标平台），还有 NVIDIA N1X 等新一代 SoC 芯片设备，这些设备主打长续航、低功耗、原生 NPU",
+      "content": "<p data-vmark=\"cebf\">IT之家 10 月 17 日消息，微软今天（10 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的新预览版 Build 28120.3272，<strong>主要修复音频组件导致部分应用崩溃故障。</strong></p><p data-vmark=\"7a68\">Windows 11 26H1 主要适用于高通骁龙 X2 系列 ARM 笔记本（最主要目标平台），还有 NVIDIA N1X 等新一代 SoC 芯片设备，这些设备主打长续航、低功耗、原生 NPU 算力。</p><p data-vmark=\"62c1\">IT之家附上本次更新日志内容如下：</p><p data-vmark=\"db0d\"><strong>变更与改进正在逐步推出</strong></p><p data-vmark=\"65e9\"><strong>【搜索】</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"cef4\">简化搜索主页界面，减少视觉干扰，方便快速查看近期搜索记录。</p></li><li><p data-vmark=\"0d38\">搜索结果会更清晰地标注来源，区分应用、系统设置、本地文件、网页内容或微软商店推荐项。点击前即可直观知晓条目类型与跳转目标。</p></li><li><p data-vmark=\"2b09\">在「设置 &gt; 隐私和安全性 &gt; 搜索」中新增选项，可选择是否在本地结果旁显示网页及微软商店推荐内容。</p></li></ul><p data-vmark=\"ec45\"><strong>【光标指示器】</strong></p><p data-vmark=\"35ba\">新增无障碍选项：<strong>光标指示器。</strong>该功能帮助低视力 Windows 用户快速定位光标，提升 Windows 设备的操作效率。</p><p data-vmark=\"f4b4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6da93897-7de3-4eab-b355-59311874e7d9.png\" w=\"1066\" h=\"1056\" data-weibo=\"0\" data-vmark=\"aa2b\" class=\"no-alt-img\"></p><p data-vmark=\"d407\">开启路径：设置 &gt; 辅助功能 &gt; 鼠标指针和触控，打开<strong>光标指示器</strong>开关，也可直接搜索该设置项。功能启用后，可使用快捷键 Win + Ctrl + Shift + X 快速切换开启 / 关闭。光标指示器及其相关选项位于「鼠标指针和触控」页面内。</p><p data-vmark=\"7546\"><strong>【实时字幕】</strong></p><p data-vmark=\"9a22\">为实时字幕新增「包含屏幕阅读器音频」选项，默认关闭。关闭该选项时，实时字幕不会转录讲述人（Narrator）、JAWS、NVDA 等屏幕阅读器的声音，仅保留麦克风输入与系统音频的字幕转写。</p><p data-vmark=\"9802\"><strong>【设置 - 隐私和安全性】</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"d5ba\">优化 Windows 设置的隐私和安全性页面，相机、麦克风、位置权限等隐私控制项更易于查找。页面将同类管控选项整合，并把原本深藏在子页面的使用信息直接展示在此页。</p></li></ul><p data-vmark=\"2ac2\"><strong>【家庭安全】</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"618b\">优化应用因家长年龄限制策略被拦截时的家庭安全提示文案。</p></li></ul><p data-vmark=\"8e96\">【其他修复】</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8242\"><a href=\"https://www.ithome.com/1/009/593.htm\" target=\"_blank\">修复 <span class=\"link-text-start-with-http\">msmpeg2ac3dec.dll</span> 引发的近期部分应用与游戏崩溃问题</a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/014/254.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/254.htm"
+    },
+    {
+      "id": 2910,
+      "title": "小米准备 REDMI Book 16 2027 笔电，可选英特尔酷睿 5 处理器 320",
+      "summary": "IT之家 10 月 17 日消息，根据 Geekbench 基准测试数据库的记录，小米正在准备 REDMI Book 16 2027 笔记本电脑。该机型的参测示例均基于英特尔 \"Wildcat Lake\" 酷睿 5 处理器 320，配备 16GB DDR5-4800 内存。 IT之家注意到，小米 REDMI Book 此前就出现在了英特尔今年早些时候公布的第 3 代酷睿处理器消费级与商用产品名单中。 相关阅读： 《小米 REDMI 首款耳夹式耳机 Clip Neo 珍珠白、零",
+      "content": "<p data-vmark=\"e315\">IT之家 10 月 17 日消息，根据 Geekbench 基准测试数据库的记录，小米正在准备 REDMI Book 16 2027 笔记本电脑。该机型的参测示例<strong>均基于英特尔 \"Wildcat Lake\" 酷睿 5 处理器 320</strong>，配备 16GB DDR5-4800 内存。</p><p data-vmark=\"dc5a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1c736b3b-5ad6-4b1b-adbe-04a0ee0f5bc9.png?x-bce-process=image/format,f_auto\" w=\"720\" h=\"1080\" data-weibo=\"0\" data-vmark=\"e7a4\" class=\"no-alt-img\"></p><p data-vmark=\"ce2b\">IT之家注意到，小米 REDMI Book 此前就出现在了英特尔今年早些时候公布的第 3 代酷睿处理器<a href=\"https://www.ithome.com/0/941/070.htm\" target=\"_blank\">消费级与商用产品名单中</a>。</p><p data-vmark=\"24b8\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"6f3b\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/013/949.htm\">小米 REDMI 首款耳夹式耳机 Clip Neo 珍珠白、零度黑亮相，K100 同场发布</a>》</p></li><li><p data-vmark=\"0d12\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/013/728.htm\">小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/014/251.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/014/251.htm"
+    },
+    {
+      "id": 2912,
+      "title": "HWiNFO Lists PTL-080, a Smaller Panther Lake Chip for Arc G-Series Handhelds",
+      "summary": "Intel seems to be preparing a smaller chip for its Arc G-series handheld lineup, and the first trace of it has appeared in HWiNFO. The monitoring tool's list of upcoming changes now includes support for \"Panter Lake-H 080,\" typo and all. Le",
+      "content": "Intel seems to be preparing a smaller chip for its Arc G-series handheld lineup, and the first trace of it has appeared in HWiNFO. The monitoring tool's list of upcoming changes now includes support for &quot;Panter Lake-H 080,&quot; typo and all. Leaker <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2111094830705361305\" target=\"_blank\">Jaykihn</a> spotted the entry on X and says the chip, PTL-080, is an Arc G-series part with a 0+8+0+4 configuration. If that follows the same P-core, E-core, LPE core and Xe3 order Jaykihn has used before, it works out to eight E-cores, no P-cores or LPE cores, and a four-core Xe3 GPU. For comparison, the <a href=\"https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs\" target=\"_blank\">Arc G3 and Arc G3 Extreme</a> both use a 14-core 2+8+4 CPU, paired with 10 and 12 Xe3 cores respectively.<br />\r\n<br />\r\nThis isn't the first smaller Arc G chip to surface. Back in August, Jaykihn posted a &quot;4+0+4+4&quot; handheld layout, which <a href=\"https://www.techpowerup.com/351786/intel-prepares-panther-lake-arc-g3-with-4-xe3-gpu-cores-for-entry-level-handhelds\" target=\"_blank\">pointed to an entry-level part</a> with four P-cores, four LPE cores and the same four Xe3 cores, and a later report put its power target at 8 W to 25 W. The new listing keeps the GPU size but drops the P-cores entirely. Apparently, the two might not ship side by side either. In a follow-up post, Jaykihn said the 4+0+4+4 design may be wholly replaced by 0+8+0+4, and that he'll share an update if and when that's finalized. Intel hasn't announced anything officially yet, so clocks, power limits, naming and pricing are all unknown. A four-core Xe3 GPU will likely trail the G3 parts by a wide margin in games, so it's reasonable to expect this chip in lower-priced devices.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/sNXP0DYCL1LIJD5P.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"843\" ><img src=\"https://tpucdn.com/img/sNXP0DYCL1LIJD5P_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/S6jxErhw3iIYNKXy.jpg\" target=\"_blank\" data-width=\"723\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/S6jxErhw3iIYNKXy_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353815/hwinfo-lists-ptl-080-a-smaller-panther-lake-chip-for-arc-g-series-handhelds",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "55d3b99adbacb2ccc454d32396967eb9"
+    },
+    {
+      "id": 2914,
+      "title": "New ultralight \"Made in Japan\" business laptop launches in Europe",
+      "summary": "A formerly Japanese-exclusive laptop line is coming to Europe: Panasonic is launching the Let's Note laptop brand for the European market. The new \"Made in Japan\" Panasonic Let's Note FC7 is a 14-inch business laptop that weighs just north ",
+      "content": "A formerly Japanese-exclusive laptop line is coming to Europe: Panasonic is launching the Let's Note laptop brand for the European market. The new \"Made in Japan\" Panasonic Let's Note FC7 is a 14-inch business laptop that weighs just north of 1 kg and includes a user-replaceable battery, as well as Intel's Panther Lake platform.",
+      "link": "https://www.notebookcheck.net/New-ultralight-Made-in-Japan-business-laptop-launches-in-Europe.1426606.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-ultralight-Made-in-Japan-business-laptop-launches-in-Europe.1426606.0.html"
+    },
+    {
+      "id": 2915,
+      "title": "Japanese brand launches compact mini PC with Ryzen AI 7 and fingerprint reader",
+      "summary": "iiyama has launched a compact Style-I1MA-RA45-EZDX mini PC with AMD's Ryzen AI 7 450 processor, dual Ethernet and USB4 connectivity. The system also features a fingerprint reader and configurable memory and storage.",
+      "content": "iiyama has launched a compact Style-I1MA-RA45-EZDX mini PC with AMD's Ryzen AI 7 450 processor, dual Ethernet and USB4 connectivity. The system also features a fingerprint reader and configurable memory and storage.",
+      "link": "https://www.notebookcheck.net/Japanese-brand-launches-compact-mini-PC-with-Ryzen-AI-7-and-fingerprint-reader.1425982.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-17",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-brand-launches-compact-mini-PC-with-Ryzen-AI-7-and-fingerprint-reader.1425982.0.html"
+    },
     {
       "id": 2805,
       "title": "Veritas推出新一代防伪芯片 瞄准高仿奢侈品",
@@ -1091,6 +1456,78 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Gigabyte-is-giving-away-three-RTX-5080-GPUs.1425105.0.html"
+    },
+    {
+      "id": 2893,
+      "title": "改装玩家为RTX 5090加装四个8针供电接口 单根导线电流降低近一半",
+      "summary": "长期以来，英伟达GeForce RTX 5090显卡的16针供电接口过热甚至熔毁问题一直备受关注。尽管显卡厂商和连接器标准制定机构已经对相关设计进行改进，但高功耗显卡的供电可靠性问题仍未完全消失。近日，一名硬件改装爱好者提出了另一种解决思路：放弃对争议不断的16针接口的依赖，改用四个传统PCIe 8针供电接口，将电流分散到更多导线上，以降低单根导线和连接点承受的电气与热负荷。 阅读全文",
+      "content": "<p>长期以来，英伟达GeForce RTX 5090显卡的16针供电接口过热甚至熔毁问题一直备受关注。尽管显卡厂商和连接器标准制定机构已经对相关设计进行改进，但高功耗显卡的供电可靠性问题仍未完全消失。近日，一名硬件改装爱好者提出了另一种解决思路：<strong>放弃对争议不断的16针接口的依赖，改用四个传统PCIe 8针供电接口，将电流分散到更多导线上，以降低单根导线和连接点承受的电气与热负荷。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1582576.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1582576.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1582576.htm"
+    },
+    {
+      "id": 2911,
+      "title": "Microsoft Surface Laptop Ultra 128GB Review",
+      "summary": "We review the Microsoft Surface Ultra to see how the NVIDIA RTX Spark powered laptop fares and try to answer who the platform is for The post Microsoft Surface Laptop Ultra 128GB Review appeared first on ServeTheHome.",
+      "content": "<p>We review the Microsoft Surface Ultra to see how the NVIDIA RTX Spark powered laptop fares and try to answer who the platform is for</p>\n<p>The post <a href=\"https://www.servethehome.com/microsoft-surface-laptop-ultra-review-rtx-spark-n1x/\">Microsoft Surface Laptop Ultra 128GB Review</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/microsoft-surface-laptop-ultra-review-rtx-spark-n1x/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=105878"
+    },
+    {
+      "id": 2913,
+      "title": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire",
+      "summary": "Reddit user DallasGrave, who recently soldered a dual 8-pin board to an RTX 5090's 16-pin header, is back with a more ambitious take on the same idea. The new \"Quad 2x8 Header Conversion\" mounts four 8-pin PCIe connectors right on the card,",
+      "content": "Reddit user DallasGrave, who recently <a href=\"https://www.techpowerup.com/353370/modder-solders-dual-8-pin-board-to-rtx-5090s-16-pin-header-wires-stay-below-40-c\" target=\"_blank\">soldered a dual 8-pin board</a> to an RTX 5090's 16-pin header, is back with a more ambitious take on the same idea. The new &quot;Quad 2x8 Header Conversion&quot; mounts four 8-pin PCIe connectors right on the card, tapping the contact points of the 12V-2x6 header, so the 16-pin connector can either stay in use alongside it or be skipped entirely. Each 8-pin carries three 12 V conductors, which spreads the load over twelve wires instead of six.<br />\r\n<br />\r\nAccording to the modder, current per conductor is &quot;almost perfectly halved&quot; compared to the native connector, landing at roughly 4.1 to 4.4 A per wire at 600 W, with wire temperatures dropping by around 20°C. The sense pins are set for 600 W, and the board has apparently been tested up to 800 W on a shunt-modded card, where the PCB itself reportedly sat at about 45°C. Videos covering installation, live current data, and a 24-hour sustained load test are apparently being shot now, and custom backplates are in the works to make the mod look more factory-made. Versions for nearly every card, Founders Edition included, are also going into production.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/QIcIXpPYVupkEbRI.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/QIcIXpPYVupkEbRI_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/FeqDh6uRrQJoiEFH.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/FeqDh6uRrQJoiEFH_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353812/modder-fits-rtx-5090-with-four-8-pin-connectors-halving-current-per-wire\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353812/modder-fits-rtx-5090-with-four-8-pin-connectors-halving-current-per-wire",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a638af5f3583b81fb594af8471665cc5"
+    },
+    {
+      "id": 2916,
+      "title": "Powerful HP laptop with up to AMD Ryzen AI Max+ Pro 495 and 192GB RAM launches globally",
+      "summary": "HP has started selling the ZBook Ultra G3a in the US and across Europe. Designed for demanding productivity workloads, the new 16-inch laptop offers a choice of AMD Gorgon Halo APUs up to the 16-core Ryzen AI Max+ Pro 495, plus up to 192GB ",
+      "content": "HP has started selling the ZBook Ultra G3a in the US and across Europe. Designed for demanding productivity workloads, the new 16-inch laptop offers a choice of AMD Gorgon Halo APUs up to the 16-core Ryzen AI Max+ Pro 495, plus up to 192GB of RAM and a 3K 120Hz display.",
+      "link": "https://www.notebookcheck.net/HP-releases-powerful-16-inch-laptop-globally-with-up-to-AMD-Ryzen-AI-Max-Pro-495-and-192GB-RAM.1425366.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/HP-releases-powerful-16-inch-laptop-globally-with-up-to-AMD-Ryzen-AI-Max-Pro-495-and-192GB-RAM.1425366.0.html"
+    },
+    {
+      "id": 2917,
+      "title": "Nvidia RTX Spark - The future of gaming laptops?",
+      "summary": "With the new RTX Spark N1X, Nvidia introduces a powerful ARM processor paired with a fast Blackwell GPU. We may already be looking at the future of gaming laptops.",
+      "content": "With the new RTX Spark N1X, Nvidia introduces a powerful ARM processor paired with a fast Blackwell GPU. We may already be looking at the future of gaming laptops.",
+      "link": "https://www.notebookcheck.net/Nvidia-RTX-Spark-The-future-of-gaming-laptops.1426096.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-RTX-Spark-The-future-of-gaming-laptops.1426096.0.html"
     },
     {
       "id": 2687,
