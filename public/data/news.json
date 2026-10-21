@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-21",
-  "total": 3242,
+  "total": 3307,
   "list": [
     {
       "id": 3206,
@@ -463,6 +463,916 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Asus-ROG-Zephyrus-G14-reportedly-returns-from-RMA-with-16-GB-RAM-missing.1429607.0.html"
+    },
+    {
+      "id": 3243,
+      "title": "通用汽车公布未来技术路线图：AI加速研发、算力提升40倍、自动驾驶瞄准主力车型",
+      "summary": "通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。 阅读全文",
+      "content": "<p>通用汽车日前在纽约举行的“Onward”技术活动上公布了一系列围绕人工智能、电动汽车和自动驾驶的未来规划。面对中国汽车企业日益激烈的竞争压力，这家传统汽车制造商正试图将自身定位为一家由软件和人工智能驱动的科技企业，而不仅仅是一家汽车公司。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583266.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583266.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583266.htm"
+    },
+    {
+      "id": 3244,
+      "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
+      "summary": "围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。 阅读全文",
+      "content": "<p>围绕 AI 硬件市场竞争的争议再次升温。根据分析机构 SemiAnalysis 的最新爆料，英伟达被指正在对部分采用 AMD GPU、Google TPU 及其他竞争产品的“Neocloud”云服务提供商施加压力，甚至拒绝它们参加即将举行的 GTC Berlin 大会。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583264.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583264.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583264.htm"
+    },
+    {
+      "id": 3245,
+      "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利 全行业都该拥抱AI",
+      "summary": "英伟达首席执行官黄仁勋呼吁欧洲加快人工智能落地。在不少投资者开始质疑算力基建巨额投入回报的背景下，他对AI前景保持乐观。这家总部位于加州圣克拉拉、芯片撑起本轮AI热潮的企业，在本次柏林大会上面向欧洲市场，发布了新的数据中心硬件、软件、模型，同时公布与当地龙头企业的合作。 阅读全文",
+      "content": "<p>英伟达首席执行官黄仁勋呼吁欧洲加快人工智能落地。在不少投资者开始质疑算力基建巨额投入回报的背景下，他对AI前景保持乐观。这家总部位于加州圣克拉拉、芯片撑起本轮AI热潮的企业，在本次柏林大会上面向欧洲市场，发布了新的数据中心硬件、软件、模型，同时公布与当地龙头企业的合作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583246.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583246.htm"
+    },
+    {
+      "id": 3246,
+      "title": "两项严重漏洞可导致服务器遭远程代码执行 PHP官方紧急发布安全补丁",
+      "summary": "PHP开发团队于2026年10月21日正式发布紧急安全更新，修复两项严重安全漏洞。这两项漏洞分别编号为CVE-2026-109618和CVE-2026-109619，均被评定为严重级别，可能允许攻击者在无需登录的情况下远程执行代码。官方强烈建议所有PHP用户立即升级至修复版本，以避免服务器遭到攻击。 阅读全文",
+      "content": "<p>PHP开发团队于2026年10月21日正式发布紧急安全更新，修复两项严重安全漏洞。这两项漏洞分别编号为CVE-2026-109618和CVE-2026-109619，均被评定为严重级别，可能允许攻击者在无需登录的情况下远程执行代码。官方强烈建议所有PHP用户立即升级至修复版本，以避免服务器遭到攻击。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583240.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583240.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583240.htm"
+    },
+    {
+      "id": 3247,
+      "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
+      "summary": "全球电子代工巨头富士康正在进一步扩大其美国人工智能硬件业务版图。最新公开的房地产文件显示，富士康已在加利福尼亚州圣克拉拉购入两处相邻工业地产，总建筑面积约11.01万平方英尺，外界普遍认为这些设施未来将被用于人工智能相关硬件和服务器设备的生产制造。 阅读全文",
+      "content": "<p>全球电子代工巨头富士康正在进一步扩大其美国人工智能硬件业务版图。最新公开的房地产文件显示，富士康已在加利福尼亚州圣克拉拉购入两处相邻工业地产，总建筑面积约11.01万平方英尺，外界普遍认为这些设施未来将被用于人工智能相关硬件和服务器设备的生产制造。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583236.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583236.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583236.htm"
+    },
+    {
+      "id": 3248,
+      "title": "美光与台湾台中工会达成劳资协议 桃园厂工会罢工计划仍存变数",
+      "summary": "美国存储芯片制造商美光科技（Micron Technology）10月21日宣布，其台湾子公司美光内存台湾公司已与代表台中厂员工的工会达成劳资协议。双方决定撤回原定于10月22日举行的调解程序，并将在未来几天分别向相关员工说明协议的具体内容。不过，美光在台湾的劳资争议尚未完全解决，代表桃园厂员工的另一家工会此前已宣布，计划于10月22日举行一天的警告性罢工，抗议公司在员工奖金和利润分享机制方面的安排。 阅读全文",
+      "content": "<p>美国存储芯片制造商美光科技（Micron Technology）10月21日宣布，其台湾子公司美光内存台湾公司已与代表台中厂员工的工会达成劳资协议。双方决定撤回原定于10月22日举行的调解程序，并将在未来几天分别向相关员工说明协议的具体内容。不过，美光在台湾的劳资争议尚未完全解决，代表桃园厂员工的另一家工会此前已宣布，计划于10月22日举行一天的警告性罢工，抗议公司在员工奖金和利润分享机制方面的安排。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583234.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583234.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583234.htm"
+    },
+    {
+      "id": 3249,
+      "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
+      "summary": "美国佐治亚州亚特兰大市正试图提前阻止现实版“机械战警”出现。当地市议会近日一致通过一项名为“HALT法案”（Human Authority over Lethal Technology，致命技术的人类控制权法案）的提案，计划禁止市政府采购或使用具备武装能力的自主机器人系统，确保涉及致命武力的决定始终由人类作出。 阅读全文",
+      "content": "<p>美国佐治亚州亚特兰大市正试图提前阻止现实版“机械战警”出现。当地市议会近日一致通过一项名为“HALT法案”（Human Authority over Lethal Technology，致命技术的人类控制权法案）的提案，计划禁止市政府采购或使用具备武装能力的自主机器人系统，确保涉及致命武力的决定始终由人类作出。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583232.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583232.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583232.htm"
+    },
+    {
+      "id": 3250,
+      "title": "SK海力士加速部署iHBM技术 新一代HBM散热能力提升30%",
+      "summary": "韩国存储芯片巨头SK海力士正在推动新一代iHBM（Integrated High Bandwidth Memory）技术迈向量产阶段，并已开始讨论相关量产计划。面对人工智能产业快速发展带来的算力需求激增，高带宽存储器（HBM）的散热问题正成为影响性能提升的重要瓶颈，而iHBM被视为解决这一难题的重要技术路线。 阅读全文",
+      "content": "<p>韩国存储芯片巨头SK海力士正在推动新一代iHBM（Integrated High Bandwidth Memory）技术迈向量产阶段，并已开始讨论相关量产计划。面对人工智能产业快速发展带来的算力需求激增，高带宽存储器（HBM）的散热问题正成为影响性能提升的重要瓶颈，而iHBM被视为解决这一难题的重要技术路线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583230.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583230.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583230.htm"
+    },
+    {
+      "id": 3251,
+      "title": "Synaptics推出Astra SR200边缘AI处理器 最高400 GOPS并集成Google Coral NPU",
+      "summary": "Synaptics发布Astra SR200系列多模态边缘AI处理器，并将这一类产品称为“xMCU”：在微控制器的低功耗架构中加入更强的AI计算、图像与音频处理能力，以及高容量片上封装内存。系列面向智能眼镜、可穿戴设备、智能摄像头、电池供电传感器、工业视觉和语音系统，让设备可在本地处理视觉、语音和传感器数据，减少对外接处理器及云端推理的依赖。 阅读全文",
+      "content": "<p>Synaptics发布Astra SR200系列多模态边缘AI处理器，并将这一类产品称为“xMCU”：在微控制器的低功耗架构中加入更强的AI计算、图像与音频处理能力，以及高容量片上封装内存。系列面向智能眼镜、可穿戴设备、智能摄像头、电池供电传感器、工业视觉和语音系统，让设备可在本地处理视觉、语音和传感器数据，减少对外接处理器及云端推理的依赖。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583224.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583224.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583224.htm"
+    },
+    {
+      "id": 3252,
+      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+      "summary": "IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。 价格方面，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5",
+      "content": "<p data-vmark=\"3e86\">IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。</p><p data-vmark=\"0ad1\">价格方面，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。</p><p data-vmark=\"a3e7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c948a1d4-afd1-4da2-aee6-456fb6b7f231.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1228\" data-vmark=\"b268\" data-mpos=\"0,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"a350\">这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。</p><p data-vmark=\"db84\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3f76a7b0-0606-4a6b-9552-80e2bc3ac592.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1587\" data-vmark=\"e98c\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"f793\">这款手机采用联发科曦力 G99 处理器，搭配 LPDDR4X 内存与 UFS 2.2 闪存，至高 12GB+256GB 存储，此外支持最大 256GB TF 卡拓展；电池容量 4600mAh。IT之家附参数如下：</p><p data-vmark=\"e983\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5673d056-5b46-428a-afcf-1806fcf2cb44.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1388\" data-vmark=\"c100\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"83fb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7d23e606-59d2-4af4-90b2-cb35a38700c0.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1024\" data-vmark=\"058c\" data-weibo=\"3\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5DY2jNE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gY8VG7\" data-iosurl=\"https://u.jd.com/5GYSzQG\" data-androidurl=\"https://u.jd.com/56Y0b5o\" data-hosnexturl=\"https://u.jd.com/5OYStcK\" data-hosurl=\"https://u.jd.com/5gYy4uw\" data-uwpurl=\"https://u.jd.com/56Y1OvC\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5aYgVj9%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/56Yytmx\" data-lpwxurl=\"https://u.jd.com/5rYYVIo\"  data-ncid=\"255963\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/541612/8/12678/54756/6ad8254bF29f85052/00833203201c9ce5.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">酷派 COOL X Wide 新品首发阔直板智能手机 鎏白 8GB+128GB</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"7f16\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4962\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/016/160.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/160.htm"
+    },
+    {
+      "id": 3253,
+      "title": "799 元雷蛇北海巨妖萌猫版 V3 有线耳机发布：猫耳 RGB 灯效可随直播互动，支持 7.1 环绕声",
+      "summary": "IT之家 10 月 22 日消息，雷蛇（Razer）今晚正式发布了全新的北海巨妖萌猫版 V3 有线 RGB 游戏耳机，官方售价 799 元，10 月 26 日发货。 该产品面向游戏直播与内容创作者，搭载可交互的猫耳 RGB 灯效、雷蛇 TriForce 40 毫米驱动单元以及 HyperClear 灵晰技术心形指向麦克风，支持即插即用 USB Type-C 连接，兼容 PC 及移动设备。 IT之家从官方获悉，这款耳机配备 1680 万色 Razer Chroma RGB 灯效",
+      "content": "<p data-vmark=\"a20c\">IT之家 10 月 22 日消息，雷蛇（Razer）今晚正式发布了全新的北海巨妖萌猫版 V3 有线 RGB 游戏耳机，官方售价 799 元，10 月 26 日发货。</p><p style=\"text-align: center;\" data-vmark=\"dc23\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7bc6c41e-75df-4774-99a9-d582d168bbed.jpg?x-bce-process=image/format,f_auto\" w=\"1247\" h=\"960\" data-weibo=\"0\" data-vmark=\"a0b9\" class=\"no-alt-img\"></p><p data-vmark=\"26da\">该产品面向游戏直播与内容创作者，搭载可交互的猫耳 RGB 灯效、雷蛇 TriForce 40 毫米驱动单元以及 HyperClear 灵晰技术心形指向麦克风，支持即插即用 USB Type-C 连接，兼容 PC 及移动设备。</p><p style=\"text-align: center;\" data-vmark=\"190b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e0f57116-bb48-43ff-b710-487126340e6d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"809\" data-weibo=\"1\" data-vmark=\"e5d1\" class=\"no-alt-img\"></p><p data-vmark=\"c4b7\">IT之家从官方获悉，这款耳机配备 1680 万色 Razer Chroma RGB 灯效系统，猫耳与耳罩区域支持灯光自定义。通过 Razer Streamer Companion 应用，灯效可随直播提醒、弹幕及聊天互动实时变化。</p><p style=\"text-align: center;\" data-vmark=\"2703\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d8326dfa-0a88-4ac2-bbf7-cc5d95b5f552.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"2\" data-vmark=\"3e42\" class=\"no-alt-img\"></p><p data-vmark=\"b5cd\">此外，这款耳机支持三条板载灯光预设，用户可在展会、漫展及线下聚会等场景中连接移动电源，保持 RGB 灯效持续点亮，并快速切换色彩与特效。</p><p style=\"text-align: center;\" data-vmark=\"c4ba\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/82ea2e51-70ab-4653-b252-c98d6d6e3040.jpg?x-bce-process=image/format,f_auto\" w=\"790\" h=\"1427\" data-weibo=\"3\" data-vmark=\"09f2\" class=\"no-alt-img\"></p><p data-vmark=\"669b\">在音频方面，这款耳机采用 40 毫米三频独立驱动单元，官方称其可提供更清晰、细节更丰富的声音分离表现，帮助用户区分游戏内提示音、语音通话及背景音频；耳机同时支持 7.1 环绕声效，提供沉浸式定位音频体验。</p><p style=\"text-align: center;\" data-vmark=\"6070\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1752c18-af82-424e-912f-9952128a102c.jpg?x-bce-process=image/format,f_auto\" w=\"790\" h=\"1276\" data-weibo=\"4\" data-vmark=\"0556\" class=\"no-alt-img\"></p><p data-vmark=\"152f\">麦克风方面，它配备了雷蛇经典的 Razer HyperClear 心形指向麦克风，可优先捕捉使用者语音，同时抑制背景噪音，适用于直播、语音聊天及社区互动场景。</p>",
+      "link": "https://www.ithome.com/1/016/158.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/158.htm"
+    },
+    {
+      "id": 3254,
+      "title": "英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%",
+      "summary": "IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开放手动配置最多 8 台设备组建集群。如果是以 128GB 版本组建，其统一内存容量最高可达 1TB。 同时，英伟达还发布了本地 AI 平台更新，并宣布与 llama.cpp、vLLM 开源社区合作优化 AI 推理性能，在特定工作负载下，RTX PRO 6000 Blackwell 的推理性能最高提升 40%，DGX Spark 和 D",
+      "content": "<p data-vmark=\"7340\">IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开放手动配置最多 8 台设备组建集群。如果是以 128GB 版本组建，其统一内存容量最高可达 1TB。</p><p style=\"text-align: center;\" data-vmark=\"e5ca\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2cd60668-2ec4-441f-92a3-096bbc417ffc.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"765\" data-weibo=\"0\" data-vmark=\"2f96\" class=\"no-alt-img\"></p><p data-vmark=\"efae\">同时，英伟达还发布了本地 AI 平台更新，并宣布与 <span class=\"link-text-start-with-http\">llama.cpp</span>、vLLM 开源社区合作优化 AI 推理性能，在特定工作负载下，RTX PRO 6000 Blackwell 的推理性能最高提升 40%，DGX Spark 和 DGX Station 也分别获得最高 30% 和 20% 的性能提升。</p><p style=\"text-align: center;\" data-vmark=\"aed5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b84fdf31-c8fa-4061-9165-ff7a7a686638.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"807\" data-weibo=\"1\" data-vmark=\"7861\" class=\"no-alt-img\"></p><p data-vmark=\"9142\">英伟达表示，4,999 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 33,450 元人民币）</span>的 DGX Spark 的 64GB 版本将于 10 月 23 日开始通过合作伙伴陆续发售。针对集群部署，英伟达 Sync Model Launcher 计划于本月晚些时候上线，用户可通过该工具下载与硬件配置相匹配的模型和容器，并将模型连接至 OpenCode。工具还将自动加载 DGX Spark Skills，为设备故障排查、维护及工作流程提供指导。</p><p data-vmark=\"9dda\">软件更新方面，10 月版 DGX Spark 更新加入 Wi-Fi 助手，允许设备在 appliance mode 下切换无线网络；DGX Spark Skills 也将通过 OpenCode 集成至英伟达 Sync，为日常维护和故障排查提供支持。</p><p data-vmark=\"7262\">模型方面，英伟达宣布支持更多可在本地运行的 AI 模型，包括 Nemotron、GLM、DeepSeek、Qwen、MiniMax 以及 FLUX.3 Klein 等，覆盖智能体、编程、图像生成和编辑等任务。</p><p data-vmark=\"848d\">英伟达还推出针对本地 AI 硬件优化的 Recursive Flint 编程模型。该模型采用混合专家（MoE）架构，总参数量为 400 亿，激活参数量为 25 亿。英伟达称，该模型在配备 64GB 内存的 RTX Spark 上推理速度超过每秒 220 个词元。</p><p data-vmark=\"5fc1\">针对本地运行大型模型时的内存压力，英伟达还发布了一组优化内存使用的模型检查点，通过量化降低内存占用，同时尽可能保持接近全精度模型的准确性。其中，<span class=\"link-text-start-with-http\">Qwen3.8-Flash-Next-FP4-Local</span> 可在单台 128GB DGX Spark 或 RTX PRO 6000 上运行；GLM-5.3-Flash-FP4-Local 则面向两台系统的配置。</p><p data-vmark=\"f08b\">推理性能优化是此次更新的另一项重点。根据英伟达公布的数据，在 <span class=\"link-text-start-with-http\">llama.cpp</span> 中，针对 Qwen 3.8 Flash Next 的多 token 预测（MTP）推测解码优化，可使 RTX PRO 6000 Blackwell 上的端到端智能体任务提速最高 1.4 倍；在 vLLM 中，针对 Qwen3.8 27B 的推测解码和 FlashInfer 预填充内核优化，可使 DGX Spark 上的相关任务提速最高 1.3 倍；DGX Station 运行 GLM 5.3 Flash 时，吞吐量最高提升至原来的 1.2 倍。</p><p data-vmark=\"7e53\">英伟达还公布了 DGX Station 的企业管理与应用扩展计划，包括新增 Absolute Security、思科旗下 Splunk、Microsoft Intune、Tanium 等七项管理集成，帮助企业部署和管理本地 AI 基础设施。</p><p data-vmark=\"c05b\">DGX Station 的 Windows 版本预计于 12 月推出，将支持制造业相关应用，以及设计、仿真、验证和工程自动化工作流。</p><p data-vmark=\"42e3\">此外，英伟达计划为 DGX Station 推出开放源代码机器人参考工作流，并以早期访问形式提供 NVIDIA Cloud Functions，让团队通过统一接口共享本地模型服务。</p><p style=\"text-align: center;\" data-vmark=\"58ce\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/738b5934-4d88-44c3-859b-09c0e931987a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"791\" data-weibo=\"2\" data-vmark=\"b9a3\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"d4db\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4a23cd46-bcb1-463c-96bb-5ed81c09c47b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"882\" data-weibo=\"3\" data-vmark=\"8a6a\" class=\"no-alt-img\"></p><p data-vmark=\"dab4\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"3c62\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/010/318.htm\">英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑</a>》</p></li><li><p data-vmark=\"3ccc\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/009/359.htm\">桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/016/148.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/148.htm"
+    },
+    {
+      "id": 3255,
+      "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
+      "summary": "IT之家 10 月 21 日消息，OPPO 今日在海外市场推出 Find X10 全球版手机。新机采用 6.59 英寸 AMOLED 屏幕、双 2 亿影像和天玑 9600M 芯片。12GB+256GB 版本售价为 1,099 英镑（IT之家注：现汇率约合 9,819 元人民币）/1,299 欧元（现汇率约合 9,752 元人民币）。 据介绍，OPPO Find X10 全球版配备 6.59 英寸 LTPO AMOLED 屏幕，分辨率为 2768 × 1272 像素，边框宽度 ",
+      "content": "<p data-vmark=\"e604\">IT之家 10 月 21 日消息，OPPO 今日在海外市场推出 Find X10 全球版手机。新机采用 6.59 英寸 AMOLED 屏幕、双 2 亿影像和天玑 9600M 芯片。<strong>12GB+256GB 版本售价为 1,099 英镑<span class=\"exch-money-value\">（IT之家注：现汇率约合 9,819 元人民币）</span>/1,299 欧元<span class=\"exch-money-value\">（现汇率约合 9,752 元人民币）</span></strong>。</p><p style=\"text-align: center;\" data-vmark=\"7721\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/13bc957f-709a-4251-a64a-8e52168d6dd0.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1149\" data-weibo=\"0\" data-vmark=\"b455\" class=\"no-alt-img\"></p><p data-vmark=\"d97f\">据介绍，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/23/fb40bbfb-8586-49f4-8860-52a9ba241efb.png?x-bce-process=image/format,f_auto\" data-topic-id=\"60251\">OPPO Find X10</span> 全球版配备 6.59 英寸 LTPO AMOLED 屏幕，分辨率为 2768 × 1272 像素，边框宽度 0.99 毫米，支持 144Hz 高刷，HDR 峰值亮度可达 3600 尼特。</p><p data-vmark=\"4e09\">规格方面，该机搭载联发科天玑 9600M 芯片，采用台积电 3nm 工艺打造。<strong>搭配 12GB LPDDR5X 内存</strong>，最高可选 512GB UFS 4.1 存储。</p><p data-vmark=\"e983\">影像方面，该机配备 2 亿像素 1/1.4 英寸三星 ISOCELL HPE 主摄，以及 2 亿像素 1/1.56 英寸 ISOCELL HP5 长焦，还有 5000 万像素 ISOCELL JN5 超广角，前摄同样是 50MP JN5。新机支持 Lumo 真彩影像，让色彩、肤色更加自然。主摄和长焦支持 4K 120FPS 或 8K 30FPS 录像。</p><p data-vmark=\"bf79\">此外，这款手机配备 7150mAh 硅碳负极电池，支持 80W 有线快充、50W 无线充电。参考IT之家此前报道，Find X10 国行版采用 8000mAh 电池，<strong>全球版与之相比缩减 850mAh</strong>，且缺少 16GB+1TB 高配版本。</p>",
+      "link": "https://www.ithome.com/1/016/147.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/147.htm"
+    },
+    {
+      "id": 3256,
+      "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
+      "summary": "IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 本月早些时候，华为客户服务透露该功能预计在 10 月底逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方表示： 该功能预计将在 11 月初逐步和大家",
+      "content": "<p data-vmark=\"c5fc\">IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</p><p style=\"text-align: center;\" data-vmark=\"8eb1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a8efa3d-3873-4f28-bba1-16bf0e7b88bd.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"638\" data-vmark=\"b50f\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d16d9ae110228a90f27d5dbc91fd55e48eebe2ec9378a7e1604bb185384ff1a9d5da6fb545d6a3f906\" class=\"no-alt-img\"></p><p data-vmark=\"be92\">本月早些时候，华为客户服务透露该功能预计在 10 月底逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方表示：</p><blockquote><p data-vmark=\"0d59\"><strong>该功能预计将在 11 月初逐步和大家见面</strong>。届时会根据机型分批推送，请您留意系统更新提示。</p></blockquote><p data-vmark=\"40fe\">据华为客户服务介绍，小艺 AI 快捷栏是 HarmonyOS 7 的新功能，开启 AI 快捷栏后 AI 将在快捷栏显示，点击可探索更多 AI 服务。</p><p style=\"text-align: center;\" data-vmark=\"e509\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2121a3b9-e853-43e1-9b2c-c3b2b02c57ea.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"1161\" data-mpos=\"1,0\" data-weibo=\"1\"  data-vmark=\"7513\" class=\"no-alt-img\"></p><p data-vmark=\"baef\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"68a6\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/999/277.htm\">华为鸿蒙 HarmonyOS 7 操作系统正式发布：全新空间美学设计语言，搭载系统智能体小艺</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/016/144.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/144.htm"
+    },
+    {
+      "id": 3257,
+      "title": "《使命召唤：现代战争 4》主机版性能模式要求 120Hz+VRR 显示器，不支持则锁 60 帧",
+      "summary": "IT之家 10 月 21 日消息，使命召唤官方今天在 X 平台表示，《使命召唤：现代战争 4》主机版需使用刷新率至少 120Hz 且支持 VRR 的显示器，才能在战役模式和 DMZ 模式中启用性能模式，以 120Hz 高帧率运行。 官方表示，如果 PS5、XBOX Series X|S 玩家的显示器不支持 VRR，且没有高刷的话，那么游戏在性能模式下最高帧率限制为 60Hz。 该消息公布后引发玩家强烈不满。部分用户表示，他们的显示器已经是 120Hz 或更高刷新率，却因为不支",
+      "content": "<p data-vmark=\"b860\">IT之家 10 月 21 日消息，使命召唤官方今天在 X 平台表示，《使命召唤：现代战争 4》主机版需使用刷新率至少 120Hz 且支持 VRR 的显示器，才能在战役模式和 DMZ 模式中启用性能模式，以 120Hz 高帧率运行。</p><p style=\"text-align: center;\" data-vmark=\"248c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6c09ea08-a239-49e1-b4b0-8a9f885c9906.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"685\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FCODUpdates%2Fstatus%2F2112607122143998006%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FCODUpdates%2Fstatus%2F2112607122143998006%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d19ee78b6ac7edef1867dac872de84d772cbdec53cab8e0f78c09e67068a7dab66a8f4fe50c731d0a7\" data-vmark=\"8f56\" class=\"no-alt-img\"></p><p data-vmark=\"0752\">官方表示，如果 PS5、XBOX Series X|S 玩家的显示器不支持 VRR，且没有高刷的话，<strong>那么游戏在性能模式下最高帧率限制为 60Hz</strong>。</p><p data-vmark=\"2e4a\">该消息公布后引发玩家强烈不满。部分用户表示，他们的显示器已经是 120Hz 或更高刷新率，却因为不支持 VRR（IT之家注：可变刷新率）而无法开启高帧率模式。</p><p style=\"text-align: center;\" data-vmark=\"68be\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/881e492e-5efd-447e-ac11-3a3b98dc11da.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"253\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FCODUpdates%2Fstatus%2F2112607122143998006%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FCaseyfcsd%2Fstatus%2F2112890500541981112%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1d4679f6d4438e4f146c34fd4f2d4cfd43128016a6e5c8901f76f101f760db01e997c565477ba2733\" data-vmark=\"c374\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"e995\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a6d92881-86ab-492e-a409-6aee3f84173e.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"420\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FCODUpdates%2Fstatus%2F2112607122143998006%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"2\" data-mpos=\"2,0\"  data-vmark=\"8b54\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/016/142.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/142.htm"
+    },
+    {
+      "id": 3258,
+      "title": "黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付",
+      "summary": "IT之家 10 月 21 日消息，英伟达 CEO 黄仁勋今日在德国柏林举行的 GTC 大会上宣布推出模块化 AI 工厂参考设计 DSX POD，面向以 Vera Rubin 平台为核心的完整 AI 工厂系统。 英伟达表示，该方案将计算、网络、布线、机架供电、液冷管路安装及功能验证等工作提前转移至工厂完成，计划于 2027 年初通过合作伙伴在全球交付。 DSX POD 的核心思路是将 AI 基础设施预先集成到“模块化集装箱”中，并在发货前完成系统集成与验证。设备抵达部署现场后，",
+      "content": "<p data-vmark=\"1538\">IT之家 10 月 21 日消息，英伟达 CEO 黄仁勋今日在德国柏林举行的 GTC 大会上宣布推出模块化 AI 工厂参考设计 DSX POD，面向以 Vera Rubin 平台为核心的完整 AI 工厂系统。</p><p data-vmark=\"d60e\">英伟达表示，该方案将计算、网络、布线、机架供电、液冷管路安装及功能验证等工作提前转移至工厂完成，计划于 2027 年初通过合作伙伴在全球交付。</p><p style=\"text-align: center;\" data-vmark=\"5cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f43b737b-3dc3-4c12-8845-1273d5b68afe.jpg?x-bce-process=image/resize,w_1200,h_675/format,f_auto\" w=\"1920\" h=\"1080\" data-weibo=\"0\" data-vmark=\"280c\" class=\"no-alt-img\"></p><p data-vmark=\"4863\">DSX POD 的核心思路是将 AI 基础设施预先集成到“模块化集装箱”中，并在发货前完成系统集成与验证。设备抵达部署现场后，客户只需将其接入已经准备就绪的电力、冷却、网络等配套设施，即可开展后续部署。</p><p data-vmark=\"4564\">英伟达称，这种方式能够减少传统数据中心建设过程中复杂的现场施工、专业人员协调和物流工作，并降低现场安装错误及零部件交付延误带来的影响。</p><p data-vmark=\"9e86\">英伟达表示，在部署场地及配套基础设施已经准备就绪的情况下，DSX POD 可将基础设施部署周期从传统方式的约 6 个月缩短至最短 14 天。</p><p data-vmark=\"779e\">黄仁勋表示，AI 工厂只有在开始产生 token 时才能创造价值，而不仅仅是在建设完成时。英伟达称，DSX POD 旨在缩短基础设施从现场准备就绪到开始运行生产级 AI 工作负载的时间，使运营商能够更早提供推理服务并获得收入。</p><p data-vmark=\"1a55\">合作伙伴方面，英伟达正在与戴尔科技、惠普企业、联想、技嘉、鸿海旗下工业富联、和硕、广达旗下云达科技（QCT）、纬创、施耐德电气、维谛技术等企业合作，推动 DSX POD 的制造、集成和交付。英伟达表示，全球合作伙伴计划于 2027 年初开始交付相关 AI 工厂系统。</p><p data-vmark=\"e492\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"e60d\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/016/128.htm\">英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市</a>》</p></li><li><p data-vmark=\"8732\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/016/058.htm\">英伟达黄仁勋称未来电信运营商都将提供 AI 算力，电信基站有望发展成分布式 AI 网络</a>》</p></li><li><p data-vmark=\"47e4\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/016/029.htm\">奔驰与英伟达合作开发城市辅助驾驶系统 <span class=\"link-text-start-with-http\">MB.DRIVE</span> ASSIST PRO，计划年底在德国向部分用户开放</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/016/138.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/138.htm"
+    },
+    {
+      "id": 3259,
+      "title": "谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定",
+      "summary": "IT之家 10 月 21 日消息，谷歌首席执行官桑达尔 · 皮查伊今日表示，公司正将部分算力从云业务转向前沿 AI 研发，以全力支持前沿 AI 发展。 对谷歌而言，开发前沿 AI 成本高昂，需要耗费大量计算资源和芯片，但这些资源原本可以拿给云业务高价出售。皮查伊对此表示，将资源投入前沿人工智能研发是谷歌的“根本所在”。 这名 CEO 还表示，若客户目前寻求锁定 2027 年算力，将面临极大困难，原因包括数据中心从决策到投运需两至三年，以及智能体任务需求激增。他解释称：“我们的",
+      "content": "<p data-vmark=\"3223\">IT之家 10 月 21 日消息，谷歌首席执行官桑达尔 · 皮查伊今日表示，公司正将部分算力从云业务转向前沿 AI 研发，以全力支持前沿 AI 发展。</p><p style=\"text-align: center;\" data-vmark=\"294e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f3a42d6-8acb-4cf9-bcb5-de122e627d4b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"477e\" class=\"no-alt-img\"></p><p data-vmark=\"d8eb\">对谷歌而言，开发前沿 AI 成本高昂，需要耗费大量计算资源和芯片，但这些资源原本可以拿给云业务高价出售。皮查伊对此表示，将资源投入前沿人工智能研发是谷歌的“根本所在”。</p><p data-vmark=\"f5e3\">这名 CEO 还表示，若客户目前寻求锁定 2027 年算力，将面临极大困难，原因包括数据中心从决策到投运需两至三年，以及智能体任务需求激增。他解释称：“我们的云业务在任何特定时刻都能放弃短期收入，因为我们正做出计算方面的权衡，以支持前沿 AI 发展。”</p>",
+      "link": "https://www.ithome.com/1/016/137.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/137.htm"
+    },
+    {
+      "id": 3260,
+      "title": "史泰博遭黑客入侵：攻击者劫持员工会话生成超 1.5 万张礼品卡，面值逾 500 万美元",
+      "summary": "IT之家 10 月 21 日消息，科技媒体 404 Media 昨日报道称，一伙黑客入侵了办公用品零售商史泰博（Staples）的内部客户服务系统，非法生成超过 1.5 万张礼品卡，总面值超过 500 万美元。 根据近期解封的搜查令申请，这些礼品卡随后被犯罪团伙用于在美国多家零售商购物，大量电子产品被集中存放后运往其他国家。 根据搜查令申请，攻击者从公司外部访问 Nexus 客户服务系统，并多次发起堆内存转储请求。堆转储能够获取应用程序在特定时刻保存在内存中的数据。攻击者利用",
+      "content": "<p data-vmark=\"1f7b\">IT之家 10 月 21 日消息，科技媒体 404 Media 昨日报道称，一伙黑客入侵了办公用品零售商史泰博（Staples）的内部客户服务系统，非法生成超过 1.5 万张礼品卡，总面值超过 500 万美元。</p><p data-vmark=\"20d2\">根据近期解封的搜查令申请，这些礼品卡随后被犯罪团伙用于在美国多家零售商购物，大量电子产品被集中存放后运往其他国家。</p><p data-vmark=\"51e0\">根据搜查令申请，攻击者从公司外部访问 Nexus 客户服务系统，并多次发起堆内存转储请求。堆转储能够获取应用程序在特定时刻保存在内存中的数据。攻击者利用这些数据劫持已经登录的客服人员会话，借助员工认证身份生成礼品卡，再将卡片发送至自己的电子邮箱。</p><p data-vmark=\"234d\">美国国土安全调查局（HSI）于 2023 年 10 月获悉这起事件，当时受害企业报告称，黑客通过其系统非法生成了超过 1.5 万张礼品卡，面值合计超过 500 万美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,345.7 万元人民币）</span>。</p><p data-vmark=\"1858\">这些礼品卡随后被用于美国多家零售商的购物交易。在新罕布什尔州一家 Target 门店，35 张与此次 Staples 事件有关的礼品卡在一小时内被用于购买苹果、Bose 和 Powerbeats 产品。调查人员查看的监控录像显示，数名男子轮流到收银台出示手机中的礼品卡，让店员扫描后继续使用其他卡片。Target 员工还向调查人员表示，这些人几乎每天都会到店，并经常使用礼品卡大量购买苹果产品。</p><p data-vmark=\"2f43\">其他零售商的交易记录也显示了相关活动的规模。塔吉特（Target）识别出 3850 张涉案礼品卡，面值约 14.1 万美元；这些卡片在两天内于 18 个州的 85 家门店完成了 300 笔交易。丝芙兰（Sephora）报告称，约 330 张、价值 5.86 万美元的礼品卡通过线上交易兑换，涉及约 1500 笔交易。劳氏（Lowe's）则发现，约 450 张礼品卡涉及 22.6 万美元的交易，使用场景包括线上和线下门店。</p><p data-vmark=\"a269\">综合调查记录，犯罪团伙实际兑换了约 4630 张与此次入侵有关的礼品卡，总额约 42.5 万美元<span class=\"exch-money-value\">（现汇率约合 284.4 万元人民币）</span>，仅占黑客生成的超过 500 万美元礼品卡面值的一部分。</p><p data-vmark=\"55e4\">美国司法部 2025 年 4 月 22 日公布的另一份案件通报显示，该犯罪网络通过黑客入侵美国企业、篡改实体礼品卡以及针对个人实施网络诈骗等方式获取礼品卡数据，再由美国境内的团伙成员购买高价值电子产品，并集中存放后运往东亚或东南亚地区。司法部披露，该网络通过多种欺诈手段获取的礼品卡总额超过 1 亿美元，但该数字涉及更大范围的诈骗活动，并非此次 Staples 系统入侵造成的损失。</p><p data-vmark=\"9bde\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"b5cc\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/000/560.htm\">打击礼品卡诈骗：苹果 iOS 27 最新代码曝光，买完卡碰一碰 iPhone 立马兑换</a>》</p></li><li><p data-vmark=\"b2f4\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/997/908.htm\">苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及</a>》</p></li><li><p data-vmark=\"402d\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/962/844.htm\">Valve 为遏制诈骗，宣布零售商店不再补货 Steam 实体礼品卡</a>》</p></li><li><p data-vmark=\"976b\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/952/002.htm\">涉案金额达数亿美元，美国警方侦破苹果礼品卡特大诈骗案</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/016/132.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/132.htm"
+    },
+    {
+      "id": 3261,
+      "title": "消息称《上古卷轴 6》预计 2028 年发售，有望成 XBOX Helix 次世代主机独占游戏",
+      "summary": "IT之家 10 月 21 日消息，科技媒体 Wccftech 今日报道称，《上古卷轴 6》预计将在 2028 年发售，或将成为微软 XBOX“Project Helix”次世代主机的独占游戏之一。 《财富》杂志今日报道称，XBOX 次世代主机不会早于 2028 年圣诞购物季推出。爆料人士 Kepler_L2 认为，AMD 方面原本的研发进度，是准备让 XBOX Helix 在 2027 年圣诞季推出。微软很可能在等一款重磅级独占游戏，以便与主机同步上市带动装机量。 虽然微软最",
+      "content": "<p data-vmark=\"e3ef\">IT之家 10 月 21 日消息，科技媒体 Wccftech 今日报道称，《上古卷轴 6》预计将在 2028 年发售，或将成为微软 XBOX“Project Helix”次世代主机的独占游戏之一。</p><p style=\"text-align: center;\" data-vmark=\"b5d0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/06bdfc37-e84f-450a-865c-afadd208229e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"e2de\" class=\"no-alt-img\"></p><p data-vmark=\"e3a3\">《财富》杂志今日报道称，XBOX 次世代主机不会早于 2028 年圣诞购物季推出。爆料人士 Kepler_L2 认为，AMD 方面原本的研发进度，是准备让 XBOX Helix 在 2027 年圣诞季推出。微软很可能在等一款重磅级独占游戏，以便与主机同步上市带动装机量。</p><p data-vmark=\"f611\">虽然微软最近几年似乎已经不再使用这种销售策略，而是主打全平台。但 XBOX CEO 夏尔马已经在大刀阔斧地改革，其中就包括重新推出主机独占游戏。《战争机器：事变日》和《发条革命》就是这一变化的最好体现。从现实角度讲，<strong>微软选择一款重磅独占游戏为新主机保驾护航</strong>，确实是合理策略。</p><p data-vmark=\"a2ad\">IT之家了解到，《上古卷轴 5：天际》有史以来最畅销的游戏之一。截至 2026 年 7 月，本作销量已经突破 6500 万份。</p><p data-vmark=\"dc25\">并且，《上古卷轴》系列开发商贝塞斯达已经在同时推进多个项目，包括更新《辐射 76》《星空》，以及推进《辐射 5》前期制作、监督 Obsidian 开发全新《辐射》游戏等。该工作室近期也受到了裁员潮影响，因此《上古卷轴 6》有可能会延期。更重要的是，<strong>经历《星空》首发失利后</strong>，<strong>贝塞斯达肯定需要拿出一鸣惊人的作品</strong>，如果再度失手，那后果可想而知。</p><p data-vmark=\"8e12\">不过需要注意的是，上述消息仅是根据已有线索的合理推测，微软官方暂未确认。</p>",
+      "link": "https://www.ithome.com/1/016/131.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/131.htm"
+    },
+    {
+      "id": 3262,
+      "title": "网易 UU 远程官宣与荣耀团队深度合作，覆盖 WIN 平板远程游戏、办公等场景",
+      "summary": "IT之家 10 月 21 日消息，在今日举行的荣耀 WIN 电竞宇宙嘉年华上，荣耀 WIN 平板正式发布，配备 8.4 英寸 240Hz OLED 屏幕、搭载第五代骁龙 8 至尊版处理器，国补到手价 3699 元起。 IT之家注意到，网易 UU 远程今日宣布，其与荣耀团队开展深度合作，基于荣耀 WIN 平板，深度优化远程连接性能和稳定性，覆盖远程游戏、远程办公等场景。 游戏场景：支持至高 4K 144 帧画质，提供触屏 + 按键映射（内置 300+ 游戏按键方案）、外接键鼠、",
+      "content": "<p data-vmark=\"beaf\">IT之家 10 月 21 日消息，在今日举行的荣耀 WIN 电竞宇宙嘉年华上，<a target=\"_blank\" href=\"https://www.ithome.com/1/015/877.htm\">荣耀 WIN 平板正式发布</a>，配备 8.4 英寸 240Hz OLED 屏幕、搭载第五代骁龙 8 至尊版处理器，国补到手价 3699 元起。</p><p data-vmark=\"5aa2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d077f7fd-5d7a-4224-9122-8f10099ee52d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"1350\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d13fecb69b955979334482315a92b408d5cef2f4fae1a796825c3a6d314782e6cafa083a800eeaa85d\" class=\"no-alt-img\"></p><p data-vmark=\"c446\">IT之家注意到，网易 UU 远程今日宣布，其与荣耀团队开展深度合作，基于荣耀 WIN 平板，深度优化远程连接性能和稳定性，<strong>覆盖远程游戏、远程办公等场景</strong>。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"7407\">游戏场景：支持至高 4K 144 帧画质，提供触屏 + 按键映射（内置 300+ 游戏按键方案）、外接键鼠、外接手柄三种操作方案，配备多重隐私防护（含一键设置被控端静音、防窥模式开启等）；</p></li><li><p data-vmark=\"3939\">办公场景：支持双向文件传输（不限制大小 / 文件类型 / 传输速度，支持断点续传和批量传输）、办公按键映射（覆盖 Office、CAD、剪辑、编程等）、远程终端、小窗模式等。</p></li></ul><p data-vmark=\"6a5d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/984824ba-7758-4a9d-83a0-10d0a4b8dcaf.jpg\" w=\"1080\" h=\"5752\" data-weibo=\"1\"  alt=\"图片\" data-mpos=\"0,0\" data-vmark=\"c44a\"></p><p data-vmark=\"5ed8\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"1e1c\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/015/877.htm\">荣耀 WIN 平板发布：8.4 英寸 240Hz OLED 屏幕、第五代骁龙 8 至尊版，国补到手价 3699 元起</a>》</p></li></ul><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"531b\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4871\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/016/126.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/126.htm"
+    },
+    {
+      "id": 3263,
+      "title": "AMD 为 Linux 开发锐龙 CPU 超频驱动，可调 PPT、TDC、EDC 参数",
+      "summary": "IT之家 10 月 21 日消息，Phoronix 今日发现，AMD 正在为 Linux 系统开发 Ryzen 处理器超频驱动。 AMD 工程师 Shyam Sundar S K 已向 Linux 内核邮件列表提交 AMD Overclocking（AOD）WMI 驱动补丁，旨在通过系统固件接口管理 Ryzen 处理器的超频参数及功耗、电流限制。 该驱动初期通过 Linux 的 sysfs 接口开放多项处理器参数。其中，PPT（Package Power Tracking）用",
+      "content": "<p data-vmark=\"915b\">IT之家 10 月 21 日消息，Phoronix 今日发现，AMD 正在为 Linux 系统开发 Ryzen 处理器超频驱动。</p><p data-vmark=\"fcbf\">AMD 工程师 Shyam Sundar S K 已向 Linux 内核邮件列表提交 AMD Overclocking（AOD）WMI 驱动补丁，旨在通过系统固件接口管理 Ryzen 处理器的超频参数及功耗、电流限制。</p><p data-vmark=\"7413\">该驱动初期通过 Linux 的 sysfs 接口开放多项处理器参数。其中，PPT（Package Power Tracking）用于管理封装功耗限制，TDC（Thermal Design Current）用于设置持续电流限制，EDC（Electrical Design Current）用于设置峰值电流限制。用户还可以读取这些参数支持的取值范围，以及查询当前内存时钟。</p><p data-vmark=\"8a6c\">除了功耗和电流参数，驱动还支持通过平台固件接口切换 SMT（同步多线程）状态。与 Linux 内核通过 nosmt 参数禁用 SMT 的方式不同，该接口可以在平台层面进行控制。不过，现阶段调整功耗相关参数后，设置不会立即生效，而是需要重启系统。</p><p data-vmark=\"629a\">Phoronix 指出，AMD 固件实际支持的命令数量多于当前驱动已经接入的功能，因此未来仍有可能开放更多控制选项。目前，相关参数通过 sysfs 暴露给用户空间，尚未有 AMD 为 Linux 提供配套图形管理工具的补丁。</p><p data-vmark=\"78c5\">IT之家提醒：这一驱动并不等同于 Windows 版 Ryzen Master 的完整 Linux 版本，后续若要实现图形化操作，可能仍需依赖独立开发者或桌面环境提供相应工具。</p>",
+      "link": "https://www.ithome.com/1/016/122.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/122.htm"
+    },
+    {
+      "id": 3264,
+      "title": "为预防 PHP 安全漏洞，芬兰政府临时关闭部分网站",
+      "summary": "IT之家 10 月 21 日消息，芬兰政府信息通信技术中心（Valtori）宣布，为预防严重安全漏洞，芬兰政府的公共服务网站将在今天陆续下线。 Valtori 表示，政府网站临时关闭的原因在于 PHP 软件被发现存在安全漏洞。IT之家了解到，PHP 是网站后端系统的核心技术之一，运行在 Web 服务器中。 PHP 开发团队今天宣布，将为两个严重安全漏洞发布修复补丁。欧盟网络安全官员已警告各组织，如果无法及时修复漏洞，应暂时关闭受影响网页。 受影响的网站包括芬兰国家土地测量局官",
+      "content": "<p data-vmark=\"2961\">IT之家 10 月 21 日消息，芬兰政府信息通信技术中心（Valtori）宣布，为预防严重安全漏洞，芬兰政府的公共服务网站将在今天陆续下线。</p><p data-vmark=\"61a6\">Valtori 表示，<strong>政府网站临时关闭的原因在于 PHP 软件被发现存在安全漏洞</strong>。IT之家了解到，PHP 是网站后端系统的核心技术之一，运行在 Web 服务器中。</p><p data-vmark=\"2efd\">PHP 开发团队今天宣布，将为两个严重安全漏洞发布修复补丁。<strong>欧盟网络安全官员已警告各组织</strong>，<strong>如果无法及时修复漏洞</strong>，<strong>应暂时关闭受影响网页</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7903\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5dfaef09-4a32-444a-8702-35e540bbdab3.jpg?x-bce-process=image/format,f_auto\" w=\"962\" h=\"779\" data-weibo=\"0\" data-mpos=\"0,2\"  data-vmark=\"5d01\" class=\"no-alt-img\"></p><p data-vmark=\"78de\">受影响的网站包括芬兰国家土地测量局官网、赫尔辛基书展官网、芬兰电影基金会官网等。截至目前，Valtori 暂未给出恢复服务时间表。</p>",
+      "link": "https://www.ithome.com/1/016/121.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/121.htm"
+    },
+    {
+      "id": 3265,
+      "title": "微软发布 PowerToys 0.102 更新：新增鼠标按键锁定、自动隐藏指针等功能",
+      "summary": "IT之家 10 月 21 日消息，微软今日发布了最新的 PowerToys 0.102 版本，新增 Mouse Button Lock（鼠标按键锁定）和 CursorHide（隐藏鼠标指针）两款鼠标工具，并为 Command Palette（命令面板）加入快速访问栏，同时更新 ZoomIt 截图与语音转录功能。 根据微软在 GitHub 发布的官方更新说明，新版本还扩展了多项命令行工具能力，并改进了键盘管理器等组件。 Mouse Button Lock 主要用于简化长时间拖动",
+      "content": "<p data-vmark=\"e900\">IT之家 10 月 21 日消息，微软今日发布了最新的 PowerToys 0.102 版本，新增 Mouse Button Lock（鼠标按键锁定）和 CursorHide（隐藏鼠标指针）两款鼠标工具，并为 Command Palette（命令面板）加入快速访问栏，同时更新 ZoomIt 截图与语音转录功能。</p><p data-vmark=\"9f4e\">根据微软在 GitHub 发布的官方更新说明，新版本还扩展了多项命令行工具能力，并改进了键盘管理器等组件。</p><p style=\"text-align: center;\" data-vmark=\"0d9f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4500c0e0-a22a-44d6-9ad0-3dedb93e8d70.png?x-bce-process=image/format,f_auto\" w=\"1200\" h=\"252\" data-weibo=\"0\" data-vmark=\"6659\" class=\"no-alt-img\"></p><p data-vmark=\"695a\">Mouse Button Lock 主要用于简化长时间拖动和选择操作。用户按住鼠标按键片刻后即可松开，系统仍会将该按键视为持续按下状态，方便继续拖动或选择内容，直到用户再次点击任意鼠标按键。这项功能支持左键、右键和中键，可用于需要频繁拖动的专业软件、游戏等场景，也有助于改善难以长时间按住鼠标按键的用户的操作体验。</p><p style=\"text-align: center;\" data-vmark=\"ab43\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/91991457-1e2c-4772-a59c-16d631add1fa.png?x-bce-process=image/format,f_auto\" w=\"716\" h=\"475\" data-weibo=\"1\" data-vmark=\"ebac\" class=\"no-alt-img\"></p><p data-vmark=\"cafd\">CursorHide 则可以在用户打字、鼠标长时间没有活动或两种情况同时出现时，自动隐藏屏幕上的鼠标指针。用户移动鼠标后，指针便会重新显示。</p><p data-vmark=\"2cf4\">Command Palette 此次也获得多项更新。新增的快速访问栏可以在命令面板处于折叠状态时，将用户固定的项目显示在搜索框下方。用户可在“Settings &gt; Appearance &gt; Compact mode”中开启该功能，通过 Alt+1 至 Alt+9 快速启动对应项目，也可以使用 Alt+Shift+ 数字键选中项目而不立即执行。用户还可以拖动调整固定项目的顺序、通过右键菜单执行其他操作，并选择是否同时显示最近使用的命令和应用。</p><p style=\"text-align: center;\" data-vmark=\"b059\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/abe98ded-9773-4e42-8de2-1d1a0721071c.png?x-bce-process=image/format,f_auto\" w=\"837\" h=\"231\" data-weibo=\"2\" data-vmark=\"7aa7\" class=\"no-alt-img\"></p><p data-vmark=\"90d1\">命令面板的其他改进包括设置搜索、键盘操作扩展坞以及多时区时钟等。用户现在可以通过模糊搜索查找设置、扩展、命令、别名和已分配的快捷键；按下 Win+Alt+J 可将焦点切换到扩展坞，并通过键盘在项目间移动。此外，用户可以在 Windows 设置中将 Command Palette 设为 Copilot 键对应的应用，再次按下该按键即可切换命令面板的显示状态。</p><p data-vmark=\"68fa\">新版本还支持在扩展坞中固定多个时钟，并为每个时钟单独设置时区和显示格式。用户可以为命令面板选择应用语言，也可以复制用于打开特定页面、执行命令或跳转至指定设置的链接。微软还优化了应用图标显示、网格和图库浏览速度，以及列表结果的持续加载和嵌套菜单显示。</p><p style=\"text-align: center;\" data-vmark=\"dc3a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/50a0af05-d765-45a3-a609-329c35ea9e6b.png?x-bce-process=image/format,f_auto\" w=\"824\" h=\"653\" data-weibo=\"3\" data-vmark=\"15ba\" class=\"no-alt-img\"></p><p data-vmark=\"bb48\">ZoomIt 方面，新增的 Snip with dictation 功能允许用户在截取屏幕区域时同步录入语音描述。用户需要先在 ZoomIt 设置中启用该功能，随后拖动选择截图区域时按下空格键并说出描述内容。ZoomIt 会在设备本地完成语音转录，用户一次粘贴操作即可同时获得截图和对应文本。该功能使用 Record 设置中选定的麦克风。</p><p data-vmark=\"5481\">ZoomIt 还改进了缩放过渡效果和录制音频的节奏，并修复了多声道及空间音频设备上录制内容无声的问题。</p><p style=\"text-align: center;\" data-vmark=\"cd89\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fc2d045c-b29d-4f52-bed1-1e83a93b087c.png?x-bce-process=image/format,f_auto\" w=\"783\" h=\"818\" data-weibo=\"4\" data-vmark=\"cbe9\" class=\"no-alt-img\"></p><p data-vmark=\"443f\">此外，PowerToys 0.102 还为 Advanced Paste、Light Switch、Settings 和 Peek 增加了命令行工具支持。其中，Advanced Paste 可以通过命令行运行内置及自定义操作，并支持使用文件、标准输入输出或剪贴板；Light Switch 支持查询状态、切换主题及管理计划任务，并可输出 JSON；Settings 命令行工具可以查询各项实用工具的启用状态，并在 PowerToys 未运行时修改启用或禁用设置；Peek 则支持通过命令行预览多个文件和文件夹。</p><p style=\"text-align: center;\" data-vmark=\"23e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d310678a-9ea7-482d-8edd-d6e23365d486.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"440\" data-weibo=\"5\" data-vmark=\"fa5b\" class=\"no-alt-img\"></p><p data-vmark=\"2740\">IT之家附官方 GitHub 地址：<br><a href=\"https://github.com/microsoft/PowerToys/releases\" target=\"_blank\" title=\"https://github.com/microsoft/PowerToys/releases/\"><span class=\"link-text-start-with-http\">https://github.com/microsoft/PowerToys/releases/</span></a></p>",
+      "link": "https://www.ithome.com/1/016/116.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/116.htm"
+    },
+    {
+      "id": 3266,
+      "title": "雷军：小米已经构建全球最大规模消费级 IoT 平台，截至二季度末设备连接数超 11 亿台",
+      "summary": "IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，小米集团创始人、董事长兼 CEO 雷军表示，到目前为止，小米已经构建了全球最大规模的消费级 IoT 平台，截至二季度末，小米全球 IoT 的设备连接数已经超过 11 亿台。 雷军称，为了把整个生态的体验做好，过去几年，小米一直在芯片、操作系统、AI 具身智能等底层硬核技术上持续加大研发投资，在过去的 5 年里，小米在硬核科技的研发上投入了 1055 亿元，预计在未来的 5 年相关投资会超过 2000 亿元",
+      "content": "<p data-vmark=\"99f5\">IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，小米集团创始人、董事长兼 CEO 雷军表示，到目前为止，<strong>小米已经构建了全球最大规模的消费级 IoT 平台</strong>，截至二季度末，小米全球 IoT 的设备连接数已经超过 11 亿台。</p><p data-vmark=\"f694\" style=\"text-align: center;\"><a href=\"https://weibo.com/6619788362/RnJj8dIcR\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/62c10d91-cedd-438d-9035-be5d0244b7eb.jpg\"></a></p><p data-vmark=\"d9c9\">雷军称，为了把整个生态的体验做好，过去几年，小米一直在芯片、操作系统、AI 具身智能等底层硬核技术上持续加大研发投资，<strong>在过去的 5 年里，小米在硬核科技的研发上投入了 1055 亿元</strong>，预计在未来的 5 年相关投资会超过 2000 亿元。</p><p data-vmark=\"63d4\">据IT之家此前报道，去年 12 月，在 2025 小米人车家全生态合作伙伴大会上，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰宣布，<a target=\"_blank\" href=\"https://www.ithome.com/0/905/584.htm\">openvela 全球合作伙伴突破 100 家，搭载设备超 1.6 亿台</a>。小米 openvela 已赋能 1500+ 品类产品，并首次实现从 IoT 芯片到车用 MCU 的关键拓展。</p><p data-vmark=\"458d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/54109ae8-b5ac-470a-b1c5-eff1a588071f.jpg\" w=\"1185\" h=\"633\" data-weibo=\"0\" data-vmark=\"39bc\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p><p data-vmark=\"27d0\">另外，2024 年 12 月，<a href=\"https://www.ithome.com/0/818/019.htm\" target=\"_blank\">小米在 GitHub 发布了 Home Assistant 米家集成项目</a>，这是一个由小米官方提供支持的 Home Assistant 的集成组件，它可以让用户在 Home Assistant 中使用小米 IoT 智能设备（Home Assistant 是一个基于 Python 3 开发的开源家庭自动化平台）。</p>",
+      "link": "https://www.ithome.com/1/016/114.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/114.htm"
+    },
+    {
+      "id": 3267,
+      "title": "英伟达 621.01 Game Ready 驱动发布：针对《影之刃零》《使命召唤：现代战争 4》等新游戏提供优化，支持微软 Advanced Shader Delivery 技术",
+      "summary": "IT之家 10 月 21 日消息，NVIDIA GeForce Game Ready 驱动 621.01 今日正式发布，为多款支持 DLSS 和 RTX 技术的新游戏提供优化体验，同时修复多项已知问题。 首先，该版本《影之刃零》《使命召唤：现代战争 4》《NBA 2K27》《赛博朋克 2077》《红色沙漠增强版：未知征程》等最新游戏及更新提供最佳游戏体验，上述作品均支持 DLSS 和 RTX 技术。 此外，新版本驱动还支持微软 Advanced Shader Delivery",
+      "content": "<p data-vmark=\"0000\">IT之家 10 月 21 日消息，<a target=\"_blank\" href=\"https://www.nvidia.cn/drivers/details/282420/\">NVIDIA GeForce Game Ready 驱动 621.01</a> 今日正式发布，为多款支持 DLSS 和 RTX 技术的新游戏提供优化体验，同时修复多项已知问题。</p><p data-vmark=\"809a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/22e1d0c3-3ec9-4397-a128-32fe24ca277c.png\" w=\"1440\" h=\"877\" data-vmark=\"3be4\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"326b\">首先，该版本《影之刃零》《使命召唤：现代战争 4》《NBA 2K27》《赛博朋克 2077》《红色沙漠增强版：未知征程》等最新游戏及更新提供最佳游戏体验，上述作品均支持 DLSS 和 RTX 技术。</p><p data-vmark=\"599e\">此外，新版本驱动还支持微软 Advanced Shader Delivery 技术，可通过云端预编译着色器，缩短游戏启动等待时间，并减少游戏运行过程中的卡顿和 CPU 占用。</p><p data-vmark=\"0cd3\">据微软 DirectX 开发者博客介绍，Advanced Shader Delivery（ASD）旨在减少 PC 游戏在启动或运行过程中即时编译着色器所带来的等待和性能波动。开发者可通过 DirectX 12、Windows 11 及 Microsoft Agility SDK，将着色器相关数据整理为状态对象数据库（SODB），再由微软云端为不同硬件和驱动组合预编译着色器，供兼容设备使用。</p><p data-vmark=\"b809\">英伟达方面表示，ASD 能够减少游戏启动时的着色器编译等待，并降低游戏过程中的卡顿和 CPU 瞬时负载。英伟达介绍称，在缓存命中率接近 100% 的情况下，该技术可以消除《战争机器：事变日》和《使命召唤：现代战争 4》等游戏运行时的即时着色器编译。</p><p data-vmark=\"f35a\">游戏兼容性方面，微软已公布《战争机器：事变日》支持 ASD，《使命召唤：现代战争 4》的官方 PC 功能介绍也列出了该技术。玩家需要在 Windows 11 电脑上安装 Xbox PC 应用，并在下载游戏前完成安装，才能使用相关功能。即使游戏通过 Steam 等其他平台购买，只要满足相应条件并安装 Xbox PC 应用，也有机会使用预编译着色器。</p><p data-vmark=\"706f\">硬件方面，微软 DirectX 开发者博客此前公布，AMD RDNA 系列显卡可通过 Adrenalin 26.6.1 或更高版本驱动使用 ASD；高通 Snapdragon X2 系列则需要 2026.08.3 或更高版本驱动。微软还表示，ASD 支持范围正扩展至英伟达 RTX 显卡等更多设备。</p><p data-vmark=\"0003\"><strong>游戏问题修复</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2edb\">修复《鸣潮》启用 DLSS 帧生成同时开启 NVIDIA Freestyle 滤镜时，游戏过程中可能发生崩溃的问题 [5747079]</p></li><li><p data-vmark=\"1f8b\">修复《星际公民》使用 Vulkan API 时可能出现崩溃的问题 [6680590]</p></li><li><p data-vmark=\"624d\">修复《火星生存》更新至 R595 驱动后重启游戏过程中可能崩溃的问题 [5965452]</p></li></ul><p data-vmark=\"0004\"><strong>通用问题修复</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5a7e\">修复运行在 360Hz 的 QHD 显示器在游戏过程中偶尔出现黑闪的问题 [4846825]</p></li><li><p data-vmark=\"79c0\">修复在 360Hz G-SYNC Pulsar 显示器玩游戏时，FPS 可能下降至 320FPS 的问题 [6408986]</p></li><li><p data-vmark=\"a464\">修复 Meta Horizon Link 通过 USB 连接时流媒体可能冻结的问题 [6292679]</p></li><li><p data-vmark=\"67c0\">修复部分华硕笔记本更新至 R620 驱动后可能出现间歇性调光异常的问题 [6807011]</p></li></ul><p data-vmark=\"0006\">IT之家注：本次驱动为 Game Ready 正式版，适用于 NVIDIA GeForce 系列显卡，建议新游戏玩家更新获取更好的体验。</p>",
+      "link": "https://www.ithome.com/1/016/107.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/107.htm"
+    },
+    {
+      "id": 3268,
+      "title": "北汽星钽 5X 预售 13.99 万元起：方盒子加华为乾崑 ADS 5 Pro",
+      "summary": "IT之家 10 月 21 日消息，今日，北京越野正式发布“星钽”品牌，首款车型星钽 5X 同步开启预售，预售价 13.99 万元起，共推出 7 款车型，其中纯电版本是首款搭载华为乾崑智驾 ADS5 Pro 的纯电方盒子车型。IT之家汇总预售价如下： 纯电版： 625km 标准版：13.99 万元 625km 乾崑智驾版：15.99 万元 625km 乾崑智驾舒享版：16.99 万元 插混版： 310km 两驱版：14.49 万元 285km 四驱版：15.49 万元 310k",
+      "content": "<p data-vmark=\"b537\">IT之家 10 月 21 日消息，今日，北京越野正式发布“星钽”品牌，首款车型星钽 5X 同步开启预售，预售价 13.99 万元起，共推出 7 款车型，其中纯电版本是首款搭载华为乾崑智驾 ADS5 Pro 的纯电方盒子车型。IT之家汇总预售价如下：</p><p data-vmark=\"5b0e\">纯电版：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9589\">625km 标准版：13.99 万元</p></li><li><p data-vmark=\"6927\">625km 乾崑智驾版：15.99 万元</p></li><li><p data-vmark=\"3b37\">625km 乾崑智驾舒享版：16.99 万元</p></li></ul><p data-vmark=\"07c2\">插混版：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6223\">310km 两驱版：14.49 万元</p></li><li><p data-vmark=\"3649\">285km 四驱版：15.49 万元</p></li><li><p data-vmark=\"5dc2\">310km 两驱乾崑智驾版：16.49 万元</p></li><li><p data-vmark=\"8bee\">285km 四驱乾崑智驾版：18.49 万元</p></li></ul><p data-vmark=\"b3a2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b3e9af2a-2819-4ff3-b0dc-f9e776526763.jpg\" w=\"1440\" h=\"810\" data-vmark=\"9400\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"36b1\">北京越野将星钽 5X 的动力方案概括为“一台方盒子，三种动力”，除插混与纯电外，还提供 2.0T 燃油版（已申报，暂未发布）。这款车型长 4865mm、宽 2000mm、高 1910mm，轴距 2875mm，选装外挂备胎后车长延伸至 5005mm。</p><p data-vmark=\"3f56\">其外观采用平直车顶与垂直 A 柱、D 柱构成的方盒子轮廓，新能源版本为封闭式前脸，燃油版则保留直瀑式中网。车漆提供晨雾灰、苍岭绿、远湖蓝等 7 种低饱和配色，内饰以“浮境星舱”命名，提供暖绒米、云影灰、琥珀橙三种方案。</p><p data-vmark=\"92e6\">座舱有效高度 1307mm，官方公布的得房率为 88.6%；前排座椅一键放倒可形成 1.75 米贯通平面，二排拓展后达到 1.8 米，座椅放倒后装载容积 2231L。纯电版额外提供 96L 前备箱，与座舱物理隔离，可直接冲洗。</p><p data-vmark=\"7d39\">动力和续航需要按工况分开来看。纯电版搭载后置 227kW 电机，匹配 81.9kWh 电池，CLTC 续航 625km，基于 800V 高压平台，30% 至 80% 直流快充时间为 14.5 分钟。</p><p data-vmark=\"07a5\">插混版由 1.5T 发动机与电机组成，发动机最大功率 105kW，两驱版电机 200kW，四驱版前后双 200kW、综合 400kW，百公里加速 4.3 秒，匹配 50.4kWh 磷酸铁锂电池。</p><p data-vmark=\"8adb\">插混版的纯电续航在 WLTC 工况下为 232km，CLTC 工况下为 310km，综合续航 1350km。燃油版搭载 2.0T 发动机，最大功率 187kW。</p><p data-vmark=\"7b8b\">四驱车型配备能量中锁与后桥牙嵌式差速锁，离地间隙 228mm，标称涉水深度 600mm，提供蠕行模式与战术掉头功能。</p><p data-vmark=\"9b42\">智能化是星钽 5X 配置梯度中区分度最大的部分。智驾版搭载华为乾崑 ADS 5 Pro，采用舱内固态激光雷达方案，激光雷达布置于前风挡后方，车顶无外凸雷达罩。其感知硬件合计 27 颗，包括 11 颗摄像头、1 颗固态激光雷达、3 颗 4D 毫米波雷达与 12 颗超声波雷达。</p><p data-vmark=\"c5c8\">高速 NCA 随智驾版提供，城市 NCA 采用付费订阅模式。座舱方面，低配车型为 15.6 英寸中控屏加 8.8 英寸仪表，高配升级为双 15.6 英寸联屏，车机芯片分高通 8155 与 8295P 两档，分别对应 4G 与 5G 网络。元境 AI 座舱 2.0 融合火山引擎豆包大模型，支持连续语音指令。</p>",
+      "link": "https://www.ithome.com/1/016/103.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/103.htm"
+    },
+    {
+      "id": 3269,
+      "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
+      "summary": "IT之家 10 月 21 日消息，老牌终端软件 Xshell 宣布，正式登陆华为鸿蒙 HarmonyOS 系统。用户可前往华为应用市场（AppGallery）下载 Xshell 鸿蒙版。 据介绍，Xshell 鸿蒙版由 Windows 版开发团队打造，支持通过 SSH、Telnet 连接，用 RDP 打开 Windows 远程桌面，使用 SFTP 传输文件，并在多个标签页中同时打开多个会话。 目前，Xshell 鸿蒙版处于公测阶段，所有人均可免费使用，且支持用于商业用途。官方",
+      "content": "<p data-vmark=\"c381\">IT之家 10 月 21 日消息，老牌终端软件 Xshell 宣布，<strong>正式登陆华为鸿蒙 HarmonyOS 系统</strong>。用户可前往华为应用市场（AppGallery）下载 Xshell 鸿蒙版。</p><p data-vmark=\"8b45\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3698e924-14e1-433a-b6d3-0abcef6ea93b.jpg\" w=\"1440\" h=\"923\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1874dec00b7848130f89be3491a3ee4f7e851b1b24f903fbdb936a133696c4e4893e6465d015bf728\" data-vmark=\"0f39\" class=\"no-alt-img\"></p><p data-vmark=\"2bd1\">据介绍，<strong>Xshell 鸿蒙版由 Windows 版开发团队打造</strong>，支持通过 SSH、Telnet 连接，用 RDP 打开 Windows 远程桌面，使用 SFTP 传输文件，并在多个标签页中同时打开多个会话。</p><p data-vmark=\"d518\">目前，Xshell 鸿蒙版处于公测阶段，<strong>所有人均可免费使用，且支持用于商业用途</strong>。官方表示，公测结束后很可能会像 Windows 版 Xshell 一样继续提供免费版本。公测没有设定期限，确认 Xshell 鸿蒙版足够稳定时，便会结束公测。</p><p data-vmark=\"b723\">需要注意的是，Xshell 鸿蒙版<strong>目前仅支持 HarmonyOS 电脑与二合一设备</strong>，暂不支持手机与平板（官方称未来可能会推出平板与手机版本）。另外，<strong>Xftp 和 Xmanager 也确认会移植到 HarmonyOS</strong>。官方计划在今年内发布 Xftp，随后发布 Xmanager。</p><p data-vmark=\"c544\">IT之家注：Xshell 是一款 SSH 客户端和终端模拟器，供系统管理员、开发人员和网络工程师操作远程计算机。借助 HarmonyOS 版 Xshell，用户可以直接在 HarmonyOS 设备上管理服务器和网络设备：通过 SSH、Telnet 等多种协议进行连接，通过 RDP 打开 Windows 远程桌面，执行命令，使用 SFTP 传输文件，并在多个标签页中同时打开多个会话。</p><p data-vmark=\"a6fd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/88b56a6f-679d-41f1-b7b9-743a9a324858.jpg\" w=\"1440\" h=\"1018\" data-weibo=\"1\"  data-vmark=\"0afd\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/016/099.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/099.htm"
+    },
+    {
+      "id": 3270,
+      "title": "华为 × 哈尔滨工业大学（深圳）联合设立“华为计算硬件专项”：拟招生 10 人，提供优先留岗机会",
+      "summary": "IT之家 10 月 21 日消息，华为官方今日宣布，华为计算硬件业务与哈尔滨工业大学（深圳）深化产教融合，联合设立“华为计算硬件专项”，开展硕士研究生校企联合培养。 华为官方介绍称： 该项目立足产业前沿根技术创新与真实工程研发场景，依托学校基础学科积淀与鲲鹏昇腾完备的硬件研发体系，致力于培养知识结构完备、工程创新能力突出，能够破解复杂硬件技术难题、适配国家重大战略与产业高端需求的卓越创新型硬件研发后备人才，助力中国计算产业实现高端化、自主化、规模化发展。 专项硕士研究生学制三",
+      "content": "<p data-vmark=\"be9d\">IT之家 10 月 21 日消息，华为官方今日宣布，华为计算硬件业务与哈尔滨工业大学（深圳）深化产教融合，<strong>联合设立“华为计算硬件专项”</strong>，开展硕士研究生校企联合培养。</p><p data-vmark=\"b6d7\">华为官方介绍称：</p><blockquote><p data-vmark=\"91a1\">该项目立足产业前沿根技术创新与真实工程研发场景，依托学校基础学科积淀与鲲鹏昇腾完备的硬件研发体系，致力于培养知识结构完备、工程创新能力突出，<strong>能够破解复杂硬件技术难题、适配国家重大战略与产业高端需求的卓越创新型硬件研发后备人才</strong>，助力中国计算产业实现高端化、自主化、规模化发展。</p></blockquote><p data-vmark=\"46c0\">专项硕士研究生学制三年，<strong>实行校内学术导师与华为产业导师双导师制</strong>。培养期间，研究生将在深圳校区完成课程学习，<strong>然后进入华为公司开展课题研究与学位论文 / 实践成果工作</strong>。完成培养方案规定内容并达到毕业和学位授予要求者，将获得哈尔滨工业大学硕士研究生毕业证书与硕士学位证书。</p><p data-vmark=\"e63b\">IT之家注意到，在就业政策方面，<strong>专项为学生提供优先留岗机会</strong>，研究生毕业后可与企业进行自愿双向选择。</p><p data-vmark=\"12aa\">另外，首期专项围绕华为计算硬件实际研发需求，梳理形成联合培养课题池，主要覆盖硬件工程与高速互连、存储与介质、光电技术、供电与散热、系统架构与关键组件、计算 AI 芯片、AI Infra、算子优化、AI 硬件系统优化等方向。</p><p data-vmark=\"3d06\"><strong>所有课题均来源于计算硬件真实技术与产品研发场景</strong>，兼顾技术研究价值与工程实践价值。另外，基于课题对专项能力的诉求，招生专业涵盖电子信息及机械，<strong>拟招生人数共 10 人</strong>。招生专业如下：</p><table><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\"><p data-vmark=\"676b\" style=\"text-align: center;\"><strong>专业</strong></p><p data-vmark=\"573b\" style=\"text-align: center;\"><strong>（专业学位）</strong></p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"39b8\" style=\"text-align: center;\"><strong>研究方向</strong></p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"6bd5\" style=\"text-align: center;\"><strong>拟招生人数（人）</strong></p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"72e3\" style=\"text-align: center;\"><strong>学习</strong></p><p data-vmark=\"f855\" style=\"text-align: center;\"><strong>方式</strong></p></td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"3\"><p data-vmark=\"20ca\" style=\"text-align: center;\">085400</p><p data-vmark=\"0030\" style=\"text-align: center;\">电子信息</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"f82a\" style=\"text-align: center;\">96 计算机技术</p><p data-vmark=\"8a6d\" style=\"text-align: center;\">（深圳校区华为计算硬件专班）</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"79ed\" style=\"text-align: center;\">3</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"bc21\" style=\"text-align: center;\">全日制</p></td></tr><tr><td valign=\"middle\" align=\"center\"><p data-vmark=\"6948\" style=\"text-align: center;\">97 信息与通信工程</p><p data-vmark=\"5511\" style=\"text-align: center;\">（深圳校区华为计算硬件专班）</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"c829\" style=\"text-align: center;\">3</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"2469\" style=\"text-align: center;\">全日制</p></td></tr><tr><td valign=\"middle\" align=\"center\"><p data-vmark=\"a9f6\" style=\"text-align: center;\">98 集成电路工程</p><p data-vmark=\"6427\" style=\"text-align: center;\">（深圳校区华为计算硬件专班）</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"b416\" style=\"text-align: center;\">3</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"33d9\" style=\"text-align: center;\">全日制</p></td></tr><tr><td valign=\"middle\" align=\"center\"><p data-vmark=\"f1cc\" style=\"text-align: center;\">085500</p><p data-vmark=\"382f\" style=\"text-align: center;\">机械</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"8680\" style=\"text-align: center;\">33 机械工程</p><p data-vmark=\"68ab\" style=\"text-align: center;\">（深圳校区华为计算硬件专班）</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"d7ad\" style=\"text-align: center;\">1</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"a310\" style=\"text-align: center;\">全日制</p></td></tr></tbody></table>",
+      "link": "https://www.ithome.com/1/016/092.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/092.htm"
+    },
+    {
+      "id": 3271,
+      "title": "告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐",
+      "summary": "IT之家 10 月 21 日消息，禾赛科技官方今日公开了下一代超级传感器 —— 6D 全彩激光雷达的亮点信息，号称告别“线数内卷”。禾赛科技官方表示，自动驾驶与具身智能的下一站，已转向对高质量、高置信度真值数据的极度渴望。 据介绍，今年 4 月，禾赛发布全球首个 6D 全彩激光雷达芯片平台「毕加索」，将高精度三维空间信息与高质量 RGB 色彩信息在芯片级实现原生像素级对齐，可输出天然一致、无需猜测的真值数据，宣称终结了智驾系统在传感器冲突面前的决策犹豫。 在自动驾驶方案中，摄",
+      "content": "<p data-vmark=\"3bd6\">IT之家 10 月 21 日消息，禾赛科技官方今日公开了下一代超级传感器 —— 6D 全彩激光雷达的亮点信息，号称告别“线数内卷”。禾赛科技官方表示，自动驾驶与具身智能的下一站，<strong>已转向对高质量、高置信度真值数据的极度渴望</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9f15\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/91a64825-b821-4e38-9c26-6660286e0430.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"f082\" class=\"no-alt-img\"></p><p data-vmark=\"eff0\">据介绍，今年 4 月，禾赛发布全球首个 6D 全彩激光雷达芯片平台「毕加索」，<strong>将高精度三维空间信息与高质量 RGB 色彩信息在芯片级实现原生像素级对齐</strong>，可输出天然一致、无需猜测的真值数据，宣称终结了智驾系统在传感器冲突面前的决策犹豫。</p><p style=\"text-align: center;\" data-vmark=\"13cb\"><a href=\"https://weibo.com/tv/show/1034:5356522251943968?mid=5356523137532328\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fed949d8-6e40-419f-86d0-1e5199b46193.jpg\"></a></p><p data-vmark=\"5de0\">在自动驾驶方案中，摄像头和激光雷达都充当物理 AI “眼睛”的角色。摄像头负责颜色与类别识别，激光雷达负责距离与位置测量，两套独立数据需要经过融合再传输给物理 AI 的“大脑”。当两种传感器对同一目标的理解出现偏差时，就会增加融合难度，影响目标定位与决策的一致性。</p><p style=\"text-align: center;\" data-vmark=\"d409\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7e33294b-416c-44e0-9437-134b8b7c9a2f.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"1\" alt=\"图片\" data-vmark=\"1926\"></p><p data-vmark=\"a923\">有研究指出，Lidar 与 Camera 融合依赖准确的时间同步和空间标定，同步偏差、目标运动、传输延迟等因素都可能造成数据映射误差。</p><p data-vmark=\"7078\">IT之家从禾赛科技官方了解到，不同于传统系统级与光路级融合技术仍需要进行时空同步、标定与后续融合，禾赛 6D 全彩激光雷达将 RGB 与深度信息融合于同一数据源，<strong>每一个像素都同时包含了颜色、位置和距离信息</strong>：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"490e\">面对红绿灯，无需等待摄像头与激光雷达的融合结果，能够直接判断红绿灯状态；</p></li><li><p data-vmark=\"c968\">面对雨雾天气，颜色信息可辅助更高效的噪点滤除；</p></li><li><p data-vmark=\"31ba\">面对道路中央被风吹起的白色塑料袋，视觉与空间信息无需在不同传感器之间反复校验；</p></li><li><p data-vmark=\"8605\">面对远处仅占十几个像素的路锥、儿童自行车或宠物，也能通过像素级对齐，让颜色与距离精准对应，减少因图像与点云偏移带来的空间定位误差。</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"9ed6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0bf093b7-81e8-441c-aa67-051f2717313b.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"2\" alt=\"图片\" data-vmark=\"5e6c\"></p>",
+      "link": "https://www.ithome.com/1/016/089.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/016/089.htm"
+    },
+    {
+      "id": 3272,
+      "title": "NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More",
+      "summary": "NVIDIA kicked off GTC 2026 with its lead keynote. Among the highlights for this year's European NVIDIA tradeshow are the DSX POD, a server-in-a-container, as well as a slew of software updates for the NVIDIA ecosystem The post NVIDIA GTC Be",
+      "content": "<p>NVIDIA kicked off GTC 2026 with its lead keynote. Among the highlights for this year's European NVIDIA tradeshow are the DSX POD, a server-in-a-container, as well as a slew of software updates for the NVIDIA ecosystem</p>\n<p>The post <a href=\"https://www.servethehome.com/nvidia-gtc-berlin-2026-nvidia-intros-dsx-pods-and-more/\">NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/nvidia-gtc-berlin-2026-nvidia-intros-dsx-pods-and-more/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=106103"
+    },
+    {
+      "id": 3273,
+      "title": "Intel Moves Forward at Ohio One With First Major Structural Truss Installation Arizona Fab 62 Tooling",
+      "summary": "Intel Ohio One is making progress with truss installation as part of its construction and future wafer capacity The post Intel Moves Forward at Ohio One With First Major Structural Truss Installation Arizona Fab 62 Tooling appeared first on",
+      "content": "<p>Intel Ohio One is making progress with truss installation as part of its construction and future wafer capacity</p>\n<p>The post <a href=\"https://www.servethehome.com/intel-moves-forward-at-ohio-one-with-first-major-structural-truss-installation/\">Intel Moves Forward at Ohio One With First Major Structural Truss Installation Arizona Fab 62 Tooling</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/intel-moves-forward-at-ohio-one-with-first-major-structural-truss-installation/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=106097"
+    },
+    {
+      "id": 3274,
+      "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
+      "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
+      "content": "<article>\n                                <p>Intel on Wednesday announced that it had started installing production tools at its Fab 62 in Arizona, and the fab is on track for mass production by late 2028. The company also reported progress on its Ohio One manufacturing complex and confirmed that it has integrated High-NA EUV lithography into high-volume manufacturing (HVM). Meanwhile, Intel continues to invest in its leading-edge process technology R&D, advanced packaging, and photomask production capabilities in the U.S., which puts the company ahead of the competition.<br><br>\"There is an important difference between technologies made in America and technologies that are truly American-made,\" wrote Naga Chandrasekaran, executive vice president and chief technology and operations officer, Intel Foundry. \"The difference lies in the research and development process that transforms ideas into manufacturable technologies.\"</p><h2 id=\"fab-62-to-begin-operations-in-2028\">Fab 62 to begin operations in 2028</h2><p>Intel completed construction of its Fab 62 shell some time ago; now it is time for the company to begin installing production tools, which is what it is doing now. Intel expects the new facility to become operational before the end of 2028, although it has not disclosed when it intends to begin high-volume production or which nodes it will produce.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"bFS2yVbki87VxGdcf3YzsK\" name=\"newsroom-ohio-first-truss-1-1920-1080\" alt=\"Intel\" src=\"https://cdn.mos.cms.futurecdn.net/bFS2yVbki87VxGdcf3YzsK-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Intel)</span></figcaption></figure><p>Intel has not officially assigned Intel 14A to Fab 62, although the facility has been discussed as a potential manufacturing site for the node. Meanwhile, there is an important distinction between Intel's original plans for Fab 62 and its current commitments. When Intel announced Fab 52 and Fab 62 in Arizona, it said the two facilities would manufacture its most advanced process technologies, including Intel 20A (2nm-class) and 18A (1.8nm-class). Intel subsequently designated Fab 52 for Intel 18A manufacturing. Yet, Fab 62 remains unassigned. </p><p>Given Intel's manufacturing process roadmap disclosed earlier this year, Fab 62 will be able to make chips on 18A, 18A-P, and 14A nodes. Intel currently manufactures Intel 18A chips at the neighboring Fab 52, whereas Fab 62 could potentially accommodate either additional Intel 18A capacity or the company’s next-generation Intel 14A process technology. However, Intel has yet to confirm its plans for the facility.</p><p>The facility will become Intel's Fab 62, the sixth high-volume semiconductor manufacturing fab at its Ocotillo campus, which has served as one of the company’s primary production sites for decades. </p><p>Intel has also not revealed Fab 62's planned wafer processing capacity, or the amount of capital expenditures required to complete the facility. Nevertheless, the installation of production equipment indicates that the project has progressed beyond construction of the building itself. The new fab will expand Intel’s manufacturing footprint in Arizona, where the company already produces leading-edge processors and operates advanced packaging, assembly, and testing facilities.</p><h2 id=\"intel-confirms-high-na-euv-insertion-into-mass-production\">Intel confirms High-NA EUV insertion into mass production</h2><p>Another noteworthy disclosure concerns Intel's deployment of High-NA EUV lithography. Intel was the first chipmaker to install a commercial High-NA EUV scanner at its D1X fab near Hillsboro, Oregon, and subsequently integrated the tool into high-volume manufacturing to produce its Panther Lake and other chips. </p><p>The Gordon Moore Park at Ronler Acres in Oregon is where Intel develops its most advanced logic process technologies and initiates volume production of the latest processors. Usage of High-NA EUV to produce select tiles for Panther Lake CPUs at D1X is a natural fit for the development fab, as it helps Intel to better understand how these lithography systems work. Meanwhile, it seems (though Intel has not explicitly confirmed) that, for now, High-NA EUV scanners are used to produce the same circuits as Low-NA EUV machines, so the use of next-generation lithography systems does not necessarily provide significant advantages over existing litho scanners. </p><h2 id=\"ohio-one-reaches-another-construction-milestone\">Ohio One reaches another construction milestone</h2><p>Intel has also made progress with its 'Ohio One' manufacturing complex in New Albany, Ohio. Construction workers recently installed the first major structural truss at the site's first semiconductor fab, which represents a milestone in the development of the company's manufacturing operations in the state. The project is clearly an important part of Intel's long-term strategy to expand domestic production of chips using leading-edge process technologies for years to come. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"PcULsGfoRrMZqhoKghBKBL\" name=\"newsroom-ohio-first-truss-2-1920-1080\" alt=\"Intel\" src=\"https://cdn.mos.cms.futurecdn.net/PcULsGfoRrMZqhoKghBKBL-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Intel)</span></figcaption></figure><p>Unfortunately, Intel did not provide an updated construction schedule for Ohio One or disclose when the first fab is expected to begin operations. Intel also did not reveal which process technology the facility will eventually use or the estimated manufacturing capacity it will provide. Therefore, while construction continues, which is good news, the announcement does not clarify exactly when Ohio One will contribute to Intel's output.</p><h2 id=\"other-investments-across-the-u-s\">Other investments across the U.S.</h2><p>In addition to leading-edge manufacturing capacity in the U.S., Intel continues to invest in advanced packaging technologies. Oregon serves as the company's main research and development center for advanced logic and 3D interconnect technologies, while Arizona hosts advanced packaging R&D, assembly, and testing operations. Intel uses its site in New Mexico to produce its complex multi-chiplet processors relying on advanced packaging methods — starting with modest EMIB and all the way to next-generation EMIB-T and Foveros technologies.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Vu6N9RDjut8Yy6FiGKNSCB\" name=\"Photomask 1.png\" alt=\"Mask\" src=\"https://cdn.mos.cms.futurecdn.net/Vu6N9RDjut8Yy6FiGKNSCB-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"720\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Intel)</span></figcaption></figure><p>Also, Intel recently broke ground on a new photomask manufacturing facility in Santa Clara, California. The new facility will be an important part of Intel's supply chain in the U.S., as the company will be the only chipmaker in America to develop and produce chips using leading-edge nodes completely in the U.S. (both Samsung and TSMC currently lack leading-edge process R&D in America; they do not run their own photomask shops in the U.S., and Samsung has abandoned its plan to build an advanced packaging facility in Texas). Of course, Intel critically depends on tools from Europe and materials from Japan, but even as its major rivals invest hundreds of billions in their U.S. production capacity, Intel remains ahead.  </p><p>To highlight its American supply chain, Intel disclosed that its U.S. operations involve more than 4,500 suppliers across 49 states, as its annual domestic expenditures exceed $29 billion. The company stressed that domestic semiconductor leadership requires not only wafer fabrication capacity but also research, process development, advanced packaging, and a comprehensive supply chain.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "UxhjXvyGsf7czKSLYBim8a"
+    },
+    {
+      "id": 3275,
+      "title": "4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte",
+      "summary": "The 4TB Samsung 990 Pro has its astronomical AI-driven high price slashed by 27%.",
+      "content": "<article>\n                                <p>At one point in time, it was the fastest PCIe Gen 4 drive you could buy. Now, the next generation of PCIe 5.0 drives is available, but the 4TB Samsung 990 Pro still offers extremely fast performance and whopping amounts of capacity in a single-sided M.2 2280 form factor. The main issue at the moment is price. Thanks to the AI boom driving up the prices of memory and storage, SSDs have reached insane highs, so to be able to take advantage of a large 27% discount in these times is nothing to be sniffed at. The <a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\">4TB Samsung 990 Pro has fallen from $1,099 to this new price of $799.90</a>, a saving of over $300. This works out as roughly 20 cents per Gigabyte of storage capacity. </p><p>● <a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\">Grab this SSD deal at Amazon</a></p><p>Having <a href=\"https://www.tomshardware.com/reviews/samsung-990-pro-4tb-ssd-review\">reviewed the Samsung 990 Pro 4TB</a> when it was released, we found it to be one of the best 4TB SSDs on the market and among the <a href=\"https://www.tomshardware.com/reviews/best-ssds,3891.html\">best SSDs</a> overall. The 990 Pro boasts maximum sequential reads of 7,450 MB/s and sequential writes of 6,900 MB/s, with random reads/writes coming in at 1.6 million and 1.55 million IOPS, respectively, while endurance is rated for 2,400 TBW.</p><div class=\"product\"><a data-dimension112=\"14b965ec-cd65-11f1-a3aa-35f2c1f9910b\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$799.90\" href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1508px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.23%;\"><img id=\"thvD5sSNzsennk4yJRnw33\" name=\"81WuG6lQuDL._AC_SL1500_.jpg\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/thvD5sSNzsennk4yJRnw33-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1508\" height=\"848\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"14b965ec-cd65-11f1-a3aa-35f2c1f9910b\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$799.90\">990 Pro 4TB SSD: was $1099.99 now $799.90</a></strong><br>The Samsung 990 Pro 4TB is among the fastest Gen 4 SSDs available thanks to read and write speeds of up to 7450/6900 MB/s, almost maxing out the Gen 4 bandwidth. This M.2 NVMe drive comes in the 2280 form factor and holds enough capacity to store a large selection of your favorite games or files. </p><p>Random reads/writes come in at 1.6 million and 1.55 million IOPS, respectively, while endurance is rated for a respectable 2,400 TBW.<a class=\"view-deal button\" href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"14b965ec-cd65-11f1-a3aa-35f2c1f9910b\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$799.90\">View Deal</a></p></div><p>Samsung uses 236-layer TLC V-NAND to achieve its 4TB capacity, while also using a single-sided design, making the 990 Pro ideal for use in computers where space is a finite resource. When we tested the Samsung 990 Pro 4TB, we found it scored above the competition on almost every test. On 3DMark's storage test, it had the lowest latency result, a big plus for responsive load times in gaming. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"ymt48DJK3XqVU54y7qDZW7\" name=\"1720886041.png\" alt=\"Samsung 990 Pro 4TB 3DMark Storage Test\" src=\"https://cdn.mos.cms.futurecdn.net/ymt48DJK3XqVU54y7qDZW7-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>The Samsung 990 Pro is also excellent at sustaining strong write performance. In our IOMeter sustained sequential write tests, the 4TB 990 Pro was able to maintain a speed of 6.2 GB/s for 75 seconds thanks to its generous 10GB of pSLC cache. Once the data spills over into the TLC, it operates at 1.6 GB/s. The Samsung 990 Pro is also a leader in power efficiency, delivering 421.1 MB/s per watt. That number puts it ahead of all competitors but the Addlink A93 4TB and Lexar NM790 4TB.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Drp6GJE8SdR75RJjnA4Hgk\" name=\"1720886391.png\" alt=\"Samsung 990 Pro 4TB sustained write speeds\" src=\"https://cdn.mos.cms.futurecdn.net/Drp6GJE8SdR75RJjnA4Hgk-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"expandable\"><a href='https://cdn.mos.cms.futurecdn.net/Drp6GJE8SdR75RJjnA4Hgk-1920-80.png' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>The Samsung 990 Pro is certainly nowhere near the all-time low prices of years gone by, and I'm not sure at the moment when, if at all, we'll ever see those low prices again on storage, certainly not for some considerable time. If you want 4TB of storage now, then the Samsung 990 Pro is a formidable choice; just try to grab it when there's as much of a discount as possible. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "RtijywqWTsc9xFTq9UjHh5"
+    },
+    {
+      "id": 3276,
+      "title": "AMD brings official Ryzen overclocking to Linux with AOD driver support",
+      "summary": "New driver enablement work from AMD brings full platform-level tuning control to Ryzen systems running Linux, finally.",
+      "content": "<article>\n                                <p>While Windows overclockers have spent years lazily sliding UI controls to adjust frequency curves and tweak voltages inside Ryzen Master, Linux users have largely had to treat their CPU tuning like an archaeological dig into the opaque veil of UEFI/BIOS firmware. Well, rejoice, Linux users, as AMD has officially published a fresh set of patches for the Linux kernel introducing AOD (AMD Overclocking Driver) support for Ryzen processors, <a href=\"https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux\" target=\"_blank\"><em>Phoronix</em></a> reports.</p><p>Instead of forcing developers to reverse-engineer closed-source firmware hooks or rely on messy, machine-specific ACPI workarounds, this new kernel driver is a direct pipeline to AMD's platform adjustments. By exposing core tuning capabilities straight through the standard sysfs interface, AMD is laying down an official, upstreamed foundation for software-level CPU management. </p><p>Right out of the gate, the driver handles platform-level SMT toggling, memory clock visibility, and power tunables. That's right: you can now toggle <a href=\"https://www.tomshardware.com/reviews/simultaneous-multithreading-definition,5762.html\" target=\"_blank\">Simultaneous Multithreading (SMT)</a> dynamically through this driver interface. That works through the CPU hotplugging mechanism and acts as a clean alternative to passing the old 'nosmt' boot parameter to the kernel. The new driver also allows real-time monitoring of memory clocks, and initial power controls are being wired up, too. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1600px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"WKupAJJrrNXwRmbmpDhYy4\" name=\"amd-ryzen-master-dashboard-homepage\" alt=\"A screenshot of AMD's Ryzen Master CPU tuning tool.\" src=\"https://cdn.mos.cms.futurecdn.net/WKupAJJrrNXwRmbmpDhYy4-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"1600\" height=\"900\" attribution=\"\" endorsement=\"\" class=\"inline expandable\"><a href='https://cdn.mos.cms.futurecdn.net/WKupAJJrrNXwRmbmpDhYy4-1920-80.png' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">This tool isn't available on Linux, and may never be, but at least its functions will be soon. </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: AMD)</span></figcaption></figure><p>Now, if you're expecting a polished, one-click official AMD application <a href=\"https://www.tomshardware.com/pc-components/cpus/how-to-use-amd-ryzen-master\" target=\"_blank\">equivalent to Ryzen Master</a> for Linux, just pump the brakes. AMD is following its open-source amdgpu graphics driver playbook here, building the kernel plumbing and then leaving the user-space presentation layer entirely up to the community. That means you're going to have to wait for utilities like CoreCtrl to build out interfaces for this new driver, but it shouldn't be long now before that work gets underway in earnest.</p><div style=\"min-height: 250px;\">                                <div class=\"kwizly-quiz kwizly-Xb8nLW\"></div>                            </div>                            <p>This approach is arguably a better fit for the Linux philosophy anyway. Because the controls are being exposed via <a href=\"https://www.tomshardware.com/news/amd-discloses-new-cppc-ryzen-driver-at-conference\" target=\"_blank\">clean kernel sysfs nodes</a>, it won't be long before independent developers integrate these knobs into powerhouse open-source monitoring and tuning suites, or even write dedicated desktop environment extensions specifically for the purpose of tweaking Ryzen processors.</p><p>The new patches are currently winding their way through review on the mailing lists, meaning mainstream kernel integration is on the horizon. For a DIY enthusiast who loves <a href=\"https://www.tomshardware.com/pc-components/cpus/how-to-use-precision-boost-overdrive-and-curve-optimizer-to-improve-ryzen-cpu-performance\" target=\"_blank\">squeezing every last MHz</a> out of silicon while maintaining a fully open-source software stack, this is easily the most exciting hardware-enablement milestone I've seen in a long time.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "dBdP6yf4VHmksDFranbWBT"
+    },
+    {
+      "id": 3277,
+      "title": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
+      "summary": "Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities.",
+      "content": "<article>\n                                <p>President Donald Trump has issued a call for data center builders and AI hyperscalers to pay communities a dividend in order to overcome energy-related price hikes, or even to reduce prices, in order to make data centers more palatable to local communities. In a post on <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117477279556215047\"><u>Truth Social post</u></a>, he warned that data centers would be mandated not only to make their own electricity, as he has previously stated, but also to give or sell excess energy back to the local community.</p><p>Local communities all over the United States have protested against AI data centers, often owing to their outsized impact on local communities. <a href=\"https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure\">Rising electricity costs</a>, <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens\">noise pollution</a>, <a href=\"https://www.tomshardware.com/tech-industry/microsoft-denies-mexico-data-center-linked-to-water-shortages-local-illnesses-and-power-outages-stomach-bugs-and-even-hepatitis-reported-in-region-as-1-5-gigawatt-ai-data-center-buildout-looms\">water shortages</a>, air pollution, <a href=\"https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance\">deforestation</a>, and more are the things that small communities have to deal with because of these companies.</p><p>To ease the pain of local communities, Trump is demanding that these large companies provide the communities they affect with something that will hopefully make their presence more acceptable. The Trump Administration is keen to stay ahead of China in the AI arms race and is looking for solutions to win back some favor by making the data centers pay something back to the affected communities; how that will practically transpire is yet to be seen. Considering the electricity-focused post, the dividend might be in the form of partially paying <a href=\"https://www.tomshardware.com/tech-industry/ai-data-centers-trigger-massive-irreversible-76-percent-electricity-price-spike-in-largest-us-region-federal-watchdog-demands-tech-giants-pay-for-their-own-power-infrastructure\"><u>rising electricity costs</u></a> to alleviate a pain point that directly affects many homes within the vicinity of data centers. The Trump Administration had ordered these companies to <a href=\"https://www.tomshardware.com/tech-industry/big-tech/trump-orders-big-tech-to-generate-its-own-power-for-ai-data-centers-reveals-new-ratepayer-protection-pledge-to-curb-rising-electricity-prices-in-the-u-s\"><u>make their own electricity</u></a>, as we’ve covered previously. Excess electricity from their generation could be used to further lower the electricity cost for the locals, including a recently passed act that orders data centers to <a href=\"https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing\"><u>shoulder the cost for grid upgrades</u></a> to avoid taking it from the taxes of local communities.</p><p>“Data Centers that were highly unpopular in a certain area have become extremely popular when a financial deal is struck.” Trump further says in his post, aiming to have more data centers built, “MAKE DEALS, and get them built!!!,\" the President said in closing.</p><p>Whether the dividends will be enough to win over communities is yet to be known, as the economic aspect is only one facet of the problem. There are still plenty of problems to face; <a href=\"https://www.tomshardware.com/tech-industry/ai-is-set-to-consume-up-to-600-billion-gallons-of-water-by-2030-rising-energy-consumption-primarily-to-blame-as-data-center-power-demands-rise\"><u>enormous water consumption</u></a>, ecological damage, and pollution are still major challenges that make AI data centers a hard sell anywhere they’re located. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ZoooB5U83ubgtbegarRNjZ"
+    },
+    {
+      "id": 3278,
+      "title": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
+      "summary": "Qualcomm will begin performance-based layoffs worldwide in November as the chipmaker reallocates resources toward AI infrastructure, data centers, automotive, PCs, and edge computing, amid weaker consumer electronics demand.",
+      "content": "<article>\n                                <p>Qualcomm has told employees it will cut jobs worldwide after its annual performance reviews, and it expects to begin informing affected employees in November. According to a Reuters <a href=\"https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/\" target=\"_blank\">report</a>, CEO Cristiano Amon framed the move as a “performance-focused reduction” intended to build a “stronger performance culture,” stating that the company will consider organizational needs, business priorities, and employees’ skills and expertise when determining affected positions. </p><p>“The reduction will address employees who have consistently fallen short of expectations,” said Amon. The memo did not specify which departments would be affected or how many jobs would be cut. The company had roughly 52,000 employees at the end of its 2025 fiscal year, typically in late September.</p><p>Qualcomm, one of the world’s largest smartphone chip manufacturers with customers including Apple, Xiaomi, and Samsung, has been hit by an industry-wide <a href=\"https://www.tomshardware.com/phones/budget-smartphone-market-collapses-under-the-weight-of-memory-shortages-sales-expected-to-drop-22-percent-memory-alone-now-comprises-up-to-64-percent-of-the-total-cost-of-lower-tier-smartphones\" target=\"_blank\">decline in consumer electronics sales as rising memory costs reduce demand</a>. Its shares have risen just 1.5% in 2026, compared to gains of almost 60% for the Philadelphia Semiconductor Index.</p><p>As a result, <a href=\"https://www.tomshardware.com/tech-industry/big-tech/qualcomm-acquires-alphawave-semi-for-usd2-4-billion-says-its-leading-high-speed-wired-tech-will-accelerate-data-center-expansion\" target=\"_blank\">Qualcomm is strategically pivoting to AI infrastructure and edge computing</a>, following a broadening trend across the semiconductor industry. The company unveiled its <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-unveils-ai200-and-ai250-ai-inference-accelerators-hexagon-takes-on-amd-and-nvidia-in-the-booming-data-center-realm\" target=\"_blank\">AI200 and AI250 AI inference accelerators</a> in October 2025. After its latest earnings report projected lower quarterly profits than initially estimated, the company said that growth in its data center business would offset any lost revenue by fiscal year 2027.</p><p>Qualcomm’s layoff decision comes as it tries to position itself for future growth. While mobile chips remain its core business, its best future opportunities might lie in data center silicon, automotive platforms, personal computing, and edge computing, and all those fields require specialized engineering talent. A performance-based reduction could let the company retain its most valuable employees in those fields while cutting duplicated roles, lower-performing teams, and positions that no longer fit its strategy. </p><p>\"As we have expanded the business, so have the competencies ⁠and skills ​we require,\" Amon wrote. \"We must have the right ​people in the right roles so they can perform at their best and the company can continue ​to succeed.\" The move comes on the back of Q3 2026 financial results that included a 4% year-on-year decline in revenue and 25% lower net income. The core handset business recorded a 20% decline in revenue on the year, too. The company reportedly recorded $97 million in severance-related restructuring charges in the first nine months of its fiscal year.</p><p>Qualcomm’s move is part of a larger industry transition, largely driven by AI. After several years of aggressive hiring, many tech companies are now trimming their workforce to fund AI ambitions. <a href=\"https://www.tomshardware.com/tech-industry/big-tech/mark-zuckerberg-says-meta-is-cutting-8000-jobs-to-pay-for-ai-infrastructure\" target=\"_blank\">Meta announced plans to cut 8,000 jobs to fund AI infrastructure</a>. Even as companies are cutting jobs that don’t fit their AI roadmap, they're<a href=\"https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030?\" target=\"_blank\"> fiercely competing for process engineers, chip designers, and AI software developers</a>. McKinsey and the SEMI Foundation estimate that the United States could face a shortage of up to 157,000 semiconductor workers by 2030, while 73% of chip companies report difficulty filling engineering roles.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "U5XPw8enpEK5jsrCAoPReZ"
+    },
+    {
+      "id": 3279,
+      "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+      "summary": "FADU’s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system.",
+      "content": "<article>\n                                <p>SSD controller designer FADU’s new File-Semantic SSD (FS-SSD) was announced at the 2026 OCP Global Summit. The new device promises to move the file system into the SSD itself.  As detailed in <a href=\"https://www.fadu.io/files/whitepaper/FSSSD_whitepaper-1.0.2.pdf\" target=\"_blank\">a white paper</a>, this enables GPUs, DPUs, and NICs to open and read files with “no host filesystem, no block layer, and no storage-server CPU in the path.” FADU told <em>Tom’s Hardware Premium</em> it expects partner samples by Q3 2027. </p><p>FADU is a Seoul, South Korea-based <a href=\"https://www.tomshardware.com/news/gen-5-nvme-ssd-fadu-technology\">fabless SSD controller designer</a>. Its FS-SSD technology is designed to handle and improve the control path, as the data path side moved to accelerators years ago. FADU’s measurements show that the file system, plus block layers, can consume about 30% of CPU cycles in a <a href=\"https://www.tomshardware.com/pc-components/ssds/highpoint-enables-gpudirect-storage-with-new-adapter-up-to-64-gb-s-from-storage-to-gpu-without-cpu-involvement\">GPUDirect Storage</a> (GDS) random-read workload. It notes that <a href=\"https://www.tomshardware.com/news/nvidia-unveils-big-accelerator-memory-solid-state-storage-for-gpus\">bypass options</a> give up the files, and the company claims its solution promises the best of both worlds.</p><p>In FADU’s own preliminary Network File System (NFS) over NVMe test, on a drive built on its FC6161 Gen6 controller in a PCIe 5.0 host, remote file throughput held steady as the server downshifted from what FADU labels 16 cores to just one, maintaining about 460,000 ops/s.</p><p>The NFSv3 operations are carried inside standard NVMe commands, and the drive handles path lookup, access control, and file-to-flash mapping. FS-SSD’s performance is remarkable when compared to Linux NFS-over-RDMA, which achieved a third of the ops/s with 16 cores and only 40K ops/s with one core. The technology remains “under active development,” and FADU told <em>Tom’s Hardware Premium</em> it expects Gen6-host results by Q1 2027, with partner samples in Q3 2027.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:787px;\"><p class=\"vanilla-image-block\" style=\"padding-top:51.46%;\"><img id=\"n6wajtY4Xd99ZTD5Vhk6F6\" name=\"fadu-fs-ssd-whitepaper-fig3-filebench\" alt=\"FADU chart of Filebench fileserver results: FS-SSD holds about 460,000 ops/s from 16 server cores down to one, while NFS over RDMA falls from about 150,000 to 40,000 ops/s\" src=\"https://cdn.mos.cms.futurecdn.net/n6wajtY4Xd99ZTD5Vhk6F6-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"787\" height=\"405\" attribution=\"\" endorsement=\"\" class=\"inline\"></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">FS-SSD holds about 460,000 ops/s from 16 server cores down to one, while NFS over RDMA falls from approximately 150,000 to 40,000 ops/s </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://www.fadu.io/files/whitepaper/FSSSD_whitepaper-1.0.2.pdf\">FADU</a>)</span></figcaption></figure><p>FADU chooses to use NFSv3 because it’s “small (21 operations), OS- and filesystem-agnostic, and stateless” with low firmware overhead. FS-SSD supports PCIe today, with <a href=\"https://www.tomshardware.com/news/ethernet-ssds-come-to-the-fore-as-kioxia-starts-sampling\">NVMe-oF</a> over RDMA and TCP working without any new transport needed. Reusing an existing protocol is a smart move, in our view. Under the hood, the file system and flash translation layer are merged with a file layer derived from F2FS. Node and data blocks are aligned with the natural flash pages, sections at corresponding erase units, so that the F2FS node table becomes a “File Map” pointing the node IDs at physical flash addresses.</p><p>One big advantage is that the DRAM mapping metadata overhead is considerably smaller: it uses the same amount of DRAM as a standard SSD, ~0.1% of NAND capacity (about 1 GB per TB), which a standard SSD fills almost entirely with its mapping table. Here, most of that DRAM, ~95%, can act as a hot-path node cache.</p><p>One garbage collector also replaces two, avoiding what FADU calls the “double GC” of host F2FS, where file-system cleanup and the drive’s own garbage collection amplify each other. Write amplification is also 63% lower versus a host F2FS solution on a mixed sequential and random workload with FADU’s research prototype, the company said. FADU told <em>Tom's Hardware Premium</em> that the prototype runs synthetic fio workloads on NVMeVirt, an open-source software SSD emulator from Seoul National University, so it is not a hardware result.</p><p>Most importantly for this method, it ensures host-free access. The GPU builds NFS-over-NVMe commands in queues in its own memory, which could include HBM. Alternatively, a remote SmartNIC or DPU with NVMe-oF target offload can drop commands in the drive’s submission queue. The data goes from SSD to NIC via PCIe peer-to-peer DMA, coming out as RDMA writes. FADU’s explicitly named use cases for this include GPU file reads and checkpoints, DPU-served HTTP content delivery, and a JBoF (just a bunch of flash) file server.</p><p>FADU’s numbers for its internal test come from a client and server Intel Core i5-13600K, a CPU with 20 threads that clocks up to 5.1 GHz with 128GB of DDR5, and a Mellanox ConnectX-6 100 Gbps NIC. Synthetic testing is compared using fio with the baseline F2FS and Ext4 on block firmware versus the FS-SSD via a kernel client and an SPDK user-space client. The sequential test is 1 thread, queue depth (QD) 128, with 128KB blocks, while random is at 4 threads, the same QD128, but with 4KB blocks.</p><p>These block sizes are typical for client workloads in our experience, so they are a fair measure, with detailed preliminary results in the table below. Against SPDK on the raw drive, figures FADU provided to us, FS-SSD’s SPDK client keeps about 93% on 4K random read and 53% on 4K random write, via fio, with around a 7% and 47% cost for the in-drive file layer. Though the raw drive’s 13,240 MB/s random write is above the ~12 GB/s FADU gives as the NAND’s program bandwidth, those runs likely weren’t at steady state. The Filebench result is particularly interesting, as the SPDK random gains apply to a plain block device too.</p><p>This should be the workload most favorable for the technology, as the Filebench file server is metadata-heavy with relatively high host overhead: FADU says it uses 10,000 files in a multi-level tree, mean directory width 20, and a mean file size of 128KB with 50 client threads.</p><div ><table><caption>FADU’s preliminary fio results: Gen6 controller in a PCIe 5.0 host, direct I/O</caption><thead><tr><th class=\"firstcol \" ><p>Setup</p></th><th  ><p>Sequential read (MB/s)</p></th><th  ><p>Sequential write (MB/s)</p></th><th  ><p>4KB random read (MB/s)</p></th><th  ><p>4KB random write (MB/s)</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>F2FS</p></td><td  ><p>14,120</p></td><td  ><p>4,510</p></td><td  ><p>7,850</p></td><td  ><p>3,980</p></td></tr><tr><td class=\"firstcol \" ><p>Ext4</p></td><td  ><p>14,130</p></td><td  ><p>7,050</p></td><td  ><p>9,120</p></td><td  ><p>4,560</p></td></tr><tr><td class=\"firstcol \" ><p>FS-SSD (kernel client)</p></td><td  ><p>14,140</p></td><td  ><p>11,940</p></td><td  ><p>8,070</p></td><td  ><p>4,320</p></td></tr><tr><td class=\"firstcol \" ><p>FS-SSD (SPDK client)</p></td><td  ><p>Not reported</p></td><td  ><p>Not reported</p></td><td  ><p>13,000</p></td><td  ><p>7,030</p></td></tr><tr><td class=\"firstcol \" ><p>Raw block (SPDK)</p></td><td  ><p>Not reported</p></td><td  ><p>Not reported</p></td><td  ><p>13,990</p></td><td  ><p>13,240</p></td></tr></tbody></table></div><p>One important thing to recall is that although this test is on a <a href=\"https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays\">Gen6 </a>drive, the test results are on a PCIe 5.0 host. Therefore, every sequential read config tops out at around 14.1 GB/s, which is roughly the link limit. The testbed also uses a consumer-class desktop CPU, while the one-core NFS server is a showcase example. The kernel client ends up 11.5% behind Ext4 on random read and 5.3% behind on random write, again by our math.</p><p>One example of a tough question more generally is: how do concurrent GPU, DPU, and host writers coordinate? How does a kernel mount’s page cache stay coherent with GPU access? NFSv3 storage devices, by the pNFS Flexible File Layout spec (RFC 8435), are “always treated as loosely coupled,” which means “Mandatory byte-range locking cannot be supported.”</p><p>Credentials riding in the NVMe command may also face security issues, as loosely coupled devices get only “a level of security equivalent to AUTH_SYS,” NFS’s basic scheme, in which the server trusts whatever user and group IDs the client sends. FADU’s published material also does not describe features such as snapshots, encryption handling, quotas, ACLs, crash handling, and so forth, related to this. Statelessness is what makes it work, but it doesn’t solve all problems, so the trust factor moves elsewhere.</p><p>In reply to our questioning, FADU said that there is no cross-host locking, as NFS’s lock manager isn’t implemented. The drive applies each write whole, in order. If two writes hit the same spot, the second one wins; this is “last-writer-wins.” Coordination depends on the clients: kernel-mounted ones get the usual advisory locks among themselves, GPU and SPDK clients coordinate in the application, and at scale a pNFS metadata server handles the coordination. Caching is also handled like ordinary NFS, with kernel clients, or is not done at all, for GPU and SPDK clients. This is stock NFSv3 behavior.</p><p>The drive has to check user/group IDs against the file permissions itself. Because those IDs ride inside the command, a client could fake them, but FADU says it closes that issue with capability-based authentication. Each command carries a capability issued by an outside authentication server, plus a code computed with a key shared only between that server and the drive. This is not detailed in its published material. FADU adds that support for the Kerberos authentication protocol is planned. For networked drives, the standard NVMe-oF protections are used, with only pre-approved hosts admitted. A drive trusts a single host’s kernel like any NVMe drive.</p><p>However, as FADU described to us, ACLs and other features are missing in the current release, aside from encryption, which in this case is handled by the FC6161’s standard TCG Opal self-encrypting drive support. Power loss is also typically handled with capacitors flushing metadata, the write buffer, and a log of in-flight operations. On restart, the drive replays the unfinished operations, and every write is durable if the drive acknowledges it.</p><p>FADU’s longer sights are on producing a JBoF storage solution with no server in front: FS-SSDs, a PCIe switch, and a DPU or NIC for handling NVMe-oF in hardware. FADU’s model puts this at about 42% lower power, about 57% lower cost per 16-drive server, and higher rack density with significantly lower five-year total cost of ownership. The drives would slot in behind existing pNFS metadata servers and could scale. FADU’s controllers already ship with drives such as the SN861, which Western Digital launched and SanDisk now sells, but this would expand the options and solutions it can provide.</p><div ><table><caption>FADU’s FS-SSD roadmap</caption><thead><tr><th class=\"firstcol \" ><p>Milestone</p></th><th  ><p>Timing (per FADU)</p></th><th  ><p>Details</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>Gen6-host results</p></td><td  ><p>By Q1 2027</p></td><td  ><p>FS-SSD tested in a PCIe 6.0 host; hardware write-amplification figures to come with them</p></td></tr><tr><td class=\"firstcol \" ><p>Partner samples</p></td><td  ><p>Q3 2027</p></td><td  ><p>OEM/ODM talks are at an early stage; active collaboration expected once samples ship</p></td></tr><tr><td class=\"firstcol \" ><p>Hostless JBoF</p></td><td  ><p>By end of 2027</p></td><td  ><p>Reference design built on Xsight Labs E1 DPUs, delivered to OEM/ODM partners</p></td></tr><tr><td class=\"firstcol \" ><p>GPU access</p></td><td  ><p>Now, via GPUDirect Storage</p></td><td  ><p>Works with GDS through the kernel client; FADU intends to join the Accelerated IO SIG (xio-sig), where Nvidia open-sourced cuFile; no direct engagement with Nvidia</p></td></tr><tr><td class=\"firstcol \" ><p>Standards</p></td><td  ><p>Nothing submitted yet</p></td><td  ><p>FADU plans to start a file-semantic command set discussion at NVM Express and OCP Storage; samples and client code come first</p></td></tr></tbody></table></div><p>Next year should bring real numbers and samples, with the JBoF reference design also expected. There may be an NVM Express or OCP Storage proposal down the line for a file-semantic command set to further cement and mature the approach. FADU has a good idea, is building it on an existing framework, and has a testbed with results and a hardware path forward on its Gen6 controller, with a trust model in mind. A Gen6-host run is now needed to support the company’s claims.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "tgdhFNS2yM4zWBSpUrQjbC"
+    },
+    {
+      "id": 3280,
+      "title": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
+      "summary": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
+      "content": "<article>\n                                <p>Intel and AMD are integrating their CPU optimizations for PyTorch into a unified library, offering tuning for both AMD and Intel chips through the oneDNN library. AMD has maintained a downstream version of oneDNN <a href=\"https://github.com/amd/ZenDNN\">called ZenDNN</a>, which is now moving into the open-source oneDNN, published by the UXL Foundation and driven by Intel. <a href=\"https://newsroom.amd.com/news/amd-intel-collaborate-simplify-ai-development-on-x86-cpus-pytorch/?utm_source=superpowerdaily-com&utm_medium=referral&utm_campaign=amd-and-intel-agree-to-combine-pytorch-cpu-optimizations-in-one-library&utm_content=article-link-2\">AMD also announced</a> it's joining the UXL Foundation as a \"steering member,\" which \"influences the future of the UXL Foundation\" in exchange for a contribution<a href=\"https://uxlfoundation.org/become-a-member/\"> of $20,000 per year</a>. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: AI and data centers</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Vh4nY3pMCcmra2ymXah9S7\" name=\"Microsoft data center in Mount Pleasant, Wisconsin\" caption=\"\" alt=\"Microsoft data center in Mount Pleasant, Wisconsin\" src=\"https://cdn.mos.cms.futurecdn.net/Vh4nY3pMCcmra2ymXah9S7-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Microsoft)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-data-center-cooling-state-of-play-2025-liquid-cooling-is-on-the-rise-thermal-density-demands-skyrocket-in-ai-data-centers-and-tsmc-leads-with-direct-to-silicon-solutions?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">The data center cooling state of play</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">The custom AI ASIC state of play </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\">America’s AI chip rules keep changing — and the rest of the world is paying the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\">GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers?utm_source=edit-links&utm_medium=boxout&utm_term=datacenter\" target=\"_blank\">Demand for data center CPUs has surged, and AI agents are responsible</a></li></ul></p></div></div><p>AMD says the move to unify these efforts under oneDNN was recommended by the x86 Ecosystem Advisory Group (EAG), which is a joint initiative that primarily exists between Intel and AMD and was established in 2024. The two companies have collaborated through the EAG previously, such as with the ACE extensions for x86 <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-and-amds-new-ace-cpu-extensions-bring-an-efficient-ai-oriented-instruction-set-to-x86-a-new-design-makes-matrix-multiplication-more-power-and-density-efficient\">that we learned about earlier this year</a>. </p><p>The oneDNN backend is used for CPU inference, and it's built to accelerate that workload for the latest Intel (and now AMD) chips in frameworks like PyTorch. When <a href=\"https://pytorch.org/blog/accelerating-inference/\">oneDNN was added to PyTorch</a> as a backend in late 2023, it showed a 1.24x improvement with the Float32 data type, and 2.21x for the BFloat16 data type. </p><p>From the oneDNN GitHub, the library \"detects hardware features at runtime\" to generate optimized kernels for the platform, as well as provides low-precision data types. It also features optimized instructions for common AI and machine learning operations, such as matrix multiplication and convolution. </p><p>For developers, the move simplifies working with PyTorch across different systems, ensuring a single backend provides the proper optimizations for whatever hardware you're running. Although the news here is focused on the x86 guard, oneDNN is a cross-platform library that works on Arm and RISC-V architectures as well. </p><p>Intel originally developed oneDNN, built on top of previously deep learning libraries, before it was folded into the UXL Foundation. Intel was among the founding members of the UXL Foundation, alongside Arm, Qualcomm, Google Cloud, and others. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "PdbmBeizDTMUBkpdhPJ46M"
+    },
+    {
+      "id": 3281,
+      "title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
+      "summary": "Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.",
+      "content": "<article>\n                                <p>The two biggest NAND flash memory manufacturers on the planet, Samsung Electronics and SK Hynix, are reportedly working to upgrade their Chinese factories to produce more advanced chips for use in AI data centers, <em>Reuters</em> <a href=\"https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/\" target=\"_blank\">reports</a>. The move comes as the two companies continue to fight off competition from the fast-growing Chinese memory makers like CXMT. Fierce competition in the lucrative AI RAM market has already seen manufacturers <a href=\"https://www.tomshardware.com/pc-components/ram/one-year-into-the-ai-induced-ram-apocalypse-how-much-does-memory-actually-cost-and-is-there-hope-for-a-more-affordable-future\">slash consumer-focused production</a> to allow them to increase production capacity for the more advanced — and money-spinning — components.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Memory</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"xi79WuWDZXzix4Fc7sXNMn\" name=\"hbm-vs\" caption=\"\" alt=\"HBM3E vs HBM4\" src=\"https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: SK Hynix)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies?utm_source=edit-links&utm_medium=boxout&utm_term=memory\">Samsung debuts three next-generation memory technologies for AI data centers</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/ram/the-future-of-dram-from-ddr5-advancements-to-future-ics?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">The future of DRAM: From DDR5 to future ICs</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/hbm-roadmaps-for-micron-samsung-and-sk-hynix-to-hbm4-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">High-bandwidth memory roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">Inside the history of DRAM price-fixing lawsuits</a></li></ul></p></div></div><p>Citing four people familiar with the companies' plans, the report claims that Samsung Electronics aims to switch its Xian plant to the production of 286-layer flash chips by the end of the year. SK Hynix has its sights set a little lower, targeting chips with 240 or more layers at its Dalian facility. That factory was <a href=\"https://www.tomshardware.com/tech-industry/intel-dalian-plant-now-officially-sk-hynix\">taken over </a><a href=\"https://www.tomshardware.com/tech-industry/intel-dalian-plant-now-officially-sk-hynix\" target=\"_blank\">back</a><a href=\"https://www.tomshardware.com/tech-industry/intel-dalian-plant-now-officially-sk-hynix\"> in 2021</a>, but a timescale for the new upgrades isn't clear.</p><p>However, while Samsung Electronics and SK Hynix are well placed to deal with the growing threat from Chinese chipmakers, both are faced with additional complications in the form of U.S. regulations. Export controls on chipmaking equipment were applied in 2022, with the aim of slowing China's technological progress. Both companies, based in South Korea, must now get licenses in order to install U.S.-built hardware in Chinese factories. The report points to this as a reason for the recent growth of Chinese firms like Yangtze Memory Technologies Co. (YMTC). The company told investors at a recent IPO preparation meeting that it aims to <a href=\"https://www.tomshardware.com/pc-components/dram/chinas-ymtc-aims-to-become-the-worlds-largest-nand-maker-by-the-end-of-2027\">become the world's largest NAND flash producer</a> by the end of 2027.</p><p>While both Samsung Electronics and SK Hynix say that they are working in consultation with the U.S. authorities, there's little doubt that this extra step has hampered the companies' ability to upgrade their factories to better meet the new AI memory demand.</p><p>It's impossible to overstate just how key Samsung and SK Hynix are to NAND supply. Samsung's Xian factory produces around 40% of the company's global output. It currently produces chips that have around 200 layers, but Samsung's plans aim to boost that to 286 layers for V9 NAND chips. For its part, SK Hynix's Dalian plant currently produces chips with 192 layers, with the company's aim for 240-layer chips reportedly confirmed by three people familiar with the plans.</p><p>Meanwhile, CXMT, China's premier chipmaker, is looking to move beyond DRAM production. A report from September 2026 noted that it was <a href=\"https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing\">eyeing production of 3D NAND memory</a> for use in solid-state storage (SSD) products. The country's largest DRAM producer, CXMT, <a href=\"https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-29/688825_20260829_TZRI.pdf\" target=\"_blank\">posted $22.41 billion in revenue and $11.57 billion in net profit</a> in the first half of 2026 after years of losing money. But despite this purple patch, the company is still much smaller than the likes of Samsung, SK Hynix, and Micron.</p><figure class=\"van-image-figure pull-left inline-layout\" data-bordeaux-image-check ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:676px;\"><p class=\"vanilla-image-block\" style=\"padding-top:31.51%;\"><img id=\"Ff8qW7gTwUZFZmPvceeLFd\" name=\"Follow Tom's Hardware\" alt=\"Google Preferred Source\" src=\"https://cdn.mos.cms.futurecdn.net/Ff8qW7gTwUZFZmPvceeLFd-1920-80.png\" mos=\"\" align=\"left\" fullscreen=\"\" width=\"676\" height=\"213\" attribution=\"\" endorsement=\"\" class=\"pull-leftinline\"></p></div></div></figure>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "EAV2tZrchUMKgDSi9XbTWY"
+    },
+    {
+      "id": 3282,
+      "title": "Micron's Taiwan union will launch a one-day strike this week, threatening memory production",
+      "summary": "Micron's Taiwan union is set to conduct a one-day strike at the company's Taoyuan DRAM facility as workers demand bonuses for this year and transparent terms of bonuses for upcoming years.",
+      "content": "<article>\n                                <p>Micron faces a one-day labor stoppage at its Taoyuan operations in Taiwan on October 22, <a href=\"https://www.reuters.com/business/world-at-work/micron-union-taiwan-launch-strike-bonus-dispute-escalates-2026-10-20/\">Reuters</a> reports. Micron's employees are striking for concrete terms for this year's bonus and a clearer mechanism for sharing the company's future profits. The strike's teeth come from the resultant financial impact on Micron's operations, as semiconductor fabs are supposed to operate around the clock. The scheduled protest comes amid strong demand for memory chips and will have a minor impact on Micron's memory output.</p><p>The Taoyuan union wants Micron to present a specific proposal for this year's additional employee bonus and establish a transparent formula for distributing a portion of future profits. Previous negotiations between the company and the union ended unsuccessfully in September, which prompted employees to approve industrial action in early October. Nonetheless, the union stresses that the October 22 strike is intended to pressure Micron into reaching an agreement rather than terminate negotiations. The union is prepared to conclude a deal if the company presents terms acceptable to employees across its Taiwanese operations. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Memory</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"xi79WuWDZXzix4Fc7sXNMn\" name=\"hbm-vs\" caption=\"\" alt=\"HBM3E vs HBM4\" src=\"https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\"></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: SK Hynix)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">AI data centers are swallowing the world's memory and storage supply</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies?utm_source=edit-links&utm_medium=boxout&utm_term=memory\">Samsung debuts three next-generation memory technologies for AI data centers</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/ram/the-future-of-dram-from-ddr5-advancements-to-future-ics?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">The future of DRAM: From DDR5 to future ICs</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/hbm-roadmaps-for-micron-samsung-and-sk-hynix-to-hbm4-and-beyond?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">High-bandwidth memory roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit?utm_source=edit-links&utm_medium=boxout&utm_term=memory\" target=\"_blank\">Inside the history of DRAM price-fixing lawsuits</a></li></ul></p></div></div><p>The situation could become more serious if employees at Micron's Taichung operations, its largest manufacturing site in Taiwan, decide to join the action. A separate labor organization that represents workers at that facility is scheduled to meet with Micron for mediation on October 22, the same day as the Taoyuan protest. However, the Taichung union has not yet authorized a strike. </p><p>Micron's fabs in Taiwan produce commodity DDR5 and LPDDR as well as expensive high-bandwidth memory (HBM) for AI accelerators. Amid record demand for memory of all types, even a one-day suspension of operations would have a material impact on Micron's output and earnings.</p><p>Modern semiconductor fabs are supposed to work 24/7/365, as many processes cannot be halted. However, if management has sufficient time and personnel to prepare, a one-day warning strike does not necessarily mean a complete shutdown of Micron's Taoyuan manufacturing operations, not to mention permanent damage to wafers or equipment. The actual consequences of the strike will depend on employee participation, which manufacturing operations are affected, and Micron's contingency plans. While it is likely that the output will drop, the decline will likely be negligible. </p><p>Micron employs approximately 15,000 people in Taiwan. The workers point to compensation arrangements at Samsung Electronics and SK hynix as examples of how semiconductor manufacturers can distribute profits among employees as AI-driven demand generates unprecedented cash flows for memory firms. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "iNhEdWJQGsirWN8zJH8j27"
+    },
+    {
+      "id": 3283,
+      "title": "Save a massive $850 on Lenovo's Legion 5i gaming laptop with this 32% Best Buy discount",
+      "summary": "Save $850 on a new Lenovo gaming laptop from Best Buy. Pick up the Legion 5i with RTX 5070 graphics and save 32%.",
+      "content": "<article>\n                                <p>On the lookout for a new gaming laptop? Best Buy is offering $850 off the list price of the <a href=\"https://www.bestbuy.com/product/lenovo-legion-pro-5i-16-3k-lcd-gaming-laptop-intel-core-ultra-7-255hx-2025-16gb-ram-nvidia-geforce-rtx-5070-1tb-eclipse-black/JJGH3Z6XGZ\">Lenovo Legion 5i 16-inch Gaming Laptop, bringing the price to $1799.99</a>. The full list price of this laptop mentioned on the Best Buy store page is $2649.99, which is a hefty sting to anyone's bank account. This Legion 5i packs a high-res 16-inch display and a powerful laptop graphics card, and comes in a very well-constructed Lenovo Legion chassis. </p><p>● <a href=\"https://www.bestbuy.com/product/lenovo-legion-pro-5i-16-3k-lcd-gaming-laptop-intel-core-ultra-7-255hx-2025-16gb-ram-nvidia-geforce-rtx-5070-1tb-eclipse-black/JJGH3Z6XGZ\">Check out this deal at Best Buy</a></p><p>The Lenovo Legion 5i in this deal features a 16-inch IPS screen with a sharp 3K display (2560 x 1600-pixel) resolution, a blistering 240Hz refresh rate, and 500 nits of brightness. This Legion 5i model sports an Intel Core Ultra 7 255HX processor with an Nvidia mobile RTX 5070 graphics card with 8GB of GDDR7 VRAM, 16GB of memory, and a 1TB SSD for storage, which completes the main hardware specifications of this powerful gaming laptop.</p><div class=\"product\"><a data-dimension112=\"1146af14-cd3d-11f1-9845-813ba0c4f593\" data-action=\"Deal Block\" data-label=\"Legion 5i 16-inch Gaming Laptop\" data-dimension48=\"Legion 5i 16-inch Gaming Laptop\" data-dimension25=\"$1799.99\" href=\"https://www.bestbuy.com/product/lenovo-legion-pro-5i-16-3k-lcd-gaming-laptop-intel-core-ultra-7-255hx-2025-16gb-ram-nvidia-geforce-rtx-5070-1tb-eclipse-black/JJGH3Z6XGZ\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:834px;\"><p class=\"vanilla-image-block\" style=\"padding-top:88.01%;\"><img id=\"LmNpbWvwCq6vQNYoXkFCXe\" name=\"Lenovo - Legion Pro 5i 16\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/LmNpbWvwCq6vQNYoXkFCXe-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"834\" height=\"734\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.bestbuy.com/product/lenovo-legion-pro-5i-16-3k-lcd-gaming-laptop-intel-core-ultra-7-255hx-2025-16gb-ram-nvidia-geforce-rtx-5070-1tb-eclipse-black/JJGH3Z6XGZ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1146af14-cd3d-11f1-9845-813ba0c4f593\" data-action=\"Deal Block\" data-label=\"Legion 5i 16-inch Gaming Laptop\" data-dimension48=\"Legion 5i 16-inch Gaming Laptop\" data-dimension25=\"$1799.99\">Legion 5i 16-inch Gaming Laptop: was $2649.99 now $1799.99</a></strong><br>The Lenovo Legion 5i uses an Intel Core Ultra 7 255HX processor with Nvidia's mobile RTX 5070 graphics with 8GB of VRAM. There's also 16GB of memory and a 1TB SSD installed. The laptop features a 16-inch screen with a sharp resolution of 2560 x 1600 pixels and a 240Hz refresh rate. <a class=\"view-deal button\" href=\"https://www.bestbuy.com/product/lenovo-legion-pro-5i-16-3k-lcd-gaming-laptop-intel-core-ultra-7-255hx-2025-16gb-ram-nvidia-geforce-rtx-5070-1tb-eclipse-black/JJGH3Z6XGZ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1146af14-cd3d-11f1-9845-813ba0c4f593\" data-action=\"Deal Block\" data-label=\"Legion 5i 16-inch Gaming Laptop\" data-dimension48=\"Legion 5i 16-inch Gaming Laptop\" data-dimension25=\"$1799.99\">View Deal</a></p></div><p>The Legion 5i also offers video connectivity via USB-C DisplayPort 1.2 and HDMI 2.1. Other ports onboard the Legion 5i include Thunderbolt 4 and 3x USB-A ports. Speedy Wi-Fi 7 connects you wirelessly for gaming, with helpful RGB backlighting on the keyboard for gaming in darker environments.  </p><p>The battery life for the Legion 5i is rated for around 4.7 hours of use, but, as is the issue with all gaming laptops that use a powerful graphics solution for gaming, the battery can drain very quickly. So, for the full gaming potential of this laptop, you will need to be connected to mains power.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-massive-usd850-on-lenovos-legion-5i-gaming-laptop-with-this-32-percent-best-buy-discount-featuring-powerful-rtx-5070-graphics-and-a-3k-display-with-a-240hz-refresh-rate",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "tGbLVdqzPW9CRaQxebnH65"
+    },
+    {
+      "id": 3284,
+      "title": "Score a 1440p-ready gaming PC with an RTX 5060 Ti 16GB for under $1,500 right now, saving you $200",
+      "summary": "You can pick up this ABS Cyclone Aqua gaming PC with an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SS with a $200 discount, now $1,499.99.",
+      "content": "<article>\n                                <p>Right now, the best way to pick up a gaming PC is to buy a pre-built, with hardware prices shooting through the roof. Luckily, the big tech retailers continue to throw out deals for gamers to take advantage of. For instance, you can pick up this <a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993?Item=N82E16883360993\">ABS Cyclone Aqua machine with an RTX 5060 Ti 16GB GPU, giving you 1440-capable performance for $1,499.99</a>.</p><p>● <a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993?Item=N82E16883360993\">Check out this deal at Newegg</a></p><p>If you took these specs and tried to build a matching PC yourself, you'd struggle to beat this price. Front and center here is the Nvidia GeForce RTX 5060 Ti with 16GB of VRAM: a formidable option for a budget-friendly gaming PC. You're also getting a 20-core Intel Core i7-14700F CPU, 16GB of DDR5 RAM, and a 1TB SSD. </p><div class=\"product star-deal\"><a data-dimension112=\"18d6f79e-cd3c-11f1-93cc-cf00aa999ff1\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1499.99\" href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:133.36%;\"><img id=\"Yk2R4k6n6MxcwLAEF8dgk6\" name=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/Yk2R4k6n6MxcwLAEF8dgk6-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"1707\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\"></p></div></div></figure></a><p><strong><a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"18d6f79e-cd3c-11f1-93cc-cf00aa999ff1\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1499.99\">Cyclone Aqua (RTX 5060 Ti 16GB): was $1699.99 now $1499.99</a></strong><br>This ABS Cyclone Aqua gaming PC is ready for 1080p and 1440p gaming. It features an Nvidia GeForce RTX 5060 Ti 16GB, 16GB DDR5 RAM, a 1TB SSD, and a 20-core Intel Core i7-14700F CPU.<a class=\"view-deal button\" href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"18d6f79e-cd3c-11f1-93cc-cf00aa999ff1\" data-action=\"Star Deal Block\" data-label=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension48=\"Cyclone Aqua (RTX 5060 Ti 16GB)\" data-dimension25=\"$1499.99\">View Deal</a></p></div><p>With the Nvidia GeForce RTX 5060 Ti at your disposal, you're getting one of Nvidia’s latest-generation mid-tier graphics cards.  It has 4,608 CUDA cores and a boost clock speed of 2,527MHz. Unlike the more power-hungry top-end RTX 50-series cards, you only need one eight-pin PCIe connector to deliver power here, so you can banish those worries about burning GPU cables.</p><p>Our <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5060-ti-16gb-review\">RTX 5060 Ti 16 GB review</a> makes clear how good the performance is with this Blackwell GPU for gamers, especially at 1080p and 1440p. The charts you'll see below show that, especially with ray tracing in the mix, compared to rival cards at this level. Full DLSS support is included, too, so you can add multi-frame generation as a backstop. That'll give you a nice frame rate boost in the most resource-heavy games if you're pushing up to the highest resolutions.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/kxZE95sDP64C9cfD6GZfcn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/6W8emE4qtzGBCBosJmQhWn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/PJNkxdkVNWvA2ogTjbfain-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/8uScgGkvdRsWW6aVzME2Rn-1920-80.png\" alt=\"Nvidia GeForce RTX 5060 Ti 16GB performance charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>You can also count on 16GB of GDD7 VRAM with this GPU. That makes it a much more appealing option than 8GB variants you might have to settle for in other rigs at this price point. 16GB gives you more headroom, as far as performance goes, for the most resource-heavy games at 1440p.</p><p>For the CPU, you're getting the Intel Core i7-14700F. This continues to be a popular CPU option for gaming, despite being a little older. This Raptor Lake Refresh CPU has 20 cores, with eight performance cores, which are the ones you'll want for gaming, along with 12 efficient cores for multi-threaded work. It also has a maximum turbo clock speed of 5.4 GHz, along with a 65W TDP. At 1080p or 1440p, you won't see much of a bottleneck with the 14700F at your disposal in modern games.</p><p>No risk of settling for slower DDR4 RAM here, either. You get fast DDR5 instead, with 16GB of G.Skill Flare X5 DDR5 memory included with speeds of 6,000 MT/s. You aren't getting 32GB, which is a compromise, but you do have room to upgrade later, and DDR5 ensures some extra longevity.</p><p>Storage-wise, you're also getting a 1TB Patriot P410 SSD. It has Gen 4 speeds, with that 1TB of storage ensuring you get space for a couple of the big AAA games alongside your Windows installation. This ABS build also comes with Wi-Fi 6E and Bluetooth 5.2 wireless connectivity, along with gigabit Ethernet for a wired connection to your local network.</p><p>The<a href=\"https://www.newegg.com/abs-cyclone-aqua-gaming-pc-geforce-rtx-5060-ti-intel-core-i7-14700f-16gb-1tb-ssd-c1a47n56t1-black/p/N82E16883360993\"> $1,499.99 sale price for this ABS Cyclone Aqua gaming PC</a> makes it an affordable option for gamers who want a 1440p-ready rig right now, especially with prices rising elsewhere. The RTX 5060 Ti 16GB is the standout component, but there's no guarantee that this price will last for very long.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-for-under-usd1-500-right-now-saving-you-usd200-abs-cyclone-aqua-rig-ships-with-16gb-ddr5-1tb-ssd-and-a-20-core-intel-cpu",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "R27HfjjChqR8nRoKgpZ8S6"
+    },
+    {
+      "id": 3285,
+      "title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones",
+      "summary": "Jensen Huang's Nvidia GTC keynote speech in Berlin was disrupted by a Greenpeace protest on Wednesday.",
+      "content": "<article>\n                                <p>Protesters disrupted Jensen Huang's Nvidia GTC keynote in Berlin on Wednesday morning. Just minutes into the CEO's customary address, the broadcast was interrupted by a heckler from the crowd demanding the CEO answer claims that the company's chips were found inside Russian drones, and charges of environmental destruction more broadly. While the incident wasn't fully picked up by Nvidia's livestream, footage filmed by attendees shows protestors standing on chairs with a large banner that reads \"Nvidia, clean up your dirty business!\"</p><p>Multiple videos and images shared to X show protestors brandishing a large banner with a Greenpeace logo. \"Jensen, what about the technology that was found in Russian drones? Those were Nvidia chips. What are you doing about that?\" one of the protestors called out across the auditorium. \"What are you doing about that? What are you doing about the environmental destruction?\" the heckler demanded. </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2112839089632219564\"><p lang=\"en\" dir=\"ltr\">GTC Keynote disrupted by protestors. What looks like @Greenpeace #GTC #GTCBerlin https://t.co/LqSdpmQLi0<a href=\"https://twitter.com/cantworkitout/status/2112839089632219564\">October 21, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>Huang can be heard on the broadcast and in the video stating, \"It's okay, go easy,\" as security rushed to escort the protesters out of the hall. \"I'll talk to you later,\" Huang stated as the individuals were removed from the premises. </p><p>The complaint raised by the protester appears to relate to recent reports that <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech\">Nvidia Jetson chips have been found in Russian cruise missiles used against Ukraine</a>, as well as in AI drones. Reports indicate Russia's S-71 'Monochrome' weapon has autonomous targeting capability powered by Nvidia's consumer-grade Jetson Orin chip. \"Our Jetson Orin modules are consumer-grade products sold to students, developers, and startups for a wide range of beneficial applications,\" Nvidia told <em>Tom's Hardware</em> at the time. The company reiterated that the chips are not available in Russia and are not designed for military purposes, but admitted it cannot track the resale of pre-owned Jetson chips after they are sold. </p><p>A report in August claimed that a <a href=\"https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say\">Russian AI drone killed three civilians in Ukraine</a>, the first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting. Images of the recovered drones confirmed they contained Jetson Orin modules. \"All important issues, but let me get through my keynote,\" Huang quipped before continuing his presentation. </p><p>Huang is in Berlin for Nvidia's three-day GTC event, taking place from October 20-22. The customary keynote, given this morning, also includes fireside chats and talks for developers and business leaders. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-nvidia-gtc-keynote-disrupted-by-greenpeace-protest-over-chips-in-russian-drones-what-are-you-doing-about-that-heckler-demands-before-being-thrown-out",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "GgvgDtudVdEUkiiDSWo7m8"
+    },
+    {
+      "id": 3286,
+      "title": "Leak: Intel Core Ultra 9 4995HX Leads Nova Lake Laptop Lineup",
+      "summary": "Intel's Core Ultra 9 4995HX looks set to be the fastest Nova Lake chip for laptops. Leaker Jaykihn on X has confirmed that the 4995HX uses an 8+16+4+2 layout, meaning 8 P-cores, 16 E-cores, 4 LPE cores, and 2 Xe3 GPU cores. That adds up to ",
+      "content": "Intel's Core Ultra 9 4995HX looks set to be the fastest Nova Lake chip for laptops. Leaker <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2111480375927029763\" target=\"_blank\">Jaykihn on X</a> has confirmed that the 4995HX uses an 8+16+4+2 layout, meaning 8 P-cores, 16 E-cores, 4 LPE cores, and 2 Xe3 GPU cores. That adds up to 28 CPU cores, four more than Intel's current Arrow Lake-HX chips, with the extra cores coming from the LPE cluster Arrow Lake-HX lacked. The overall layout matches the <a href=\"https://www.techpowerup.com/339879/intel-core-ultra-nova-lake-mobile-to-top-out-at-8p-16e-4lp-core-configuration\" target=\"_blank\">8P+16E+4LP ceiling</a> earlier reports pointed to, and the name itself fits the <a href=\"https://www.techpowerup.com/353380/intel-core-ultra-4000-naming-reportedly-extends-to-nova-lake-hx-mobile-processors\" target=\"_blank\">Core Ultra 4000 branding</a> said to be extending to HX parts. Intel hasn't confirmed any of this, and clocks, cache, and power figures are still unknown.<br />\r\n<br />\r\nThe same post lists the Core Ultra 9 4970H as 4+8+4+12, so 16 CPU cores and a 12-core Xe3P iGPU. That is the same core count as Panther Lake's flagship Core Ultra X9 388H, so any gains here should come from the new Coyote Cove P-cores, Arctic Wolf E-cores, and Xe3P graphics rather than extra cores. The tiny iGPU on the 4995HX is less of a concern, since HX chips almost always end up paired with a discrete GPU anyway. Jaykihn also put the final 8+16 HX compute tile, built on TSMC N2P, at <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2111247057642250684\" target=\"_blank\">14.8 x 6.6 mm</a>, or roughly 98 mm², shortly after <a href=\"https://www.techpowerup.com/353791/intel-nova-lake-hx-and-nova-lake-h-die-shots-appear\" target=\"_blank\">die shots</a> of both chips surfaced. Current reports point to the first Nova Lake-H and HX laptops showing up around CES 2027, though that timing should be treated as tentative for now.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ZRD6HYFjgrCb5lCZ.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"675\" ><img src=\"https://tpucdn.com/img/ZRD6HYFjgrCb5lCZ_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/353986/leak-intel-core-ultra-9-4995hx-leads-nova-lake-laptop-lineup",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "ef9a825232fff59293e04c1490c5392d"
+    },
+    {
+      "id": 3287,
+      "title": "(PR) Call of Duty: MW4 Launches, Cyberpunk 2077 Gets DLSS 4.5, and More RTX Spark Games Released",
+      "summary": "GeForce RTX GPUs accelerated by DLSS 4.5 give you the definitive experience in the wealth of top-rated games that have recently launched, and new titles such as Call of Duty: Modern Warfare 4, Crimson Desert Enhanced: Charting the Unknown a",
+      "content": "GeForce RTX GPUs accelerated by DLSS 4.5 give you the definitive experience in the wealth of top-rated games that have recently launched, and new titles such as Call of Duty: Modern Warfare 4, Crimson Desert Enhanced: Charting the Unknown and Phantom Blade Zero.<br />\r\n<br />\r\nOn October 16th, Call of Duty: Modern Warfare 4 Campaign Early Access began, followed by DMZ Early Access yesterday. On the 23rd, the full game officially arrives with the addition of multiplayer, and using our latest Game Ready Driver you can optimize your experience with DLSS 4.5 and Advanced Shader Delivery.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/cFLI9S9u0iQTFqhE.jpg\" target=\"_blank\" data-width=\"1706\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/cFLI9S9u0iQTFqhE_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/85i52SqKPPAgBEDj.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/85i52SqKPPAgBEDj_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/X3YHPMNNd829plsq.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/X3YHPMNNd829plsq_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/3IZfw0efCODkeIEv.jpg\" target=\"_blank\" data-width=\"1280\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/3IZfw0efCODkeIEv_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353983/call-of-duty-mw4-launches-cyberpunk-2077-gets-dlss-4-5-and-more-rtx-spark-games-released\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353983/call-of-duty-mw4-launches-cyberpunk-2077-gets-dlss-4-5-and-more-rtx-spark-games-released",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "1f2020a79affdcb6444b1e78470380ba"
+    },
+    {
+      "id": 3288,
+      "title": "(PR) NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "summary": "NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI factory platform. Working with Amkor Technology, IBIDEN, King ",
+      "content": "NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI factory platform.<br />\r\n<br />\r\nWorking with Amkor Technology, IBIDEN, King Yuan Electronics (KYEC), Samsung Electro-Mechanics, Siliconware Precision Industries (SPIL) and Unimicron Technology Corporation, NVIDIA is enabling new and existing suppliers to expand critical manufacturing capabilities across substrates, advanced packaging, testing and optical engines, strengthening the resiliency and redundancy of NVIDIA's global supply chain.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/LAKmyEYAhHq309Vx.jpg\" target=\"_blank\" data-width=\"1600\" data-height=\"900\" ><img src=\"https://tpucdn.com/img/LAKmyEYAhHq309Vx_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353982/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353982/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "f2cab5f87aae6ef007c30ba3fb6542e0"
+    },
+    {
+      "id": 3289,
+      "title": "PSA: Critical Security Flaw in PHP Exposes Millions of Website, Update Fast",
+      "summary": "For fellow infrastructure maintainers, today marks just the beginning of what could be a series of AI-driven security challenges. Two critical security flaws have been discovered in all variations and implementations of the PHP programming ",
+      "content": "For fellow infrastructure maintainers, today marks just the beginning of what could be a series of AI-driven security challenges. Two critical security flaws have been discovered in all variations and implementations of the PHP programming language used for the web. With millions of websites relying on PHP, this security flaw affects all installations handling web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP, and LiteSpeed. The highest risk is currently associated with mod_php, as the exploit can trigger an unauthenticated request before any application code runs. PHP versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 include fixes for these vulnerabilities, and users are strongly encouraged to update their PHP versions across their entire infrastructure.<br />\r\n<br />\r\nThe discovery of this vulnerability was aided by OpenAI's GPT-5.6 Sol LLM, which is part of the &quot;Patch the Planet&quot; initiative. This initiative helps software maintainers worldwide discover, patch, and test software for vulnerabilities. It supports many software maintainers by running extensive formal verification and checks with agents to ensure software behaves as intended and that there are no side channels to bypass modern software security. As a result, we can expect more of these discoveries in the future.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/oWaR1oE3XsS5CmzN.jpg\" target=\"_blank\" data-width=\"1779\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/oWaR1oE3XsS5CmzN_thm.jpg\" width=\"241\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353981/psa-critical-security-flaw-in-php-exposes-millions-of-website-update-fast\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353981/psa-critical-security-flaw-in-php-exposes-millions-of-website-update-fast",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "9907f6c2308c00de805cf1665ca12eec"
+    },
+    {
+      "id": 3290,
+      "title": "NVIDIA Releases GeForce 621.01 WHQL Game Ready Drivers",
+      "summary": "NVIDIA today announced its latest GeForce 621.01 WHQL Game Ready drivers, designed to bring the latest DLSS and RTX technologies to AAA titles. This update focuses on enhancing DLSS, ray tracing, and various other visual fidelity improvemen",
+      "content": "NVIDIA today announced its latest GeForce 621.01 WHQL Game Ready drivers, designed to bring the latest DLSS and RTX technologies to AAA titles. This update focuses on enhancing DLSS, ray tracing, and various other visual fidelity improvements for games like Phantom Blade Zero, Call of Duty: Modern Warfare 4, NBA 2K27, Cyberpunk 2077, and Crimson Desert Enhanced: Charting the Unknown. In addition to minor DLSS version updates, the driver also addresses issues such as DLSS FG application problems in Wuthering Waves, crashes in Star Citizen with the Vulkan API, and crashes in Surviving Mars: Relaunched after updating to R595 drivers. These issues have been resolved. Furthermore, general bug fixes include quality of life improvements for users of 360 Hz refresh rate monitors, where QHD monitors running at 360 Hz experienced occasional black flashing during gameplay or FPS drops on some models. Lastly, freezing with Meta Horizon Link streaming and dimming on ASUS notebooks have been fixed.<br />\r\n<br />\r\n<b>DOWNLOAD</b>: <a href=\"https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/\" target=\"_blank\">NVIDIA GeForce 621.01 WHQL</a><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/wBsAkFKCBEU0sPmF.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"756\" ><img src=\"https://tpucdn.com/img/wBsAkFKCBEU0sPmF_thm.jpg\" width=\"294\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353967/nvidia-releases-geforce-621-01-whql-game-ready-drivers\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353967/nvidia-releases-geforce-621-01-whql-game-ready-drivers",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "ef1b17dabf4ff1e4cb1ad662e2d706ff"
+    },
+    {
+      "id": 3291,
+      "title": "(PR) Thermaltake Releases View 590 TG ARGB Mid-Tower Chassis",
+      "summary": "Thermaltake, a leading brand in gaming PCs, AI workstations, and gaming PC components, offering a comprehensive portfolio of PC cases, power supplies, cooling solutions, gaming peripherals, memory, and racing simulators, today introduces th",
+      "content": "Thermaltake, a leading brand in gaming PCs, AI workstations, and gaming PC components, offering a comprehensive portfolio of PC cases, power supplies, cooling solutions, gaming peripherals, memory, and racing simulators, today introduces the View 590 TG ARGB Mid-Tower Chassis, designed to showcase PC hardware through a curved tempered glass panel. Available in Black and Snow editions, the View 590 TG ARGB features five pre-installed Infinity ARGB PWM fans, a dual-chamber layout, and support for hidden-connector motherboards, bringing together a clean visual design and flexible hardware configurations.<br />\r\n<br />\r\n<b>Curved Tempered Glass for Panoramic Views</b><br />\r\nThe View 590 TG ARGB features a 4 mm curved tempered glass panel covering the front and left side, offering a wide view of the components inside. The curved surface brings the hardware and lighting into focus, creating a complete presentation from different angles. A built-in pull tab allows the glass panel to be lifted easily, providing convenient access for installation, upgrades, and maintenance.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/xkmzD8GWf1MwFl9C.jpg\" target=\"_blank\" data-width=\"900\" data-height=\"900\" ><img src=\"https://tpucdn.com/img/xkmzD8GWf1MwFl9C_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Mj0Sbm3emnMh2rnq.jpg\" target=\"_blank\" data-width=\"655\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/Mj0Sbm3emnMh2rnq_thm.jpg\" width=\"118\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/6LbvR38fZHDP55Qe.jpg\" target=\"_blank\" data-width=\"471\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/6LbvR38fZHDP55Qe_thm.jpg\" width=\"85\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/KJm7ck2cQv8JGmp6.jpg\" target=\"_blank\" data-width=\"605\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/KJm7ck2cQv8JGmp6_thm.jpg\" width=\"109\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/EhgJLn0uQXrNIl6a.jpg\" target=\"_blank\" data-width=\"636\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/EhgJLn0uQXrNIl6a_thm.jpg\" width=\"115\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/H1oBX3At8XELYUx0.jpg\" target=\"_blank\" data-width=\"637\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/H1oBX3At8XELYUx0_thm.jpg\" width=\"115\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353970/thermaltake-releases-view-590-tg-argb-mid-tower-chassis\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353970/thermaltake-releases-view-590-tg-argb-mid-tower-chassis",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "800da4c5c85cc0d317c5c458131008d7"
+    },
+    {
+      "id": 3292,
+      "title": "(PR) Corsair Launches RM1200e Power Supply with Built-in PinProtect GPU OCP",
+      "summary": "Corsair is proud to announce the launch of the upgraded RM1200e with Platinum-certified efficiency, the new flagship of the best-selling RMe power supply family. It joins the latest generation of the RMe PSU series as a high-powered option ",
+      "content": "Corsair is proud to announce the launch of the upgraded RM1200e with Platinum-certified efficiency, the new flagship of the best-selling RMe power supply family. It joins the latest generation of the RMe PSU series as a high-powered option for system builders who value the reliability and features of the RMe series.<br />\r\n<br />\r\nThe RM1200e is also the first Corsair power supply to feature a native 12V-2x6 connection with PinProtect per-pin overcurrent protection (OCP). Designed to help protect high-end graphics cards, PinProtect monitors the on flowing through each power pin in real time and reduces power to the connection if the current exceeds a preset threshold for too long, triggering a protective GPU shutdown. If this occurs, users should completely power down their system, check for loose or improperly seated connections, and only restart once the connections are secure. This helps reduce the risk of damage caused by excessive current.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/EtPhI8boDlWWYq5q.jpg\" target=\"_blank\" data-width=\"1023\" data-height=\"778\" ><img src=\"https://tpucdn.com/img/EtPhI8boDlWWYq5q_thm.jpg\" width=\"171\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/UOeI7zirAlpEhRw3.jpg\" target=\"_blank\" data-width=\"1021\" data-height=\"778\" ><img src=\"https://tpucdn.com/img/UOeI7zirAlpEhRw3_thm.jpg\" width=\"171\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/kBSDxs9tnL2xDzqs.jpg\" target=\"_blank\" data-width=\"1382\" data-height=\"1037\" ><img src=\"https://tpucdn.com/img/kBSDxs9tnL2xDzqs_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/hh6M0wFMqdh1Q7HB.jpg\" target=\"_blank\" data-width=\"1382\" data-height=\"1037\" ><img src=\"https://tpucdn.com/img/hh6M0wFMqdh1Q7HB_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/NbGvIwFfDs4Ii7Vo.jpg\" target=\"_blank\" data-width=\"1382\" data-height=\"1037\" ><img src=\"https://tpucdn.com/img/NbGvIwFfDs4Ii7Vo_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353971/corsair-launches-rm1200e-power-supply-with-built-in-pinprotect-gpu-ocp\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353971/corsair-launches-rm1200e-power-supply-with-built-in-pinprotect-gpu-ocp",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "db2fc6bf8d3a5da1719adfbc6994df7c"
+    },
+    {
+      "id": 3293,
+      "title": "(PR) ASUS Ships ZenWiFi BN12, the World's First WiFi 8 Mesh System",
+      "summary": "ASUS today announced that the ASUS ZenWiFi BN12, the world's first WiFi 8 mesh router, originally unveiled at Computex, is now shipping. It combines ultra-high reliability with intelligent mesh coordination to deliver stable, efficient, and",
+      "content": "ASUS today announced that the ASUS ZenWiFi BN12, the world's first WiFi 8 mesh router, originally unveiled at Computex, is now shipping. It combines ultra-high reliability with intelligent mesh coordination to deliver stable, efficient, and seamless connectivity throughout the modern smart home. The ZenWiFi BN12 is a tri-band model delivering speeds of up to 19 Gbps, featuring advanced WiFi 8 technologies including new Modulation and Coding Scheme (MCS) rates, Unequal Modulation (UEQM), Non-Primary Channel Access (NPCA), and Multi-Access Point Coordination.<br />\r\n<br />\r\nModern homes rely on an increasing number of connected devices across multiple rooms and floors, making consistent coverage and reliable connectivity more important than peak speed alone. The ZenWiFi BN12 combines WiFi 8 technology with Smart AiMesh, intelligent traffic optimization, and enhanced network visibility to provide stable connections across the home, even in demanding multi-device environments. Ultra-high-reliability WiFi 8 offers improved mid-to-long-range throughput, wider IoT coverage, and more consistent whole-home connectivity.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/xvOtE0zCWK6cojE2.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/xvOtE0zCWK6cojE2_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/KwB3ZwlBHHvw4Dia.jpg\" target=\"_blank\" data-width=\"1153\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/KwB3ZwlBHHvw4Dia_thm.jpg\" width=\"156\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ty45FBQVHFXnvGdt.jpg\" target=\"_blank\" data-width=\"797\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ty45FBQVHFXnvGdt_thm.jpg\" width=\"108\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353966/asus-ships-zenwifi-bn12-the-worlds-first-wifi-8-mesh-system\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353966/asus-ships-zenwifi-bn12-the-worlds-first-wifi-8-mesh-system",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "602f1ccdb5072cb0aa3bac927a67177c"
+    },
+    {
+      "id": 3294,
+      "title": "Chieftec Launches Two New Compact CPU Coolers",
+      "summary": "Chieftec has launched two compact CPU coolers, the CAC-S90PWM-T120 tower cooler and the CAC-S92PWM-LP45 low-profile model. Both were first previewed at Computex 2026, as we reported earlier. They follow the recent release of the taller CAC-",
+      "content": "Chieftec has launched two compact CPU coolers, the CAC-S90PWM-T120 tower cooler and the CAC-S92PWM-LP45 low-profile model. Both were first previewed at <a href=\"https://www.techpowerup.com/349725/chieftec-maintains-clean-design-and-subtle-rgb-in-computex-2026-lineup\" target=\"_blank\">Computex 2026</a>, as we reported earlier. They follow the recent release of the taller <a href=\"https://www.techpowerup.com/352379/chieftec-debuts-a-new-all-black-120mm-air-cooler-at-ifa-2026\" target=\"_blank\">CAC-S120PWM-T150</a> tower cooler, which stands 148 mm tall and features an all-black matte finish. The CAC-S90PWM-T120 measures 80 x 92 x 117 mm and uses four 6 mm heat pipes with an aluminium fin stack. Do not let yourself be fooled by the T120 suffix into thinking it uses a 120 mm fan. It instead uses a smaller 90 mm PWM model running at 800-2,400 RPM, with 40.48 CFM, 2.73 mm H₂O static pressure, and a noise level of 29.79 dBA.<br />\r\n<br />\r\nFor even more compact systems, the low-profile CAC-S92PWM-LP45 measures 110.8 x 93 x 45 mm. This model has five 6 mm heat pipes and a slim 92 mm x 92 mm x 15 mm PWM fan with 11 blades. The fan runs at 2,300 RPM, delivering up to 36 CFM of airflow, 3.2 mm H₂O of static pressure and a 38 dBA noise level. Both coolers have an all-black finish, support Intel and AMD CPU platforms and come with a 24-month warranty. Chieftec has not announced pricing or exact retail availability. More pictures and full specifications follow.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/uL2BzpjEpYiDHk1A.jpg\" target=\"_blank\" data-width=\"1476\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/uL2BzpjEpYiDHk1A_thm.jpg\" width=\"200\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/tbJvtKEPHhulGAyO.jpg\" target=\"_blank\" data-width=\"866\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/tbJvtKEPHhulGAyO_thm.jpg\" width=\"117\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/BobtPtZbcdiDwNt6.jpg\" target=\"_blank\" data-width=\"843\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/BobtPtZbcdiDwNt6_thm.jpg\" width=\"114\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/k59WUvZhj7ilyLqm.jpg\" target=\"_blank\" data-width=\"798\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/k59WUvZhj7ilyLqm_thm.jpg\" width=\"108\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/GmdFBGCHGKCHsyMz.jpg\" target=\"_blank\" data-width=\"840\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/GmdFBGCHGKCHsyMz_thm.jpg\" width=\"114\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/353964/chieftec-launches-two-new-compact-cpu-coolers\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/353964/chieftec-launches-two-new-compact-cpu-coolers",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "7c549bf653df8e6c2b800411242a394e"
+    },
+    {
+      "id": 3295,
+      "title": "Lenovo releases new IdeaCentre desktop PC with cheaper pricing than older model",
+      "summary": "Lenovo has released a new desktop PC under its IdeaCentre series. Featuring a range of configuration options, the IdeaCentre Tower 14IRR11 also undercuts its predecessor with significantly cheaper pricing.",
+      "content": "Lenovo has released a new desktop PC under its IdeaCentre series. Featuring a range of configuration options, the IdeaCentre Tower 14IRR11 also undercuts its predecessor with significantly cheaper pricing.",
+      "link": "https://www.notebookcheck.net/Lenovo-releases-new-IdeaCentre-desktop-PC-with-cheaper-pricing-than-older-model.1429970.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-releases-new-IdeaCentre-desktop-PC-with-cheaper-pricing-than-older-model.1429970.0.html"
+    },
+    {
+      "id": 3296,
+      "title": "Affordable Minisforum mini PC launches with familiar specs but with new chassis",
+      "summary": "The Minisforum Elite Mini M2 Slim is a newly added mini PC to the company's portfolio, and at its core, it's the same system as the M2 Air. Among all, the only notable difference is that the newly introduced model comes with a black chassis",
+      "content": "The Minisforum Elite Mini M2 Slim is a newly added mini PC to the company's portfolio, and at its core, it's the same system as the M2 Air. Among all, the only notable difference is that the newly introduced model comes with a black chassis, and it starts at $399.",
+      "link": "https://www.notebookcheck.net/Affordable-Minisforum-mini-PC-launches-with-familiar-specs-but-with-new-chassis.1430320.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Minisforum-mini-PC-launches-with-familiar-specs-but-with-new-chassis.1430320.0.html"
+    },
+    {
+      "id": 3297,
+      "title": "Why the Asus ROG Ally X20 is the best gaming handheld despite its performance deficit",
+      "summary": "Thanks to its new OLED screen, the new Asus ROG Ally X20 offers a much better gaming experience than ever before, even though the Ryzen Z2 Extreme cannot match the gaming performance of the Intel Arc G3 Extreme.",
+      "content": "Thanks to its new OLED screen, the new Asus ROG Ally X20 offers a much better gaming experience than ever before, even though the Ryzen Z2 Extreme cannot match the gaming performance of the Intel Arc G3 Extreme.",
+      "link": "https://www.notebookcheck.net/Why-the-Asus-ROG-Ally-X20-is-the-best-gaming-handheld-despite-its-performance-deficit.1430279.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Why-the-Asus-ROG-Ally-X20-is-the-best-gaming-handheld-despite-its-performance-deficit.1430279.0.html"
+    },
+    {
+      "id": 3298,
+      "title": "GMKtec brings a discontinued Intel Pentium back from the dead in its new mini PC",
+      "summary": "GMKtec has introduced the NucBox G3 Ultra with a discontinued Tiger Lake CPU from 2020. It is paired with 16 GB of soldered memory, three power modes and dual HDMI outputs.",
+      "content": "GMKtec has introduced the NucBox G3 Ultra with a discontinued Tiger Lake CPU from 2020. It is paired with 16 GB of soldered memory, three power modes and dual HDMI outputs.",
+      "link": "https://www.notebookcheck.net/GMKtec-brings-a-discontinued-Intel-Pentium-back-from-the-dead-in-its-new-mini-PC.1430256.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GMKtec-brings-a-discontinued-Intel-Pentium-back-from-the-dead-in-its-new-mini-PC.1430256.0.html"
+    },
+    {
+      "id": 3299,
+      "title": "Oppo Find X10 Pro Max launches globally with Samsung's new ISOCELL HPC sensor and 8K video recording",
+      "summary": "The Oppo Find X10 Pro Max has arrived in Europe with three 200 MP Hasselblad cameras, a 6.78-inch 144 Hz AMOLED display and MediaTek's Dimensity 9600 Pro chipset. You can take the camera further with an optional Hasselblad telephoto lens ad",
+      "content": "The Oppo Find X10 Pro Max has arrived in Europe with three 200 MP Hasselblad cameras, a 6.78-inch 144 Hz AMOLED display and MediaTek's Dimensity 9600 Pro chipset. You can take the camera further with an optional Hasselblad telephoto lens add-on.",
+      "link": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-launches-globally-with-Samsung-s-new-ISOCELL-HPC-sensor-and-8K-video-recording.1430155.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-launches-globally-with-Samsung-s-new-ISOCELL-HPC-sensor-and-8K-video-recording.1430155.0.html"
+    },
+    {
+      "id": 3300,
+      "title": "Oppo Find X10 gets European release with downgraded battery and limited storage options",
+      "summary": "The Oppo Find X10 has arrived in Europe with a 6.59-inch AMOLED display, dual 200 MP cameras and MediaTek's Dimensity 9600M chipset. However, the device is noticeably nerfed compared to its Chinese counterpart.",
+      "content": "The Oppo Find X10 has arrived in Europe with a 6.59-inch AMOLED display, dual 200 MP cameras and MediaTek's Dimensity 9600M chipset. However, the device is noticeably nerfed compared to its Chinese counterpart.",
+      "link": "https://www.notebookcheck.net/Oppo-Find-X10-gets-European-release-with-downgraded-battery-and-limited-storage-options.1430153.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Oppo-Find-X10-gets-European-release-with-downgraded-battery-and-limited-storage-options.1430153.0.html"
+    },
+    {
+      "id": 3301,
+      "title": "Ayn launches 7-inch gaming handheld with a 120Hz OLED display and 9000mAh battery for $399",
+      "summary": "Ayn has launched the Odin 3 Portal as its newest Android gaming handheld. Packing flagship specs, such as a Snapdragon processor, a 120Hz display, and a 9,000mAh battery capacity, the handheld has a starting price of $399 for early bird buy",
+      "content": "Ayn has launched the Odin 3 Portal as its newest Android gaming handheld. Packing flagship specs, such as a Snapdragon processor, a 120Hz display, and a 9,000mAh battery capacity, the handheld has a starting price of $399 for early bird buyers.",
+      "link": "https://www.notebookcheck.net/Ayn-launches-7-inch-gaming-handheld-with-a-120Hz-OLED-display-and-9000mAh-battery-for-399.1430125.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Ayn-launches-7-inch-gaming-handheld-with-a-120Hz-OLED-display-and-9000mAh-battery-for-399.1430125.0.html"
+    },
+    {
+      "id": 3302,
+      "title": "The $700 4K OLED you should be buying! (Alienware AW3226Q Review)",
+      "summary": "Video | Alienware is back with another display—and this time it's the Alienware AW3226Q. With a 32-inch 4K RGB Stripe Tandem OLED panel, this display aims to deliver a high-end HDR gaming experience with a still somewhat affordable price ta",
+      "content": "Video | Alienware is back with another display—and this time it's the Alienware AW3226Q. \r\nWith a 32-inch 4K RGB Stripe Tandem OLED panel, this display aims to deliver a high-end HDR gaming experience with a still somewhat affordable price tag.",
+      "link": "https://www.notebookcheck.net/The-700-4K-OLED-you-should-be-buying-Alienware-AW3226Q-Review.1430339.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/The-700-4K-OLED-you-should-be-buying-Alienware-AW3226Q-Review.1430339.0.html"
+    },
+    {
+      "id": 3303,
+      "title": "Honor Watch Fit 6 launches as brazen copy of the Apple Watch Ultra 4",
+      "summary": "The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life.",
+      "content": "The brand-new Honor Watch Fit 6 looks almost indistinguishable from the Apple Watch Ultra 4, from the design and color scheme to the bands. The smartwatch aims to impress with a 3,000-nit AMOLED display and long battery life.",
+      "link": "https://www.notebookcheck.net/Honor-Watch-Fit-6-launches-as-brazen-copy-of-the-Apple-Watch-Ultra-4.1430202.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Honor-Watch-Fit-6-launches-as-brazen-copy-of-the-Apple-Watch-Ultra-4.1430202.0.html"
+    },
+    {
+      "id": 3304,
+      "title": "Free AMD FSR 4.1.1 mod delivers up to 25% higher FPS with new AI-trained upgrade",
+      "summary": "A free community modification for AMD's FSR 4.1.1 upscaling technology has received a new AI-trained rendering option. Developer benchmarks show frame rates rising from 97 to 121 FPS in Shadow of the Tomb Raider, although the performance ga",
+      "content": "A free community modification for AMD's FSR 4.1.1 upscaling technology has received a new AI-trained rendering option. Developer benchmarks show frame rates rising from 97 to 121 FPS in Shadow of the Tomb Raider, although the performance gains come with some image-quality compromises.",
+      "link": "https://www.notebookcheck.net/Free-AMD-FSR-4-1-1-mod-delivers-up-to-25-higher-FPS-with-new-AI-trained-upgrade.1430128.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-21",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Free-AMD-FSR-4-1-1-mod-delivers-up-to-25-higher-FPS-with-new-AI-trained-upgrade.1430128.0.html"
     },
     {
       "id": 3095,
@@ -2017,6 +2927,21 @@
       "guid": "https://www.notebookcheck.net/Startup-builds-AI-to-hear-plants-signals-and-hopes-to-talk-back.1429484.0.html"
     },
     {
+      "id": 3305,
+      "title": "Lenovo's compact Mac mini rival drops to $699.99 ($300 off) with 16GB RAM and 512GB SSD",
+      "summary": "Deal | Best Buy has discounted the Lenovo Yoga Mini PC from $999.99 to $699.99, bringing it close to its lowest-ever price. The 0.65L desktop offers a compact Windows alternative to the Mac mini, featuring Intel's Panther Lake platform, 16 ",
+      "content": "Deal | Best Buy has discounted the Lenovo Yoga Mini PC from $999.99 to $699.99, bringing it close to its lowest-ever price. The 0.65L desktop offers a compact Windows alternative to the Mac mini, featuring Intel's Panther Lake platform, 16 GB of RAM, a 512 GB SSD, and plenty of ports.",
+      "link": "https://www.notebookcheck.net/Lenovo-s-compact-Mac-mini-rival-drops-to-699-99-300-off-with-16GB-RAM-and-512GB-SSD.1428774.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-20",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-s-compact-Mac-mini-rival-drops-to-699-99-300-off-with-16GB-RAM-and-512GB-SSD.1428774.0.html"
+    },
+    {
       "id": 3007,
       "title": "Claude意外揪出Mac挖矿木马：12个CPU核心被占满 温度飙至112摄氏度",
       "summary": "一名使用Anthropic旗下Claude辅助开发软件的Mac用户，近日意外发现自己的电脑长期遭受加密货币挖矿恶意程序感染。令人意外的是，问题并非通过杀毒软件首先发现，而是在AI协助开发温度监测工具的过程中被主动识别出来。 阅读全文",
@@ -3308,6 +4233,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Samsung-launches-5G-smartphone-with-50MP-OIS-camera-and-2TB-expandable-storage-for-211.1427871.0.html"
+    },
+    {
+      "id": 3306,
+      "title": "Core Ultra 9-powered compact workstation PC arrives with up to 256 GB DDR5 RAM",
+      "summary": "Topfeel has revealed a new compact workstation PC with a powerful 24-core Arrow Lake-HX CPU and a plethora of connectivity options, including seven USB ports. Dual PCIe 5.0 slots are also present for further expansion.",
+      "content": "Topfeel has revealed a new compact workstation PC with a powerful 24-core Arrow Lake-HX CPU and a plethora of connectivity options, including seven USB ports. Dual PCIe 5.0 slots are also present for further expansion.",
+      "link": "https://www.notebookcheck.net/Core-Ultra-9-powered-compact-workstation-PC-arrives-with-up-to-256-GB-DDR5-RAM.1427095.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Core-Ultra-9-powered-compact-workstation-PC-arrives-with-up-to-256-GB-DDR5-RAM.1427095.0.html"
     },
     {
       "id": 2936,
@@ -6259,6 +7199,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/This-silent-fanless-mini-PC-packs-up-to-32-GB-RAM-and-dual-gigabit-Ethernet.1426089.0.html"
+    },
+    {
+      "id": 3307,
+      "title": "Affordable Lenovo laptop with 16 GB DDR5 RAM wins massive $670 discount",
+      "summary": "Deal | Update: The laptop is now even cheaper. Best Buy is now offering a massive $670 discount on the Lenovo IdeaPad Slim 3i budget laptop. The laptop comes equipped with a relatively powerful six-core Intel CPU paired with 16 GB of DDR5 R",
+      "content": "Deal | <b>Update: The laptop is now even cheaper.</b> Best Buy is now offering a massive $670 discount on the Lenovo IdeaPad Slim 3i budget laptop. The laptop comes equipped with a relatively powerful six-core Intel CPU paired with 16 GB of DDR5 RAM and 512 GB of storage. A 120 Hz display is also on offer.",
+      "link": "https://www.notebookcheck.net/Affordable-Lenovo-laptop-with-16-GB-DDR5-RAM-wins-massive-670-discount.1424196.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Lenovo-laptop-with-16-GB-DDR5-RAM-wins-massive-670-discount.1424196.0.html"
     },
     {
       "id": 2687,
