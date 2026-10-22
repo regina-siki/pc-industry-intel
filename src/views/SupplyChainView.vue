@@ -166,7 +166,7 @@
     </div>
 
     <!-- ═══════ BOM 详情（可切产品）═══════ -->
-    <div class="panel" v-if="bom?.products">
+    <div class="panel" v-if="visibleBomProducts.length">
       <div class="head">
         <div>
           <h2 class="section-title" style="margin: 0">
@@ -178,7 +178,7 @@
         </div>
         <el-select v-model="currentBomId" size="default" style="width: 260px">
           <el-option
-            v-for="p in bom.products"
+            v-for="p in visibleBomProducts"
             :key="p.id"
             :label="p.name"
             :value="p.id"
@@ -234,7 +234,7 @@
       <p class="muted small">
         近期供给/需求变化 → 单件价格变动 → 传导到整机 BOM 的增减幅度
       </p>
-      <el-table :data="bom.componentNewsImpact" stripe size="small">
+      <el-table :data="filteredComponentNewsImpact" stripe size="small">
         <el-table-column label="部件" width="150">
           <template #default="{ row }">
             <b>{{ row.component }}</b>
@@ -259,7 +259,7 @@
             <div class="muted small">持续 {{ row.impactDurationQtrs || '—' }} 季</div>
           </template>
         </el-table-column>
-        <el-table-column label="对 DGX 影响" min-width="160">
+        <el-table-column v-if="cat !== 'pc'" label="对 DGX 影响" min-width="160">
           <template #default="{ row }">
             <span class="muted small">{{ row.bomImpactDgx }}</span>
           </template>
@@ -531,8 +531,15 @@ import { InfoFilled } from '@element-plus/icons-vue'
 import { fetchSupplyChain, fetchNewsChainImpact, fetchBom, fetchMacroPolicy } from '@/api'
 import Sparkline from '@/components/Sparkline.vue'
 import { useBus } from '@/stores/bus'
+import {
+  NODE_SIDE, BOM_SIDE, COMPONENT_SIDE,
+  visible,
+} from '@/lib/category-map'
 
 const bus = useBus()
+// 品类：bus.category 为响应式真相源；AppLayout 挂载时已从 URL ?cat= 初始化
+const cat = computed(() => bus.category)
+
 const chain = ref(null)
 const chainImpact = ref(null)
 const chainImpactDays = ref(7)
@@ -542,13 +549,22 @@ const currentBomId = ref('gaming-desktop-2026')
 const policyTab = ref('national')
 
 const layers = computed(() => {
-  const nodes = chain.value?.nodes || []
+  const nodes = (chain.value?.nodes || []).filter((n) => visible(NODE_SIDE[n.id], cat.value))
   return [
     { id: 'upstream', name: '上游 · 元器件', icon: 'UP', desc: 'CPU / GPU / 内存 / 存储 / PCB / 主板 / 显卡 / 内存条 / 散热 / 显示器 / 外设 · 关注单件价格变化，用于库存备货和成本对齐', nodes: nodes.filter(n => n.layer === 'upstream') },
     { id: 'mid', name: '中游 · 整机制造', icon: 'MID', desc: '服务器 OEM / ODM / PC 品牌 / 笔电 ODM / AIO+Mini · 关注头部集中度和产能爬坡节奏', nodes: nodes.filter(n => n.layer === 'mid') },
     { id: 'downstream', name: '下游 · 终端客户', icon: 'DOWN', desc: '云厂商 / 运营商 / 政企 / PC 零售 / DIY / 企业 IT / 教育 / 游戏 · 关注采购节奏和需求信号', nodes: nodes.filter(n => n.layer === 'downstream') },
   ]
 })
+
+// 按品类过滤的 BOM 产品与零部件动态
+const visibleBomProducts = computed(() =>
+  (bom.value?.products || []).filter((p) => visible(BOM_SIDE[p.id], cat.value)),
+)
+const filteredComponentNewsImpact = computed(() =>
+  (bom.value?.componentNewsImpact || []).filter((r) =>
+    visible(COMPONENT_SIDE[r.component] || 'both', cat.value)),
+)
 
 // 节点 → 相关新闻查询：把 static.json 的 nodeId 映射到 chain-impact 的 subCategory key
 const NODE_TO_SUB = {
@@ -638,19 +654,37 @@ function deltaType(d) {
 }
 
 async function reloadChainImpact() {
-  try { chainImpact.value = await fetchNewsChainImpact(chainImpactDays.value) } catch {}
+  try { chainImpact.value = await fetchNewsChainImpact(chainImpactDays.value, cat.value) } catch {}
+}
+
+// 按品类校正 BOM 默认选中：server → dgx-b200；pc/all → gaming-desktop-2026
+function fixCurrentBomId() {
+  const preferred = cat.value === 'server' ? 'dgx-b200' : 'gaming-desktop-2026'
+  const products = visibleBomProducts.value
+  if (products.some((p) => p.id === preferred)) {
+    currentBomId.value = preferred
+  } else if (products.length) {
+    currentBomId.value = products[0].id
+  }
 }
 
 async function reloadAll() {
   chain.value = await fetchSupplyChain()
   bom.value = await fetchBom()
   macroPolicy.value = await fetchMacroPolicy()
+  fixCurrentBomId()
   await reloadChainImpact()
 }
 
 onMounted(reloadAll)
 watch(chainImpactDays, reloadChainImpact)
 watch(() => bus.ingestVersion, reloadAll)
+// 品类切换：query 变化后重拉 chain-impact 并校正 BOM 默认值
+// （App.vue 的 :key=fullPath 在 query-only 变化时不一定触发 remount，需显式响应）
+watch(cat, async () => {
+  fixCurrentBomId()
+  await reloadChainImpact()
+})
 </script>
 
 <style scoped lang="scss">

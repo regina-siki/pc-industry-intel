@@ -120,7 +120,8 @@ export async function fetchCustomerOrders({ customer = '' } = {}) {
 // 公众号相关 —— 静态模式下只读，不支持写入
 export async function fetchWeChatAccounts() {
   const data = await loadStaticJson('wechat-accounts')
-  return data.accounts || []
+  // 兼容两种结构：public/data/wechat-accounts.json 顶层是数组，server 端返回 { accounts: [] }
+  return Array.isArray(data) ? data : (data.accounts || [])
 }
 export async function createWeChatAccount() {
   throw new Error('静态模式不支持写入')
@@ -153,8 +154,9 @@ export async function fetchUserMatch() { return loadStaticJson('user-match') }
 export async function fetchProductLifecycle() { return loadStaticJson('product-lifecycle') }
 
 // 近 N 天资讯 x 产业链影响 —— 静态模式下前端自己构建聚合
-export async function fetchNewsChainImpact(days = 7) {
+// side: 'all' | 'pc' | 'server'，按品类过滤聚合范围
+export async function fetchNewsChainImpact(days = 7, side = 'all') {
   const { buildChainImpact } = await import('@/lib/build-chain-impact.js')
   const data = await loadStaticJson('news')
-  return buildChainImpact(data.list || [], days)
+  return buildChainImpact(data.list || [], days, side)
 }

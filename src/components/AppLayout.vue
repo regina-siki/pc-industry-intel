@@ -41,6 +41,22 @@
           <span class="search-key">↵</span>
         </div>
       </div>
+
+      <div class="cat-bar" role="group" aria-label="品类范围">
+        <div class="container cat-bar-inner">
+          <span class="cat-kicker">SCOPE</span>
+          <button
+            v-for="(o, i) in catOptions"
+            :key="o.v"
+            class="cat-tag"
+            :class="{ active: cat === o.v }"
+            @click="onPickCategory(o.v)"
+          >
+            <span class="cat-index">0{{ i + 1 }}</span>
+            {{ o.label }}
+          </button>
+        </div>
+      </div>
     </header>
 
     <main id="main-content" class="app-main">
@@ -77,13 +93,41 @@
 </template>
 
 <script setup>
-import { computed, ref } from 'vue'
+import { computed, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { SIDES, TAG_LABELS, validSide } from '@/lib/category-map'
+import { useBus, setCategory } from '@/stores/bus'
 
 const route = useRoute()
 const router = useRouter()
+const bus = useBus()
 const keyword = ref('')
 const year = new Date().getFullYear()
+
+// 品类：bus.category 为响应式真相源；URL ?cat= 用于刷新恢复与分享
+// 首次挂载 + URL 手动变化（前进/后退/改地址栏回车）时同步进 bus
+onMounted(() => {
+  setCategory(route.query.cat)
+})
+watch(() => route.query.cat, (v) => {
+  setCategory(v)
+})
+
+const cat = computed(() => bus.category)
+const catOptions = SIDES.map((v) => ({ v, label: TAG_LABELS[v] }))
+
+function onPickCategory(v) {
+  if (v === cat.value) return
+  setCategory(v)
+  // URL 同步：合并 query，不覆盖既有参数（如 ?q=）；all 时移除 cat 保持干净
+  router.replace({
+    path: route.path,
+    query: {
+      ...route.query,
+      cat: v === 'all' ? undefined : v,
+    },
+  })
+}
 
 const navItems = [
   { path: '/', label: '产业链' },
@@ -135,7 +179,14 @@ const pageInfo = computed(() => pageMap[route.name] || pageMap['supply-chain'])
 function onSearch() {
   const q = keyword.value.trim()
   if (!q) return
-  router.push({ path: '/', query: { q } })
+  // 保留当前品类 query，搜索结果仍在同一品类范围内
+  router.push({
+    path: '/',
+    query: {
+      q,
+      ...(cat.value !== 'all' ? { cat: cat.value } : {}),
+    },
+  })
 }
 </script>
 
@@ -309,6 +360,69 @@ function onSearch() {
   font-size: 11px;
 }
 
+.cat-bar {
+  border-top: 1px solid var(--c-border);
+  background: rgba(248, 250, 252, 0.92);
+}
+
+.cat-bar-inner {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 36px;
+}
+
+.cat-kicker {
+  margin-right: 8px;
+  color: var(--c-muted-light);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+}
+
+.cat-tag {
+  position: relative;
+  padding: 8px 12px 7px;
+  border: 0;
+  background: none;
+  color: var(--c-muted);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 180ms ease;
+
+  &::after {
+    position: absolute;
+    right: 12px;
+    bottom: 0;
+    left: 12px;
+    height: 2px;
+    background: var(--c-accent);
+    content: '';
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 220ms cubic-bezier(.2,.8,.2,1);
+  }
+
+  &:hover { color: var(--c-text); }
+  &.active {
+    color: var(--c-accent-dark);
+
+    &::after { transform: scaleX(1); }
+  }
+}
+
+.cat-index {
+  margin-right: 6px;
+  color: var(--c-accent);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.04em;
+}
+
 .app-main {
   flex: 1;
   padding: 32px 0 72px;
@@ -438,6 +552,7 @@ function onSearch() {
   .logo-sub { display: none; }
   .nav-item { padding-inline: 9px; }
   .search { width: 154px; }
+  .cat-tag { padding-inline: 9px; }
 }
 
 @media (max-width: 820px) {
@@ -453,6 +568,9 @@ function onSearch() {
     padding: 2px 0 10px;
     overflow-x: auto;
   }
+  .cat-bar-inner { overflow-x: auto; }
+  .cat-tag:first-of-type { padding-left: 0; }
+  .cat-tag::after { left: 9px; }
   .nav-item:first-child { padding-left: 0; }
   .page-masthead { grid-template-columns: 1fr; gap: 20px; }
   .page-spec {
@@ -475,6 +593,8 @@ function onSearch() {
   }
   .nav-item { padding-inline: 5px; }
   .nav-index { display: none; }
+  .cat-kicker, .cat-index { display: none; }
+  .cat-tag { padding: 7px 8px; }
   .app-main { padding-top: 28px; }
   .page-masthead { padding: 20px; }
   .page-masthead h1 { font-size: 31px; }

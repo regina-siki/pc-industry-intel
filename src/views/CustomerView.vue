@@ -7,17 +7,19 @@
     </div>
 
     <!-- ═══════ Part A · 小 B / 个人 ═══════ -->
+    <!-- smb/consumer 段卡、洞察、画像、匹配矩阵均按品类过滤内容，服务器模式下保留工作站相关的个人/小 B 分层 -->
 
     <!-- A-1 Segment 卡：smb + consumer 各一张 -->
+    <template v-if="smbConsumerSegments.length">
     <div class="panel section-panel">
       <div class="section-head">
         <div>
           <h2 class="section-title" style="margin: 0">
             <span class="badge-a">Part A</span>
-            小 B &amp; 个人 · 增速最高的两个细分
+            {{ partATitle }}
           </h2>
           <p class="muted small" style="margin: 4px 0 0">
-            个人 (Consumer) + 小 B (SMB) 细分卡 → 分层画像 → 产品/价格/服务 匹配矩阵
+            {{ partADesc }}
           </p>
         </div>
       </div>
@@ -64,6 +66,7 @@
         </div>
       </div>
     </div>
+    </template>
 
     <!-- A-2 小 B/个人 洞察卡 -->
     <div class="panel highlight" v-if="segData?.smbAndConsumerInsights">
@@ -84,22 +87,22 @@
       </div>
     </div>
 
-    <!-- A-3 消费者画像 5 卡 -->
+    <!-- A-3 消费者画像（按品类过滤图层） -->
     <PersonaGrid
-      v-if="segData?.consumerPersonas"
-      :group="segData.consumerPersonas"
+      v-if="consumerPersonaGroup"
+      :group="consumerPersonaGroup"
       accent="consumer"
     />
 
-    <!-- A-4 小 B 画像 5 卡 -->
+    <!-- A-4 小 B 画像（按品类过滤图层） -->
     <PersonaGrid
-      v-if="segData?.smbPersonas"
-      :group="segData.smbPersonas"
+      v-if="smbPersonaGroup"
+      :group="smbPersonaGroup"
       accent="smb"
     />
 
-    <!-- A-5 匹配矩阵 12 行 -->
-    <div class="panel intro" v-if="matchData">
+    <!-- A-5 匹配矩阵 -->
+    <div class="panel intro" v-if="matchData && categoryMatches.length">
       <div>
         <h2 class="section-title" style="margin: 0">
           <span class="badge-match">匹配</span>
@@ -109,7 +112,7 @@
       </div>
       <div class="filter">
         <el-radio-group v-model="kindFilter" size="default">
-          <el-radio-button label="">全部 ({{ matchData.matches.length }})</el-radio-button>
+          <el-radio-button label="">全部 ({{ categoryMatches.length }})</el-radio-button>
           <el-radio-button label="consumer">个人 ({{ consumerCount }})</el-radio-button>
           <el-radio-button label="smb">小 B ({{ smbCount }})</el-radio-button>
         </el-radio-group>
@@ -186,12 +189,16 @@
         <div>
           <h2 class="section-title" style="margin: 0">
             <span class="badge-b">Part B</span>
-            大 B / 政企 · 云厂商 · 运营商 · 政府 · 教育
+            {{ partBTitle }}
           </h2>
           <p class="muted small" style="margin: 4px 0 0">
-            8 段客户细分 · 含 Capex / 集采 / 政策 / 已披露采购
+            {{ bigBSegments.length }} 段客户细分 · 含 Capex / 集采 / 政策 / 已披露采购
           </p>
         </div>
+      </div>
+
+      <div v-if="!bigBSegments.length" class="muted small" style="padding: 18px 4px">
+        该品类下暂无大 B 客户细分
       </div>
 
       <div class="segment-grid">
@@ -369,7 +376,7 @@
             {{ overview?.jdRecommendations?.title || '京东渠道落地建议' }}
           </h2>
           <p class="muted small" style="margin: 4px 0 0">
-            {{ overview?.jdRecommendations?.subtitle }}
+            {{ jdSubtitle }}
           </p>
         </div>
         <div class="jd-filter">
@@ -420,6 +427,7 @@ import { InfoFilled } from '@element-plus/icons-vue'
 import { fetchCustomerSegments, fetchUserMatch, fetchOverview } from '@/api'
 import PersonaGrid from '@/components/PersonaGrid.vue'
 import { useBus } from '@/stores/bus'
+import { SEGMENT_SIDE, JD_RECO_SIDE, MATCH_SIDE, PERSONA_SIDE, visible } from '@/lib/category-map'
 
 const bus = useBus()
 const segData = ref(null)
@@ -428,33 +436,88 @@ const overview = ref(null)
 const kindFilter = ref('')
 const priorityFilter = ref('')
 
-// A · 小 B / 个人 = smb + consumer
+// 品类：bus.category 为响应式真相源；AppLayout 挂载时已从 URL ?cat= 初始化
+const cat = computed(() => bus.category)
+
+// 画像：按品类过滤图层（personaTier 形如 "L1 · 尝鲜体验"，取层级编号做键）
+function filterPersonaGroup(group) {
+  if (!group) return null
+  const personas = (group.personas || []).filter((p) => {
+    const tier = (p.tier || '').split(' ')[0]
+    return visible(PERSONA_SIDE[tier] || 'both', cat.value)
+  })
+  if (!personas.length) return null
+  return { ...group, personas }
+}
+const consumerPersonaGroup = computed(() => filterPersonaGroup(segData.value?.consumerPersonas))
+const smbPersonaGroup = computed(() => filterPersonaGroup(segData.value?.smbPersonas))
+
+// A · 小 B / 个人 = smb + consumer（两品类都显示）
 const smbConsumerSegments = computed(() =>
   (segData.value?.segments || []).filter(s => s.id === 'smb' || s.id === 'consumer'),
 )
 
-// B · 大 B / 政企 = 其他 8 段
+// Part A 标题按品类切换措辞
+const partATitle = computed(() => {
+  if (cat.value === 'server') return '个人 & 小 B · 工作站 / 桌面 AI 分层'
+  return '小 B & 个人 · 增速最高的两个细分'
+})
+const partADesc = computed(() => {
+  if (cat.value === 'server') return '个人开发者 / 小团队购买工作站与桌面 AI 服务器 的分层画像 → 产品/价格/服务 匹配矩阵'
+  return '个人 (Consumer) + 小 B (SMB) 细分卡 → 分层画像 → 产品/价格/服务 匹配矩阵'
+})
+
+// B · 大 B / 政企 = 除 smb/consumer 外、且当前品类可见的段
 const bigBSegments = computed(() =>
-  (segData.value?.segments || []).filter(s => s.id !== 'smb' && s.id !== 'consumer'),
+  (segData.value?.segments || []).filter(
+    (s) => s.id !== 'smb' && s.id !== 'consumer' && visible(SEGMENT_SIDE[s.id], cat.value),
+  ),
 )
 
-// 匹配矩阵过滤
-const filteredMatches = computed(() => {
-  const list = matchData.value?.matches || []
-  return kindFilter.value ? list.filter(m => m.kind === kindFilter.value) : list
+// Part B 标题按品类切换措辞
+const partBTitle = computed(() => {
+  if (cat.value === 'server') return '大 B / 政企 · 云厂商 · 运营商 · 政府 · 金融'
+  if (cat.value === 'pc') return '商用 & 渠道客户 · PC 零售 · 企业 IT · 教育'
+  return '大 B / 政企 · 云厂商 · 运营商 · 政府 · 教育'
 })
+
+// 匹配矩阵：按品类过滤后，再按 个人 / 小 B 过滤
+// personaTier 形如 "L1 · 尝鲜体验"，取层级编号做键
+const categoryMatches = computed(() =>
+  (matchData.value?.matches || []).filter((m) => {
+    const tier = (m.personaTier || '').split(' ')[0]
+    return visible(MATCH_SIDE[tier] || 'both', cat.value)
+  }),
+)
+const filteredMatches = computed(() =>
+  kindFilter.value ? categoryMatches.value.filter(m => m.kind === kindFilter.value) : categoryMatches.value,
+)
 const consumerCount = computed(
-  () => (matchData.value?.matches || []).filter(m => m.kind === 'consumer').length,
+  () => categoryMatches.value.filter(m => m.kind === 'consumer').length,
 )
 const smbCount = computed(
-  () => (matchData.value?.matches || []).filter(m => m.kind === 'smb').length,
+  () => categoryMatches.value.filter(m => m.kind === 'smb').length,
 )
 
-// 京东建议
+// 京东建议：先按品类过滤，再按优先级过滤
 const jdRecos = computed(() => overview.value?.jdRecommendations?.items || [])
-const filteredRecos = computed(() =>
-  priorityFilter.value ? jdRecos.value.filter(r => r.priority === priorityFilter.value) : jdRecos.value,
-)
+const filteredRecos = computed(() => {
+  let list = jdRecos.value.filter((r) => visible(JD_RECO_SIDE[r.title] || 'both', cat.value))
+  if (priorityFilter.value) list = list.filter((r) => r.priority === priorityFilter.value)
+  return list
+})
+
+// 京东建议副标题按品类切换措辞
+const jdSubtitle = computed(() => {
+  const raw = overview.value?.jdRecommendations?.subtitle || ''
+  if (cat.value === 'server') {
+    return raw.replace('（PC 全品类）', '（服务器 / 工作站）')
+  }
+  if (cat.value === 'pc') {
+    return raw.replace('（PC 全品类）', '（台式机 / 一体机）')
+  }
+  return raw
+})
 
 function prioType(p) {
   return p === 'high' ? 'danger' : p === 'mid' ? 'warning' : 'info'

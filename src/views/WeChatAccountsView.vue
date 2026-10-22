@@ -7,8 +7,8 @@
       <div class="head">
         <h2 class="section-title" style="margin: 0">公众号追踪清单</h2>
         <span class="muted small">
-          <template v-if="isStaticMode">共 {{ list.length }} 个 · 线上版本为只读档案，随数据更新自动发布</template>
-          <template v-else>共 {{ list.length }} 个 · 在上面粘贴公众号文章链接可自动抓取入库</template>
+          <template v-if="isStaticMode">共 {{ filteredList.length }} 个 · 线上版本为只读档案，随数据更新自动发布</template>
+          <template v-else>共 {{ filteredList.length }} 个 · 在上面粘贴公众号文章链接可自动抓取入库</template>
         </span>
       </div>
 
@@ -44,7 +44,7 @@
       <el-button type="primary" @click="onAdd">添加</el-button>
     </div>
 
-    <el-table :data="list" stripe>
+    <el-table :data="filteredList" stripe>
       <el-table-column prop="name" label="公众号" width="180" />
       <el-table-column prop="category" label="分类" width="120" />
       <el-table-column prop="focus" label="覆盖话题" min-width="280" show-overflow-tooltip />
@@ -97,7 +97,7 @@
 </template>
 
 <script setup>
-import { onMounted, reactive, ref, watch } from 'vue'
+import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { ElMessage, ElMessageBox } from 'element-plus'
 import {
   fetchWeChatAccounts,
@@ -106,12 +106,20 @@ import {
   deleteWeChatAccount,
 } from '@/api'
 import { useBus } from '@/stores/bus'
+import { WECHAT_CATEGORY_SIDE, visible } from '@/lib/category-map'
 import WeChatIngest from '@/components/WeChatIngest.vue'
 
 const bus = useBus()
 const isStaticMode = import.meta.env.VITE_STATIC_MODE === 'true'
 
 const list = ref([])
+
+// 品类：bus.category 为响应式真相源；按公众号 category 映射过滤
+const cat = computed(() => bus.category)
+const filteredList = computed(() =>
+  list.value.filter((r) => visible(WECHAT_CATEGORY_SIDE[r.category] || 'both', cat.value)),
+)
+
 const form = reactive({
   name: '',
   category: '半导体',

@@ -17,7 +17,7 @@
         </div>
         <el-radio-group v-model="activeCategory" size="default">
           <el-radio-button
-            v-for="c in data?.categories || []"
+            v-for="c in visibleCategories"
             :key="c.id"
             :label="c.id"
           >
@@ -126,13 +126,21 @@ import { computed, onMounted, ref, watch } from 'vue'
 import { fetchProductLifecycle } from '@/api'
 import { InfoFilled } from '@element-plus/icons-vue'
 import { useBus } from '@/stores/bus'
+import { LIFECYCLE_CAT_SIDE, visible } from '@/lib/category-map'
 
 const bus = useBus()
 const data = ref(null)
 const activeCategory = ref('desktop')
 
+// 品类：bus.category 为响应式真相源；AppLayout 挂载时已从 URL ?cat= 初始化
+const cat = computed(() => bus.category)
+
+const visibleCategories = computed(() =>
+  (data.value?.categories || []).filter((c) => visible(LIFECYCLE_CAT_SIDE[c.id], cat.value)),
+)
+
 const activeCat = computed(
-  () => data.value?.categories?.find((c) => c.id === activeCategory.value)
+  () => visibleCategories.value.find((c) => c.id === activeCategory.value),
 )
 
 function phaseType(p) {
@@ -148,9 +156,14 @@ function phaseType(p) {
 
 async function reload() {
   data.value = await fetchProductLifecycle()
-  // 若默认 activeCategory 不在数据中，选第一个
-  if (data.value?.categories?.length && !data.value.categories.some(c => c.id === activeCategory.value)) {
-    activeCategory.value = data.value.categories[0].id
+  // 按品类校正默认分类：server → server；pc/all → desktop
+  const preferred = cat.value === 'server' ? 'server' : 'desktop'
+  const list = visibleCategories.value
+  if (list.some((c) => c.id === preferred)) {
+    activeCategory.value = preferred
+  } else if (list.length) {
+    // 默认不在过滤后列表中，落第一个
+    activeCategory.value = list[0].id
   }
 }
 

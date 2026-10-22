@@ -1,9 +1,11 @@
 // 前端在静态模式下从 raw news list 构建 chain-impact 聚合
 // 等价于后端 /api/news-chain-impact 的逻辑
+// side 参数：'all' | 'pc' | 'server'，非 all 时只聚合该品类可见的 sub（both 也可见）
 
 import { CHAIN_TAXONOMY, classify } from './chain-taxonomy.js'
+import { visible } from './category-map.js'
 
-export function buildChainImpact(newsList, days = 7) {
+export function buildChainImpact(newsList, days = 7, side = 'all') {
   const now = Date.now()
   const dayMs = 24 * 60 * 60 * 1000
   const cutoffNow = new Date(now - days * dayMs).toISOString().slice(0, 10)
@@ -17,30 +19,38 @@ export function buildChainImpact(newsList, days = 7) {
     .sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''))
   const prevWindow = newsList.filter((n) => inPrev(n.publishedAt || ''))
 
+  // 环比基数与当前窗口用同一品类口径，否则 trend/±% 失真
   const prevCountByLayer = {}
   for (const row of prevWindow) {
     const cls = classify({ title: row.title, summary: row.summary })
+    if (!visible(cls.side, side)) continue
     prevCountByLayer[cls.layer] = (prevCountByLayer[cls.layer] || 0) + 1
   }
 
+  // 骨架只含本品类可见的 sub，后续填充/裁剪/摘要全部自动跟随
   const layers = CHAIN_TAXONOMY.filter((l) => l.id !== 'other').map((layer) => ({
     id: layer.id,
     name: layer.name,
     count: 0,
     prevCount: prevCountByLayer[layer.id] || 0,
     articles: [],
-    subCategories: layer.subCategories.map((sub) => ({
-      key: sub.key,
-      name: sub.name,
-      count: 0,
-      latest: null,
-      articles: [],
-    })),
+    subCategories: layer.subCategories
+      .filter((sub) => visible(sub.side, side))
+      .map((sub) => ({
+        key: sub.key,
+        name: sub.name,
+        count: 0,
+        latest: null,
+        articles: [],
+      })),
   }))
 
+  let totalArticles = 0
   for (const row of allInWindow) {
     const cls = classify({ title: row.title, summary: row.summary })
     if (cls.layer === 'other') continue
+    if (!visible(cls.side, side)) continue
+    totalArticles += 1
     const layer = layers.find((l) => l.id === cls.layer)
     if (!layer) continue
     layer.count += 1
@@ -120,7 +130,8 @@ export function buildChainImpact(newsList, days = 7) {
   return {
     windowDays: days,
     generatedAt: new Date(now).toISOString().slice(0, 16).replace('T', ' '),
-    totalArticles: allInWindow.length,
+    totalArticles,
+    generatedForSide: side,
     layers,
     summaryBullets,
     productBullets,
