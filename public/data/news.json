@@ -1,7 +1,513 @@
 {
-  "updatedAt": "2026-10-24",
-  "total": 3541,
+  "updatedAt": "2026-10-25",
+  "total": 3581,
   "list": [
+    {
+      "id": 3542,
+      "title": "数千亿Token测安全 AI仍能“隔墙传话” OpenAI前沿训练全面断网",
+      "summary": "不准联网，也没有共享可写文件，隔离的 AI 还是传上了话。它们用上的通信工具，是 CPU 缓存。10 月23 日，OpenAI 公布前沿模型训练环境的安全改造细节，披露了这项红队实验。同时，公司明确，前沿模型训练已禁止访问真实互联网，模型改在离线网页环境中练习浏览和搜索。 阅读全文",
+      "content": "<p>不准联网，也没有共享可写文件，隔离的 AI 还是传上了话。它们用上的通信工具，是 <strong>CPU 缓存</strong>。10 月23 日，OpenAI 公布前沿模型训练环境的安全改造细节，披露了这项红队实验。同时，公司明确，前沿模型训练已禁止访问真实互联网，模型改在离线网页环境中练习浏览和搜索。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583744.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583744.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583744.htm"
+    },
+    {
+      "id": 3543,
+      "title": "苹果测试巨型折叠iPad 形态或参考MateBook Fold",
+      "summary": "据Notebookcheck报道，苹果正在测试一款大尺寸折叠平板设备，其设计思路参考华为MateBook Fold。报道称，在成功推出iPhone Duo后，苹果正加快布局更多折叠设备。尽管苹果在满足市场需求方面仍面临供应难题，但这款折叠手机的市场需求保持高位。 阅读全文",
+      "content": "<p>据Notebookcheck报道<strong>，苹果正在测试一款大尺寸折叠平板设备，其设计思路参考华为MateBook Fold。</strong>报道称，在成功推出iPhone Duo后，苹果正加快布局更多折叠设备。尽管苹果在满足市场需求方面仍面临供应难题，但这款折叠手机的市场需求保持高位。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583736.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583736.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583736.htm"
+    },
+    {
+      "id": 3545,
+      "title": "东风猛士 X700 上市：华为乾崑智驾 ADS 5 + 鸿蒙座舱 HarmonySpace 6，限时焕新价 20.98 万元起",
+      "summary": "IT之家 10 月 25 日消息，东风猛士汽车全新 X 序列的首款车型 —— 猛士 X700 今日上市，新车共推出 3 款车型，限时焕新价 20.98 万元起，搭载华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6。 IT之家附价格信息如下： 325KM 后驱 Pro 上市指导价 21.98 万元，限时焕新价 20.98 万元 285KM 四驱 Max 上市指导价 23.98 万元，限时焕新价 22.98 万元 285KM 四驱 Max+ 上市指导价 25.9",
+      "content": "<p data-vmark=\"c5de\">IT之家 10 月 25 日消息，东风猛士汽车全新 X 序列的首款车型 —— 猛士 X700 今日上市，新车共推出 3 款车型，限时焕新价 20.98 万元起，搭载华为乾崑智驾 ADS 5 及鸿蒙座舱 HarmonySpace 6。</p><p data-vmark=\"8a3b\">IT之家附价格信息如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2b7c\">325KM 后驱 Pro 上市指导价 21.98 万元，限时焕新价 20.98 万元</p></li><li><p data-vmark=\"dcde\">285KM 四驱 Max 上市指导价 23.98 万元，限时焕新价 22.98 万元</p></li><li><p data-vmark=\"279f\">285KM 四驱 Max+ 上市指导价 25.98 万元，限时焕新价 24.98 万元</p></li><li><p data-vmark=\"03ee\">360KM 四驱 Ultra 上市指导价 27.98 万元，限时焕新价 26.98 万元</p></li></ul><p data-vmark=\"685d\">猛士 X700 长宽高为 5035×1999×1910mm，<strong>轴距 2920mm</strong>，提供林芝蓝、荔波绿、墨石灰、乌兰橙、格宗黑、昆仑白车色。</p><p data-vmark=\"1dc3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c600c110-1796-4bf9-806d-14cf2d889104.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"2336\" data-weibo=\"0\" data-vmark=\"f55e\" class=\"no-alt-img\"></p><p data-vmark=\"94a5\">座舱方面，新车首发<strong>鸿蒙座舱 Harmony Space 6</strong> 带来全新小艺智能体，配备双 15.6 英寸华为智慧双联屏，新一代 HUAWEI XHUD 画幅 74 英寸支持 AR 实景领航。HUAWEI SOUND 配 21 个独立扬声器、7.1.4 环绕声场，支持无麦 K 歌 3.0、AI 智能伴唱等。</p><p data-vmark=\"e9ab\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a2d0b29f-a683-461a-be52-2f06874e69a8.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"2699\" data-weibo=\"1\" data-vmark=\"cb94\" class=\"no-alt-img\"></p><p data-vmark=\"e3c0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/654e5236-87a4-4a50-b6eb-fb1bc29f9e6e.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"4011\" data-weibo=\"2\" data-vmark=\"6386\" class=\"no-alt-img\"></p><p data-vmark=\"af80\">猛士 X700 搭载<strong>华为乾崑智驾 ADS 5</strong>，配备 896 线激光雷达，延续猛士与华为乾崑全栈深度合作，支持高速 NOA、城市 NOA、记忆泊车等功能，还带来 AEB 3.0、车位到车位 3.0 等。</p><p data-vmark=\"09a0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/71d2a6cf-aa51-4b30-afc8-0348396bc255.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"3199\" data-weibo=\"3\" data-vmark=\"0a71\" class=\"no-alt-img\"></p><p data-vmark=\"0636\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e86ff080-9b9a-47f5-9dde-5caa9b68f4af.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"2443\" data-weibo=\"4\" data-vmark=\"77b0\" class=\"no-alt-img\"></p><p data-vmark=\"b05c\">动力方面，猛士 X700 提供增程版和插混版两种选择，均搭载 1497ml 发动机，增程版功率 95kW，最大净功率 90kW；插混版功率 113kW，最大净功率 110kW。</p><p data-vmark=\"f954\">该车采用 800V 平台架构，配备 68.1kWh 宁德时代越野专用电池，<strong>CLTC 纯电续航 360km</strong>；零百加速 4.93 秒，综合功率可达 518kW。</p><p data-vmark=\"04c8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4668b1b4-e4f0-41bc-90fe-92bb8a203f36.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"2081\" data-weibo=\"5\" data-vmark=\"805c\" class=\"no-alt-img\"></p><p data-vmark=\"5a11\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4e2b21a2-d614-480a-b60c-0e8258d8240c.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"2487\" data-weibo=\"6\" data-vmark=\"6bb3\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/629.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/629.htm"
+    },
+    {
+      "id": 3546,
+      "title": "阿里 AI 智能体“千问 Go！”上线“我的应用”功能：可帮助用户搭建长期、可分享的专属应用",
+      "summary": "IT之家 10 月 25 日消息，阿里宣布旗下 AI 智能体“千问 Go！”上线“我的应用”功能。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。 据悉，“我的应用”接入阿里云 AI 应用生产平台 Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问 Go 的云端 Pro 能力，还能在授权后调用用户在淘宝、高德、大麦、夸克网盘等平台的个人数据，让新搭建的应用直接利用已有的购物、出行、学习等生活记录，生",
+      "content": "<p data-vmark=\"e4c4\">IT之家 10 月 25 日消息，阿里宣布旗下 AI 智能体“千问 Go！”上线“我的应用”功能。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。</p><p data-vmark=\"5143\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f2dfa090-d528-4b68-b88e-681d666d55cf.jpg\" w=\"1236\" h=\"1112\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"efe8\" class=\"no-alt-img\"></p><p data-vmark=\"f092\">据悉，“我的应用”接入阿里云 AI 应用生产平台 Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问 Go 的云端 Pro 能力，<strong>还能在授权后</strong><strong>调用用户在淘宝、高德、大麦、夸克网盘等平台的个人数据，让新搭建的应用直接利用已有的购物、出行、学习等生活记录</strong>，生成更个性化的专属工具。例如，用户可以调用自己在大麦的历史订单，将其打造为一本电子票根册，将过去看过的演出整理成可随时翻阅的个人回忆。</p><p data-vmark=\"82a9\">目前，“我的应用”及支持操作云手机、云电脑的云端 Pro 均处于邀测阶段，用户可前往千问 App 内邀测页面排队申请。</p>",
+      "link": "https://www.ithome.com/1/017/625.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/625.htm"
+    },
+    {
+      "id": 3547,
+      "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
+      "summary": "IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求仍将在 2028 年前保持快速增长。 野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票，均给予“买入”评级，目标股价分别为 67 万韩元（IT之家注：现汇率约合 3,380 元人民币）和 470 万韩元（现汇率约合 23,712 元人民币）。 野村证券认为，市场过度担忧 AI 投",
+      "content": "<p data-vmark=\"27ef\">IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求<strong>仍将在 2028 年前保持快速增长</strong>。</p><p data-vmark=\"0bd2\">野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票，<strong>均给予“买入”评级</strong>，目标股价分别为 67 万韩元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,380 元人民币）</span>和 470 万韩元<span class=\"exch-money-value\">（现汇率约合 23,712 元人民币）</span>。</p><p data-vmark=\"3813\">野村证券认为，<strong>市场过度担忧 AI 投资前景</strong>，存储芯片行业的强劲行情有望持续较长时间。</p><p data-vmark=\"98c7\">近期，AI 企业 CoreWeave 的债券价格暴跌，融资压力加剧，市场担心 AI 企业<strong>可能因此削减资本开支</strong>。与此同时，中国存储芯片制造商长鑫存储的技术进步，也引发了市场对存储芯片供应增加的担忧。</p><p data-vmark=\"90d9\">野村证券认为，<strong>市场高估了 AI 企业削减需求的风险</strong>。该机构估算，OpenAI 和 Anthropic 今年第三季度合计营收同比增长 507%，但要达到市场对全年营收的预期，两家公司第四季度仍需实现大幅增长。</p><p data-vmark=\"70af\">野村证券还认为，CoreWeave 等数据中心运营商面临的资金困难，不太可能导致整个 AI 行业的投资活动停滞。该机构解释称，个别业务的风险可能上升，但已经建成的数据中心和设备也可以由其他运营商使用。</p><p data-vmark=\"0227\">野村证券看好三星电子和 SK 海力士，主要是因为全球数据中心持续扩建。根据其追踪的数据，全球数据中心今年新增容量预计为 22.3GW，<strong>明年将增至 31.5GW</strong>。</p><p data-vmark=\"0813\">野村证券预计，存储芯片需求增速将继续超过供应增速，从而为价格提供支撑。三星电子、SK 海力士等 9 家半导体企业，合计净现金将从今年第二季度的 2,820 亿美元<span class=\"exch-money-value\">（现汇率约合 1.89 万亿元人民币）</span><strong>增至 2028 年末的 2 万亿美元</strong><span class=\"exch-money-value\">（现汇率约合 13.38 万亿元人民币）</span>。</p><p data-vmark=\"453c\">野村证券也指出，如果数据中心投资计划持续缩减或推迟，就需要重新审视存储芯片需求预测。</p>",
+      "link": "https://www.ithome.com/1/017/622.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/622.htm"
+    },
+    {
+      "id": 3548,
+      "title": "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率",
+      "summary": "IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。 具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp 辅助摄像头。手机搭载高通骁龙 7s Gen 2 芯片，匹配 8/12GB RAM 和 256GB 存储空间，内置 5000",
+      "content": "<p data-vmark=\"6f94\">IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。</p><p data-vmark=\"e30b\">具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp 辅助摄像头。手机搭载高通骁龙 7s Gen 2 芯片，匹配 8/12GB RAM 和 256GB 存储空间，内置 5000mAh 电池（支持 33W 有线充电）。</p><p style=\"text-align: center;\" data-vmark=\"4cfa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/af215003-4fdb-4165-94a7-2bf6488ce525.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1272\" data-weibo=\"0\" data-vmark=\"d4d0\" class=\"no-alt-img\"></p><p data-vmark=\"47d2\">作为参考，现款 Fusion 机型于 2024 年 9 月发布，该机搭载 6.56 英寸 HD+ 90Hz 面板，采用骁龙 4 Gen 2 芯片组，使用 6.56 英寸 HD+ 90Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp 辅助摄像头。</p><p style=\"text-align: center;\" data-vmark=\"4eda\"><img src=\"https://img.ithome.com/newsuploadfiles/2024/11/86b89d6f-9e95-48e6-bdc5-ec2c759c91db.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE1MC5wbmc=,t_100,g_9,y_15,x_15,a_0\" w=\"972\" h=\"1302\" data-weibo=\"1\" data-vmark=\"9c21\" class=\"no-alt-img\"></p><figcaption>▲ 现款 HMD Fusion 机型</figcaption><p data-vmark=\"8f96\">该机主打模块化设计，用户通过手机背面的 Smart Pin 可以连接各种外壳配件，实现从无线充电到更坚固的保护，或者是用于更明亮自拍和直播的环形灯等各种扩充功能。用户还可以通过开源的 HMD Fusion 开发工具包，3D 打印出自己的设计。</p>",
+      "link": "https://www.ithome.com/1/017/621.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/621.htm"
+    },
+    {
+      "id": 3549,
+      "title": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+      "summary": "IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会已于 10 月 22 日在深圳会展中心（福田）举行。 在星闪 3.0 标准成果发布环节，国际星闪联盟理事长石晶林与中国信息通信研究院、中国电子技术标准化研究院、国家无线电监测中心检测中心、中国标准化研究院、中国汽车技术研究中心、中国电子音响行业协会以及华为、中国移动、联想等行业机构、协会和企业代表，共同发布星闪 3.0 标准成果。 据介绍，星闪标准历经 1.0 定",
+      "content": "<p data-vmark=\"6cd6\">IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会已于 10 月 22 日在深圳会展中心（福田）举行。</p><p data-vmark=\"a6f3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/25bba2c8-0b1c-4744-8405-aa9b53c66402.jpg\" w=\"1080\" h=\"720\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"1b64\"></p><p data-vmark=\"5f7e\">在星闪 3.0 标准成果发布环节，国际星闪联盟理事长石晶林与中国信息通信研究院、中国电子技术标准化研究院、国家无线电监测中心检测中心、中国标准化研究院、中国汽车技术研究中心、中国电子音响行业协会以及华为、中国移动、联想等行业机构、协会和企业代表，共同发布星闪 3.0 标准成果。</p><p data-vmark=\"44ed\">据介绍，星闪标准历经 1.0 定义通信架构、2.0 打通通定感网一体化端到端竞争力后，<strong>3.0 则是面向全场景智能物联，瞄准 AI、无源、毫米波等方向进行创新</strong>。3.0 标准从 2025 年 8 月启动到现在，<strong>已正式发布无损音频等三项标准</strong>，另外还有大量标准正在制定中，目前已经取得了阶段性成果。</p><p data-vmark=\"c216\">上海海思 COO 兼战略与业务发展部部长支浩介绍称，<strong>星闪 SLE3.0 将在速率、覆盖、抗干扰等方面再升级</strong>。由产学研 60 余家单位共同编制并发布的《星闪 SLE 3.0 技术标准演进蓝皮书》，将推动 3.0 标准走深走实。</p><p data-vmark=\"1b37\">另据IT之家此前报道，9 月 28 日，国家市场监督管理总局（国家标准化管理委员会）发布最新一批国家标准公告，其中批准发布《星闪无线通信系统》系列国家标准（GB/T 48336.101—2026 等）。这标志着新一代无线短距通信技术 —— 星闪（NearLink）由此迈出从团体标准向推荐性国家标准跃升的关键一步。<a target=\"_blank\" href=\"https://www.ithome.com/1/011/607.htm\">该系列标准将于 2027 年 4 月 1 日起正式实施</a>。</p><p data-vmark=\"6096\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a0cc1436-1acb-4b51-90b1-1144a8a3a1f7.png\" w=\"1080\" h=\"603\" data-vmark=\"9b41\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/620.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/620.htm"
+    },
+    {
+      "id": 3550,
+      "title": "AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员",
+      "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，英国 AI 基础设施企业 Nscale 遭到一名工程师起诉。这名工程师曾在 Nscale 位于挪威的数据中心工作，指控该公司违法采用分包用工模式，并涉及不当解雇。 诉状称，该工程师通过分包商 CloudBrothers 进入数据中心工作，实际雇主却是 Nscale，违反了挪威法律。他还指控，自己在质疑数据中心的用工管理问题后遭到 CloudBrothers 解雇。 在当地工会的支持下，该工程师于 10 月 16 日向挪",
+      "content": "<p data-vmark=\"d0af\">IT之家 10 月 25 日消息，据彭博社 23 日报道，英国 AI 基础设施企业 Nscale 遭到一名工程师起诉。这名工程师曾在 Nscale 位于挪威的数据中心工作，指控该公司<strong>违法采用分包用工模式，并涉及不当解雇</strong>。</p><p data-vmark=\"ea1d\">诉状称，该工程师通过分包商 CloudBrothers 进入数据中心工作，实际雇主却是 Nscale，违反了挪威法律。他还指控，自己在<strong>质疑数据中心的用工管理问题后遭到 CloudBrothers 解雇</strong>。</p><p data-vmark=\"582a\">在当地工会的支持下，该工程师于 10 月 16 日向挪威南罗加兰地方法院提起诉讼，将 Nscale 和 CloudBrothers 列为共同被告。</p><p data-vmark=\"4cc9\">该工程师认为，Nscale 在斯塔万格的数据中心<strong>违法使用分包人员</strong>，没有与他直接建立雇佣关系，却负责安排他的日常工作和轮班。</p><p data-vmark=\"32ea\">挪威法律允许企业将工作分包，但要求分包商独立管理员工。用工企业不得直接将分包人员当作自己的员工管理，否则<strong>必须按照正式员工的标准支付工资并提供待遇</strong>。</p><p data-vmark=\"7ae5\">诉讼发生之际，Nscale 正为首次公开募股做准备，并加快建设数据中心，以履行总额超过 1,000 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,689.2 亿元人民币）</span>的合同义务。</p><p data-vmark=\"6231\">根据诉状，该工程师今年 6 月遭到解雇。在此之前，CloudBrothers 人力资源部门曾警告员工，<strong>未按时提交休假申请将被扣除两周假期工资</strong>。该工程师对此提出异议，并向整个团队抄送了回复：“<strong>你们不能扣除我们已经挣到的工资</strong>。”</p><p data-vmark=\"58c2\">该工程师称，他还曾向挪威劳动监察局反映工资和工作条件问题，随后遭到 CloudBrothers <strong>报复性解雇</strong>。法庭文件显示，CloudBrothers 人力资源部门告知他的解雇理由是多次违反保密规定。</p><p data-vmark=\"7a3e\">该工程师要求 Nscale 和 CloudBrothers 赔偿其经济损失并支付损害赔偿金，同时请求法院确认，他实际上应被认定为 Nscale 的员工。</p>",
+      "link": "https://www.ithome.com/1/017/618.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/618.htm"
+    },
+    {
+      "id": 3551,
+      "title": "华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力",
+      "summary": "IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现，新版本还“暗藏”新特性，未在更新日志中进行说明。在“设置-华为账号”中新增了“智慧场景服务”功能，支持创建自定义操作，联动全场景设备以及 App，",
+      "content": "<p data-vmark=\"f7ba\">IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型<a target=\"_blank\" href=\"https://www.ithome.com/1/017/430.htm\">推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级</a>，带来了与 iPhone 双机互联，实况窗分享等功能。</p><p style=\"text-align: center;\" data-vmark=\"3516\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-vmark=\"b1a9\" data-weibo=\"0\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏</figcaption><p data-vmark=\"8051\">IT之家实测发现，新版本还“暗藏”新特性，未在更新日志中进行说明。在“设置-华为账号”中新增了“智慧场景服务”功能，<strong>支持创建自定义操作，联动全场景设备以及 App，帮助完成日常任务</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b7b5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/03cc9807-8326-4d90-8ee6-4c4d67314c3d.jpg\" w=\"1320\" h=\"1320\" data-vmark=\"d8ca\" data-mpos=\"1,2\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1c0b10b4ae66aca8367e2cffe7438e89ef3504fd841da055a1201441c8e3cccdf36367f88c79da34a\" class=\"no-alt-img\"></p><p data-vmark=\"c446\">相比于华为智慧生活 App 的场景功能，<strong>此次新增的“智慧场景服务”功能集成了鸿蒙车机场景</strong>，可设置的条件与任务也更加丰富，<strong>支持创建个人、车辆、家庭三大自动化服务</strong>。</p><p style=\"text-align: center;\" data-vmark=\"97d6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fdb37c84-7f07-4b5e-8a58-58bcde4375e6.jpg\" w=\"1320\" h=\"2206\" data-vmark=\"325a\" data-mpos=\"1,1\" data-weibo=\"2\"  class=\"no-alt-img\"></p><p data-vmark=\"ebb1\">目前尚不知晓“智慧场景服务”是否会与智慧生活 App 的场景功能合并，但二者能力相似，有望在未来实现统一。关于华为鸿蒙 HarmonyOS 7 系统的更多“隐藏”特性，IT之家也在持续挖掘中，感兴趣的小伙伴可以关注后续报道。</p>",
+      "link": "https://www.ithome.com/1/017/617.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/617.htm"
+    },
+    {
+      "id": 3552,
+      "title": "Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片",
+      "summary": "IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置，售价 23,999 卢比（IT之家注：现汇率约合 1,690 元人民币）。 据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67 英寸 AMOLED 曲面屏幕，分辨率为 FHD，支持 120Hz 高刷。 同时，这款手机内置 6000mAh 电池，支持 45W",
+      "content": "<p data-vmark=\"f434\">IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置，<strong>售价 23,999 卢比<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,690 元人民币）</span></strong>。</p><p style=\"text-align: center;\" data-vmark=\"8dbd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d60f522f-1211-414e-b452-5fcad2c8a51f.jpg?x-bce-process=image/format,f_auto\" w=\"788\" h=\"900\" data-weibo=\"0\" data-vmark=\"ab7a\" class=\"no-alt-img\"></p><p data-vmark=\"efb1\">据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67 英寸 AMOLED 曲面屏幕，分辨率为 FHD，支持 120Hz 高刷。</p><p data-vmark=\"1433\">同时，这款手机内置 6000mAh 电池，支持 45W 快速充电。其背面带有一块副屏，支持显示时间、电量、通知等信息。该机拥有 5000 万像素的索尼 IMX752 主摄、1300 万像素前置摄像头。</p><p data-vmark=\"a79d\">此外，该手机还带有屏下指纹和立体声扬声器，支持 IP64 级防尘防水。搭载原生 Android 16 系统，官方承诺提供两年大版本更新和三年安全更新。</p>",
+      "link": "https://www.ithome.com/1/017/616.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/616.htm"
+    },
+    {
+      "id": 3553,
+      "title": "九州风神推出 StationX 622 双塔风冷散热器：搭 6 根 6mm 热管，解热功耗 540W，899 元",
+      "summary": "IT之家 10 月 25 日消息，九州风神 DeepCool 现已在京东上架 StationX 622 风冷散热器，该产品号称专为工作站及服务器级系统打造，主要应对 3D 渲染与 AI 训练等生产力场景，定价为 899 元。 京东九州风神 StationX 622 风冷散热器 899 元直达链接 该散热器采用双塔结构，整体尺寸为 127 x 148 x 154 mm，净重 1431 克。顶部配备一体式铝合金顶盖，整体高度控制在 154 mm，能够适配大多数标准塔式工作站与 4",
+      "content": "<p data-vmark=\"7a7b\">IT之家 10 月 25 日消息，九州风神 DeepCool 现已在京东上架 StationX 622 风冷散热器，该产品号称专为工作站及服务器级系统打造，主要应对 3D 渲染与 AI 训练等生产力场景，<strong>定价为 899 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5676TNk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5O7bmEc\" data-iosurl=\"https://u.jd.com/5g7qJFE\" data-androidurl=\"https://u.jd.com/567gqit\" data-hosnexturl=\"https://u.jd.com/5G7351F\" data-hosurl=\"https://u.jd.com/5G71Ann\" data-uwpurl=\"https://u.jd.com/5O7yHpl\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5O7DPDR%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/517SPQZ\" data-lpwxurl=\"https://u.jd.com/5a70Xo7\"   data-ncid=\"257981\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/549330/28/3212/69775/6ad73db2Fcf90665a/0083320320df2670.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">九州风神 StationX 622 风冷散热器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 899 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"cb41\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f316964d-4670-4e8b-8163-360b4e936135.png\" w=\"830\" h=\"1356\" data-weibo=\"0\" data-vmark=\"a2fd\" class=\"no-alt-img\"></p><p data-vmark=\"5bbd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4f99a672-c51e-42bc-b8a8-627fcc269168.png\" w=\"838\" h=\"1448\" data-weibo=\"1\" data-vmark=\"e773\" class=\"no-alt-img\"></p><p data-vmark=\"3b03\">该散热器采用双塔结构，整体尺寸为 127 x 148 x 154 mm，净重 1431 克。顶部配备一体式铝合金顶盖，整体高度控制在 154 mm，能够适配大多数标准塔式工作站与 4U 机架式机箱。顶盖具备中置风扇快拆结构，掀起即可整组取出风扇，且装配过程无需拆除顶盖。</p><p data-vmark=\"5f91\">该散热器配备 6 根 6 mm 热管，内部散热片组尺寸为 127 x 115 x 151 mm，搭载两把 120 x 120 x 30 mm 的 PWM 加厚风扇。风扇最高转速为 2500 RPM，风量为 90 CFM，风压达 4.34 mmAq，噪音不高于 37.33 dB(A)。风扇内部采用三相六槽四极马达、双滚珠轴承与 PPS 材质，符合 G6.3 动平衡标准。同时结合超大尺寸铜底，提供最高 540 W 的解热功耗。</p><p data-vmark=\"1d05\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a558a5a5-9bc5-46c1-adcc-d6f85232b900.png\" w=\"606\" h=\"1442\" data-weibo=\"2\" data-vmark=\"e643\" class=\"no-alt-img\"></p><p data-vmark=\"fb2a\">该风扇原生支持 AMD 的 SP6、SP3、sTR5、sWRX8、sTRX4 与 TR4 平台，可选购 LGA4677、LGA4710 及 SP5 安装扣具，提供 5 年质保服务。</p><p data-vmark=\"82a2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a22e68f0-315c-409d-a6d1-e3e19c840d7a.png\" w=\"954\" h=\"926\" data-weibo=\"3\" data-vmark=\"6d50\" class=\"no-alt-img\"></p><p data-vmark=\"6252\">IT之家附产品参数：</p><p data-vmark=\"3c14\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/eddacd34-f6bb-4086-b020-db9c886c0036.png\" w=\"832\" h=\"1114\" data-weibo=\"4\" data-vmark=\"ed76\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/615.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/615.htm"
+    },
+    {
+      "id": 3554,
+      "title": "超频三推出 C3 T400 海景房机箱：兼容 360mm 水冷，黑白双色均售 326 元",
+      "summary": "IT之家 10 月 25 日消息，超频三现已在京东上架 C3 T400 电脑机箱，该风扇提供 10 个 120mm 风扇安装位，兼容 360mm 水冷，黑白双色定价均为 326 元。 该机箱尺寸 425x285x423mm，支持安装 Micro ATX 与 ITX 规格的主板，机箱采用无立柱玻璃结构的 270° 全景视窗，顶部配备了支持拆卸的一体化防尘网。I/O 接口位于机箱底部，提供 1 个 USB-A 3.0、1 个 3.5mm 音频接口。 该机箱设有 5 个 PCIe ",
+      "content": "<p data-vmark=\"bdcf\">IT之家 10 月 25 日消息，超频三现已在京东上架 C3 T400 电脑机箱，该风扇提供 10 个 120mm 风扇安装位，兼容 360mm 水冷，<strong>黑白双色定价均为 326 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"1eb1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9b360ba3-fc8d-4e9a-a189-24bd4a2ef163.png?x-bce-process=image/format,f_auto\" w=\"1388\" h=\"1190\" data-weibo=\"0\" data-vmark=\"eb84\" class=\"no-alt-img\"></p><p data-vmark=\"489d\">该机箱尺寸 425x285x423mm，支持安装 Micro ATX 与 ITX 规格的主板，机箱采用无立柱玻璃结构的 270° 全景视窗，顶部配备了支持拆卸的一体化防尘网。I/O 接口位于机箱底部，提供 1 个 USB-A 3.0、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"5b6e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8ca68ff1-98ed-4b95-ac01-076744e2fb19.png?x-bce-process=image/format,f_auto\" w=\"1370\" h=\"596\" data-weibo=\"1\" data-vmark=\"c93f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"ac50\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ac1199b9-9834-4af4-b6ba-1e5374254c26.png?x-bce-process=image/format,f_auto\" w=\"1116\" h=\"518\" data-weibo=\"2\" data-vmark=\"04f6\" class=\"no-alt-img\"></p><p data-vmark=\"d15f\">该机箱设有 5 个 PCIe 扩展槽，显卡最长支持 415mm，CPU 散热器限高 160mm，兼容长度在 200mm 以内的 ATX 规格电源，可安装 1 块 3.5 英寸与 1 块 2.5 英寸硬盘。</p><p style=\"text-align: center;\" data-vmark=\"1b23\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/45ccd88a-d1b7-4400-8c5c-47fb370df16e.png?x-bce-process=image/format,f_auto\" w=\"1260\" h=\"1160\" data-weibo=\"3\" data-vmark=\"545f\" class=\"no-alt-img\"></p><p data-vmark=\"98df\">该机箱设有 10 把 120mm 风扇安装位，其中后部 2 把、顶部 3 把、底部 3 把、侧面 2 把，机箱顶部区域支持 360mm 或 240mm 冷排。IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"d85f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/16892f98-4f90-44bc-afa4-cb2179d4abf2.png?x-bce-process=image/format,f_auto\" w=\"564\" h=\"788\" data-weibo=\"4\" data-vmark=\"badb\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/612.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/612.htm"
+    },
+    {
+      "id": 3555,
+      "title": "飞傲 JD1 GAMING 游戏耳机开售，109 元",
+      "summary": "IT之家 10 月 25 日消息，飞傲 JD1 GAMING 游戏耳机现已在京东开售，新品采用入耳式设计，配备独立 DSP 音频解码芯片，支持换线，售价 109 元。 据介绍，这款耳机配备 10mmLCP 液晶振膜，可输出浑厚充盈的低频量感，采用非对称性内外双磁路设计，提升音圈处磁场密度。内置 DSP 音频解码芯片，支持 384kHz/24bit 高清音频解码。 同时，该耳机带有高灵敏度宽频麦克风，采用支持自由弯曲定位的软杆设计，可精准拉近与嘴部的拾音距离，还能够拆卸，方便日",
+      "content": "<p data-vmark=\"4a6c\">IT之家 10 月 25 日消息，飞傲 JD1 GAMING 游戏耳机现已在京东开售，新品采用入耳式设计，配备独立 DSP 音频解码芯片，支持换线，<strong>售价 109 元</strong>。</p><p data-vmark=\"c0d4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/416a9606-5cd8-4ff7-9f81-dc08fb293fcf.jpg?x-bce-process=image/format,f_auto\" w=\"916\" h=\"1766\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1b06dca8439cdce1b410dca5a981f903e3486e77123ad6b18ba3119202da4ee8389e8075997686789\" data-vmark=\"31b6\" class=\"no-alt-img\"></p><p data-vmark=\"f115\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9adea9b9-4ae7-4584-9781-51ed766ecddf.jpg?x-bce-process=image/format,f_auto\" w=\"920\" h=\"1497\" data-weibo=\"1\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d11babaf7dee12dff15a82303a6c54ffdbc80a3dd8b3a2aef634bb8ade60b55f776b403202ed53bee4\" data-vmark=\"ecec\" class=\"no-alt-img\"></p><p data-vmark=\"238a\">据介绍，这款耳机配备 10mmLCP 液晶振膜，可输出浑厚充盈的低频量感，采用非对称性内外双磁路设计，提升音圈处磁场密度。内置 DSP 音频解码芯片，支持 384kHz/24bit 高清音频解码。</p><p data-vmark=\"7d7d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/56a5f433-c51b-4b61-a0cc-2aa8a73bccbf.jpg?x-bce-process=image/format,f_auto\" w=\"901\" h=\"1813\" data-weibo=\"2\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1093ed2021f73cde4102e41e2572af575da2e2658c9681c302986faf0c18f53848b75bfe74bbabe80\" data-vmark=\"3f1a\" class=\"no-alt-img\"></p><p data-vmark=\"2e09\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/03b91b79-6dba-4d17-b9f7-75c2e6ded5ba.jpg?x-bce-process=image/format,f_auto\" w=\"909\" h=\"1861\" data-weibo=\"3\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1867f2486edb8d819c6d210d3fd335e5847045413da2409af840f99beb943b21c2d7ebfb15193106d\" data-vmark=\"7e7b\" class=\"no-alt-img\"></p><p data-vmark=\"2e39\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dc637963-6fb0-4c83-b545-2daed9a53412.jpg?x-bce-process=image/format,f_auto\" w=\"899\" h=\"1442\" data-weibo=\"4\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1659ed9d3903bfb00351b18cce9f9031348c337292e29f851772e7efccd7cecd2a41d2c2a4498f29d\" data-vmark=\"d6c3\" class=\"no-alt-img\"></p><p data-vmark=\"bfec\">同时，该耳机带有高灵敏度宽频麦克风，采用支持自由弯曲定位的软杆设计，可精准拉近与嘴部的拾音距离，还能够拆卸，方便日常使用。内置三种 EQ 模式，采用 L 形 Type-C 插头，适配手机游戏场景。</p><p data-vmark=\"a2e8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2967a4f2-5f88-4b31-b82e-404d9006608d.jpg?x-bce-process=image/format,f_auto\" w=\"921\" h=\"1854\" data-weibo=\"5\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d129601589defda38023665386c5b0a963341bd19ba6b0d51aace3330a9b76dd059f2a4cff3e71c359\" data-vmark=\"a3cb\" class=\"no-alt-img\"></p><p data-vmark=\"921e\">此外，该耳机采用轻量化设计，配备 0.78mm 2pin 可换线设计，支持自由更换线缆。兼容 iOS、Android、Windows 和 macOS 等主流操作系统，带有 Hi-Res 认证。</p><p data-vmark=\"6ecb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/406027d5-68cc-47d0-9b83-58aea73413ae.jpg?x-bce-process=image/format,f_auto\" w=\"918\" h=\"1639\" data-weibo=\"6\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1d672c463b3224091779769c5aebea73e78b2a88ab5da524f33fe2fbb0e132b9b8b9ff72d9365e56d\" data-vmark=\"7425\" class=\"no-alt-img\"></p><p data-vmark=\"7f20\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7da98b71-348e-464e-8f2b-b99741ac5f79.jpg?x-bce-process=image/format,f_auto\" w=\"885\" h=\"1506\" data-weibo=\"7\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1dc88ea74178e0fda0e4ce83a65c94e1c5ec281b093e60a31dda5c6c05d889551cdcab2503dbeea5d\" data-vmark=\"94d7\" class=\"no-alt-img\"></p><p data-vmark=\"c9e9\">IT之家附该产品详细参数如下：</p><p data-vmark=\"54e1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d0b1fc0a-ca33-4fcb-9f57-db5496c39d9c.jpg?x-bce-process=image/format,f_auto\" w=\"906\" h=\"1133\" data-weibo=\"8\" data-mpos=\"2,0\"  data-vmark=\"4a1f\" class=\"no-alt-img\"></p><p data-vmark=\"31d3\">目前该产品已在京东开售，定价 109 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5g785Gw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5r71Qgn\" data-iosurl=\"https://u.jd.com/5g71ajd\" data-androidurl=\"https://u.jd.com/5O78fYf\" data-hosnexturl=\"https://u.jd.com/5D7ugYQ\" data-hosurl=\"https://u.jd.com/5r7wh29\" data-uwpurl=\"https://u.jd.com/567qKp8\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5a78SOG%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/567iAuX\" data-lpwxurl=\"https://u.jd.com/5G7b2qt\"   data-ncid=\"257975\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/543859/11/12210/69970/6ad88545F3d5e1bf9/00833e83e8ebc4fd.jpg\" w=\"1000\" h=\"1000\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">飞傲（FiiO） &nbsp;JD1 GAMING 游戏耳机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 109 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/610.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/610.htm"
+    },
+    {
+      "id": 3556,
+      "title": "KTC 推出“棱镜 U27”27 英寸显示器：4K 160Hz / FHD 320Hz 双模，1227 元",
+      "summary": "IT之家 10 月 25 日消息，KTC 现已在京东上架“棱镜 U27”27 英寸显示器，该机主打 4K 160Hz / FHD 320Hz，券后 1227 元，部分地区国补后低至 1173.6 元。 京东 KTC“棱镜 U27”显示器券后 1227 元领 190 元券 该机配备的 Fast IPS 面板支持以 3840x2160 分辨率 160Hz 或 1920x1080 分辨率 320Hz 显示，其亮度 400 尼特，GtG 响应速度 5ms（开启 OD 模式后低至 2m",
+      "content": "<p data-vmark=\"d06d\">IT之家 10 月 25 日消息，KTC 现已在京东上架“棱镜 U27”27 英寸显示器，该机主打 4K 160Hz / FHD 320Hz，<strong>券后 1227 元</strong>，部分地区国补后低至 1173.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5a7wP56\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5a784T6\" data-iosurl=\"https://u.jd.com/5g7gb4f\" data-androidurl=\"https://u.jd.com/5O7uhTk\" data-hosnexturl=\"https://u.jd.com/5D76Cdm\" data-hosurl=\"https://u.jd.com/5a7uLfV\" data-uwpurl=\"https://u.jd.com/5D7O5LA\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5a7MxMB%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/517qvi5\" data-lpwxurl=\"https://u.jd.com/5g7ILWO\"  data-ncid=\"257973\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/531565/9/9470/169231/6abb89d4F7398bfe7/008332032026582d.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> KTC“棱镜 U27”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 1227 元</span><span class=\"card-btn-deep\">领 190 元券</span></span></span></span></a></dir><p data-vmark=\"939c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1f97046-718c-443d-b086-dd6ab9a5a591.png\" w=\"818\" h=\"1272\" data-weibo=\"0\" data-vmark=\"0903\" class=\"no-alt-img\"></p><p data-vmark=\"6075\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/90d7585d-b46b-4b44-9f8a-1326c5decc09.png\" w=\"790\" h=\"1250\" data-weibo=\"1\" data-vmark=\"2019\" class=\"no-alt-img\"></p><p data-vmark=\"41eb\">该机配备的 Fast IPS 面板支持以 3840x2160 分辨率 160Hz 或 1920x1080 分辨率 320Hz 显示，其亮度 400 尼特，GtG 响应速度 5ms（开启 OD 模式后低至 2ms），静态对比度 1200:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 97% DCI-P3 色域。</p><p data-vmark=\"1065\">显示器边框侧面配备隐形耳机挂架，边框底部配备了红外感应夜灯。显示器支持 VESA 100x100mm 壁挂，本体提供 2 个 HDMI 2.1、2 个 DP 1.4、1 个 3.5mm 音频接口。</p><p data-vmark=\"af96\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/96584a07-aed3-483f-99db-f89114b7383d.png\" w=\"804\" h=\"834\" data-weibo=\"2\" data-vmark=\"b0b9\" class=\"no-alt-img\"></p><p data-vmark=\"57fa\">IT之家附显示器参数：</p><p data-vmark=\"2896\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/42b401d2-7f14-4905-80a8-739fe9e0d9c6.png\" w=\"826\" h=\"1310\" data-weibo=\"3\" data-vmark=\"7b11\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/606.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/606.htm"
+    },
+    {
+      "id": 3557,
+      "title": "曜越推出 AX600 Pro 机箱：提供多达 20 个风扇位，899 元",
+      "summary": "IT之家 10 月 25 日消息，曜越现已在京东上架“AX600 Pro”机箱，该机箱采用商务风格外形设计，定价为 899 元。 该机箱尺寸为 555x250x650mm，支持 M-ITX、ATX、E-ATX 至 HPTX 等多种主板规格，机箱外部采用多面散热孔设计，底部配备了滚轮。I/O 方面其顶部提供 1 个 USB-C 接口、2 个 USB-A 3.0 接口以及 1 个 3.5mm 音频接口。 该机箱支持安装双 ATX 电源，配备可拆卸电源架，电源限长为 180mm。C",
+      "content": "<p data-vmark=\"805f\">IT之家 10 月 25 日消息，曜越现已在京东上架“AX600 Pro”机箱，该机箱采用商务风格外形设计，<strong>定价为 899 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"323b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b715de8b-bcfe-4572-815b-138afc0ed474.png?x-bce-process=image/format,f_auto\" w=\"1244\" h=\"930\" data-weibo=\"0\" data-vmark=\"72fe\" class=\"no-alt-img\"></p><p data-vmark=\"b331\">该机箱尺寸为 555x250x650mm，支持 M-ITX、ATX、E-ATX 至 HPTX 等多种主板规格，机箱外部采用多面散热孔设计，底部配备了滚轮。I/O 方面其顶部提供 1 个 USB-C 接口、2 个 USB-A 3.0 接口以及 1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"d1c0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d3a4d1e9-1ce8-4a6e-889d-b0973079ef87.png?x-bce-process=image/format,f_auto\" w=\"1262\" h=\"926\" data-weibo=\"1\" data-vmark=\"56ab\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"52aa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f88502c6-6c24-4a73-b19e-90a14cc6c8cd.png?x-bce-process=image/format,f_auto\" w=\"1248\" h=\"950\" data-weibo=\"2\" data-vmark=\"13b7\" class=\"no-alt-img\"></p><p data-vmark=\"640d\">该机箱支持安装双 ATX 电源，配备可拆卸电源架，电源限长为 180mm。CPU 散热器限高 180mm，VGA 显卡限长为 400mm。提供 10 PCS 的 PCI 插槽。</p><p data-vmark=\"61f9\">该机箱在标配状态下底板支持四块 3.5\" HDD 或四个 2.5\" SSD，电源仓支持一块 2.5\" SSD，主板后侧支持一块 3.5\" HDD 加一块 2.5\" SSD。如果用户有更高需求，通过选配硬盘架，还能在底板和主板后侧扩展出更多的硬盘安装空间。</p><p style=\"text-align: center;\" data-vmark=\"4476\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b058da59-c446-47d7-96e8-54c0b85557e3.png?x-bce-process=image/format,f_auto\" w=\"1094\" h=\"1022\" data-weibo=\"3\" data-vmark=\"d0be\" class=\"no-alt-img\"></p><p data-vmark=\"3043\">该机支持风冷与水冷自由堆叠，机箱内部提供多达 20 个风扇位。出厂标配前部三个及后部两把 120mm 风扇。在自定义安装时，顶部和前部最高可支持 200mm 风扇，左侧、主板侧及底部也提供了多把 120mm 或 140mm 风扇安装位，可构建全方位立体风道。</p><p style=\"text-align: center;\" data-vmark=\"b703\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c5f9dd8c-31fb-4aee-9f6e-b659627f59c1.png?x-bce-process=image/format,f_auto\" w=\"1090\" h=\"1328\" data-weibo=\"4\" data-vmark=\"4287\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"3cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7683a243-81fe-4fa2-baaf-8bb2eabf64d6.png?x-bce-process=image/format,f_auto\" w=\"1038\" h=\"1170\" data-weibo=\"5\" data-vmark=\"c44f\" class=\"no-alt-img\"></p><p data-vmark=\"aa28\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"ddcb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6bd95a27-ce32-4f0a-b42c-60b5dad12562.png?x-bce-process=image/format,f_auto\" w=\"1104\" h=\"1350\" data-weibo=\"6\" data-vmark=\"ac18\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/517aCto\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5a7ixeE\" data-iosurl=\"https://u.jd.com/5a7w2zB\" data-androidurl=\"https://u.jd.com/5g7wPe4\" data-hosnexturl=\"https://u.jd.com/5a7zdi4\" data-hosurl=\"https://u.jd.com/5G7aeug\" data-uwpurl=\"https://u.jd.com/5D76nRq\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5a7I5gk%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5a7MOj5\" data-lpwxurl=\"https://u.jd.com/5D7QSKE\"   data-ncid=\"257969\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/546703/8/7854/190217/6adaf76aFb8286045/00835dc5dc3dd7d7.jpg\" w=\"1500\" h=\"1500\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">曜越 AX600 Pro 机箱</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 899 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/603.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/603.htm"
+    },
+    {
+      "id": 3558,
+      "title": "技嘉上架“FO32U24G”31.5 英寸显示器：4K 240Hz / FHD 480Hz，5789 元",
+      "summary": "IT之家 10 月 25 日消息，技嘉现已在京东上架“FO32U24G”显示器，该机主打 4K 240Hz / FHD 480Hz 双模，定价为 5789 元。 京东技嘉“FO32U24G”显示器 5789 元直达链接 该机基于 32\" 第四代 Tandem WOLED 面板，采用镜面屏技术，支持 UHD 240Hz / FHD 480Hz 双模切换。其通过 VESA DisplayHDR True Black 500 认证，HDR 峰值亮度可达 1500nits，色域 99",
+      "content": "<p data-vmark=\"1bc8\">IT之家 10 月 25 日消息，技嘉现已在京东上架“FO32U24G”显示器，该机主打 4K 240Hz / FHD 480Hz 双模，<strong>定价为 5789 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5a7zMgC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5O7Ckot\" data-iosurl=\"https://u.jd.com/5G76FkI\" data-androidurl=\"https://u.jd.com/5a7QbAx\" data-hosnexturl=\"https://u.jd.com/5a7QV63\" data-hosurl=\"https://u.jd.com/5a7OO3q\" data-uwpurl=\"https://u.jd.com/5O7bt4v\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f567zdOA%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5g7LHqG\" data-lpwxurl=\"https://u.jd.com/567Qe03\"   data-ncid=\"257962\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/540052/7/11523/309785/6ad47e65F7da7ceae/00833203207f680b.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">技嘉“FO32U24G”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 5789 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"3534\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a1c8f1fd-13e5-44bb-8e68-8bcfa0a50566.png?x-bce-process=image/format,f_auto\" w=\"990\" h=\"978\" data-weibo=\"0\" data-vmark=\"eb77\" class=\"no-alt-img\"></p><p data-vmark=\"c052\">该机基于 32\" &nbsp;第四代 Tandem WOLED 面板，采用镜面屏技术，支持 UHD 240Hz / FHD 480Hz 双模切换。其通过 VESA DisplayHDR True Black 500 认证，HDR 峰值亮度可达 1500nits，色域 99.5% DCI-P3，色差 ΔE＜2，GtG 响应速度 0.03ms；同时搭载 AI OLED Care Pro 智能面板保护系统。</p><p data-vmark=\"46d6\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 2 个 HDMI 2.1、1 个 DP 2.1、1 个 USB-C 65W、2 个 USB-A、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"baba\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/44ca039a-3bc7-4c36-9f13-95955f371f2c.png?x-bce-process=image/format,f_auto\" w=\"1022\" h=\"1068\" data-weibo=\"1\" data-vmark=\"73b4\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"9a3c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c7ba228c-ca7c-4288-9afc-c1c815bf026d.png?x-bce-process=image/format,f_auto\" w=\"1134\" h=\"818\" data-weibo=\"2\" data-vmark=\"9064\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/601.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/601.htm"
+    },
+    {
+      "id": 3559,
+      "title": "《赛博朋克 2077》游戏 2.5 更新后 Steam 峰值突破 16.2 万，创三年来新高",
+      "summary": "IT之家 10 月 25 日消息，据 SteamDB 数据，《赛博朋克 2077》游戏 2.5 版本更新后，Steam 平台 24 小时内同时在线玩家峰值达 162291 人，创下近 3 年来的最高纪录。 值得注意的是，本作上一次取得如此高的关注度，还是《往日之影》资料片推出以后。2023 年 10 月，《赛博朋克 2077》的同时在线玩家峰值曾突破 27.4 万人。 IT之家注意到，本次更新带来了双持武器、新服装等特性，并新增一项任务，其内容可作为《边缘行者 2》动画的前传",
+      "content": "<p data-vmark=\"d3ee\">IT之家 10 月 25 日消息，据 SteamDB 数据，《赛博朋克 2077》游戏 2.5 版本更新后，<strong>Steam 平台 24 小时内同时在线玩家峰值达 162291 人</strong>，<strong>创下近 3 年来的最高纪录</strong>。</p><p style=\"text-align: center;\" data-vmark=\"a425\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/69f7911a-c63a-4f4e-a31a-71379c394160.jpg?x-bce-process=image/format,f_auto\" w=\"1232\" h=\"717\" data-weibo=\"0\" data-vmark=\"e7bf\" class=\"no-alt-img\"></p><p data-vmark=\"85db\">值得注意的是，本作上一次取得如此高的关注度，还是《往日之影》资料片推出以后。2023 年 10 月，《赛博朋克 2077》的同时在线玩家峰值曾突破 27.4 万人。</p><p data-vmark=\"94b6\">IT之家注意到，本次更新带来了双持武器、新服装等特性，并新增一项任务，其内容可作为《边缘行者 2》动画的前传。</p><p data-vmark=\"703c\">此外，CDPR 现在还为本作带来了 3 折优惠，Steam 国区现价 89.4 元（<a href=\"https://store.steampowered.com/app/1091500/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B_2077/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/1091500/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B_2077/</span></a>）。</p>",
+      "link": "https://www.ithome.com/1/017/600.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/600.htm"
+    },
+    {
+      "id": 3560,
+      "title": "八位堂《战争机器：事变日》主题 Retro 87 机械键盘及 Retro R8 鼠标上市，599 元 / 299 元",
+      "summary": "IT之家 10 月 25 日消息，八位堂 (8BitDo) 现已在国内电商平台上架《战争机器：事变日》主题版本的 Retro 87 机械键盘与 Retro R8 鼠标，键盘单品价格 599 元、鼠标单品价格 299 元。 京东八位堂 Retro 87 机械键盘《战争机器：事变日》联名版 599 元直达链接京东八位堂 Retro R8 鼠标《战争机器：事变日》联名版 299 元直达链接 这两款产品均得到 XBOX 官方授权，号称将《战争机器：事变日》的战场印记融入鼠标和键盘。其",
+      "content": "<p data-vmark=\"4bd1\">IT之家 10 月 25 日消息，八位堂 (8BitDo) 现已在国内电商平台上架《战争机器：事变日》主题版本的 Retro 87 机械键盘与 Retro R8 鼠标，键盘单品价格 599 元、鼠标单品价格 299 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/567MGgM\" target=\"_blank\" data-wapurl=\"https://u.jd.com/567CAKc\" data-iosurl=\"https://u.jd.com/5D7Gxj5\" data-androidurl=\"https://u.jd.com/5DRhxEP\" data-hosnexturl=\"https://u.jd.com/5r7CjN7\" data-hosurl=\"https://u.jd.com/5r7aU6a\" data-uwpurl=\"https://u.jd.com/517I91U\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5r7LEBa%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/517Mw37\" data-lpwxurl=\"https://u.jd.com/5g7CgCG\"   data-ncid=\"257956\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/540019/21/12872/78161/6ad5bdf4F4f0aef47/008332032052f1d2.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">八位堂 Retro 87 机械键盘《战争机器：事变日》联名版</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 599 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5G7Oaid\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5O7b2Ye\" data-iosurl=\"https://u.jd.com/567zOsu\" data-androidurl=\"https://u.jd.com/5G7MPIh\" data-hosnexturl=\"https://u.jd.com/567ieYk\" data-hosurl=\"https://u.jd.com/5O7O9py\" data-uwpurl=\"https://u.jd.com/5G7bjrk\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f517bvob%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/517KfDL\" data-lpwxurl=\"https://u.jd.com/5a7MRO8\"   data-ncid=\"257956\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/533825/24/10414/275190/6ad74e57F1d4d0492/00835a05a0b780f1.jpg\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">八位堂 Retro R8 鼠标《战争机器：事变日》联名版</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 299 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"d5f2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/50b7f1ab-e189-410c-b6ae-98eaa283eebb.png\" w=\"798\" h=\"908\" data-weibo=\"0\" data-vmark=\"e4fe\" class=\"no-alt-img\"></p><p data-vmark=\"4597\">这两款产品均得到 XBOX 官方授权，号称将《战争机器：事变日》的战场印记融入鼠标和键盘。其整体采用红黑配色，带有游戏 Logo。</p><p data-vmark=\"ad6c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4b86bef9-010e-4154-ab44-e911bd57672b.png\" w=\"526\" h=\"938\" data-weibo=\"1\" data-vmark=\"d0f5\" class=\"no-alt-img\"></p><p data-vmark=\"f1c0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5dd6b996-ab4b-49df-89ea-224e249bbaf7.png\" w=\"662\" h=\"1198\" data-weibo=\"2\" data-vmark=\"e2ce\" class=\"no-alt-img\"></p><p data-vmark=\"1385\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/99462bf9-d8e4-408e-aa4e-a5b80ae5dcd6.png\" w=\"654\" h=\"1382\" data-weibo=\"3\" data-vmark=\"8d96\" class=\"no-alt-img\"></p><p data-vmark=\"e489\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/840e43f5-0f2d-4da8-a373-bbbeb5c2ce02.png\" w=\"564\" h=\"980\" data-weibo=\"4\" data-vmark=\"c77a\" class=\"no-alt-img\"></p><p data-vmark=\"eaf0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/634949d7-7c10-450d-96ce-47f78a44b105.png\" w=\"562\" h=\"1032\" data-weibo=\"5\" data-vmark=\"10f4\" class=\"no-alt-img\"></p><p data-vmark=\"cdec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b0d69487-b8e5-4b5c-9197-6f91d5b6f4dc.png\" w=\"552\" h=\"880\" data-weibo=\"6\" data-vmark=\"d21a\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/599.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/599.htm"
+    },
+    {
+      "id": 3561,
+      "title": "盛色推出“OF24QC”23.8 英寸显示器：2K 100Hz，595 元",
+      "summary": "IT之家 10 月 25 日消息，盛色现已在京东上架型号为“OF24QC”的 23.8 英寸显示器，该机主打 2K 100Hz，定价为 595 元，部分地区国补后低至 513 元。 京东 SANC“OF24QC”显示器券后 595 元领 90 元券 该机配备一块 2560x1440 分辨率 100Hz IPS 面板，峰值亮度 280 尼特，静态对比度 1300:1，显示器支持 8-Bit 色彩，覆盖 120% sRGB 色域容积。 该机采用固定支架，显示器本体支持 VESA ",
+      "content": "<p data-vmark=\"9980\">IT之家 10 月 25 日消息，盛色现已在京东上架型号为“OF24QC”的 23.8 英寸显示器，该机主打 2K 100Hz，定价为 595 元，部分地区国补后低至 513 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5r7t9UX\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5O7aAT7\" data-iosurl=\"https://u.jd.com/5a7sNUk\" data-androidurl=\"https://u.jd.com/517CbZV\" data-hosnexturl=\"https://u.jd.com/5r7wnrL\" data-hosurl=\"https://u.jd.com/5g7Q10M\" data-uwpurl=\"https://u.jd.com/5a7OTNE\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5G7KLGm%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5g78tYs\" data-lpwxurl=\"https://u.jd.com/5O7Kiy9\"   data-ncid=\"257955\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/533432/2/11285/53098/6ac5ff41Fd27e5dcb/0083320320ab6c53.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> SANC“OF24QC”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 595 元</span><span class=\"card-btn-deep\">领 90 元券</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"95a0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d74e5a72-2cfa-4373-adb8-05c1d5c1245c.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"1252\" data-weibo=\"0\" data-vmark=\"a002\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"a87c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b331d3c0-b38f-4c1f-9d85-63d7ceb453f5.png?x-bce-process=image/format,f_auto\" w=\"796\" h=\"1276\" data-weibo=\"1\" data-vmark=\"727f\" class=\"no-alt-img\"></p><p data-vmark=\"e078\">该机配备一块 2560x1440 分辨率 100Hz IPS 面板，峰值亮度 280 尼特，静态对比度 1300:1，显示器支持 8-Bit 色彩，覆盖 120% sRGB 色域容积。</p><p data-vmark=\"0fcd\">该机采用固定支架，显示器本体支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4 接口。</p><p style=\"text-align: center;\" data-vmark=\"3e8a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5e4e729b-7766-4117-9da5-04a302df9a2e.png?x-bce-process=image/format,f_auto\" w=\"872\" h=\"1426\" data-weibo=\"2\" data-vmark=\"5596\" class=\"no-alt-img\"></p><p data-vmark=\"9493\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"5439\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2435b1d7-ca81-4dd6-9003-73ad8c719f2d.png?x-bce-process=image/format,f_auto\" w=\"668\" h=\"1394\" data-weibo=\"3\" data-vmark=\"4eaf\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/596.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/596.htm"
+    },
+    {
+      "id": 3562,
+      "title": "苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方",
+      "summary": "IT之家 10 月 25 日消息，今日宜休科技公司创始人王腾今日发文，谈及了 iPhone Duo 破发这一话题。他表示： 上手体验了下 iPhone Duo，整体还是挺精致的，但相比小米、华为的阔折叠并没有什么特别领先的地方。 今天依托优秀的工程师团队和强大的产业链资源，中国的科技团队，在大多数领域都能做出不逊于海外友商，甚至是更好的产品，手机是这样，睡眠科技产品也会是如此。 据IT之家早些时候报道，综合各大平台网友反馈，苹果 iPhone Duo 在国内部分区域出现“破发",
+      "content": "<p data-vmark=\"d19b\">IT之家 10 月 25 日消息，今日宜休科技公司创始人王腾今日发文，谈及了 iPhone Duo 破发这一话题。他表示：</p><blockquote><p data-vmark=\"40e2\">上手体验了下 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/95a3d3f0-d11d-405e-9ab4-b47e37893402.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68067\">iPhone Duo</span>，整体还是挺精致的，<strong>但相比小米、华为的阔折叠并没有什么特别领先的地方</strong>。</p><p data-vmark=\"adfd\">今天依托优秀的工程师团队和强大的产业链资源，<strong>中国的科技团队，在大多数领域都能做出不逊于海外友商，甚至是更好的产品</strong>，手机是这样，睡眠科技产品也会是如此。</p></blockquote><p style=\"text-align: center;\" data-vmark=\"813c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b4c19bcf-f7b1-4218-83c5-f94a60213da8.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"977\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d17e163b595dbad4dce5bdb121f0e5087c4f74f1336eb441fbc8b9ac84dcfa4be14cd290f08cff53fc\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1654901425%2FRoik9FfJ3%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"17d3\" class=\"no-alt-img\"></p><p data-vmark=\"e12e\">据IT之家早些时候报道，综合各大平台网友反馈，<a target=\"_blank\" href=\"https://www.ithome.com/1/017/593.htm\">苹果 iPhone Duo 在国内部分区域出现“破发”情况</a>，同时当下拼多多已将该机上架百亿补贴频道（注：仅部分地区能看到），相对于上市价格便宜约 200-300 元。</p><p data-vmark=\"73eb\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/1/016/621.htm\">苹果首款折叠屏手机 iPhone Duo 已于 10 月 23 日发售</a>，国行定价 15,999 元起。该机采用书本式内折设计，闭合时外屏为 5.4 英寸、展开后内屏为 7.6 英寸，搭载台积电 2nm 工艺的 A20 Pro 芯片，宣称持续性能较 iPhone 17 Pro 提升最多 35%。</p><p style=\"text-align: center;\" data-vmark=\"e5b8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/69e15765-242d-4b8c-81a1-c53323bf9387.jpg?x-bce-process=image/format,f_auto\" w=\"1132\" h=\"637\" data-vmark=\"8199\"  data-mpos=\"0,2\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/594.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/594.htm"
+    },
+    {
+      "id": 3563,
+      "title": "雷神 ZERO Air 15 双十一大促：12499 元起，轻至 1.54kg 兼顾便携与性能释放",
+      "summary": "IT之家 10 月 25 日消息，双十一大促已经开启，笔记本产品也迎来新一轮优惠。此前在 CES 2026 上，雷神推出了面向未来的“轻型”游戏本新品 —— 雷神 ZERO Air。官方表示，该系列产品希望在兼顾便携性的同时，保留游戏本的性能表现，其中雷神 ZERO Air 15 在 1.54kg 的机身内实现了 160W 性能释放，并搭载第三代英特尔酷睿 Ultra 处理器以及 RTX 50 系列独立显卡。 目前，雷神 ZERO Air 15 在双十一期间价格调整，国补后售",
+      "content": "<p data-vmark=\"3945\">IT之家 10 月 25 日消息，双十一大促已经开启，笔记本产品也迎来新一轮优惠。此前在 CES 2026 上，雷神推出了面向未来的“轻型”游戏本新品 —— 雷神 ZERO Air。官方表示，该系列产品希望在兼顾便携性的同时，保留游戏本的性能表现，其中雷神 ZERO Air 15 在 1.54kg 的机身内实现了 160W 性能释放，并搭载第三代英特尔酷睿 Ultra 处理器以及 RTX 50 系列独立显卡。</p><p style=\"text-align: center;\" data-vmark=\"9510\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f29a632d-0fc0-45df-a17c-eee969e34f5c.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"0\" data-vmark=\"3abe\" class=\"no-alt-img\"></p><p data-vmark=\"8453\">目前，雷神 ZERO Air 15 在双十一期间价格调整，国补后售价为 12499 元，低于此前 14999 元起的定价。对于希望选择一款兼顾移动办公、游戏以及创作需求的用户来说，这款轻型游戏本可以作为购机选择。</p><p data-vmark=\"de08\">设计方面，雷神 ZERO Air 15 主打轻量化机身，整机重量约 1.54kg，厚度薄至 15.9mm。机身采用全链路减重设计，外壳选用航空级镁合金，相比普通材质强度提升 21%，加强筋结构带来出色抗扭性能；搭配定制轻量化主板，同时完成散热系统重构，采用 VC 架构散热方案实现 8.3% 的减重。机身表面采用准分子 UV 肤感漆工艺，经过三涂三烤与 12 道工序完成准分子真空紫外固化，拥有哑光类肤质感，达到 4H 硬度，具备抗指纹特性，触感细腻，长时间使用外观依旧清爽。</p><p style=\"text-align: center;\" data-vmark=\"89d0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fdfada18-850f-4a87-93c2-856ce92a487b.png?x-bce-process=image/format,f_auto\" w=\"602\" h=\"1154\" data-weibo=\"1\" data-vmark=\"9202\" class=\"no-alt-img\"></p><p data-vmark=\"e35c\">性能方面，雷神 ZERO Air 15 搭载第三代英特尔酷睿 Ultra 7 356H 处理器，采用 16 核 16 线程设计，最高睿频 4.7GHz，并内置 NPU，支持 AI 相关应用。显卡方面，配备 NVIDIA GeForce RTX 5060 Laptop GPU，基于 Blackwell 架构，拥有 8GB GDDR7 显存，支持 115W 满功耗释放，并提供 3328 个 CUDA 核心以及 572TOPS AI 算力。</p><p data-vmark=\"99bc\">为了支撑处理器和显卡性能释放，该机采用 Aero 真空腔散热系统，配备 VC 真空腔均热板、定制风扇以及相变硅脂等散热组件，官方数据显示整机 CPU+GPU 可实现最高 160W 性能输出。</p><p data-vmark=\"56ac\">屏幕方面，雷神 ZERO Air 15 配备 15.3 英寸 OLED 屏幕，分辨率为 2560×1600，刷新率 165Hz，支持 100% DCI-P3 色域、10bit 色深以及 HDR 显示，并经过出厂校色。内存与存储方面，机器搭载 32GB DDR5 内存和 1TB SSD，同时提供双 SO-DIMM 内存插槽以及双 M.2 硬盘位，方便后续升级。</p><p style=\"text-align: center;\" data-vmark=\"6480\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5cf182c4-c902-4537-b4ab-1aacac9d55b7.png?x-bce-process=image/format,f_auto\" w=\"1268\" h=\"846\" data-weibo=\"2\" data-vmark=\"f32a\" class=\"no-alt-img\"></p><p data-vmark=\"46a6\">其他配置方面，该机支持独显直连、混合输出以及核显输出三种模式切换，配备全尺寸 RGB 背光键盘、独立数字小键盘、类玻璃触控板以及带物理遮挡开关的摄像头。接口方面提供 RJ45 网口、USB-A、USB-C 等接口，并搭配 250W 轻量化 SiC 电源适配器。</p><p style=\"text-align: center;\" data-vmark=\"26cd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/45cd0a02-6182-4106-8908-8351e0eed32e.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"3\" data-vmark=\"3d2d\" class=\"no-alt-img\"></p><p data-vmark=\"254d\">双十一期间，雷神 ZERO Air 15 国补后售价为 12409 元，同时附带雷神休闲背包、加速器季卡以及 Microsoft 365 个人版三个月订阅等权益。</p><p data-vmark=\"ea26\"><strong>相关阅读：</strong></p><p data-vmark=\"ba05\">《<a href=\"https://www.ithome.com/0/938/685.htm\" target=\"_blank\">雷神 ZERO Air 15 游戏本体验：设计夯，性能狂，1.54kg 和 160W 兼得</a>》</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5r7KJla\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GRxcOH\" data-iosurl=\"https://u.jd.com/5GRk0TA\" data-androidurl=\"https://u.jd.com/5D7L8ZC\" data-hosnexturl=\"https://u.jd.com/5OR5avI\" data-hosurl=\"https://u.jd.com/5GR58Zq\" data-uwpurl=\"https://u.jd.com/5G7tyjQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5r7KaCC%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/567iQ7V\" data-lpwxurl=\"https://u.jd.com/5D7KlBV\"   data-ncid=\"257946\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/528320/24/12537/1443051/6adc2c2bFe9d26fe5/00837d07d0cf83bb.png\" w=\"2000\" h=\"2000\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">雷神 ZEROAir 15“小轻龙”游戏笔记本电脑（</span></span><span class=\"card-abstract\">英特尔酷睿 Ultra 7 356H RTX5060 32G 1T OLED 黑）国家补贴</span><span class=\"card-controls\"><span class=\"price\"> 12499 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/591.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/591.htm"
+    },
+    {
+      "id": 3564,
+      "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+      "summary": "IT之家 10 月 25 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况： 采用新一代折叠架构，强度更高，更抗冲击 同时带来超强折痕控制，平均折痕深度 ≤30μm 据IT之家此前报道，小米 18 Fold 中折叠手机发布于 9 月 7 日，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕卡专业三摄，售价 10999 元起。 小米集团合伙人 / 总裁、手机部总裁、小米品牌",
+      "content": "<p data-vmark=\"525a\">IT之家 10 月 25 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况：</p><blockquote><p data-vmark=\"4906\"><strong>采用新一代折叠架构</strong>，强度更高，更抗冲击</p><p data-vmark=\"cd81\">同时带来超强折痕控制，<strong>平均折痕深度 ≤30μm</strong></p></blockquote><p data-vmark=\"8468\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/21486d7f-dcdd-4c0d-9720-840226da4228.png\" w=\"800\" h=\"1807\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1892653244%2FRogY5tcBJ%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"9a7f\" class=\"no-alt-img\"></p><p data-vmark=\"dbc6\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/441.htm\">小米 18 Fold 中折叠手机发布于 9 月 7 日</a>，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕卡专业三摄，售价 10999 元起。</p><p data-vmark=\"b32f\">小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰还在 9 月下旬的小米秋季新品发布会上宣布，小米 18 Fold 首销零售量同比上代大折叠增长 300%。</p><p data-vmark=\"cc01\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c6ed9736-ca64-40a8-92e3-d0305902f622.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1280\" h=\"960\" data-vmark=\"4414\" data-mpos=\"0,2\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/579.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/579.htm"
+    },
+    {
+      "id": 3565,
+      "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+      "summary": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。 IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸： 大容量电池：2962 mAh（11.56 Wh） 小容量电池：1921 mAh（7.5 Wh） 总容量：4883 mAh REWA 的视频给出了主板元件标注：板载 A20 Pro 芯片",
+      "content": "<p data-vmark=\"f059\">IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。</p><p data-vmark=\"1e43\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c6d94ce5-7367-4b98-9c2d-654031b583b3.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"5998\" data-mpos=\"0,2\"  class=\"no-alt-img\"></p><p data-vmark=\"968f\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV1ujHA61Eik&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"3f43\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV19qHM6vEto&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"ecf8\">IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"873f\">大容量电池：2962 mAh（11.56 Wh）</p></li><li><p data-vmark=\"6e50\">小容量电池：1921 mAh（7.5 Wh）</p></li><li><p data-vmark=\"79a3\">总容量：4883 mAh</p></li></ul><p data-vmark=\"1064\">REWA 的视频给出了主板元件标注：板载 A20 Pro 芯片 + C2 蜂窝基带等核心组件。</p><p data-vmark=\"92d4\"><strong>维修难点与模块化设计</strong></p><p data-vmark=\"15e1\">1. Touch ID 按键：理论上可以单独拆下维修，但拆解难度很高；</p><p data-vmark=\"11d4\">2. USB‑C 充电口：采用完全模块化设计，接口可以单独更换，维修更友好；</p><p data-vmark=\"efbf\">3. 网络制式：全球版本全部仅支持 eSIM，无实体 SIM 卡槽。</p><p data-vmark=\"080a\">维修网站 iFixit 会在未来几天发布更详尽的完整拆解与深度评测，值得持续关注。另外，苹果已经正式对外发布了 iPhone Duo 官方维修手册。</p>",
+      "link": "https://www.ithome.com/1/017/578.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/578.htm"
+    },
+    {
+      "id": 3566,
+      "title": "为给数据中心腾出电网容量，谷歌付费让家庭、企业减少用电",
+      "summary": "IT之家 10 月 25 日消息，AI 数据中心的用电需求持续增长，科技公司却越来越难找到足够的电力。为解决供电难题，谷歌选择了另一条路：通过付费的方式间接鼓励家庭和企业在特定时段减少用电，为数据中心腾出更多电网容量。 当地时间 22 日，据《纽约时报》报道，谷歌与能源服务公司 Voltus 达成协议，将在美国大西洋中部地区的 PJM 电网建立一座“虚拟电厂”。按照协议，Voltus 将在有需要时为谷歌释放最多 1070MW 的电力容量，规模相当于一座大型核反应堆的发电功率。",
+      "content": "<p data-vmark=\"8076\" style=\"text-align: start;\">IT之家 10 月 25 日消息，AI 数据中心的用电需求持续增长，科技公司却越来越难找到足够的电力。为解决供电难题，谷歌选择了另一条路：通过付费的方式<strong>间接鼓励家庭和企业在特定时段减少用电</strong>，为数据中心腾出更多电网容量。</p><p data-vmark=\"cb56\" style=\"text-align: start;\">当地时间 22 日，据《纽约时报》报道，谷歌与能源服务公司 Voltus 达成协议，将在美国大西洋中部地区的 PJM 电网建立一座“虚拟电厂”。按照协议，Voltus 将在有需要时为谷歌释放<strong>最多 1070MW 的电力容量</strong>，规模相当于一座大型核反应堆的发电功率。</p><p data-vmark=\"709a\" style=\"text-align: start;\">虚拟电厂并不依靠新建发电厂供电。Voltus 将招募家庭和企业，通过经济奖励来鼓励<strong>在用电高峰或电网供电紧张时减少电力消耗</strong>。部分调整支持自动完成，例如让智能温控器在夏季用电高峰时<strong>适当降低空调制冷强度</strong>，或使用储能电池临时供电。</p><p data-vmark=\"93ed\" style=\"text-align: start;\">每户家庭或每家企业能够腾出的电力容量都不多，但只要汇集数千家企业和家庭的节电能力，便能在用电需求最高时为电网释放大量容量。Voltus 称，整个计划只需几年便可达到预期规模，并保证在需要时提供足够的容量。</p><p data-vmark=\"9c02\" style=\"text-align: start;\">谷歌南北美洲能源市场开发负责人埃伦 · 祖克曼说：“我们确实把虚拟电厂视为关键的短期解决方案。通过这种方式，我们既能投资当地社区，进一步推进清洁能源目标，也能迅速、大规模地满足供电容量需求。”</p><p data-vmark=\"a170\" style=\"text-align: start;\">随着新建数据中心不断增加，美国各地的反对声浪也在加大。许多选民担心，耗电量庞大的数据中心会使当地电网不堪重负，<strong>甚至推高居民电价</strong>。</p><p data-vmark=\"6c14\" style=\"text-align: start;\">谷歌没有披露与 Voltus 合作的具体金额，仅称这笔交易是迄今科技巨头付费获取电网容量的最大规模项目之一。据IT之家了解，除虚拟电厂外，谷歌也在投资核能等技术，并研究如何在用电高峰时减少自身数据中心的电力消耗。</p>",
+      "link": "https://www.ithome.com/1/017/561.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/561.htm"
+    },
+    {
+      "id": 3567,
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+      "summary": "IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音模型 Dessa，支持本地运行，能模拟笑声、停顿、哽咽等情绪表达，听感高度拟人。官方介绍，Dessa 完全基于人类语音数据训练，训练过程仅使用了一组英伟达 GPU 机架。 Dessa 属于全双工模型，和 OpenAI 今年早些时候发布的 GPT-Live 一样，可以一边说话一边收听用户语音。主流语音模型一般需要搭配大语言模型来调取知识",
+      "content": "<p data-vmark=\"1373\">IT之家 10 月 25 日消息，Twitter 联合创始人杰克 · 多尔西（Jack Dorsey）旗下的 Block 公司推出了一款全新语音模型 Dessa，支持本地运行，能模拟笑声、停顿、哽咽等情绪表达，听感高度拟人。官方介绍，Dessa 完全基于人类语音数据训练，训练过程仅使用了一组英伟达 GPU 机架。</p><p data-vmark=\"6c48\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9c88ba0f-a142-440a-af64-c61df188ab5f.jpg\" w=\"730\" h=\"395\" data-weibo=\"0\" data-vmark=\"d0ed\" class=\"no-alt-img\"></p><p data-vmark=\"281d\">Dessa 属于全双工模型，和 OpenAI 今年早些时候发布的 GPT-Live 一样，可以一边说话一边收听用户语音。主流语音模型一般需要搭配大语言模型来调取知识；Block 称，Dessa 自身的知识来源于其训练所用的对话数据。</p><p data-vmark=\"9c11\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV1JVHw6ZEwt&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"3478\">Block 表示，现有语音 AI 体验经常生硬、违和，根源在于生成链路要先转成文本，再由文本驱动语音合成。ElevenLabs v4、Fish Audio Drama 3 等不少模型依靠语音标签来控制情绪。而这家多尔西的公司宣称，情绪表达是模型原生内置的，不过目前尚不清楚它底层是否仍然依靠某种标签来调控情绪。</p><p data-vmark=\"d96b\">Block 在博客中写道：“现在的语音 AI 交互体验实在糟糕。它先把你的语音转成文字，大量文字承载不了的信息直接丢失。即便是全球最强的 AI，也听不出你的情绪。我们认为这很不合理，不仅体验差，还存在潜在风险。”</p><p data-vmark=\"baaa\"><a target=\"_blank\" href=\"https://block.xyz/dessa\">研究团队放出了多段和 Dessa 的对话样例</a>，这个智能体可以切换音色、语速与情绪。比如有一段对话里，AI 说自己工作很累，发声状态也同步带上疲惫感。</p><p data-vmark=\"5e88\">还有一段示例中，AI 聊到对方带给自己安心的感受，语气带着情绪，近乎哽咽。另外一段演示是 Block 的员工和这个语音助手玩游戏。</p><p data-vmark=\"0286\">官方说明，该模型可以在消费级电脑本地运行，设备门槛为 M4 Max 及更高配置的 MacBook。但现阶段 Dessa 暂不对外开放试用，Block 正向安全研究者发出测试邀请，重点测试这类语音智能体欺骗人类的风险场景。</p><p data-vmark=\"ba4d\">据IT之家了解，Block 的主营业务是金融服务，面向小微企业提供解决方案，旗下 Square 已经在用语音 AI 处理下单业务。自研这款可端侧运行的语音模型之后，Block 有望以更低成本，落地更多面向商户与普通用户的语音产品。</p>",
+      "link": "https://www.ithome.com/1/017/557.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/557.htm"
+    },
+    {
+      "id": 3568,
+      "title": "曝三星开展内部测试：Exynos 2700 跑分优于搭载高通旗舰芯片的机型",
+      "summary": "IT之家 10 月 25 日消息，三星电子计划于明年初推出 Galaxy S27 系列旗舰手机，预计搭载自研处理器 Exynos 2700。据韩媒《Financial News》今天（25 日）上午报道，该芯片在三星内部性能测试中击败了高通最新旗舰处理器。 测试结果显示，Exynos 2700 在 CPU 和 GPU 性能方面均领先高通产品，外界对三星自研手机处理器重振竞争力的期待随之升温。 业内消息称，三星近期使用小米 18 Pro Max 进行内部跑分测试。结果显示，Ex",
+      "content": "<p data-vmark=\"6480\">IT之家 10 月 25 日消息，三星电子计划于明年初推出 Galaxy S27 系列旗舰手机，预计搭载自研处理器 Exynos 2700。据韩媒《Financial News》今天（25 日）上午报道，该芯片在三星内部性能测试中<strong>击败了高通最新旗舰处理器</strong>。</p><p data-vmark=\"8107\">测试结果显示，Exynos 2700 在 CPU 和 GPU 性能方面均领先高通产品，外界对三星自研手机处理器重振竞争力的期待随之升温。</p><p data-vmark=\"076b\">业内消息称，三星近期使用小米 18 Pro Max 进行内部跑分测试。结果显示，Exynos 2700 的性能<strong>超过了高通第六代骁龙 8 超级至尊版</strong>。</p><p data-vmark=\"9450\">IT之家从数据中获悉，在 Geekbench 6.5 测试中，<strong>Exynos 2700 的 CPU 多核得分约为 13000 分，高通芯片约为 11000 分</strong>，前者领先约 20%。</p><p data-vmark=\"e3da\">在 Geekbench 7.0 测试中，三星芯片也领先约 15%。如果与定位稍低的第六代骁龙 8 至尊版相比，Exynos 2700 在两项测试中的领先幅度分别扩大至 44% 和 36%。</p><p data-vmark=\"9518\">图形性能测试同样由 Exynos 2700 占优。在大型游戏的图形峰值性能测试中，三星芯片的得分比高通旗舰型号<strong>高出约 20%</strong>；在常见大型 3D 游戏的基础图形运算测试中，<strong>领先幅度约为 5%</strong>。</p><p data-vmark=\"7f31\">Exynos 系列是三星电子系统 LSI 事业部自主设计的手机处理器，承担计算、图形处理等核心任务。上一代 Exynos 2600 已用于部分 Galaxy S26 系列机型以及 Galaxy Z Flip8。</p><p data-vmark=\"d7fa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/676ebf01-3522-44fd-ae2c-1e1e2989d82f.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"474\" alt=\"삼성전자의 모바일 AP(애플리케이션프로세서) '엑시노스 2600'. 삼성 유튜브\" data-weibo=\"0\" data-vmark=\"0f70\" class=\"no-alt-img\"></p><figcaption>▲ Exynos 2600</figcaption><p data-vmark=\"eeed\">Exynos 2700 计划采用三星晶圆代工事业部的第二代 2nm 工艺（SF2P）量产，并有望通过改进散热块封装技术，降低芯片发热量，进一步提升性能。</p>",
+      "link": "https://www.ithome.com/1/017/556.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/556.htm"
+    },
+    {
+      "id": 3569,
+      "title": "华为 Mate 90 RS / Pro Max 典藏版推 HarmonyOS 7.0.0.111SP13 升级，优化与睿影 Z10 模块相机连接",
+      "summary": "IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿蒙 HarmonyOS 7.0.0.111SP13 版本升级。系统包大小约 722.38MB，智慧修图人像大片推荐能力升级，支持修图后二次调节精修效果，同时畅连支持当面快速建群。 ▲ IT之家实拍：华为 Mate 90 Pro Max 典藏版 IT之家附华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版此次更新内容如下： 图库 智",
+      "content": "<p data-vmark=\"e43e\">IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿蒙<strong> HarmonyOS 7.0.0.111SP13</strong> 版本升级。系统包大小约 722.38MB，智慧修图人像大片推荐能力升级，支持修图后二次调节精修效果，同时畅连支持当面快速建群。</p><p data-vmark=\"8156\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1925db72-ebd2-4473-a0c4-c525b369e902.jpg\" w=\"1440\" h=\"810\" data-marks=\"1931fd9d012eb6d140b1c8051e169fee9eaeb00be2117c1d3b3105eb2fb6d22f7b475ac4f4ad1adcfddcf377e754af72\" data-vmark=\"3022\" data-mpos=\"0,0\" class=\"no-alt-img\"></p><figcaption>▲ IT之家实拍：华为 Mate 90 Pro Max 典藏版</figcaption><p data-vmark=\"3eac\">IT之家附华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版此次更新内容如下：</p><blockquote><h3 data-vmark=\"e0b3\">图库</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef61\">智慧修图人像大片主动推荐能力升级，支持修图后二次调节精修效果。</p></li></ul><h3 data-vmark=\"ac0d\">畅连</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"d7b4\">支持当面快速建群，和身边朋友选择相同进群口令或者通过碰一碰邀请，快速进入同一个群聊（参与方均需支持该功能）。</p></li></ul><h3 data-vmark=\"377b\">相机</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1bce\">优化相机在烟花拍摄、长焦等场景的拍摄稳定性，提升成像质量与拍摄体验。</p></li></ul><h3 data-vmark=\"16f9\">桌面</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"cba3\">优化桌面部分场景稳定性。</p></li></ul><h3 data-vmark=\"0e05\">小艺</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"b53d\">优化小艺输入法键盘输入操作体验。</p></li></ul><h3 data-vmark=\"6916\">系统</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"843d\">1.优化通信共享设备连接体验。</p></li><li><p data-vmark=\"9cb2\">2.优化整机系统稳定性，让您的设备运行更稳定。</p></li></ul><h3 data-vmark=\"f5d8\">系统扩展特性</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1683\">对系统扩展特性进行同步更新，增强特性功能，提升用户体验。</p></li></ul></blockquote><p data-vmark=\"3412\">此次 Mate 90 RS / Pro Max 典藏版的新版本更新日志与此前 Mate 90 系列手机统一推送的“7.0.0.111 SP12”版本保持一致。但据用户反馈，<strong>该版本实际上优化了与华为睿影 Z10 模块相机的连接体验</strong>，此前有用户反馈在更新 111 SP12 版本后无法连接睿影 Z10（概率性复现）。</p><p data-vmark=\"0aa6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/169caa73-98ce-46e0-b7f9-3278f8e57943.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"2415\" data-mpos=\"1,1\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d14a23adffa98443262ab48d3a7f65b8a98ef982a9dfbc4add8b09bb1484ccb5c5216240735154841d\" data-vmark=\"c9e6\" class=\"no-alt-img\"></p><p data-vmark=\"9176\">参考IT之家此前报道，华为睿影 Z10 模块相机代号“金刚”，集成红枫等多种传感器，支持与手机 SoC 协同，通过软硬芯 AI 协同 + 智能融合对焦，实现对焦快、准、稳；拥有独立光学防抖模块，与麒麟芯片协同，可实现旗舰级防抖体验。</p><p data-vmark=\"712a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3552aca1-4ff1-488d-9b50-b944e627a390.jpg\" w=\"1440\" h=\"1080\" data-vmark=\"28ca\" data-mpos=\"2,2\" data-weibo=\"2\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/555.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/555.htm"
+    },
+    {
+      "id": 3571,
+      "title": "GeForce Unlocked: Modders Boost RTX 30 and RTX 40 Compute Performance by Up to 2x",
+      "summary": "NVIDIA's GeForce RTX 30-series and RTX 40-series graphics cards are based on the same dies as their professional-grade GPUs. This means the compute potential of consumer-oriented RTX GPUs is restricted by NVIDIA's firmware stack, but modder",
+      "content": "NVIDIA's GeForce RTX 30-series and RTX 40-series graphics cards are based on the same dies as their professional-grade GPUs. This means the compute potential of consumer-oriented RTX GPUs is restricted by NVIDIA's firmware stack, but modders have managed to unlock the instruction issuing rate equivalent to their professional GPU counterparts. Starting with the GeForce RTX 30-series &quot;Ampere,&quot; a researcher developed an unlock that effectively doubles the instruction issuing speed of FP/BF16 FMA into FP32 operations on GA102, GA103, GA104, and GA106 cards. As a result, cards like the GeForce RTX 3090 Ti experience up to 80% faster matrix multiplication in BF16, which is crucial for running nearly all neural networks. The unlock supports GA102, GA103, GA104, and GA106-based GeForce RTX graphics cards.<br />\r\n<br />\r\nNext, we have the GeForce RTX 40-series &quot;Ada Lovelace&quot; with another project that has demonstrated a massive 2× speedup in FP16 and BF16 tensor throughput with FP32 accumulation. When the GeForce RTX 4090 was tested with FP16 tensor throughput and matrix accumulation, the GPU achieved 165.6 TeraFLOPS, while the unlock pushed that number to 331.6 TeraFLOPS. This is intriguing as these computational performance numbers are typically reserved for the higher-end professional segment like the NVIDIA RTX 6000 &quot;Ada Lovelace.&quot; It seems NVIDIA artificially limited the AD102 silicon's performance in compute-sensitive matrix multiplication and accumulation, affecting the performance of running large language models. For this unlock, AD102, AD103, and AD106 are officially unlocked.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/6x8MrJbTI4GhYSDg.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/6x8MrJbTI4GhYSDg_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/pict3GBzwr7215dr.jpg\" target=\"_blank\" data-width=\"1724\" data-height=\"733\" ><img src=\"https://tpucdn.com/img/pict3GBzwr7215dr_thm.jpg\" width=\"306\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/2FLMeuQGBDIeQxzc.jpg\" target=\"_blank\" data-width=\"1539\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/2FLMeuQGBDIeQxzc_thm.jpg\" width=\"208\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-30-and-rtx-40-compute-performance-by-up-to-2x\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-30-and-rtx-40-compute-performance-by-up-to-2x",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "1228b517bbaf28bad5fbf04cf81bbebc"
+    },
+    {
+      "id": 3573,
+      "title": "Adam Audio unveils flagship H715 Reference open-back headphones for accurate monitoring",
+      "summary": "Adam Audio has launched the H715 Reference, its flagship open-back studio headphones featuring 40 mm titanium-plated drivers and a 9 Hz to 40 kHz frequency response for precise audio monitoring. Its Headphone Utility Plug-In enables speaker",
+      "content": "Adam Audio has launched the H715 Reference, its flagship open-back studio headphones featuring 40 mm titanium-plated drivers and a 9 Hz to 40 kHz frequency response for precise audio monitoring. Its Headphone Utility Plug-In enables speaker-like stereo imaging and accurate mix evaluation for music producers and audio engineers.",
+      "link": "https://www.notebookcheck.net/Adam-Audio-unveils-flagship-H715-Reference-open-back-headphones-for-accurate-monitoring.1433434.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Adam-Audio-unveils-flagship-H715-Reference-open-back-headphones-for-accurate-monitoring.1433434.0.html"
+    },
+    {
+      "id": 3574,
+      "title": "Xiaomi launches affordable 300Hz gaming monitor with AMD FreeSync Premium",
+      "summary": "The Redmi G25 2027 gaming monitor has been unveiled in China, and at its core, it's an affordable gaming monitor with a 300Hz refresh rate. Its Fast IPS panel also has AMD FreeSync support and DisplayHDR 400 certification. The retail price ",
+      "content": "The Redmi G25 2027 gaming monitor has been unveiled in China, and at its core, it's an affordable gaming monitor with a 300Hz refresh rate. Its Fast IPS panel also has AMD FreeSync support and DisplayHDR 400 certification. The retail price is CNY 799, around $120.",
+      "link": "https://www.notebookcheck.net/Xiaomi-launches-affordable-300Hz-gaming-monitor-with-AMD-FreeSync-Premium.1433430.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Xiaomi-launches-affordable-300Hz-gaming-monitor-with-AMD-FreeSync-Premium.1433430.0.html"
+    },
+    {
+      "id": 3575,
+      "title": "Affordable AMD-powered Acemagic mini PC launches with port-rich chassis",
+      "summary": "Acemagic has launched the W1-5400U, an affordable mini PC powered by the AMD Ryzen 3 5400U. It's available with up to 16GB of LPDDR4 RAM, and there are two M.2 slots for SSDs. The starting launch price is CNY 1,599, about $234.",
+      "content": "Acemagic has launched the W1-5400U, an affordable mini PC powered by the AMD Ryzen 3 5400U. It's available with up to 16GB of LPDDR4 RAM, and there are two M.2 slots for SSDs. The starting launch price is CNY 1,599, about $234.",
+      "link": "https://www.notebookcheck.net/Affordable-AMD-powered-Acemagic-mini-PC-launches-with-port-rich-chassis.1433428.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-AMD-powered-Acemagic-mini-PC-launches-with-port-rich-chassis.1433428.0.html"
+    },
+    {
+      "id": 3576,
+      "title": "Samsung Exynos 2700 reportedly beats flagship Snapdragon by up to 20% in new tests",
+      "summary": "Samsung's upcoming Exynos 2700 has reportedly outperformed Qualcomm's Snapdragon 8 Elite Extreme Gen 6 by approximately 20% in internal CPU and GPU benchmarks. The alleged results also suggest a substantial advantage over the standard Snapd",
+      "content": "Samsung's upcoming Exynos 2700 has reportedly outperformed Qualcomm's Snapdragon 8 Elite Extreme Gen 6 by approximately 20% in internal CPU and GPU benchmarks. The alleged results also suggest a substantial advantage over the standard Snapdragon 8 Elite Gen 6.",
+      "link": "https://www.notebookcheck.net/Samsung-Exynos-2700-reportedly-beats-flagship-Snapdragon-by-up-to-20-in-new-tests.1433421.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Samsung-Exynos-2700-reportedly-beats-flagship-Snapdragon-by-up-to-20-in-new-tests.1433421.0.html"
+    },
+    {
+      "id": 3577,
+      "title": "Corsair’s new 1200W PSU features per-pin GPU power protection to address connector burning concerns",
+      "summary": "Corsair’s new $204.99 RM1200e is a fully modular 1200W PSU with PinProtect overcurrent protection, which monitors individual 12V-2x6 connector pins and shuts down the GPU when it detects excessive current. The feature aims to reduce connect",
+      "content": "Corsair’s new $204.99 RM1200e is a fully modular 1200W PSU with PinProtect overcurrent protection, which monitors individual 12V-2x6 connector pins and shuts down the GPU when it detects excessive current. The feature aims to reduce connector damage but does not replace regular inspections, and Corsair has not disclosed its activation thresholds or response times.",
+      "link": "https://www.notebookcheck.net/Corsair-s-new-1200W-PSU-features-per-pin-GPU-power-protection-to-address-connector-burning-concerns.1433124.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Corsair-s-new-1200W-PSU-features-per-pin-GPU-power-protection-to-address-connector-burning-concerns.1433124.0.html"
+    },
+    {
+      "id": 3578,
+      "title": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy",
+      "summary": "A new wrinkle has emerged in the cat-and-mouse game between Sony and hackers. Unlike Relapse, Prolapse is a kernel exploit that works on firmware 14.00 and 14.10. GTA 6 may boot with 14.10 on its release date, though the hypervisor bypass i",
+      "content": "A new wrinkle has emerged in the cat-and-mouse game between Sony and hackers. Unlike Relapse, Prolapse is a kernel exploit that works on firmware 14.00 and 14.10. GTA 6 may boot with 14.10 on its release date, though the hypervisor bypass isn't yet compatible with the PS5 jailbreak.",
+      "link": "https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html"
+    },
     {
       "id": 3477,
       "title": "全球手机销量暴跌：存储成本增长300% 厂商卖不动是必然",
@@ -829,6 +1335,93 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Asus-rushes-out-router-firmware-update-to-fix-critical-vulnerabilities.1433020.0.html"
+    },
+    {
+      "id": 3544,
+      "title": "科学家利用激光让晶体内部电极化瞬间有序 持续仅一万亿分之一秒",
+      "summary": "美国奥本大学的物理学家发现，短暂的激光脉冲能够在特定晶体内部诱导出有序的电极化状态，即使材料处于较高温度、内部微小极化区域通常仍然杂乱无章的情况下，也能实现这一变化。这一发现为研究材料内部极快的电学变化提供了新方法，未来可能有助于探索超高速信息处理与存储技术。 阅读全文",
+      "content": "<p>美国奥本大学的物理学家发现，短暂的激光脉冲能够在特定晶体内部诱导出有序的电极化状态，即使材料处于较高温度、内部微小极化区域通常仍然杂乱无章的情况下，也能实现这一变化。这一发现为研究材料内部极快的电学变化提供了新方法，未来可能有助于探索超高速信息处理与存储技术。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1583710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1583710.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1583710.htm"
+    },
+    {
+      "id": 3570,
+      "title": "ADT R27A-BK3 U.2 to PCIe Adapter Review",
+      "summary": "We test the cheap ADT R27A-BK3 card to see what the U.2 SSD to PCIe card slot adapter offers, and how the cooling works The post ADT R27A-BK3 U.2 to PCIe Adapter Review appeared first on ServeTheHome.",
+      "content": "<p>We test the cheap ADT R27A-BK3 card to see what the U.2 SSD to PCIe card slot adapter offers, and how the cooling works</p>\n<p>The post <a href=\"https://www.servethehome.com/adt-r27a-bk3-u-2-to-pcie-slot-review/\">ADT R27A-BK3 U.2 to PCIe Adapter Review</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/adt-r27a-bk3-u-2-to-pcie-slot-review/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=106063"
+    },
+    {
+      "id": 3572,
+      "title": "AMD EPYC 9996 Geekbench Listing Offers First Look at Zen 6 Single-Core Gains",
+      "summary": "AMD's Zen 6 just got one of its first rough per-clock comparisons against Zen 5, and the early numbers look good. Leaker HXL spotted a Geekbench 7.1.0 listing for the 256-core EPYC 9996, the flagship \"Venice\" chip AMD launched in July, scor",
+      "content": "AMD's Zen 6 just got one of its first rough per-clock comparisons against Zen 5, and the early numbers look good. <a rel=\"nofollow\" href=\"https://x.com/9550pro/status/2113648901882593543\" target=\"_blank\">Leaker HXL</a> spotted a Geekbench 7.1.0 listing for the 256-core EPYC 9996, the flagship &quot;Venice&quot; chip <a href=\"https://www.techpowerup.com/350648/amd-confirms-epyc-venice-zen-6-cpus-launch-on-july-22-23-at-advancing-ai-event\" target=\"_blank\">AMD launched in July</a>, scoring 2,847 points in single-core on a Dell PowerEdge R9815 server running Linux. User <a rel=\"nofollow\" href=\"https://x.com/326powah/status/2113673378599166428\" target=\"_blank\">three twenty six on X</a> then locked a Ryzen 7 9700X to 4.1 GHz, matching the EPYC 9996's maximum boost, and got 2,444 points on the same Geekbench version. That works out to roughly 16.5% higher single-core performance for Zen 6 at the same frequency. Apparently, Zen 6 came out ahead in all 15 single-core subtests, with gains ranging from 8.2% in File Compression to 25.7% in HTML5 Browser.<br />\r\n<br />\r\nOf course, these scores only give us a general idea about the gains. The EPYC 9996 uses the <a href=\"https://www.techpowerup.com/336647/amd-epyc-venice-leak-2-nm-zen-6-and-zen-6c-to-offer-up-to-256c-512t-and-1-gb-of-l3-in-a-single-socket\" target=\"_blank\">dense Zen 6c cores</a>, not the full Zen 6 cores expected in desktop Ryzen chips, so it's hard to say how closely these numbers will carry over. The two systems are also wildly different, with a server platform on one side and a 9700X running DDR5-6000 CL34 under CachyOS Linux on the other, and the EPYC listing has since been pulled from the Geekbench database. Still, a double-digit per-clock gain from the dense core variant is quite encouraging. AMD has already confirmed that &quot;Olympic Ridge&quot; desktop CPUs will <a href=\"https://www.techpowerup.com/351994/amd-confirms-am5-compatibility-with-olympic-ridge-desktop-zen-6\" target=\"_blank\">stay on AM5</a>, though they reportedly <a href=\"https://www.techpowerup.com/346588/amd-next-gen-ryzen-olympic-ridge-zen-6-delayed-to-2027\" target=\"_blank\">won't arrive until 2027</a>, so we can expect more comprehensive performance leaks well before then.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/pnTW2gN5iL2kvByS.jpg\" target=\"_blank\" data-width=\"738\" data-height=\"415\" ><img src=\"https://tpucdn.com/img/pnTW2gN5iL2kvByS_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/JKUyTwCKDhPSHWl8.jpg\" target=\"_blank\" data-width=\"925\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/JKUyTwCKDhPSHWl8_thm.jpg\" width=\"125\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/DIhIAsNOePpED5ya.jpg\" target=\"_blank\" data-width=\"664\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/DIhIAsNOePpED5ya_thm.jpg\" width=\"90\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Td1Y24E0PTkpFrex.jpg\" target=\"_blank\" data-width=\"818\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/Td1Y24E0PTkpFrex_thm.jpg\" width=\"111\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354103/amd-epyc-9996-geekbench-listing-offers-first-look-at-zen-6-single-core-gains",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6bb8b28f1ac8ca654aed713687f428b9"
+    },
+    {
+      "id": 3579,
+      "title": "SSD prices explode by 303 % in a year as AI fuels NAND flash shortage",
+      "summary": "SSD prices are soaring as AI data centers drive a NAND flash shortage, with contract prices for some drives jumping 303 % over the past year. With manufacturers prioritizing enterprise customers, shoppers are seeing fewer discounts — and re",
+      "content": "SSD prices are soaring as AI data centers drive a NAND flash shortage, with contract prices for some drives jumping 303 % over the past year. With manufacturers prioritizing enterprise customers, shoppers are seeing fewer discounts — and relief may not arrive until new production capacity comes online in 2027.",
+      "link": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/SSD-prices-explode-by-303-in-a-year-as-AI-fuels-NAND-flash-shortage.1433261.0.html"
+    },
+    {
+      "id": 3580,
+      "title": "Microsoft continues trying to copy Apple with the Surface Laptop Ultra",
+      "summary": "The Surface Laptop Ultra is Microsoft's new high-end laptop. In some areas, however, it gives the impression of copying Apple's MacBook Pro, particularly with its Mini-LED display and magnetic USB-C charging port.",
+      "content": "The Surface Laptop Ultra is Microsoft's new high-end laptop. In some areas, however, it gives the impression of copying Apple's MacBook Pro, particularly with its Mini-LED display and magnetic USB-C charging port.",
+      "link": "https://www.notebookcheck.net/Microsoft-continues-trying-to-copy-Apple-with-the-Surface-Laptop-Ultra.1433245.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-continues-trying-to-copy-Apple-with-the-Surface-Laptop-Ultra.1433245.0.html"
+    },
+    {
+      "id": 3581,
+      "title": "New compact mini PC arrives with fanless design and four 2.5G LAN ports",
+      "summary": "Maxtang has introduced a brand-new fanless mini PC, powered by Intel's Twin Lake CPUs. The ultra-compact NXALN51 PC packs a healthy array of I/O options, including four 2.5G Ethernet ports.",
+      "content": "Maxtang has introduced a brand-new fanless mini PC, powered by Intel's Twin Lake CPUs. The ultra-compact NXALN51 PC packs a healthy array of I/O options, including four 2.5G Ethernet ports.",
+      "link": "https://www.notebookcheck.net/New-compact-mini-PC-arrives-with-fanless-design-and-four-2-5G-LAN-ports.1432224.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-24",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-compact-mini-PC-arrives-with-fanless-design-and-four-2-5G-LAN-ports.1432224.0.html"
     },
     {
       "id": 3408,
