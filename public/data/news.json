@@ -1,7 +1,563 @@
 {
-  "updatedAt": "2026-10-25",
-  "total": 3625,
+  "updatedAt": "2026-10-26",
+  "total": 3665,
   "list": [
+    {
+      "id": 3626,
+      "title": "英伟达下调Vera Rubin显存与互连带宽指标 或为提高HBM4供应量放宽技术门槛",
+      "summary": "英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。 阅读全文",
+      "content": "<p>英伟达已经调整下一代Vera Rubin人工智能计算平台的部分硬件规格，包括HBM4高带宽显存带宽以及NVLink高速互连带宽。与此前公布或流传的指标相比，新规格有所下降，但横向扩展网络带宽则出现提升。这一变化可能意味着，英伟达正在根据实际量产情况重新平衡芯片性能、供应能力和系统成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583904.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583904.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583904.htm"
+    },
+    {
+      "id": 3627,
+      "title": "巴西机场三名员工涉嫌盗走两托盘RTX 5090显卡",
+      "summary": "巴西一批旗舰显卡在运输途中失踪的调查取得进展。警方已锁定圣保罗瓜鲁柳斯机场的三名员工，他们涉嫌盗走两托盘索泰GeForce RTX 5090，货物总值约47万美元。 阅读全文",
+      "content": "<p>巴西一批旗舰显卡在运输途中失踪的调查取得进展。警方已锁定圣保罗瓜鲁柳斯机场的三名员工，他们涉嫌盗走两托盘索泰GeForce RTX 5090，货物总值约47万美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583890.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583890.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583890.htm"
+    },
+    {
+      "id": 3628,
+      "title": "保护数据中心成俄罗斯紧迫问题",
+      "summary": "据专家估计，俄互联网企业和搜索引擎Yandex可能需要数月时间全面恢复因无人机袭击受损的数据中心基础设施。专家认为，俄罗斯互联网不会出现系统性危机：重新分配负载和使用其他供应商的算力，可将影响降至最低。同时，专家认为，当前形势是考虑如何加强数据中心防护的契机。 阅读全文",
+      "content": "<p>据专家估计，俄互联网企业和搜索引擎Yandex可能需要数月时间全面恢复因无人机袭击受损的数据中心基础设施。专家认为，俄罗斯互联网不会出现系统性危机：重新分配负载和使用其他供应商的算力，可将影响降至最低。同时，专家认为，当前形势是考虑如何加强数据中心防护的契机。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583888.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583888.htm"
+    },
+    {
+      "id": 3629,
+      "title": "乔布斯、库克都嗤之以鼻 苹果为何20年后还是推触屏版MacBook？",
+      "summary": "10月26日，苹果公司将于本周再次推出一波新品，其中就可能包括首款触摸屏版MacBook Pro。彭博社发文称，二十年来，苹果一直不愿将触摸屏添加到笔记本电脑上，现在为何突然改变态度了呢？ 阅读全文",
+      "content": "<p>10月26日，苹果公司将于本周再次推出一波新品，其中就可能包括首款触摸屏版MacBook Pro。彭博社发文称，二十年来，苹果一直不愿将触摸屏添加到笔记本电脑上，现在为何突然改变态度了呢？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583870.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583870.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583870.htm"
+    },
+    {
+      "id": 3630,
+      "title": "存储双雄三星电子与SK海力士市盈率已降至3倍",
+      "summary": "韩国头部券商KB证券周一表示，三星电子与SK海力士当前股价被低估的程度，已经和全球金融危机时期相当。两家企业盈利大幅飙升，但股价却未能跟上盈利涨幅。尽管三星、SK海力士股价今年以来已分别上涨65%和88%，但截至10月23日收盘，两家公司股价较6月下旬高点分别低36%和52%。 阅读全文",
+      "content": "<p><span style=\"\">韩国头部券商KB证券周一表示，</span><span style=\"\">三星电子与SK海力士当前股价被低估的程度，已经和全球金融危机时期相</span><span style=\"\">当。两家企业盈利大幅飙升，但股价却未能跟上盈利涨幅。</span>尽管三星、SK海力士股价今年以来已分别上涨65%和88%，但截至10月23日收盘，两家公司股价较6月下旬高点分别低36%和52%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583852.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583852.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583852.htm"
+    },
+    {
+      "id": 3631,
+      "title": "马斯克警告AI算力租赁行业将迎“大清洗” 200多家企业恐遭淘汰",
+      "summary": "随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。 阅读全文",
+      "content": "<p>随着人工智能基础设施建设热潮持续升温，埃隆·马斯克近日对AI算力租赁行业的发展前景发出了罕见而强烈的警告。他认为，大量依赖债务融资扩张的数据中心和GPU租赁企业正面临严峻资金压力，未来几年该行业或将经历大规模整合与淘汰。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583848.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583848.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583848.htm"
+    },
+    {
+      "id": 3632,
+      "title": "Vantex V1人体工学机械键盘登陆Kickstarter众筹 中央集成触控板",
+      "summary": "Vantex推出V1机械键盘，并在Kickstarter发起众筹。它将分体式人体工学键盘常见的列错位布局整合进一体式铝合金机身，中间加入触控板，试图让用户不必频繁伸手拿鼠标。键盘采用紧凑的60%布局，左右键区分开排列，但主体仍是一整块机身。 阅读全文",
+      "content": "<p>Vantex推出V1机械键盘，并在Kickstarter发起众筹。它将分体式人体工学键盘常见的列错位布局整合进一体式铝合金机身，中间加入触控板，试图让用户不必频繁伸手拿鼠标。键盘采用紧凑的60%布局，左右键区分开排列，但主体仍是一整块机身。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1583844.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583844.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1583844.htm"
+    },
+    {
+      "id": 3633,
+      "title": "大疆针对北京地区消费级无人机推出专属托管服务：最长可免费存储一年，后续每台每年 199 元",
+      "summary": "IT之家 10 月 26 日消息，据 DJI 大疆服务公众号，大疆针对北京地区个人名下的消费级无人机推出了专属托管服务。申请通道于 10 月 26 日 14:00 至 11 月 14 日 20:00 开放，用户须在 11 月 14 日 24:00 前通过快递将设备寄出，已停止服务的旧机型因无法进行检修并不在本次托管的范围内。 据介绍，相应托管服务涵盖了无人机与配件的储存、取用寄还、电池补电、设备检测及常规售后维修。大疆会在收到机器后的 7 天内完成入库检测，业务仅支持对功能正",
+      "content": "<p data-vmark=\"5044\">IT之家 10 月 26 日消息，据 DJI 大疆服务公众号，大疆针对北京地区个人名下的消费级无人机推出了专属托管服务。<strong>申请通道于 10 月 26 日 14:00 至 11 月 14 日 20:00 开放，用户须在 11 月 14 日 24:00 前通过快递将设备寄出</strong>，已停止服务的旧机型因无法进行检修并不在本次托管的范围内。</p><p style=\"text-align: center;\" data-vmark=\"6edf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b56acf3-10ee-45d6-84df-8c16386399d2.jpg?x-bce-process=image/format,f_auto\" w=\"968\" h=\"1202\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1cc5b6d8f521b63f10da52da73177e40589b4a3c3e9084309f08a02a59aef5e90e74274527a4de75a\" data-vmark=\"7ecb\" class=\"no-alt-img\"></p><p data-vmark=\"648c\">据介绍，相应托管服务涵盖了无人机与配件的储存、取用寄还、电池补电、设备检测及常规售后维修。大疆会在收到机器后的 7 天内完成入库检测，业务仅支持对功能正常的机器进行储存，若设备已损坏则需先勾选故障标签完成维修后才能托管。</p><p style=\"text-align: center;\" data-vmark=\"31c0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5164ab7e-1c16-4334-9c9c-31e97b957192.jpg?x-bce-process=image/format,f_auto\" w=\"996\" h=\"816\" data-weibo=\"1\" data-mpos=\"2,2\"  data-vmark=\"a9c8\" class=\"no-alt-img\"></p><p data-vmark=\"483d\">费用方面，若设备已于规定时间前完成有关部门信息核实，且实物 SN 码与登记一致，即可享受最长 1 年的免费托管，内含 1 次双程包邮的取用服务。未完成核实的机器则需按 199 元每台的标准收取最长一年的托管费。</p><p data-vmark=\"120b\">在办理流程上，申请托管以及后续需要取用机器时，用户目前需要通过在线客服获取办理流程。由于出库前大疆会花费 5 至 7 个工作日对设备状态进行再次检测，<strong>因此在节假日等使用高峰期，用户需要提前规划好取件的时间</strong>。</p><p style=\"text-align: center;\" data-vmark=\"5e56\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/615857eb-e188-41a0-a895-463d59224bbf.png?x-bce-process=image/format,f_auto\" w=\"992\" h=\"1288\" data-weibo=\"2\" data-vmark=\"77e9\" class=\"no-alt-img\"></p><p data-vmark=\"2140\">IT之家注意到，该服务在物流和周期上有严格的限制条件。<strong>大疆称无人机设备取用或寄还的目的地仅限中国大陆的非北京地区，也就是托管后的无人机将无法再次寄回北京</strong>。其次，一旦用户使用了取用或寄还服务，当前的托管流程即视为“闭环结束”。<strong>如果用户在游玩结束后想再次将机器寄回大疆的托管点，则属于全新的流程，需要按 199 元每台的标准重新支付续费</strong>。</p><p style=\"text-align: center;\" data-vmark=\"f258\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8987e8a3-bc96-44ab-aa0b-4ea8769f8478.png?x-bce-process=image/format,f_auto\" w=\"998\" h=\"632\" data-weibo=\"3\" data-vmark=\"5958\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/018/015.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/015.htm"
+    },
+    {
+      "id": 3634,
+      "title": "字节跳动旗下即梦 AI 短剧工作室上线，提供自研剧本、图片、分镜模型",
+      "summary": "IT之家 10 月 26 日消息，10 月 26 日，字节跳动旗下即梦 AI 宣布，即梦短剧工作室正式上线，提供自研剧本模型 DreamScript、图片模型 Anycook、分镜模型 DreamShot。 自研剧本模型 DreamScript：支持多题材剧本生成，覆盖原创、改编、出海、解说等主流题材；剧本爆款诊断，洞察平台热点与爆款逻辑，辅助优化剧情结构；10 万字长篇解析，自动理解、解析长篇文本，大幅提升创作效率。 自研图片模型 Anycook：支持差异化人物设定，为短剧",
+      "content": "<p data-vmark=\"3382\">IT之家 10 月 26 日消息，10 月 26 日，字节跳动旗下即梦 AI 宣布，<strong>即梦短剧工作室正式上线</strong>，提供自研剧本模型 DreamScript、图片模型 Anycook、分镜模型 DreamShot。</p><p data-vmark=\"c103\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cd9248c5-9833-4864-a5ed-f9ab0227c61c.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-vmark=\"eb1d\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"b383\"><strong>自研剧本模型 DreamScript</strong>：支持多题材剧本生成，覆盖原创、改编、出海、解说等主流题材；剧本爆款诊断，洞察平台热点与爆款逻辑，辅助优化剧情结构；10 万字长篇解析，自动理解、解析长篇文本，大幅提升创作效率。</p><p data-vmark=\"a4bd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e83825d9-e505-4c93-b45a-509e3cf0d79e.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"eafe\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"a088\"><strong>自研图片模型 Anycook</strong>：支持差异化人物设定，为短剧美术专项调校，生成更真实、辨识度更高的短剧角色；多风格场景搭建，覆盖多元视觉风格，精准匹配剧情场景。</p><p data-vmark=\"4f11\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4e460c91-2319-44b7-8afc-2dbfed4bf8e7.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"2\" data-vmark=\"5cd2\" class=\"no-alt-img\"></p><p data-vmark=\"06c2\"><strong>自研分镜模型 DreamShot</strong>：双模式创作，画布、故事板自由切换，灵活适配创作流程；故事板全局协同，支持对话改稿、全局修改、灵活调整剧情，保持分镜有序编排；3D 导演台动态预演，自由设置机位与运镜，提前预览动态效果；智能预演关键分镜，串联关键镜头，提前把控画面衔接与叙事节奏。</p><p data-vmark=\"daea\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f18501df-831f-41b5-91ee-cd3aaa5db3dc.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"624b\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"e7a5\"><strong>专属后期</strong>：片段重拍，单个镜头不满意，定点重拍，无需整片重来；声音重构，分离人声与背景音，支持重新配音生成；智能切镜，自动拆分镜头，让复杂画面更易编辑；即梦资产互通，创作资产无缝衔接，一处修改、全链路生效。</p><p data-vmark=\"dae4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2dfa0c6c-648d-4fb7-a033-a11bb3af3768.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"53b6\" data-weibo=\"4\" class=\"no-alt-img\"></p><p data-vmark=\"9c30\"><strong>重制转绘</strong>：原片智能解构，上传短剧后自动识别角色、场景、道具及镜头结构；画面重制生成，依据选定的画面风格、画幅比例与目标地区，重新生成画面内容；本地化适配，延续原片剧情节奏与镜头语言，适配不同市场。</p><p data-vmark=\"68c6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2696b5c4-a7f9-42ff-90fa-c34ddc2aadfa.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"c78b\" data-weibo=\"5\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/018/013.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/013.htm"
+    },
+    {
+      "id": 3635,
+      "title": "红龙 Light 75 Pro 客制化机械键盘发售：8KHz 回报率、支持三模连接，369 元起",
+      "summary": "IT之家 10 月 26 日消息，红龙旗下 Light 75 Pro 客制化机械键盘现已在京东发售，该产品提供 8KHz 回报率，支持三模连接，樱焰版本定价为 369 元，墨焰版本定价为 399 元。 京东红龙 Light 75 Pro 客制化机械键盘 369 元直达链接 该键盘尺寸为 347 x 151 x 44 mm，目前在售墨焰和樱焰两种配色，外观具备星环灯效，提供 RGB 灯效，键盘右上角配有多功能旋钮，方便用户快速进行音量调节。 该键盘内部采用多层减震填充结构，目前",
+      "content": "<p data-vmark=\"bc4f\">IT之家 10 月 26 日消息，红龙旗下 Light 75 Pro 客制化机械键盘现已在京东发售，该产品提供 8KHz 回报率，支持三模连接，樱焰版本定价为 369 元，墨焰版本定价为 399 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56kl4Dj\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56k77rb\" data-iosurl=\"https://u.jd.com/5akZCnI\" data-androidurl=\"https://u.jd.com/5GkVF2g\" data-hosnexturl=\"https://u.jd.com/5OkJ4eG\" data-hosurl=\"https://u.jd.com/5Gk7pQd\" data-uwpurl=\"https://u.jd.com/51k0uFV\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5akZ4Gz%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/51kW5UC\" data-lpwxurl=\"https://u.jd.com/51k7Ddv\"   data-ncid=\"258535\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/534040/24/14209/109545/6acca41fF68f2c839/00833203208f7bbe.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">红龙 Light 75 Pro 客制化机械键盘</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 369 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"c86b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7d1a88f7-d8ad-4106-b398-c4ea716c3456.png?x-bce-process=image/format,f_auto\" w=\"828\" h=\"1348\" data-weibo=\"0\" data-vmark=\"fd65\" class=\"no-alt-img\"></p><p data-vmark=\"3180\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/46917490-9ac5-447c-985c-e08f11cb080e.png?x-bce-process=image/format,f_auto\" w=\"816\" h=\"1450\" data-weibo=\"1\" data-vmark=\"e790\" class=\"no-alt-img\"></p><p data-vmark=\"69b0\">该键盘尺寸为 347 x 151 x 44 mm，目前在售墨焰和樱焰两种配色，外观具备星环灯效，提供 RGB 灯效，键盘右上角配有多功能旋钮，方便用户快速进行音量调节。</p><p data-vmark=\"e0c7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7ab759e6-849d-4df8-8473-2792d4fcc29b.png?x-bce-process=image/format,f_auto\" w=\"782\" h=\"968\" data-weibo=\"2\" data-vmark=\"4abb\" class=\"no-alt-img\"></p><p data-vmark=\"e573\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8baed087-3cdf-46dc-a3d7-e593feb1d9c3.png?x-bce-process=image/format,f_auto\" w=\"824\" h=\"1184\" data-weibo=\"3\" data-vmark=\"ba14\" class=\"no-alt-img\"></p><p data-vmark=\"65ef\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e784501c-eee9-425f-9d2c-4ad4994f4307.png?x-bce-process=image/format,f_auto\" w=\"652\" h=\"1152\" data-weibo=\"4\" data-vmark=\"bc59\" class=\"no-alt-img\"></p><p data-vmark=\"3610\">该键盘内部采用多层减震填充结构，目前仅在售“Speed Pro 轴”，该轴体导通力度 40gf，触底行程 3.2 mm，预行程 1.0 mm。键盘搭载双 8K 性能架构，采用了双电池设计，总容量达到 8000 mAh，IT之家附产品参数：</p><p data-vmark=\"6b12\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/84d20671-42b7-4900-b908-ce4ab79b8669.png?x-bce-process=image/format,f_auto\" w=\"888\" h=\"858\" data-weibo=\"5\" data-vmark=\"1cef\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/012.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/012.htm"
+    },
+    {
+      "id": 3636,
+      "title": "HMD 新款欧版 Pulse Pro 手机曝光，升级联发科 G99 处理器",
+      "summary": "IT之家 10 月 26 日消息，消息源 smashx_60 现已曝光了新款欧版 HMD Pulse Pro 手机规格信息，该机主要将紫光展锐 T606 处理器升级为联发科 G99 以提升性能，其他规格不变。 具体来看，该机正面配备一块 6.56 英寸 HD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 50Mp 主摄和 2Mp 辅助摄像头。 该机搭载联发科 Helio G99 处理器，匹配 8GB RAM 和 256GB 存储空间，内置 50",
+      "content": "<p data-vmark=\"7c37\">IT之家 10 月 26 日消息，消息源 smashx_60 现已曝光了新款欧版 HMD Pulse Pro 手机规格信息，该机主要将紫光展锐 T606 处理器升级为联发科 G99 以提升性能，其他规格不变。</p><p data-vmark=\"2d0a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cd45ebef-791a-4c60-b7ec-0036e7f5b851.png\" w=\"1130\" h=\"1052\" data-weibo=\"0\" data-vmark=\"07af\" class=\"no-alt-img\"></p><p data-vmark=\"2a71\">具体来看，该机正面配备一块 6.56 英寸 HD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 50Mp 主摄和 2Mp 辅助摄像头。</p><p data-vmark=\"cbfe\">该机搭载联发科 Helio G99 处理器，匹配 8GB RAM 和 256GB 存储空间，内置 5000mAh 电池（支持 20W 有线充电）。</p>",
+      "link": "https://www.ithome.com/1/017/976.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/976.htm"
+    },
+    {
+      "id": 3637,
+      "title": "创维“F24B23F”23.8 英寸显示器发售：1080P 144Hz，449 元",
+      "summary": "IT之家 10 月 26 日消息，创维现已在京东上架“F24B23F”23.8 英寸显示器，该机主打 1080P 144Hz，定价为 449 元。 该机配备一块 1920x1080 分辨率 144Hz IPS 面板，对比度 1500:1，亮度 300 尼特，显示器覆盖 99% sRGB 色域。显示器支架支持俯仰，显示器本体支持 VESA 75x75mm 壁挂，提供 HDMI 2.0 和 VGA 接口。 IT之家附显示器参数：",
+      "content": "<p data-vmark=\"6b65\">IT之家 10 月 26 日消息，创维现已在京东上架“F24B23F”23.8 英寸显示器，该机主打 1080P 144Hz，定价为 449 元。</p><p style=\"text-align: center;\" data-vmark=\"2ef5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3059ab8e-39f7-4b20-9c0c-32ba9cabb290.png?x-bce-process=image/format,f_auto\" w=\"648\" h=\"1044\" data-weibo=\"0\" data-vmark=\"2cd2\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"eb81\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a8c7d197-986f-4340-891d-b573dfbed8ed.png?x-bce-process=image/format,f_auto\" w=\"546\" h=\"1162\" data-weibo=\"1\" data-vmark=\"d5fa\" class=\"no-alt-img\"></p><p data-vmark=\"0c78\">该机配备一块 1920x1080 分辨率 144Hz IPS 面板，对比度 1500:1，亮度 300 尼特，显示器覆盖 99% sRGB 色域。显示器支架支持俯仰，显示器本体支持 VESA 75x75mm 壁挂，提供 HDMI 2.0 和 VGA 接口。</p><p data-vmark=\"70b8\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"4c89\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cf4a9967-7768-4dcf-83c4-8aa8be5c83aa.png?x-bce-process=image/format,f_auto\" w=\"594\" h=\"1396\" data-weibo=\"2\" data-vmark=\"38c8\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/017/953.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/953.htm"
+    },
+    {
+      "id": 3638,
+      "title": "惠普星 Book Air 14 发售：薯条标、酷睿 5 320+16G+512G 售 5298 元",
+      "summary": "IT之家 10 月 26 日消息，惠普旗下星 Book Air 14 轻薄本电脑现已在京东发售，该机采用英特尔酷睿 5 320 处理器，配备 16GB RAM 和 512GB SSD，京东首发价 5298 元，叠加国补后约为 4504.15 元。 京东惠普星 Book Air 14 酷睿 5 320+16G+512G 券后 5298 元领 500 元券 该机采用铝合金机身，厚 11.77mm，重 1.16kg，支持 180° 开合，采用 1920x1200 分辨率的 OLED",
+      "content": "<p data-vmark=\"b8eb\">IT之家 10 月 26 日消息，惠普旗下星 Book Air 14 轻薄本电脑现已在京东发售，该机采用英特尔酷睿 5 320 处理器，配备 16GB RAM 和 512GB SSD，<strong>京东首发价 5298 </strong>元，叠加国补后约为 4504.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/51kalj0\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gk1lic\" data-iosurl=\"https://u.jd.com/5Dk1X5d\" data-androidurl=\"https://u.jd.com/5gkrDDd\" data-hosnexturl=\"https://u.jd.com/51kP4yE\" data-hosurl=\"https://u.jd.com/51k6l4B\" data-uwpurl=\"https://u.jd.com/5gk3PwZ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5ak8JMy%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5rknVmi\" data-lpwxurl=\"https://u.jd.com/5gkqnLl\"   data-ncid=\"258410\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/540055/21/1558/42253/6abeed10Fb640bedc/00833203204350ba.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">惠普星 Book Air 14</span></span><span class=\"card-abstract\"> 酷睿 5 320+16G+512G</span><span class=\"card-controls\"><span class=\"price\"> 券后 5298 元</span><span class=\"card-btn-deep\">领 500 元券</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"d60e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0a0a5fab-97f8-43fb-9285-e1913aed439f.png?x-bce-process=image/format,f_auto\" w=\"696\" h=\"1048\" data-weibo=\"0\" data-vmark=\"0247\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c443\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e7b72003-61fc-41cf-a36b-89411e0c732c.png?x-bce-process=image/format,f_auto\" w=\"708\" h=\"1338\" data-weibo=\"1\" data-vmark=\"791e\" class=\"no-alt-img\"></p><p data-vmark=\"ceab\">该机采用铝合金机身，厚 11.77mm，重 1.16kg，支持 180° 开合，采用 1920x1200 分辨率的 OLED 屏（十点触控），通过 TÜV 硬件低蓝光认证及 HP eye ease 护眼认证。</p><p style=\"text-align: center;\" data-vmark=\"bb2e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dc6a70ff-11c8-453e-a73f-6b1429cd89e7.png?x-bce-process=image/format,f_auto\" w=\"688\" h=\"1486\" data-weibo=\"2\" data-vmark=\"f65b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"0a91\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c0397cce-1be1-4141-9dc2-bcb1a0d73165.png?x-bce-process=image/format,f_auto\" w=\"676\" h=\"812\" data-weibo=\"3\" data-vmark=\"c531\" class=\"no-alt-img\"></p><p data-vmark=\"7484\">其他方面，该机内置 60 瓦时电池，续航约 42.5 小时，提供 2 个全功能 USB-C 及 HDMI 2.1 接口，拥有 FHD IR 摄像头、双麦克风，支持 Windows Hello，音频系统由 Poly 调校并得到 DTS:X Ultra 认证。</p><p style=\"text-align: center;\" data-vmark=\"994f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d9c838d6-7b55-41a2-9072-db0ee1bf3ab0.png?x-bce-process=image/format,f_auto\" w=\"668\" h=\"852\" data-weibo=\"4\" data-vmark=\"b91b\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/946.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/946.htm"
+    },
+    {
+      "id": 3639,
+      "title": "英伟达为开发者更新路径追踪工具：性能提升 20%，支持 Windows on Arm",
+      "summary": "IT之家 10 月 26 日消息，英伟达面向开发者的 RTX Path Tracing 路径追踪开发工具已更新至 1.9.0 版本，性能最高提升 20%，并支持 WoA（Windows on Arm）平台。可用于 RTX Spark 笔记本。 据介绍，RTX Path Tracing 是一款免费的开发工具和技术演示程序，整合英伟达最新 RTX SDK 光追技术和 DLSS，旨在展示一种适用于 DirectX 12 和 Vulkan 的纯路径追踪光照方案，无需依赖光栅化技术。 ",
+      "content": "<p data-vmark=\"705d\">IT之家 10 月 26 日消息，英伟达面向开发者的 RTX Path Tracing 路径追踪开发工具已更新至 1.9.0 版本，性能最高提升 20%，并支持 WoA（Windows on Arm）平台。<strong>可用于 RTX Spark 笔记本</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fff9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4697a0fa-e46b-4b96-b579-27d1c1e26800.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"82ce\" class=\"no-alt-img\"></p><p data-vmark=\"8c45\">据介绍，RTX Path Tracing 是一款免费的开发工具和技术演示程序，整合英伟达最新 RTX SDK 光追技术和 DLSS，旨在展示一种适用于 DirectX 12 和 Vulkan 的纯路径追踪光照方案，无需依赖光栅化技术。</p><p data-vmark=\"a11c\">英伟达表示，RTX Path Tracing 1.9.0 相比 1.8.1 版本，<strong>在画质相当或更好的情况下性能提升 20%</strong>。本次更新的重要改进是降低大量实例场景的 CPU 帧耗时，同时减少不透明度微贴图（IT之家注：Opacity Micromaps）内存占用。</p><p data-vmark=\"3b17\">本次更新的另一项改进则是引入异步计算队列，可将 DLSS 光线重建的输入处理，与前一帧的 DLSS 光线重建及后处理任务并行执行，从而提升整体性能。并且该开发工具现已支持 Windows on Arm 系统，可用于 Arm 处理器的 RTX Spark 笔记本电脑。</p>",
+      "link": "https://www.ithome.com/1/017/945.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/945.htm"
+    },
+    {
+      "id": 3640,
+      "title": "VGN 联名腾讯天美工作室 V98Pro V4 TiMi 限定款机械键盘发售：带有小云仔发声键帽按钮，首发价 419 元",
+      "summary": "IT之家 10 月 26 日消息，VGN 联合腾讯天美工作室推出的 V98Pro V4 TiMi 限定款机械键盘现已在京东发售，该键盘采用云朵轴，使用天蓝色外观，首发价 419 元。 京东 VGN V98Pro V4 TiMi 限定款机械键盘 419 元直达链接 该键盘主体采用了清新的天蓝色外壳，搭配定制云朵图案印花键帽及一颗联名小云仔发声键帽按钮，按下时会发出“TiMi”的声音。该键盘还配备了 V-Display 情绪屏，支持输入交互模式和用户自定义图案。 性能和规格方面，",
+      "content": "<p data-vmark=\"ed03\">IT之家 10 月 26 日消息，VGN 联合腾讯天美工作室推出的 V98Pro V4 TiMi 限定款机械键盘现已在京东发售，该键盘采用云朵轴，使用天蓝色外观，首发价 419 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GkuTdH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5Dk6XV6\" data-iosurl=\"https://u.jd.com/5akaibq\" data-androidurl=\"https://u.jd.com/5rktg5Q\" data-hosnexturl=\"https://u.jd.com/5DkKL48\" data-hosurl=\"https://u.jd.com/5GkOdq9\" data-uwpurl=\"https://u.jd.com/5DkgZTf\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f5DkMUJB%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5rkqmBV\" data-lpwxurl=\"https://u.jd.com/5DkMgd7\"   data-ncid=\"258401\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/545783/26/6949/118143/6ad5dc14Ff4c9801c/0083320320ecebd1.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> VGN V98Pro V4 TiMi 限定款机械键盘</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 419 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"19fc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/aa4e5a15-c43c-4e67-9a5d-fbf098bb9ac0.png\" w=\"722\" h=\"724\" data-weibo=\"0\" data-vmark=\"9d91\" class=\"no-alt-img\"></p><p data-vmark=\"a861\">该键盘主体采用了清新的天蓝色外壳，搭配定制云朵图案印花键帽及一颗联名小云仔发声键帽按钮，按下时会发出“TiMi”的声音。该键盘还配备了 V-Display 情绪屏，支持输入交互模式和用户自定义图案。</p><p data-vmark=\"650b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5ac623f7-80c7-49dc-b7b5-c215b17f4e69.png\" w=\"734\" h=\"728\" data-weibo=\"1\" data-vmark=\"cf0a\" class=\"no-alt-img\"></p><p data-vmark=\"059b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a2666246-e6d0-4dae-b2a4-cf4ac90b89c7.png\" w=\"718\" h=\"714\" data-weibo=\"2\" data-vmark=\"0787\" class=\"no-alt-img\"></p><p data-vmark=\"4697\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/250ca983-8a79-42b9-b8ba-3c1aa28c9724.png\" w=\"710\" h=\"724\" data-weibo=\"3\" data-vmark=\"17be\" class=\"no-alt-img\"></p><p data-vmark=\"29c2\">性能和规格方面，该键盘采用了 98 配列（100 键）设计，重量约 1132g±50g。键盘采用了 Gasket 结构，并进行了消音填充，搭配 PC 横向开槽定位板和 FR-4 单键开槽 PCB，全键支持热插拔，并且全键无冲。</p><p data-vmark=\"ff51\">该键盘支持有线、2.4G 和蓝牙三模连接，其采用 VGN 全自研的“破阵”方案，支持原生双 8KHz 回报率，并具备全链路频段智能调控以增强抗干扰能力。键盘内置 10000mAh 容量电池，最长续航可达 347 天。</p><p data-vmark=\"78e6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6897ff8a-240d-400e-a96f-40dcf3c7ea76.png\" w=\"724\" h=\"532\" data-weibo=\"4\" data-vmark=\"f61b\" class=\"no-alt-img\"></p><p data-vmark=\"98c5\">IT之家附产品参数：</p><p data-vmark=\"fec5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2b06afce-5543-40a2-91aa-bc18c1811890.png\" w=\"652\" h=\"720\" data-weibo=\"5\" data-vmark=\"bc12\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/939.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/939.htm"
+    },
+    {
+      "id": 3641,
+      "title": "Seedance 核心研发负责人周畅被曝离职？接近字节人士否认",
+      "summary": "IT之家 10 月 26 日消息，据澎湃新闻消息，近日有传闻称，字节 Seed AI 研发核心负责人之一周畅已经提出离职。消息人士称，周畅将会开启创业，或为具身智能相关，并已获各知名基金、大厂战投、头部大模型独角兽积极接触。 接近字节人士今日回应称，周畅没有离职。 IT之家查询互联网公开资料获悉，周畅 2012 年本科毕业于复旦大学计算机科学与技术专业，2017 年博士毕业于北京大学计算机软件与理论专业，随后加入阿里巴巴，花名“钟煌”，曾任通义千问大模型的技术负责人，曾和团队",
+      "content": "<p data-vmark=\"fc68\">IT之家 10 月 26 日消息，据澎湃新闻消息，近日有传闻称，字节 Seed AI 研发核心负责人之一周畅已经提出离职。消息人士称，周畅将会开启创业，或为具身智能相关，并已获各知名基金、大厂战投、头部大模型独角兽积极接触。</p><p data-vmark=\"1930\">接近字节人士今日回应称，<strong>周畅没有离职</strong>。</p><p data-vmark=\"9009\">IT之家查询互联网公开资料获悉，周畅 2012 年本科毕业于复旦大学计算机科学与技术专业，2017 年博士毕业于北京大学计算机软件与理论专业，随后加入阿里巴巴，花名“钟煌”，曾任通义千问大模型的技术负责人，曾和团队推出一系列语言模型、多模态模型。</p><p data-vmark=\"99f4\">2024 年 8 月，周畅加入字节跳动，从事 AI 大模型相关工作，现任字节跳动豆包大模型视觉多模态生成方向负责人。</p>",
+      "link": "https://www.ithome.com/1/017/938.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/938.htm"
+    },
+    {
+      "id": 3642,
+      "title": "狼蛛 SC180 磁吸充电三模游戏鼠标 10 月 29 日开售，补贴价 119 元起",
+      "summary": "IT之家 10 月 26 日消息，狼蛛 SC180 磁吸充电三模游戏鼠标今日正式开启预约，10 月 29 日 20:00 全平台开售，补贴价 119 元起。 据官方介绍，磁吸触点充电，一放即充，自动吸附归位，告别频繁插线充电的麻烦；炫彩 RGB 充电底座，触控切换灯效，兼顾充电便利与电竞桌搭氛围。 目前，官方暂未公布这款新品的更多配置信息，感兴趣的朋友可以关注IT之家后续报道。",
+      "content": "<p data-vmark=\"861f\">IT之家 10 月 26 日消息，狼蛛 SC180 磁吸充电三模游戏鼠标今日正式开启预约，10 月 29 日 20:00 全平台开售，补贴价 119 元起。</p><p data-vmark=\"7395\">据官方介绍，<strong>磁吸触点充电</strong>，一放即充，自动吸附归位，告别频繁插线充电的麻烦；炫彩 RGB 充电底座，触控切换灯效，兼顾充电便利与电竞桌搭氛围。</p><p data-vmark=\"0ffc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9d29c141-ed76-49e7-963d-68f507c52f70.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1000\" data-weibo=\"0\" data-vmark=\"8150\" class=\"no-alt-img\"></p><p data-vmark=\"6589\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fa322172-cace-45b0-bb1f-f8561bc35c79.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1000\" data-weibo=\"1\" data-vmark=\"d88f\" class=\"no-alt-img\"></p><p data-vmark=\"d174\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e22a780d-d5f3-407d-9dfa-22819df1b2e8.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1000\" data-weibo=\"2\" data-vmark=\"91f3\" class=\"no-alt-img\"></p><p data-vmark=\"2117\">目前，官方暂未公布这款新品的更多配置信息，感兴趣的朋友可以关注IT之家后续报道。</p>",
+      "link": "https://www.ithome.com/1/017/931.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/931.htm"
+    },
+    {
+      "id": 3643,
+      "title": "消息称苹果首款触控 MacBook Pro 笔记本有望支持 5G 蜂窝网络功能",
+      "summary": "IT之家 10 月 26 日消息，外媒 9to5Mac 援引消息源 Filipe Esposito，相应消息源称苹果正在测试搭载 M5 Pro 芯片和 C1 调制解调器的 MacBook Pro 配置。同时考虑到本周苹果发布的首款触控屏 MacBook Pro 将搭载 M5 Pro 和 M5 Max 芯片，因此这一情况便显得有些耐人寻味。 如果苹果为 MacBook Pro 引入 5G 蜂窝通信，预计相应机型会使用 eSIM 方案，本身体验和苹果蜂窝版 iPad 规格一致，以",
+      "content": "<p data-vmark=\"bfae\">IT之家 10 月 26 日消息，外媒 9to5Mac 援引消息源 Filipe Esposito，相应消息源称苹果正在测试搭载 M5 Pro 芯片和 C1 调制解调器的 MacBook Pro 配置。同时考虑到本周苹果发布的首款触控屏 MacBook Pro 将搭载 M5 Pro 和 M5 Max 芯片，因此这一情况便显得有些耐人寻味。</p><p style=\"text-align: center;\" data-vmark=\"717f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/8203e986-7f8c-40d3-877b-03414f83e95f.png\" w=\"800\" h=\"450\" data-weibo=\"0\" data-vmark=\"ee0a\" class=\"no-alt-img\"></p><p data-vmark=\"7a10\">如果苹果为 MacBook Pro 引入 5G 蜂窝通信，预计相应机型会使用 eSIM 方案，本身体验和苹果蜂窝版 iPad 规格一致，以国行为例，届时用户预计需要联系运营商开通“一号双终端”等类似套餐使用网络服务。</p>",
+      "link": "https://www.ithome.com/1/017/930.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/930.htm"
+    },
+    {
+      "id": 3644,
+      "title": "粒径低至 88 微米超细腻：苏泊尔纯钛小方糖破壁机 1499 元上市，体积缩小约 70%",
+      "summary": "苏泊尔 1.75L 小体积破壁机 SP928RT 定价 1499 元，发热盘 100% 采用 TA1 纯钛板材，配 8 叶旋风刀 + 刀头可拆洗，较传统破壁机体积缩小≈70%。 告别圆杯低效涡流，方杯四角扰流更细腻，粒径低至 88 微米。 今日首发预售可享： 付定金后尾款立减 200 元 领券下单立减 200 元 PLUS 会员立减 80 元 以旧换新立减 60 元（无需回收） 实付约 959 元，晒单返 100 元 E 卡，折合低至 859 元。 加赠 299 元苏泊尔免翻",
+      "content": "<p data-vmark=\"d543\">苏泊尔 1.75L 小体积破壁机 SP928RT 定价 1499 元，发热盘 100% 采用 <strong>TA1 纯钛板材</strong>，配 8 叶旋风刀 + 刀头可拆洗，<strong>较传统破壁机体积缩小≈70%</strong>。</p><p data-vmark=\"b981\">告别圆杯低效涡流，方杯四角扰流更细腻，粒径低至 88 微米。</p><p data-vmark=\"4a1f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/783043bc-f22e-47b4-be99-2f4c7955c0f5.jpg?x-bce-process=image/format,f_auto\" w=\"790\" h=\"794\" alt=\"\" data-weibo=\"0\"  data-vmark=\"c1db\"></p><p data-vmark=\"81eb\">今日首发预售可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bdd1\">付定金后尾款立减 200 元</p></li><li><p data-vmark=\"4380\">领券下单立减 200 元</p></li><li><p data-vmark=\"e976\"><strong>PLUS 会员</strong>立减 80 元</p></li><li><p data-vmark=\"a496\">以旧换新立减 60 元（无需回收）</p></li></ul><p data-vmark=\"5044\"><strong>实付约 959 元，晒单返 100 元 E 卡，折合低至 859 元。</strong></p><p data-vmark=\"63a1\">加赠 <strong>299 元</strong>苏泊尔免翻面可视空气炸锅 + <strong>100 元</strong>燕之坊 21 日食养豆浆料，破壁机折合仅需 460 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ec0a\">先领 200 元券：<strong><a href=\"https://coupon.m.jd.com/coupons/show.action?key=cbm1c5s8o7a14ba39b6998334bed80a8&amp;roleId=3372190002&amp;to=https://item.jd.com/\" target=\"_blank\">点此领券</a></strong></p></li><li><p data-vmark=\"44ac\">下单时选择“以旧换新” → 个护健康 → 电动牙刷（<strong>不回收</strong>）</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5DUkZMQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51kICEt\" data-iosurl=\"https://u.jd.com/5OkMkko\" data-androidurl=\"https://u.jd.com/5gkty40\" data-hosnexturl=\"https://u.jd.com/5akI9Vc\" data-hosurl=\"https://u.jd.com/51kC55z\" data-uwpurl=\"https://u.jd.com/5rkwiff\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f51UVFMO%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5DkMZiu\" data-lpwxurl=\"https://u.jd.com/5OkKPw6\"   data-ncid=\"258364\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/539296/5/181/33509/6aba0b47F20cf4762/00833203204f5737.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">苏泊尔 纯钛小方糖破壁机</span></span><span class=\"card-abstract\"> SP928RT</span><span class=\"card-controls\"><span class=\"price\"> 以旧换新预售 959 元</span><span class=\"card-btn-deep\">领 100 元券</span></span></span></span></a></dir><p data-vmark=\"a605\">口感细腻低至 88 微米，<strong>做豆浆做辅食</strong>都绰绰有余。</p><p data-vmark=\"8034\">小伙伴们可全网全品牌比价后再下单，新品首发大促真真划算。</p><p data-vmark=\"cb58\" style=\"text-align: center;\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/535316/31/12225/96998/6ac9d5d0F5e0039ac/00d631620728177e.jpg\" w=\"790\" h=\"519\" alt=\"\" data-weibo=\"1\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/530210/13/15539/42013/6ac9d5d0F17f08ed5/00d631621f5bd572.jpg\" w=\"790\" h=\"543\" alt=\"\" data-weibo=\"2\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/545192/28/874/43456/6ac9d5d1F30b73e32/00d63163187575c4.jpg\" w=\"790\" h=\"792\" alt=\"\" data-weibo=\"3\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/543548/7/3656/88811/6ac9d5d1Fac98b6ff/00d631636f64e35b.jpg\" w=\"790\" h=\"879\" alt=\"\" data-weibo=\"4\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/535891/17/10565/63232/6ac9d5d0F06989db3/00d6316315c0bd73.jpg\" w=\"790\" h=\"789\" alt=\"\" data-weibo=\"5\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/529231/5/16426/57157/6ac9d5d0F3fd444f4/00d63162d3a02865.jpg\" w=\"790\" h=\"723\" alt=\"\" data-weibo=\"6\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/543187/21/3547/90607/6ac9d5d0F25d92e66/00d631639cb309fd.jpg\" w=\"790\" h=\"924\" alt=\"\" data-weibo=\"7\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/538884/6/9634/112795/6ac9d5d0Fee173ca8/00d63163e5e42d74.jpg\" w=\"790\" h=\"997\" alt=\"\" data-weibo=\"8\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/543441/37/2791/26365/6ac9d622Fbf6f108e/00d63162e1f95623.jpg\" w=\"790\" h=\"737\" alt=\"\"><img src=\"https://img30.360buyimg.com/sku/jfs/t1/542224/6/4606/17020/6ac9d621Ffc8519ae/00d63162506e90b5.jpg\" w=\"790\" h=\"592\" alt=\"\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e994\">先领 200 元券：<a href=\"https://coupon.m.jd.com/coupons/show.action?key=cbm1c5s8o7a14ba39b6998334bed80a8&amp;roleId=3372190002&amp;to=https://item.jd.com/\" target=\"_blank\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fcoupon.m.jd.com%252fcoupons%252fshow.action%253fkey%253dcbm1c5s8o7a14ba39b6998334bed80a8%2526roleId%253d3372190002%2526to%253dhttps%253a%252f%252fitem.jd.com%252f%26EA_PTAG%3d17078.27.380\" data-ncid=\"258364\">点此领券</a></p></li><li><p data-vmark=\"06d6\">下单时选择“以旧换新” → 个护健康 → 电动牙刷（不回收）</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5DUkZMQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51kICEt\" data-iosurl=\"https://u.jd.com/5OkMkko\" data-androidurl=\"https://u.jd.com/5gkty40\" data-hosnexturl=\"https://u.jd.com/5akI9Vc\" data-hosurl=\"https://u.jd.com/51kC55z\" data-uwpurl=\"https://u.jd.com/5rkwiff\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f51UVFMO%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/5DkMZiu\" data-lpwxurl=\"https://u.jd.com/5OkKPw6\"   data-ncid=\"258364\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/539296/5/181/33509/6aba0b47F20cf4762/00833203204f5737.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">苏泊尔 纯钛小方糖破壁机</span></span><span class=\"card-abstract\"> SP928RT</span><span class=\"card-controls\"><span class=\"price\"> 以旧换新预售 959 元</span><span class=\"card-btn-deep\">领 100 元券</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/928.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/928.htm"
+    },
+    {
+      "id": 3645,
+      "title": "我国风光累计装机容量突破 20 亿千瓦",
+      "summary": "IT之家 10 月 26 日消息，国家能源局今日宣布，今年 1-9 月，风电和太阳能发电新增装机容量约 1.7 亿千瓦，截至 2026 年 9 月底，风电和太阳能发电累计装机容量达到 20.1 亿千瓦。 IT之家从国家能源局发布的数据获悉，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。国家能源局还提到，新能源快速发展，在能源领域发挥了不可取代的作用： 一是成为推进能源转型的主要力量。今年 1-9 月，风光发电量",
+      "content": "<p data-vmark=\"46aa\">IT之家 10 月 26 日消息，国家能源局今日宣布，今年 1-9 月，风电和太阳能发电新增装机容量约 1.7 亿千瓦，截至 2026 年 9 月底，<strong>风电和太阳能发电累计装机容量达到 20.1 亿千瓦</strong>。</p><p style=\"text-align: center;\" data-vmark=\"45a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/481e1672-a316-45d1-9e9a-41a03580cb12.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-vmark=\"1b09\" class=\"no-alt-img\"></p><p data-vmark=\"c242\">IT之家从国家能源局发布的数据获悉，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。国家能源局还提到，新能源快速发展，在能源领域发挥了不可取代的作用：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"9ad8\">一是成为推进能源转型的主要力量。今年 1-9 月，风光发电量 19333 亿千瓦时，<strong>比去年同期增加 1937 亿千瓦时</strong>，风光发电增量占全社会新增用电量的 64%，新能源大规模替代传统化石能源的减碳效益持续释放。</p></li><li><p data-vmark=\"994c\">二是成为保障能源安全的关键支撑。新能源跨越式发展有效提升了能源本质安全水平，助力我国从容应对全球能源危机，今年迎峰度夏最大负荷日，<strong>当日午间风光最大出力占到当时总负荷的比重超 40%</strong>，保障午间高峰供电基本可靠。</p></li><li><p data-vmark=\"5e4e\">三是成为拉动能源投资的重要引擎。从大基地到分布式，从陆上到海上，新能源产业链条长、带动范围广、技术密集度高，始终是能源领域投资的关键发力点，今年 1-9 月，<strong>全国风电和太阳能发电完成投资额约占能源领域完成投资额的三分之一</strong>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/922.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/922.htm"
+    },
+    {
+      "id": 3646,
+      "title": "国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%",
+      "summary": "IT之家 10 月 26 日消息，10 月 26 日，国家能源局发布 1-9 月份全国电力统计数据。 截至 9 月底，全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%。其中，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。 1-9 月份，全国发电设备累计平均利用 2174 小时，比上年同期降低 194 小时。 IT之家注意到，国家能源局此前发布数据显示，今年 9 月份，全社会用电量 8997 亿千瓦时",
+      "content": "<p data-vmark=\"b6c1\">IT之家 10 月 26 日消息，10 月 26 日，国家能源局发布 1-9 月份全国电力统计数据。</p><p data-vmark=\"be98\">截至 9 月底，全国累计发电装机容量 41.3 亿千瓦，<strong>同比增长 11.2%</strong>。其中，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。</p><p data-vmark=\"f8ba\">1-9 月份，全国发电设备累计平均利用 2174 小时，比上年同期降低 194 小时。</p><p style=\"text-align: center;\" data-vmark=\"bd1b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f81f97d6-ec76-45e6-9632-9f3b5a47fa9e.png?x-bce-process=image/format,f_auto\" w=\"685\" h=\"961\" data-weibo=\"0\" data-vmark=\"94cd\" class=\"no-alt-img\"></p><p data-vmark=\"5c2a\">IT之家注意到，国家能源局此前发布数据显示，今年 9 月份，<strong>全社会用电量 8997 亿千瓦时，同比增长 1.2%</strong>。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bc42\">第一产业用电量 135 亿千瓦时，同比增长 4.1%。</p></li><li><p data-vmark=\"5392\">第二产业用电量 5800 亿千瓦时，同比增长 1.7%；其中，工业用电量 5751 亿千瓦时，同比增长 1.8%，高技术及装备制造业用电量 1167 亿千瓦时，同比增长 4.6%。</p></li><li><p data-vmark=\"9c48\">第三产业用电量 1852 亿千瓦时，同比增长 4.9%；其中，充换电服务业、互联网数据服务用电量分别为 168 亿、98 亿千瓦时，增速分别达到 57.0%、35.4%。</p></li><li><p data-vmark=\"737b\">城乡居民生活用电量 1210 亿千瓦时，同比下降 6.0%，主要原因是受“<span>沙德尔</span>”台风等极端天气影响，9 月上中旬，华中、华东、南方等高负荷区域降温用电需求下降。</p></li></ul>",
+      "link": "https://www.ithome.com/1/017/918.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/918.htm"
+    },
+    {
+      "id": 3647,
+      "title": "小米“米家洗鞋机 3KG”11 月 2 日开启众筹：可洗运动鞋 / 帆布鞋、支持除菌，799 元起",
+      "summary": "IT之家 10 月 26 日消息，小米宣布将推出一款“米家洗鞋机 3KG”，该产品将于 11 月 2 日 10 点在有品开启众筹，建议零售价 1299 元，众筹价 799 元起。 该产品整体采用米家白色家族式外观，整机占地 0.18m2，阳台柜、洗衣房均可摆放。其号称能够通过波轮高速旋转带动 3D 立体水流全方位冲刷鞋面、鞋底纹路及鞋内衬，能够显著清除泥渍、草渍、汗渍等常见污渍。 该产品适配运动鞋、休闲鞋、童鞋、帆布鞋、板鞋、运动拖鞋等，单次可批量清洗 2-4 双，无需复杂操",
+      "content": "<p data-vmark=\"e401\">IT之家 10 月 26 日消息，小米宣布将推出一款“米家洗鞋机 3KG”，该产品将于 11 月 2 日 10 点在有品开启众筹，建议零售价 1299 元，众筹价 799 元起。</p><p data-vmark=\"a005\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ac2419f1-702e-407b-929c-d8ac3088cf55.png\" w=\"888\" h=\"896\" data-weibo=\"0\" data-vmark=\"30e5\" class=\"no-alt-img\"></p><p data-vmark=\"ca7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bb115069-6497-49fb-879d-77f93cad4136.png\" w=\"890\" h=\"974\" data-weibo=\"1\" data-vmark=\"5017\" class=\"no-alt-img\"></p><p data-vmark=\"e05d\">该产品整体采用米家白色家族式外观，整机占地 0.18m2，阳台柜、洗衣房均可摆放。其号称能够通过波轮高速旋转带动 3D 立体水流全方位冲刷鞋面、鞋底纹路及鞋内衬，能够显著清除泥渍、草渍、汗渍等常见污渍。</p><p data-vmark=\"6f4e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3fe715a1-18e7-4282-917f-74a17cfd20bf.png\" w=\"884\" h=\"544\" data-weibo=\"2\" data-vmark=\"7d01\" class=\"no-alt-img\"></p><p data-vmark=\"7818\">该产品适配运动鞋、休闲鞋、童鞋、帆布鞋、板鞋、运动拖鞋等，单次可批量清洗 2-4 双，无需复杂操作，开盖一键开启清洗。提供标准洗、强力洗、快速洗、除菌洗、多用洗、漂 + 脱、单脱水、筒清洁共 8 种程序，支持 24 小时预约，20 分钟极速快洗免拆鞋带、一键启动。</p><p data-vmark=\"5662\">同时，该产品可实现除菌抑菌双重防护，实测 99% 去除红色毛癣菌，99.8% 去除大肠埃希氏菌，99.6% 去除金黄色葡萄球菌，99.99% 抑制大肠埃希氏菌与金黄色葡萄球菌，并配备健康筒自洁程序，有效防止泥沙沉积造成二次污染。</p>",
+      "link": "https://www.ithome.com/1/017/916.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/916.htm"
+    },
+    {
+      "id": 3648,
+      "title": "极摩客推出 NucBox M3S 迷你主机：酷睿 3 304 处理器、12GB 内存",
+      "summary": "IT之家 10 月 26 日消息，极摩客现已在海外市场推出 NucBox M3S 迷你主机，新品采用英特尔 Wildcat Lake 平台，支持 USB4、三屏 4K 输出，提供 12GB 板载内存，定价 389.99 美元。 据介绍，这款迷你主机搭载英特尔酷睿 3 304 处理器，带有 1 个性能核心及 4 个能效核心，最高睿频可达 4.3GHz，最高功耗为 25W。 同时，该迷你主机配备 12GB LPDDR5-5600 板载内存，SSD 可选 256GB 或 512GB",
+      "content": "<p data-vmark=\"0648\">IT之家 10 月 26 日消息，极摩客现已在海外市场推出 NucBox M3S 迷你主机，新品采用英特尔 Wildcat Lake 平台，支持 USB4、三屏 4K 输出，提供 12GB 板载内存，定价 389.99 美元。</p><p style=\"text-align: center;\" data-vmark=\"89a2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e7998c52-1f5f-425f-9bcb-8bb6ec3af82d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"0\" data-vmark=\"2214\" class=\"no-alt-img\"></p><p data-vmark=\"239f\">据介绍，<strong>这款迷你主机搭载英特尔酷睿 3 304 处理器</strong>，带有 1 个性能核心及 4 个能效核心，最高睿频可达 4.3GHz，最高功耗为 25W。</p><p data-vmark=\"fd73\">同时，<strong>该迷你主机配备 12GB LPDDR5-5600 板载内存</strong>，SSD 可选 256GB 或 512GB。机内提供第二个 M.2 2280 插槽，支持 PCIe 4.0，用户可自行扩展存储空间。接口方面，<strong>该机提供 1 个 USB4 Type-C</strong>、2 个 HDMI 2.0、3 个 USB 3.2 Gen 2 Type-A、1 个 USB 2.0、1 个 3.5mm 接口和 1 个 2.5GbE 网口。</p><p data-vmark=\"3985\">此外，该迷你主机的机身尺寸为 114 × 106 × 42.5 mm，重量约 430g，预装 Windows 11 操作系统，最多可连接 3 台 4K 显示器。</p>",
+      "link": "https://www.ithome.com/1/017/911.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/911.htm"
+    },
+    {
+      "id": 3649,
+      "title": "消息称某厂 2027H1 影像旗舰评估阔屏，预计华为旗下",
+      "summary": "IT之家 10 月 26 日消息，据博主 @数码闲聊站 今日爆料，某厂 2027H1 影像旗舰在评估阔屏，据我摸到的工程机信息，标准版继续用 6.6 英寸中屏，Pro / Pro Max 换阔屏，尺寸还是 6.39 英寸左右，定义全能阔屏影像旗舰。结合该博主此前的爆料习惯，该产品预计为华为旗下。 据该博主此前透露，华为阔直板手机有多产品线布局的动作，n 中端线（预计指 nova 产品线）也在评估阔直板中。有网友询问 Mate 系列是否会推出阔直板形态手机，博主表示：“Mate",
+      "content": "<p data-vmark=\"ae69\">IT之家 10 月 26 日消息，据博主 @数码闲聊站 今日爆料，某厂 2027H1 影像旗舰在评估阔屏，据我摸到的工程机信息，标准版继续用 6.6 英寸中屏，<strong>Pro / Pro Max 换阔屏</strong>，尺寸还是 6.39 英寸左右，定义全能阔屏影像旗舰。结合该博主此前的爆料习惯，该产品预计为华为旗下。</p><p data-vmark=\"491d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/12a617ec-063d-4d31-9cdc-411d0a94ff96.png\" w=\"750\" h=\"246\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5358279658047095%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d14d4830c15873f88e4c1568625c709d4afdd05d3fb77f3528987c6625243fb2edce8732905eaa8783\" data-vmark=\"54a2\" class=\"no-alt-img\"></p><p data-vmark=\"f5bf\">据该博主此前透露，华为阔直板手机有多产品线布局的动作，n 中端线（预计指 nova 产品线）也在评估阔直板中。有网友询问 Mate 系列是否会推出阔直板形态手机，博主表示：“Mate 暂时没有这个计划。”</p><p data-vmark=\"0ed2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/48cc5e97-ec86-4067-94b3-da908bf7bbd5.png\" w=\"800\" h=\"1008\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRlHr32TbN%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"d7c9\" class=\"lazy no-alt-img\" title=\"消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中\" data-weibo=\"1\" data-mpos=\"2,2\" ></p><p data-vmark=\"14af\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/348.htm\">全球首款阔直板手机 —— 华为 Pura X View 已于 9 月 7 日正式上市</a>，正面配备一块 6.39 英寸 2232×1320 分辨率<strong> 16:9.5 比例面板</strong>。该机围绕阔屏形态开发了阔感观剧、阔感阅读、阔感游戏和阔感办公等场景化体验，出厂预装鸿蒙 HarmonyOS 7 系统。此外，该机搭载麒麟 9030S 处理器，定价 5999 元起。</p>",
+      "link": "https://www.ithome.com/1/017/908.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/908.htm"
+    },
+    {
+      "id": 3650,
+      "title": "华为余承东预热 2026 央视鸿蒙星光盛典：致敬每一位生态建设者，也感谢所有用户一路相伴",
+      "summary": "IT之家 10 月 26 日消息，央视频今日宣布，2026《鸿蒙星光盛典》将于 12 月 5 日在深圳湾体育中心“春茧”体育场举办，共同见证鸿蒙应用体验进入成熟好用阶段。 IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，预热了 2026 央视鸿蒙星光盛典： 共赴星光之约，期待 2026 央视鸿蒙星光盛典，致敬每一位生态建设者，也感谢所有用户一路相伴。 据IT之家此前报道，10 月 1 日，在华为 Mate 90 系列及全场景新品发布会上",
+      "content": "<p data-vmark=\"5281\">IT之家 10 月 26 日消息，央视频今日宣布，2026《鸿蒙星光盛典》将于 12 月 5 日在深圳湾体育中心“春茧”体育场举办，共同见证鸿蒙应用体验进入成熟好用阶段。</p><p style=\"text-align: center;\" data-vmark=\"470c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/45591360-d3b8-47df-94c4-2a5c37b0af12.jpg?x-bce-process=image/format,f_auto\" w=\"1274\" h=\"1072\" data-vmark=\"f7ef\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d19706e72df32fc8860e50baaedd9c9446d56a8a145b3d8503b81c1386a480739c875483482653015a\" class=\"no-alt-img\"></p><p data-vmark=\"a750\">IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，预热了 2026 央视鸿蒙星光盛典：</p><blockquote><p data-vmark=\"daa1\">共赴星光之约，期待 2026 央视鸿蒙星光盛典，<strong>致敬每一位生态建设者，也感谢所有用户一路相伴</strong>。</p></blockquote><p style=\"text-align: center;\" data-vmark=\"d30a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e314f47b-e9f8-4244-8d37-0dcb23500698.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"755\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1ad743e78ac63dee2be2643d00af4ef81fd1c1c82a07de3cefaa77f759c5ca9131f3551ed404a3cdd\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1100856704%2FRos6e5bIY%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"e1a9\" class=\"no-alt-img\"></p><p data-vmark=\"e67d\">据IT之家此前报道，10 月 1 日，在华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东曾宣布，<strong>鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万</strong>。华为轮值董事长徐直军曾表示，<a target=\"_blank\" href=\"https://www.ithome.com/0/995/471.htm\">预计今年第四季度会突破 1 亿用户</a>。</p><p style=\"text-align: center;\" data-vmark=\"8fb4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bc4a0229-d8dd-42b9-ae73-d403126da46f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"806\" data-vmark=\"e75d\" class=\"no-alt-img\"></p><p data-vmark=\"c713\">去年的总台大型直播晚会《鸿蒙星光盛典》最初定档 11 月 28 日，后因香港新界大埔屋邨宏福苑多栋住宅楼发生火灾，原定 11 月 28 日晚的活动延迟举办，并最终在 12 月 20 日采取录播的形式进行播出。</p><p style=\"text-align: center;\" data-vmark=\"6344\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/07ef345c-3ca4-43c8-b0cb-0f0be8a1d6ae.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"718\" data-vmark=\"dea9\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"d020\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4997\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/017/905.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/905.htm"
+    },
+    {
+      "id": 3651,
+      "title": "Gartner 预测：全球 IT 支出将在 2027 年突破 7 万亿美元，同比 +15%",
+      "summary": "IT之家 10 月 26 日消息，机构 Gartner（高德纳）当地时间本月 21 日发布预测：2027 年全球 IT 支出将在今年的基础上进一步增长 15% 至 7.352 万亿美元（IT之家注：现汇率约合 49.09 万亿元人民币），首次突破七万亿美元关口。 IT之家注意到，Gartner 认为数据中心系统支出将在 2027 年迅速缩小同通信服务之间的差距，其与软件、服务间的距离也将仅剩约 3000 亿美元。 今年支出今年变化明年支出明年变化 数据中心系统8790+73.",
+      "content": "<p data-vmark=\"c1d6\">IT之家 10 月 26 日消息，机构 Gartner（高德纳）当地时间本月 21 日发布预测：<strong>2027 年全球 IT 支出将在今年的基础上进一步增长 15% 至 7.352 万亿美元</strong><span class=\"exch-money-value \">（IT之家注：现汇率约合 49.09 万亿元人民币）</span>，首次突破七万亿美元关口。</p><p data-vmark=\"7a04\">IT之家注意到，Gartner 认为<strong>数据中心系统支出将在 2027 年迅速缩小同通信服务之间的差距</strong>，其与软件、服务间的距离也将仅剩约 3000 亿美元。</p><table align=\"center\"><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\"><br></td><td valign=\"middle\" align=\"center\">今年支出</td><td valign=\"middle\" align=\"center\">今年变化</td><td valign=\"middle\" align=\"center\">明年支出</td><td valign=\"middle\" align=\"center\">明年变化</td></tr><tr><td valign=\"middle\" align=\"center\">数据中心系统</td><td valign=\"middle\" align=\"center\">8790</td><td valign=\"middle\" align=\"center\">+73.8%</td><td valign=\"middle\" align=\"center\">13660</td><td valign=\"middle\" align=\"center\"><em>+55.5%</em></td></tr><tr><td valign=\"middle\" align=\"center\">设备</td><td valign=\"middle\" align=\"center\">8740</td><td valign=\"middle\" align=\"center\">+7.2%</td><td valign=\"middle\" align=\"center\">9160</td><td valign=\"middle\" align=\"center\">+8.1%</td></tr><tr><td valign=\"middle\" align=\"center\">软件</td><td valign=\"middle\" align=\"center\">14640</td><td valign=\"middle\" align=\"center\">+15.2%</td><td valign=\"middle\" align=\"center\">16790</td><td valign=\"middle\" align=\"center\">+14.6%</td></tr><tr><td valign=\"middle\" align=\"center\">服务</td><td valign=\"middle\" align=\"center\">15570</td><td valign=\"middle\" align=\"center\">+4.4%</td><td valign=\"middle\" align=\"center\">16330</td><td valign=\"middle\" align=\"center\">+4.9%</td></tr><tr><td valign=\"middle\" align=\"center\">基础设施即服务</td><td valign=\"middle\" align=\"center\">2920</td><td valign=\"middle\" align=\"center\">+31.3%</td><td valign=\"middle\" align=\"center\">3670</td><td valign=\"middle\" align=\"center\"><em>+25.7%</em></td></tr><tr><td valign=\"middle\" align=\"center\">通信服务</td><td valign=\"middle\" align=\"center\">13520</td><td valign=\"middle\" align=\"center\">+4.1%</td><td valign=\"middle\" align=\"center\">13910</td><td valign=\"middle\" align=\"center\">+2.9%</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\"><strong> 合计</strong></td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\"><strong> 63910</strong></td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\"><strong>+14.5%</strong></td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\"><strong>73520</strong></td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\"><strong>+15.0%</strong></td></tr></tbody></table><figcaption>以上支出金额单位均为 1 亿美元</figcaption><p data-vmark=\"6235\">Gartner 杰出副总裁分析师 John-David Lovelock 表示：“内存通胀”预计将持续到 2027 年，高昂的存储半导体价格将持续抑制终端用户需求；<strong>基础设施正日益被视为战略资产</strong>；整体 AI IT 支出将出现爆炸性增长。</p><p data-vmark=\"45b9\"><span class=\"referenceTitle \">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"b000\"><a target=\"_blank\" href=\"https://www.gartner.com/en/newsroom/press-releases/2026-10-21-gartner-forecasts-worldwide-it-spending-to-grow-15-percent-in-2027-totaling-7-point-35-trillion\">Gartner Forecasts Worldwide IT Spending to Grow 15% in 2027, Totaling $7.35 Trillion</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/017/902.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/902.htm"
+    },
+    {
+      "id": 3652,
+      "title": "AI 交易热情降温，两只挂钩 SK 海力士的美股杠杆 ETF 将退市清算",
+      "summary": "IT之家 10 月 26 日消息，据彭博社报道，两只挂钩 SK 海力士（SK Hynix）的杠杆 ETF，在美国上市仅仅数月后就要清盘，背后原因是市场对 AI 交易行情的投资热情降温。 Tradr ETF 发行的这两只多头和空头产品，分别跟踪这家韩国芯片厂商的美国存托凭证（ADR），提供两倍于每日表现的收益或反向收益。ETF 发行方公告显示，SKHA（2 倍多）与 SKHN（2 倍空）大约将在 11 月 12 日进行清盘。 今年，SK 海力士以及同行三星电子的股价剧烈震荡，资",
+      "content": "<p data-vmark=\"72fb\">IT之家 10 月 26 日消息，据彭博社报道，两只挂钩 SK 海力士（SK Hynix）的杠杆 ETF，在美国上市仅仅数月后就要清盘，背后原因是市场对 AI 交易行情的投资热情降温。</p><p style=\"text-align: center;\" data-vmark=\"2233\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/70f50dcf-1e58-4e22-8869-8adeb2d1c976.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"822\" data-weibo=\"0\" data-vmark=\"e95d\" class=\"no-alt-img\"></p><p data-vmark=\"d289\">Tradr ETF 发行的这两只多头和空头产品，分别跟踪这家韩国芯片厂商的美国存托凭证（ADR），提供两倍于每日表现的收益或反向收益。ETF 发行方公告显示，SKHA（2 倍多）与 SKHN（2 倍空）大约将在 11 月 12 日进行清盘。</p><p data-vmark=\"618d\">今年，SK 海力士以及同行三星电子的股价剧烈震荡，资金在 AI 概念股里快进快出。韩国及其他地区的杠杆 ETF 会放大个股日内波动，进一步加剧行情起伏；韩国本土监管机构近期也已经收紧了这类产品的监管规则。</p><p style=\"text-align: center;\" data-vmark=\"5f37\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e69b626b-5edc-45c7-8f1e-91fff0bba158.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1032\" data-weibo=\"1\" data-vmark=\"e002\" class=\"no-alt-img\"></p><p data-vmark=\"db41\">SK 海力士首尔上市的股票，相比历史高点已经下跌 56%。市场对 AI 热潮的乐观情绪消退，投资者开始担忧：公司为大规模基建投入背负的高额融资成本会带来压力。</p><p data-vmark=\"10e5\">这两只 Tradr ETF 于 7 月 28 日挂牌上市，距离 SK 海力士 ADR 登陆美股仅仅过去几周。ProShares、Leverage Shares、Direxion 等多家机构也都推出过挂钩 SK 海力士的同类杠杆产品。</p><p data-vmark=\"7a69\">自上市以来，Tradr 两倍多仓 SK 海力士 ETF 跌幅超 5%；做空 ETF 更是大跌 42%。同期 SK 海力士 ADR 小幅上涨约 5%，表现强于其韩国本土正股。</p><p data-vmark=\"3cb1\">两只产品的总资产相对峰值缩水超六成，当前合计规模仅约 130 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 868.1 万元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/017/896.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/017/896.htm"
+    },
+    {
+      "id": 3653,
+      "title": "Pura 90 Plus登场！华为双十一焕新季·全场景新品发布会",
+      "summary": "北京时间10月28日14:30，华为双十一焕新季·全场景新品发布会，我们不见不散。",
+      "content": "<p>北京时间10月28日14:30，华为双十一焕新季·全场景新品发布会，我们不见不散。</p>",
+      "link": "https://news.mydrivers.com/1/1160/1160499.htm",
+      "source": "快科技 / 驱动之家",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "硬件",
+        "资讯"
+      ],
+      "guid": "https://news.mydrivers.com/1/1160/1160499.htm"
+    },
+    {
+      "id": 3655,
+      "title": "NVIDIA Cuts HBM4 Speed and NVLink Bandwidth Targets for \"Vera Rubin\"",
+      "summary": "NVIDIA has officially implemented changes across its \"Vera Rubin\" product line, reducing target specifications for memory and interconnect fabric. According to the updated product specification sheet, the first change involves HBM4 memory. ",
+      "content": "NVIDIA has officially implemented changes across its &quot;Vera Rubin&quot; product line, reducing target specifications for memory and interconnect fabric. According to the updated product specification sheet, the first change involves HBM4 memory. Previously, NVIDIA used HBM4 with a speed of 11.7 Gbps per pin, which has now been reduced to 9.6 Gbps per pin. In a &quot;Vera Rubin&quot; NVL72 rack-scale solution, NVIDIA now offers a total memory bandwidth of 1,400 TB/s, down from the previously advertised 1,580 TB/s. While this issue does not stem directly from NVIDIA's suppliers, it indicates that the company's implementation of memory bus width and overall electrical signaling is insufficient to support higher speeds.<br />\r\n<br />\r\nHowever, the changes are not limited to memory. NVIDIA has also reduced the previously advertised NVLink bandwidth per GPU, decreasing it from 1.8 TB/s to 1.5 TB/s. This results in a reduction from 3.6 TB/s to 3 TB/s in bidirectional NVLink GPU bandwidth. The underlying issue is related to signal integrity, as NVIDIA reportedly lowered the NVLink Nyquist frequency target from 56 GHz to 47 GHz. Lowering the Nyquist frequency reduces the electrical demands on the SerDes, cables, and materials, which can improve manufacturing yields and overall feasibility, even though it requires accepting a small reduction in peak interconnect bandwidth. Thus, NVIDIA chose to sacrifice some bandwidth to enhance system stability. Below is the new system specification in light mode, and old system specification in dark mode.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/hnyDL2J1QPjzDn1A.jpg\" target=\"_blank\" data-width=\"1070\" data-height=\"601\" ><img src=\"https://tpucdn.com/img/hnyDL2J1QPjzDn1A_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/WQi0VUCf0Wo6FwYE.jpg\" target=\"_blank\" data-width=\"767\" data-height=\"627\" ><img src=\"https://tpucdn.com/img/WQi0VUCf0Wo6FwYE_thm.jpg\" width=\"159\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/zEp83xFMkmqgdQF6.jpg\" target=\"_blank\" data-width=\"1012\" data-height=\"850\" ><img src=\"https://tpucdn.com/img/zEp83xFMkmqgdQF6_thm.jpg\" width=\"155\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354133/nvidia-cuts-hbm4-speed-and-nvlink-bandwidth-targets-for-vera-rubin\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354133/nvidia-cuts-hbm4-speed-and-nvlink-bandwidth-targets-for-vera-rubin",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "487fde943f3aaf258bfd6443f26cd08a"
+    },
+    {
+      "id": 3656,
+      "title": "Vantex V1 Launches as No-Frills Ergonomic Mechanical Keyboard with Built-in Trackpad",
+      "summary": "The Vantex V1 is a new mechanical keyboard project that recently launched on Kickstarter. It takes the columnar stagger ergonomic layout found on split keyboards, like the Corne or Silakka54 and builds it into a more manageable aluminium un",
+      "content": "The <a rel=\"nofollow\" href=\"https://www.kickstarter.com/projects/536816625/vantex-v1-the-keyboard-with-a-built-in-touchscreen/description\" target=\"_blank\">Vantex V1</a> is a new mechanical keyboard project that recently launched on Kickstarter. It takes the columnar stagger ergonomic layout found on split keyboards, like the Corne or <a href=\"https://www.techpowerup.com/352195/modder-creates-affordable-open-source-hall-effect-split-ergonomic-keyboard\" target=\"_blank\">Silakka54</a> and builds it into a more manageable aluminium unibody chassis, replete with a central trackpad, for an all-in-one input solution. The Vantex V1 is available in both a tri-mode wireless (2.4 GHz, Bluetooth, and USB-C wired) version, starting at $159 on Kickstarter ($159 MSRP) or in a wired version that starts at $129 on Kickstarter ($259 MSRP). <br />\r\n<br />\r\nThe Vantex V1 has a fairly compact, but adaptable 60% layout, although it uses only 1u or 1.25u keys for all but the long key under the trackpad, which should make it easy to get used to for newcomers to the ergonomic keyboard space, and it has three shortcut keys above the trackpad for custom mouse keys, navigation, macros, or other user-defined functionality. The central trackpad, arguably the star of the show, is a 45 × 45 mm unit with multitouch gestures, and Vantex says that the keyboard has four programmable layers, one of which can easily be set up as a mouse layer, depending on the included firmware, which has yet to be disclosed.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/FBj0FDFQQRzT2w2A.jpg\" target=\"_blank\" data-width=\"1748\" data-height=\"1025\" ><img src=\"https://tpucdn.com/img/FBj0FDFQQRzT2w2A_thm.jpg\" width=\"222\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/W0Lz1hujDAJmWaDf.jpg\" target=\"_blank\" data-width=\"680\" data-height=\"680\" ><img src=\"https://tpucdn.com/img/W0Lz1hujDAJmWaDf_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354128/vantex-v1-launches-as-no-frills-ergonomic-mechanical-keyboard-with-built-in-trackpad\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354128/vantex-v1-launches-as-no-frills-ergonomic-mechanical-keyboard-with-built-in-trackpad",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "4baa1c2a1d8fd62b081fbc1135942cd4"
+    },
+    {
+      "id": 3657,
+      "title": "SteamOS 3.9.0 Preview Launches With KDE 6.7.3 and Linux Kernel 7.2",
+      "summary": "Following a recent small patch to the beta branch of SteamOS, which heralded fixes to many of the Linux distribution's desktop and gaming mode features, Valve has announced the SteamOS 3.9.0 Preview, which upgrades the Desktop Mode to KDE 6",
+      "content": "Following a <a href=\"https://www.techpowerup.com/352089/steamos-3-8-26-beta-squashes-numerous-bugs-and-performance-issues-in-desktop-and-gaming-mode\" target=\"_blank\">recent small patch to the beta branch of SteamOS</a>, which heralded fixes to many of the Linux distribution's desktop and gaming mode features, Valve has announced the <a rel=\"nofollow\" href=\"https://store.steampowered.com/news/app/1675200/view/689767056035283412\" target=\"_blank\">SteamOS 3.9.0 Preview</a>, which upgrades the Desktop Mode to <a href=\"https://www.techpowerup.com/350044/kde-plasma-6-7-launch-more-performance-features-and-ui-polish\" target=\"_blank\">KDE 6.7.3</a>, from 6.4.3, and updates to the Linux kernel version 7.2.<br />\r\n<br />\r\nBoth the updates to KDE and the Linux kernel bring noteworthy improvements—from improved Krunner search functionality, clipboard pinning, and better support for drawing tablets, to <a href=\"https://www.techpowerup.com/350905/intel-arc-b390-igpu-gets-sizeable-performance-boost-in-linux-7-2-benchmarks\" target=\"_blank\">Linux 7.2's Intel Arc B390 performance improvements</a> and <a href=\"https://www.techpowerup.com/349368/new-intel-usb4stream-driver-and-protocol-enables-low-latency-device-to-device-file-sharing-in-linux-kernel-7-2\" target=\"_blank\">USB4Stream</a> support for device-to-device sharing over USB4—But Valve has apparently also made some changes to the configuration that make SteamOS easier to live with. <br />\r\n<br />\r\n<b>Update Oct 26th</b>: SteamOS 3.9 has officially released to the Stable SteamOS update channel, bringing the aforementioned updates and expanded hardware compatibility to those who prefer a stable system over being on the bleeding edge. Full <a rel=\"nofollow\" href=\"https://steamcommunity.com/app/1675200/announcements/\" target=\"_blank\">update notes here</a>.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/UWhSmQFdGg9IwdxI.jpg\" target=\"_blank\" data-width=\"1169\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/UWhSmQFdGg9IwdxI_thm.jpg\" width=\"158\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/352133/steamos-3-9-0-preview-launches-with-kde-6-7-3-and-linux-kernel-7-2",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6d481386404e1f5943639dbe7429917c"
+    },
+    {
+      "id": 3658,
+      "title": "NVIDIA RTXPT 1.9 Path Tracer Gets Around 20% Faster, Adds Windows on Arm Support",
+      "summary": "NVIDIA has released version 1.9.0 of RTX Path Tracing (RTXPT), its open-source reference path tracer on GitHub, claiming roughly 20% better performance than the previous 1.8.1 release, with comparable or better image quality. RTXPT is a cod",
+      "content": "NVIDIA has released version 1.9.0 of <a href=\"https://www.techpowerup.com/306188/nvidia-previews-and-releases-path-tracing-sdk-at-gdc-2023\" target=\"_blank\">RTX Path Tracing</a> (RTXPT), its open-source reference path tracer on <a rel=\"nofollow\" href=\"https://github.com/NVIDIA-RTX/RTXPT/releases/tag/v.1.9.0\" target=\"_blank\">GitHub</a>, claiming roughly 20% better performance than the previous 1.8.1 release, with comparable or better image quality. RTXPT is a code sample for developers, meant as a starting point for building a path tracer or as a reference for NVIDIA's other ray tracing SDKs. Several changes add up to that uplift. The path tracer can now optionally trace only three quarters, half, or a quarter of the pixels each frame, and the built-in performance presets use this by default, along with lower bounce limits in the faster modes. <br />\r\n<br />\r\nOn DirectX 12, async compute lets the previous frame's <a href=\"https://www.techpowerup.com/349558/nvidia-introduces-2nd-gen-transformer-based-ray-reconstruction-now-part-of-dlss-4-5\" target=\"_blank\">DLSS Ray Reconstruction</a> and post-processing overlap with the next frame's path tracing, and TLAS instance generation has moved to the GPU. Lighting got some attention too. NEE-AT light sampling now handles up to 2 million lights, up from 512K, and the SHaRC radiance cache is on by default in real-time mode, apparently feeding more indirect lighting into DLSS Ray Reconstruction at about the same cost. Version 1.9 also adds Windows on ARM64 support. The release notes don't say why, though it's probably no coincidence, given NVIDIA's own <a href=\"https://www.techpowerup.com/353796/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs\" target=\"_blank\">Arm-based RTX Spark chip</a> for Windows PCs.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/xQGGQFbu57iGxA2h.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/xQGGQFbu57iGxA2h_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/til6TskHYg9K8qUn.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/til6TskHYg9K8qUn_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354124/nvidia-rtxpt-1-9-path-tracer-gets-around-20-faster-adds-windows-on-arm-support\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354124/nvidia-rtxpt-1-9-path-tracer-gets-around-20-faster-adds-windows-on-arm-support",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e15e46a05a5c5735dd96784b81f82384"
+    },
+    {
+      "id": 3659,
+      "title": "Citizen’s latest Eco-Drive watch stars Mickey Mouse playing football",
+      "summary": "Citizen’s latest Disney watch puts Mickey Mouse on the gridiron, complete with a football-inspired dial, luminous play diagrams, and retro artwork. The Touchdown Mickey Eco-Drive runs on light, so you can skip the battery changes while show",
+      "content": "Citizen’s latest Disney watch puts Mickey Mouse on the gridiron, complete with a football-inspired dial, luminous play diagrams, and retro artwork. The Touchdown Mickey Eco-Drive runs on light, so you can skip the battery changes while showing off your love for Disney and football.",
+      "link": "https://www.notebookcheck.net/Citizen-s-latest-Eco-Drive-watch-stars-Mickey-Mouse-playing-football.1433696.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Citizen-s-latest-Eco-Drive-watch-stars-Mickey-Mouse-playing-football.1433696.0.html"
+    },
+    {
+      "id": 3660,
+      "title": "Vivo officially intros 10,000mAh phone with 120Hz AMOLED display",
+      "summary": "Vivo has launched a new smartphone in China: the Y600. The budget-friendly smartphone features a large battery, a 120Hz AMOLED display, and 5G connectivity.",
+      "content": "Vivo has launched a new smartphone in China: the Y600. The budget-friendly smartphone features a large battery, a 120Hz AMOLED display, and 5G connectivity.",
+      "link": "https://www.notebookcheck.net/Vivo-officially-intros-10-000mAh-phone-with-120Hz-AMOLED-display.1433896.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Vivo-officially-intros-10-000mAh-phone-with-120Hz-AMOLED-display.1433896.0.html"
+    },
+    {
+      "id": 3661,
+      "title": "Sony may have secured a major AMD RDNA 5 advantage for its upcoming PlayStation handheld",
+      "summary": "Sony's upcoming PlayStation handheld could be the only portable gaming device equipped with a custom AMD RDNA 5 chip, according to new information from Digital Foundry. Thus, its competitors, including Xbox, may have to make do with older g",
+      "content": "Sony's upcoming PlayStation handheld could be the only portable gaming device equipped with a custom AMD RDNA 5 chip, according to new information from Digital Foundry. Thus, its competitors, including Xbox, may have to make do with older generations of RDNA iGPUs.",
+      "link": "https://www.notebookcheck.net/Sony-may-have-secured-a-major-AMD-RDNA-5-advantage-for-its-upcoming-PlayStation-handheld.1433897.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Sony-may-have-secured-a-major-AMD-RDNA-5-advantage-for-its-upcoming-PlayStation-handheld.1433897.0.html"
+    },
+    {
+      "id": 3662,
+      "title": "Affordable Intel Wildcat Lake mini PC launches with non-upgradeable RAM",
+      "summary": "GMKtec has launched the NucBox M3S, a compact mini PC powered by Intel's five-core Core 3 304 Wildcat Lake processor. It features USB4, triple 4K display support and dual M.2 SSD slots, and comes with just 12 GB of non-upgradeable RAM.",
+      "content": "GMKtec has launched the NucBox M3S, a compact mini PC powered by Intel's five-core Core 3 304 Wildcat Lake processor. It features USB4, triple 4K display support and dual M.2 SSD slots, and comes with just 12 GB of non-upgradeable RAM.",
+      "link": "https://www.notebookcheck.net/Affordable-Intel-Wildcat-Lake-mini-PC-launches-with-non-upgradeable-RAM.1433894.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Intel-Wildcat-Lake-mini-PC-launches-with-non-upgradeable-RAM.1433894.0.html"
+    },
+    {
+      "id": 3663,
+      "title": "No mic? Samsung TVs may hijack your soundbar to listen in, researcher claims",
+      "summary": "A researcher who reverse-engineered their 2025 Samsung TV says its telemetry counts dog-barking and baby-crying events and logs them to Samsung servers, in addition to tapping Bluetooth devices for audio. Sound detection is an advertised fe",
+      "content": "A researcher who reverse-engineered their 2025 Samsung TV says its telemetry counts dog-barking and baby-crying events and logs them to Samsung servers, in addition to tapping Bluetooth devices for audio. Sound detection is an advertised feature. Reporting those counts back to Samsung is not.",
+      "link": "https://www.notebookcheck.net/No-mic-Samsung-TVs-may-hijack-your-soundbar-to-listen-in-researcher-claims.1433508.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/No-mic-Samsung-TVs-may-hijack-your-soundbar-to-listen-in-researcher-claims.1433508.0.html"
+    },
+    {
+      "id": 3664,
+      "title": "11-inch 2.5K Android tablet announced with 8,200mAh battery and MediaTek processor",
+      "summary": "The itel VistaTab 32 is listed with an 11-inch 2.5K display, a MediaTek Helio G100 processor, 4GB of RAM and an 8,200mAh battery in the Philippines. It runs Android 16 and supports a keyboard case and stylus.",
+      "content": "The itel VistaTab 32 is listed with an 11-inch 2.5K display, a MediaTek Helio G100 processor, 4GB of RAM and an 8,200mAh battery in the Philippines. It runs Android 16 and supports a keyboard case and stylus.",
+      "link": "https://www.notebookcheck.net/11-inch-2-5K-Android-tablet-announced-with-8-200mAh-battery-and-MediaTek-processor.1433427.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/11-inch-2-5K-Android-tablet-announced-with-8-200mAh-battery-and-MediaTek-processor.1433427.0.html"
+    },
     {
       "id": 3542,
       "title": "数千亿Token测安全 AI仍能“隔墙传话” OpenAI前沿训练全面断网",
@@ -1149,6 +1705,35 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/The-16-core-Panther-Lake-variant-of-the-Lenovo-ThinkPad-T14-Gen-7-is-the-one-to-get.1433562.0.html"
+    },
+    {
+      "id": 3654,
+      "title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
+      "summary": "We check out the range of Aivres NVIDIA Vera, Vera Rubin, and Blackwell Ultra platforms at OCP Summit 2026 The post Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit appeared first on ServeTheHome.",
+      "content": "<p>We check out the range of Aivres NVIDIA Vera, Vera Rubin, and Blackwell Ultra platforms at OCP Summit 2026</p>\n<p>The post <a href=\"https://www.servethehome.com/aivres-nvidia-vera-rubin-and-hgx-b300-at-ocp-summit-2026/\">Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/aivres-nvidia-vera-rubin-and-hgx-b300-at-ocp-summit-2026/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=106221"
+    },
+    {
+      "id": 3665,
+      "title": "Gurman: Apple to unveil OLED MacBook Pro with touchscreen in days, alongside M6 iMac",
+      "summary": "Apple is preparing its biggest MacBook Pro redesign in years, with OLED displays, touchscreen support and a Dynamic Island-style cutout reportedly coming on October 28. The company is also working on an M6-powered iMac with new color option",
+      "content": "Apple is preparing its biggest MacBook Pro redesign in years, with OLED displays, touchscreen support and a Dynamic Island-style cutout reportedly coming on October 28. The company is also working on an M6-powered iMac with new color options.",
+      "link": "https://www.notebookcheck.net/Gurman-Apple-to-unveil-OLED-MacBook-Pro-with-touchscreen-in-days-alongside-M6-iMac.1433688.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-25",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Gurman-Apple-to-unveil-OLED-MacBook-Pro-with-touchscreen-in-days-alongside-M6-iMac.1433688.0.html"
     },
     {
       "id": 3477,
