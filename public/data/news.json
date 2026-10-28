@@ -1,7 +1,647 @@
 {
-  "updatedAt": "2026-10-27",
-  "total": 3833,
+  "updatedAt": "2026-10-28",
+  "total": 3883,
   "list": [
+    {
+      "id": 3834,
+      "title": "SK海力士警告：即使持续扩产 全球存储器供应紧张局面或延续至2030年",
+      "summary": "韩国存储芯片巨头SK海力士近日对未来数年的存储市场前景发出预警。公司表示，尽管行业正在积极扩大产能，但在人工智能快速发展的推动下，高性能存储器需求增长速度仍将超过供给增速，全球存储芯片短缺现象可能持续至2030年前后。 阅读全文",
+      "content": "<p>韩国存储芯片巨头SK海力士近日对未来数年的存储市场前景发出预警。公司表示，尽管行业正在积极扩大产能，但在人工智能快速发展的推动下，高性能存储器需求增长速度仍将超过供给增速，全球存储芯片短缺现象可能持续至2030年前后。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584160.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584160.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584160.htm"
+    },
+    {
+      "id": 3835,
+      "title": "葡萄牙零售商提前上架摩托罗拉Signature 27与Razr Flex",
+      "summary": "葡萄牙零售商MegaPC的商品页面出现Motorola Signature 27与Razr Flex两款新机的价格。其中，Signature 27的12GB内存、512GB存储版本标价1594.90欧元，配色为Pantone Coal Smoke；页面显示暂时缺货，也没有公布发货时间。 阅读全文",
+      "content": "<p>葡萄牙零售商MegaPC的商品页面出现Motorola Signature 27与Razr Flex两款新机的价格。其中，Signature 27的12GB内存、512GB存储版本标价1594.90欧元，配色为Pantone Coal Smoke；页面显示暂时缺货，也没有公布发货时间。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584146.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584146.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584146.htm"
+    },
+    {
+      "id": 3836,
+      "title": "前三季度净利腰斩 “果链女王”仍强势问鼎中国女首富",
+      "summary": "10月27日，《2026胡润百富榜》重磅揭晓，字节跳动创始人张一鸣以6700亿元的身家再度成为中国首富，并刷新了中国首富的财富纪录；而中国女首富的桂冠，则被周群飞以近1300亿元的财富摘得。 阅读全文",
+      "content": "<p>10月27日，《2026胡润百富榜》重磅揭晓，字节跳动创始人张一鸣以6700亿元的身家再度成为中国首富，并刷新了中国首富的财富纪录；而中国女首富的桂冠，则被周群飞以近1300亿元的财富摘得。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584128.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584128.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584128.htm"
+    },
+    {
+      "id": 3837,
+      "title": "触屏带来涨价 消息称新款MacBook Pro售价或创纪录",
+      "summary": "据彭博社报道，苹果公司在本月成功断定消费者愿意为折叠屏iPhone支付2000美元甚至更高价格。现在，它正准备通过另一款昂贵新品考验消费者的购买意愿：触摸屏笔记本电脑。 阅读全文",
+      "content": "<p>据彭博社报道，苹果公司在本月成功断定消费者愿意为折叠屏iPhone支付2000美元甚至更高价格。现在，它正准备通过另一款昂贵新品考验消费者的购买意愿：触摸屏笔记本电脑。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584122.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584122.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584122.htm"
+    },
+    {
+      "id": 3838,
+      "title": "苹果首款触屏MacBook Pro爆料：定价外观散热全都大改",
+      "summary": "彭博社记者马克·古尔曼在苹果Pro and Tell活动前夕释出最后爆料，苹果首款搭载OLED触摸屏的MacBook Pro将于明日正式登场。这款被寄予厚望的旗舰机型不仅引入了触控交互，起售价更是刷新了纪录，14英寸版本预计从2899美元（约合人民币20658元）起售。 阅读全文",
+      "content": "<p><strong>彭博社记者马克·古尔曼在苹果Pro and Tell活动前夕释出最后爆料，苹果首款搭载OLED触摸屏的MacBook Pro将于明日正式登场。</strong>这款被寄予厚望的旗舰机型不仅引入了触控交互，起售价更是刷新了纪录，14英寸版本预计从2899美元（约合人民币20658元）起售。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584116.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584116.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584116.htm"
+    },
+    {
+      "id": 3839,
+      "title": "AI推高内存等成本 消息称惠普等PC大厂将部分生产转回中国",
+      "summary": "10月28日，据《日经亚洲》报道，惠普、华硕和宏碁等主要PC制造商正在通过将部分生产从泰国、越南迁回中国，并启用新一代代工制造商的方式，来应对不断飙升的部件成本。 阅读全文",
+      "content": "<p>10月28日，据《日经亚洲》报道，惠普、华硕和宏碁等主要PC制造商正在通过将部分生产从泰国、越南迁回中国，并启用新一代代工制造商的方式，来应对不断飙升的部件成本。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584112.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584112.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584112.htm"
+    },
+    {
+      "id": 3840,
+      "title": "OpenAI计划采购Google TPU",
+      "summary": "据知情人士透露，OpenAI打算从Alphabet旗下的Google购买AI芯片，这是这家ChatGPT开发商扩建其AI基础设施庞大布局中的最新一环。该知情人士表示，任何交易的最终条款目前尚不得而知。OpenAI和Google则均拒绝置评。 阅读全文",
+      "content": "<p>据知情人士透露，OpenAI打算从Alphabet旗下的Google购买AI芯片，这是这家ChatGPT开发商扩建其AI基础设施庞大布局中的最新一环。该知情人士表示，任何交易的最终条款目前尚不得而知。OpenAI和Google则均拒绝置评。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584108.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584108.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584108.htm"
+    },
+    {
+      "id": 3841,
+      "title": "中国互联网到底存不存在“字节时间”？秦朔与抖音李亮各执一词",
+      "summary": "近日，秦朔朋友圈发起人秦朔因“中国互联网到底存不存在‘字节时间’”的论点，与抖音集团副总裁李亮陷入一场“论战”。10月26日，秦朔发表署名文章《可怕的红果与中国互联网的字节时间》，文章引述相关数据对比了腾讯系和抖音系的用户消费时长提出，中国互联网是不是正在开启一种新秩序——从腾讯时间到字节时间，从微信时间到“抖音+红果时间”？ 阅读全文",
+      "content": "<p>近日，秦朔朋友圈发起人秦朔因“中国互联网到底存不存在‘字节时间’”的论点，与抖音集团副总裁李亮陷入一场“论战”。10月26日，秦朔发表署名文章<strong>《可怕的红果与中国互联网的字节时间》</strong>，文章引述相关数据对比了腾讯系和抖音系的用户消费时长提出，中国互联网是不是正在开启一种新秩序——从腾讯时间到字节时间，从微信时间到“抖音+红果时间”？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584094.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584094.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584094.htm"
+    },
+    {
+      "id": 3842,
+      "title": "中国互联网到底存不存在“字节时间”？抖音李亮再次发文回应秦朔",
+      "summary": "近日，秦朔朋友圈发起人秦朔因“中国互联网到底存不存在‘字节时间’”的论点，与抖音集团副总裁李亮陷入一场“论战”。秦朔在朋友圈发文称，按野村证券援引QuestMobile的数据，2026年8月中国移动互联网使用时长Top50 App中，字节系占41.8%，腾讯系占28.6%，两者差距约13.2个百分点。 阅读全文",
+      "content": "<p><strong>近日，秦朔朋友圈发起人秦朔因“中国互联网到底存不存在‘字节时间’”的论点，与抖音集团副总裁李亮陷入一场“论战”。</strong>秦朔在朋友圈发文称，按野村证券援引QuestMobile的数据，2026年8月中国移动互联网使用时长Top50 App中，字节系占41.8%，腾讯系占28.6%，两者差距约13.2个百分点。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584090.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584090.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584090.htm"
+    },
+    {
+      "id": 3843,
+      "title": "字节跳动旗下应用使用率超过竞争对手",
+      "summary": "根据野村证券的数据，今年 7 月在中国移动互联网使用时长排名前 50 的应用中，抖音首次超过微信，占总时长的 19.4%，微信占 18.8%；整个字节系的时长份额达 40.9%，腾讯系占 28.6%。字节旗下红果免费短剧的日活跃用户达到 1.68 亿人，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的总和。红果短剧的日均使用时长约 125 分钟，抖音约 112-120 分钟，均超过腾讯系产品微信的 82=85 分钟。字节跳动抖音海外版 TikTok 以及 AI 助手豆",
+      "content": "根据野村证券的数据，今年 7 月在中国移动互联网使用时长排名前 50 的应用中，抖音首次超过微信，占总时长的 19.4%，微信占 18.8%；整个字节系的时长份额达 40.9%，腾讯系占 28.6%。字节旗下红果免费短剧的日活跃用户达到 1.68 亿人，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的总和。红果短剧的日均使用时长约 125 分钟，抖音约 112-120 分钟，均超过腾讯系产品微信的 82=85 分钟。字节跳动抖音海外版 TikTok 以及 AI 助手豆包都非常受欢迎。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85729",
+      "source": "Solidot",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85729"
+    },
+    {
+      "id": 3844,
+      "title": "奇瑞全新捷途自由者 7 将于 11 月 4 日上市，搭载灵犀智舱 TOUR OS",
+      "summary": "IT之家 10 月 28 日消息，据易车报道，全新捷途自由者 7 将于 11 月 4 日正式上市，新车主打轻越野方盒子 SUV 和智能座舱。 IT之家从官方介绍获悉，新车搭载灵犀智舱 TOUR OS，内置 DeepSeek+ 讯飞星火双加持的 AI 语音大模型，搭载 2.5K 超清巨幕 + 高通 8155 芯片。此外，该车还支持 APA 全场景自动泊车，窄位停车没烦恼。 外观方面，全新捷途自由者 7 采用方盒子造型，车身线条平直硬朗。车身尺寸，长宽高为 4651/1967/1",
+      "content": "<p data-vmark=\"9e13\">IT之家 10 月 28 日消息，据易车报道，全新捷途自由者 7 将于 11 月 4 日正式上市，新车主打轻越野方盒子 SUV 和智能座舱。</p><p data-vmark=\"ca27\">IT之家从官方介绍获悉，新车搭载灵犀智舱 TOUR OS，内置<strong> DeepSeek+ 讯飞星火</strong>双加持的 AI 语音大模型，搭载 2.5K 超清巨幕 + 高通 8155 芯片。此外，该车还支持 APA 全场景自动泊车，窄位停车没烦恼。</p><p data-vmark=\"fa8a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2ca961dc-78eb-4886-833d-52ae9d769053.png\" w=\"638\" h=\"1122\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6437850992%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6437850992%2FRoIW5bSVx%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"8804\" class=\"no-alt-img\"></p><p data-vmark=\"0bfa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/486459ce-990f-4b78-85b7-099287e42781.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"ce3c\" class=\"no-alt-img\"></p><p data-vmark=\"ad52\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a292e7ae-5936-4744-8238-b6e2e2645f80.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"2\" data-vmark=\"f5b0\" class=\"no-alt-img\"></p><p data-vmark=\"c417\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/64c421c7-c7a2-45bc-9bbe-31f7dfa571d6.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"3\" data-vmark=\"f546\" class=\"no-alt-img\"></p><p data-vmark=\"524a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/feb9f07b-5809-4275-8bbd-4aacabb6a767.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"4\" data-vmark=\"0de8\" class=\"no-alt-img\"></p><p data-vmark=\"1bc7\">外观方面，全新捷途自由者 7 采用方盒子造型，车身线条平直硬朗。车身尺寸，长宽高为 4651/1967/1840mm。</p><p data-vmark=\"eef3\">动力方面，新车搭载 1.5T 直列四缸发动机，拥有 184 马力，最大功率 135kW，传动系统匹配 7 挡湿式双离合变速箱，最高车速 170km/h。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"e1cb\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5036\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/019/105.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/019/105.htm"
+    },
+    {
+      "id": 3845,
+      "title": "iQOO Pad Pro 小平板现身 Geekbench，今晚发布",
+      "summary": "IT之家 10 月 28 日消息，一款型号为 vivo iPA2693 的神秘新机最近现身 Geekbench 跑分数据库，X 平台博主 Anvin 认为该机是 iQOO Pad Pro。 Geekbench 记录显示，该平板搭载高通 SM8850 芯片，配备 12GB 内存，录得单核 3118 分、多核 10523 分的成绩，运行 Android 17 操作系统。 据IT之家此前报道，这款平板将配备第五代骁龙 8 至尊版芯片 + 自研电竞芯片 Q3，以及 8.8 英寸 16",
+      "content": "<p data-vmark=\"ddf1\">IT之家 10 月 28 日消息，一款型号为 vivo iPA2693 的神秘新机最近现身 Geekbench 跑分数据库，X 平台博主 Anvin 认为该机是 iQOO Pad Pro。</p><p data-vmark=\"b7a1\">Geekbench 记录显示，该平板搭载高通 SM8850 芯片，配备 12GB 内存，<strong>录得单核 3118 分</strong>、<strong>多核 10523 分的成绩</strong>，运行 Android 17 操作系统。</p><p style=\"text-align: center;\" data-vmark=\"379a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8a88b699-ba22-4e9b-a0cd-8cd2596b63a7.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"1122\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FZionsAnvin%2Fstatus%2F2115009659056914656%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FZionsAnvin%2Fstatus%2F2115009659056914656%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d11f20aeeea9779d7d1c003392f16c0c40b59a7ebf0946bf9688235727b59784e715b8cd1ae369e578\" data-vmark=\"6ccc\" class=\"no-alt-img\"></p><p data-vmark=\"c412\"><a href=\"https://www.ithome.com/1/015/914.htm\" target=\"_blank\">据IT之家此前报道</a>，这款平板将配备第五代骁龙 8 至尊版芯片 + 自研电竞芯片 Q3，以及 8.8 英寸 165Hz OLED 极竞屏、9020mAh 蓝海大电池。内置行业超大主动散热风扇，搭配冰穹四重风冷散热系统，号称“专为持久高负载打造”。</p><p style=\"text-align: center;\" data-vmark=\"8896\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ea641b08-b3e0-4b5a-bdb2-412e63a99c05.jpg\" w=\"1440\" h=\"1104\" data-weibo=\"1\"  data-vmark=\"2745\" class=\"no-alt-img\"></p><p data-vmark=\"74fd\">此外，iQOO 将在今晚召开新品发布会，推出 iQOO Neo 12 手机和 iQOO Pad Pro 平板。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"f31c\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4926\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/019/101.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/019/101.htm"
+    },
+    {
+      "id": 3846,
+      "title": "消息称富士胶片斥资 100 亿日元扩产磁带，创其在此领域 20 年投资纪录",
+      "summary": "IT之家 10 月 28 日消息，《日经亚洲》当地时间今日报道称，富士胶片 (FUJIFILM) 计划在截至 2028 年的时间内向其位于日本小田原的磁带工厂投入 100 亿日元（IT之家注：现汇率约合 4.23 亿元人民币）扩大产能，这是该企业在此领域近 20 年来的最大规模投资。 磁带仍是一种良好的归档存储介质，尤其适合离网长期保存数据，还能减少遭遇网络攻击时的泄露风险。 报道指出，磁带的单位存储成本可能仅有机械硬盘的 1/4，在海量“冷”数据存储方面有着天然的成本优势。",
+      "content": "<p data-vmark=\"224d\">IT之家 10 月 28 日消息，《日经亚洲》当地时间今日报道称，富士胶片 (FUJIFILM) 计划在截至 2028 年的时间内向其位于日本小田原的磁带工厂投入 100 亿日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4.23 亿元人民币）</span>扩大产能，<strong>这是该企业在此领域近 20 年来的最大规模投资</strong>。</p><p data-vmark=\"b436\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/12/7a43112e-f75e-4298-b6ca-f5fd28e6b771.jpg?x-bce-process=image/format,f_auto\" w=\"760\" h=\"405\" data-weibo=\"0\" data-vmark=\"9f68\" class=\"no-alt-img\"></p><p data-vmark=\"f4cf\">磁带仍是一种良好的归档存储介质，尤其适合离网长期保存数据，还能减少遭遇网络攻击时的泄露风险。</p><p data-vmark=\"972b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8c92000a-c0d5-4211-9292-97dc7bd1e2c8.jpg\" w=\"1120\" h=\"516\" data-weibo=\"1\" data-vmark=\"e28a\" class=\"no-alt-img\"></p><p data-vmark=\"f3fc\">报道指出，<strong>磁带的单位存储成本可能仅有机械硬盘的 1/4</strong>，在海量“冷”数据存储方面有着天然的成本优势。</p><p data-vmark=\"3d2b\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"e78a\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/007/449.htm\">富士胶片开卖 LTO-10 磁带：单盘原生 40TB，售价 494 美元</a>》</p></li><li><p data-vmark=\"4899\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/997/419.htm\">LTO 磁带 2025 全年出货下降 9%，2026Q1 同比劲扬 57%</a>》</p></li></ul><p data-vmark=\"a631\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"8c1e\"><a href=\"https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-b</span>uildup-in-two-decades</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/019/088.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/019/088.htm"
+    },
+    {
+      "id": 3847,
+      "title": "天数智芯：天垓 300 成国内首个实测性能达英伟达 H200 水平的通用 GPU，单卡吞吐约为 1.05 倍",
+      "summary": "IT之家 10 月 28 日消息，天数智芯今日在上海举行 2026 媒体开放日，首次公开展示了天垓 300 通用 GPU 的实机运行。 据天数智芯官方介绍，天垓 300 成为国内首个实测性能达到英伟达 H200 水平的通用 GPU，第三方实测折算单卡整体吞吐达到 H200 的 1.05 倍（IT之家注：具体的测试方法、模型负载和工作负载条件尚未同步公布）。 天垓 300 的实机演示是本次开放日最受关注的部分。在此之前，天数智芯对这款产品的公开信息多集中于架构和路线图层面，实机",
+      "content": "<p data-vmark=\"a5d2\">IT之家 10 月 28 日消息，天数智芯今日在上海举行 2026 媒体开放日，首次公开展示了天垓 300 通用 GPU 的实机运行。</p><p style=\"text-align: center;\" data-vmark=\"1f08\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/add1d603-ccfd-4cdb-8197-885709dbc1ff.png?x-bce-process=image/format,f_auto\" w=\"1017\" h=\"1361\" data-weibo=\"0\" data-vmark=\"0254\" class=\"no-alt-img\"></p><p data-vmark=\"0a55\">据天数智芯官方介绍，天垓 300 成为国内首个实测性能达到英伟达 H200 水平的通用 GPU，第三方实测折算单卡整体吞吐达到 H200 的 1.05 倍（IT之家注：具体的测试方法、模型负载和工作负载条件尚未同步公布）。</p><p data-vmark=\"d93a\">天垓 300 的实机演示是本次开放日最受关注的部分。在此之前，天数智芯对这款产品的公开信息多集中于架构和路线图层面，实机运行尚属首次。</p><p data-vmark=\"8743\">与天垓 300 配套的超节点方案 IXL144 在稍早的工博会上已经亮相。该方案在单机柜内集成 144 颗 GPU 与 18 颗 CPU，配备约 10.1TB 显存，天数智芯方面称其为“业界最高密度单机柜 GPU 超节点”。据天数智芯测算，该方案每百万有效 Token 的成本较国际主流方案可降低 40%。</p><p data-vmark=\"afdf\">本次开放日还披露了异构部署方面的进展：国内首个 GPU 与 XPU 异构部署的 AFD 分离方案成功跑通，推理延迟降低 60%。AFD 分离通常指将注意力、前馈网络等计算阶段在异构算力单元之间进行拆分调度，以匹配不同硬件的擅长负载。</p><p data-vmark=\"eae6\">端侧产品线方面，彤央 TY1200 的实测性能被称为“超越 Thor T5000”，并称首次在国产端侧产品上实现了基于 MuJoCo-Warp 的 GPU 加速物理仿真。彤央 TY1200 此前公开的规格为 300 TOPS 稠密算力，面向 AI PC 与具身智能场景。</p><p style=\"text-align: center;\" data-vmark=\"cd1b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3d101cb0-aa99-41cc-a828-14bb3e0ba08a.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"13082\" data-weibo=\"1\" alt=\"图片\" data-vmark=\"70c7\"></p><p data-vmark=\"4970\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"29e8\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/978/781.htm\">天数智芯发布新一代通用 GPU 旗舰产品天垓 300，具备规模化应用条件</a>》</p></li><li><p data-vmark=\"373a\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/629/412.htm\">GPU 芯片及算力提供商天数智芯完成超 10 亿元融资，将开发智铠 100、天垓 200 及 300 芯片</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/019/056.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/019/056.htm"
+    },
+    {
+      "id": 3848,
+      "title": "GPD 预告 WIN Mini Ultra 掌机，搭载英特尔 Arc G3 Extreme",
+      "summary": "IT之家 10 月 28 日消息，GPD 今日在微博确认，GPD WIN Mini Ultra 掌机即将登场。新机采用英特尔 Arc G3 Extreme 移动平台，具体上市时间暂未公布。 结合此前传闻，该机预计将配备 32GB LPDDR5X 内存，并提供 M.2 2280 固态硬盘插槽。屏幕方面，该机或采用 8 英寸 IPS 面板，分辨率为 1920*1200，支持 120Hz 高刷以及 Adaptive Sync 自适应同步技术。 此外，该掌机预计还将提供两个 USB4",
+      "content": "<p data-vmark=\"b5e2\">IT之家 10 月 28 日消息，GPD 今日在微博确认，GPD WIN Mini Ultra 掌机即将登场。<strong>新机采用英特尔 Arc G3 Extreme 移动平台</strong>，具体上市时间暂未公布。</p><p data-vmark=\"7018\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8ff5a5a5-5af5-49f3-b8ea-85144194970a.png\" w=\"1440\" h=\"459\" data-weibo=\"0\" data-vmark=\"4c76\" class=\"no-alt-img\"></p><p data-vmark=\"7965\">结合此前传闻，该机预计将配备 32GB LPDDR5X 内存，并提供 M.2 2280 固态硬盘插槽。屏幕方面，该机或采用 8 英寸 IPS 面板，分辨率为 1920*1200，支持 120Hz 高刷以及 Adaptive Sync 自适应同步技术。</p><p data-vmark=\"be2b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1660f3a4-9b47-43fb-aec6-745aec286f5d.jpg\" w=\"1200\" h=\"904\" alt=\"GPD - WIN MINI 7&quot; FHD 120Hz 掌上電腦(AMD Ryzen 7 8840U, 16GB+1TB SSD) | The  Club – Shopping\" data-weibo=\"1\" data-mpos=\"0,0\"  data-vmark=\"25f1\"></p><p data-vmark=\"8c9f\">此外，该掌机预计还将提供两个 USB4 v2 接口，TDP 有可能达到 45W，内置 56Wh 电池，支持 100W PD 快充。</p><p data-vmark=\"b2be\">不过截至目前，GPD 暂时没有公布这款掌机的具体售价，IT之家将持续关注。</p>",
+      "link": "https://www.ithome.com/1/019/008.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/019/008.htm"
+    },
+    {
+      "id": 3849,
+      "title": "ASIC 设计企业智原收获 AI 芯片开案：三星 2nm，3D 堆叠 DRAM",
+      "summary": "IT之家 10 月 28 日消息，芯片 IP 与设计服务企业智原科技 (Faraday Technology) 昨日在企业 2026Q3 财报中宣布获得美国客户重要开案，设计制程、设计复杂度、NRE 金额、先进封装均创下公司记录。 IT之家获悉，这是一款面向云端的 AI 芯片，同时支持 FP64 计算（应兼顾 HPC 任务）。其基于三星晶圆代工 2nm 先进制程，将逻辑 SoC 与定制 DRAM 垂直堆叠，应用混合键合技术，支持 PCIe Gen6。智原提到，客户原计划使用 ",
+      "content": "<p data-vmark=\"9591\">IT之家 10 月 28 日消息，芯片 IP 与设计服务企业智原科技 (Faraday Technology) 昨日在企业 2026Q3 财报中宣布获得美国客户重要开案，<strong>设计制程、设计复杂度、NRE 金额、先进封装均创下公司记录</strong>。</p><p data-vmark=\"22fc\">IT之家获悉，这是一款面向云端的 AI 芯片，同时支持 FP64 计算（应兼顾 HPC 任务）。其基于三星晶圆代工 2nm 先进制程，<strong>将逻辑 SoC 与定制 DRAM 垂直堆叠</strong>，应用混合键合技术，支持 PCIe Gen6。智原提到，客户原计划使用 4nm 工艺，但在性能和功耗的考虑下选择了该方案。</p><p style=\"text-align: center;\" data-vmark=\"31ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/80c6a5c5-4e9e-48d1-ab95-4010975b5dbc.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"200\" data-weibo=\"0\" data-vmark=\"b8e5\" class=\"no-alt-img\"></p><p data-vmark=\"4e3d\">智原科技 2026Q3 合并营收 36.6 亿新台币<span class=\"exch-money-value\">（IT之家注：现汇率约合 7.5 亿元人民币）</span>，同比 +13%、环比 +11%；毛利率 42.5%、营业利润率 5.8%。</p>",
+      "link": "https://www.ithome.com/1/018/985.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/985.htm"
+    },
+    {
+      "id": 3850,
+      "title": "豆包公关负责人刘星回应“横店与字节合作将 15 万群演肖像声音喂给大模型”：传言严重失实",
+      "summary": "IT之家 10 月 28 日消息，豆包公关负责人刘星今日发文称，“横店与字节合作，将 15 万名群演的肖像和声音喂给字节大模型”的传言严重失实。 他表示，横店影视 AI 服务平台项目，其实是希望建设一套公共数字基础设施，把影视基地实景等资产做成高质量数据集，帮助剧组更高效地选景、筹备和拍摄，也降低中小影视企业使用 AI 的门槛，让更多创作者有条件把作品做好。 IT之家注意到，文中提到，火山引擎在该项目中是技术支持方，所有数据资产，都归横店或授权方所有。这个项目涉及到任何人的肖",
+      "content": "<p data-vmark=\"fea7\">IT之家 10 月 28 日消息，豆包公关负责人刘星今日发文称，“横店与字节合作，将 15 万名群演的肖像和声音喂给字节大模型”的传言严重失实。</p><p data-vmark=\"0983\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8b6b7546-eccd-4d8b-a81b-3db1438d97f5.png\" w=\"638\" h=\"688\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F4013603128%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F4013603128%2FRoLGFE5Fm%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"cfaf\" class=\"no-alt-img\"></p><p data-vmark=\"463b\">他表示，横店影视 AI 服务平台项目，其实是希望建设一套公共数字基础设施，把影视基地实景等资产做成高质量数据集，帮助剧组更高效地选景、筹备和拍摄，也降低中小影视企业使用 AI 的门槛，让更多创作者有条件把作品做好。</p><p data-vmark=\"fe1b\">IT之家注意到，文中提到，火山引擎在该项目中是技术支持方，所有数据资产，<strong>都归横店或授权方所有</strong>。这个项目涉及到任何人的肖像和声音使用，肯定都需要获得本人的授权。本项目的数据也不会用于训练字节大模型。</p><blockquote class=\"ai-point\" data-ai-task=\"9bdb4314-bb9f-4de0-8ef5-93ed14172800\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTIyaHR0cCUzQSUyRiUyRnd3dy5jaGluYW5ld3MuY29tLmNuJTJGY2olMkYyMDI2JTJGMTAtMjQlMkYxMDcyMDM0NC5zaHRtbCUyMiUyQyUyMmh0dHAlM0ElMkYlMkZ3d3cucm1sdC5jb20uY24lMkYyMDI2JTJGMTAyNiUyRjc1NzQ3MS5zaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGd3d3LndvcmtlcmNuLmNuJTJGcGFwZXJzJTJGZ3JyYiUyRjIwMjYlMkYxMCUyRjI1JTJGNCUyRm5ld3MtMS5odG1sJTIyJTJDJTIyaHR0cCUzQSUyRiUyRnd3dy5zYXNhYy5nb3YuY24lMkZuNDQ3MDA0OCUyRm4zMjU1OTM2MiUyRm4zNDQwMjIwMSUyRm4zNTk3NDI4NyUyRmMzNjA3Mjk4MiUyRmNvbnRlbnQuaHRtbCUyMiU1RA==\"><h3 data-vmark=\"207c\">延伸阅读</h3><p data-vmark=\"6f51\"><span data-ref-ids=\"\" data-ref-urls=\"0,1\">公开信息显示，2026 横店影视文化产业发展大会于 2026 年 10 月 23 日在浙江金华东阳横店举行，大会主题为“数智赋能光影匠心深耕精品”。会上，东阳市人民政府与火山引擎达成合作，推出“横店 π”AI 平台，瞄准影视创意、拍摄、制作、发行全流程，探索 AI 赋能真人剧、微短剧等多元创作路径。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/018/981.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/981.htm"
+    },
+    {
+      "id": 3851,
+      "title": "何刚官宣华为 Mate 90 系列手机“双十一”三大焕新权益，全系可享至高 24 期分期免息等",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，公布了 Mate 90 系列手机“双十一”三大焕新权益： 分期免息：至高 24 期，250 元 / 月起； 以旧换新：至高 800 元补贴； 华为云空间：华为云空间 200GB 一年期免费。 IT之家附华为 Mate 90 系列手机各版本售价如下： 京东 HUAWEI Mate 90 国补价 5499 元直达链接京东 HUAWEI Mate 90 P",
+      "content": "<p data-vmark=\"b459\">IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，公布了 Mate 90 系列手机“双十一”三大焕新权益：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2560\"><strong>分期免息：</strong>至高 24 期，250 元 / 月起；</p></li><li><p data-vmark=\"335e\"><strong>以旧换新：</strong>至高 800 元补贴；</p></li><li><p data-vmark=\"deed\"><strong>华为云空间：</strong>华为云空间 200GB 一年期免费。</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"8fc3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c74ce1db-3a78-4c11-82ab-7b793cae0824.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"800\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d14330469702c7cfe15d07e5c31483d04fe8a26d42045ca22ff1ece8365e949eef0825f7e1cc102d31\" data-vmark=\"4260\" class=\"no-alt-img\"></p><p data-vmark=\"09e2\">IT之家附华为 Mate 90 系列手机各版本售价如下：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGLiI87\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOLsLJT\" data-iosurl=\"https://u.jd.com/eaLdkHP\" data-androidurl=\"https://u.jd.com/e1LdRgV\" data-hosnexturl=\"https://u.jd.com/egLILHk\" data-hosurl=\"https://u.jd.com/eDLLa5v\" data-uwpurl=\"https://u.jd.com/e1dUw2Y\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feGdktHz%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/erdFRch\" data-lpwxurl=\"https://u.jd.com/eDdx11D\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/524707/3/14280/141684/6abb12d0F34fa66e7/00835a05a03f4fec.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 国补价 5499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egdkWHQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egd4SLE\" data-iosurl=\"https://u.jd.com/egdkvlW\" data-androidurl=\"https://u.jd.com/egdkqhU\" data-hosnexturl=\"https://u.jd.com/erLdLIW\" data-hosurl=\"https://u.jd.com/ead9mxt\" data-uwpurl=\"https://u.jd.com/egLuTWQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe6d9PrF%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eaLLeoT\" data-lpwxurl=\"https://u.jd.com/eOd4t8y\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/523313/25/14182/82082/6abb2832Fe0bdfa83/00835a05a02b14be.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 Pro</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">6999 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6dX4RW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egdmLgs\" data-iosurl=\"https://u.jd.com/e1dkqUi\" data-androidurl=\"https://u.jd.com/eGLChx0\" data-hosnexturl=\"https://u.jd.com/eaLwDwh\" data-hosurl=\"https://u.jd.com/eDLMTex\" data-uwpurl=\"https://u.jd.com/eDdF0Dp\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1d9otD%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/e6dm9fq\" data-lpwxurl=\"https://u.jd.com/eGLLvMq\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/524689/11/14115/83004/6abb1402F756fbb4f/00835a05a06b968a.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 Pro Max</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">9499 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGdoT47\" target=\"_blank\" data-wapurl=\"https://u.jd.com/ead4ceN\" data-iosurl=\"https://u.jd.com/eDLtNLA\" data-androidurl=\"https://u.jd.com/eadmM7e\" data-hosnexturl=\"https://u.jd.com/e1d4nlV\" data-hosurl=\"https://u.jd.com/erLM3zo\" data-uwpurl=\"https://u.jd.com/eOLu1Ab\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOdopQG%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/erLuPDP\" data-lpwxurl=\"https://u.jd.com/erd9f4K\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/523332/36/12619/111344/6abb125cF1e90f4b2/00835a05a0ed23c8.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 RS 非凡大师</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 12999 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"2014\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/12ca1ebb-cf14-404b-961b-8176f924741f.jpg?x-bce-process=image/format,f_auto\" w=\"780\" h=\"8193\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d19272242a7b109afc38c43bad3f0030d335db96770af45080035228ffa35d0c8978fb35f18ff2439c\" data-vmark=\"ac48\" class=\"no-alt-img\"></p><p data-vmark=\"be61\">据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，全系搭载了韬定律芯片。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0e79\">Mate 90 标准版搭载麒麟 9030 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 27%。相较上一代（麒麟 9020），麒麟 9030 的 CPU 性能提升 13%，GPU 性能提升 54%，NPU 性能提升 13%。</p></li><li><p data-vmark=\"1b95\">Mate 90 Pro 首发搭载麒麟 9035 旗舰 τ 芯片，通过软硬芯云垂直整合，整机性能提升 20%。相较上一代（麒麟 9030），麒麟 9035 的 CPU 性能提升 11%，GPU 性能提升 10%，NPU 性能提升 51%。</p></li><li><p data-vmark=\"f64a\">Mate 90 Pro Max 典藏版及 RS 非凡大师则搭载麒麟性能新巅峰、首款逻辑折叠 τ 芯片 —— 麒麟 9050 Pro，通过软硬芯云垂直整合，整机性能提升 31%。这枚芯片 CPU 支持 9 核 16 线程超线程技术，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%。Mate 90 Pro Max（12GB）搭载逻辑折叠 τ 芯片麒麟 9050。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"72fb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/22e2a36d-6f67-4a54-9be8-6f2944893c32.jpg\" w=\"1440\" h=\"806\" data-vmark=\"fc3b\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGLiI87\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOLsLJT\" data-iosurl=\"https://u.jd.com/eaLdkHP\" data-androidurl=\"https://u.jd.com/e1LdRgV\" data-hosnexturl=\"https://u.jd.com/egLILHk\" data-hosurl=\"https://u.jd.com/eDLLa5v\" data-uwpurl=\"https://u.jd.com/e1dUw2Y\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feGdktHz%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/erdFRch\" data-lpwxurl=\"https://u.jd.com/eDdx11D\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/524707/3/14280/141684/6abb12d0F34fa66e7/00835a05a03f4fec.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 国补价 5499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egdkWHQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egd4SLE\" data-iosurl=\"https://u.jd.com/egdkvlW\" data-androidurl=\"https://u.jd.com/egdkqhU\" data-hosnexturl=\"https://u.jd.com/erLdLIW\" data-hosurl=\"https://u.jd.com/ead9mxt\" data-uwpurl=\"https://u.jd.com/egLuTWQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe6d9PrF%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eaLLeoT\" data-lpwxurl=\"https://u.jd.com/eOd4t8y\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/523313/25/14182/82082/6abb2832Fe0bdfa83/00835a05a02b14be.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 Pro</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">6999 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6dX4RW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egdmLgs\" data-iosurl=\"https://u.jd.com/e1dkqUi\" data-androidurl=\"https://u.jd.com/eGLChx0\" data-hosnexturl=\"https://u.jd.com/eaLwDwh\" data-hosurl=\"https://u.jd.com/eDLMTex\" data-uwpurl=\"https://u.jd.com/eDdF0Dp\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1d9otD%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/e6dm9fq\" data-lpwxurl=\"https://u.jd.com/eGLLvMq\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/524689/11/14115/83004/6abb1402F756fbb4f/00835a05a06b968a.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 Pro Max</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">9499 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGdoT47\" target=\"_blank\" data-wapurl=\"https://u.jd.com/ead4ceN\" data-iosurl=\"https://u.jd.com/eDLtNLA\" data-androidurl=\"https://u.jd.com/eadmM7e\" data-hosnexturl=\"https://u.jd.com/e1d4nlV\" data-hosurl=\"https://u.jd.com/erLM3zo\" data-uwpurl=\"https://u.jd.com/eOLu1Ab\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOdopQG%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/erLuPDP\" data-lpwxurl=\"https://u.jd.com/erd9f4K\"   data-ncid=\"259869\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/523332/36/12619/111344/6abb125cF1e90f4b2/00835a05a0ed23c8.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI Mate 90 RS 非凡大师</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 12999 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul><p data-vmark=\"38c1\">2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。</p><p data-vmark=\"8be9\"><strong>数码补贴：<a href=\"https://u.jd.com/AO9cF1s\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AO9DrqM\" data-iosurl=\"https://u.jd.com/Ag91Sjs\" data-androidurl=\"https://u.jd.com/AG9pxhC\" data-hosnexturl=\"https://u.jd.com/AO9fCAz\" data-hosurl=\"https://u.jd.com/Ar9P2XE\" data-uwpurl=\"https://u.jd.com/Ar9Jnih\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fA19cSnL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b962\">手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。</p></li></ul><p data-vmark=\"c55b\"><strong>家电补贴：<a href=\"https://u.jd.com/A696EUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/AD9SCkn\" data-iosurl=\"https://u.jd.com/Ag9Wm7I\" data-androidurl=\"https://u.jd.com/A19f6P9\" data-hosnexturl=\"https://u.jd.com/AD9SlUd\" data-hosurl=\"https://u.jd.com/A69gZqX\" data-uwpurl=\"https://u.jd.com/AD91brW\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fAD9gvRL%26EA_PTAG%3d17078.27.380\" data-ncid=\"122908\">点此领券</a></strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5ff2\">多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/979.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/979.htm"
+    },
+    {
+      "id": 3852,
+      "title": "马来西亚查获价值 4950 万林吉特走私 AI 芯片，30 台服务器被扣",
+      "summary": "IT之家 10 月 28 日消息，马来西亚海关本月在吉隆坡国际机场查获价值约 4,950 万林吉特（IT之家注：现汇率约合 8,117.5 万元人民币）的先进 AI 芯片，并正在追查一个涉嫌通过该国主要机场走私高性能半导体的犯罪团伙。 吉隆坡国际机场海关关长阿斯帕丽拉 · 阿格 · 图阿（Aspalila Ag Tuah）透露，10 月 15 日，执法人员在机场自由贸易区检查货物时，发现了 30 台装有先进 AI 芯片的服务器。 初步调查显示，这批服务器来自亚洲某个国家，计划",
+      "content": "<p data-vmark=\"2c23\">IT之家 10 月 28 日消息，马来西亚海关本月在吉隆坡国际机场查获价值约 4,950 万林吉特<span class=\"exch-money-value \">（IT之家注：现汇率约合 8,117.5 万元人民币）</span>的先进 AI 芯片，并正在追查一个涉嫌通过该国主要机场走私高性能半导体的犯罪团伙。</p><p data-vmark=\"d3c1\">吉隆坡国际机场海关关长阿斯帕丽拉 · 阿格 · 图阿（Aspalila Ag Tuah）透露，10 月 15 日，执法人员在机场自由贸易区检查货物时，发现了 30 台装有先进 AI 芯片的服务器。</p><p data-vmark=\"aa45\">初步调查显示，这批服务器来自亚洲某个国家，计划转运至亚洲另一个国家。由于相关转口操作需要取得贸易许可证，执法部门怀疑涉案人员试图通过马来西亚中转，规避出口管制。</p><p data-vmark=\"5c1b\">阿斯帕丽拉表示，涉案服务器在申报时被虚报为普通电子元件，目的是确保货物运往下一目的地时不会受到相关限制。一家协助运输这批货物的马来西亚企业已被要求配合调查。</p><p data-vmark=\"ae6c\">马来西亚海关怀疑，此次案件涉及的团伙与今年 6 月被查获的一起类似走私案件有关。阿斯帕丽拉表示，该团伙至少涉及 5 起相关案件，累计查获的芯片价值超过 1 亿林吉特<span class=\"exch-money-value \">（现汇率约合 1.64 亿元人民币）</span>。由于调查仍在进行中，她没有透露更多细节。马来西亚海关目前仍在调查涉案货物的具体来源、最终目的地及相关人员的责任。</p><p data-vmark=\"5400\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"244d\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/009/741.htm\">英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/975.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/975.htm"
+    },
+    {
+      "id": 3853,
+      "title": "荣耀手表 Fit 6 全渠道预约开启：1.97 英寸 AMOLED 全面屏，支持腕上微信",
+      "summary": "IT之家 10 月 28 日消息，荣耀可穿戴产品经理 @荣耀郭同学 今日宣布，荣耀手表 Fit 6 全渠道预约开启，新品售价暂未公布，但学生可专享优惠最高 150 元等。 京东荣耀手表 Fit 6 待发布直达链接 据介绍，荣耀手表 Fit 6 提供苔原绿、峡湾蓝、破晓橙、碳索黑、岩壁黑 5 种配色，尺寸为 47.5×40.73×11.39mm，适配 130-200mm 手腕尺寸；内置 620mAh 大容量电池，号称“告别电量焦虑”。 新表配备 1.97 英寸 AMOLED 彩",
+      "content": "<p data-vmark=\"7082\">IT之家 10 月 28 日消息，荣耀可穿戴产品经理 @荣耀郭同学 今日宣布，荣耀手表 Fit 6 全渠道预约开启，<strong>新品售价暂未公布</strong>，但学生可专享优惠最高 150 元等。</p><p data-vmark=\"f7c7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/39aea566-6894-43ef-8039-a5ce2bfc68ab.png\" w=\"798\" h=\"1668\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d17cb898635e7dd2d603663250ab286e167f897b1a9c8994876e831ccf5d2f3571fca6c7775b59bf78\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F7863692162%2FRoL9LhRvt%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"fecb\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6d7HNc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6dmNpS\" data-iosurl=\"https://u.jd.com/e1djbNE\" data-androidurl=\"https://u.jd.com/e6dlpxG\" data-hosnexturl=\"https://u.jd.com/egdc9Pw\" data-hosurl=\"https://u.jd.com/egdENXU\" data-uwpurl=\"https://u.jd.com/eadlOrQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fegdju8H%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eGdlj2r\" data-lpwxurl=\"https://u.jd.com/eGdlx1Z\" data-ncid=\"259840\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c5a3773d-76fa-4a15-ab80-3b9dc6dc6a5a.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">荣耀手表 Fit 6</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 待发布</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"0649\">据介绍，荣耀手表 Fit 6 提供苔原绿、峡湾蓝、破晓橙、碳索黑、岩壁黑 5 种配色，<strong>尺寸为 47.5×40.73×11.39mm</strong>，适配 130-200mm 手腕尺寸；<strong>内置 620mAh 大容量电池</strong>，号称“告别电量焦虑”。</p><p data-vmark=\"352d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/42b3f94b-4c8c-419d-97a2-6dc6a902fc3f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"780\" data-vmark=\"ca33\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1485978f2b65155c6d6d0193d60508ceb9c46f78159c2ccdf1114010ebeff9741f0b64f5ab9b5c8f2\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"3614\"><strong>新表配备 1.97 英寸 AMOLED 彩色全面屏</strong>，支持全屏触摸操作，拥有 1.82mm 超窄边框（屏占比 81.2%），分辨率为 410*502，拥有 332 PPI、<strong>60Hz 高刷</strong>。荣耀手表 Fit 6 重约 31.8g（不含表带的重量），中框和底壳采用增强型聚合纤维材质，<strong>配备 TPU 材质表带</strong>。</p><p data-vmark=\"eb02\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a3947a84-ba2b-49e7-8d0c-f8462dc2d8b8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"798\" data-vmark=\"63d6\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1981ee5c818782ebd1ef7d695c3b91afcd9711f59f66f93a76ea46b707fff7d6a75380215a6be8174\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"73ca\">荣耀手表 Fit 6 内置加速度传感器、陀螺仪传感器、地磁传感器、光学心率传感器、环境光传感器、气压传感器，<strong>支持睡眠 HRV 监测、睡眠呼吸暂停研究、腕上跑步教练、全天心率监测、电竞模式等功能</strong>；拥有上键 + 下键，支持长按、短按等操作，其中上键支持旋转表冠功能。</p><p data-vmark=\"2fc6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/902f0eaf-9dd8-4e99-8090-8f6aa2a55209.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"803\" data-vmark=\"3452\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1459d280ba9a97bfd6ce655eced7503513dc6bfd92552db670eaf30f3250fa3e851e7537877f32490\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"28c0\"><strong>新表拥有 5ATM 级防水能力</strong>，支持在洗手，下雨，浅水区游泳时使用手表，不适用于潜水、跳水、热水淋浴、温泉、桑拿、高速水流下的其他涉水或深水活动。需要注意的是，<strong>防水功能非永久有效</strong>，防护功能可能会日常磨损而下降。</p><p data-vmark=\"6283\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6352f93a-b834-4acb-a42e-adb66be40669.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"779\" data-vmark=\"aa67\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d168432e9976651913d2e8c5e12e9aaf50931c7dc07867a5c7742117fab34b0f49b7f9a79220df202c\" data-weibo=\"4\" class=\"no-alt-img\"></p><p data-vmark=\"1cbc\">另外，荣耀手表 Fit 6 除了可以连接安卓手机外，<strong>还适配 iOS / 鸿蒙系统设备</strong>（Android 9.0 及以上，iOS 15.1 及以上，鸿蒙 6.0 及以上），支持 GPS / Galileo / Glonass / Beidou / QZSS 定位系统、NFC 、蓝牙 BLE 5.4 和<strong>腕上微信</strong>等功能。</p><p data-vmark=\"ec52\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/78f7e704-5326-4499-9701-0cc6777c39c4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1012\" data-vmark=\"611a\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d13bfd4f4188120e96967b191c9a504903b7894e52dddc9f3199dbb8aae15e4d655e22d2ed5bd99c5a\" data-weibo=\"5\" class=\"no-alt-img\"></p><p data-vmark=\"a4ac\">IT之家附荣耀手表 Fit 6 与前代功能差异如下：</p><p data-vmark=\"3b77\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/67042c22-bbec-4d89-9311-590e670edc11.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2011\" data-vmark=\"0df8\" data-mpos=\"0,0\"  data-weibo=\"6\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6d7HNc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6dmNpS\" data-iosurl=\"https://u.jd.com/e1djbNE\" data-androidurl=\"https://u.jd.com/e6dlpxG\" data-hosnexturl=\"https://u.jd.com/egdc9Pw\" data-hosurl=\"https://u.jd.com/egdENXU\" data-uwpurl=\"https://u.jd.com/eadlOrQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fegdju8H%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eGdlj2r\" data-lpwxurl=\"https://u.jd.com/eGdlx1Z\" data-ncid=\"259840\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c5a3773d-76fa-4a15-ab80-3b9dc6dc6a5a.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">荣耀手表 Fit 6</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 待发布</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/959.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/959.htm"
+    },
+    {
+      "id": 3854,
+      "title": "极摩客 M3S 迷你主机国行上市：酷睿 3 304，12GB + 256GB 到手价 2699 元",
+      "summary": "IT之家 10 月 28 日消息，极摩客 (GMKtec) 现已在国行渠道销售 NucBox M3S 迷你主机。该型号基于英特尔酷睿 3 处理器 304，配备 12GB LPDDR5-5600 内存、256GB M.2 (PCIe Gen3) SSD 存储，到手价 2,699 元。 京东极摩客 M3S 迷你主机 2699 元直达链接 NucBox M3S 三维 114×106×42.5 (mm)，提供 2 个 PCIe Gen4 ×2 的 M.2 2280 插槽，配备支持 W",
+      "content": "<p data-vmark=\"02f1\">IT之家 10 月 28 日消息，极摩客 (GMKtec) 现已在国行渠道销售 NucBox M3S 迷你主机。该型号基于英特尔酷睿 3 处理器 304，<strong>配备 12GB LPDDR5-5600 内存、256GB M.2 (PCIe Gen3) SSD 存储</strong>，到手价 2,699 元。</p><p data-vmark=\"c85f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/18030ad9-9a8c-43b3-a456-d695000ca97b.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-vmark=\"0ef6\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1deQn7\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOdmfmM\" data-iosurl=\"https://u.jd.com/eOdel5B\" data-androidurl=\"https://u.jd.com/eOdl88D\" data-hosnexturl=\"https://u.jd.com/egdULsg\" data-hosurl=\"https://u.jd.com/egdFzgz\" data-uwpurl=\"https://u.jd.com/eadFK5I\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feDdXM0g%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/e1dN7CC\" data-lpwxurl=\"https://u.jd.com/eDdJEbI\"  data-ncid=\"259832\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/554560/27/3496/74206/6adf022cF1c82ead6/0083320320084278.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">极摩客 M3S 迷你主机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2699 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"dcbd\">NucBox M3S 三维 114×106×42.5 (mm)，提供 2 个 PCIe Gen4 ×2 的 M.2 2280 插槽，配备支持 Wi-Fi 6 &amp; 蓝牙 5.2 的瑞昱 RTL8851 无线网卡。</p><p data-vmark=\"f3fc\">其正面拥有 2 个 USB-A 10Gbps；反面拥有 1 个 USB-C 40Gbps、1 个 USB-A 10Gbps、1 个 USB-A 480Mbps、2 个 HDMI 2.1 (TMDS)、1 个 3.5mm 二合一音频插孔、1 个 2.5GbE RJ-45。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/952.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/952.htm"
+    },
+    {
+      "id": 3855,
+      "title": "华为何刚：全产业链不懈奋斗实现 Mate 60 麒麟芯片回归，9030 系列是半导体平面电路设计巅峰之作",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，揭秘了华为麒麟芯片回归背后的故事。 据何刚回忆，2020 年之后，由于众所周知的原因，华为无法获得全球先进的要素，芯片也面临严峻考验。经过全产业链几年的不懈奋斗，以及大家的鼎力支持下，在 2023 年的 Mate 60 系列手机上实现了麒麟芯片的回归。 IT之家注意到，在何刚身后的 PPT 上，也标注了麒麟 9000S 处理器。这也是麒麟 9000S",
+      "content": "<p data-vmark=\"c231\">IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，揭秘了华为麒麟芯片回归背后的故事。</p><p style=\"text-align: center;\" data-vmark=\"dc0d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dc7157d8-6aaf-4bc6-a292-59aa09fa06ef.jpg?x-bce-process=image/format,f_auto\" w=\"1422\" h=\"800\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d132b8461fc5d6fe3efdbc29586d17a0515b8b0115292f5b2563c50c66ae2a529f56c107fdce97333e\" data-vmark=\"76de\" class=\"no-alt-img\"></p><p data-vmark=\"f689\">据何刚回忆，2020 年之后，由于众所周知的原因，华为无法获得全球先进的要素，芯片也面临严峻考验。经过全产业链几年的不懈奋斗，以及大家的鼎力支持下，<strong>在 2023 年的 Mate 60 系列手机上实现了麒麟芯片的回归</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7140\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0fb4b641-6216-4629-ab1e-8275834a296d.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-mpos=\"2,2\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1ceb3b8b9cc4c7516f6d1645fd3a616a795ebc3a751187bb8ae1d6bdaf4ac5316ddba910d589ec125\" data-vmark=\"66c5\" class=\"no-alt-img\"></p><p data-vmark=\"d118\">IT之家注意到，在何刚身后的 PPT 上，也标注了麒麟 9000S 处理器。<strong>这也是麒麟 9000S 为数不多出现在公开场合中</strong>。即便是搭载该处理器的代表机型 —— Mate 60 系列，至今也未在设置-关于本机中对处理器信息进行标注。</p><p style=\"text-align: center;\" data-vmark=\"7761\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg\" w=\"1281\" h=\"1920\" data-vmark=\"7a1a\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏</figcaption><p data-vmark=\"dbbd\">何刚表示，麒麟 9030 系列实现了架构与工艺的大升级，性能大幅提升，<strong>可以说是半导体平面电路设计的巅峰之作</strong>；今年发布的麒麟 9050 系列是全球首款逻辑折叠 τ 芯片，实现了性能的跨越式提升。</p><p style=\"text-align: center;\" data-vmark=\"14a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/deee16b1-cfc0-44ae-9ed7-ad3adc5e59f9.jpg?x-bce-process=image/format,f_auto\" w=\"1435\" h=\"807\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d19b1c970c6192da8c9d2e1a82fa80ece8d49cce65c01b9d51e2c8221c1e4981c42cd38010bd448210\" data-vmark=\"a880\" class=\"no-alt-img\"></p><p data-vmark=\"ff42\">作为参考，2025 年 8 月，Pura 80 系列手机在更新 HarmonyOS 5.1.0.217 SP2 版本后，<a target=\"_blank\" href=\"https://www.ithome.com/0/875/728.htm\">华为才时隔多年再次在手机设置界面显示麒麟处理器型号</a>。同年 9 月，华为 Mate XTs 三折叠手机发布，<a target=\"_blank\" href=\"https://www.ithome.com/0/880/360.htm\">正式官宣了麒麟 9020 处理器</a>，向市场传递明确信号，<strong>国产芯片供应链实现全链路自主可控</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9f75\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/e26877ca-757c-4280-b867-bd401b291ce5.jpg\" w=\"1440\" h=\"1080\" data-vmark=\"494b\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/018/949.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/949.htm"
+    },
+    {
+      "id": 3856,
+      "title": "商务部：2026 年以来消费品以旧换新带动销售额超 2 万亿元，惠及超 2.5 亿人次",
+      "summary": "IT之家 10 月 28 日消息，据央视新闻报道，商务部今日（10 月 28 日）召开全国消费品以旧换新工作推进电视电话会议，总结政策实施进展成效，部署下一步重点任务。 会议指出，2026 年以来，商务部会同各地区、各相关部门，认真贯彻落实党中央、国务院决策部署，优化工作机制，加强统筹联动，有力有序抓好政策实施，带动相关品类销售额超 2 万亿元，惠及超 2.5 亿人次，有力推动消费增长，助力转型升级，畅通循环利用，取得多重政策效果。 据国家统计局数据，1-9 月，我国批发和零",
+      "content": "<p data-vmark=\"c368\">IT之家 10 月 28 日消息，据央视新闻报道，商务部今日（10 月 28 日）召开全国消费品以旧换新工作推进电视电话会议，总结政策实施进展成效，部署下一步重点任务。</p><p data-vmark=\"4aa1\">会议指出，2026 年以来，商务部会同各地区、各相关部门，认真贯彻落实党中央、国务院决策部署，优化工作机制，加强统筹联动，有力有序抓好政策实施，<span class=\"color-00269a\"><strong>带动相关品类销售额超 2 万亿元，惠及超 2.5 亿人次</strong></span>，有力推动消费增长，助力转型升级，畅通循环利用，取得多重政策效果。</p><p data-vmark=\"1df0\">据国家统计局数据，1-9 月，我国批发和零售业增加值 11.1 万亿元，同比增长 4.4%，增速较上半年提高 0.7 个百分点，占 GDP 比重为 10.4%。</p><p data-vmark=\"732f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/80f7aad2-613a-4732-b6e8-59bb23be4007.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1080\" data-mpos=\"2,2\" data-ai=\"2\" data-vmark=\"d787\" class=\"lazy no-alt-img\" title=\"商务部：2026 年以来家电以旧换新累计超 10099 万台\" data-weibo=\"0\"></p><p data-vmark=\"fa65\">2026 年以来，<strong>家电以旧换新累计超 10099 万台，数码和智能产品购新超 12060 万件</strong>。据国家统计局数据，1-9 月，限额以上单位通讯器材类零售额 8123 亿元，同比增长 18.1%，其中 9 月单月同比增长 31.1%，增速在 16 类商品中继续位居第一，为去年 6 月以来最高水平。可穿戴智能设备、高能效等级家电商品零售额均保持快速增长。</p><p data-vmark=\"739e\">IT之家注意到，今年 9 月，国家发展改革委会同财政部，向地方下达了今年第四批 625 亿元超长期特别国债支持消费品以旧换新资金。至此，<strong>全年 2500 亿元消费品以旧换新资金已全部下达</strong>。</p>",
+      "link": "https://www.ithome.com/1/018/945.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/945.htm"
+    },
+    {
+      "id": 3857,
+      "title": "北京：新建算力中心 100% 使用绿电",
+      "summary": "IT之家 10 月 28 日消息，北京市人民政府上周印发《北京市“十五五”时期新型能源体系规划》。其中提出全力扩大绿电进京规模、加快推进市域外绿电基地建设，有序推进绿电错峰交易、分时段交易等跨省跨区绿电交易规模化发展。外调绿电规模力争达到 710 亿千瓦时。 IT之家注意到，该规划还提出统筹能源资源与算力布局协同，提升算力设施能源供给质量，新建算力中心 100% 使用绿电。推进算力、通信基站和机房等基础设施节能降碳改造，存量数据中心电源使用效率（PUE）达到 1.35 以下，",
+      "content": "<p data-vmark=\"f2b5\">IT之家 10 月 28 日消息，北京市人民政府上周印发《北京市“十五五”时期新型能源体系规划》。其中提出全力扩大绿电进京规模、加快推进市域外绿电基地建设，有序推进绿电错峰交易、分时段交易等跨省跨区绿电交易规模化发展。外调绿电规模力争达到 710 亿千瓦时。</p><p data-vmark=\"ade6\">IT之家注意到，该规划还提出统筹能源资源与算力布局协同，提升算力设施能源供给质量，<strong>新建算力中心 100% 使用绿电</strong>。推进算力、通信基站和机房等基础设施节能降碳改造，存量数据中心电源使用效率（PUE）达到 1.35 以下，单位算力能效和碳效达到国际先进水平。</p>",
+      "link": "https://www.ithome.com/1/018/943.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/943.htm"
+    },
+    {
+      "id": 3858,
+      "title": "LG Display 跨越 WOLED 5000 万销量里程碑",
+      "summary": "IT之家 10 月 28 日消息，LG Display（乐金显示）韩国当地时间今日宣布，自 2013 年开始销售 WOLED 电视面板以来，该企业在电视和显示器两个领域销售的 WOLED 显示面板已累计突破 5,000 万块。 LG Display 分别在 2020、2021、2023、2025 实现了前 4 个 1000 万块销售目标，显示 WOLED 的市场正稳步提升。 LG Display 总裁郑哲东表示： WOLED 出货量突破 5,000 万台，是全体员工在艰难的商",
+      "content": "<p data-vmark=\"2952\">IT之家 10 月 28 日消息，LG Display（乐金显示）韩国当地时间今日宣布，自 2013 年开始销售 WOLED 电视面板以来，<strong>该企业在电视和显示器两个领域销售的 WOLED 显示面板已累计突破 5,000 万块</strong>。</p><p data-vmark=\"e3c2\">LG Display 分别在 2020、2021、2023、2025 实现了前 4 个 1000 万块销售目标，显示 WOLED 的市场正稳步提升。</p><p style=\"text-align: center;\" data-vmark=\"af71\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ed50320f-5abe-4cb4-a21e-41cabb7adee8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-vmark=\"eb87\" class=\"no-alt-img\"></p><p data-vmark=\"7bbb\">LG Display 总裁郑哲东表示：</p><blockquote><p data-vmark=\"6b72\">WOLED 出货量突破 5,000 万台，是全体员工在艰难的商业环境下克服重重困难所取得的成果。</p><p data-vmark=\"a3c8\">我们将以 13 年来积累并引领行业的 WOLED 技术实力为基础，迅速抢占超越当下的差异化未来新一代显示技术先机，从而打造出竞争对手难以企及的技术与业务竞争力“护城河”，蜕变为一家“以技术为核心的企业”。</p></blockquote>",
+      "link": "https://www.ithome.com/1/018/941.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/941.htm"
+    },
+    {
+      "id": 3859,
+      "title": "驰为推出 GameBook Max 18 英寸游戏本：最高酷睿 i9-14900HX 处理器、RTX 5060 显卡",
+      "summary": "IT之家 10 月 28 日消息，驰为现已在海外市场推出新款 GameBook Max 游戏本，采用 18 英寸屏幕，最高可选英特尔酷睿 i9 处理器，起售价 1,799 美元（IT之家注：现汇率约合 12,019 元人民币）。 据介绍，这款笔记本提供英特尔酷睿 i7-14650HX 和酷睿 i9-14900HX 两种处理器可选，所有配置均搭配英伟达 RTX 5060 显卡，拥有 8GB GDDR7 显存，显卡 TDP 为 115W。 相比之下，初代 16 英寸 GameBo",
+      "content": "<p data-vmark=\"ec80\">IT之家 10 月 28 日消息，驰为现已在海外市场推出新款 GameBook Max 游戏本，采用 18 英寸屏幕，最高可选英特尔酷睿 i9 处理器，<strong>起售价 1,799 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 12,019 元人民币）</span></strong>。</p><p style=\"text-align: center;\" data-vmark=\"b4ba\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4bfcbc7e-11b0-4efc-abba-027992ec0e4c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1745d0515b4886d1e9d8e4799286288cdca8bc7ecf12279473fe9ed113a8209baae1a4e36ec35b9ca\" data-vmark=\"478e\" class=\"no-alt-img\"></p><p data-vmark=\"78e2\">据介绍，这款笔记本提供英特尔酷睿 i7-14650HX 和酷睿 i9-14900HX 两种处理器可选，<strong>所有配置均搭配英伟达 RTX 5060 显卡</strong>，拥有 8GB GDDR7 显存，显卡 TDP 为 115W。</p><p data-vmark=\"a8e5\">相比之下，初代 16 英寸 GameBook 搭载 AMD 锐龙 9 9955HX 处理器，以及 RTX 5070 Ti 显卡。总体来说，新款 GameBook Max 与前代产品的定位可能不太一样。</p><p style=\"text-align: center;\" data-vmark=\"8a15\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/499ef0a0-ca36-4cca-b67b-516b163eb622.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1084\" data-weibo=\"1\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d18c665b62c36bcf9773206ea76e13326fd09dacf47be741b455129d44fc2f153409588749ee002ccd\" data-vmark=\"610c\" class=\"no-alt-img\"></p><p data-vmark=\"0c6a\">同时，该笔记本搭载 18 英寸 IPS 屏幕，<strong>分辨率为 1920*1200</strong>，<strong>刷新率为 144Hz</strong>。提供 16GB 或 32GB DDR5 内存，支持自行更换。还有 512GB 或 1TB 硬盘，机身配备两个 M.2 2280 PCIe 4.0 SSD 插槽。</p><p style=\"text-align: center;\" data-vmark=\"8d99\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cae532ad-d428-473e-bb9f-2d012a5934fe.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1064\" data-weibo=\"2\" data-mpos=\"0,2\"  data-vmark=\"e3d8\" class=\"no-alt-img\"></p><p data-vmark=\"edfb\">此外，<strong>该笔记本内置 77.77Wh 电池</strong>，配备 250W 电源适配器，支持 140W PD 充电。配备 HDMI 2.1、MiniDP 2.1a、USB-C、USB-A 等接口。</p>",
+      "link": "https://www.ithome.com/1/018/938.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/938.htm"
+    },
+    {
+      "id": 3860,
+      "title": "微星推出三模曲面 VA 显示器 MAG 325CQPD27，支持 WQHD 275Hz",
+      "summary": "IT之家 10 月 28 日消息，微星 (MSI) 现已在其官网上线 MAG 325CQPD27 显示器。该型号采用 31.5\" 1500R Rapid VA LCD 显示面板，支持 WQHD 275Hz / FHD 360Hz / HD 500Hz 三模切换。 MAG 325CQPD27 拥有 300nits 的 SDR 亮度，静态对比度 4000:1；灰阶 (GtG) 响应时间低至 0.5ms；色域 94% DCI-P3；支持 SLMB Sync 超低动态模糊。 其提供 ",
+      "content": "<p data-vmark=\"ea80\">IT之家 10 月 28 日消息，微星 (MSI) 现已在其官网上线<span class=\"productName\"> MAG 325CQPD27 显示器。该型号采用 31.5\" 1500R Rapid VA LCD 显示面板，<strong>支持 WQHD 275Hz / FHD 360Hz / HD 500Hz 三模切换</strong>。</span></p><p style=\"text-align: center;\" data-vmark=\"e0c9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/970c7584-5b21-4602-8768-6cdc71cd6dad.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1152\" data-weibo=\"0\" data-vmark=\"a7c1\" class=\"no-alt-img\"></p><p data-vmark=\"40f3\"><span class=\"productName\">MAG 325CQPD27 <strong>拥有 300nits 的 SDR 亮度</strong>，静态对比度 4000:1；灰阶 (GtG) 响应时间低至 0.5ms；<strong>色域 94% DCI-P3；</strong>支持 SLMB Sync 超低动态模糊。</span></p><p data-vmark=\"3175\"><span class=\"productName\">其提供 1 个 DisplayPort 1.4a、2 个支持有限刷新率的 HDMI 2.0b、1 个 3.5mm 音频输出插孔；内置电源；原装支架允许四向调节，兼容 100×100 (mm) VESA 壁挂规范。</span></p><p style=\"text-align: center;\" data-vmark=\"a90c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/37936be6-3a56-40d6-837d-c4a3f1ad6b3a.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1152\" data-weibo=\"1\" data-vmark=\"ef7b\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/018/937.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/937.htm"
+    },
+    {
+      "id": 3861,
+      "title": "华为风驰散热支架发布：无胶水设计、不挑机型、超薄压电风扇，299 元",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚发布了华为风驰散热支架，定价 299 元。 据介绍，华为风驰散热支架采用散热支架一体设计，拥有铝合金机身、折叠支架，并运用了隐藏转轴方案；首创压电风冷散热，内置无扇叶超薄压电风扇、高性能陶瓷材料；配备微米级吸盘，采用仿生壁虎原理，支持反复黏贴。 IT之家附手机实装效果如下：",
+      "content": "<p data-vmark=\"9681\">IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚发布了华为风驰散热支架，<strong>定价 299 元</strong>。</p><p data-vmark=\"36bf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/982443cf-ffd8-49b7-8cff-8824632f9f64.jpg\" w=\"1270\" h=\"682\" data-mpos=\"0,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d16aab63f2904f00357bbce95a33b334e3dae40743529462fd7d617f45fb68d8eaac9da6b5225189cc\" data-vmark=\"f643\" class=\"no-alt-img\"></p><p data-vmark=\"09e6\">据介绍，<strong>华为风驰散热支架采用散热支架一体设计</strong>，拥有铝合金机身、折叠支架，并运用了隐藏转轴方案；<strong>首创压电风冷散热</strong>，内置无扇叶超薄压电风扇、高性能陶瓷材料；<strong>配备微米级吸盘</strong>，采用仿生壁虎原理，支持反复黏贴。</p><p data-vmark=\"5fab\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6e6f7eef-bd8e-4b62-8011-db587e2f6f5c.jpg\" w=\"1248\" h=\"691\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d155ae116cab742c48b6affff055a82d02f980f6b7168175da1dbf697f9008d9bcf51a931b73bbe512\" data-vmark=\"d725\" class=\"no-alt-img\"></p><p data-vmark=\"0add\" style=\"text-align: left;\">IT之家附手机实装效果如下：</p><p data-vmark=\"5ee0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/423c27f6-a0e7-4aa6-b585-5c47f54552ca.jpg\" w=\"1219\" h=\"698\" data-mpos=\"0,0\" data-weibo=\"2\"  data-vmark=\"c9f7\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/018/930.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/930.htm"
+    },
+    {
+      "id": 3862,
+      "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
+      "summary": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。 IT之家注意到，该产品采用三色配饰环设计，带来蓝 / 黄、红 / 蓝、红 / 黄拼色设计，支持左右耳自适应，搭载 AI 智能体耳边助手，支持个性弹窗、高清空间音频、IP57 防尘抗水、星闪精确查找。 续航方面，该产品整机续航达 38 小时，耳机单次续航达 9 小时。 京东华为 Fr",
+      "content": "<p data-vmark=\"8ce0\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。</p><p data-vmark=\"0dfc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_auto\" w=\"1216\" h=\"689\" data-weibo=\"0\" data-vmark=\"0f80\" class=\"no-alt-img\"></p><p data-vmark=\"c58c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/00fe0e23-ca5a-4e82-8114-e5172681e859.png?x-bce-process=image/format,f_auto\" w=\"852\" h=\"495\" data-weibo=\"1\" data-vmark=\"7b4e\" class=\"no-alt-img\"></p><p data-vmark=\"6d6d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c32c8cd6-0866-4068-9845-8cc4941692eb.png?x-bce-process=image/format,f_auto\" w=\"1283\" h=\"709\" data-weibo=\"2\" data-vmark=\"d9ec\" class=\"no-alt-img\"></p><p data-vmark=\"f0b4\">IT之家注意到，该产品采用三色配饰环设计，带来<strong>蓝 / 黄、红 / 蓝、红 / 黄</strong>拼色设计，支持左右耳自适应，搭载 AI 智能体耳边助手，支持个性弹窗、高清空间音频、IP57 防尘抗水、星闪精确查找。</p><p data-vmark=\"fe5d\">续航方面，该产品整机续航达 38 小时，耳机单次续航达 9 小时。</p><p data-vmark=\"d6ec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/36f42c06-df45-4213-8125-10db8c16afd5.png?x-bce-process=image/format,f_auto\" w=\"1263\" h=\"694\" data-weibo=\"3\" data-vmark=\"541d\" class=\"no-alt-img\"></p><p data-vmark=\"4b0e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3bef52a1-11c2-49b2-85f8-762cc4b4b1be.png?x-bce-process=image/format,f_auto\" w=\"1268\" h=\"694\" data-weibo=\"4\" data-vmark=\"3f7e\" class=\"no-alt-img\"></p><p data-vmark=\"ef57\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6c84935d-d325-4925-a923-74fa7c967e92.png\" w=\"1292\" h=\"712\" data-weibo=\"5\" data-vmark=\"5808\" class=\"no-alt-img\"></p><p data-vmark=\"21d7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1b28aea6-e8e9-4359-b2c4-2fad6a153a36.png?x-bce-process=image/format,f_auto\" w=\"1263\" h=\"718\" data-weibo=\"6\" data-vmark=\"c4a5\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eOdWJal\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOda79m\" data-iosurl=\"https://u.jd.com/erdWPVB\" data-androidurl=\"https://u.jd.com/eDdSo5l\" data-hosnexturl=\"https://u.jd.com/egdvVoA\" data-hosurl=\"https://u.jd.com/eDd6eSp\" data-uwpurl=\"https://u.jd.com/eadDNPw\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fead0tHN%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eadrCCx\" data-lpwxurl=\"https://u.jd.com/eOda9Xa\"   data-ncid=\"259807\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/553093/24/1463/39505/6ad962ffF3a1262ce/008332032068c6a9.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为 FreeClip 2 耳夹耳机 潮玩拼色</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1249 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/929.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/929.htm"
+    },
+    {
+      "id": 3863,
+      "title": "华为何刚：HUAWEI FreeClip 系列耳夹耳机开售至今，累计发货突破 1000 万台",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚带来了 FreeClip 2 耳夹式耳机新配色，主打潮玩拼色。 IT之家注意到，何刚还在发布会上宣布，HUAWEI FreeClip 系列耳夹耳机自 2024 年开售至今，累计发货突破 1000 万台。 据IT之家此前报道，在今年 6 月的华为 nova 16 系列及全场景新品发布会上，何刚宣布，华为 FreeClip 系列在 2024 至 2025 年连续两",
+      "content": "<p data-vmark=\"d33d\">IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚带来了 FreeClip 2 耳夹式耳机新配色，主打潮玩拼色。</p><p style=\"text-align: center;\" data-vmark=\"4bf3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a353bd3d-b016-48f1-a432-6893fcb52c8f.jpg?x-bce-process=image/format,f_auto\" w=\"1216\" h=\"689\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1ede006a97a0e3ecf71001a89c725234ad7abbcabc63c29d1956600369f0b2dd6efc2b92123cbd5d9\" data-vmark=\"06c0\" class=\"no-alt-img\"></p><p data-vmark=\"87df\">IT之家注意到，何刚还在发布会上宣布，HUAWEI FreeClip 系列耳夹耳机自 2024 年开售至今，<strong>累计发货突破 1000 万台</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6333\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6670b8b5-7e23-44ad-a107-aec616b1367c.jpg?x-bce-process=image/format,f_auto\" w=\"1193\" h=\"685\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d188900966ff471b6e8d43d2a4ba72b72ae26324bf7c91e1c24f216191822668cae56cbeb2a7a7be03\" data-vmark=\"2e62\" class=\"no-alt-img\"></p><p data-vmark=\"fa20\">据IT之家此前报道，在今年 6 月的华为 nova 16 系列及全场景新品发布会上，何刚宣布，<a target=\"_blank\" href=\"https://www.ithome.com/0/958/256.htm\">华为 FreeClip 系列在 2024 至 2025 年连续两年位列全球耳夹式耳机出货量第一</a>。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"57ab\">2023 年 12 月 26 日，华为 FreeClip 耳夹耳机在国内发布，售价 1299 元</p></li><li><p data-vmark=\"9cac\">2025 年 9 月 24 日，华为 FreeClip 2 耳夹耳机发布，售价保持 1299 元</p></li><li><p data-vmark=\"5a5f\">2026 年 6 月 1 日，华为 FreeClip 2 耳夹耳机典藏版发布，售价 1499 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"c48f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/549237fa-2cca-40fc-93b0-89e1984e0f63.jpg\" w=\"1280\" h=\"960\" data-vmark=\"f95f\" data-mpos=\"0,0\" data-weibo=\"2\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"2d49\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4963\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/018/928.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/928.htm"
+    },
+    {
+      "id": 3864,
+      "title": "华为自带线全能充智能移动电源今日开售：20000mAh + 100W 双向快充，499 元",
+      "summary": "IT之家 10 月 28 日消息，华为自带线全能充智能移动电源（100W 20000）新品今日正式开售，定价 499 元。 这款移动电源可选黑白双色，搭载 20000mAh 电芯，拥有 343Wh/L 超高能量密度，支持双向 100W 超级快充，以及离线查找、智慧出行提醒等功能，自带一条 USB-C 充电线。 京东华为自带线全能充智能移动电源（100W 20000）499 元直达链接 IT之家查询发现，华为目前还在售三款自带线移动电源，分别为： 12000mAh + 66W（",
+      "content": "<p data-vmark=\"888e\">IT之家 10 月 28 日消息，华为自带线全能充智能移动电源（100W 20000）新品今日正式开售，定价 499 元。</p><p data-vmark=\"5635\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/124ccc9f-1bc6-4999-9a39-26a7e787b872.png\" w=\"1260\" h=\"672\" data-weibo=\"0\" data-vmark=\"621c\" class=\"no-alt-img\"></p><p data-vmark=\"e371\">这款移动电源可选黑白双色，搭载 20000mAh 电芯，拥有 343Wh/L 超高能量密度，支持双向 100W 超级快充，以及离线查找、智慧出行提醒等功能，自带一条 USB-C 充电线。</p><p style=\"text-align: center;\" data-vmark=\"552f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d15df731-8f9e-4463-978a-7e87f299e10b.png?x-bce-process=image/format,f_auto\" w=\"1270\" h=\"714\" data-weibo=\"1\" data-vmark=\"999f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"6223\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4cd6e618-b549-45b9-b0c5-27b891c320c4.png?x-bce-process=image/format,f_auto\" w=\"1297\" h=\"725\" data-weibo=\"2\" data-vmark=\"9caa\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eadnK7Q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eDdOnOY\" data-iosurl=\"https://u.jd.com/e1dyKjV\" data-androidurl=\"https://u.jd.com/eOdZUyF\" data-hosnexturl=\"https://u.jd.com/eOdnZCr\" data-hosurl=\"https://u.jd.com/erdTe0X\" data-uwpurl=\"https://u.jd.com/e6d3VAn\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252ferdOkjw%26EA_PTAG%3d17078.27.380\" data-ncid=\"259809\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/544616/31/5318/28118/6acf805cF6ed39b46/00833e83e83497f3.png\" w=\"1000\" h=\"1000\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为自带线全能充智能移动电源（100W 20000）</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"38cb\">IT之家查询发现，华为目前还在售三款自带线移动电源，分别为：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7e73\">12000mAh + 66W（首发价 329 元，目前京东自营店到手价 <strong>229 元</strong>）</p></li><li><p data-vmark=\"6104\">12000mAh + 100W（首发价 399 元，目前京东自营店到手价 <strong>279 元</strong>）</p></li><li><p data-vmark=\"440c\">12000mAh + 100W 华为自带线全能充智能移动电源（<strong>售价 399 元</strong>）</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egdgXrZ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F674RCA\" data-iosurl=\"https://u.jd.com/erdZhtW\" data-androidurl=\"https://u.jd.com/eadYu1D\" data-hosnexturl=\"https://u.jd.com/eOdvwzp\" data-hosurl=\"https://u.jd.com/eadBSV3\" data-uwpurl=\"https://u.jd.com/e1dYpFc\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feadpMVj%26EA_PTAG%3d17078.27.380\" data-ncid=\"259809\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/361454/28/9515/6569/69228e30F80c0e7d4/7ae90e87f6786b77.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为自带线全能充移动电源 66W 12000</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">229 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eadYExF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eGdTNHD\" data-iosurl=\"https://u.jd.com/F17xqMh\" data-androidurl=\"https://u.jd.com/e1dpylO\" data-hosnexturl=\"https://u.jd.com/eadALLr\" data-hosurl=\"https://u.jd.com/egdPVBz\" data-uwpurl=\"https://u.jd.com/erdWTnT\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feGd0awE%26EA_PTAG%3d17078.27.380\" data-ncid=\"259809\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/322629/29/11173/7493/68b7ee74F1b7216ef/55131291022bd314.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为自带线全能充移动电源 100W 12000</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">279 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1dvSgU\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1dS8be\" data-iosurl=\"https://u.jd.com/eDd0O2p\" data-androidurl=\"https://u.jd.com/F6FfYYX\" data-hosnexturl=\"https://u.jd.com/erd3CI8\" data-hosurl=\"https://u.jd.com/eDdpCoj\" data-uwpurl=\"https://u.jd.com/e1dYdYt\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOdAQ9J%26EA_PTAG%3d17078.27.380\" data-ncid=\"259809\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/497278/21/3605/9930/6a71ee0eFa47f2d4a/0083320320d40df4.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为自带线全能充智能移动电源（100W 12000）</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">399 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/927.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/927.htm"
+    },
+    {
+      "id": 3865,
+      "title": "华为 Pura90 系列手机全面升级鸿蒙 7 系统，新机出厂全面搭载 HarmonyOS 7",
+      "summary": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，搭载麒麟 9025 芯片，焕新优惠价 5199 元起。 在今天的发布会上，华为董事、终端 BG CEO 何刚宣布，华为 Pura90 系列现已全面搭载 HarmonyOS 7 系统，这意味着大家接下来能买到的 Pura90 系列新机都已默认预装 HarmonyOS 7。 参考IT之家此前报道，华为在 7 月 28 日面向华为 Pura90 系列用户发布了 H",
+      "content": "<p data-vmark=\"4ea4\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，搭载麒麟 9025 芯片，焕新优惠价 5199 元起。</p><p data-vmark=\"8316\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2ad07719-21b7-4135-8e34-4c900b3a7534.jpg\" w=\"1440\" h=\"800\" data-weibo=\"0\" data-vmark=\"2fd0\" class=\"no-alt-img\"></p><p data-vmark=\"804a\" style=\"text-align: left;\">在今天的发布会上，华为董事、终端 BG CEO 何刚宣布，华为 Pura90 系列现已全面搭载 HarmonyOS 7 系统，这意味着大家接下来能买到的 Pura90 系列新机都已默认预装 HarmonyOS 7。</p><p data-vmark=\"6740\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4bd06a51-16b3-4572-bae8-3024c460f784.jpg\" w=\"1440\" h=\"800\" data-weibo=\"1\" data-vmark=\"c981\" class=\"no-alt-img\"></p><p data-vmark=\"83dc\">参考IT之家此前报道，华为在 7 月 28 日面向华为 Pura90 系列用户发布了 HarmonyOS 7 花粉 Beta 版 7.0.0.100SP8 版本，9 月 7 日发布了公测版 7.0.0.105SP10 版本，10 月 26 日又推送了最新的 7.0.0.111SP12 版本并开放不限量升级（升级方式：设置 &gt; 搜索“软件更新”&gt; 检查更新）。</p><p data-vmark=\"6a8f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/img/share/92d47e93-a0ee-44bf-94c9-21492d6fd91b.png\" w=\"1125\" h=\"1673\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3NzYzJTJDNDc3MjElMkM0NzcxNiU1RCUyQyUyMnByb2R1Y3RzJTIyJTNBJTVCJTdCJTIycHJvZHVjdE5hbWUlMjIlM0ElMjJIVUFXRUklMjBQdXJhJTIwOTAlMjIlMkMlMjJwcm9kdWN0SWQlMjIlM0E0Nzc2MyU3RCUyQyU3QiUyMnByb2R1Y3ROYW1lJTIyJTNBJTIySFVBV0VJJTIwUHVyYSUyMDkwJTIwUHJvJTIyJTJDJTIycHJvZHVjdElkJTIyJTNBNDc3MjElN0QlMkMlN0IlMjJwcm9kdWN0TmFtZSUyMiUzQSUyMkhVQVdFSSUyMFB1cmElMjA5MCUyMFBybyUyME1heCUyMiUyQyUyMnByb2R1Y3RJZCUyMiUzQTQ3NzE2JTdEJTVEJTJDJTIydGl0bGUlMjIlM0ElMjIlRTQlQkElQTclRTUlOTMlODElRTUlOEYlODIlRTYlOTUlQjAlRTglQUYlQTYlRTYlODMlODUlMjIlMkMlMjJiZ0NvbG9yJTIyJTNBJTIyJTIzMDAwMDAwJTIyJTJDJTIybGluZUNvbG9yJTIyJTNBJTIyJTIzQTJBMkEyJTIyJTJDJTIydGV4dENvbG9yJTIyJTNBJTIyJTIzRkZGRkZGJTIyJTJDJTIyZmlyc3RDb2xvciUyMiUzQSUyMiUyM2QyMjIyMiUyMiUyQyUyMnFyQ29kZSUyMiUzQXRydWUlMkMlMjJ3YXRlck1hcmslMjIlM0F0cnVlJTJDJTIyc2hvd0ltYWdlJTIyJTNBdHJ1ZSUyQyUyMnNob3dTYXRlbGxpdGUlMjIlM0FmYWxzZSU3RA==\" data-vmark=\"98a6\" class=\"no-alt-img\"></p><p data-vmark=\"3c6c\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"dd0d\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/018/915.htm\">华为 Pura90 Plus 手机发布：麒麟 9025 芯片，焕新优惠价 5199 元起</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/923.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/923.htm"
+    },
+    {
+      "id": 3866,
+      "title": "华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起",
+      "summary": "IT之家 10 月 28 日消息，华为畅享 100 标准版今天在华为双十一焕新季 · 全场景新品发布会上发布，售价 1399 元起，将于 10 月 31 日 10:08 开售。 IT之家附具体售价如下： 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 标准版搭载麒麟 8000S 芯片，提供 128 和 256GB 两个存储版本，预装 HarmonyOS 7 系统，提供冰川白、丹霞橙、幻夜黑三种配色。 华为畅享 100 标准版采用了 6.56 英寸",
+      "content": "<p data-vmark=\"7cb6\">IT之家 10 月 28 日消息，华为畅享 100 标准版今天在华为双十一焕新季 · 全场景新品发布会上发布，售价 1399 元起，将于 10 月 31 日 10:08 开售。</p><p data-vmark=\"4004\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6aa54904-d21f-4c32-a702-c36bb8c43336.png?x-bce-process=image/format,f_auto\" w=\"926\" h=\"521\" data-weibo=\"0\" data-vmark=\"2262\" class=\"no-alt-img\"></p><p data-vmark=\"526a\">IT之家附具体售价如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e565\">128GB 版 1399 元</p></li><li><p data-vmark=\"6b6f\">256GB 版 1699 元</p></li></ul><p data-vmark=\"7681\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/14fa722f-6e8c-4c7e-b62b-623615bffdf2.jpg?x-bce-process=image/format,f_auto\" w=\"926\" h=\"521\" data-weibo=\"1\" data-mpos=\"2,2\"  data-vmark=\"8674\" class=\"no-alt-img\"></p><p data-vmark=\"8fee\">华为畅享 100 标准版搭载麒麟 8000S 芯片，提供 128 和 256GB 两个存储版本，预装 HarmonyOS 7 系统，提供冰川白、丹霞橙、幻夜黑三种配色。</p><p data-vmark=\"e656\">华为畅享 100 标准版采用了 6.56 英寸 720P LCD 水滴屏，支持 90Hz 刷新率。内置 6100mAh 华为巨鲸电池，支持 40W 快充。影像方面，华为畅享 100 标准版前置 800 万像素、后置 1300 万像素摄像头。其它方面，新机支持 5A 网络、Wi-Fi 7、星闪。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egd0I8a\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOdy5TW\" data-iosurl=\"https://u.jd.com/erdOoD8\" data-androidurl=\"https://u.jd.com/e6dWGsV\" data-hosnexturl=\"https://u.jd.com/e1d1dwB\" data-hosurl=\"https://u.jd.com/eDdrmKi\" data-uwpurl=\"https://u.jd.com/erdyqjS\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feGdWLKU%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/egdBG7U\" data-lpwxurl=\"https://u.jd.com/erdYDSJ\"  data-ncid=\"259800\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/545619/6/11019/24095/6adabd4aFe0e29ebb/00833203203b32ae.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为畅享 100 &nbsp;128GB 丹霞橙</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1399 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/922.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/922.htm"
+    },
+    {
+      "id": 3867,
+      "title": "华为畅享 100 Pro 手机发布：定位“轻盈小直屏”、麒麟 8020A 加持，1799-2699 元",
+      "summary": "IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季全场景新品发布会上，华为畅享 100 Pro 手机正式发布。该机搭载麒麟 8020A 芯片 + 鸿蒙 7，电池容量为 6100mAh，定位“轻盈小直屏”，重量仅有 192g。 京东华为畅享 100 Pro 幻夜黑 128GB1799 元直达链接 新机将于 10 月 31 日开售。IT之家附价格信息如下： 128GB：1799 元 256GB：2199 元 512GB：2699 元 新机提供雀翎蓝、羽砂紫、羽砂白、幻",
+      "content": "<p data-vmark=\"02d9\">IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季全场景新品发布会上，华为畅享 100 Pro 手机正式发布。该机搭载麒麟 8020A 芯片 + 鸿蒙 7，电池容量为 6100mAh，定位“轻盈小直屏”，重量仅有 192g。</p><p data-vmark=\"2efe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ec78e23c-6b23-4773-946f-42ec2c909a63.png\" w=\"1290\" h=\"724\" data-weibo=\"0\" data-vmark=\"b8de\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1dv1Co\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOd2M4V\" data-iosurl=\"https://u.jd.com/erdNxQi\" data-androidurl=\"https://u.jd.com/eOdBqJt\" data-hosnexturl=\"https://u.jd.com/eGdppjB\" data-hosurl=\"https://u.jd.com/eDdZgdG\" data-uwpurl=\"https://u.jd.com/egd3IxS\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOdDRnb%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/egdlA0O\" data-lpwxurl=\"https://u.jd.com/e6dWZRe\"   data-ncid=\"259805\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/554862/15/4960/129592/6ae19fd7F2a4236c9/00835a05a047f7d3.jpg\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华为畅享 100 Pro 幻夜黑 128GB</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">1799 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"63b3\">新机将于 10 月 31 日开售。IT之家附价格信息如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e57a\">128GB：1799 元</p></li><li><p data-vmark=\"ddab\">256GB：2199 元</p></li><li><p data-vmark=\"288b\">512GB：2699 元</p></li></ul><p data-vmark=\"2dc4\">新机提供雀翎蓝、羽砂紫、羽砂白、幻夜黑 4 款配色，整机性能号称提升 53%，还支持 AI 双向通话降噪。其屏幕规格为 6.7 英寸 1080P OLED，搭载昆仑玻璃。</p><p data-vmark=\"3fa9\">电池及续航方面，新机配有 6100mAh 巨鲸电池，支持 40W 快充。</p><p data-vmark=\"7ff6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/514f14e5-fa2a-4691-ba16-e03902829dcf.png?x-bce-process=image/format,f_auto\" w=\"1253\" h=\"682\" data-weibo=\"1\" data-vmark=\"f2f8\" class=\"no-alt-img\"></p><p data-vmark=\"da92\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/91e52ab0-1e4f-4c0a-bd7b-f5dc1f30f4e4.png\" w=\"1136\" h=\"698\" data-weibo=\"2\" data-vmark=\"4efa\" class=\"no-alt-img\"></p><p data-vmark=\"4124\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1cd29537-18f2-44ed-aa43-03e1595db177.png\" w=\"1210\" h=\"647\" data-weibo=\"3\" data-vmark=\"acfd\" class=\"no-alt-img\"></p><p data-vmark=\"b953\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/68ed120e-1acd-4e26-a94b-ee144bf7df12.png\" w=\"1279\" h=\"705\" data-weibo=\"4\" data-vmark=\"32ac\" class=\"no-alt-img\"></p><p data-vmark=\"9ae1\">新机搭载 5000 万 RYYB 超感光影像系统，具备 F1.8 光圈和 RYYB 超感光滤色阵列，人像镜头的像素为 3200 万，配有 F2.2 光圈、0.7 微米像素。</p><p data-vmark=\"63e8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1e5b2c76-c5c6-45be-826d-9f1eed12cf6c.png\" w=\"1149\" h=\"682\" data-weibo=\"5\" data-vmark=\"9843\" class=\"no-alt-img\"></p><p data-vmark=\"a992\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"2081\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/018/922.htm\">华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起</a>》</p></li><li><p data-vmark=\"501e\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/018/919.htm\">华为畅享 100 Pro Max 手机发布：8800mAh 巨鲸电池、至高麒麟 8020 处理器，1999 元起</a>》</p></li></ul><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/018/920.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/920.htm"
+    },
+    {
+      "id": 3868,
+      "title": "华为畅享 100 Pro Max 手机发布：8800mAh 巨鲸电池、至高麒麟 8020 处理器，1999 元起",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。 128GB 规格：1999 元； 256GB 规格：2399 元； 512GB 规格：2899 元。 据介绍，华为畅享 100 Pro Max 提供曜金黑、流沙金、蔚蓝海和雪域白四款配色，搭载麒麟 8020 处理器（512GB",
+      "content": "<p data-vmark=\"9180\">IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，<strong>定价 1999 元起</strong>。</p><p data-vmark=\"0bbe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b16a7458-5b97-4711-bdb4-dca44aabab6c.jpg\" w=\"1247\" h=\"692\" data-weibo=\"0\" data-vmark=\"6b8f\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d18e1395f6c6f7a3bd9a88d2493765ac8466377889f16b190c139b8330338aec166debaa9190ec3641\" class=\"no-alt-img\"></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"b205\">128GB 规格：1999 元；</p></li><li><p data-vmark=\"cf6b\">256GB 规格：2399 元；</p></li><li><p data-vmark=\"0b6f\">512GB 规格：2899 元。</p></li></ul><p data-vmark=\"046e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/84ee4bbf-fcb2-46a4-bcb6-bc60e8eabb4b.jpg\" w=\"1440\" h=\"804\" data-weibo=\"1\" data-vmark=\"cf95\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d127cee448e4a441c4008921ec2a2d2a29acbbba0d4f54273233a194ad0b85728e2609a9bbbcda5c0b\" class=\"no-alt-img\"></p><p data-vmark=\"b266\">据介绍，华为畅享 100 Pro Max 提供曜金黑、流沙金、蔚蓝海和雪域白四款配色，<strong>搭载麒麟 8020 处理器</strong>（512GB 版本独享麒麟 8020 处理器，256GB / 128GB 版本搭载麒麟 8020A 处理器）、预装 HarmonyOS 7 系统，通过软硬芯云垂直整合，整机性能提升 62%。</p><p data-vmark=\"63d1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/606815a3-5e03-4550-abf0-62af91faa582.jpg\" w=\"1085\" h=\"670\" data-weibo=\"2\" data-vmark=\"0c4d\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1ecb27dcc2dcefba5e1fc46d8c9b4316bbfcdb5587ad0d763f32c41f62c6ffad6a6539099f764ce57\" class=\"no-alt-img\"></p><p data-vmark=\"2fb6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d1edbee0-d38e-4967-8feb-65363cad387f.jpg\" w=\"1293\" h=\"706\" data-weibo=\"3\" data-vmark=\"9b53\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d14b2b90130613d677a7f1a4601c1af39ddccab9674b2f15aec60d154da696d045599877a1760b6f02\" class=\"no-alt-img\"></p><p data-vmark=\"ad79\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3f7a636f-670a-4ebc-b67f-ae06525304f5.jpg\" w=\"1272\" h=\"669\" data-weibo=\"4\" data-vmark=\"75ee\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1a32bf8645925743f30bce5c745052205d83d77e8b7c2ce985da375ab8f5e2a3576f053dc0bc03ba2\" class=\"no-alt-img\"></p><p data-vmark=\"d47e\">新机官宣预装超丝滑方舟引擎，宣称应用启动速度提升 25%、页面打开流畅度提升 25%、内容加载速度提升 37%。</p><p data-vmark=\"ce1a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a3e271ed-d22a-48cb-a546-4f3e7088654a.jpg\" w=\"1192\" h=\"681\" data-weibo=\"5\" data-vmark=\"2ab9\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d18545a39a2821cca376e2254dbe17e63e28f3d2e9ee661de4fb8d4c599c154f2e79edaf64c3f08b3d\" class=\"no-alt-img\"></p><p data-vmark=\"70c8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/75c8b996-77a7-428e-a40c-f29e8a8987ab.jpg\" w=\"1251\" h=\"639\" data-weibo=\"6\" data-vmark=\"e698\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1599f6d11b39e86532adbf39679fd7a6f3dafd7c791ae6d9f87888772dab19dde9e7fdf1fe6254394\" class=\"no-alt-img\"></p><p data-vmark=\"6d8e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/929d14d9-4063-459f-9071-7ab8c9f05b05.jpg\" w=\"1196\" h=\"662\" data-weibo=\"7\" data-vmark=\"a162\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d10933d29e8c34c354c79252e1f8ae976c3387259f6d24656bd9f8ee841d1e80a8193e0396060da58d\" class=\"no-alt-img\"></p><p data-vmark=\"4cb9\">IT之家注意到，<strong>畅享 100 Pro Max 内置 8800mAh 巨鲸大电池</strong>，支持超级聚能泵、全域灵睿节电等技术，连续通话时长可达 49 小时。</p><p data-vmark=\"df98\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7fb03a8d-efe4-4167-966f-0e9f0fe1ba43.jpg\" w=\"1186\" h=\"685\" data-weibo=\"8\" data-vmark=\"eaba\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1755e8ad43f802620029a2f9f77dbcecbabbb0b0c59273a11de747f722d7ad95b2334edfd64adebf0\" class=\"no-alt-img\"></p><p data-vmark=\"9b3c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9e5298d4-856b-4bb4-b280-b6579c41c619.jpg\" w=\"1188\" h=\"667\" data-vmark=\"e24b\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d10ff36d2baa34736e1cdd089a472bf7c7a102498d9604ddf537e4a8ef15ad67247824ee306ae98c93\" class=\"no-alt-img\"></p><p data-vmark=\"9c49\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8fe641bb-3fac-4001-a7c2-22fec9cb3543.jpg\" w=\"1170\" h=\"668\" data-vmark=\"a4fa\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1036b76c022b700f4c76252863999b7dd92a34a878e5e23413637825be0131e794767df75903eacc7\" class=\"no-alt-img\"></p><p data-vmark=\"abd4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e4fceddb-2631-4695-b0ec-fd9b7cb23308.jpg\" w=\"1152\" h=\"677\" data-vmark=\"04e6\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d115ae851a6e0a5bb2cbb4a634384ef49c6ab2828fbf8cd0487872248a0d358a45361ddde83f4aafa6\" class=\"no-alt-img\"></p><p data-vmark=\"d26e\">新机还配备一块 6.84 英寸超高亮护眼屏，<strong>支持 8000nits 1% APL 峰值亮度、1000nits 20% APL 峰值亮度</strong>。另外畅享 100 Pro Max 还支持 5A 通信、双频 GPS 三频北斗、双向北斗卫星消息、Wi-Fi 7。</p><p data-vmark=\"d872\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4732c665-1c54-49e2-af81-7abe5a2ca99d.jpg\" w=\"1133\" h=\"676\" data-vmark=\"6cdf\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d11ea227b95775b4711faa59eaf088bfa6b0f2b2fd998905956cbc5e95a0d57617d97fa33b41dd951d\" class=\"no-alt-img\"></p><p data-vmark=\"0991\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/130f53a7-1095-4183-92a1-25b412598e49.jpg\" w=\"1273\" h=\"671\" data-vmark=\"7d38\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d17722e479e87dabbf9f825404c48e43b72ca13deda5dd14045067488461d4444af19d84cb48006d4e\" class=\"no-alt-img\"></p><p data-vmark=\"0f0b\"><strong>华为畅享 100 Pro Max 首发预装鸿蒙 HarmonyOS 7 系统</strong>，支持超空间存储技术，512GB 规格至多节省 51GB 空间、256GB 规格至多节省 22GB 空间。</p><p data-vmark=\"6752\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9422f1f6-3a10-481d-b879-2d2bce2ff24a.jpg\" w=\"1179\" h=\"671\" data-vmark=\"b2c3\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d193307c10a74cc693d4e748f195a2f38f4f448bf21f1183dab67e4d967027740641138cf2969e7a39\" class=\"no-alt-img\"></p><p data-vmark=\"4a5c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0c0fe2d5-4a70-479e-af6d-91a843f48311.jpg\" w=\"1119\" h=\"645\" data-vmark=\"dc01\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d10c5f1c024931c0d2d627caef9bd8356ab66edec5289393cfaa4cce6cbd7c35c2e687385563e2dcf1\" class=\"no-alt-img\"></p><p data-vmark=\"3a38\">新机还主打防诈能力，<strong>支持 AI 换脸检测、AI 通话防诈、亲情防诈等功能</strong>。</p><p data-vmark=\"0259\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a21c987a-afdd-453a-8bf8-0e63212a53bb.jpg\" w=\"1135\" h=\"675\" data-vmark=\"59fe\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d18be4d858c82e96a6a900bcbcf825e00988e3dacef6915fdaf6ad7b6213bed4eba058a1db06a664be\" class=\"no-alt-img\"></p><p data-vmark=\"c02a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c98d225f-7813-4cf6-8645-ff77f4eb6f36.jpg\" w=\"1162\" h=\"692\" data-vmark=\"a7a6\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1bcf8d6ad4fe5a2de81579c9a9d305826a3b701015efb81bdf2bdfb990130a2bde77a8f4b98a185ff\" class=\"no-alt-img\"></p><p data-vmark=\"4243\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/15455c68-8bc6-4f48-a830-0a722a1f899e.jpg\" w=\"1165\" h=\"683\" data-vmark=\"e1dd\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1c1b3fdd7c37259e8ef9a7b1471f20b83b265b363b64cee36def71c2445df9c7df7915e08e7af860e\" class=\"no-alt-img\"></p><p data-vmark=\"beb6\">IT之家附华为畅享 100 Pro Max 手机核心亮点如下：</p><p data-vmark=\"6fb1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/051c5596-ad34-423b-9259-ed1de7dd500b.jpg\" w=\"1301\" h=\"732\" data-vmark=\"da96\" data-mpos=\"1,0\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"b4a7\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4963\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/018/919.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/018/919.htm"
+    },
+    {
+      "id": 3870,
+      "title": "Discord Makes Content on Discoverable Servers Searchable on Google and Other Search Engines",
+      "summary": "Discord has apparently realized that more and more companies and game studios have moved content, like announcements, guides, and product support, that would ordinarily have been hosted on blogs and forums to official Discord servers, effec",
+      "content": "Discord has apparently realized that more and more companies and game studios have moved content, like announcements, guides, and product support, that would ordinarily have been hosted on blogs and forums to official Discord servers, effectively locking that content behind a Discord account and making it extraordinarily difficult to find in some cases. In response, the chat service provider has <a rel=\"nofollow\" href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\" target=\"_blank\">officially announced</a> the roll-out of Server Web Pages in an effort to make discoverable Discord servers—those publicly available servers often used for support and announcements—more easily discoverable using search engines, like Google and DuckDuckGo.<blockquote class=\"quote\">Prior to Discord's launch, message boards were common, ranging from community-driven forums to official ones run by game studios. These message boards excelled at hosting long-form, structured conversations about helping people, theory crafting, and more. While they still exist today, many have moved into Discord servers. This has led to valuable information being locked in Discord conversations, inaccessible to the wider internet. We want to fix this.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/MinYdgKp3jgGg9mE.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/MinYdgKp3jgGg9mE_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/wHi8hTXnVJiAR5zz.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/wHi8hTXnVJiAR5zz_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354205/discord-makes-content-on-discoverable-servers-searchable-on-google-and-other-search-engines\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354205/discord-makes-content-on-discoverable-servers-searchable-on-google-and-other-search-engines",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a8216f2c960a8a4923b78c36db6d2488"
+    },
+    {
+      "id": 3871,
+      "title": "G.SKILL and Newegg Offer Limited-Time AMD Ryzen 7 9800X3D Combo Deals Featuring AMD EXPO ULL DDR5 Memory",
+      "summary": "G.SKILL, a leading manufacturer of high-performance memory and PC gaming peripherals, is teaming up with Newegg to offer a series of limited-time PC hardware combo deals, featuring the AMD Ryzen 7 9800X3D processor, G.SKILL Trident Z5 NeoX ",
+      "content": "G.SKILL, a leading manufacturer of high-performance memory and PC gaming peripherals, is teaming up with Newegg to offer a series of limited-time PC hardware combo deals, featuring the AMD Ryzen 7 9800X3D processor, G.SKILL Trident Z5 NeoX RGB DDR5 memory, and select AMD AM5 motherboards. These specially priced bundles offer PC enthusiasts and gamers an opportunity to build or upgrade their systems with high-performance components while enjoying additional combo savings.<br />\r\n<br />\r\nThe promotion features eight different hardware combinations, pairing the AMD Ryzen 7 9800X3D processor with a 32 GB (2x 16 GB) G.SKILL Trident Z5 NeoX RGB DDR5-6000 memory kit and a choice of motherboards from ASUS, MSI, GIGABYTE, and ASRock. Available in black or white memory designs depending on the selected bundle, these combinations offer flexibility for a wide range of PC builds.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/7U6oaY7vfSdVAm9k.jpg\" target=\"_blank\" data-width=\"1938\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/7U6oaY7vfSdVAm9k_thm.jpg\" width=\"210\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354178/g-skill-and-newegg-offer-limited-time-amd-ryzen-7-9800x3d-combo-deals-featuring-amd-expo-ull-ddr5-memory\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354178/g-skill-and-newegg-offer-limited-time-amd-ryzen-7-9800x3d-combo-deals-featuring-amd-expo-ull-ddr5-memory",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "61930f3bdec9d98487abe88dc72107b5"
+    },
+    {
+      "id": 3872,
+      "title": "Despite Lawsuit Drama, Pocketpair Wants to Bring Palworld to Nintendo Switch 2",
+      "summary": "Pocketpair has been involved in a protracted legal battle with Nintendo following the launch of the hyper-popular creature collector, Palworld, and it seems as though Nintendo is on the back foot for the time being, with an October 2025 dec",
+      "content": "Pocketpair has been involved in a protracted legal battle with Nintendo following the launch of the hyper-popular <a href=\"https://www.techpowerup.com/350672/palworld-exits-early-access-with-72-new-pals-and-pages-of-update-notes\" target=\"_blank\">creature collector, Palworld</a>, and it seems as though Nintendo is on the back foot for the time being, with an <a href=\"https://www.techpowerup.com/342460/nintendos-creature-capture-mechanic-patent-denied\" target=\"_blank\">October 2025 decision by the Japanese Patent Office denying Nintendo's application for a patent on creature capture mechanics</a>. Still, despite the ongoing legal battle between the two gaming companies, Pocketpair's CEO, Takuro Mizobe, has commented in a recent <a rel=\"nofollow\" href=\"https://www.videogameschronicle.com/features/interviews/pocketpair-ceo/\" target=\"_blank\">interview with VGC</a> that a Nintendo Switch 2 port may be on the cards, as long as Nintendo is willing to come to the table and as long as those conversations are possible.<blockquote class=\"quote\"><small>Takuro Mizobe</small>First of all, I should say that we think the Switch 2 is a really amazing platform, not just for games globally, but especially here in Japan and for the Japanese games industry. It's been an incredible platform. If there's ever a future where we have the opportunity to discuss or consider bringing Palworld to the Switch platform in some way, then we'd love to have those conversations.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/0O1QFxN50onDPUih.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/0O1QFxN50onDPUih_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/oFNGAxQOgkkzQHtj.jpg\" target=\"_blank\" data-width=\"1337\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/oFNGAxQOgkkzQHtj_thm.jpg\" width=\"181\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354204/despite-lawsuit-drama-pocketpair-wants-to-bring-palworld-to-nintendo-switch-2\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354204/despite-lawsuit-drama-pocketpair-wants-to-bring-palworld-to-nintendo-switch-2",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "881112f14ace10a8224386b4dd275885"
+    },
+    {
+      "id": 3875,
+      "title": "Nvidia is scared: Leaker suggests RTX 5090 and RTX 5080 discontinuation signals impending AI collapse",
+      "summary": "Nvidia has reportedly discontinued the GeForce RTX 5090 and the RTX 5080 GPUs. Leaker Moore's Law Is Dead thinks that these cancellations have more to do with the state of the AI industry than Nvidia preparing to launch the RTX 50 Super ser",
+      "content": "Nvidia has reportedly discontinued the GeForce RTX 5090 and the RTX 5080 GPUs. Leaker Moore's Law Is Dead thinks that these cancellations have more to do with the state of the AI industry than Nvidia preparing to launch the RTX 50 Super series.",
+      "link": "https://www.notebookcheck.net/Nvidia-is-scared-Leaker-suggests-RTX-5090-and-RTX-5080-discontinuation-signals-impending-AI-collapse.1434007.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-is-scared-Leaker-suggests-RTX-5090-and-RTX-5080-discontinuation-signals-impending-AI-collapse.1434007.0.html"
+    },
+    {
+      "id": 3876,
+      "title": "Firefox 159 fixes 167 flaws, and OpenAI's Codex found 41 of them",
+      "summary": "Mozilla has released Firefox 159 with fixes for 167 security vulnerabilities, 108 of them rated high. OpenAI's Codex Security agent reported 34 of the flaws and an OpenAI researcher reported 7 more. Here is why the count is so large and how",
+      "content": "Mozilla has released Firefox 159 with fixes for 167 security vulnerabilities, 108 of them rated high. OpenAI's Codex Security agent reported 34 of the flaws and an OpenAI researcher reported 7 more. Here is why the count is so large and how to get the update right away. Smart Window can now also watch pages for changes.",
+      "link": "https://www.notebookcheck.net/Firefox-159-fixes-167-flaws-and-OpenAI-s-Codex-found-41-of-them.1436136.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Firefox-159-fixes-167-flaws-and-OpenAI-s-Codex-found-41-of-them.1436136.0.html"
+    },
+    {
+      "id": 3877,
+      "title": "GPD teases imminent Win Mini Ultra launch with Intel-powered hardware",
+      "summary": "The GPD Win Mini Ultra has been a work in progress for a while, and now the company has indirectly announced that the clamshell gaming handheld will launch soon. Through a Weibo post, the brand has even confirmed that the Intel Arc G3 Extre",
+      "content": "The GPD Win Mini Ultra has been a work in progress for a while, and now the company has indirectly announced that the clamshell gaming handheld will launch soon. Through a Weibo post, the brand has even confirmed that the Intel Arc G3 Extreme will power it.",
+      "link": "https://www.notebookcheck.net/GPD-teases-imminent-Win-Mini-Ultra-launch-with-Intel-powered-hardware.1436060.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GPD-teases-imminent-Win-Mini-Ultra-launch-with-Intel-powered-hardware.1436060.0.html"
+    },
+    {
+      "id": 3878,
+      "title": "Sony unveils ELF-MN1 6-inch glasses-free 3D display for viewing anime avatars and spatial content",
+      "summary": "The Sony ELF-MN1 is a 6-inch glasses-free 3D LCD display for viewing media, avatars, and other 3D content from a smartphone or laptop. The display uses eye-tracking technology to ensure that the viewer sees its 1,080×2,160 3D image clearly.",
+      "content": "The Sony ELF-MN1 is a 6-inch glasses-free 3D LCD display for viewing media, avatars, and other 3D content from a smartphone or laptop. The display uses eye-tracking technology to ensure that the viewer sees its 1,080×2,160 3D image clearly.",
+      "link": "https://www.notebookcheck.net/Sony-unveils-ELF-MN1-6-inch-glasses-free-3D-display-for-viewing-anime-avatars-and-spatial-content.1435922.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Sony-unveils-ELF-MN1-6-inch-glasses-free-3D-display-for-viewing-anime-avatars-and-spatial-content.1435922.0.html"
+    },
+    {
+      "id": 3879,
+      "title": "Citizen launches new Mickey and Minnie Mouse watch set limited to just 300 worldwide",
+      "summary": "Citizen has introduced the Mickey Mouse & Minnie Mouse Timeless Treasure Set, a limited-edition collection featuring three Disney-themed Eco-Drive watches. The collector's package includes matching collectible pins, a presentation box, and ",
+      "content": "Citizen has introduced the Mickey Mouse & Minnie Mouse Timeless Treasure Set, a limited-edition collection featuring three Disney-themed Eco-Drive watches. The collector's package includes matching collectible pins, a presentation box, and a letter of authenticity, with production restricted to 300 sets worldwide",
+      "link": "https://www.notebookcheck.net/Citizen-launches-new-Mickey-and-Minnie-Mouse-watch-set-limited-to-just-300-worldwide.1435930.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Citizen-launches-new-Mickey-and-Minnie-Mouse-watch-set-limited-to-just-300-worldwide.1435930.0.html"
+    },
+    {
+      "id": 3880,
+      "title": "Chuwi's latest gaming laptop makes a curious hardware trade-off",
+      "summary": "Chuwi has introduced the GameBook Max, a new 18-inch gaming laptop featuring Intel Core i9 processors and Nvidia RTX graphics. Despite its larger display, the laptop features a lower-tier GPU and a less impressive screen than its predecesso",
+      "content": "Chuwi has introduced the GameBook Max, a new 18-inch gaming laptop featuring Intel Core i9 processors and Nvidia RTX graphics. Despite its larger display, the laptop features a lower-tier GPU and a less impressive screen than its predecessor.",
+      "link": "https://www.notebookcheck.net/Chuwi-s-latest-gaming-laptop-makes-a-curious-hardware-trade-off.1435861.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-28",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Chuwi-s-latest-gaming-laptop-makes-a-curious-hardware-trade-off.1435861.0.html"
+    },
     {
       "id": 3666,
       "title": "Q3中国手机出货再跌15.2% 但600美元以上高端机却卖爆了",
@@ -1705,6 +2345,95 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Logitech-launches-new-MX-Master-4-Special-Edition-with-a-fresh-design.1435030.0.html"
+    },
+    {
+      "id": 3869,
+      "title": "Microsoft Maia 300 Shown at OCP 2026",
+      "summary": "At OCP Summit 2026, we saw the new Microsoft Maia 300 platform with four 288GB HBM4 950W accelerators per tray The post Microsoft Maia 300 Shown at OCP 2026 appeared first on ServeTheHome.",
+      "content": "<p>At OCP Summit 2026, we saw the new Microsoft Maia 300 platform with four 288GB HBM4 950W accelerators per tray</p>\n<p>The post <a href=\"https://www.servethehome.com/microsoft-maia-300-shown-at-ocp-2026/\">Microsoft Maia 300 Shown at OCP 2026</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/microsoft-maia-300-shown-at-ocp-2026/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=106297"
+    },
+    {
+      "id": 3873,
+      "title": "Logitech Unveils MX Master 4 Special Developer Edition",
+      "summary": "Logitech has released a Developer Edition of its MX Master 4 mouse that was launched back in September 2025. The company says that this is a tribute to the \"developers who are shaping the digital world\". However, the hardware is identical t",
+      "content": "Logitech has released a Developer Edition of its MX Master 4 mouse that was launched back in September 2025. The company says that this is a tribute to the &quot;developers who are shaping the digital world&quot;. However, the hardware is identical to the standard <a href=\"https://www.techpowerup.com/341480/logitech-introduces-the-mx-master-4-for-ususd-120\" target=\"_blank\">MX Master 4</a>. The same 8,000 DPI sensor and MagSpeed scroll wheel capable of 1,000 lines per second. We can mention built-in haptic feedback and the Action Ring button for shortcuts. Then, it also has the same 650 mAh battery with up to 70 days of use, USB-C quick charging, and multi-device pairing. Basically, nothing has changed under the hood or in terms of functionality.<br />\r\n<br />\r\nThe differences are purely visual, as the new edition uses a two-tone dark and light gray scheme with bright green accents. There are laser-etched syntax annotations including // and &lt;/&gt; markup tags, circuit traces, and a {Hello, World} execution prompt. Logitech has also added a few Easter eggs, 0xFF + 1 referencing World Programmers' Day, 09.17 for the Linux Kernel release date, and !04.01 for World Backup Day. The good news is that MX Master 4 Developer Edition costs the same as the standard model. The mouse is currently listed on the Logitech website for $120 / €130, together with the two-year warranty.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/pTA3WykiylahpOJ5.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/pTA3WykiylahpOJ5_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/FJALXkTCYRVLd1bD.jpg\" target=\"_blank\" data-width=\"689\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/FJALXkTCYRVLd1bD_thm.jpg\" width=\"93\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/EYAHU7hlafue5MFQ.jpg\" target=\"_blank\" data-width=\"866\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/EYAHU7hlafue5MFQ_thm.jpg\" width=\"117\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/O2h0tRiU3VRsSWbO.jpg\" target=\"_blank\" data-width=\"680\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/O2h0tRiU3VRsSWbO_thm.jpg\" width=\"92\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/0b4sBKelL3Mh5H2w.jpg\" target=\"_blank\" data-width=\"895\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/0b4sBKelL3Mh5H2w_thm.jpg\" width=\"121\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354198/logitech-unveils-mx-master-4-special-developer-edition",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "512926a90e5b238d765222f4f4199ae5"
+    },
+    {
+      "id": 3874,
+      "title": "Zotac Restocks NVIDIA GeForce RTX 5090 Solid OC in Japan Amid Reports of GPU's EOL Status",
+      "summary": "The latest in the saga of the NVIDIA GeForce RTX 5090 discontinuation rumors is that OEMs are no longer able to order GPUs or VRAM for the 5090 from NVIDIA, however it seems as though Zotac is undeterred, having just published a restock of ",
+      "content": "The latest in the saga of the NVIDIA GeForce RTX 5090 discontinuation rumors is that <a href=\"https://www.techpowerup.com/354144/nvidia-allegedly-stops-accepting-rtx-5090-orders\" target=\"_blank\">OEMs are no longer able to order GPUs or VRAM for the 5090 from NVIDIA</a>, however it seems as though Zotac is undeterred, having just published a restock of the <a href=\"https://www.techpowerup.com/gpu-specs/zotac-rtx-5090-solid-oc.b12003\" target=\"_blank\">NVIDIA GeForce RTX 5090 Solid OC</a> in Japan. The new listing on Zotac's official online store in Japan was spotted by @momomo_us on X, a popular leaker and hardware insider. <br />\r\n<br />\r\nWhile the GPU appears to be in stock, and selling for as much as 1,190,000 JPY (~$7 558,17 converted), there's no telling if this will remain the case for the foreseeable future. It appears as though Zotac may have had some stock ready to go, but it's also entirely possible that the lack of supply or back-order availability that was previously reported by other board partners could have been due to regional or AIB limitations on GPU allocation by NVIDIA. It may also be an indication that previous reports of the RTX 5090 being end-of-life were inaccurate.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ggGf554dZwrCD5Uc.jpg\" target=\"_blank\" data-width=\"1004\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ggGf554dZwrCD5Uc_thm.jpg\" width=\"136\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/beUNQ4NXlROF3hh9.jpg\" target=\"_blank\" data-width=\"1102\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/beUNQ4NXlROF3hh9_thm.jpg\" width=\"149\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354199/zotac-restocks-nvidia-geforce-rtx-5090-solid-oc-in-japan-amid-reports-of-gpus-eol-status",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "5cf0504c8279564010cab201423237dd"
+    },
+    {
+      "id": 3881,
+      "title": "Japanese brand Fujitsu unveils pricey 2-in-1 laptop with 4-core Intel Twin Lake CPUs and touch support",
+      "summary": "Fujitsu, a well-known Japanese computer hardware brand, has unveiled the Note Q laptop. This two-in-one laptop is powered by entry-level four-core Intel Twin Lake CPUs paired with a rather disappointing 8 GB of RAM.",
+      "content": "Fujitsu, a well-known Japanese computer hardware brand, has unveiled the Note Q laptop. This two-in-one laptop is powered by entry-level four-core Intel Twin Lake CPUs paired with a rather disappointing 8 GB of RAM.",
+      "link": "https://www.notebookcheck.net/Japanese-brand-Fujitsu-unveils-pricey-2-in-1-laptop-with-4-core-Intel-Twin-Lake-CPUs-and-touch-support.1432220.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-brand-Fujitsu-unveils-pricey-2-in-1-laptop-with-4-core-Intel-Twin-Lake-CPUs-and-touch-support.1432220.0.html"
+    },
+    {
+      "id": 3882,
+      "title": "Apple MacBook Pro with OLED touchscreen: Leak reveals higher prices hours before launch",
+      "summary": "Apple is expected to unveil brand-new 14-inch and 16-inch MacBook Pro models with a revamped design, OLED touchscreen and Dynamic Island in just a few hours. A leak now reveals the higher prices and some new details about the next-generatio",
+      "content": "Apple is expected to unveil brand-new 14-inch and 16-inch MacBook Pro models with a revamped design, OLED touchscreen and Dynamic Island in just a few hours. A leak now reveals the higher prices and some new details about the next-generation flagship laptops ahead of the announcement.",
+      "link": "https://www.notebookcheck.net/Apple-MacBook-Pro-with-OLED-touchscreen-Leak-reveals-higher-prices-hours-before-launch.1435461.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-MacBook-Pro-with-OLED-touchscreen-Leak-reveals-higher-prices-hours-before-launch.1435461.0.html"
+    },
+    {
+      "id": 3883,
+      "title": "Intel Nova Lake CPUs show promising single-thread performance in early benchmarks",
+      "summary": "Early benchmarks suggest Intel's upcoming Nova Lake CPUs could deliver a notable boost in single-thread performance, with a 28-core sample outperforming current Intel and AMD flagships in PassMark. However, multi-thread results are less imp",
+      "content": "Early benchmarks suggest Intel's upcoming Nova Lake CPUs could deliver a notable boost in single-thread performance, with a 28-core sample outperforming current Intel and AMD flagships in PassMark. However, multi-thread results are less impressive, and the pre-production chips' final performance remains uncertain.",
+      "link": "https://www.notebookcheck.net/Intel-Nova-Lake-CPUs-show-promising-single-thread-performance-in-early-benchmarks.1435432.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Intel-Nova-Lake-CPUs-show-promising-single-thread-performance-in-early-benchmarks.1435432.0.html"
     },
     {
       "id": 3626,
