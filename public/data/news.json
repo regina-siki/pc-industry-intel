@@ -1,7 +1,285 @@
 {
-  "updatedAt": "2026-10-29",
-  "total": 4052,
+  "updatedAt": "2026-10-30",
+  "total": 4080,
   "list": [
+    {
+      "id": 4053,
+      "title": "预计苹果OLED版MacBook Pro 2027年出货最高达150万台",
+      "summary": "市场研究机构TrendForce近日发布报告称，苹果新一代OLED版MacBook Pro预计将在2027年实现120万至150万台出货量。作为MacBook Pro系列首次采用串联式OLED显示技术的产品，这款新品的上市被认为将进一步推动OLED笔记本市场的发展，并为整个产业链带来新的增长动力。 阅读全文",
+      "content": "<p>市场研究机构TrendForce近日发布报告称，苹果新一代OLED版MacBook Pro预计将在2027年实现120万至150万台出货量。作为MacBook Pro系列首次采用串联式OLED显示技术的产品，这款新品的上市被认为将进一步推动OLED笔记本市场的发展，并为整个产业链带来新的增长动力。</p> <a href=\"https://www.cnbeta.com.tw/articles/funny/1584458.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/funny/1584458.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/funny/1584458.htm"
+    },
+    {
+      "id": 4054,
+      "title": "Hardware Unboxed：显卡低价库存三个月平均涨约35%",
+      "summary": "Hardware Unboxed分析十个国家的显卡零售市场后表示，显卡价格已经连续第三个月上涨。按其统计口径，10月平均价格环比再涨10%，计入GeForce RTX 5090后为11%；结合8月上涨15%和9月上涨7%，三个月累计涨幅约35%。 阅读全文",
+      "content": "<p>Hardware Unboxed分析十个国家的显卡零售市场后表示，显卡价格已经连续第三个月上涨。按其统计口径，10月平均价格环比再涨10%，计入GeForce RTX 5090后为11%；结合8月上涨15%和9月上涨7%，三个月累计涨幅约35%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584452.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584452.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584452.htm"
+    },
+    {
+      "id": 4055,
+      "title": "前英特尔CEO押注颠覆性内存技术Z2RAM：融合SRAM速度与DRAM密度",
+      "summary": "全球人工智能产业的快速扩张正在引发严重的存储芯片供应紧张，尤其是高带宽内存（HBM）需求激增，使传统DRAM产能面临重新分配的压力。在这一背景下，英特尔前首席执行官帕特·基辛格（Pat Gelsinger）正在押注一种新型内存技术，希望通过改变传统存储单元的设计方式，解决AI芯片长期面临的容量、带宽和功耗问题。 阅读全文",
+      "content": "<p>全球人工智能产业的快速扩张正在引发严重的存储芯片供应紧张，尤其是高带宽内存（HBM）需求激增，使传统DRAM产能面临重新分配的压力。在这一背景下，英特尔前首席执行官帕特·基辛格（Pat Gelsinger）正在押注一种新型内存技术，希望通过改变传统存储单元的设计方式，解决AI芯片长期面临的容量、带宽和功耗问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584436.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584436.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584436.htm"
+    },
+    {
+      "id": 4056,
+      "title": "OpenMouse进军键盘市场 开源配置工具开始支持罗技、雷蛇、Wooting和赛睿产品",
+      "summary": "开源外设管理项目OpenMouse宣布扩展产品支持范围，其最新测试版本已开始为部分机械键盘提供配置功能。继此前在游戏鼠标领域积累大量用户后，该项目正向统一管理多种游戏外设的目标迈进。 阅读全文",
+      "content": "<p>开源外设管理项目OpenMouse宣布扩展产品支持范围，其最新测试版本已开始为部分机械键盘提供配置功能。继此前在游戏鼠标领域积累大量用户后，该项目正向统一管理多种游戏外设的目标迈进。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584434.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584434.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584434.htm"
+    },
+    {
+      "id": 4057,
+      "title": "AI数据中心扩张恐抵消美国电力行业15年减排成果 碳排放压力引发担忧",
+      "summary": "随着人工智能产业进入大规模基础设施建设阶段，其带来的能源需求正引发越来越多的环境争议。最新研究警告称，美国计划建设的AI数据中心可能在未来几年显著推高电力行业碳排放，甚至抵消过去15年来通过能源转型取得的大部分减排成果。 阅读全文",
+      "content": "<p>随着人工智能产业进入大规模基础设施建设阶段，其带来的能源需求正引发越来越多的环境争议。最新研究警告称，美国计划建设的AI数据中心可能在未来几年显著推高电力行业碳排放，甚至抵消过去15年来通过能源转型取得的大部分减排成果。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584432.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584432.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584432.htm"
+    },
+    {
+      "id": 4058,
+      "title": "iPhone Air 2最新爆料：升级双4800万像素摄像头2nm A20芯片 电池容量明显提升",
+      "summary": "苹果下一代超薄手机iPhone Air 2的配置细节再次浮出水面。根据知名爆料人士Digital Chat Station最新披露的信息，苹果正在为这款新机准备多项硬件升级，包括采用新一代2nm制程处理器、增加一颗后置摄像头、提升电池容量，并继续维持超薄机身设计。按照目前的消息，iPhone Air 2预计将于2027年春季与iPhone 18及iPhone 18e一同发布。 阅读全文",
+      "content": "<p>苹果下一代超薄手机iPhone Air 2的配置细节再次浮出水面。根据知名爆料人士Digital Chat Station最新披露的信息，苹果正在为这款新机准备多项硬件升级，包括采用新一代2nm制程处理器、增加一颗后置摄像头、提升电池容量，并继续维持超薄机身设计。按照目前的消息，iPhone Air 2预计将于2027年春季与iPhone 18及iPhone 18e一同发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584422.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584422.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584422.htm"
+    },
+    {
+      "id": 4059,
+      "title": "新款OLED版iPad mini跑分曝光：单核性能反超部分iPad Pro 多核较前代大幅提升",
+      "summary": "苹果于本周正式发布搭载OLED显示屏和A20 Pro芯片的新一代iPad mini（2026），该产品将于11月6日开始向首批消费者发货。在正式开售前，一台新机已经现身Geekbench 7数据库，其性能表现也随之曝光。 阅读全文",
+      "content": "<p>苹果于本周正式发布搭载OLED显示屏和A20 Pro芯片的新一代iPad mini（2026），该产品将于11月6日开始向首批消费者发货。在正式开售前，一台新机已经现身Geekbench 7数据库，其性能表现也随之曝光。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584420.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584420.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584420.htm"
+    },
+    {
+      "id": 4060,
+      "title": "当马斯克不再那么需要NASA，美国登月计划怎么办？",
+      "summary": "10月30日，美国科技媒体Ars Technica资深太空记者埃里克·伯杰发表深度调查报道，揭秘SpaceX在收购xAI并上市后与NASA关系的逆转。SpaceX已计划2030年前停飞载人龙飞船，停售2028年后的猎鹰9号商业发射，并拒接美军新单与月球基地发射任务。更意外的是，马斯克将猎鹰火箭的王牌工程团队调往孟菲斯抢建地面AI算力中心。面对星舰单次登月需20次在轨加油的高昂成本，全心押注AI的SpaceX对政府订单日趋冷淡，迫使NASA转而扶持贝索斯的蓝色起源。 阅读全文",
+      "content": "<p>10月30日，美国科技媒体Ars Technica资深太空记者埃里克·伯杰发表深度调查报道，揭秘SpaceX在收购xAI并上市后与NASA关系的逆转。SpaceX已计划2030年前停飞载人龙飞船，停售2028年后的猎鹰9号商业发射，并拒接美军新单与月球基地发射任务。更意外的是，马斯克将猎鹰火箭的王牌工程团队调往孟菲斯抢建地面AI算力中心。面对星舰单次登月需20次在轨加油的高昂成本，全心押注AI的SpaceX对政府订单日趋冷淡，迫使NASA转而扶持贝索斯的蓝色起源。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1584400.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1584400.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1584400.htm"
+    },
+    {
+      "id": 4061,
+      "title": "耗水大户台积电没人骂 用水更少的AI数据中心为何惹毛美国人？",
+      "summary": "10月30日，美国科技媒体The Verge近日刊文称，随着人工智能产业快速扩张，美国亚利桑那州越来越多的居民开始担忧，数据中心会与他们争夺本就紧张的水资源。这个长期受干旱困扰的州欢迎台积电建厂，吸引芯片产业和就业机会。如今，当规模更大的数据中心项目陆续到来，当地却出现了跨越政治立场的反对声音。以下为文章主要内容。 阅读全文",
+      "content": "<p>10月30日，美国科技媒体The Verge近日刊文称，随着人工智能产业快速扩张，美国亚利桑那州越来越多的居民开始担忧，数据中心会与他们争夺本就紧张的水资源。这个长期受干旱困扰的州欢迎台积电建厂，吸引芯片产业和就业机会。如今，当规模更大的数据中心项目陆续到来，当地却出现了跨越政治立场的反对声音。以下为文章主要内容。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584396.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584396.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584396.htm"
+    },
+    {
+      "id": 4062,
+      "title": "英特尔陈立武：内存空前紧缺，客户发出PC需求放缓信号",
+      "summary": "10月30日，英特尔首席执行官陈立武在第三季度财报电话会上表示，受内存价格和供应状况影响，客户近几周开始释放出PC市场放缓的信号。与此同时，数据中心和人工智能业务需求强劲，该板块实现了15年来最快的营收增长。 阅读全文",
+      "content": "<p>10月30日，英特尔首席执行官陈立武在第三季度财报电话会上表示，受内存价格和供应状况影响，客户近几周开始释放出PC市场放缓的信号。与此同时，数据中心和人工智能业务需求强劲，该板块实现了15年来最快的营收增长。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584390.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584390.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584390.htm"
+    },
+    {
+      "id": 4063,
+      "title": "第四季度业绩指引低于预期 英特尔盘后大跌23%",
+      "summary": "美国芯片巨头英特尔公布2026年第三季度财报。受数据中心与人工智能（DCAI）业务强劲增长带动，公司当季营收和调整后每股收益均超出此前业绩指引，数据中心业务营收同比增长78%，创下15年来最强劲的增长纪录。 阅读全文",
+      "content": "<p>美国芯片巨头英特尔公布2026年第三季度财报。受数据中心与人工智能（DCAI）业务强劲增长带动，公司当季营收和调整后每股收益均超出此前业绩指引，数据中心业务营收同比增长78%，创下15年来最强劲的增长纪录。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584376.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584376.htm"
+    },
+    {
+      "id": 4067,
+      "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months — 10nm Xeon shipments stall during largest shortage in memory",
+      "summary": "A two-week shutdown of Intel's Fab 28 in Israel will affect server CPU shipments for two consecutive quarters.",
+      "content": "<article>\n                                <p>The <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/two-killed-one-seriously-hurt-in-explosion-at-intels-chip-plant-in-israel-police-suspect-a-gas-cylinder-malfunction-and-the-fire-involved-a-toxic-gas-used-to-clean-chipmaking-tools\">explosion at Intel's Fab 28 near Kiryat Gat, Israel</a>, that happened earlier this month forced Intel to shut down the whole facility for two weeks, and now the company expects that it will cost it approximately $600 million in lost revenue over two quarters. The disruption is expected to affect server processors manufactured using Intel's 10nm-class process technologies and will reduce the company's shipments in both the fourth quarter of 2026 and the first quarter of 2027. </p><p>\"In Israel, we have been shut down for about two weeks,\" said Dave Zinsner, chief financial officer of Intel, during the company's earnings call. \"We feel like we are going to be starting up production here by the end of this week.\" </p><p>The explosion occurred in mid-October, killed two, seriously injured one, and caused an extended shutdown of Fab 28, one of Intel's key manufacturing facilities for chips produced using its 10nm-class and Intel 7 process technologies (Intel 7 was formerly called 10nm Enhanced SuperFin). Intel expects the incident to reduce its Q4 2026 revenue by approximately $300 million, and a similar impact is anticipated in Q1 2027. The company also expects the accident to reduce its fourth-quarter non-GAAP gross margin by approximately 2%. </p><p>Intel has not identified the affected Xeon processor families, disclosed the number of wafers damaged, or specified when Fab 28 will return to full production capacity after it restarts this Friday.  </p><p>Although Intel's latest Xeon 6 processors use compute dies produced on Intel 3 fabrication technology, they still use I/O dies fabricated on Intel 7 (aka 10nm ESF) fabrication process. Furthermore, Intel continues to sell previous-generation Xeon 5 Emerald Rapids (and even Xeon 4 'Sapphire Rapids', though it stopped accepting orders on these CPUs in late September) that are made on Intel 7 manufacturing technology. </p><p>While Intel has plenty of 10nm-capable fabs — including Fab 12, Fab 22, Fab 32, Fab 42 in Arizona as well as Fab 28 in Israel — the disruption comes as Intel struggles to satisfy strong demand for server processors, so Intel cannot <em>completely</em> offset the lack of output at one facility by adjusting manufacturing at the others (i.e., it has done everything it could by now). For sure, Intel will not repurpose product lines it uses to make I/O dies for Xeon 6 to make previous-generation CPUs. In addition, other fabs may lack product-specific manufacturing qualifications, or the time and costs required to transfer production between facilities are too high, keeping in mind that Fab 28 is about to restart. </p><p>In addition to lost production time, Intel faces potential losses from wafers that were undergoing fabrication when the accident occurred. The company is assessing work-in-progress inventory to determine which wafers can be recovered and which must be discarded and written off. Zinsner expects most wafer write-offs to occur in Q4 2026, which explains why the gross-margin impact will be concentrated in that quarter despite the disruption to shipments extending into early 2027. </p><p>\"Please note almost all of the $300 impact from Fab 28 is related to 10nm server products,\" Zinsner said.</p><p>Although Intel stresses that the shutdown primarily affects its 10nm-class server processors, the company has not disclosed whether the incident will also disrupt shipments of client processors manufactured using its Intel 7 (10nm ESF) process technology. Intel uses this node to manufacture a wide range of client CPUs, including its 12<sup>th</sup>, 13<sup>th</sup>, and 14<sup>th</sup> Generation Core processors, such as Raptor Lake. However, it is unclear whether Fab 28 manufactures any of these products and, if so, whether Intel can compensate for the loss of production by increasing output at its other Intel 7-capable facilities. Consequently, the shutdown could potentially affect the availability of some consumer processors as well.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "JjSV6ppUbbZL6ANQn4QcCf"
+    },
+    {
+      "id": 4069,
+      "title": "Intel Confirms \"Nova Lake\" Uses 18A-P Internal Node, More Details at CES",
+      "summary": "During the Q3 2026 earnings call, Intel CEO Lip-Bu Tan confirmed that the company's upcoming flagship client CPU, codenamed \"Nova Lake,\" will be produced by Intel Foundry using its 18A-P node. Initially, Intel planned to outsource the main ",
+      "content": "During the Q3 2026 earnings call, Intel CEO Lip-Bu Tan confirmed that the company's upcoming flagship client CPU, codenamed &quot;Nova Lake,&quot; will be produced by Intel Foundry using its 18A-P node. Initially, Intel planned to outsource the main compute tile production for &quot;Nova Lake&quot; to TSMC, utilizing its 2 nm N2 node. TSMC was expected to handle about 60-70% of the production, with the remainder produced in-house by Intel Foundry on the 18A node. This meant Intel would dual-source production for its next-generation chip. However, <a href=\"https://www.techpowerup.com/350751/intel-shifts-majority-of-nova-lake-production-in-house-amid-yield-improvements\" target=\"_blank\">later</a> supply chain information suggested that the company intended to bring the majority of &quot;Nova Lake&quot; compute tile production in-house, with these compute tiles being made on the Intel 18A-P node. Today, we received confirmation directly from the Intel CEO:<blockquote class=\"quote\"><small>Intel CEO Lip-Bu Tan</small>&quot;Nova Lake,&quot; our first Intel 18A-P client product, is tracking ahead of schedule, with design wins expected to be twice those of &quot;Panther Lake&quot; at launch. We look forward to sharing more at CES in January.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/dZzOFONYWFT75BRG.jpg\" target=\"_blank\" data-width=\"1280\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/dZzOFONYWFT75BRG_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354311/intel-confirms-nova-lake-uses-18a-p-internal-node-more-details-at-ces\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354311/intel-confirms-nova-lake-uses-18a-p-internal-node-more-details-at-ces",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "1fc9a5a85b356de5189f69f6824b8639"
+    },
+    {
+      "id": 4070,
+      "title": "ATK Reveals Affordable RS8 Air HE and Neo Mechanical Aluminium Gaming Keyboards",
+      "summary": "ATK, the brand behind several affordable high-performance gaming peripherals, has just announced the new RS8 series gaming keyboards in both mechanical and Hall effect flavors. The RS8 Air is a $99.98 Hall effect keyboard that will launch w",
+      "content": "ATK, the brand behind several affordable high-performance gaming peripherals, has just announced the new RS8 series gaming keyboards in both mechanical and Hall effect flavors. The RS8 Air is a $99.98 Hall effect keyboard that will launch with a discount bringing the price down to $74.89, while the RS8 Neo is a more traditional mechanical keyboard that will have a starting MSRP of $84.98 but will launch at $59.98. Both keyboards have the same TKL layout, which is often considered as striking a good balance between productivity and gaming use cases, and both keyboards will also feature CNC-machined aluminium, gasket-mounted cases and translucent, frosted polycarbonate keycaps for the RGB backlighting to shine through. <br />\r\n<br />\r\nBeing a Hall effect keyboard, the RS8 Air will feature 8 kHz polling in addition to typical HE features, like adjustable actuation, rapid trigger, SOCD, and DKS in addition to the classic key remapping and RGB customization. All of this will happen in ATK's Hub 3.0 software. It also has a hardware switch on the back of the keyboard for on-the-go profile switching without having to remember a keyboard combination or open the software. The RS8 Air will have an aluminium switch plate for a firm feel and accurate actuation detection, and it will have five layers of internal sound treatment to cut out reverberation and echoes that can be common in aluminium keyboards. The RS8 Air will be available in white or black with Lucid Blade or Ice Blade switches or in pink or Lake Green with Ice Blade switches for an extra $10.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/LebE9ABE0Z6nYaZ5.jpg\" target=\"_blank\" data-width=\"907\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/LebE9ABE0Z6nYaZ5_thm.jpg\" width=\"123\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/4Rpe9YTNoz1FeCOi.jpg\" target=\"_blank\" data-width=\"682\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/4Rpe9YTNoz1FeCOi_thm.jpg\" width=\"92\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/f3yGj9D0PKEtdK4W.jpg\" target=\"_blank\" data-width=\"720\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/f3yGj9D0PKEtdK4W_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/4WjlTpDfnwq7wc91.jpg\" target=\"_blank\" data-width=\"720\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/4WjlTpDfnwq7wc91_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "77913861d224c79ff54e94ee76b3ab4b"
+    },
+    {
+      "id": 4071,
+      "title": "OpenMouse Launches Open-Source Customization for Logitech, Razer, Wooting, and SteelSeries Keyboards",
+      "summary": "Not too long ago, the developers behind OpenMouse, the open-source, community-driven alternative mouse configuration suite, revealed that they were working on supporting keyboard customization alongside the myriad gaming mouse models the su",
+      "content": "Not too long ago, the developers behind <a href=\"https://www.techpowerup.com/351361/openmouse-open-source-mouse-control-panel-announced-with-logitech-hits-support-incoming\" target=\"_blank\">OpenMouse, the open-source, community-driven alternative</a> mouse configuration suite, <a href=\"https://www.techpowerup.com/forums/threads/openmouse-previews-open-source-keyboard-configuration-with-wooting-60he-support.351734/\" target=\"_blank\">revealed that they were working on supporting keyboard</a> customization alongside the myriad gaming mouse models the suite now supports. As per a recent announcement on the project's Discord server, the latest OpenMouse beta release has added support for a number of gaming keyboards from Logitech, Razer, SteelSeries, and Wooting. Initial support also appears to be in development for Wuque Studio and the Kochi Hummingbird 68. <br />\r\n<br />\r\nSo far, actual feature support also appears to be limited, and the implementation is very much still in beta, with the app connecting correctly to a Wooting 80HE in a brief test but failing to load the proper keymap and failing to adjust the settings correctly. However, the planned feature set appears to be competitive with most proprietary keyboard customization tools, with HE features like adjustable actuation, rapid trigger, toggle key, mod tap, SOCD, and DKS, all present in addition to robust RGB customization and support for layers and profiles. What is notably absent is the ability to remap keys, however.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/UtL3SliCt3C3HtkF.jpg\" target=\"_blank\" data-width=\"1691\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/UtL3SliCt3C3HtkF_thm.jpg\" width=\"229\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/tIsq2hfQTLWnnEts.jpg\" target=\"_blank\" data-width=\"1691\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/tIsq2hfQTLWnnEts_thm.jpg\" width=\"229\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/nvh7bz4AiVPTwSZL.jpg\" target=\"_blank\" data-width=\"1691\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/nvh7bz4AiVPTwSZL_thm.jpg\" width=\"229\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354300/openmouse-launches-open-source-customization-for-logitech-razer-wooting-and-steelseries-keyboards\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354300/openmouse-launches-open-source-customization-for-logitech-razer-wooting-and-steelseries-keyboards",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "dede1491c8c37ff7919c771bc9217da1"
+    },
+    {
+      "id": 4073,
+      "title": "Microsoft's new Surface Laptop 13 is a very good everyday laptop",
+      "summary": "Microsoft equips its compact Surface Laptop 13 with a brighter IPS touchscreen, an efficient Snapdragon X2 Plus processor and now at least 16 GB of RAM as standard.",
+      "content": "Microsoft equips its compact Surface Laptop 13 with a brighter IPS touchscreen, an efficient Snapdragon X2 Plus processor and now at least 16 GB of RAM as standard.",
+      "link": "https://www.notebookcheck.net/Microsoft-s-new-Surface-Laptop-13-is-a-very-good-everyday-laptop.1438111.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-s-new-Surface-Laptop-13-is-a-very-good-everyday-laptop.1438111.0.html"
+    },
+    {
+      "id": 4074,
+      "title": "Apple has unveiled the new MacBook Pro with OLED - Great update or disappointment?",
+      "summary": "Apple has unveiled its first MacBook with an OLED panel. However, we are not getting a completely new device, as the manufacturer has largely retained the familiar design of previous MacBook Pro models.",
+      "content": "Apple has unveiled its first MacBook with an OLED panel. However, we are not getting a completely new device, as the manufacturer has largely retained the familiar design of previous MacBook Pro models.",
+      "link": "https://www.notebookcheck.net/Apple-has-unveiled-the-new-MacBook-Pro-with-OLED-Great-update-or-disappointment.1438107.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-has-unveiled-the-new-MacBook-Pro-with-OLED-Great-update-or-disappointment.1438107.0.html"
+    },
+    {
+      "id": 4075,
+      "title": "Honor launches affordable phone with 8,560mAh battery and AMOLED display",
+      "summary": "The Honor X9e S has been launched in the Middle East, and this rebadged affordable phone has a large 8,560mAh battery that promises a 3-day runtime. It also has reverse charging support, and there's a bright 120Hz AMOLED display. The launch",
+      "content": "The Honor X9e S has been launched in the Middle East, and this rebadged affordable phone has a large 8,560mAh battery that promises a 3-day runtime. It also has reverse charging support, and there's a bright 120Hz AMOLED display. The launch price is around $399.",
+      "link": "https://www.notebookcheck.net/Honor-launches-affordable-phone-with-8-560mAh-battery-and-AMOLED-display.1438044.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Honor-launches-affordable-phone-with-8-560mAh-battery-and-AMOLED-display.1438044.0.html"
+    },
+    {
+      "id": 4076,
+      "title": "Apple iPad mini (2026) in Geekbench: Single-core performance ahead of the iPad Pro",
+      "summary": "iPad mini 2026, iPad mini OLED, iPad mini A20 Pro, A20 Pro Geekbench, iPad mini benchmark, iPad mini 12 GB RAM, iPad mini 60 Hz, ProMotion, Dave Pakula, Geekbench 7, iPad19,2",
+      "content": "iPad mini 2026, iPad mini OLED, iPad mini A20 Pro, A20 Pro Geekbench, iPad mini benchmark, iPad mini 12 GB RAM, iPad mini 60 Hz, ProMotion, Dave Pakula, Geekbench 7, iPad19,2",
+      "link": "https://www.notebookcheck.net/Apple-iPad-mini-2026-in-Geekbench-Single-core-performance-ahead-of-the-iPad-Pro.1438037.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-iPad-mini-2026-in-Geekbench-Single-core-performance-ahead-of-the-iPad-Pro.1438037.0.html"
+    },
+    {
+      "id": 4077,
+      "title": "Intel reveals $600 million revenue impact from factory explosion as PC demand weakens",
+      "summary": "Intel expects to lose about $600 million in revenue over two quarters after an explosion at its Kiryat Gat semiconductor manufacturing facility earlier this month. The disruption comes alongside weaker-than-expected fourth-quarter guidance ",
+      "content": "Intel expects to lose about $600 million in revenue over two quarters after an explosion at its Kiryat Gat semiconductor manufacturing facility earlier this month. The disruption comes alongside weaker-than-expected fourth-quarter guidance and slowing PC demand",
+      "link": "https://www.notebookcheck.net/Intel-reveals-600-million-revenue-impact-from-factory-explosion-as-PC-demand-weakens.1437704.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-30",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Intel-reveals-600-million-revenue-impact-from-factory-explosion-as-PC-demand-weakens.1437704.0.html"
+    },
     {
       "id": 3967,
       "title": "Solidigm拟在美国投资建设NAND闪存工厂 项目与中国大连工厂升级许可挂钩",
@@ -1099,6 +1377,120 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Google-Chrome-autofill-can-now-pull-details-from-your-Gmail.1437131.0.html"
+    },
+    {
+      "id": 4064,
+      "title": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
+      "summary": "知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。 阅读全文",
+      "content": "<p>知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584368.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584368.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584368.htm"
+    },
+    {
+      "id": 4065,
+      "title": "英特尔Q4展望不及预期股价暴跌23% 营收预期低于分析师逾10亿美元",
+      "summary": "10月30日，据彭博社报道，受PC处理器需求疲软以及高利润数据中心组件供应链问题的拖累，英特尔对于第四季度的业绩展望不及预期，股价在盘后暴跌23%。 阅读全文",
+      "content": "<p>10月30日，据彭博社报道，受PC处理器需求疲软以及高利润数据中心组件供应链问题的拖累，英特尔对于第四季度的业绩展望不及预期，股价在盘后暴跌23%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584362.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584362.htm"
+    },
+    {
+      "id": 4066,
+      "title": "苹果终于让Mac能触屏了 那些年“不需要”的理由还成立吗？",
+      "summary": "据《连线》报道，苹果为新款MacBook Pro配备触摸屏后，过去十余年间高管们反对这一功能的表态，被重新摆到了他们面前。2015年，苹果时任全球营销高级副总裁菲尔·席勒解释过，为什么iPhone、iPad适合触控，Mac却不适合。他给出了两个理由，一是使用电脑时，抬手触摸竖立的屏幕会让人不舒服；二是Mac的软件界面围绕鼠标和触控板设计，光标、菜单以及小小的窗口关闭按钮，都需要精确操作。 阅读全文",
+      "content": "<p>据《连线》报道，苹果为新款MacBook Pro配备触摸屏后，过去十余年间高管们反对这一功能的表态，被重新摆到了他们面前。2015年，苹果时任全球营销高级副总裁菲尔·席勒解释过，为什么iPhone、iPad适合触控，Mac却不适合。他给出了两个理由，一是使用电脑时，抬手触摸竖立的屏幕会让人不舒服；二是Mac的软件界面围绕鼠标和触控板设计，光标、菜单以及小小的窗口关闭按钮，都需要精确操作。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584360.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584360.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584360.htm"
+    },
+    {
+      "id": 4068,
+      "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+      "summary": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
+      "content": "<article>\n                                <p>Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call. The chief executive also said that the company intends to share more about Nova Lake at CES in January. The company's chief financial officer shared that Intel intends to take Panther Lake capacity offline to build more Granite Rapids data center CPUs. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: CPU</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Xh2MupWrRjJPiLLuopmKRB\" name=\"W1103180\" caption=\"\" alt=\"A hand holding the Ryzen 7 9850X3D.\" src=\"https://cdn.mos.cms.futurecdn.net/Xh2MupWrRjJPiLLuopmKRB-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/cpu-scaling-with-dlss-investigating-cpu-performance-in-the-age-of-upscaling?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">CPU scaling with DLSS</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Intel's one-two punch plan in desktop CPUs is taking shape</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent </a></li></ul></p></div></div><p>\"Nova Lake, our first Intel 18A-P client product, is tracking ahead of schedule, with design wins expecting to be twice those of Panther Lake at launch,\" Tan said in his prepared remarks. \"We look forward to sharing more at CES in January.\" </p><p>There has been a lot of speculation about what node Intel's Nova Lake CPUs will use, with the rumor mill ping-ponging between Intel 18A and TSMC's N2P. Current speculation says the chip will use 18A-P for the SoC tile while using TSMC's N2P for the compute tile. It seems unlikely that Intel would use its most advanced node for an SoC tile, though it's possible. </p><p>Regardless, Nova Lake chips will use 18A-P in some regard. Intel announced in <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/intels-performance-enhanced-18a-p-process-enters-risk-production-enhanced-node-promises-9-percent-performance-improvement-at-iso-power\">June that 18A-P had entered risk production</a>, and at Hot Chips in August, Intel revealed its <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib\">next-gen Xeon 7 Diamond Rapids</a> will be the company's first server products to use the enhanced node. </p><p>Compared to 18A, which is available in Panther Lake and Wildcat Lake products currently, 18A-P comes with a 9% improvement in speed at iso-power, or an 18% reduction in power at iso-speed. Intel has described 18A-P as a drop-in replacement for 18A, allowing designs built for 18A to instead leverage 18A-P without any extra engineering work. </p><p>For 18A products, Intel says its new Wildcat Lake products that have shown up in devices like the <a href=\"https://www.tomshardware.com/laptops/framework-laptop-12-review-wildcat-lake\">Framework Laptop 12</a> are increasingly popular. \"Demand for our Wildcat Lake is outstripping supply,\" said Tan. Intel says that 18A products now make up a third of client CPU revenue, up from less than 5% in Q1. </p><p>It makes sense that those products would be popular given the current environment. Tan said that Intel's OEM partners are \"aggressively managing inventory to match softer sell-through,\" which means buying less to match the demand in the market. Intel's David Zinsner said the company expects the company's client business to decline by \"more than 20%\" in the next quarter.\" </p><p>Zinsner warned of a further contraction in the PC market, describing a sustained decline in the size of the market over the next year, at least. \"We expect the 2026 PC unit [Total Addressable Market] to decline approximately 12%, with second half units down more than 20%. We do not expect a sustained recovery until memory availability improves and pricing begins to normalize,\" Zinsner said. \"For 2027, we're planning a PC unit TAM to decline roughly 10%.\"</p><p>Taking the comments together, Intel is saying that it expects the market itself to shrink significantly over the next year due to memory prices. It's not a situation of demand outstripping supply, at least not directly like the case of a component shortage. Rather, it's a pullback from direct customers, OEMs, and IT departments from spending, which is more significant. </p><p>Although Intel says the client PC market is shrinking, the company says that its long-term outlook remains positive. \"We think next year, and in future years, we're a market-share-gain type of environment... we do think the PC is going to through a renaissance despite [memory shortage],\" said Zinsner. </p><p>Despite the optimism, Zinsner said that Intel is taking some of its client capacity offline to build more data center products. In response to a question about reallocating wafers from client products, here's what the executive said: \"Answer: Yes... What we're taking offline to put Intel 3 into Oregon is 18A wafers, which were generally going to build Panther Lake products, so we see the opportunity with some of that capacity freed up to go produce more data center wafers.\" </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "4rhtxUGvVfkYqVmke69qni"
+    },
+    {
+      "id": 4072,
+      "title": "Pulsar Teases Dual-Sensor Gaming Mouse with True Adjustable Sensor Position",
+      "summary": "Pulsar seems to be on a bit of a run in 2026, having already shown off a new X5 ergo gaming mouse and launched a new X2F CrazyLight fingertip mouse, but its latest announcement isn't an actual product launch, but rather a peek at what's to ",
+      "content": "Pulsar seems to be on a bit of a run in 2026, having already <a href=\"https://www.techpowerup.com/352809/pulsar-shows-off-x5-62-g-large-ergonomic-gaming-mouse-with-extra-thumb-button\" target=\"_blank\">shown off a new X5 ergo gaming mouse</a> and launched a <a href=\"https://www.techpowerup.com/353168/pulsar-launches-x2f-crazylight-29-g-wireless-fingertip-gaming-mouse\" target=\"_blank\">new X2F CrazyLight fingertip mouse</a>, but its latest announcement isn't an actual product launch, but rather a peek at what's to come for the brand. According to a new <a rel=\"nofollow\" href=\"https://www.youtube.com/watch?v=uIG1ojGxDU4\" target=\"_blank\">mini-documentary</a> Pulsar published on its YouTube channel, it is working on a gaming mouse platform that would allow for dual sensors. <br />\r\n<br />\r\nIn the mini-doc, Pulsar explains that &quot;innovation at the mechanical level has reached a realm where humans can no longer keep up,&quot; likely referring to the ever-increasing DPI and polling rate increases that we have seen gaming mouse companies brag about. As such, it is developing the dual-sensor system to allow users to better tailor their mouse inputs to their individual needs and movement patterns. The system basically combines sensor data from both sensors and calculates movement based on a pre-determined offset that can be set in software by a user. This theoretically allows the sensor to be placed anywhere on the bottom of the mouse.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/0Em2iKrkMhDFERHT.jpg\" target=\"_blank\" data-width=\"1164\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/0Em2iKrkMhDFERHT_thm.jpg\" width=\"158\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Kav0v1Yzaf2i3Rv5.jpg\" target=\"_blank\" data-width=\"1164\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/Kav0v1Yzaf2i3Rv5_thm.jpg\" width=\"158\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354280/pulsar-teases-dual-sensor-gaming-mouse-with-true-adjustable-sensor-position\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354280/pulsar-teases-dual-sensor-gaming-mouse-with-true-adjustable-sensor-position",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "341ce736141baab777d907fc0ff133f3"
+    },
+    {
+      "id": 4078,
+      "title": "HP OmniBook X Flip 16 with OLED touchscreen, 32 GB RAM drops below $1000",
+      "summary": "Deal | HP's OmniBook X Flip 16 features a Ryzen AI 9 465 processor, 32 GB of memory, 512 GB of storage, and a 2K OLED touch panel. Connectivity is also respectable, as it offers a pair of USB 4 ports as well as support for the latest wirele",
+      "content": "Deal | HP's OmniBook X Flip 16 features a Ryzen AI 9 465 processor, 32 GB of memory, 512 GB of storage, and a 2K OLED touch panel. Connectivity is also respectable, as it offers a pair of USB 4 ports as well as support for the latest wireless standards.",
+      "link": "https://www.notebookcheck.net/HP-OmniBook-X-Flip-16-with-OLED-touchscreen-32-GB-RAM-drops-below-1000.1437561.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/HP-OmniBook-X-Flip-16-with-OLED-touchscreen-32-GB-RAM-drops-below-1000.1437561.0.html"
+    },
+    {
+      "id": 4079,
+      "title": "Japan-made laptop with 32 GB RAM and 8-core CPU arrives with 30-hour battery life",
+      "summary": "Well-known Japanese brand Lavie, owned by NEC Corporation, has unveiled the new X14 laptop featuring an octa-core Intel Panther Lake CPU paired with 32 GB of RAM, as well as a massive battery granting it 30 hours of battery life.",
+      "content": "Well-known Japanese brand Lavie, owned by NEC Corporation, has unveiled the new X14 laptop featuring an octa-core Intel Panther Lake CPU paired with 32 GB of RAM, as well as a massive battery granting it 30 hours of battery life.",
+      "link": "https://www.notebookcheck.net/Japan-made-laptop-with-32-GB-RAM-and-8-core-CPU-arrives-with-30-hour-battery-life.1437425.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japan-made-laptop-with-32-GB-RAM-and-8-core-CPU-arrives-with-30-hour-battery-life.1437425.0.html"
+    },
+    {
+      "id": 4080,
+      "title": "Apple’s new MacBook Pro could boost OLED laptop shipments by more than 40 % in 2027",
+      "summary": "Apple’s first OLED MacBook Pro could give OLED laptops a major boost: TrendForce expects global shipments to grow more than 40 % next year. Researchers expect the new MacBook Pro to ship up to 1.5 million units in 2027, while Samsung Displa",
+      "content": "Apple’s first OLED MacBook Pro could give OLED laptops a major boost: TrendForce expects global shipments to grow more than 40 % next year. Researchers expect the new MacBook Pro to ship up to 1.5 million units in 2027, while Samsung Display stands to benefit from its exclusive role as the panel supplier.",
+      "link": "https://www.notebookcheck.net/Apple-s-new-MacBook-Pro-could-boost-OLED-laptop-shipments-by-more-than-40-in-2027.1437550.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-s-new-MacBook-Pro-could-boost-OLED-laptop-shipments-by-more-than-40-in-2027.1437550.0.html"
     },
     {
       "id": 3834,
