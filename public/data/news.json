@@ -1,7 +1,649 @@
 {
-  "updatedAt": "2026-11-02",
-  "total": 4339,
+  "updatedAt": "2026-11-03",
+  "total": 4384,
   "list": [
+    {
+      "id": 4340,
+      "title": "RTX5090发售9个月溢价370% 价格近7万元",
+      "summary": "据Tech Spot最新发布的报告，英伟达GeForce RTX 50系列显卡自发售以来价格持续飙升。旗舰型号RTX 5090在美国市场较建议零售价(MSRP)涨幅高达370%，全球平均涨幅约262%，成为近年来涨幅最为突出的主流游戏GPU。 阅读全文",
+      "content": "<p><strong>据Tech Spot最新发布的报告，英伟达GeForce RTX 50系列显卡自发售以来价格持续飙升。</strong>旗舰型号RTX 5090在美国市场较建议零售价(MSRP)涨幅高达370%，全球平均涨幅约262%，成为近年来涨幅最为突出的主流游戏GPU。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584856.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584856.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584856.htm"
+    },
+    {
+      "id": 4341,
+      "title": "传DeepSeek V5明年有望基于华为升腾950芯片完成训练",
+      "summary": "有媒体从产业链知情人士处获悉，DeepSeek下一代大模型DeepSeek V5计划采用华为昇腾950芯片作为核心训练算力，项目节奏指向2027年落地。据悉，目前DeepSeek方面与华为昇腾的核心研发对接团队常驻杭州，双方已在V4阶段完成大量底层算子适配及定制化开发，为后续模型训练迁移和算力协同打下基础。 阅读全文",
+      "content": "<p>有媒体从产业链知情人士处获悉，DeepSeek下一代大模型DeepSeek V5计划采用华为昇腾950芯片作为核心训练算力，项目节奏指向2027年落地。据悉，目前DeepSeek方面与华为昇腾的核心研发对接团队常驻杭州，双方已在V4阶段完成大量底层算子适配及定制化开发，为后续模型训练迁移和算力协同打下基础。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584854.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584854.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584854.htm"
+    },
+    {
+      "id": 4342,
+      "title": "微软公布AI PC发展路线图：8GB入门机到128GB“超级计算机”全面覆盖",
+      "summary": "微软日前披露下一代Windows AI PC发展路线图，试图为未来数年的人工智能个人电脑市场建立统一分级体系。根据规划，微软将依据设备内存容量、AI处理能力以及本地运行大模型的能力，将未来AI PC划分为四个不同层级，覆盖从入门级办公设备到具备工作站级算力的高端系统。 阅读全文",
+      "content": "<p>微软日前披露下一代Windows AI PC发展路线图，试图为未来数年的人工智能个人电脑市场建立统一分级体系。根据规划，微软将依据设备内存容量、AI处理能力以及本地运行大模型的能力，将未来AI PC划分为四个不同层级，覆盖从入门级办公设备到具备工作站级算力的高端系统。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584846.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584846.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584846.htm"
+    },
+    {
+      "id": 4343,
+      "title": "走私者利用低端服务器芯片夹带高端HBM内存绕过美国出口管制 运抵中国后拆解芯片",
+      "summary": "美国针对中国先进半导体技术的出口管制再次暴露出新的漏洞。据The Information调查报道，一些走私者正在利用特殊的芯片封装方式，将高带宽内存（HBM）与低端服务器处理器组合在一起，以普通计算芯片的名义出口，随后再将整套组件运往中国，在当地拆解并回收其中的高端HBM内存。 阅读全文",
+      "content": "<p>美国针对中国先进半导体技术的出口管制再次暴露出新的漏洞。据The Information调查报道，一些走私者正在利用特殊的芯片封装方式，将高带宽内存（HBM）与低端服务器处理器组合在一起，以普通计算芯片的名义出口，随后再将整套组件运往中国，在当地拆解并回收其中的高端HBM内存。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584838.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584838.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584838.htm"
+    },
+    {
+      "id": 4344,
+      "title": "苹果第四财季电话会议：中国市场势头强劲 内存成本会更高",
+      "summary": "11月3日，苹果公司今天发布了2026财年第四季度及全年财报。财报发布后，苹果CEO约翰·特努斯(John Ternus)、CFO凯文·帕雷克(Kevan Parekh)以及COO萨比赫·汗(Sabih Khan)出席了电话会议，回答分析师的提问。 阅读全文",
+      "content": "<p>11月3日，苹果公司今天发布了2026财年第四季度及全年财报。财报发布后，苹果CEO约翰·特努斯(John Ternus)、CFO凯文·帕雷克(Kevan Parekh)以及COO萨比赫·汗(Sabih Khan)出席了电话会议，回答分析师的提问。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584810.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584810.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584810.htm"
+    },
+    {
+      "id": 4345,
+      "title": "电商平台大规模砍硬件订单 账号直接被封 Epic CEO也中招",
+      "summary": "在AI硬件需求暴涨、供应极度紧张的背景下，连正常购买硬件的用户也成了平台的嫌疑对象，亚马逊疑似已经开始大规模取消GPU和硬件订单，甚至直接关闭买家账户。 阅读全文",
+      "content": "<p>在AI硬件需求暴涨、供应极度紧张的背景下，连正常购买硬件的用户也成了平台的嫌疑对象，<strong>亚马逊疑似已经开始大规模取消GPU和硬件订单，甚至直接关闭买家账户。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584806.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584806.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584806.htm"
+    },
+    {
+      "id": 4346,
+      "title": "张一鸣被超越 亚洲首富换人了",
+      "summary": "据《福布斯》报道，印度信实工业集团董事长穆克什·安巴尼（Mukesh Ambani）周一超越字节跳动联合创始人张一鸣，成为亚洲首富。受旗下公司股价大涨推动，安巴尼单日财富增加85亿美元（约合人民币605亿元），总身家达到888亿美元。 阅读全文",
+      "content": "<p>据《福布斯》报道，印度信实工业集团董事长穆克什·安巴尼（Mukesh Ambani）周一超越字节跳动联合创始人张一鸣，成为亚洲首富。受旗下公司股价大涨推动，安巴尼单日财富增加85亿美元（约合人民币605亿元），总身家达到888亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584804.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584804.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584804.htm"
+    },
+    {
+      "id": 4347,
+      "title": "大众汽车在中国重建技术体系：架构联合小鹏开发 芯片押注三条路线",
+      "summary": "11月3日，据市场研究机构Counterpoint Research最新分析，大众汽车正在实施一项全球技术战略调整：一方面与恩智浦（NXP）合作推进全球统一电子电气架构，另一方面在中国建立拥有更大自主权的本地技术体系。这意味着，大众正在采取技术“双轨制”，以应对全球市场规模化运营与中国市场快速迭代之间的不同需求。 阅读全文",
+      "content": "<p>11月3日，据市场研究机构Counterpoint Research最新分析，大众汽车正在实施一项全球技术战略调整：一方面与恩智浦（NXP）合作推进全球统一电子电气架构，另一方面在中国建立拥有更大自主权的本地技术体系。这意味着，大众正在采取技术“双轨制”，以应对全球市场规模化运营与中国市场快速迭代之间的不同需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584798.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584798.htm"
+    },
+    {
+      "id": 4348,
+      "title": "哲学教授质疑太空散热 马斯克怒骂：你完全是个智障",
+      "summary": "北京时间昨晚，X用户扬·布鲁尔森（Jan Broersen）发帖质疑马斯克的太空算力方案。全文如下：“我对埃隆·马斯克的敬意已经消失的差不多了，但我仍以为他至少是个不错的工程师（特斯拉是好车）。可听到他说在太空里‘把东西冷却下来’更容易之后，连这最后一点敬意也消散殆尽了。事实正好相反。真空是最好的隔热体。在太空里，你只能靠辐射把热量带走。这些太空数据中心极不可能成真（当然也不会在我们有生之年成真）。” 阅读全文",
+      "content": "<p>北京时间昨晚，X用户扬·布鲁尔森（Jan Broersen）发帖质疑马斯克的太空算力方案。全文如下：“我对埃隆·马斯克的敬意已经消失的差不多了，但我仍以为他至少是个不错的工程师（特斯拉是好车）。可听到他说在太空里‘把东西冷却下来’更容易之后，连这最后一点敬意也消散殆尽了。事实正好相反。真空是最好的隔热体。在太空里，你只能靠辐射把热量带走。这些太空数据中心极不可能成真（当然也不会在我们有生之年成真）。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1584794.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584794.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1584794.htm"
+    },
+    {
+      "id": 4349,
+      "title": "华为鸿蒙电脑应用数突破 2.1 万款，覆盖办公、AI、娱乐、创作等核心场景",
+      "summary": "IT之家 11 月 3 日消息，华为官方账号“智慧办公产品经理”宣布，鸿蒙电脑应用数突破 2.1 万款。从宣传海报来看，鸿蒙电脑应用已覆盖办公、AI、教育、娱乐、创作等核心场景。 据IT之家此前报道，2026 鸿蒙办公产业峰会已定档 11 月 5 日在武汉 · 中国光谷科技会展中心举行。根据华为擎云官方活动预热信息，此次 2026 鸿蒙办公产业峰会将介绍产品最新品类动向，并提到了首款鸿蒙台式机和鸿蒙电脑企业版，预计届时会在活动现场介绍新品更多信息。",
+      "content": "<p data-vmark=\"6e82\">IT之家 11 月 3 日消息，华为官方账号“智慧办公产品经理”宣布，<strong>鸿蒙电脑应用数突破 2.1 万款</strong>。从宣传海报来看，鸿蒙电脑应用已覆盖办公、AI、教育、娱乐、创作等核心场景。</p><p style=\"text-align: center;\" data-vmark=\"559d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0c23a5ca-4789-4692-bf1c-29a4b2ab5c7b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"5901\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1b0c4be572b8058a8976d8c449ef06bb73860f627aac6a05689e01d2b0d3f65af10c5219eac0f994d\" data-vmark=\"3047\" class=\"no-alt-img\"></p><p data-vmark=\"ccdb\">据IT之家此前报道，2026 鸿蒙办公产业峰会已定档 11 月 5 日在武汉 · 中国光谷科技会展中心举行。根据华为擎云官方活动预热信息，此次 2026 鸿蒙办公产业峰会将介绍产品最新品类动向，并提到了首款鸿蒙台式机和鸿蒙电脑企业版，预计届时会在活动现场介绍新品更多信息。</p><p style=\"text-align: center;\" data-vmark=\"d0e1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/1c44381c-8846-4294-8e39-ee4b5b73b89a.jpg\" w=\"1440\" h=\"480\" data-vmark=\"d200\" data-mpos=\"0,2\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"6837\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5054\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/021/782.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/782.htm"
+    },
+    {
+      "id": 4350,
+      "title": "联想开天推出首款信创 AI 主机：兆芯 KX-7000 处理器 + 后摩智能力擎 LQ50 NPU",
+      "summary": "IT之家 11 月 3 日消息，联想开天今日宣布推出首款信创 AI 主机，搭载兆芯处理器与后摩 NPU，提供 160TOPS 本地 AI 算力，可支持 35B 量级大模型。该机出厂预装天禧 AI Pro 智能体，可为企业提供 7×24 小时持续在岗的数字员工。 IT之家了解到，联想开天 AI 主机搭载兆芯 KX-7000 八核处理器与后摩智能力擎 LQ50 NPU，当前配置提供 160 TOPS INT8 算力，最高可支持 320 TOPS 算力 NPU 配置；配备 24GB",
+      "content": "<p data-vmark=\"027c\">IT之家 11 月 3 日消息，联想开天今日宣布推出首款信创 AI 主机，搭载兆芯处理器与后摩 NPU，提供 160TOPS 本地 AI 算力，可支持 35B 量级大模型。该机出厂预装天禧 AI Pro 智能体，可为企业提供 7×24 小时持续在岗的数字员工。</p><p style=\"text-align: center;\" data-vmark=\"0072\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/32702e1d-1419-4e1d-995a-394dcb97a919.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" alt=\"图片\" data-weibo=\"0\" data-vmark=\"d5d2\"></p><p data-vmark=\"0b03\">IT之家了解到，联想开天 AI 主机搭载兆芯 KX-7000 八核处理器与后摩智能力擎 LQ50 NPU，当前配置提供 160 TOPS INT8 算力，最高可支持 320 TOPS 算力 NPU 配置；配备 24GB NPU 专用内存及 153.6GB/s 内存带宽，预装麒麟操作系统与天禧 AI Pro。</p><p style=\"text-align: center;\" data-vmark=\"a526\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ced635dc-f4c0-48d7-bb82-75d4eb8fb764.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"720\" alt=\"图片\" data-weibo=\"1\" data-vmark=\"4de8\"></p><p data-vmark=\"165b\">同时，该产品针对 CPU 与 NPU 独立设计散热风道，配合前置六角蜂窝进风面板、高风压涡轮风扇与智能温控机制，25℃ 下待机壳温约 33℃、满载约 41℃，35℃ 环境满载亦控制在约 46℃；待机噪声低至 19.4dB，NPU 满载推理约 29.5dB。</p><p data-vmark=\"e484\">此外，该产品已针对不同规模的主流开源模型展开适配，覆盖 Qwen3.5 系列及 Qwen3.6-35B-A3B 等模型。</p><p style=\"text-align: center;\" data-vmark=\"7cdd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5b31a7ba-690e-41f9-b8a8-c13cbf6bd19c.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"606\" alt=\"图片\" data-weibo=\"2\" data-vmark=\"f82b\"></p>",
+      "link": "https://www.ithome.com/1/021/779.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/779.htm"
+    },
+    {
+      "id": 4351,
+      "title": "大刷机时代来临：华为 MateBook E Go 2023 二合一平板电脑成功刷入 iOS 16 系统",
+      "summary": "IT之家 11 月 3 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法，例如：小米 8 成功刷入 iOS 16.5 系统并伪装成 iPhone X、一加 Ace 5 刷入纯血鸿蒙 6 系统、第三方掌机上原生运行任天堂 Switch 游戏机专有系统 Horizon OS 等。 IT之家注意到，B站 UP 主“御坂10297号”在昨晚宣布，成功将华为二合一平板电脑 —— MateBook E Go 2023 刷入了 iOS 16 系统，实现超大屏 iPho",
+      "content": "<p data-vmark=\"9f6f\">IT之家 11 月 3 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法，例如：小米 8 成功刷入 iOS 16.5 系统并伪装成 iPhone X、一加 Ace 5 刷入纯血鸿蒙 6 系统、第三方掌机上原生运行任天堂 Switch 游戏机专有系统 Horizon OS 等。</p><p style=\"text-align: center;\" data-vmark=\"2039\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fcfd92b9-2738-4fd4-9c9d-104035485a26.png?x-bce-process=image/format,f_auto\" w=\"876\" h=\"1268\" data-vmark=\"699f\" class=\"no-alt-img\"></p><p data-vmark=\"d51c\">IT之家注意到，B站 UP 主“<span class=\"no-auto-spacing \">御坂10297号</span>”在昨晚宣布，<strong>成功将华为二合一平板电脑 —— MateBook E Go 2023 刷入了 iOS 16 系统</strong>，实现超大屏 iPhone 体验。</p><p style=\"text-align: center;\" data-vmark=\"0346\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV18J4P6cEGJ&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p style=\"text-align: left;\" data-vmark=\"eb83\">不过，目前刷入 iOS 16 系统的华为 MateBook E Go 2023 没有任何驱动。UP 主“<span class=\"no-auto-spacing \">御坂10297号</span>”表示，全部流程由阿里通义 Qwen3.8-Flash（Next）本地模型完成，<strong>将逐步修复其余组件，并在驱动完善后开源</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e8bf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9b00dfa9-8f71-4742-8609-fbd0f2e91fb6.jpg?x-bce-process=image/format,f_auto\" w=\"966\" h=\"911\"  data-vmark=\"7978\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/776.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/776.htm"
+    },
+    {
+      "id": 4352,
+      "title": "OPPO 官宣将亮相 2026 移动网络大会，展示旗舰影像、新一代小布、6G 通信、车机互联等技术",
+      "summary": "IT之家 11 月 3 日消息，2026 移动网络大会将于 2026 年 11 月 5 日-7 日在广州 · 保利世贸博览馆召开。OPPO 官方今日宣布将亮相此次大会，坐标 5 号馆 5C-04 展位。 据介绍，OPPO 此次将在 2026 移动网络大会展出旗舰影像、新一代小布、6G 通信、车机互联等最新技术。 IT之家查询获悉，2026 移动网络大会聚焦通信、算力、智能三大核心赛道，参展单位还包括支付宝、紫光展锐、海思、阿里、华为、高通、联想、中兴、小米、vivo、摩尔线程",
+      "content": "<p data-vmark=\"1f97\">IT之家 11 月 3 日消息，2026 移动网络大会将于 2026 年 11 月 5 日-7 日在广州 · 保利世贸博览馆召开。<strong>OPPO 官方今日宣布将亮相此次大会</strong>，坐标 5 号馆 5C-04 展位。</p><p data-vmark=\"b0be\">据介绍，OPPO 此次将在 2026 移动网络大会<strong>展出旗舰影像、新一代小布、6G 通信、车机互联等最新技术</strong>。</p><p data-vmark=\"167c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b17d84ec-8349-4ec8-a666-14fbd6c4cee1.jpg\" w=\"1440\" h=\"4937\" data-weibo=\"0\" data-vmark=\"354d\" class=\"no-alt-img\"></p><p data-vmark=\"cbc1\">IT之家查询获悉，2026 移动网络大会聚焦通信、算力、智能三大核心赛道，参展单位还包括支付宝、紫光展锐、海思、阿里、华为、高通、联想、中兴、小米、vivo、摩尔线程、科大讯飞等。</p><p data-vmark=\"55f9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/80d4cded-a615-4e05-ab33-c0715ec7adef.jpg\" w=\"1080\" h=\"1254\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d11ca0d37fb7df4537d45e16e3ed71d2b006fed29c593dba486f2d384c82924d8c6211378be636b9f8\" data-vmark=\"ade6\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4fb916d6-63ce-4e6a-a86c-56533e5bc981.jpg\" w=\"1080\" h=\"1308\" alt=\"图片\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d124ab88289cbbe578e581a30cc3d95db2581f0a28b5fc53d2b732a63210380a13f8e3b5f8df15170f\" data-vmark=\"d4cc\"></p><p data-vmark=\"b9ad\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/33a290aa-64c4-44f4-8d2d-a554f2c2dff0.jpg\" w=\"1080\" h=\"1252\" alt=\"图片\" data-weibo=\"3\" data-marks=\"1931fd9d012eb6d1bf264aa6d3a5e06953c9a19b77bda5bae7b6ff7f28e034343500965023ff998387664e930b7d9e94\" data-vmark=\"cda8\"></p><p data-vmark=\"31a7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8cb8b50d-9265-4f54-9349-e6330c8238f4.jpg\" w=\"1080\" h=\"1306\" alt=\"图片\" data-weibo=\"4\"  data-vmark=\"65f0\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"1007\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5002\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/021/768.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/768.htm"
+    },
+    {
+      "id": 4353,
+      "title": "奕派 M8 天元激光版上市：搭载东风自研天元智驾方案，权益后售 15.98 万元起",
+      "summary": "IT之家 11 月 3 日消息，奕派科技旗下中大型 SUV 奕派 M8 新增“天元激光版”车型, 新车共推出两款配置，指导价分别为 17.98 万元和 18.58 万元，权益后售 15.98 万和 16.58 万。该版本核心亮点在于搭载东风自研“天元智驾”方案，与在售的华为乾崑版形成产品区分，为消费者提供不同智能化路线选择。 IT之家注意到，外观方面，天元激光版延续极简新能源风格。封闭式前脸搭配横贯式星环灯带，前包围两侧设置分体式远近光模块，辅以分层递进的双层散热开口，强化车",
+      "content": "<p data-vmark=\"6e67\">IT之家 11 月 3 日消息，奕派科技旗下中大型 SUV 奕派 M8 新增“天元激光版”车型, 新车共推出两款配置，指导价分别为 17.98 万元和 18.58 万元，权益后售 15.98 万和 16.58 万。该版本核心亮点在于搭载东风自研“天元智驾”方案，与在售的华为乾崑版形成产品区分，为消费者提供不同智能化路线选择。</p><p style=\"text-align: center;\" data-vmark=\"ba0c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7b2ef27a-a487-4450-ba68-0b8154125b9b.jpg\" w=\"690\" h=\"920\" data-vmark=\"74e8\" data-weibo=\"0\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"8a32\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/41b0a62f-26c6-40c3-95cc-4bba18c77cb4.jpg\" w=\"690\" h=\"920\" data-vmark=\"4e6b\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"dec5\">IT之家注意到，外观方面，天元激光版延续极简新能源风格。封闭式前脸搭配横贯式星环灯带，前包围两侧设置分体式远近光模块，辅以分层递进的双层散热开口，强化车头立体感。车身配色提供玄岫黑、远黛蓝、凝霜白、月光银、烟霞紫、琉璃白六种颜色可选。</p><p data-vmark=\"3a0b\">侧面轮廓从 B 柱后开始缓慢下压，配合微微上扬的腰线，拉长整车视觉比例；尾部采用贯穿式尾灯与车头呼应，并配备运动扰流板、高位刹车灯及隐藏式后窗雨刷。尺寸上，新车长宽高分别为 5020/1975/1733mm，轴距 3025mm。</p><p data-vmark=\"b5ae\">车内采用“以云展怀”设计理念，配备三辐多功能方向盘、10.25 英寸液晶仪表、50 英寸 HUD 抬头显示和 16.1 英寸 3K 中控屏。座椅布局仍为六座，可在 3/4/5/6 座之间切换，以覆盖家庭出行、商务接待等场景。后排提供 17.3 英寸 3K 电吸屏，并搭载 8.8L 双门双向智能冷暖箱；内饰配色提供曦橙、砚棕两种选择。</p><p data-vmark=\"c8ff\">天元座舱搭载高通骁龙 SA 8295P 芯片，接入豆包、DeepSeek 双 AI 大模型，支持连续对话交互、生活查询、影音检索等。全新迭代的 HMI 3.0 人机交互系统，操作丝滑顺手，让驾驶更专注、交互更简单。搭配 SOA 场景大师，用户可自定义超 1000 组智能场景，座椅、空调、影音等功能随心联动。</p><p data-vmark=\"d57b\">奕派 M8 天元激光版搭载东风自研的天元智驾和天元座舱。天元智驾以地平线 J6 M 域控平台为底座，全车 25 个智能感知硬件协同工作，其中禾赛激光雷达最远测距 200m、精度可达 ±5cm，和视觉摄像头、毫米波雷达、超声波雷达形成多融合感知体系，实时精准感知路况。依托这套感知体系，可实现高速 NOA、城区 NOA 双场景覆盖，可辅助完成自动进出匝道、红绿灯路口通行，同时标配 AEB、交叉路口辅助等主动安全能力；全场景智能泊车方面，奕派 M8 天元激光版围绕日常停车、窄路倒车和固定地库路线，提供融合泊车、遥控泊车、循迹倒车及跨层记忆泊车能力。</p><p style=\"text-align: center;\" data-vmark=\"c3b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6de8beae-2ebc-4f59-95ab-26895ea7a687.jpg\" w=\"690\" h=\"920\" data-vmark=\"1a61\" data-weibo=\"2\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"11b8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ce0612b7-474d-4ce4-bbaf-905026c60341.jpg\" w=\"690\" h=\"921\" data-vmark=\"4763\" data-weibo=\"3\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c815\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/830135e9-2e58-4656-8651-88d30338fb7f.jpg\" w=\"690\" h=\"920\" data-vmark=\"dc9e\" data-weibo=\"4\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"b359\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5f7136e7-ca5f-4f9f-b3e5-b48e43f3856e.jpg\" w=\"690\" h=\"920\" data-vmark=\"d543\" data-weibo=\"5\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"f24c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d9a8e81a-bd13-45e5-bfaf-f7b43040e2b5.jpg\" w=\"690\" h=\"920\" data-vmark=\"cfe6\" data-weibo=\"6\" class=\"no-alt-img\"></p><p data-vmark=\"d043\">动力系统方面，奕派 M8 天元激光版搭载采用宁德时代电芯的金盾电池，续航补能方面，新车 CLTC 纯电续航达 600km，搭载 800V 高压平台，支持 4C 快充，30%~80% SOC 快充约 15.5 分钟。</p><p style=\"text-align: center;\" data-vmark=\"f32d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/06e771e0-ad54-4ed3-a20c-55e3fcf9b5dc.jpg\" w=\"690\" h=\"920\" data-vmark=\"c936\" data-weibo=\"7\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"355d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1ea0e064-b431-48ba-9840-91b3170a863f.jpg\" w=\"690\" h=\"920\" data-vmark=\"c670\" data-weibo=\"8\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"9554\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c2696fa0-d82b-431e-afdb-cf45a0e5df24.jpg\" w=\"690\" h=\"920\" data-vmark=\"6a42\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7494\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0e43baa4-2c40-450d-90ba-de6305669335.jpg\" w=\"690\" h=\"920\" data-vmark=\"dbbb\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7cf0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/33cdd7e7-69a7-4f0c-b309-1a304ebf5a3a.jpg\" w=\"690\" h=\"920\" data-vmark=\"0e06\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"5da0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8ae3605c-1153-4150-85b3-c9ed561db910.jpg\" w=\"690\" h=\"920\" data-vmark=\"7b3b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"81a0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d29f5364-cad4-4cdb-b9d1-a8dad08b6f73.jpg\" w=\"690\" h=\"920\" data-vmark=\"4bce\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/764.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/764.htm"
+    },
+    {
+      "id": 4354,
+      "title": "华为智选车产品总监彭磊：享界 G9 本月交付量会再上一个台阶，V8 计划准备少量现车次日可提",
+      "summary": "IT之家 11 月 3 日消息，华为智选车产品总监（享界系列）彭磊昨晚发文，分享了鸿蒙智行享界 G9 的交付动态和享界 V8 的后续安排。 根据规划，享界 G9 目前生产爬坡，已在全国开启交付活动，11 月份交付量会再上一个台阶；享界 V8 已开启预售，陆续交付完展车、试驾车，全国鸿蒙智行店都可以体验。 另外，享界 V8 还计划准备少量现车，用户可在发布会后第二天提车。 参考IT之家此前报道，北汽新能源享界汽车 10 月“战报”已曝光。海报显示，享界汽车 10 月销量为 6,",
+      "content": "<p data-vmark=\"37fc\">IT之家 11 月 3 日消息，华为智选车产品总监（享界系列）彭磊昨晚发文，分享了鸿蒙智行享界 G9 的交付动态和享界 V8 的后续安排。</p><p style=\"text-align: center;\" data-vmark=\"e37d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/188c06a8-63a8-4e69-bd05-320de686e279.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1e10c9c87f56d42e962741bb528c50615f6269543a8e7eb6c977ebdc4af9aa78ee9c3f41e46a60451\" data-vmark=\"f455\" class=\"no-alt-img\"></p><p data-vmark=\"02fd\">根据规划，享界 G9 目前生产爬坡，已在全国开启交付活动，<strong>11 月份交付量会再上一个台阶</strong>；享界 V8 已开启预售，<strong>陆续交付完展车、试驾车</strong>，全国鸿蒙智行店都可以体验。</p><p data-vmark=\"608d\">另外，<strong>享界 V8 还计划准备少量现车</strong>，用户可在发布会后第二天提车。</p><p style=\"text-align: center;\" data-vmark=\"14d4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ae80fec5-3f32-410a-b1e0-c32bdb3fa3b2.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"901\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d155203df1a95967b972304d42dcd599a959ef9937795b4eadd42da7561e615b32c2c387094eeda17c\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F3243882235%2FRpxRVlzkR%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"4758\" class=\"no-alt-img\"></p><p data-vmark=\"8bac\">参考IT之家此前报道，北汽新能源享界汽车 10 月“战报”已曝光。海报显示，享界汽车 10 月销量为 6,174 辆。博主 @未来的学习笔记 透露，鸿蒙智行享界 10 月销量中，接近 70％是享界 G9 车型，<a target=\"_blank\" href=\"https://www.ithome.com/1/020/920.htm\">大概在 4,000-4,300 辆区间</a>，首月产能处于爬坡阶段。另外，享界 S9 + 享界 S9T 依然稳定有 2,000+ 的销量。</p><p style=\"text-align: center;\" data-vmark=\"eabb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b48146c1-121b-4777-ab4d-cb9a47fa7387.jpg\" w=\"1440\" h=\"2560\" data-vmark=\"0615\" class=\"no-alt-img\"></p><p data-vmark=\"aab0\">后续享界还将推出 V8 定位家用的旗舰 MPV 车型，预计 11 月发布，官方预售价 32.98 万元起。参考IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/020/496.htm\">该车提供纯电与增程两种动力形式，采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本</a>，全系标配 800V 高压平台、±12° 后轮转向和华为乾崑智驾系统。</p><p style=\"text-align: center;\" data-vmark=\"2d58\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/41230d5b-13c6-4b95-b43b-56776d2eb66c.jpg\" w=\"1440\" h=\"959\" data-vmark=\"72ba\" data-mpos=\"0,2\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/753.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/753.htm"
+    },
+    {
+      "id": 4355,
+      "title": "苹果 iOS 27.2 新增“排除 App”设置，用户可控制 Siri 访问的应用",
+      "summary": "IT之家 11 月 3 日消息，据科技媒体 MacObserver 今天报道，苹果在 iOS 27.2 系统中新增“排除 App”（Excluded Apps）设置，让 iPhone 用户可以更灵活地控制 Siri 访问应用权限。 IT之家从原报道获悉，该功能可以控制 Siri AI 个人上下文功能的访问限制。例如用户将某一款 App 放入排除列表后，Siri 就无法使用 App 内容提供个性化服务、访问其支持的操作，也不会在 Siri 建议中显示应用内信息。 同时，该功能位",
+      "content": "<p data-vmark=\"b965\">IT之家 11 月 3 日消息，据科技媒体 MacObserver 今天报道，苹果在 iOS 27.2 系统中新增“排除 App”（Excluded Apps）设置，让 iPhone 用户可以更灵活地控制 Siri 访问应用权限。</p><p style=\"text-align: center;\" data-vmark=\"99a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0ac2cf0f-3340-447b-982b-dca60cc418d9.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1205\" data-weibo=\"0\" data-vmark=\"f095\" class=\"no-alt-img\"></p><p data-vmark=\"4cfa\">IT之家从原报道获悉，该功能可以控制 Siri AI 个人上下文功能的访问限制。例如用户将某一款 App 放入排除列表后，<strong>Siri 就无法使用 App 内容提供个性化服务</strong>、访问其支持的操作，也不会在 Siri 建议中显示应用内信息。</p><p data-vmark=\"75ee\">同时，该功能位于设置中的“Siri”项目中。苹果表示，如果用户将某款应用放入排除列表后，Siri 指令和个性化建议有可能无法使用。因此用户调整访问权限前，应考虑自己平时是否经常使用这些功能。</p><p data-vmark=\"27e1\">此外，Siri 的高级 AI 功能仍要求兼容 Apple 智能的 iPhone，包括 iPhone 15 Pro 系列及 iPhone 16 等机型。</p>",
+      "link": "https://www.ithome.com/1/021/659.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/659.htm"
+    },
+    {
+      "id": 4356,
+      "title": "怒喵发布 AM Infinity .100 R2 鼠标：中大手模具，升级 PAW3955",
+      "summary": "IT之家 11 月 3 日消息，怒喵 (AngryMiao) 今日发布了 AM Infinity .100 R2 鼠标。这一型号整体上延续了上代 AM Infinity .100 的中大手模具和模块化换电设计，同时在光学传感器等方面进行了改进。 AM Infinity .100 R2 外壳为镁铝合金材质镂空外骨骼，质量约 49g；采用 AM Real8K Engine V2 主控芯片、原相 PAW3955 光学传感器，平均延迟 0.184ms，单个 340mAh 电池在 8k",
+      "content": "<p data-vmark=\"c8c6\">IT之家 11 月 3 日消息，怒喵 (AngryMiao) 今日发布了 AM Infinity .100 R2 鼠标。这一型号整体上<strong>延续了上代 AM Infinity .100 的中大手模具和模块化换电设计</strong>，同时在光学传感器等方面进行了改进。</p><p data-vmark=\"7b77\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/cbfbb269-4197-41bb-80c0-552d2bdaea7f.png\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"f553\" class=\"no-alt-img\"></p><p data-vmark=\"e562\">AM Infinity .100 R2 外壳为镁铝合金材质镂空外骨骼，质量约 49g；采用 AM Real8K Engine V2 主控芯片、原相 PAW3955 光学传感器，<strong>平均延迟 0.184ms</strong>，单个 340mAh 电池在 8kHz 回报率下连续使用续航 30hr。</p><p data-vmark=\"7748\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4f9ab7da-a9a3-4bd7-982e-e9a9a95dbb07.jpg\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"b9d1\" class=\"no-alt-img\"></p><p data-vmark=\"849b\">此外，其 <strong>PCB 覆盖纳米防水涂层 Plus</strong>，外部覆盖 Micro-Frost UV 微磨砂亲肤涂层，底部新增模式切换物理按键，可选 PEI（聚醚酰亚胺）尾盖，到手价 1,062 元起。</p>",
+      "link": "https://www.ithome.com/1/021/656.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/656.htm"
+    },
+    {
+      "id": 4357,
+      "title": "消息称 iPhone 18e / 18 / Air 2 明年上半年齐发，标准版搭 2nm 制程 A20 芯片预估价格会涨",
+      "summary": "IT之家 11 月 3 日消息，博主 @数码闲聊站 今日发文透露，iPhone 18e、iPhone 18 和 iPhone Air 2 三款机型会在明年上半年发布，预估还是 18 标准版的销量最高。 博主称，iPhone 18 将配备 6.3 英寸 1.5K 120Hz OLED 常规灵动岛屏幕，搭载 2nm 制程工艺的 A20 芯片，拥有 Face ID、48MP 双摄，同时电池也有加大，不过价格估计也要涨。 有网友认为 iPhone 18e 的销量会更高，博主表示：“应",
+      "content": "<p data-vmark=\"53bd\">IT之家 11 月 3 日消息，博主 @数码闲聊站 今日发文透露，iPhone 18e、iPhone 18 和 iPhone Air 2 三款机型会在明年上半年发布，<strong>预估还是 18 标准版的销量最高</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e38a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/817ae0e5-4bd4-4cf5-b4da-211a98efb972.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"872\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRpGdRFOMp%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"c634\" class=\"no-alt-img\"></p><p data-vmark=\"c765\">博主称，iPhone 18 将配备 6.3 英寸 1.5K 120Hz OLED 常规灵动岛屏幕，<strong>搭载 2nm 制程工艺的 A20 芯片</strong>，拥有 Face ID、48MP 双摄，同时电池也有加大，<strong>不过价格估计也要涨</strong>。</p><p data-vmark=\"12be\">有网友认为 iPhone 18e 的销量会更高，博主表示：“<strong>应该没多少人会买 60Hz 吧……</strong>”还有网友询问明年下半年 iPhone 20 Pro Max 会采用无孔全面屏还是灵动岛屏？博主回复称：“<strong>有孔啊。</strong>”</p><p data-vmark=\"d64a\">据IT之家此前报道，消息称 iPhone 18e 将配备一块 6.12 英寸 60Hz LTPS OLED，搭载 2nm A20 芯片，匹配 48MP 单摄，前摄可能会升级 24MP。根据目前已知信息，苹果 iPhone 18 / 18e 预计会在明年春季发布。</p><p style=\"text-align: center;\" data-vmark=\"29b5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/01ba9bc0-aa88-4f1f-b1cc-58f11f12b895.jpg\" w=\"750\" h=\"503\" data-weibo=\"1\" data-vmark=\"ca06\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/655.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/655.htm"
+    },
+    {
+      "id": 4358,
+      "title": "IT之家 11.11 严选好货：iPhone Air 12G 内存 + A19 Pro 芯片 4989 元，B站京东 WPS 迅雷会员皆好价",
+      "summary": "全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。 京东 无门槛红包至高 26888 元，每天抽 3 次：点此抽取。 淘宝 无门槛红包至高 26888 元，每天直接领 200 淘金币：点此抽取。 一键保价 京东一键保价没事就点点：点此保价。 iPhone iPhone Air 于去年 10 月 22 日开售，上市起售价为 7999 元，今年官方已涨至 8799 元。 今日京东自营叠加国补后仅需 4989 元，另外还可参加以旧换新，更划算： 京东 iPhone Air 1",
+      "content": "<p data-vmark=\"e598\">全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eGqHgU5\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6qUuiW\" data-iosurl=\"https://u.jd.com/eDqRrIx\" data-androidurl=\"https://u.jd.com/e1qTvX1\" data-hosnexturl=\"https://u.jd.com/egqWXmo\" data-hosurl=\"https://u.jd.com/eDqUIu6\" data-uwpurl=\"https://u.jd.com/eOqBhYD\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f51xaiXW%26EA_PTAG%3d17078.27.380\" data-ncid=\"261744\"><strong>点此抽取</strong></a>。</p><p data-vmark=\"2703\"><strong><span class=\"font-color-orangered\">淘宝 </span>无门槛红包至高 26888 元</strong>，每天<strong>直接领</strong> 200 淘金币：<a href=\"https://s.click.taobao.com/t?union_lens=lensId%3APUB%401792050488%402127ad07_0cd0_1a13e886619_b4ba%4001%40eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfb2ZmaWNpYWxfaW5kZXhfaHRtIn0ie%3BeventPageId%3A20150318020016843&amp;e=m%3D2%26s%3DzQhexfEkTqtw4vFB6t2Z2iperVdZeJviPI5Rhak06vZnX1vWUft3ZTXZL%2F877eq3Nc0RbduIiWs4gfVduTRiekiHJel%2BIKnZ8pjrbRBv795%2FXj7TObm471ZQ3eBG4CWnAGIx0oe2X2hZfJ7ZQxC1%2FU3rpAhWgptfEBnEBk3xaGzdzP6Rx%2BOOxBVe%2Fk1xV3ExkeMqUwSQcLRC0TzsMy8kp7Hfv3%2BBYcPW3eHn14rW1PB5SunYCHQHRbw6LwQYf%2F1JuyhJem%2BM5OoR2cbDLktPLiIOenYkFIXaB%2FWmSjJ%2FDetdnBNxJusisiH18dRGjHzjzygPl4dzfQ99H85mx3hqtnKpCbmI%2BseGwWp8xzgANqVqYCqpF4Jxuvke2WBVaujNqHOQTvP%2FjKvmhaZEc3usRMzX%2FaO%2Fgihuo0grpFHp0ZRdDQyhlQSJizeGY7XCr1H3JlyaNfS7Kvfup5TKVZzpNJfdzDItOUCGvvjwkabgMflhCHeAi4Yh%2Fvi%2Ff9QvDsJ7ddWXExnEiMrvyMWsqADlM6AQmCDfjJ9PHAjYDAgJZOyJGZ34%2F2blaWr0u2qcBDDH\" target=\"_blank\"><strong>点此抽取</strong></a>。</p><h2 data-vmark=\"29ba\">一键保价</h2><p data-vmark=\"9a7b\">京东一键保价没事就点点：<a href=\"https://u.jd.com/egDZtgy\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eaDS5l4\" data-iosurl=\"https://u.jd.com/eGDp73q\" data-androidurl=\"https://u.jd.com/eDD26hR\" data-hosnexturl=\"https://u.jd.com/e6D2wMW\" data-hosurl=\"https://u.jd.com/5O4D8lA\" data-uwpurl=\"https://u.jd.com/e6DTlQZ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feDDcrAL%26EA_PTAG%3d17078.27.380\" data-ncid=\"261744\"><strong>点此保价</strong></a>。</p><h2 data-vmark=\"b04a\">iPhone</h2><p data-vmark=\"a2d4\">iPhone Air 于去年 10 月 22 日开售，上市起售价为 7999 元，今年官方已涨至 8799 元。</p><p data-vmark=\"e157\">今日京东自营叠加国补后仅需 4989 元，另外还可参加以旧换新，更划算：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/erTAGjs\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eGTfJvz\" data-iosurl=\"https://u.jd.com/eDTRN8C\" data-androidurl=\"https://u.jd.com/e1TX0Bi\" data-hosnexturl=\"https://u.jd.com/eOTk0lb\" data-hosurl=\"https://u.jd.com/eaTUpxi\" data-uwpurl=\"https://u.jd.com/e1Tj1pn\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252ferT9K6f%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/345333/12/1535/26463/68c09cfaF7fabfe29/e38577b5c05bc499.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> iPhone Air 12+256GB</span></span><span class=\"card-abstract\"> 京东自营</span><span class=\"card-controls\"><span class=\"price\">国补后 4989 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><h2 data-vmark=\"160a\">会员类</h2><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGT98N7\" target=\"_blank\" data-wapurl=\"https://u.jd.com/erTHcYr\" data-iosurl=\"https://u.jd.com/erTpIy1\" data-androidurl=\"https://u.jd.com/egTTknT\" data-hosnexturl=\"https://u.jd.com/eDTcgCF\" data-hosurl=\"https://u.jd.com/erTfroG\" data-uwpurl=\"https://u.jd.com/erTkWUV\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1TJj82%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/403026/25/7532/105173/69b3ad20Fa3ed2cd4/0083320320a6caae.png\" w=\"716\" h=\"716\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">B站京东 PLUS 联名年卡</span></span><span class=\"card-abstract\">限同一手机号充值</span><span class=\"card-controls\"><span class=\"price\"> 148 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=215045f617936960816263007e0d0e&amp;srItem=1&amp;e=XB2G8DAU5PqlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ%2B3LdJxoCWQEEpzDbTyugKV1z9SmZlDjgHfJlCQWG9ZuoEsTcTfXACppXG7uWOch0wp9d3J5hNULyMW3eIAWKRa6LeGhgJY%2B%2FxrWOm542iF3mhpDhiQUdsFlrT93Io4ew9QFBenBVKLO5zHp%2F7J47CwJvhFCTE4y8tq9PiEi9ua7qC1ydbwJ6x%2Blxp4S%2BlOq9qbU66yYTUTnOb1nxo9CBhARKGiDeDrHuMzn1lhmKcZQ%2F7XT4W3BSuNcVGp50PYxEDNEY2ILwuh6uTmgRnC%2FRkkwNBUbTsArs&amp;union_lens=lensId:TAPI@1793696081@21334023_14d6_1a1a09e2758_1c49@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150458f17936960821565378e0d58&amp;srItem=1&amp;e=O%2B5XD7k%2BuNmlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJX4txNQq47kwTxil4MAeStIABlX10kTIdxQoEIpxDCfJMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0MLEqssXue1hesdIkAueW%2F5fJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNqtAQtCmCpiKsqzdxr0x8hhK9jrF9aypMEY5gFPl8b2oTyK9VyDNBcTZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696082@2106cd74_143d_1a1a09e2934_82a4@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045fe17936960826908720e0b34&amp;srItem=1&amp;e=TexBTQ98mnWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJkZl4iwSNatOsVfy%2BQfjx0YquHEJ%2Bby8g%2FRs0yDOomvpMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B01BaSOzmO%2BmOB7VoM2F%2BGHZfJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNiaRtMZw9eYwSmOzCPiW0E6%2FFN2sKHtvOFog%2BMILS3c134M5WEFAxPjZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696082@213fd72a_149a_1a1a09e2b44_88f0@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465417936960833111538e0c6d&amp;srItem=1&amp;e=SHYOMRWyN0ilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJb6yMKMIuNXrJE%2BpkseqUgiN%2F8CYT3F02X13ryJJ2skJMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B092JwMWreMk9E2hO7Hc7gY5fJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNToc5Ok%2BUhfitzGuA%2FFyvxl%2FuUwaRM9QH6XWouWEfIikGjxHATfbyXjZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696083@213c96df_144c_1a1a09e2dbe_9173@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?traceId=2150461017936960841372982e0d65&amp;srItem=1&amp;e=ztviaxbbTNulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJQ4oXEi0kqS4pk9OkOLJZCLw6%2FgKORPlX8inzBe%2FlYbdMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0ECIeXbNnXjpAjeh2wYXd8ZfJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNPpXH9YXtY71I%2FmDyoN%2Bpd3EI%2BKvKdvv9PTarIbCHQb%2BBvMA%2Fekmj%2BTZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696084@212cb236_148e_1a1a09e30e4_3e5a@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459617936960837841005e0a6c&amp;srItem=1&amp;e=2xg3ifuWnnqlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJvyVLMOhfbh26a7qoFS0UKR7uFd3HP%2FHX%2FRs0yDOomvpMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0ECIeXbNnXjpAjeh2wYXd8ZfJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNPpXH9YXtY71I%2FmDyoN%2Bpd3EI%2BKvKdvv9PTarIbCHQb%2BBvMA%2Fekmj%2BTZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696083@2108aae2_1468_1a1a09e2f88_0c79@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150461617936960846013320e0d6a&amp;srItem=1&amp;e=VNx5FyRsGF2lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJrh9szo5O0K2Fy76wlUfCFpCQGLv8nH4EY7FtXWfOhaVMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0vTQjwUQ9bJNfBFY7lkdbIZfJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgNiaRtMZw9eYxXlNOJ18pjatPp7zdI0na2Lqvq%2BaOeAYhikaedkMOwcTZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696084@0be36ad6_1443_1a1a09e32c7_16b3@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459217936960851066983e0b95&amp;srItem=1&amp;e=62ZKKfGIOXqlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ6lRJuT%2BLVjvr2EDOQtviOBIJf4IrIYHUnX%2F8ByPR0XaoEsTcTfXACppXG7uWOch0wp9d3J5hNULyMW3eIAWKRa6LeGhgJY%2B%2FSofK3keA%2BsiAXu1UvuMv8FlrT93Io4ew9QFBenBVKLO5zHp%2F7J47CwJvhFCTE4y8X85egIYjQd0JCvcT6J8E5nCsWDkYzSVqWTeNfhdiKhBxp0liOGkEEgRKGiDeDrHuMzn1lhmKcZQ%2F7XT4W3BSuNcVGp50PYxEDNEY2ILwuh6uTmgRnC%2FRkkwNBUbTsArs&amp;union_lens=lensId:TAPI@1793696085@0bb405a1_14a3_1a1a09e34bd_0596@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045d717936960855646089e0bc7&amp;srItem=1&amp;e=%2BvsHB6x79DOlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJhQENZvwFDPHRHm7Zxhtbqxuy6VVMDoRMi4%2FSgaoU%2B2JMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0NKHDg6zkqbdesdIkAueW%2F5fJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgN2mT4bRoR3CZ0sBdXb6EJFuJTZhoNllPZuztLShPMI1sH5DPrv03HKDZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696085@210474bb_14d9_1a1a09e3687_dae0@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=215042cb17936960859988009e0c5b&amp;srItem=1&amp;e=8BfNWQjl1sSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ%2F9nzraFKIJTdJxV4NL0cJTb7lKbkTgoDbIeof%2Fbg1ZRMxqsDsQuKH4rh9wPG2wIHRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0NKHDg6zkqbdesdIkAueW%2F5fJ5p8swbwPP9TAkcs04IrVgtS%2BKa5gJRHtR5M9fhgN2mT4bRoR3CZ0sBdXb6EJFmeCicA%2F2QmiyAq3xLRbwrAH5DPrv03HKDZEBuWGZyqP9QFBenBVKLMklsAvKTug%2FOd6sJUdYiEwrKnBSIv2Wb2qe%2BSu%2F8jq%2BCUzVkkdwsIm&amp;union_lens=lensId:TAPI@1793696086@2166c47e_1459_1a1a09e3834_9901@01\"   data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/403026/25/7532/105173/69b3ad20Fa3ed2cd4/0083320320a6caae.png\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">哔哩哔哩 大会员 13 个月</span></span><span class=\"card-abstract\">折合 98 元 / 年</span><span class=\"card-controls\"><span class=\"price\">折后 98 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a href=\"https://www.ithome.com/1/020/350.htm\" target=\"_blank\" title=\"京东 WPS 超级会员 3 年卡+ 京东 plus 会员年卡212元（单会员53元/年）领 30 元券\" ><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/452142/12/10150/319114/6a2c991fFe574774c/08ee3203209c4324.png\" w=\"640\" h=\"640\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> WPS 超级会员 3 年卡</span></span><span class=\"card-abstract\"> + 京东 plus 会员年卡</span><span class=\"card-controls\"><span class=\"price\"> 212 元（单会员 53 元 / 年）</span><span class=\"card-btn-deep\">领 30 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egTWL95\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOTl4yt\" data-iosurl=\"https://u.jd.com/eDqA514\" data-androidurl=\"https://u.jd.com/eGTXCok\" data-hosnexturl=\"https://u.jd.com/erT7kR2\" data-hosurl=\"https://u.jd.com/eOTZxjz\" data-uwpurl=\"https://u.jd.com/eaTAfFP\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252ferTkRr1%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://p1.ssl.qhimgs1.com/t010eca56bc1331b141.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">百度网盘 SVIP 超级会员</span></span><span class=\"card-abstract\"> 15 月卡</span><span class=\"card-controls\"><span class=\"price\"> 196 元（约 157 元 / 年）</span><span class=\"card-btn-deep\">领 10 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDTW5jw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egTfr13\" data-iosurl=\"https://u.jd.com/e1q9hKs\" data-androidurl=\"https://u.jd.com/eGTUJDr\" data-hosnexturl=\"https://u.jd.com/eOTxbeW\" data-hosurl=\"https://u.jd.com/e1TZdA5\" data-uwpurl=\"https://u.jd.com/erT7SJJ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOTHEmo%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://p1.ssl.qhimgs1.com/t010eca56bc1331b141.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">百度网盘 SVIP 超级会员年卡</span></span><span class=\"card-abstract\">加赠B站季卡 + 网易云音乐月卡</span><span class=\"card-controls\"><span class=\"price\">券后 176 元</span><span class=\"card-btn-deep\">领 10 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDTkzIq\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eDTWN9i\" data-iosurl=\"https://u.jd.com/eGTAScM\" data-androidurl=\"https://u.jd.com/eDTXrp1\" data-hosnexturl=\"https://u.jd.com/erTHOSG\" data-hosurl=\"https://u.jd.com/eaTUnM3\" data-uwpurl=\"https://u.jd.com/e1TkRBR\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fegTXL4B%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://p5.ssl.qhimgs1.com/t04822c95a5af1d85af.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">剪映 SVIP 会员年卡</span></span><span class=\"card-abstract\">支持电脑端 &nbsp;16.8 元 / 月</span><span class=\"card-controls\"><span class=\"price\">券后 200 元</span><span class=\"card-btn-deep\">领 319 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1TT21o\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1T7UmJ\" data-iosurl=\"https://u.jd.com/eGTc2P7\" data-androidurl=\"https://u.jd.com/eaTkdff\" data-hosnexturl=\"https://u.jd.com/eaTX2YM\" data-hosurl=\"https://u.jd.com/eDTT8a8\" data-uwpurl=\"https://u.jd.com/eDTcycz\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252ferq7D0n%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://p5.ssl.qhimgs1.com/t04822c95a5af1d85af.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">剪映 VIP 会员年卡</span></span><span class=\"card-abstract\"> 6.25 元 / 月</span><span class=\"card-controls\"><span class=\"price\">券后 75 元</span><span class=\"card-btn-deep\">领 113 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaTxulp\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eDTWXot\" data-iosurl=\"https://u.jd.com/egTHSJE\" data-androidurl=\"https://u.jd.com/e1TTDaI\" data-hosnexturl=\"https://u.jd.com/eGTVfhR\" data-hosurl=\"https://u.jd.com/eOTllcv\" data-uwpurl=\"https://u.jd.com/e1TUGmT\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feOTH7BC%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://m.cnr.cn/tech/20171204/W020171204384518929378.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">迅雷超级会员 30 个月</span></span><span class=\"card-abstract\">补贴后 9.93 元 / 月</span><span class=\"card-controls\"><span class=\"price\"> 298 元（约 119 元 / 年）</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/egTkMdx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6TBhJH\" data-iosurl=\"https://u.jd.com/eaTT7HE\" data-androidurl=\"https://u.jd.com/eaTjofN\" data-hosnexturl=\"https://u.jd.com/eOTWYCM\" data-hosurl=\"https://u.jd.com/eGT9HQX\" data-uwpurl=\"https://u.jd.com/e6TjueA\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe6Tpqbz%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://m.cnr.cn/tech/20171204/W020171204384518929378.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">迅雷超级会员 15 个月</span></span><span class=\"card-abstract\">补贴后 10.6 元 / 月</span><span class=\"card-controls\"><span class=\"price\"> 159 元（约 127 元 / 年）</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGT7zBU\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6TEK7i\" data-iosurl=\"https://u.jd.com/eGTVEqo\" data-androidurl=\"https://u.jd.com/eDTcV8F\" data-hosnexturl=\"https://u.jd.com/e1TN9iw\" data-hosurl=\"https://u.jd.com/e1TRCgf\" data-uwpurl=\"https://u.jd.com/eaTf4dS\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feGTWb4t%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/401783/39/15531/26662/69b3ad00F2b858410/0083320320357966.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">爱奇艺黄金 VIP 会员年卡</span></span><span class=\"card-abstract\">加赠京东 PLUS 会员年卡</span><span class=\"card-controls\"><span class=\"price\"> 168 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1TvJAK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eDTZzW8\" data-iosurl=\"https://u.jd.com/eGTpXz3\" data-androidurl=\"https://u.jd.com/e1TSnV5\" data-hosnexturl=\"https://u.jd.com/eDTPhd1\" data-hosurl=\"https://u.jd.com/eDTNupz\" data-uwpurl=\"https://u.jd.com/egTP8Dw\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feDTckb0%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/erTTb2p\" data-lpwxurl=\"https://u.jd.com/eGTEHi4\"   data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/400002/22/20865/24203/69b3b048F71f3f66a/00833203204e3bd0.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">爱奇艺白金 VIP 会员年卡</span></span><span class=\"card-abstract\">支持电视端 赠京东 PLUS 年卡</span><span class=\"card-controls\"><span class=\"price\">券后 248 元</span><span class=\"card-btn-deep\">领 20 元券</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6T93cq\" target=\"_blank\" data-wapurl=\"https://u.jd.com/erTjmRN\" data-iosurl=\"https://u.jd.com/egTAbOX\" data-androidurl=\"https://u.jd.com/eDTBIw8\" data-hosnexturl=\"https://u.jd.com/e6TWdW1\" data-hosurl=\"https://u.jd.com/eaTRq5l\" data-uwpurl=\"https://u.jd.com/erTET12\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fegTkMVW%26EA_PTAG%3d17078.27.380\" data-ncid=\"263674\"><span class=\"card main-site\"><span class=\"card-logo\"><img",
+      "link": "https://www.ithome.com/1/021/649.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/649.htm"
+    },
+    {
+      "id": 4359,
+      "title": "DeepSeek 网页 / API 服务出现部分中断，官方正在排查",
+      "summary": "IT之家 11 月 3 日消息，据IT之家小伙伴反馈，DeepSeek 今日下午出现服务故障，提示“服务器繁忙，请稍后重试”。 DeepSeek 官方状态页面显示，今日（11 月 3 日）16:58，DeepSeek 网页 / API 出现部分中断，官方正在排查问题。 对话服务、DeepSeek V4 Pro 和 V4.1 Flash 的 API 服务均出现问题，大家可以耐心等待一下。",
+      "content": "<p data-vmark=\"4d21\">IT之家 11 月 3 日消息，据IT之家小伙伴反馈，DeepSeek 今日下午出现服务故障，提示“<strong>服务器繁忙，请稍后重试</strong>”。</p><p style=\"text-align: center;\" data-vmark=\"b6d2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c8b1abbd-43a6-4b33-b325-3ae78d6cf7e6.jpg?x-bce-process=image/format,f_auto\" w=\"427\" h=\"266\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d132ed0a68dfdeb043ca893f104fca5ad5fb7f6a251c9c4cc54c00d99c5132e2737282d0601810586c\" data-vmark=\"99f4\" class=\"no-alt-img\"></p><p data-vmark=\"5407\">DeepSeek 官方状态页面显示，今日（11 月 3 日）16:58，<strong>DeepSeek 网页 / API 出现部分中断</strong>，官方正在排查问题。</p><p data-vmark=\"61d4\">对话服务、DeepSeek V4 Pro 和 V4.1 Flash 的 API 服务均出现问题，大家可以耐心等待一下。</p><p style=\"text-align: center;\" data-vmark=\"d19f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e427c45c-0ddd-4b34-8dfb-2e255d519846.jpg?x-bce-process=image/format,f_auto\" w=\"878\" h=\"1215\" data-weibo=\"1\" data-mpos=\"2,2\"  data-vmark=\"0a60\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/648.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/648.htm"
+    },
+    {
+      "id": 4360,
+      "title": "消息称开源软件开发商 SUSE 在全球范围内裁员 10%",
+      "summary": "IT之家 11 月 3 日消息，英媒 The Register 在其当地时间昨日的报道中表示，根据其掌握的 SUSE 内部邮件，该企业同日表示计划在全球范围内裁员 10%。 这家企业服务器与云开源软件开发商当前约有 1,900 名员工。SUSE 已在今年 9 月进行了自愿离职意向征集。 SUSE 表示，自动化和人工智能正从根本上改变其运营方式，现有组织架构和成本结构正成为其进一步发展的阻力，对部分岗位的实际需求已大幅减少。SUSE 称此次裁员反映的是组织需求的变化，而不是员工",
+      "content": "<p data-vmark=\"dad1\">IT之家 11 月 3 日消息，英媒 The Register 在其当地时间昨日的报道中表示，根据其掌握的 SUSE 内部邮件，<strong>该企业同日表示计划在全球范围内裁员 10%</strong>。</p><p data-vmark=\"af69\">这家企业服务器与云开源软件开发商当前约有 1,900 名员工。SUSE 已在今年 9 月进行了自愿离职意向征集。</p><p data-vmark=\"3c41\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/13cf5e0c-c69d-44d0-b5fa-f0ec9eb4c842.jpg?x-bce-process=image/format,f_auto\" w=\"600\" h=\"240\" data-weibo=\"0\"  data-vmark=\"f485\" class=\"no-alt-img\"></p><p data-vmark=\"bd2e\">SUSE 表示，自动化和人工智能正从根本上改变其运营方式，<strong>现有组织架构和成本结构正成为其进一步发展的阻力</strong>，对部分岗位的实际需求已大幅减少。SUSE 称此次裁员反映的是组织需求的变化，而不是员工的才能或奉献精神。</p>",
+      "link": "https://www.ithome.com/1/021/647.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/647.htm"
+    },
+    {
+      "id": 4361,
+      "title": "联想加入终端快充行业协会，全面深度参与 UFCS 融合快充标准建设",
+      "summary": "IT之家 11 月 3 日消息，FCA 终端快充行业协会（广东省终端快充行业协会）今日官宣，联想（北京）有限公司（以下简称“联想”）正式宣布加入 FCA 终端快充行业协会。 此次携手，标志着联想将全面深度参与 UFCS 融合快充标准建设、产业协同与技术落地工作，依托自身全场景智能硬件产业优势，助力国内终端快充行业标准化、规模化、高质量发展。 联想旗下选件业务覆盖氮化镓充电器、快充数据线、扩展坞、移动储能设备等快充配套产品，长期为笔记本、平板、智能外设提供一体化充电方案。 FC",
+      "content": "<p data-vmark=\"5e94\">IT之家 11 月 3 日消息，FCA 终端快充行业协会（广东省终端快充行业协会）今日官宣，联想（北京）有限公司（以下简称“联想”）正式宣布加入 FCA 终端快充行业协会。</p><p data-vmark=\"7309\">此次携手，标志着联想将全面深度参与 <strong>UFCS 融合快充标准建设、产业协同与技术落地工作</strong>，依托自身全场景智能硬件产业优势，助力国内终端快充行业标准化、规模化、高质量发展。</p><p data-vmark=\"6b42\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/38631154-ad6c-4ce4-a375-71d51647580d.jpg\" w=\"899\" h=\"895\" data-weibo=\"0\" data-vmark=\"a911\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1f079e9447ccedcc2f1fd9c5e1c6affe87dcc329e6ce45ed2abcc809036c1776aaa10f3c7812add60\" class=\"no-alt-img\"></p><p data-vmark=\"b844\">联想旗下选件业务覆盖氮化镓充电器、快充数据线、扩展坞、移动储能设备等快充配套产品，长期为笔记本、平板、智能外设提供一体化充电方案。</p><p data-vmark=\"bd79\">FCA 终端快充行业协会是国内快充标准化核心平台，重点推进 UFCS 融合快充协议规模化普及，搭建产业链交流、资源整合、创新赋能一体化平台。</p><p data-vmark=\"8a4f\">FCA 终端快充行业协会表示，联想的加入，进一步丰富协会会员生态，<strong>补齐 PC 与智能外设产业链关键环节</strong>，强化上下游资源聚合效应，具备多重行业价值。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"12ef\">其一，联想将深度参与 UFCS 标准迭代、兼容性测试与行业规范的完善，输出 PC 端快充技术经验，推动笔记本、办公外设纳入统一快充生态，解决跨设备充电兼容难题，减少冗余充电设备，践行绿色低碳发展。</p></li><li><p data-vmark=\"1676\">其二，协会将依托联想全场景硬件优势，打通芯片、终端、外设、检测全链条协同，加速融合快充标准在办公设备、便携储能等全新场景落地。</p></li><li><p data-vmark=\"0f95\">其三，借助联想全球化产业布局，助力国产 UFCS 标准走向国际，提升中国快充技术全球话语权。</p></li></ul><p data-vmark=\"b513\">IT之家查询了解到，FCA 终端快充行业协会目前包含 83 家成员，包括大家熟悉的华为、OPPO、vivo、荣耀、魅族、安克、公牛、倍思、酷态科、绿联、品胜等。</p><p style=\"text-align: center;\" data-vmark=\"5393\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c087bfa1-4cb0-40f6-89d6-ad335e5fd9d2.jpg?x-bce-process=image/format,f_auto\" w=\"768\" h=\"7872\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"c4a7\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/645.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/645.htm"
+    },
+    {
+      "id": 4362,
+      "title": "消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序",
+      "summary": "IT之家 11 月 3 日消息，据虎嗅今日消息，腾讯即将发布一款面向 C 端用户的 AI 搜索引擎，界面采用极简设计、全面 AI 化，强化权威信源排序，会将 AI 问答与网页搜索揉在同一体验里。 IT之家从原报道获悉，腾讯已在两周前针对 B 端客户发布“元宝搜索”（前身为联网搜索），其在内部业务低调运行数年。 据腾讯内部人士透露，这款 C 端搜索引擎与元宝 App 内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同",
+      "content": "<p data-vmark=\"921e\">IT之家 11 月 3 日消息，据虎嗅今日消息，腾讯即将发布一款面向 C 端用户的 AI 搜索引擎，界面采用极简设计、全面 AI 化，强化权威信源排序，<strong>会将 AI 问答与网页搜索揉在同一体验里</strong>。</p><p data-vmark=\"1b5e\">IT之家从原报道获悉，腾讯已在两周前针对 B 端客户发布“元宝搜索”（前身为联网搜索），其在内部业务低调运行数年。</p><p data-vmark=\"ee38\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6ab8f3e5-8788-4651-b7b4-e1e3ec877f4f.png\" w=\"1080\" h=\"735\" data-weibo=\"0\" data-vmark=\"8854\" class=\"no-alt-img\"></p><p data-vmark=\"6a90\">据腾讯内部人士透露，这款 C 端搜索引擎与元宝 App 内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同入口下的产品化呈现。</p><p data-vmark=\"083a\">目前元宝搜索提供 Skill、MCP 和 API 三种接入方式，凭邀请码限时在 10 月、11 月最高可调用 6000 次；接入流程也简单：在腾讯云拿到 API Key，打开终端敲一条 curl 命令即可发起请求。</p><p data-vmark=\"df97\">据悉，腾讯直到现在才把这套能力升级成云服务对外卖的原因在于，<strong>百度稳坐国内搜索头把交椅已超二十年</strong>；腾讯兜兜转转十余年，做过 SOSO、收购搜狗、上线微信搜一搜、再到元宝 App，始终没在 C 端撕开实质性缺口。<strong>如今腾讯借着 Agent 爆发的东风</strong>，<strong>自然会对 B 端搜索基础设施摩拳擦掌</strong>。</p><p data-vmark=\"cb18\">据了解，元宝搜索团队 2024 年年中与元宝 APP 同步组建，整合了 QQ 浏览器、搜狗搜索的核心技术基因，把腾讯十余年的搜索算法积累与工程经验，重构为一套面向 AI 时代的搜索基础设施。</p><p data-vmark=\"f111\">在此之前，这套能力只服务于 QQ 浏览器和搜狗：前者曾长期是超级流量入口，后者稳居第二梯队。如今 Agent 赛道爆发，搜索正从面向 C 端的产品入口，下沉为所有 AI 应用的底层能力，标准化搜索 API 的需求快速扩容。</p><p data-vmark=\"82c6\">基于此，腾讯不再满足于只服务内部客户和存量客户，顺势将元宝搜索升级为云服务对外变现。</p><p data-vmark=\"4478\">据新浪科技报道，<strong>腾讯官方对上述传闻暂无回应</strong>。</p>",
+      "link": "https://www.ithome.com/1/021/643.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/643.htm"
+    },
+    {
+      "id": 4363,
+      "title": "LG 新能源扩大北美电池产能，抢 AI 数据中心储能大单",
+      "summary": "IT之家 11 月 3 日消息，韩国 LG 新能源（LG Energy Solution Ltd.）计划扩大北美储能电池的产能，抓住人工智能数据中心带来的旺盛需求。 LG 新能源首席财务官李昌植（Chang Sil Lee）在周二的财报电话会议上表示，公司预计今年年底软包储能系统产能将超过 50 吉瓦时，并计划在明年把产能提升至 70 吉瓦时以上。 本次扩产体现出，在电动汽车市场增速放缓的背景下，LG 新能源正发力储能赛道。为支撑 AI 业务而大规模新建的数据中心，为电池厂商",
+      "content": "<p data-vmark=\"6972\">IT之家 11 月 3 日消息，韩国 LG 新能源（LG Energy Solution Ltd.）计划扩大北美储能电池的产能，抓住人工智能数据中心带来的旺盛需求。</p><p data-vmark=\"1aed\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/8/ad12d902-5f5c-4dce-8d8e-3b30d4cb761c.jpg\" w=\"800\" h=\"533\" data-weibo=\"0\" data-vmark=\"1393\" class=\"no-alt-img\"></p><p data-vmark=\"aaf6\">LG 新能源首席财务官李昌植（Chang Sil Lee）在周二的财报电话会议上表示，公司预计今年年底软包储能系统产能将超过 50 吉瓦时，并计划在明年把产能提升至 70 吉瓦时以上。</p><p data-vmark=\"21e3\">本次扩产体现出，在电动汽车市场增速放缓的背景下，LG 新能源正发力储能赛道。为支撑 AI 业务而大规模新建的数据中心，为电池厂商打开了新市场；同时美国推动本土供应链建设，也有利于在当地设厂的电池企业。</p><p data-vmark=\"1d1a\">李昌植介绍，LG 新能源第三季度储能系统（ESS）在手订单规模达到 160 吉瓦时。公司正和电力企业、超大型数据中心运营商洽谈新项目，有望收获更多订单。今年 9 月，LG 新能源作为储能系统供应商，加入了英伟达公司的 DSX Ready 计划。</p><p data-vmark=\"0b4f\">这位高管还提到，这家韩国企业准备在 2027 年上半年实现磷酸铁锂 2170 圆柱电池的量产。同时公司正在加快钠离子电池技术研发，计划今年年底在梧仓工厂产出储能系统样品，并于 2027 年向北美客户交付测试产品。</p><p data-vmark=\"5aea\">李昌植称，为满足美国针对受限境外主体的相关管控要求，LG 新能源正将正极、负极和电解液的供应商进行多元化布局。公司还通过和加拿大、美国供应商签订长期协议，保障锂资源的本土供应。</p><p data-vmark=\"bee6\">LG 新能源第三季度营收为 9.6 万亿韩元<span class=\"exch-money-value \">（IT之家注：现汇率约合 479.42 亿元人民币）</span>，营业利润 7,560 亿韩元<span class=\"exch-money-value \">（现汇率约合 37.75 亿元人民币）</span>，含少数股东损益的净亏损为 2,969 亿韩元<span class=\"exch-money-value \">（现汇率约合 14.83 亿元人民币）</span>。公司股价下跌近 5%，连续第二个交易日走低。</p>",
+      "link": "https://www.ithome.com/1/021/642.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/642.htm"
+    },
+    {
+      "id": 4364,
+      "title": "曝字节跳动视频生成模型 Seedance 海外收入占比已达 50%，腾讯、B站是国内大客户",
+      "summary": "IT之家 11 月 3 日消息，据《智能涌现》今日爆料，字节跳动旗下视频生成模型 Seedance 的海外收入占比已达到 50%。 报道援引接近火山引擎人士消息称，过去半年，Seedance 在海外市场的收入增长近 5 倍。目前，海外已经成为 Seedance 模型的重要战场。 知情人士透露，从 Token 消耗和贡献收入来看，腾讯位列 Seedance 中国区客户前三，B站则进入前十 —— 头部互联网企业正在规模化采购 Seedance。 综合IT之家此前报道，9 月 27",
+      "content": "<p data-vmark=\"8864\">IT之家 11 月 3 日消息，据《智能涌现》今日爆料，字节跳动旗下视频生成模型 <strong>Seedance 的海外收入占比已达到 50%</strong>。</p><p data-vmark=\"8cfc\">报道援引接近火山引擎人士消息称，过去半年，<strong>Seedance 在海外市场的收入增长近 5 倍</strong>。目前，海外已经成为 Seedance 模型的重要战场。</p><p data-vmark=\"b1b7\">知情人士透露，从 Token 消耗和贡献收入来看，<strong>腾讯</strong>位列 Seedance 中国区客户前三，<strong>B站</strong>则进入前十 —— 头部互联网企业正在规模化采购 Seedance。</p><p data-vmark=\"94d2\">综合IT之家此前报道，9 月 27 日，在第十届平遥国际电影展期间，<a href=\"https://www.ithome.com/1/007/867.htm\" target=\"_blank\">火山引擎正式发布 Seedance 影视合作计划</a>，将面向全球专业影视项目提供 Token 补贴、宣发资源及技术与工具支持，<strong>单个项目激励最高可达百万人民币</strong>。</p><p data-vmark=\"d980\">10 月 23 日，<a href=\"https://www.ithome.com/1/017/078.htm\" target=\"_blank\">火山引擎正式发布 <span class=\"wx_search_keyword_wrap\">Seedance 2.5 4K</span></a><span class=\"wx_search_keyword_wrap\">，通过专项训练，Seedance 2.5 4K 更充分地学习了人物表情、细微动作与画面细节，是 Seedance 2.5 这一代中最强的模型。</span></p><p style=\"text-align: center;\" data-vmark=\"325b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/26db2afe-c19a-4283-b645-e5147633eb81.jpg?x-bce-process=image/format,f_auto\" w=\"597\" h=\"335\" data-weibo=\"0\" data-vmark=\"118c\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/021/637.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/637.htm"
+    },
+    {
+      "id": 4365,
+      "title": "AOC 预热“AGP277UZD”27 英寸显示器：RGB 排列 4K 240Hz / FHD 480Hz 双模 WOLED、光线传感器 + 10W 扬声器",
+      "summary": "IT之家 11 月 3 日消息，AOC 现已在天猫上架“AGP277UZD”27 英寸显示器，该机主打 4K 240Hz / FHD 480Hz 双模，将于 11 月 7 日发售。 天猫爱攻“AGP277UZD”显示器价格未公布直达链接 该机配备 RGB 排列 Primary RGB Tandem 2.0 串联结构 WOLED 面板，支持以 3840x2160 分辨率 240Hz 或 1920x1080 分辨率 480Hz 显示，显示器 HDR 峰值亮度 1000 尼特，覆盖",
+      "content": "<p data-vmark=\"6937\">IT之家 11 月 3 日消息，AOC 现已在天猫上架“AGP277UZD”27 英寸显示器，该机主打 4K 240Hz / FHD 480Hz 双模，将于 11 月 7 日发售。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=215046de17936946774187192e0a5e&amp;srItem=1&amp;e=UPojxgOn98elhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLvLIWtjF9uuocHV8HL6duBFeShHkNKL88CVy%2BgkP3ZTcB8ymfSV%2BtlOUaqBWY2VZvDfQuKtIh%2FB1yBOK%2B8KjzSsa1jpueNohd4pjtu38nF6LhLSYhyv7XyxL%2BQ6CoAov4%2BMUwzxYlSKFDy9dwU5aH9VGFPIwCkrMVRV6p%2BYfKYJaZNVnwn%2BFJVijdfAKMf4s7JSDAi30qQ2rVpgz6HpQyFC4jFPFYDBXKl8SlxnzaPt2eBDpo96nUNH13Rt0woVGfqnvkrv%2FI6vglM1ZJHcLCJg%3D%3D&amp;union_lens=lensId:TAPI@1793694677@2146bd3b_1ef5_1a1a088b9eb_09d8@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150467c17936946779221926e0aaf&amp;srItem=1&amp;e=T5hAa6Btf3SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLpIIFqebf9gklQoi%2FNlqGBZaEkd9Cj3VyaoTuRVVWBO%2BqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjDCxKrLF7ntYWYMn24TtOI0liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjuUuZsb6u4E1X1ON2ekjrhJJo28uvDek1Xoxa7Z5dBiq5%2Fy2CR2JzCj00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694677@212cc21e_1467_1a1a088bbea_9f16@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459617936946784171601e0b7f&amp;srItem=1&amp;e=HBzh6QKyJCilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLxk%2BeBis4XAzRPvIJA2%2F5MjDKkVnPwveNZ97hiUiyByqqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjNQWkjs5jvpj2yYeSclbqOMliK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjhafwmuOEmLsMQOfTGNzfqMpWs5y1ULdlsTq%2BnuvRZWiP2I8wUAFu4T00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694678@213c96df_144c_1a1a088bdd5_4bad@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ac17936946788808737e0c9e&amp;srItem=1&amp;e=ypjRwGjDRWOlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL82cr4jAF03wqphUjRdp6lSoiTdxQ9HLZKUZmhTmdsHuqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjPdicDFq3jJPEWFIg7HBuf8liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjhkQfGDcHP1MFS3WFyrow5onnX34kpA7VeOA7O34FiaLlTk4mTD%2Bx%2FH00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694678@2136718f_1428_1a1a088bf92_75c6@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?traceId=2150469c17936946796751120e0da8&amp;srItem=1&amp;e=P%2Feyylf02palhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL1bB8%2BiEMtFBHJLe3VNOfAJUwqCYA43M35lFurlAvFJWqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjBAiHl2zZ146jbIB8M0hEHcliK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjoErbrmrhH70Y2fdQqRe3t3q1goa4Ij7HKGTLVJ2cXEnzG0Y1cbGomn00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694679@213e71e2_1486_1a1a088c2b0_3f0f@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150463417936946793206346e0c24&amp;srItem=1&amp;e=aqaEujSlH1KlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL82cr4jAF03ycDXI7We5%2B75aNJVBlr9fOJ0JCeI6UN3gB8ymfSV%2BtlOUaqBWY2VZvDfQuKtIh%2FB1yBOK%2B8KjzSkp21NkPFST4MofuYpzO2DXhLSYhyv7XyxL%2BQ6CoAov4%2BMUwzxYlSKFDy9dwU5aH9TAwaXb40BW%2FjF6q6ZbIFO4z2T67d41gv8mAgx3H238ZuX0%2BjnoJekbVpgz6HpQyFC4jFPFYDBXKl8SlxnzaPt2eBDpo96nUNH13Rt0woVGfqnvkrv%2FI6vglM1ZJHcLCJg%3D%3D&amp;union_lens=lensId:TAPI@1793694679@21077362_148d_1a1a088c15c_1eab@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465e17936946801312695e0bfc&amp;srItem=1&amp;e=yx9ssy9BUNClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLL%2B5h6MKAlr2kIoTgRXgJkzTZgRNFHh0NO3o7YVtFMCuqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjL00I8FEPWyT9AhSi7fLbv4liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjg7KFj%2BOWJN9i7hV7K%2FX2yx7JDqhDQetg7wk8kAkp%2BpFs56lZBcT2iX00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694680@216606ac_1436_1a1a088c489_5fb2@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045a417936946806216639e0b83&amp;srItem=1&amp;e=ZeEeqjISkoylhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL1HKhzLgZ9V5LeN6cVfnbAW6ujpIKKGNr3xpAWMs0ChCqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjCPewe6wqfZcF2Zxz4M7BJ0liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjlszB92IZKmtgeGEU8l4hZjfqVXwwmX5oFONgaJzr0ox%2FHrqTX6dfcb00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694680@0bb7749a_1477_1a1a088c673_7ed6@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465617936946811096087e0ae6&amp;srItem=1&amp;e=FFjsGt%2BlWBelhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL1HKhzLgZ9V6CkUkSPRX%2FWyu1%2FIP04OEtGdIX%2Fwprvg%2BqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjDShw4Os5Km3WYMn24TtOI0liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjubpDOCYB%2Blu6PDMcAUqFSyfgPdLp7KS7DxHnIhXYbwHzoHSqD7BdUH00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694681@212c3be0_144b_1a1a088c853_d9a7@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045a717936946815344793e0ddc&amp;srItem=1&amp;e=L82gDA%2FOrOilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLODYTKYf6gvYEXXfd3OuOgEy0Pe4DAUvuhQs2RBer5qmqsSQFweR0jN6nNrBb91FDmrybL0hIhCok7BbPIUYUjDShw4Os5Km3WYMn24TtOI0liK2VtSz%2Bvlz%2F%2BMB5hGCXh1s25f8J3MUSFeXo5GTdjubpDOCYB%2BluMQOfTGNzfqPeSCPGGC4OSDxHnIhXYbwHzoHSqD7BdUH00u9BUae2A6KzlzPQvJe7Baj3InudSXNqhI1tq3vu5SSZKREwzjeUoxsBuf1JtEuie%2FpBy9wBFg%3D%3D&amp;union_lens=lensId:TAPI@1793694681@0b0b70e8_1445_1a1a088c9fe_be3d@01\"  data-ncid=\"263684\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/i2/1660731674/O1CN019qWTIhNSjNG1chua_!!4611686018427379994-0-item_pic.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">爱攻“AGP277UZD”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">价格未公布</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"4870\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/59e3e50e-5aa9-4f06-8455-f97d3c0e69c9.png\" w=\"700\" h=\"1212\" data-weibo=\"0\" data-vmark=\"5c32\" class=\"no-alt-img\"></p><p data-vmark=\"bd23\">该机配备 RGB 排列 Primary RGB Tandem 2.0 串联结构 WOLED 面板，支持以 3840x2160 分辨率 240Hz 或 1920x1080 分辨率 480Hz 显示，显示器 HDR 峰值亮度 1000 尼特，覆盖 99% DCI-P3 和 100% sRGB 色域。显示器带有 AR 增透膜，同时使用石墨烯散热。</p><p data-vmark=\"b66f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4e99e962-edc7-4852-971e-e4b8e1c912a5.png\" w=\"600\" h=\"1240\" data-weibo=\"1\" data-vmark=\"ea74\" class=\"no-alt-img\"></p><p data-vmark=\"2469\">该机支架支持升降 / 倾斜 / 旋转，带有光线传感器和 10W 扬声器，显示器背面提供了 RGB 氛围灯，本体提供 DP 2.1、HDMI 2.1、USB-C 98W、USB-A 3.2 Gen 1 接口。</p><p data-vmark=\"1a40\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/95845f49-9615-46f8-b062-662f0e253bb0.png\" w=\"684\" h=\"822\" data-weibo=\"2\" data-vmark=\"ee3e\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/021/635.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/635.htm"
+    },
+    {
+      "id": 4366,
+      "title": "联想推出“战 27UZ”27 英寸显示器：4K 200Hz/1080P 400Hz 双模 Mini LED，2199 元",
+      "summary": "IT之家 11 月 3 日消息，联想现已在京东上架“战 27UZ”27 英寸显示器，该机主打 4K 200Hz/1080P 400Hz 双模，定价为 2199 元。 京东联想战 27UZ 显示器 2199 元直达链接 该机配备的 1152 分区 Mini LED 背光 Fast IPS 面板支持以 4K@200Hz/1080P@400Hz 双模显示，其最快响应时间可达 1ms GTG 以及 0.5ms MPRT，SDR 最高亮度可达 450 尼特（TYP），HDR 最高亮度可",
+      "content": "<p data-vmark=\"cb43\">IT之家 11 月 3 日消息，联想现已在京东上架“战 27UZ”27 英寸显示器，该机主打 4K 200Hz/1080P 400Hz 双模，定价为 2199 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eGTPqKb\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOTgSml\" data-iosurl=\"https://u.jd.com/e6Tpul8\" data-androidurl=\"https://u.jd.com/eaTlV1r\" data-hosnexturl=\"https://u.jd.com/egTPg9n\" data-hosurl=\"https://u.jd.com/eDTJpn1\" data-uwpurl=\"https://u.jd.com/egTPj21\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1TP5Eh%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eGTPzB3\" data-lpwxurl=\"https://u.jd.com/erT0ygo\"  data-ncid=\"263678\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/548918/15/6828/18455/6adef228Fc7d800b5/008332032059114e.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">联想战 27UZ 显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2199 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"fd11\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/17525041-840a-43a0-9b51-e7fb20d2b6fb.png?x-bce-process=image/format,f_auto\" w=\"768\" h=\"1182\" data-weibo=\"0\" data-vmark=\"5d3f\" class=\"no-alt-img\"></p><p data-vmark=\"28dc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b1aad4e1-ba32-477c-b7ad-bbdd9e8cb6c6.png?x-bce-process=image/format,f_auto\" w=\"606\" h=\"1306\" data-weibo=\"1\" data-vmark=\"b7e7\" class=\"no-alt-img\"></p><p data-vmark=\"f4dd\">该机配备的 1152 分区 Mini LED 背光 Fast IPS 面板支持以 4K@200Hz/1080P@400Hz 双模显示，其最快响应时间可达 1ms GTG 以及 0.5ms MPRT，SDR 最高亮度可达 450 尼特（TYP），HDR 最高亮度可达 900 尼特（TYP），HDR 峰值亮度可达 1600 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 95% DCI-P3 色域。</p><p data-vmark=\"b60f\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.1、1 个 DP 1.4、1 个 USB-C 65W、2 个 USB-A 3.2 Gen 1、1 个 3.5mm 音频接口。</p><p data-vmark=\"5f86\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2dd14be3-50b5-485c-b134-955832a028da.png?x-bce-process=image/format,f_auto\" w=\"628\" h=\"734\" data-weibo=\"2\" data-vmark=\"4b86\" class=\"no-alt-img\"></p><p data-vmark=\"6775\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7d61cfcd-c346-41c3-be4f-614011821452.png?x-bce-process=image/format,f_auto\" w=\"630\" h=\"1362\" data-weibo=\"3\" data-vmark=\"21a6\" class=\"no-alt-img\"></p><p data-vmark=\"e7bf\">IT之家附显示器参数：</p><p data-vmark=\"2c5e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7df34b43-4e83-4056-b9bd-6f7ff88876fe.png?x-bce-process=image/format,f_auto\" w=\"648\" h=\"1060\" data-weibo=\"4\" data-vmark=\"123d\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/021/630.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/630.htm"
+    },
+    {
+      "id": 4367,
+      "title": "鸿蒙智行问界新 M8 内饰设计细节曝光：全车配备近 17 米超长氛围灯带、4 组环抱光岛",
+      "summary": "IT之家 11 月 3 日消息，问界汽车官方微博今日公开了鸿蒙智行问界新 M8 旗舰 SUV 的内饰设计细节。据介绍，新车内饰以“浮光菱影”为核心设计语言，全车配备近 17 米超长氛围灯带、4 组环抱光岛，并搭配有经典菱格纹设计。 据IT之家此前报道，鸿蒙智行问界新 M8 将于 11 月 13 日上市，搭载华为乾崑智驾 ADS 5 系统，预售价 38.98 万元起。目前华为官网已公开问界新 M8 选配信息，分 Max / Max+ 和 Ultra 三个版本、增程 / 纯电两种",
+      "content": "<p data-vmark=\"5e1d\">IT之家 11 月 3 日消息，问界汽车官方微博今日公开了鸿蒙智行问界新 M8 旗舰 SUV 的内饰设计细节。据介绍，新车内饰以“浮光菱影”为核心设计语言，<strong>全车配备近 17 米超长氛围灯带、4 组环抱光岛</strong>，并搭配有经典菱格纹设计。</p><p data-vmark=\"0b09\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6db009ce-3b61-4836-afbf-d5c0a71e04f7.jpg\" w=\"1100\" h=\"12840\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d112934ff20ade13fef8c3f02cdac52ea29300278fda7f841da98bfb0f0a3ec3cedb7991bbfd3156c4\" data-vmark=\"6223\"></p><p data-vmark=\"8686\">据IT之家此前报道，<strong>鸿蒙智行问界新 M8 将于 11 月 13 日上市</strong>，搭载华为乾崑智驾 ADS 5 系统，预售价 38.98 万元起。目前华为官网已公开问界新 M8 选配信息，分 Max / Max+ 和 Ultra 三个版本、增程 / 纯电两种动力形式、五座 / 六座车内布局（纯电可选后驱和四驱）。</p><h3 data-vmark=\"daf5\">问界新 M8 Max</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"aa33\">全系 L3 级架构 | 四激光雷达</p></li><li><p data-vmark=\"b613\">巨鲸电池 | 双腔双阀 | 六活塞定钳</p></li><li><p data-vmark=\"15c5\">800V 平台 | 增程 56 度电池</p></li></ul><h3 data-vmark=\"6860\">问界新 M8 Max+</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"4722\">L3 级架构 | 四激光雷达 | 巨鲸电池</p></li><li><p data-vmark=\"2e47\">800V 平台 | 增程 56 度电池 | 纯电 100 度电池</p></li><li><p data-vmark=\"5e30\">二排右侧零重力座椅（六座）</p></li></ul><h3 data-vmark=\"32ad\">问界新 M8 Ultra</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8d52\">800V 平台 | 增程 56 度电池 | 纯电 120 度电池</p></li><li><p data-vmark=\"77f0\">后轮转向 | 21 英寸后排柔光娱乐屏</p></li><li><p data-vmark=\"2e92\">智慧电动门 | 华为悦彰音响卓越系列</p></li></ul><p data-vmark=\"e2d5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ae42a2e3-5643-486a-829a-01e652824fa6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-mpos=\"2,2\"  data-vmark=\"6d4c\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"ce03\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5030\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/021/628.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/628.htm"
+    },
+    {
+      "id": 4368,
+      "title": "硕一推出麻雀 V2 机箱：短风道紧凑极简风格设计、可选黑白双色，94 元起",
+      "summary": "IT之家 11 月 3 日消息，硕一宣布推出麻雀 V2 机箱，该机箱采用紧凑型极简风格设计，提供黑白配色可选，其中黑色版本定价为 94 元，白色版本定价为 104 元。 京东硕一麻雀 V2 机箱 94 元直达链接 该机箱整体尺寸为 275 x 165 x 369mm，体积约 16L，支持 Mini-ITX 和 Micro-ATX 规格的主板。I/O 接口位于机箱前部，提供 1 个 USB-A 3.0、1 个 USB-A 2.0、一个 USB-C 接口、一个 3.5mm 插孔。",
+      "content": "<p data-vmark=\"7318\">IT之家 11 月 3 日消息，硕一宣布推出麻雀 V2 机箱，该机箱采用紧凑型极简风格设计，提供黑白配色可选，其中黑色版本定价为 94 元，白色版本定价为 104 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaTBnsv\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOTlX5T\" data-iosurl=\"https://u.jd.com/erTPiXe\" data-androidurl=\"https://u.jd.com/eDTE7cA\" data-hosnexturl=\"https://u.jd.com/eGTl1eX\" data-hosurl=\"https://u.jd.com/e6Tgevj\" data-uwpurl=\"https://u.jd.com/e6TDz1m\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe6TvX4L%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eDT2UAh\" data-lpwxurl=\"https://u.jd.com/erTW16C\"   data-ncid=\"263676\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/554156/2/4368/48776/6ae048a1F1000287d/0083320320170ee4.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">硕一麻雀 V2 机箱</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 94 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"aa9d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ac45563b-7a1c-4adc-a68a-4b4c062a0446.png?x-bce-process=image/format,f_auto\" w=\"688\" h=\"1502\" data-weibo=\"0\" data-vmark=\"788f\" class=\"no-alt-img\"></p><p data-vmark=\"2f62\">该机箱整体尺寸为 275 x 165 x 369mm，体积约 16L，支持 Mini-ITX 和 Micro-ATX 规格的主板。I/O 接口位于机箱前部，提供 1 个 USB-A 3.0、1 个 USB-A 2.0、一个 USB-C 接口、一个 3.5mm 插孔。</p><p style=\"text-align: center;\" data-vmark=\"cfdd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/68c5ec67-1a49-4efd-8b72-4a88ddb12e2d.png?x-bce-process=image/format,f_auto\" w=\"682\" h=\"1534\" data-weibo=\"1\" data-vmark=\"0609\" class=\"no-alt-img\"></p><p data-vmark=\"5f8a\">该机箱提供 4 个全高 PCI 扩展槽；CPU 散热器限高 140mm；显卡限长 250mm（前板安装硬盘厚减小至 220mm）；支持 ATX 电源，采用下置安装结构。硬盘方面支持安装 1 块 3.5 英寸硬盘和 2 块 2.5 英寸硬盘。</p><p style=\"text-align: center;\" data-vmark=\"ea5c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2ad1eba8-9df4-4b8d-9643-153e5885d6b7.png?x-bce-process=image/format,f_auto\" w=\"626\" h=\"1534\" data-weibo=\"2\" data-vmark=\"0ff3\" class=\"no-alt-img\"></p><p data-vmark=\"d1b4\">该机箱最多可安装 2 把风扇，其中前面板可安装一把 120mm 风扇，后部可安装一把 90mm 风扇，本身散热能力更适合甜点级显卡。</p><p style=\"text-align: center;\" data-vmark=\"c0b2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1255e93d-b1be-4e2f-bf16-8cb0f00816ae.png?x-bce-process=image/format,f_auto\" w=\"678\" h=\"914\" data-weibo=\"3\" data-vmark=\"8fbb\" class=\"no-alt-img\"></p><p data-vmark=\"05bf\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"d4de\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c5ddae2b-1cb8-47ac-b836-13f2095233ad.png?x-bce-process=image/format,f_auto\" w=\"680\" h=\"1324\" data-weibo=\"4\" data-vmark=\"6364\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/021/627.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/627.htm"
+    },
+    {
+      "id": 4369,
+      "title": "华硕海外推出 ProArt PA329CDV 显示器：32 英寸 4K 120Hz QD-OLED 面板，899 欧元",
+      "summary": "IT之家 11 月 3 日消息，华硕现已在海外市场推出 ProArt PA329CDV 显示器。新品采用 32 英寸 QD-OLED 面板，支持 4K 120Hz 高刷，定价 899 欧元（IT之家注：现汇率约合 6,700 元人民币）。 据介绍，这款显示器的分辨率为 3840*2160，刷新率 120Hz，支持 VRR（可变刷新率）并具备 HDMI 2.1 接口，可连接各类游戏主机。SDR 模式下最高亮度为 300nits，HDR 峰值亮度可达 1000nits。 同时，该",
+      "content": "<p data-vmark=\"66d0\">IT之家 11 月 3 日消息，华硕现已在海外市场推出 ProArt PA329CDV 显示器。新品采用 32 英寸 QD-OLED 面板，支持 4K 120Hz 高刷，定价 899 欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,700 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"4775\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b9648e83-ae0e-4df2-b63e-58997b504b88.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"0\" data-vmark=\"d968\" class=\"no-alt-img\"></p><p data-vmark=\"cf84\">据介绍，这款显示器的分辨率为 3840*2160，<strong>刷新率 120Hz</strong>，<strong>支持 VRR（可变刷新率）并具备 HDMI 2.1 接口</strong>，可连接各类游戏主机。SDR 模式下最高亮度为 300nits，HDR 峰值亮度可达 1000nits。</p><p style=\"text-align: center;\" data-vmark=\"16ae\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/73c6f6c9-3cc0-4b36-adf0-2c59867b23e8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1440\" data-weibo=\"1\" data-vmark=\"7725\" class=\"no-alt-img\"></p><p data-vmark=\"b8cf\">同时，该显示器面板覆盖耐刮擦防眩光涂层，能够减少屏幕反光。覆盖 99% DCI-P3 和 BT.2020 色域，带有出厂校色。苹果 Mac 用户可通过 DisplayWidget Center 应用，使用键盘上的亮度键调整屏幕亮度。</p><p style=\"text-align: center;\" data-vmark=\"6f83\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/aa9322d2-b413-48b4-a421-d06ef89af3b8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"921\" data-weibo=\"2\" data-vmark=\"d545\" class=\"no-alt-img\"></p><p data-vmark=\"e8a7\">此外，<strong>该显示器还带有 2 个 DisplayPort 1.4 接口和 1 个 USB-C 接口</strong>，后者最高支持 96W 反向供电，并提供 3 个 USB-A 接口和 1 个 USB-C 接口。</p>",
+      "link": "https://www.ithome.com/1/021/624.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/624.htm"
+    },
+    {
+      "id": 4370,
+      "title": "新型“郊狼”反无人机系统问世：升级固体火箭发动机，可提升飞行速度",
+      "summary": "IT之家 11 月 3 日消息，制造商雷神公司（Raytheon）宣布推出新型“郊狼（Coyote）”反无人机系统“ Coyote Block 2C+RM”，与此前采用涡轮喷气发动机的型号不同，新型号改用固体火箭发动机，并升级了导引头和战斗部分，以提高拦截速度和作战能力。 “郊狼”反无人机系统最早于 2000 年代问世，最初由美国亚利桑那州图森市的 Advanced Ceramic Research 公司开发，是一款采用发射管发射的小型无人机。雷神公司于 2015 年收购上述",
+      "content": "<p data-vmark=\"d5ac\">IT之家 11 月 3 日消息，制造商雷神公司（Raytheon）宣布推出新型“郊狼（Coyote）”反无人机系统“ Coyote Block 2C+RM”，与此前采用涡轮喷气发动机的型号不同，新型号改用固体火箭发动机，并升级了导引头和战斗部分，以提高拦截速度和作战能力。</p><p style=\"text-align: center;\" data-vmark=\"7e77\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/66caa4ca-f336-4040-9c1f-a96f3d654563.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"815\" data-weibo=\"0\" data-vmark=\"de91\" class=\"no-alt-img\"></p><p data-vmark=\"5b00\">“郊狼”反无人机系统最早于 2000 年代问世，最初由美国亚利桑那州图森市的 Advanced Ceramic Research 公司开发，是一款采用发射管发射的小型无人机。雷神公司于 2015 年收购上述公司，并将相关技术纳入自身产品体系。</p><p data-vmark=\"af18\">据介绍，早期 Block 1 型号采用螺旋桨动力和可折叠机翼。后续推出的 Block 2 则转型为专用反无人机拦截平台，采用火箭助推器辅助发射，并配备小型涡轮喷气发动机维持飞行，使其能够以每小时数百公里的速度追踪目标。即使首次拦截失败，该型号也可以继续留空，寻找机会再次攻击。</p><p data-vmark=\"1401\">而此次推出的 Block 2C+RM 则取消了原有的火箭助推器与涡轮喷气发动机组合，<strong>改用单台固体火箭发动机</strong>。雷神公司陆基与防空系统部门总裁 Tom Laliberty 向媒体表示，新动力系统能够提供“升级后的推进能力，实现更快发射和更高飞行速度”。不过，他没有公布具体速度数据。对于新型号的射程变化，他仅表示提升幅度“相当显著”。</p><p data-vmark=\"c824\">采用固体火箭发动机也意味着续航能力有所取舍。涡轮喷气发动机能够让拦截无人机持续飞行数分钟，并在首次攻击失败后重新调整航线；固体火箭发动机则会在短时间内燃烧完毕，无法提供同等的持续动力。雷神公司强调，火箭动力版本是 Coyote 产品线的补充，而非替代品，目前没有停止生产涡轮喷气发动机版本 Block 2 的计划。</p><p data-vmark=\"3b42\">对于升级后的导引头和战斗部，雷神公司称“这套新组件能够更有效地应对对手正在部署的先进无人机技术”，不过该公司暂未公开具体技术细节，理由是合作方要求对相关信息保密。</p><p data-vmark=\"a7de\">目前，“郊狼”反无人机系统已经成为雷神公司的重要业务。2025 年 9 月，美国陆军向 RTX 授予一份为期 8 年、总价值最高约 50 亿美元的合同，用于采购 Coyote 拦截无人机、发射装置及雷达，作为陆军低空综合防空系统（LIDS）反无人机计划的一部分。《Defense Daily》报道称，过去 18 个月内，Block 2 型号的产量已经增长至原来的约 4 倍。此前公开报道显示，单架 Coyote 拦截系统的价格约为 10 万美元。</p><p data-vmark=\"7d3a\">从行业竞争来看，反无人机市场正逐渐转向以更低成本应对日益复杂的空中威胁。雷神公司当前的思路是继续控制“郊狼”反无人机系统的外部采购成本，同时通过升级动力系统提高拦截速度，实现“薄利多销”。</p>",
+      "link": "https://www.ithome.com/1/021/622.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/622.htm"
+    },
+    {
+      "id": 4371,
+      "title": "摩根士丹利 CEO：未来十年 AI 领域资本支出或达 10 万亿-15 万亿美元",
+      "summary": "IT之家 11 月 3 日消息，据《英文虎报》今天报道，摩根士丹利董事长兼 CEO 泰德・皮克（Ted Pick）在第五届国际金融领袖投资峰会表示，未来 10 年，AI 领域的资本支出可能需要 10 万亿至 15 万亿美元（IT之家注：现汇率约合 66.65 万亿至 99.98 万亿元人民币），推动 GDP 增长 50 至 70 个基点。 皮克指出，AI 基础设施建设融资，是涉及多个环节的复杂依存关系，例如前沿 AI 实验室、芯片制造商、基础设施建设企业及能源供应商。 高盛董",
+      "content": "<p data-vmark=\"3b05\">IT之家 11 月 3 日消息，据《英文虎报》今天报道，摩根士丹利董事长兼 CEO 泰德・皮克（Ted Pick）在第五届国际金融领袖投资峰会表示，未来 10 年，<strong>AI 领域的资本支出可能需要 10 万亿至 15 万亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 66.65 万亿至 99.98 万亿元人民币）</span></strong>，推动 GDP 增长 50 至 70 个基点。</p><p data-vmark=\"0de1\">皮克指出，AI 基础设施建设融资，是涉及多个环节的复杂依存关系，例如前沿 AI 实验室、芯片制造商、基础设施建设企业及能源供应商。</p><p data-vmark=\"fe85\">高盛董事长兼 CEO 戴维・所罗门（David Solomon）谈到市场对 AI 泡沫破裂的担忧时表示，市场对算力的需求仍然超过供应，未来很大一部分价值将来自应用层。</p><p data-vmark=\"8b4a\">而皮克则将 AI 发展与 1999 年至 2000 年、2001 年、2003 年、2006 年和 2008 年的历次技术发展周期进行比较。他指出周期性市场调整是非常健康的，能够形成一道担忧之墙。他提醒市场技术发展可能超前于原定计划，也可能落后于预期。<strong>部分项目的资本结构并不完善</strong>，<strong>可能经不起时间考验</strong>，但这都是创新者困境的一部分。</p>",
+      "link": "https://www.ithome.com/1/021/616.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/021/616.htm"
+    },
+    {
+      "id": 4372,
+      "title": "Grab a huge $1,229 saving on this 18-inch Alienware gaming laptop with an RTX 5070",
+      "summary": "Grab a $1,229 saving on this Alienware Area 51 gaming laptop right now with an RTX 5070 and 32GB DDR5.",
+      "content": "<article>\n                                <p>There's an eye-catching saving of $1,229 available right now on an RTX 5070 gaming laptop, thanks to Woot.<a href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\"> This 18-inch Alienware Area-51 gaming laptop is down to $2,449.99</a>, a 33% saving that makes it a steal in the current market.</p><p>● <a href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\">Grab this gaming laptop deal at Woot!</a></p><p>While the specs aren't easily found on the page, the images on the listing do confirm the RAM and storage you're getting with this laptop. For the CPU, it's the Intel Core Ultra 9 275HX. It's a 24-core powerhouse with eight performance cores and 16 efficiency cores, with a max boost clock speed of 5.4 GHz. </p><p>This is a high spec laptop CPU that'll ensure no bottlenecks at the highest resolutions. It's also used in a couple of our <a href=\"https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptops\">best gaming laptop</a> picks, including the best choice overall, the Razer Blade 18.</p><div class=\"product star-deal\"><a data-dimension112=\"594bb9de-d775-11f1-bca6-8b9053c81340\" data-action=\"Star Deal Block\" data-label=\"Area-51 gaming laptop (RTX 5070)\" data-dimension48=\"Area-51 gaming laptop (RTX 5070)\" data-dimension25=\"$2449.99\" href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:588px;\"><p class=\"vanilla-image-block\" style=\"padding-top:75.00%;\"><img id=\"BvfJnTzfCM59MRbnkZeiMD\" name=\"Area-51 gaming laptop (RTX 5070)\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/BvfJnTzfCM59MRbnkZeiMD-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"588\" height=\"441\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"594bb9de-d775-11f1-bca6-8b9053c81340\" data-action=\"Star Deal Block\" data-label=\"Area-51 gaming laptop (RTX 5070)\" data-dimension48=\"Area-51 gaming laptop (RTX 5070)\" data-dimension25=\"$2449.99\">Area-51 gaming laptop (RTX 5070): was $3679 now $2449.99</a></strong><br />A powerful 18-inch gaming laptop with 300Hz LCD display  for gaming at 1600p. It ships with the 24-core Intel Core Ultra 9 275HX, Nvidia GeForce RTX 5070, 32GB DDR5, and a 1TB SSD.<a class=\"view-deal button\" href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"594bb9de-d775-11f1-bca6-8b9053c81340\" data-action=\"Star Deal Block\" data-label=\"Area-51 gaming laptop (RTX 5070)\" data-dimension48=\"Area-51 gaming laptop (RTX 5070)\" data-dimension25=\"$2449.99\">View Deal</a></p></div><p>This is a laptop, so the display you're getting here is important. You're getting an 18-inch LCD display with a whopping 300Hz refresh rate. The top resolution on this panel is 2,560 x 1,600, and the specs in this build should mean you're able to use the highest graphics presets when playing at 1600p. This model is rated for 500 nits of brightness, too.</p><p>To play games at 1600p, though, you're going to need to take advantage of this Alienware laptop's Nvidia GeForce RTX 5070 mobile GPU. It's not as powerful as the desktop equivalent, shipping with 8GB of GDDR7 VRAM and 4,608 CUDA cores. This GPU will make light work of gaming at 1600p, especially coupled with the 275HX.</p><p>The image carousel also confirms that you're getting 32GB of DDR5, dual channel across two modules, and rated for speeds of 6,400 MT/s. There's also a 1TB NVMe M.2 SSD included for storage, offering Gen 4 speeds, with enough capacity for a few big games alongside Windows. You also get dual USB-C Thunderbolt ports, rated for 40 Gbps for data transfer and display output, as well as an HDMI 2.1 port, 2.5Gb Ethernet, and a headphone jack. Wi-Fi 7 and Bluetooth 5.4 connectivity is included, and there's also an SD card slot if you need it, too.</p><p>The<a href=\"https://computers.woot.com/offers/alienware-18-area-51-gaming-laptop-4\"> $2,449.99 sale price for this 18-inch Alienware Area-51 gaming laptop</a> is one that won't last very long. This Woot deal is set to run out within 7 days, but the stock could well go before then. If you want an RTX 5070 gaming laptop from Dell's premium gaming brand with a huge $1,229 discount, grab this deal while you can.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd1-229-saving-on-this-18-inch-alienware-gaming-laptop-with-an-rtx-5070-area-51-machine-packs-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd-for-usd2-449-99",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "TDHbkfys3Djw5TZjyoiitH"
+    },
+    {
+      "id": 4373,
+      "title": "Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks",
+      "summary": "Nick Saraev says Amazon closed his account after canceling Nvidia DGX Spark orders; Tim Sweeney reports canceled orders after a GPU buy.",
+      "content": "<article>\n                                <p>AI creator Nick Saraev <a href=\"https://x.com/nicksaraev/status/2116916521368981687\">says on X</a> that Amazon closed his account after he tried to buy seven Nvidia DGX Spark AI mini-PCs. The closure email cites a verification process and gives no reason. Epic CEO Tim Sweeney chimed in that his regular orders would go through, then get canceled before arrival, after he tried to buy two GPUs.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2116916521368981687\"><p lang=\"en\" dir=\"ltr\">Update: Amazon just closed my account.Buying even modest amounts of compute immediately puts you on a watchlist. Be careful!<a href=\"https://twitter.com/cantworkitout/status/2116916521368981687\">November 1, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>Saraev puts it plainly that “Amazon just closed my account” and that “Buying even modest amounts of compute immediately puts you on a watchlist.” He was “4 orders deep,” and Amazon will no longer allow him to buy DGX Sparks.</p><p>The shared screenshots indicate those orders were all canceled, with each stating, “Your order was canceled. You have not been charged for this order.” Although he does not give a unit count, the screenshots indicate he tried to buy seven DGX Sparks in total. All show the same listing, with 128GB of memory and 4TB of storage.</p><p>Amazon’s support account did respond to his earlier post, about three hours before his closure post, offering a review. The shared email shows that Amazon had “made the final decision” to close his account after review; no reason was given. However, it did mention “previous attempts to verify your account,” and he says he did go through the verification process, but seven DGX Sparks is a significant amount that might draw suspicion. Either way, Amazon’s Conditions of Use reserve the right to “refuse service, terminate accounts” or “cancel orders in its sole discretion.”</p><p>He’s not alone in running into trouble with the company. Sweeney says that “Amazon didn’t cancel my account but continued accepting all my regular orders and canceling them just prior to arrival dates, after I tried to buy two NVIDIA GPUs. Rather bizarre.” Nvidia GPUs are often used for local inference. Saraev replied that everyone would “appreciate a bit more transparency.”</p><p>Also, in September, Dracones89 on the Nvidia developer forum shared that one Amazon account was hit with “suspicious activity locks” while trying to buy a pair of Asus GX10s; the user ended up with two DGX Sparks from Micro Center instead. Another X user, @PurzBeats, wrote, “They canceled the order when I tried to buy my 5090, twice.” This is a different trajectory than the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks\">OpenClaw days of Mac minis</a>, when buyers faced long delivery waits rather than canceled orders or closed accounts.</p><p>With local inference remaining of high interest to many, particularly AI influencers, the event is potentially disturbing, especially after <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">recent comments about self-owned DRAM</a> by OpenAI CEO Sam Altman. While this time it was a guy who helps entrepreneurs and small businesses implement AI and claims 500K on YouTube and 700K on Instagram, the slope is slippery, although Saraev’s orders are hardly typical.</p><p>The 128GB DGX Spark has an <a href=\"https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims\">MSRP of $6,950</a>, but it may be found at 20% or more over that: two Amazon listings showed $8,499.99 and $9,499.99 when we checked today, which would put seven at roughly $59,500 to $66,500. Both showed Prime delivery tomorrow, so the hardware is still on sale there.</p><p>Hardware has been climbing in price, largely due to <a href=\"https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999\">rising memory costs</a>. As open-weight models have become more popular, so has local AI inference. The combination may make retailers uneasy, as you’re dealing with high ticket prices and there has been uncertainty about the safety of models as they have improved, with <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time\">open-source AI agent tools</a> reportedly being used in multiple recent cybersecurity incidents.</p><p>Micro Center, a different retailer, required one buyer to sign an <a href=\"https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us\">Advanced Computing Product Purchaser Declaration</a> with photo ID, end user, and an install location, just for a workstation with an RTX 5090. This form specifically forbade exporting or reselling the hardware, which might give a little insight into Amazon’s reasoning, too. Amazon’s conditions also say customers “must comply with all U.S. or other export and re-export restrictions.” China and the U.S. remain locked in a fight over <a href=\"https://www.tomshardware.com/tech-industry/us-senators-want-to-suspend-nvidia-ai-chip-export-licenses-to-china-and-its-intermediaries-bipartisan-letter-to-commerce-dept-says-that-huangs-claims-of-no-chip-diversion-were-contradicted-by-reporting-available\">exports of AI hardware</a>.</p><p>Amazon hasn’t explained itself, but the attention this is getting may motivate a more detailed response. Right now, it’s a warning signal to users looking to buy significant amounts of hardware for AI work, at least from traditional online retailers. Brick-and-mortar stores, like Micro Center, may crack down further to prevent workarounds designed to export the hardware illegally.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "KkShFotJUNSWvDQwoKqse6"
+    },
+    {
+      "id": 4374,
+      "title": "NVIDIA GeForce RTX 50-Series Scheduled for a Price Hike This Week, Up to $500",
+      "summary": "NVIDIA's GeForce RTX 50-Series \"Blackwell\" gaming graphics cards are expected to see significant price adjustments this week. According to Chinese ChannelGate, add-in card (AIC) partners have confirmed that price hikes are scheduled due to ",
+      "content": "NVIDIA's GeForce RTX 50-Series &quot;Blackwell&quot; gaming graphics cards are expected to see significant price adjustments this week. According to Chinese ChannelGate, add-in card (AIC) partners have confirmed that price hikes are scheduled due to the ongoing demand for these GPUs outstripping supply. Some major AIC partners, like Colorful and Galax, have reportedly already started sharing information about these price increases. The most significant example is expected to be for SKUs based on NVIDIA's GeForce RTX 5090 DV2, which will see an increase of up to 3,300 RMB, translating to nearly $500. Even entry-level GPUs are not exempt, as the GeForce RTX 5060 is expected to see around a $30 price increase on existing models. These changes are anticipated to be implemented this week for retail partners, meaning that consumer prices might take a week or two to reflect the new listing prices.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/CIASCL6wLXlk8ceH.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/CIASCL6wLXlk8ceH_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> </div>Below is the list of price hikes in China, expected to be the norm everywhere.<div class=\"readmore\"><a href=\"https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-a-price-hike-this-week-up-to-usd-500\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354427/nvidia-geforce-rtx-50-series-scheduled-for-a-price-hike-this-week-up-to-usd-500",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "9bddad2479f07157a65f3e825d519b4c"
+    },
+    {
+      "id": 4376,
+      "title": "Compact Vzmore AX9 Max Mini PC tested: Latest AMD APU impresses in AAA games",
+      "summary": "The Vzmore AX9 Max is a compact Mini PC with an excellent metal chassis and the AMD Ryzen AI 9 HX 470 APU under the hood. Thanks to 12 Zen 5 CPU cores and a Radeon 890M iGPU, the Vzmore AX9 proves to be a superb Mini PC for gaming.",
+      "content": "The Vzmore AX9 Max is a compact Mini PC with an excellent metal chassis and the AMD Ryzen AI 9 HX 470 APU under the hood. Thanks to 12 Zen 5 CPU cores and a Radeon 890M iGPU, the Vzmore AX9 proves to be a superb Mini PC for gaming.",
+      "link": "https://www.notebookcheck.net/Compact-Vzmore-AX9-Max-Mini-PC-tested-Latest-AMD-APU-impresses-in-AAA-games.1440894.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Compact-Vzmore-AX9-Max-Mini-PC-tested-Latest-AMD-APU-impresses-in-AAA-games.1440894.0.html"
+    },
+    {
+      "id": 4377,
+      "title": "Asus crams a Radeon RX 9060 XT into a tiny box — then cuts its speed nearly in half",
+      "summary": "Asus has packed a desktop Radeon RX 9060 XT into a tiny external GPU enclosure, but the compact design comes at a significant cost. Its 75 W power limit cuts clock speeds by nearly half compared with reference specifications, while a 40 Gbp",
+      "content": "Asus has packed a desktop Radeon RX 9060 XT into a tiny external GPU enclosure, but the compact design comes at a significant cost. Its 75 W power limit cuts clock speeds by nearly half compared with reference specifications, while a 40 Gbps USB-C connection adds another potential performance bottleneck.",
+      "link": "https://www.notebookcheck.net/Asus-crams-a-Radeon-RX-9060-XT-into-a-tiny-box-then-cuts-its-speed-nearly-in-half.1440899.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Asus-crams-a-Radeon-RX-9060-XT-into-a-tiny-box-then-cuts-its-speed-nearly-in-half.1440899.0.html"
+    },
+    {
+      "id": 4378,
+      "title": "Affordable Intel-powered Teclast mini PC launches globally with eGPU support",
+      "summary": "Teclast, a brand known for its affordable tablets, has introduced an Intel Wildcat Lake mini PC called the N30 Pro. It's not exactly a new system, since the hardware matches that of the Ninkear Mbox 18 and Morefine M9 Pro, but it's still a ",
+      "content": "Teclast, a brand known for its affordable tablets, has introduced an Intel Wildcat Lake mini PC called the N30 Pro. It's not exactly a new system, since the hardware matches that of the Ninkear Mbox 18 and Morefine M9 Pro, but it's still a solid budget-friendly pick.",
+      "link": "https://www.notebookcheck.net/Affordable-Intel-powered-Teclast-mini-PC-launches-globally-with-eGPU-support.1440874.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Intel-powered-Teclast-mini-PC-launches-globally-with-eGPU-support.1440874.0.html"
+    },
+    {
+      "id": 4379,
+      "title": "Casio's new keyboard listens to your music and corrects your notes as you play",
+      "summary": "Casio's Casiotone CT-FS1 is a $399.99, 61-key keyboard based on the CT-S1 that uses a companion app and the bundled WU-BT10 Bluetooth adapter to shift a player's notes into harmony with a song in real time. It comes in all-black or all-whit",
+      "content": "Casio's Casiotone CT-FS1 is a $399.99, 61-key keyboard based on the CT-S1 that uses a companion app and the bundled WU-BT10 Bluetooth adapter to shift a player's notes into harmony with a song in real time. It comes in all-black or all-white finishes.",
+      "link": "https://www.notebookcheck.net/Casio-s-new-keyboard-listens-to-your-music-and-corrects-your-notes-as-you-play.1440879.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Casio-s-new-keyboard-listens-to-your-music-and-corrects-your-notes-as-you-play.1440879.0.html"
+    },
+    {
+      "id": 4380,
+      "title": "Intel Arc B580 could face RTX 5090-like fate as AI GPUs take priority",
+      "summary": "Intel's Arc B580 could reportedly be discontinued as the company prioritizes more profitable workstation and AI inference graphics cards. The rumour echoes recent reports about Nvidia allegedly redirecting GB202 production away from the GeF",
+      "content": "Intel's Arc B580 could reportedly be discontinued as the company prioritizes more profitable workstation and AI inference graphics cards. The rumour echoes recent reports about Nvidia allegedly redirecting GB202 production away from the GeForce RTX 5090, although neither company has confirmed such a reallocation.",
+      "link": "https://www.notebookcheck.net/Intel-Arc-B580-could-face-RTX-5090-like-fate-as-AI-GPUs-take-priority.1440812.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Intel-Arc-B580-could-face-RTX-5090-like-fate-as-AI-GPUs-take-priority.1440812.0.html"
+    },
+    {
+      "id": 4381,
+      "title": "Bosgame's new Gorgon Halo mini PC with 192 GB RAM undercuts rivals as pre-orders begin",
+      "summary": "Bosgame has opened pre-orders for its flagship M5 Max AI mini PC at an introductory price of $6,199, undercutting comparable Gorgon Halo systems from GMKtec, Acemagic and Minisforum. The workstation combines AMD's Ryzen AI Max+ Pro 495 with",
+      "content": "Bosgame has opened pre-orders for its flagship M5 Max AI mini PC at an introductory price of $6,199, undercutting comparable Gorgon Halo systems from GMKtec, Acemagic and Minisforum. The workstation combines AMD's Ryzen AI Max+ Pro 495 with 192 GB of unified memory and 2 TB of storage.",
+      "link": "https://www.notebookcheck.net/Bosgame-s-new-Gorgon-Halo-mini-PC-with-192-GB-RAM-undercuts-rivals-as-pre-orders-begin.1440760.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Bosgame-s-new-Gorgon-Halo-mini-PC-with-192-GB-RAM-undercuts-rivals-as-pre-orders-begin.1440760.0.html"
+    },
+    {
+      "id": 4382,
+      "title": "RTX 5070 gaming PC with 32GB of DDR5 RAM scores $400 discount",
+      "summary": "Deal | The PowerSpec G536 is currently available with a $400 discount at Micro Center, thanks to which you can score it for $1,599.99. This gaming PC features the RTX 5070, Ryzen 5 7500X3D, and more.",
+      "content": "Deal | The PowerSpec G536 is currently available with a $400 discount at Micro Center, thanks to which you can score it for $1,599.99. This gaming PC features the RTX 5070, Ryzen 5 7500X3D, and more.",
+      "link": "https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html"
+    },
+    {
+      "id": 4383,
+      "title": "GTA 6 leak in PS App chat reportedly leads to PlayStation account ban",
+      "summary": "The PS App may be one of the riskiest places to share leaked GTA 6 gameplay videos. A Reddit user claims a friend is facing a permanent PSN suspension after posting a clip. Sony has implemented more automated monitoring to detect violations",
+      "content": "The PS App may be one of the riskiest places to share leaked GTA 6 gameplay videos. A Reddit user claims a friend is facing a permanent PSN suspension after posting a clip. Sony has implemented more automated monitoring to detect violations during chats.",
+      "link": "https://www.notebookcheck.net/PlayStation-reportedly-bans-account-for-GTA-6-leak-shared-in-PS-App-messaging.1440431.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/PlayStation-reportedly-bans-account-for-GTA-6-leak-shared-in-PS-App-messaging.1440431.0.html"
+    },
+    {
+      "id": 4384,
+      "title": "Motorola Signature 27 hands-on video surfaces ahead of launch",
+      "summary": "A promotional hands-on video showcases the Motorola Signature 27 ahead of launch, highlighting a 6.8-inch tandem OLED display, a reported 2nm Snapdragon processor and a 200MP periscope camera. The key highlight, however, is the smartphone's",
+      "content": "A promotional hands-on video showcases the Motorola Signature 27 ahead of launch, highlighting a 6.8-inch tandem OLED display, a reported 2nm Snapdragon processor and a 200MP periscope camera. The key highlight, however, is the smartphone's supposed peak brightness of 12,000 nits.",
+      "link": "https://www.notebookcheck.net/Motorola-Signature-27-hands-on-video-surfaces-ahead-of-launch.1440272.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-03",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Motorola-Signature-27-hands-on-video-surfaces-ahead-of-launch.1440272.0.html"
+    },
     {
       "id": 4242,
       "title": "罗技再被指用“狗”侮辱用户 同款产品半年二犯",
@@ -1382,6 +2024,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/SteamOS-for-Apple-Macs-is-finally-here-AAA-PC-games-get-tested-on-MacBook-Pro.1439939.0.html"
+    },
+    {
+      "id": 4375,
+      "title": "Need for Speed Underground 2 Gets a Free Browser Port With Multiplayer Free Roam",
+      "summary": "A fan project called Underground 2 Revived lets you play Need for Speed: Underground 2 in a web browser, complete with online free roam. It was released in late October and runs in Chrome and Firefox using WebAssembly and WebGPU, so you jus",
+      "content": "A fan project called <a rel=\"nofollow\" href=\"https://nfsu2.xyz/\" target=\"_blank\">Underground 2 Revived</a> lets you play Need for Speed: Underground 2 in a web browser, complete with online free roam. It was released in late October and runs in Chrome and Firefox using WebAssembly and WebGPU, so you just open the website and play. The project page lists up to 120 FPS in widescreen, controller support, and the ability to race friends, and it's free to play. Several reports suggest thousands of players are now roaming Bayview at the same time, and <a rel=\"nofollow\" href=\"https://x.com/no3ish/status/2116995542685278404\" target=\"_blank\">clips of crowded streets</a> seem to be what pushed the project into the spotlight. <br />\r\n<br />\r\nThe developer, who goes by <a rel=\"nofollow\" href=\"https://github.com/th0mk/nfsu2-web\" target=\"_blank\">th0mk</a>, says they played the game with their brother about 20 years ago and wanted to play together again. The dev also jokes that although the game works &quot;surprisingly well,&quot; it also got a bit out of hand. Of course, this is an unofficial fan project, and the site says it has no affiliation with EA. There has been no comment from the publisher yet, so we don't know how they will react. Either way, a 2004 racer running in a browser tab with that many players online is quite interesting, to say the least. If you want to roam the streets of Underground 2 once again, it is probably wise to jump in sooner rather than later, just in case.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/NYAp2HcL1Nospuos.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/NYAp2HcL1Nospuos_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/UYhexUSPMHG9WZKZ.jpg\" target=\"_blank\" data-width=\"1280\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/UYhexUSPMHG9WZKZ_thm.jpg\" width=\"208\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354422/need-for-speed-underground-2-gets-a-free-browser-port-with-multiplayer-free-roam",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-02",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "dc7a5682fa892211b8ea80b0da1a6211"
     },
     {
       "id": 4170,
