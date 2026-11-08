@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-08",
-  "total": 4827,
+  "total": 4861,
   "list": [
     {
       "id": 4796,
@@ -411,6 +411,500 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/15-3-inch-gaming-laptop-releases-with-2-5K-240Hz-screen-and-10-core-Ryzen-AI-processor.1444742.0.html"
+    },
+    {
+      "id": 4828,
+      "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+      "summary": "美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。美国《纽约时报》的一项调查发现，美国商务部已经批准大约24家中国企业购买或经手H200芯片，但其中部分获批企业的注册地址竟然是无人办公的空置房间，另一些企业则与受到美国制裁的中国半导体供应商及军事相关机构存在联系。这一发现暴露出美国对先进AI芯片出口许可审查机制可能存在的漏洞。 阅读全文",
+      "content": "<p>美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。美国《纽约时报》的一项调查发现，美国商务部已经批准大约24家中国企业购买或经手H200芯片，但其中部分获批企业的注册地址竟然是无人办公的空置房间，另一些企业则与受到美国制裁的中国半导体供应商及军事相关机构存在联系。这一发现暴露出美国对先进AI芯片出口许可审查机制可能存在的漏洞。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585514.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585514.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585514.htm"
+    },
+    {
+      "id": 4829,
+      "title": "台积电被传评估生产3D DRAM的可能 随后重申专注晶圆代工",
+      "summary": "路透社11月6日援引《The Information》报道称，台积电正考虑跨足先进存储器制造，拟研究生产3D DRAM。据两名知情人士透露，这项规划是在英伟达提出需求后启动，目标是让台积电在人工智能硬件供应链中获得更大份额。报道还称，相关工作由负责先进封装业务的副总经理徐国晋主导。 阅读全文",
+      "content": "<p>路透社11月6日援引《The Information》报道称，台积电正考虑跨足先进存储器制造，拟研究生产3D DRAM。据两名知情人士透露，这项规划是在英伟达提出需求后启动，目标是让台积电在人工智能硬件供应链中获得更大份额。报道还称，相关工作由负责先进封装业务的副总经理徐国晋主导。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585504.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585504.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585504.htm"
+    },
+    {
+      "id": 4830,
+      "title": "AMD推出超低价AM5平台套装：锐龙7 7700X3D搭配B650主板和32GB DDR5内存仅售649美元",
+      "summary": "随着DDR5内存价格持续上涨，组装一台新电脑的成本也随之增加。不过，美国零售商Micro Center近日推出了一项颇具吸引力的硬件促销活动：将AMD锐龙7 7700X3D处理器、技嘉B650主板以及32GB DDR5内存组合销售，原价954美元的套装降至649美元，直接优惠304美元。 阅读全文",
+      "content": "<p>随着DDR5内存价格持续上涨，组装一台新电脑的成本也随之增加。不过，美国零售商Micro Center近日推出了一项颇具吸引力的硬件促销活动：将AMD锐龙7 7700X3D处理器、技嘉B650主板以及32GB DDR5内存组合销售，原价954美元的套装降至649美元，直接优惠304美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585502.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585502.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585502.htm"
+    },
+    {
+      "id": 4831,
+      "title": "​黄仁勋反对全面限制对华AI芯片出口 强调美国应以竞争而非退出市场取胜",
+      "summary": "英伟达首席执行官黄仁勋近日公开反对Anthropic首席执行官达里奥·阿莫代伊有关全面禁止向中国出口美国AI芯片和半导体设备的主张。他表示，美国企业应保持技术领先地位，但不应因此放弃全球市场，而应通过竞争来扩大市场份额和创造经济价值。 阅读全文",
+      "content": "<p>英伟达首席执行官黄仁勋近日公开反对Anthropic首席执行官达里奥·阿莫代伊有关全面禁止向中国出口美国AI芯片和半导体设备的主张。他表示，美国企业应保持技术领先地位，但不应因此放弃全球市场，而应通过竞争来扩大市场份额和创造经济价值。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585500.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585500.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585500.htm"
+    },
+    {
+      "id": 4832,
+      "title": "AMD锐龙7 9800X3D价格跌至399美元 创今年新低",
+      "summary": "AMD旗下备受游戏玩家关注的锐龙7 9800X3D处理器近日迎来新一轮降价。美国零售商Newegg通过促销优惠码，将这款处理器的售价从469美元降至399美元，一次性优惠70美元，创下今年以来的最低价格。 阅读全文",
+      "content": "<p>AMD旗下备受游戏玩家关注的锐龙7 9800X3D处理器近日迎来新一轮降价。美国零售商Newegg通过促销优惠码，将这款处理器的售价从469美元降至399美元，一次性优惠70美元，创下今年以来的最低价格。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585498.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585498.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585498.htm"
+    },
+    {
+      "id": 4833,
+      "title": "AI算力有多耗电？中国预计每年新增6000亿度用电量 相当于3个上海",
+      "summary": "AI算力发展越来越快，背后的用电需求也在不断增长。在11月6日国家发展改革委举行的新闻发布会上，国家能源局发展规划司副司长葛炬介绍，“十五五”时期，随着算力等新兴产业快速发展，我国用电需求还将持续增长。预计未来几年，我国每年新增用电量将达到6000亿度左右，相当于每年新增3个上海市的用电量。 阅读全文",
+      "content": "<p>AI算力发展越来越快，背后的用电需求也在不断增长。在11月6日国家发展改革委举行的新闻发布会上，国家能源局发展规划司副司长葛炬介绍，“十五五”时期，随着算力等新兴产业快速发展，我国用电需求还将持续增长。<strong>预计未来几年，我国每年新增用电量将达到6000亿度左右，相当于每年新增3个上海市的用电量。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585482.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585482.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585482.htm"
+    },
+    {
+      "id": 4834,
+      "title": "微软移除了 PC 到 PC 的迁移功能",
+      "summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneDrive。Windows Backup 需要用户登录个人微软账户，将支持的文件夹 Desktop、Documents、Pictures、Videos 和 Music 备份到 One",
+      "content": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneDrive。Windows Backup 需要用户登录个人微软账户，将支持的文件夹 Desktop、Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85827",
+      "source": "Solidot",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85827"
+    },
+    {
+      "id": 4835,
+      "title": "台积电考虑进入内存行业",
+      "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。",
+      "content": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85826",
+      "source": "Solidot",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85826"
+    },
+    {
+      "id": 4836,
+      "title": "当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元",
+      "summary": "IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。 该产品尺寸为 98 x 98 x 21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。 该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机",
+      "content": "<p data-vmark=\"5373\">IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。</p><p style=\"text-align: center;\" data-vmark=\"30d1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b94a8ca5-be5e-4e66-a65c-5b6e6e09eec8.png\" w=\"804\" h=\"1436\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"4d27\"></p><p style=\"text-align: center;\" data-vmark=\"9ee8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/53f5327c-6e31-4fa7-aa83-8435942b5af7.png\" w=\"552\" h=\"1540\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"7185\"></p><p data-vmark=\"51ae\">该产品尺寸为 98 x &nbsp;98 x &nbsp;21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。</p><p style=\"text-align: center;\" data-vmark=\"1ff3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2d80d58e-b18a-426c-a1d4-b98a3ebb3871.png\" w=\"560\" h=\"504\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"60c5\"></p><p data-vmark=\"d046\">该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机身存储空间，具备 8K@24fps 的视频解码能力与 4K@60fps 画面输出能力，并支持 HDR10 与 HDR10+ 技术。机器支持双频 Wi-Fi 6、蓝牙 5.4，运行基于安卓 14 的当贝 OS。</p><p style=\"text-align: center;\" data-vmark=\"c085\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bb2fba7c-bc33-4223-b61c-0b70f8afd4d4.png\" w=\"514\" h=\"1152\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"d2e9\"></p><p data-vmark=\"90ae\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"6e4c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0d92b472-2770-4f43-9a12-f9831509080a.png\" w=\"550\" h=\"1394\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"d223\"></p>",
+      "link": "https://www.ithome.com/1/024/009.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/009.htm"
+    },
+    {
+      "id": 4837,
+      "title": "保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍",
+      "summary": "IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级。不过，此次提升的不是发动机动力，而是车机算力。 保时捷本周发布了新一代保时捷通讯管理系统（PCM），算力最高可达上一代的 5 倍。得益于全新硬件架构，车机启动和应用加载速度更快，同时运行多个应用时也更加流畅。 除了提升响应速度，新系统还增加了多项功能。保时捷把最早搭载于纯电卡宴的数字交互系统引入 911、Taycan、Panamera，以及燃油版、混动版卡宴",
+      "content": "<p data-vmark=\"a152\">IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级。不过，此次提升的<strong>不是发动机动力，而是车机算力</strong>。</p><p data-vmark=\"a496\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/eeb74380-c373-41a4-926b-070c6c833b3c.jpg\" w=\"980\" h=\"552\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"dab6\"></p><p data-vmark=\"56a2\">保时捷本周发布了新一代保时捷通讯管理系统（PCM），算力最高可达上一代的 5 倍。得益于全新硬件架构，<strong>车机启动和应用加载速度更快</strong>，同时运行多个应用时也更加流畅。</p><p data-vmark=\"0cf3\">除了提升响应速度，新系统还增加了多项功能。保时捷把最早搭载于纯电卡宴的数字交互系统<strong>引入 911、Taycan、Panamera</strong>，以及燃油版、混动版卡宴。新界面提供五种主题、可自定义的桌面组件，还能根据车主的实车生成 3D 车辆模型。</p><p data-vmark=\"f91b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6570c75b-1ffc-451e-911a-921f400f14cf.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1082\" data-weibo=\"1\" data-vmark=\"c40d\" class=\"no-alt-img\"></p><p data-vmark=\"b3ac\">对于喜欢在车库里欣赏爱车的保时捷车主来说，以后坐在车里也能好好端详自己的汽车。中控屏可以显示<strong>与实车颜色一致的 3D 模型</strong>，驾驶员不仅能随意旋转查看，还可以直接点击模型调整部分车辆设置。</p><p data-vmark=\"34d7\">保时捷还升级了 AI 语音助手。新一代语音领航基于大语言模型开发，不仅能理解日常口语、回答追问，还能<strong>执行需要多个步骤才能完成的指令</strong>。驾驶员不用松开方向盘，就能通过语音操作导航、娱乐系统、部分车辆功能和兼容应用。</p><p data-vmark=\"0c67\">此外，升级后的导航 + 还能提供<strong> 3D 地图和实时路况信息</strong>。纯电车型的充电规划器还能根据行驶路线安排充电站，并考虑提前为电池调温的需求。</p><p data-vmark=\"2e30\">升级至最新 PCM 系统后，车主可以直接从<strong>保时捷应用中心使用 Apple Music</strong>，兼容的 BOSE 和柏林之声音响系统还支持杜比全景声空间音频。新系统同时改善了手机互联体验，并支持 OTA 软件升级。</p><p data-vmark=\"71df\">据IT之家了解，全新车机系统将逐步应用于新生产的车型，具体搭载情况取决于车型、市场和生产日期。</p>",
+      "link": "https://www.ithome.com/1/024/004.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/004.htm"
+    },
+    {
+      "id": 4838,
+      "title": "奔驰要把屏幕“装”进车玻璃：后挡风能提醒注意路况，侧窗能告诉你汽车电量",
+      "summary": "IT之家 11 月 8 日消息，据外媒 Road&Track 报道，当地时间 3 日，奔驰展示了两项新技术，分别是 Intelligent Display in Glass 车窗智能显示技术和 Holographic Display 全息显示技术。 按照奔驰设想，后挡风玻璃可以显示各种警告标志和交通信息，提醒后方司机。相比能提醒后车减速的普通刹车灯，奔驰的方案还能告诉后车为什么要减速，提示前方发生交通事故、有人过马路等信息。 奔驰为此考虑了两种 LED 技术。Mini LED",
+      "content": "<p data-vmark=\"5e06\">IT之家 11 月 8 日消息，据外媒 Road&amp;Track 报道，当地时间 3 日，奔驰展示了两项新技术，分别是 Intelligent Display in Glass <strong>车窗智能显示</strong>技术和 Holographic Display <strong>全息显示</strong>技术。</p><p data-vmark=\"1c2b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dc520aa2-371e-4fc7-9d57-9cf6d72448b5.jpg\" w=\"980\" h=\"551\" alt=\"9e7f4968-fd60-4cfa-b64d-941af2b9f27d.jpg (980×551)\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"13fb\"></p><p data-vmark=\"c1c4\">按照奔驰设想，后挡风玻璃可以<strong>显示各种警告标志和交通信息</strong>，提醒后方司机。相比能提醒后车减速的普通刹车灯，奔驰的方案还能告诉后车为什么要减速，提示前方发生交通事故、有人过马路等信息。</p><p data-vmark=\"b59a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b6b2ee8a-e720-4dc7-a240-0560d2b3bad0.jpg\" w=\"864\" h=\"576\" alt=\"2e8cf542-41c3-4276-92d8-4d0db3ef2d39.jpg (864×576)\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"4842\"></p><p data-vmark=\"866a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/94d1d70d-c636-4851-85b5-00dafe88cb5a.jpg\" w=\"980\" h=\"654\" alt=\"2cada839-1ca5-4beb-9154-587faf7c0c4c.jpg (980×654)\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"ad16\"></p><p data-vmark=\"ff9a\">奔驰为此考虑了两种 LED 技术。Mini LED 适合<strong>后挡风玻璃等面积较大的显示区域</strong>，分辨率更高的 Micro LED 则适合在<strong>较小的区域显示动画</strong>。</p><p data-vmark=\"1ed5\">奔驰还展示了 Micro LED 在侧窗上的应用。驾驶员可以<strong>通过车窗查看电池电量</strong>，离开车辆时，车窗甚至会<strong>跟你说“再见”</strong>。</p><p data-vmark=\"97da\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dcd0f585-022b-4862-8e12-e88d5b2bf854.jpg\" w=\"980\" h=\"654\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"f909\"></p><p data-vmark=\"f5a3\">IT之家获悉，两种方案都能让显示元件在不工作时，“几乎”隐藏于夹层玻璃中。</p><p data-vmark=\"5b5b\">另一项全息显示技术则相当于 HUD 的升级版。奔驰计划<strong>在仪表台内安装投影仪</strong>，通过前挡风玻璃夹层中的特殊透明薄膜显示图像，投影内容只有从特定角度才能看见，因此驾驶员和副驾驶乘客互相看不到对方一侧的画面。</p><p data-vmark=\"ef5a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/00c9188b-edbd-4f91-8e00-50e9c123b720.jpg\" w=\"980\" h=\"654\" alt=\"16d1fd2e-7825-4c05-966b-195ffb862f4a.jpg (980×654)\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"f9a5\"></p><p data-vmark=\"b9d5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/22df48cc-c32e-4029-b0c2-98d59504bc1e.jpg\" w=\"980\" h=\"654\" alt=\"01c2cb4c-9bea-4f6c-aaf4-3bed71df3810.jpg (980×654)\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-vmark=\"2450\"></p><p data-vmark=\"8c0a\">按照奔驰的设想，副驾驶乘客可以<strong>直接在前挡风玻璃上看电影</strong>，驾驶员则能同时<strong>查看导航信息</strong>。</p><p data-vmark=\"0484\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3c3ee826-4bfb-4c74-852e-019d4ed08a08.jpg\" w=\"980\" h=\"551\" alt=\"1714dd9f-0b80-43a4-9a8f-13547d51063d.jpg (980×551)\" data-weibo=\"6\" class=\"nowebp no-alt-img\" data-vmark=\"b34c\"></p><p data-vmark=\"42b0\">相比普通 HUD，全息显示更有视觉冲击力，效果更<strong>接近家庭影院投影</strong>，不仅能显示完整的彩色画面，清晰度也很高。</p>",
+      "link": "https://www.ithome.com/1/024/002.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/002.htm"
+    },
+    {
+      "id": 4839,
+      "title": "上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》",
+      "summary": "IT之家 11 月 8 日消息，上海交通大学计算机学院 IPADS 实验室陈海波、王肇国团队与化学化工学院、变革性分子前沿科学中心樊春海、王飞团队合作，依托张江高等研究院 DNA 存储研究中心开展研究，成果发表于《自然》（Nature）杂志，并获该刊官网首页头条重点报道。 研究团队构建了 AI 原生科学实验室 AutoDNA 装置（思源一号），实现了自主分子生物学实验操作，通过对模型、实验与仪器进行协同设计，解决了现有 AI 自主科学实验室向分子生物学实验拓展时，在复杂流程组",
+      "content": "<p data-vmark=\"2b0b\">IT之家 11 月 8 日消息，上海交通大学计算机学院 IPADS 实验室陈海波、王肇国团队与化学化工学院、变革性分子前沿科学中心樊春海、王飞团队合作，依托张江高等研究院 DNA 存储研究中心开展研究，<strong>成果发表于《自然》（Nature）杂志</strong>，并获该刊官网首页头条重点报道。</p><p data-vmark=\"751f\"><strong>研究团队构建了 AI 原生科学实验室 AutoDNA 装置（思源一号），实现了自主分子生物学实验操作</strong>，通过对模型、实验与仪器进行协同设计，解决了现有 AI 自主科学实验室向分子生物学实验拓展时，在复杂流程组织、多类仪器协同以及实验时序、环境稳定性和操作精度保障等方面面临的难题，使自主实验能够覆盖需要微米级定位和微升级液体处理的复杂生物分子实验场景。</p><p data-vmark=\"ca8a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/84cd2d1a-6ca0-4039-b6c2-6fca706d8cce.png\" w=\"1440\" h=\"760\" data-weibo=\"0\" data-vmark=\"be6b\" class=\"no-alt-img\"></p><p data-vmark=\"d66b\">据介绍，已有 AI 自主科学实验室通常由专家预先配置仪器、规定实验流程和设定优化规则，再将人工智能接入文献检索、方案生成或数据分析等局部环节。这种“外挂式”架构虽能提升单个环节的效率，却难以适应生物分子实验流程复杂、仪器类型多样，以及对实时执行、环境稳定和操作精度要求严格等特点。为此，<strong>AutoDNA 采用 AI 原生架构，通过模型-实验-仪器协同设计的思路解决上述问题</strong>。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"cff3\"><strong>针对实验流程复杂的问题</strong>，AutoDNA 结合对适用于复杂生物分子操作的实验过程理解，构建了面向实验的多智能体架构。系统将复杂实验任务分解为文献检索、试剂选择、方案设计、代码生成、硬件执行、结果分析和迭代优化等环节，并根据实验进展组织多个专业智能体协同工作，使模型能够贯通“设计 — 实验 — 优化”全过程，并依据实验结果持续迭代调整后续方案。</p></li><li><p data-vmark=\"3dd7\"><strong>针对仪器种类多、跨设备协作困难的问题</strong>，AutoDNA 将各类仪器的能力提炼为适合模型理解和调用的“原子服务”，以自然语言说明和统一代码接口告诉模型每台设备“能做什么、如何调用”。这层抽象屏蔽了不同型号仪器的底层差异，使模型能够根据实验需求组合设备能力，生成、检查和修正跨设备控制代码，将数字世界中的实验设计转化为物理世界中的仪器操作。</p></li><li><p data-vmark=\"936f\"><strong>针对实验对实时性、稳定性和操作精度的严格要求</strong>，AutoDNA 将高精度自动化硬件和实验执行与调度系统相结合。硬件提供微米级定位和微升级液体处理能力，系统则负责程序检查、仪器状态跟踪和资源调度，使多个实验任务在满足时序和操作约束的前提下有序运行。<strong>平台在构建过程中还集成了基于 OpenHarmony 操作系统的控制终端</strong>，并展示了在核酸检测、酶促 DNA 合成、癌症检测等场景中的应用验证。</p></li></ul><p data-vmark=\"5aaa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/233fefd1-81ba-446c-8f70-56896a4fa5ba.jpg\" w=\"1080\" h=\"841\" data-weibo=\"1\" data-vmark=\"7ddd\" class=\"no-alt-img\"></p><figcaption>▲ AutoDNA 自主完成端到端 DNA 存储的编码、写入、保存、读取与解码流程</figcaption><p data-vmark=\"c2dc\">IT之家附论文链接：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e7a6\"><a target=\"_blank\" href=\"https://www.nature.com/articles/s41586-026-11228-6\"><span class=\"link-text-start-with-http\">https://www.nature.com/articles/s41586-026-11228-6</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/024/001.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/001.htm"
+    },
+    {
+      "id": 4840,
+      "title": "消息称字节跳动拟扩大巴西数据中心项目",
+      "summary": "IT之家 11 月 8 日消息，据彭博社 7 日报道，字节跳动考虑扩大在巴西东北部的数据中心项目，以进一步巩固其在拉丁美洲算力基础设施建设领域的领先地位。 知情人士透露，字节跳动正物色开发商，负责巴西塞阿拉州佩森工业港数据中心项目的二期建设。该项目可通过向境外输出数据享受税收优惠。 与此同时，智利、阿根廷等国纷纷推出优惠政策、完善基础设施，争取吸引数据中心投资，巴西也希望在这场竞争中保持优势。 知情人士称，佩森港数据中心二期的建设规模将超过塞阿拉州目前在建的 100 亿美元（",
+      "content": "<p data-vmark=\"047a\">IT之家 11 月 8 日消息，据彭博社 7 日报道，字节跳动<strong>考虑扩大在巴西东北部的数据中心项目</strong>，以进一步巩固其在拉丁美洲算力基础设施建设领域的领先地位。</p><p data-vmark=\"44b4\">知情人士透露，字节跳动正物色开发商，负责<strong>巴西塞阿拉州佩森工业港数据中心项目</strong>的二期建设。该项目可通过向境外输出数据享受税收优惠。</p><p data-vmark=\"3d9e\">与此同时，智利、阿根廷等国纷纷推出优惠政策、完善基础设施，争取吸引数据中心投资，巴西也希望在这场竞争中保持优势。</p><p data-vmark=\"0b94\">知情人士称，佩森港数据中心二期的建设规模将超过塞阿拉州目前在建的 100 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 669.08 亿元人民币）</span>、300MW 项目。</p><p data-vmark=\"a702\">部分人士还透露，字节跳动正与开发商初步洽谈，考虑在佩森港区外另建一座规模相近的数据中心，专门服务巴西本地客户。相比之下，港区内的数据中心必须向境外输出数据，才能享受税收减免。</p><p data-vmark=\"fd02\">字节跳动将 AI 视为下一个增长引擎，因此大举增加硬件投资，提升数据中心的设备配置。不过，美国中期选举期间，<strong>选民对数据中心建设的反对声浪</strong>或将拖慢当地项目的建设进度，促使开发商转而考虑巴西等其他市场。</p><p data-vmark=\"3f0c\">巴西信息技术与通信企业协会 Brasscom 数据显示，2022 年以来，<strong>巴西的数据中心容量增长超过一倍，突破 1GW</strong>。该协会预计，直到 2031 年，巴西数据中心装机容量将保持每年约 20% 的增速，达到 2025 年的近 3 倍。佩森港所在地区风能和太阳能资源丰富，是巴西最适合发展这两类发电项目的地区之一。相比巴西南部的其他项目，当地数据中心对输电线路的依赖较低。</p><p data-vmark=\"0f77\">巴西各党派普遍支持数据中心建设，当地的反对声音也远少于美国。巴西总统卢拉在 10 月赢得连任后的胜选演讲中承诺，<strong>将吸引更多数据中心落户巴西</strong>。</p>",
+      "link": "https://www.ithome.com/1/023/993.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/023/993.htm"
+    },
+    {
+      "id": 4841,
+      "title": "AI 公司迄今最大发电设备采购订单：曝 Anthropic 砸 34 亿美元买燃气发电机",
+      "summary": "IT之家 11 月 8 日消息，据英国《金融时报》今天（8 日）晚间报道，Anthropic 签下了一份大额数据中心燃气发电机组采购订单。 随着发电设备供应日趋紧张，AI 公司开始绕过中间商直接采购，进一步涉足能源行业。 报道披露，9 月下旬，Anthropic 斥资 34 亿美元（IT之家注：现汇率约合 227.49 亿元人民币），从美国得克萨斯州圣安东尼奥的设备供应商 OnePWR Solutions 手中接下总功率达 1.7GW 的重型发电机组订单。 按照已知交易记录，",
+      "content": "<p data-vmark=\"4f0f\">IT之家 11 月 8 日消息，据英国《金融时报》今天（8 日）晚间报道，Anthropic 签下了一份大额数据中心燃气发电机组采购订单。</p><p data-vmark=\"b7bb\">随着发电设备供应日趋紧张，AI 公司开始绕过中间商直接采购，进一步涉足能源行业。</p><p data-vmark=\"8ede\">报道披露，9 月下旬，Anthropic 斥资 34 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 227.49 亿元人民币）</span>，从美国得克萨斯州圣安东尼奥的设备供应商 OnePWR Solutions 手中接下总功率达 1.7GW 的重型发电机组订单。</p><p data-vmark=\"90b4\">按照已知交易记录，这是 AI 公司<strong>迄今规模最大的一笔发电设备采购订单</strong>，也反映出科技企业为争夺电力供应，正不断向能源行业延伸。</p><p data-vmark=\"9291\">以往，AI 公司通常依靠公用事业公司和专业电力企业供电。但燃气轮机、发电机组需求激增，设备交货期延长至数年之后，资金雄厚的 AI 公司开始跳过中间环节，直接掌握发电能力。</p><p data-vmark=\"40a9\">据知情人士透露，OnePWR 两年前就向卡特彼勒订购了发电机组，仍需融资才能完成采购。Anthropic 原本打算向 OnePWR 购买服务，后来改变主意，<strong>直接接手了 OnePWR 向卡特彼勒下达的设备订单</strong>。</p><p data-vmark=\"5a26\">直接采购发电设备也帮助 SpaceX 迅速投入运营大型数据中心。今年早些时候，SpaceX 旗下 xAI 斥资 20 亿美元<span class=\"exch-money-value\">（现汇率约合 133.82 亿元人民币）</span>购入移动式燃气轮机。谷歌母公司 Alphabet 则在 2025 年底收购了能源开发商 Intersect。</p><p data-vmark=\"8848\">Anthropic 选择了另一种方式：不收购整家公司，也不只是单纯买设备，<strong>而是接手多年前、设备涨价前签订的订单</strong>。部分发电机组近期就能交付，其余设备也将在未来两年内到位。</p><p data-vmark=\"969c\">Anthropic 同时是 SpaceX 的大客户。预计到今年年底，Anthropic 每月向 SpaceX 支付的算力租赁费用将达到 31 亿美元<span class=\"exch-money-value\">（现汇率约合 207.42 亿元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/023/989.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/023/989.htm"
+    },
+    {
+      "id": 4842,
+      "title": "Japanese arcades suffer week-long blackout following Sega server hack",
+      "summary": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
+      "content": "<article>\n                                <p>The sensory overload typically experienced when visiting video game arcades in Japan was eerily absent from some venues this week, reports <a href=\"https://www.itmedia.co.jp/news/article/2611/06/2000002941/\" target=\"_blank\">ITMedia News</a> [machine translation]. It says that a <a href=\"https://www.tomshardware.com/tech-industry/nvidia-nearly-went-out-of-business-in-1996-trying-to-make-segas-dreamcast-gpu-instead-sega-americas-ceo-offered-the-company-a-dollar5-million-lifeline\" target=\"_blank\">Sega </a>system outage meant there was “no end in sight” for the rows of silent black screens. However, a recent tweet from arcade network operator <a href=\"https://x.com/allnet_info/status/2119218343618150449\" target=\"_blank\">ALL.net</a> indicates that both Sega and Bandai Namco machines are affected. Moreover, arcade lovers will be pleased to hear that affected arcades will “gradually resume operation on a trial basis starting today.” </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2117709280224976995\"><p lang=\"en\" dir=\"ltr\">a friend sent me some pics of their local arcade and LMAO the sega outage is nuts https://t.co/3vSYjCYAIZ<a href=\"https://twitter.com/cantworkitout/status/2117709280224976995\">November 3, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>ALL.Net, a contraction of Amusement Linkage Live Network, was launched by Sega in 2004 to allow arcade games to look up to the net for auto updates, data logging, implement online play, and power national leaderboards. Sega titles like<em> Initial D The Arcade, Maimai, </em>and <em>CHUNITHM</em>, rely on this network, as do <a href=\"https://www.tomshardware.com/news/ace-combat-7-gamescom-trailer,35302.html\" target=\"_blank\">Bandai Namco</a> games like A<em>iko no Tatsujin, Mario Kart Arcade GP DX, </em>and <em>Gundam Extreme Vs</em>.</p><div style=\"min-height: 250px;\">                                <div class=\"kwizly-quiz kwizly-eMPVgX\"></div>                            </div>                            <figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1071px;\"><p class=\"vanilla-image-block\" style=\"padding-top:32.49%;\"><img id=\"LREMXDfYxFfQCQ2mUL9zeH\" name=\"offline-services-list\" alt=\"Arcades go dark\" src=\"https://cdn.mos.cms.futurecdn.net/LREMXDfYxFfQCQ2mUL9zeH-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1071\" height=\"348\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">Some services are gradually resuming operation today. </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://www.segafave.co.jp/news/261102_1/\" target=\"_blank\">ALL.Net, Sega Fave</a>)</span></figcaption></figure><p>In its official apology blog post, dated November 2, ALL.Net / Sega Fave said that it suspended services a day prior after it became aware of its servers being affected by “unauthorized access by a third party.” It reassured customers that their personal info and billing data were not on the compromised server. However, it asked for more time to investigate, run safety checks, and so on, before restoring service. </p><p>This morning ALL.Net told customers that Bandia Namco titles “will gradually resume operation on a trial basis starting today (online play and card use enabled).” Sega products remain under maintenance, and online services are unavailable. There is currently no estimate for issue resolution, but a news bulletin is promised for November 10 (Tuesday).</p><p>Classic offline <a href=\"https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973\" target=\"_blank\">arcade machines</a> weren’t affected by this outage, of course. Moreover, rival arcade gaming legends like Taito and Konami run their own, separate, arcade networks and authentication systems.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ATDaLmiaS4cUpoiambejoP"
+    },
+    {
+      "id": 4843,
+      "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+      "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+      "content": "<article>\n                                <p><a href=\"https://www.tomshardware.com/news/live/my-week-with-linux\">Linux </a>developers are preparing to make Intel’s ancient MultiMedia eXtensions an irrelevance. Intel introduced MMX in the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-language-model-runs-on-a-windows-98-system-with-pentium-ii-and-128mb-of-ram-open-source-ai-flagbearers-demonstrate-llama-2-llm-in-extreme-conditions\">Pentium</a> era, but a patch expected to merge into mainline Linux 7.5 will remove the last remaining optimized software from the open-source OS. Expected to be released in 2027, the new kernel will wipe MMX-optimized code from its software RAID XOR code, explains <a href=\"https://www.phoronix.com/news/Linux-Dropping-Last-MMX-Opt\">Phoronix</a>.</p><p>Admittedly, there wasn’t much left in Linux in terms of MMX optimizations. But few folks will be running the most modern kernels on <a href=\"https://www.tomshardware.com/reviews/pentium-mmx-live-expectations,19.html\">Pentium MMX</a> and <a href=\"https://www.tomshardware.com/reviews/empire-strikes-back,23.html\">Pentium II</a> chips in 2026. And most other MMX-optimized code disappeared from the OS half a decade ago, when some MMX-optimized memory management code was removed. Note that, if you are a determined late-90s Pentium devotee, you can still use software RAID, but it will lack the MMX fast path.</p><p>This is a classic case of Linux code housekeeping. With this change, the kernel will lose over 800 lines of code and replace them with just 12.</p><h2 id=\"remembering-mmx\">Remembering MMX</h2><p>Intel first introduced MMX Pentium chips in January 1997. Though I vaguely remember these processors being marketed as being enhanced by ‘MultiMedia eXtensions,’ Wikipedia insists that “MMX is officially a meaningless initialism[6] trademarked by Intel.”</p><p>In a subsequent trademark battle with longtime foe AMD, a document produced in court indicated that MMX stood for ‘Matrix Math Extensions.’ AMD relied on this to sidestep the trademark, as an initialism cannot be trademarked, according to the encyclopedic source.</p><p>Eventually, all rival x86 processors managed to integrate MMX instructions – so as not to be pushed into the shade during the multimedia boom. A surprisingly large number of non-Intel chips ended up offering MMX, too. Along with Pentium MMX chips, AMD, Centaur, <a href=\"https://www.tomshardware.com/reviews/overclocking-guide,15-12.html\">Cyrix</a>, Rise, and <a href=\"https://www.tomshardware.com/news/last-x86-via-chip-centuar-cns-cpu-tested\">Transmeta </a>eventually offered MMX CPUs.</p><p>After MMX's marketing success, AMD pioneered <a href=\"https://www.tomshardware.com/news/3dnow-simd-extensions-phenom-sse,11128.html\">3DNow! instructions</a>, and about a year later, Intel fired back with <a href=\"https://www.tomshardware.com/reviews/cpus-amd-intel,101-17.html\">SSE</a> and SSE2.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "zrQ6uf5qBsC6SwYL5uePYj"
+    },
+    {
+      "id": 4844,
+      "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+      "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+      "content": "<article>\n                                <p>On this day in 2006, Nvidia released the legendary <a href=\"https://www.tomshardware.com/reviews/geforce-8800,1357.html\" target=\"_blank\">GeForce 8800 GTX and 8800 GTS graphics cards</a>. Nvidia has decided to honor the flagship of the pair with its <em>GeForce 8800 GTX - 20 Years of a Legend</em> interactive demo, now <a href=\"https://store.steampowered.com/app/4910040/GeForce_8800_GTX_20_Years_of_a_Legend/\" target=\"_blank\">free on Steam</a>. However, the recommended specs to ‘play’ with this semi-interactive path-traced unboxing experience include a wallet-worrying <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-review/2\" target=\"_blank\">RTX 5080</a>. Or you could just watch the video, embedded below for your convenience.</p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"low\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/xPsc2QOzh0I\" allowfullscreen=\"\"></iframe></div></div><p>The downloadable demo, which also requires 32GB of RAM and 30GB of free storage, was created by Dylan Browne, a senior special effects artist who frequently works with <a href=\"https://www.tomshardware.com/video-games/pc-gaming/paris-demo-shows-unreal-engine-5-6-is-up-to-30-percent-faster-than-the-current-version-which-suffers-from-infamously-bad-performance-new-version-also-delivers-better-graphics-fidelity\" target=\"_blank\">Unreal Engine</a>, as in this case. This experience is said to deliver era-appropriate graphics, but requires the most advanced graphics tech available two decades after the 8800 GTX first hit the scene to work its graphical magic.</p><p>To run <em>GeForce 8800 GTX - 20 Years of a Legend</em> on a 2026 PC, you will need at least an <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-4070-super-review-boosted-clocks-and-core-counts-for-the-same-dollar599-as-the-vanilla-4070\" target=\"_blank\">RTX 4070</a> for acceptable performance, according to the Steam page. This software is stuffed with the latest graphics tech embraced by the green team. “DLSS 4.5 with Dynamic Multi Frame Generation, Ray Reconstruction, path tracing, and Mega Geometry” are all present, says Nvidia. </p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/x24zVCi3L9xn9GwXvgMDeA-1920-80.jpg\" alt=\"GeForce 8800 GTX - 20 Years of a Legend\" /><figcaption><small role=\"credit\">Nvidia, Steam, Dylan Browne</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/GgXRGS23X6wVgnAFhHScjA-1920-80.jpg\" alt=\"GeForce 8800 GTX - 20 Years of a Legend\" /><figcaption><small role=\"credit\">Nvidia, Steam, Dylan Browne</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/eJ8WTgNh6f6jBBde6bGMtA-1920-80.jpg\" alt=\"GeForce 8800 GTX - 20 Years of a Legend\" /><figcaption><small role=\"credit\">Nvidia, Steam, Dylan Browne</small></figcaption></figure></figure><p>There’s a bit more to the interactive demo than looking around and poking a box with your mouse and then prodding it to fit the shiny new GPU into your “era-accurate PC tower.” An extra layer of fun is promised by the provision of hidden Easter eggs in this experience.</p><p>However, the demo appears to show Windows Vista on the PC in the gaming den, which launched at retail a few months after the 8800 GTX. Admittedly, this legendary GeForce card and <a href=\"https://www.tomshardware.com/reviews/xp-vs-vista,1531.html\" target=\"_blank\">Windows Vista</a> OS would roam the Earth at the same time, with many folks buying the GeForce 8800 GTX and 8800 GTS to shove into their Vista PCs from 2007 onwards. <a href=\"https://www.tomshardware.com/reviews/crysis-10-year-anniversary-benchmarks,5329.html\" target=\"_blank\">Crysis </a>launched on PCs in late 2007, a year after the G80 architecture cards debuted.</p><p>Nvidia launched the GeForce 8800 GTX (128 shader units) and 8800 GTS (96 shader units) at $599 and $449, respectively. These legendary Nvidia GPUs spearheaded the DirectX 10 era, accelerating existing PC titles and delivering next-gen visuals with new DX10 software. You can read more in our reviews from the time, like the 12-page review of the GeForce 8800 GTX and GTS from the launch week. Briefly, our reviewer thought these cards were “amazing” for their current <a href=\"https://www.tomshardware.com/reviews/geforce-8800,1357-12.html\" target=\"_blank\">performance and DX10 promise</a>. They were also excited about the G80 architecture for bringing CUDA to consumers and the promise of making the GPU “something much more than a frame rendering device.” Some Luddite gamers may wish that had never happened.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/NVQyyU27qufLmxJjdKVuUA-1920-80.jpg\" alt=\"GeForce 8800 GTX benchmarks\" /><figcaption><small role=\"credit\">Future</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/tJGF65V6ch72MoafLKr9MA-1920-80.jpg\" alt=\"GeForce 8800 GTX specs\" /><figcaption><small role=\"credit\">Future</small></figcaption></figure></figure><p>Nvidia driver support for the GeForce 8800 GTX and GTS would run out of road about a decade later. By that time,  <a href=\"https://www.tomshardware.com/reviews/crysis-2-directx-11-performance,2983.html\" target=\"_blank\">DirectX 11 </a>hardware and games were mainstream, leaving older graphics hardware designs obsolete when it came to playing the latest AAA PC titles.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "TXvKxUzbjdj8eeiV56NpwE"
+    },
+    {
+      "id": 4845,
+      "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+      "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+      "content": "<article>\n                                <p>Microsoft VP Scott Hanselman has revealed a new open-source GitHub project called <a href=\"https://github.com/shanselman/gputaskman\" target=\"_blank\">gputaskman</a>. The name neatly encapsulates the headline role of this tool, a GPU-focused task manager, but its scope might be broader than you expect. This new tool for Windows, Linux, and macOS can show per-process GPU usage, <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-latest-dlss-revision-reduces-vram-usage-by-20-percent-for-upscaling-optimizations-reduce-overhead-of-more-powerful-transformer-model\" target=\"_blank\">VRAM consumption</a>, active runtimes, and many more stats. It also breaks out <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss\" target=\"_blank\">AI/LLM</a> task-specific information. </p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2117419804189741408\"><p lang=\"en\" dir=\"ltr\">There's a lot going on in my GPU. I'm making a GPU Taskman to get insights to where my GPU memory is going. PRs welcome https://t.co/6FwKqnFWDW<a href=\"https://twitter.com/cantworkitout/status/2117419804189741408\">November 3, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>On social media, Hanselman snappily makes clear the technical itch that gputaskman was designed to scratch. “There's a lot going on in my GPU,” wrote the prominent public face of Microsoft's developer ecosystem. “I'm making a GPU Taskman to get insights to where my GPU memory is going.”</p><p>There are several example screenshots of GPU Taskman in use by the Microsoft VP. They clearly show the kinds of data that are presented in the terminal-like display that pops up in the tool. Hanselman’s tweet shows that the most <a href=\"https://www.tomshardware.com/news/geforce-rtx-2080-ti-gets-44gb-vram-through-user-mod\" target=\"_blank\">VRAM-hungry app</a> on his RTX 4080S system is the desktop windows manager. That is selected in the list, and more details are shown for this task at the bottom of the window. Also, we see AI/LLM apps consuming VRAM, and a few Windows staples.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1990px;\"><p class=\"vanilla-image-block\" style=\"padding-top:62.41%;\"><img id=\"CJLAMoHHwMZL8chMPQ8k6H\" name=\"hansel-2\" alt=\"gputaskman in action\" src=\"https://cdn.mos.cms.futurecdn.net/CJLAMoHHwMZL8chMPQ8k6H-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"1990\" height=\"1242\" attribution=\"\" endorsement=\"\" class=\"inline expandable\" /><a href='https://cdn.mos.cms.futurecdn.net/CJLAMoHHwMZL8chMPQ8k6H-1920-80.jpg' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">Looking closer at llama-server.exe </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://github.com/shanselman/gputaskman\">gputaskman on GitHub</a>)</span></figcaption></figure><p>In a GitHub-embedded image, we see what details are broken out when the llama-server.exe app is selected in the list. The bottom of the window breakdown reveals that Qwen3-0.6B is being used, and there’s a breakdown of its weights, the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works\" target=\"_blank\">KV cache</a>, the number of parameters, and more. Very informative. </p><p>As the Microsoft developer has made portable Windows downloads of the latest v0.3.0 release of gputaskman, I couldn’t resist giving it a spin. Upon launch, I found that no tasks were using the discrete GPU in my laptop… so I fired up ye olde Unigine Valley <a href=\"https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html\" target=\"_blank\">GPU benchmark</a> to stir the <a href=\"https://www.tomshardware.com/laptops/gaming-laptops/gigabyte-g6-review\" target=\"_blank\">RTX 4060</a> from its slumber. I note the live-streaming charts showing GPU load, VRAM use, temperature, and so on are more prominent in my screenshot than in Hanselman’s examples. Perhaps he screen-shotted a previous version of the tool. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1929px;\"><p class=\"vanilla-image-block\" style=\"padding-top:58.48%;\"><img id=\"wi6yEzpHEwnvbN3qSJbG6H\" name=\"gpu-task-mark\" alt=\"gputaskman in action\" src=\"https://cdn.mos.cms.futurecdn.net/wi6yEzpHEwnvbN3qSJbG6H-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"1929\" height=\"1128\" attribution=\"\" endorsement=\"\" class=\"inline expandable\" /><a href='https://cdn.mos.cms.futurecdn.net/wi6yEzpHEwnvbN3qSJbG6H-1920-80.jpg' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"caption-text\">Valley's GPU resource use </span><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Future)</span></figcaption></figure><p>There’s a lot more information about gputaskman, its inner workings, and even its source code, on the linked GitHub repository. Hanselman is sharing his “experimental software” tool under the permissive MIT license. Finally, in social media comments, he hints that expanded <a href=\"https://www.tomshardware.com/news/nvidia-adds-new-gpu-monitoring-overlay-and-overclocking-features-to-geforce-experience\" target=\"_blank\">GPU monitoring</a> capabilities could be coming to Windows as standard.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "VL5Y7xNntzGjd5jrqYQCGG"
+    },
+    {
+      "id": 4846,
+      "title": "Hundreds arrested after Microsoft data center protest turns violent",
+      "summary": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+      "content": "<article>\n                                <p>Amsterdam police have arrested 150 to 200 protesters at a <a href=\"https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe\" target=\"_blank\">Microsoft data center</a> site on suspicion of trespassing. According to a Facebook post by the authorities [machine translated], tools designed for breaking into the site were seized from the protesters, who were then allowed on their way to protest peacefully. However, it appears that some members of the group decided to enter the construction site “with violence” anyway, forcing the police to intervene and leading to their arrest. There were also some allegedly stolen items from the construction site found among the belongings of some of the protesters, plus damage and vandalism done to the data center site.</p><div class=\"fb-root\"></div><figure><div class=\"fb-post\" data-href=\"https://www.facebook.com/politieamsterdam/posts/pfbid0Hc7n9o9oSp47ys2hKvmh5ZuzPWqdFHXeqUd8wAkNF3eBHebPekwRzMi5hiaGnxrel\" data-width=\"500\"><div class=\"fb-xfbml-parse-ignore\"><blockquote cite=\"https://www.facebook.com/politieamsterdam/posts/pfbid0Hc7n9o9oSp47ys2hKvmh5ZuzPWqdFHXeqUd8wAkNF3eBHebPekwRzMi5hiaGnxrel\"><figcaption><cite>Posted by <a href=\"#\" role=\"button\">politieamsterdam</a> on </cite></figcaption><a href=\"https://www.facebook.com/politieamsterdam/posts/pfbid0Hc7n9o9oSp47ys2hKvmh5ZuzPWqdFHXeqUd8wAkNF3eBHebPekwRzMi5hiaGnxrel\"></a></blockquote></div></div></figure><p>This protest is a continuation of the <a href=\"https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe\" target=\"_blank\">action that started last Friday</a>, where protesters breached the Microsoft data center, which was being owned by Pure Data Centers. It is also the first of many organized by the “Stop Dirty Data Centers” coalition across Europe, with actions planned for Amsterdam, Dublin, Warsaw, Denmark, and several other cities across the continent. The Dutch publication <a href=\"https://nos.nl/artikel/2638349-zeker-150-demonstranten-opgepakt-bij-protest-tegen-datacenter-in-amsterdam\" target=\"_blank\"><em>NOS</em></a> [machine translated] identified the exact group at the site today as Fossielvrij, who are against the use of fossil fuels in data centers such as the <a href=\"https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide\" target=\"_blank\">jet engines that Elon Musk installed</a> at xAI’s Mississippi data center. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: AI and data centers</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Vh4nY3pMCcmra2ymXah9S7\" name=\"Microsoft data center in Mount Pleasant, Wisconsin\" caption=\"\" alt=\"Microsoft data center in Mount Pleasant, Wisconsin\" src=\"https://cdn.mos.cms.futurecdn.net/Vh4nY3pMCcmra2ymXah9S7-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Microsoft)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-data-center-cooling-state-of-play-2025-liquid-cooling-is-on-the-rise-thermal-density-demands-skyrocket-in-ai-data-centers-and-tsmc-leads-with-direct-to-silicon-solutions?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">The data center cooling state of play</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">The custom AI ASIC state of play </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\">America’s AI chip rules keep changing — and the rest of the world is paying the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\">GTC 2026: Ian Buck press Q&amp;A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">Demand for data center CPUs has surged, and AI agents are responsible</a></li></ul></p></div></div><p>“Gas prices are going through the roof, and new houses are being postponed because of the overcrowded power grid. Yet tech billionaires like Elon Musk and Jeff Bezos are building energy-guzzling, hideous data centers,” the group said on its website. “We can take back the power of Big Tech by pressing the pause button now. Give us the opportunity to democratically decide what we do and do not use AI for, so that it is not at the expense of our living environment and everything that makes our lives beautiful. Then we look at how many more data centers are needed.”</p><p>The protest comes amid the AI data center build-out, which has been facing <a href=\"https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments\" target=\"_blank\">increased opposition across the United States</a>. A Google data center site in Finland is also in trouble after it <a href=\"https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports\" target=\"_blank\">cleared out around 1,300 acres worth of forest and trees</a> without an environmental impact assessment, <a href=\"https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud\" target=\"_blank\">displacing wildlife</a>, and leading to a <a href=\"https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance\" target=\"_blank\">criminal probe on Tuike Finland Oy</a>, the Google subsidiary in charge of the site.</p><p>Fossielvrij’s action was supposed to be peaceful, but it appears that another group joined the demonstration and broke through the fences around the site, leading to the police confrontation. The suspects were arrested for domestic violence and then taken to a cell complex, where it will be decided if they will be detained longer. The police also said that “All suspects will be heard afterward.”</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ySK44TrMsWVvwiokajyHGF"
+    },
+    {
+      "id": 4847,
+      "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+      "summary": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+      "content": "<article>\n                                <p>An investigation has found that addresses for two Chinese companies approved to purchase Nvidia H200 chips led to empty offices, and the receptionists at the buildings were unfamiliar with them. According to <a href=\"https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html\"><em>The New York Times</em></a>, these companies didn’t just have empty offices; their executives are often linked to other firms sanctioned by the United States for working with and providing advanced technology to the Chinese military.</p><p>This news has revealed concerns that the U.S. Department of Commerce is simply rubber-stamping GPU export license applications instead of scrutinizing each one for potential links to Beijing. “I have a ton of concerns that neither the Commerce Department or Nvidia is doing the due diligence needed to ensure that the licensing terms are being followed,” former China director for the White House National Security Council Liza Tobin told the publication.</p><p>Many of these approved companies include well-known entities like Baidu, BYD, Tesla Shanghai, <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-allows-chinese-telecom-giant-zte-to-purchase-nvidia-h200-ai-chips-firm-joins-alibaba-tencent-and-bytedance-in-access-to-hopper-tech\">as well as ZTE</a>, which has previously been blacklisted from the U.S. market, Alibaba, Tencent, and ByteDance. However, the outfit’s investigation also revealed approval for two relatively unknown firms: New Matrix and Maginfra. The offices for both companies were empty shells with some office furniture, and people working nearby said they’d never heard of the company or seen anyone go to the deserted spaces.</p><p>The New Matrix website also reportedly did not contain any information about its owners or its history, although public company records reveal that it was founded by Li Bin, who, along with two other primary owners, are connected to Wise Road, a Chinese private equity firm sanctioned by the U.S. for helping Beijing acquire sensitive chip technologies. Furthermore, Mr. Li chairs Tsinghua Unigroup, a tech conglomerate partly owned by the Chinese government, and owns New H3C Semiconductor Technologies, which has also been added to the Commerce Department’s Entity List for cooperating with the Chinese military. </p><p>Maginfra, on the other hand, is suspected of being linked to Inspur, which Washington has b<a href=\"https://www.tomshardware.com/news/us-govt-blacklists-loongson-and-inspur\" target=\"_blank\">lacklisted </a><a href=\"https://www.tomshardware.com/news/us-govt-blacklists-loongson-and-inspur\">since 2023</a> for supporting the People’s Liberation Army, with both companies sharing personnel, patents, and a similar government ownership structure. These two firms aren’t listed as the final users of Nvidia’s AI chips, though. Instead, they’re supposed to assemble them into AI servers, which would then be forwarded to a final user, although it’s unclear who their customers are.</p><p>Aside from these questionable non-entities, another company that received a license to purchase H200 GPUs has some suspicious links. Zhejiang Yindun Cloud Technology’s executives are reportedly related to the founder of Range Intelligent Computing Technology Group, a data center operator that has sold compute capacity to Chinese military contractors. It’s also reportedly partly operating out of a Range data center.</p><p>President Donald Trump <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-writes-off-usd5-5-billion-in-gpus-as-us-govt-chokes-off-supply-of-h20s-to-china\">banned the export of Nvidia AI GPUs in April 2025</a>, even those customized to meet the performance ceiling Washington set for AI processors. The president <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/trump-approves-nvidia-h20-exports-to-china-25percent-fee-applies\">reversed the decision late last year</a> in exchange for a 25% cut of the sale, but it still took more than eight months for <a href=\"https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block\">the first H200 shipments to arrive in China</a>. <a href=\"https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases\" target=\"_blank\">Beijing’s refusal to give Chinese tech companies the green light</a> to buy the chips for the first few months of the year caused the delay. But once China lifted its import ban on Nvidia chips, several Chinese companies applied for licenses to buy them, and <em>The New York Times</em> reported that around two dozen firms have already received approval, including these questionable ones.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "crAid7FjDZfsdo9wxj34NY"
+    },
+    {
+      "id": 4848,
+      "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "summary": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+      "content": "<article>\n                                <p>The latest CPU-Z hardware survey data shows 32GB and 64GB memory configurations down 2.5% and 18% year on year, respectively. The driving factor is no mystery: High-capacity memory has become a luxury in modern PC builds. The AI rush is still gobbling up the global DRAM supply, so prices for the <a href=\"https://www.tomshardware.com/reviews/best-ram,4057.html\">best RAM</a> options across DDR4 and DDR5 have gone through the roof. </p><p>If you are not familiar with CPU-Z, it is a free program that gives you a detailed breakdown of the hardware inside your system. It only tracks systems where it is actually installed and running, so it does not report monthly retail sales figures. Do not take the data as sales figures in any sense. They represent CPU-Z's active user base.</p><p>32GB and 16GB are common configurations that have grown over the years. According to the gathered data, 32GB configurations lead CPU-Z's user base with a 37.2% share, with 16GB configurations close behind at 33%. Not a surprise, really, since applications and games have grown more memory-intensive. 16GB has been the baseline for a long time now, and 32GB is now the sweet spot for many people, even gamers.</p><p>On the flip side, 8GB configurations have been steadily declining. They make up only 11% of the surveyed systems. 8GB systems are rare nowadays. You may still find them in legacy systems, basic office machines, or extremely budget-limited builds where performance takes a backseat. Meanwhile, higher-end configurations, including 64GB and 24GB, are still in the minority at 7.3% and 2.3%, respectively.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2118776662292906051\"><p lang=\"en\" dir=\"ltr\">Fresh stats from CPU-Z! 🔎For the first time ever, RAM capacity on PCs has declined year-over-year : -2.5% for 32 GB and -18% for 64 GB! https://t.co/ya0soA55bR<a href=\"https://twitter.com/cantworkitout/status/2118776662292906051\">November 6, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>For the first time, the CPU-Z developer recorded a noticeable decline in higher-capacity configurations. Specifically, 32GB configurations fell 2.5% year over year, while 64GB options dropped a significant 18%. This is likely due to the steep rise in memory prices, which has forced consumers to reconsider the cost-benefit of larger capacities.</p><p>As the price per gigabyte goes up, buyers are opting for more affordable capacities. Lower-capacity memory kits have seen a somewhat revival. The 16GB configuration, often considered the minimum, has rebounded by 12.9%. Similarly, 8GB configurations, which were previously in sharp decline, grew 5.5%.</p><p>Interestingly, 24GB configurations also increased by 19.7% and have become a compromise for consumers who need more than 16GB of memory but do not want to spend a lot of money on a premium 32GB memory kit.</p><h2 id=\"how-much-money-are-you-willing-to-spend-during-the-black-friday-sales\">How much money are you willing to spend during the Black Friday sales?</h2><div style=\"min-height: 250px;\">                                <div class=\"kwizly-quiz kwizly-O6KqBX\"></div>                            </div>                            <p>The current distribution between DDR4 and DDR5 memory types reveals that DDR4 remains the dominant memory standard at 54.5%. In contrast, DDR5, despite being the latest memory technology, is still in its early adoption phase at 32.9%. DDR4 has been the de facto standard for almost a decade now, so it will take time for DDR5 to overtake it.</p><p>Nonetheless, the noticeable 6% growth in DDR4 and 2.9% decline in DDR5 suggests budget-conscious consumers are sticking with platforms that still embrace DDR4, such as AMD's Zen 3-powered <a href=\"https://www.tomshardware.com/news/amd-zen-3-ryzen-5000-release-date-specifications-pricing-benchmarks-all-we-know\">Ryzen 5000</a> (codenamed Vermeer) or Intel's 13th Generation <a href=\"https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs\">Raptor Lake</a> processors. CPU-Z's processor charts show a significant increase in Zen 3 chips, including the <a href=\"https://www.tomshardware.com/reviews/amd-ryzen-7-5700x-cpu-review/3\">Ryzen 7 5700X</a>, <a href=\"https://www.tomshardware.com/reviews/amd-ryzen-5-5600-and-ryzen-5-5500-review/3\">Ryzen 5 5600</a>, and <a href=\"https://www.tomshardware.com/reviews/amd-ryzen-5-5600-and-ryzen-5-5500-review/3\">Ryzen 5 5500</a>, with figures up to 42.8%, 36.1%, and 67.3%, respectively.</p><p>Although both DDR4 and DDR5 have increased in price, the former remains slightly more affordable. Companies are supporting the effort too, such as AMD rereleasing the <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-5800x3d-2026-cpu-review\">Ryzen 7 5800X3D</a>, vendors restarting <a href=\"https://www.tomshardware.com/pc-components/ram/production-of-ddr4-memory-and-motherboards-is-restarting-amid-unprecedented-memory-shortages-pc-industry-preparing-for-a-world-without-ddr5\">DDR4 and DDR4 motherboard production</a>, or Intel preparing rewarmed <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august\">Raptor Lake Next</a> chips for 2027.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "j7bxeh8WyeXuAQD7R8ZL7L"
+    },
+    {
+      "id": 4849,
+      "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+      "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+      "content": "<article>\n                                <p>A homelab builder <a href=\"https://www.reddit.com/r/homelab/comments/1xlljut/secondgen_optane_pmem_server_running_kimi_k3_28t/\">on Reddit</a> has run Moonshot AI’s <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3\">2.8-trillion-parameter Kimi K3</a> AI model on <a href=\"https://www.tomshardware.com/pc-components/ssds/intel-schedules-the-end-of-its-200-series-optane-memory-dimms-shipments-to-draw-to-an-end-in-late-2025\">discontinued second-gen Optane PMem 200</a> memory, using a 40-core 3rd-gen Xeon Scalable CPU and not a GPU for inference. The build runs hot, and the builder’s advice is that you “treat active DIMM cooling as mandatory,” with dual 12W blower fans aimed at the modules to get temperatures under control. The project, a follow-up to <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second\">a separate user’s first-gen Optane build</a> earlier this year, runs at a sluggish 0.85 tokens per second even with 1-bit quantization.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/homelab/comments/1xlljut/secondgen_optane_pmem_server_running_kimi_k3_28t\">Second-gen Optane PMem server running Kimi K3 (2.8T params) on CPU only, plus a critical thermal warning that could save your RAM</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/homelab\">r/homelab</a></cite></figcaption></blockquote></figure><p>Kimi K3 is absolutely <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/kimi-k3-rocks-the-ai-industry-as-moonshot-ai-undercuts-closed-source-american-competitors-on-price-but-the-huge-2-8t-open-weight-model-still-needs-serious-hardware-to-deploy-at-scale\">not built for home use</a>, in our estimation, with Moonshot AI recommending data center inference engines to run it, and even the smallest community quantization needs at least 610GB of RAM. Using secondhand Optane, instead, is one of the few ways to reach that capacity at home. It doesn’t help that <a href=\"https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\">DRAM prices have skyrocketed</a>, and the builder says the Optane memory costs “a fraction” of the equivalent.</p><p>Intel launched its <a href=\"https://www.tomshardware.com/pc-components/ssds/intel-schedules-the-end-of-its-200-series-optane-memory-dimms-shipments-to-draw-to-an-end-in-late-2025\">Optane Persistent Memory 200 Series </a>(PMem 200) in 2020 for its 3rd-gen Xeon Scalable CPUs in 128GB, 256GB, and 512GB capacities. On two-socket Xeon platforms, it runs at a higher effective MT/s rate than the first generation (PMem 100) that was used on the first project, and it can deliver an average of up to 32% more memory bandwidth. Optane can run in either Memory Mode or App Direct Mode; both builds had platforms allowing for each.</p><p>Memory Mode has the Optane act as system memory with DRAM as its cache, the method used in the first build, while App Direct exposes Optane as a separate, persistent region that the software maps directly, the mode used in the second. This can give “more control over where the model’s tensors live,” according to the first build’s creator, u/APFrisco, who planned to try it.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent\">Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/LocalLLaMA\">r/LocalLLaMA</a></cite></figcaption></blockquote></figure><p>Performance does take a hit by going with Optane over DRAM, and with the higher 3-bit quantization, the speed went down even more to 0.75 tokens per second. One commenter points out that this is very slow, with a 50k-token task estimated to take 13 hours at about 1 token per second, but another notes that overnight batches don’t care as much about speed. Both speeds compare to the first build’s roughly 4 tokens per second, although in that case the builder had an RTX 3060 handling part of the model in addition to Memory Mode, a 2-bit quantization, and the smaller, earlier 1-trillion-parameter K2.5 model.</p><p>The latest builder also had to deal with heat output, with the Optane DIMMs getting “extremely hot” with sustained inference, creating a situation the builder says can endanger neighboring DRAM. That heat is consistent with Intel’s own specs, as the manufacturer rates the modules with forced airflow of 2.4 to 2.7 meters per second for cooling, which is what you expect to find in data centers. You might not normally have this level of airflow pointed directly at your memory sticks.</p><p>The expected operating conditions put each Optane module at 12W or 15W, regardless of capacity. If the build used four sticks, that would mean up to 60W of heat placed right next to the system memory. Throttling on these occurs at 83 degrees Celsius, with a thermal trip shutdown at 85 degrees, compared to the 85 degrees Celsius and up to 95 degrees in an extended range that typical DDR4 server memory is rated for. A lot of heat has to be removed from the system to keep things running.</p><p>The performance numbers given are pre-tuning — this means without tuning thread counts or NUMA affinity — so there is room for improvement, and one commenter also asked about using Memory Mode with DRAM caching for the most-used experts. The builder plans to add GPUs and to also load parts of the model into DRAM as a faster tier alongside the Optane, with “more benchmarks to come.”</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "pRKqcEGMd9VrCMFG6qcSyW"
+    },
+    {
+      "id": 4850,
+      "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
+      "summary": "Inside the astonishing hardware behind World of Warcraft: Forever. 251TB of RAM and 70K cores kept millions of players online without a hitch.",
+      "content": "<article>\n                                <p>Blizzard pulled out all the stops to ensure <em>World of Warcraft: Forever </em>survived a chaotic launch night. What was the company's secret weapon? Splurging an absurd amount of money on infrastructure made up of 3,924 virtual machines with 70,480 CPU cores and a whopping 251,136 GB, or 251 TB, of memory.</p><p>Praised by media and players as one of the smoothest launches in Blizzard's history, <em>World of Warcraft: Forever</em> requires significant computing firepower. 3,924 virtual machines work out to 18 cores and 64GB of memory per instance. Or, the company could be using a mixture of 16-core and 32-core nodes with slightly less memory.</p><p>To put the infrastructure's scale in consumer terms, we are looking at about 8,810 mainstream processors, or 7,848 high-end gaming systems with 32GB of memory each. In any event, the hardware is greatly improved compared to what <em>World of Warcraft </em>used to run on back in 2009.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2118171078912618887\"><p lang=\"en\" dir=\"ltr\">*Slaps Roof of WoW: Forever*This baby is running on:3,924 Virtual Machines251,136 GB of Memory70,480 CPU Cores https://t.co/P9PdRBzke7<a href=\"https://twitter.com/cantworkitout/status/2118171078912618887\">November 5, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>In 2009, Blizzard said it used 10 data centers worldwide to host <em>World of Warcraft. </em>At the time, the infrastructure included 13,250 server blades, totaling 75,000 CPU cores and 112.5 TB of memory. By comparison, <em>World of Warcraft: Forever </em>leverages 6% fewer CPU cores but rocks 2.2X more memory. Modern processors are leagues faster than chips from 17 years ago. By today's standards, the bottleneck is memory capacity and bandwidth, which is why the infrastructure can run on fewer cores but has more than double the memory to compensate.</p><p>Blizzard does not specify the exact hardware that <em>World of Warcraft: Forever</em> runs on. However, if we were to translate the core specifications to, for example, AMD's EPYC 128-core <a href=\"https://www.tomshardware.com/news/amd-details-epyc-bergamo-cpus-with-128-zen-4c-cores\">Bergamo</a> or 96-core <a href=\"https://www.tomshardware.com/reviews/amd-4th-gen-epyc-genoa-9654-9554-and-9374f-review-96-cores-zen-4-and-5nm-disrupt-the-data-center\">Genoa</a> chips, it could be anywhere between 275 and 365 2U server nodes, depending on which processor it uses. Therefore, <em>World of Warcraft: Forever </em>could be running on just eight to ten 42U server racks, a noteworthy improvement over 17 years ago.</p><p>Blizzard should have no trouble building the infrastructure for <em>World of Warcraft: Forever</em>. A ballpark estimate for about ten 42U server racks with EPYC chips is at least $15 million, even with today's memory pricing. But then again, since Microsoft owns Blizzard now, the company could just be tapping its parent's existing Azure platform. Technically, it is not free compute, but Blizzard would benefit from cost pricing and priority allocation of Azure's capacity.</p><p><em>World of Warcraft: Forever </em>shows that a high-profile launch does not have to be a nightmare when companies are willing to invest in computing infrastructure. In this case, many would agree Blizzard is putting those 251TB to good use, although <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">Sam Altman may say otherwise</a>.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "t87o9qXf58URMWFzKZiT8D"
+    },
+    {
+      "id": 4851,
+      "title": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM",
+      "summary": "A remote-control electronics and DIY hobbyist was surprised by a model airplane they built, powered by a pair of PC air duster engines.",
+      "content": "<article>\n                                <p>A remote-control electronics and DIY hobbyist was surprised by a model <a href=\"https://www.tomshardware.com/3d-printing/3d-printed-part-failure-causes-light-aircraft-crash-after-plastic-air-intake-melts-during-flight-pilot-escapes-with-minor-injuries\" target=\"_blank\">airplane</a> they created, powered by a pair of PC air duster engines. The A10 Warthog-like model with a 21-inch wingspan flew “much faster than I had anticipated,” commented RCMakerLab. The video they shared also shows how to build your own fast, agile RC plane powered by the ‘jets’ salvaged from PC air dusters like the <a href=\"https://www.amazon.com/WOLFBOX-Compressed-Duster-110000RPM-Adjustable-Rechargeable/dp/B0GF74ZGDZ/ref=sr_1_3?crid=1VKCAHAWBUUF8&amp;dib=eyJ2IjoiMSJ9.h89tnnjDCkmzMN5HP4G_0x6JBkKYyX5GZ9ndHgqgtIQNrVY8JVSyTuaIHDJAVUJeLzlwKt7eSbbKfKl-Kf962f9aW6RKZDblyYaXWl6u19Rx01XF\" target=\"_blank\">110,000 RPM brushless Wolfbox MF60</a>, which is currently 36% off on Amazon and priced at $31.99.</p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"low\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/ZnuKyaAM6rk\" allowfullscreen=\"\"></iframe></div></div><p>RCMakerLab’s informative and entertaining video (above) was inspired by some earlier disassembly and tests using engines pulled from <a href=\"https://www.tomshardware.com/desktops/pc-building/best-pc-tool-deals\">PC air dusters</a>. Viewers asked the maker to go beyond pondering the thrust these mini jet engines could generate and actually put them to the test in an RC plane.</p><p>About eight minutes of this 10-minute video focus on building the twin-engine RC plane. I found it interesting to see it crafted with wings formed from a folded-over Styrofoam sheet and hot glue, and to see it all put together. The motorized wing flap control seemed ingenious. However, if you want to skip straight to the main attraction, fast-forward to about 8 mins for the installation of the two air blower motors. Then, at 9 min 20s, you can see the RC plane's <a href=\"https://www.tomshardware.com/tech-industry/drones/us-army-successfully-flies-a-hybrid-electric-drone-with-3d-printed-heavy-fuel-rotary-engine-400v-motor-generator-uses-advanced-engineering-to-ditch-a-bulky-liquid-cooling-system\">rapid takeoff</a>. I thought it sounded great; it looked very fast and extremely agile.</p><p><strong>RC air duster jet specs:</strong></p><ul><li>54cm (~21-inch) wing span</li><li>42.5cm (~17-inch) length</li><li>368g (~0.8 pounds) flight weight</li><li>Twin airduster motors</li><li>20A Brushless ESC</li><li>5g Micro Servos</li><li>Flysky iA6 Radio Control</li><li>FS2A Micro Receiver</li><li>1,300mAh battery</li><li>Estimated flight time between 3 and 4 minutes</li></ul><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"bcfeLQMceXKxmi6MF8Uohk\" name=\"engines\" alt=\"RC plane powered by twin air duster engines\" src=\"https://cdn.mos.cms.futurecdn.net/bcfeLQMceXKxmi6MF8Uohk-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://www.youtube.com/watch?v=ZnuKyaAM6rk\" target=\"_blank\">RCMakerLab</a>)</span></figcaption></figure><p>Rechargeable handheld air dusters reside in a PC DIY enthusiast sweet spot between canned air and workshop compressors. RCMakerLab’s materials list includes no-brand AliExpress 130,000 RPM blowers at $23 each. Here’s a <a href=\"https://www.amazon.com/dp/B0GJZ833HB\">very </a><a href=\"https://www.amazon.com/dp/B0GJZ833HB\">similar-</a>performing model on Amazon that's even cheaper, if you prefer.</p><p>The video ends with a tease that this successful air duster engine-inspired escapade has inspired RCMakerLab to build a “much larger high-wing model.” The maker asks viewers to let him know “Should I go for it?” in the comments – so stay tuned.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "6aejhVtJr4oBtJoQn7fBF7"
+    },
+    {
+      "id": 4852,
+      "title": "Dead Pixels Creep In Along the Edges of Older WOLED TVs, RTINGS Finds",
+      "summary": "Fourteen of the 16 WOLED TVs in RTINGS' 18,000-hour accelerated longevity test developed what the outlet calls \"edge rot,\" meaning dead pixels and other damage creeping in along the panel edges. All of these sets use LG Display panels and w",
+      "content": "Fourteen of the 16 WOLED TVs in <a rel=\"nofollow\" href=\"https://www.rtings.com/tv/learn/research/edge-rot-plagues-woled-tvs\" target=\"_blank\">RTINGS</a>' 18,000-hour accelerated longevity test developed what the outlet calls &quot;edge rot,&quot; meaning dead pixels and other damage creeping in along the panel edges. All of these sets use LG Display panels and were released between 2020 and 2023, and the test works out to roughly ten years of typical U.S. viewing. Older WBC panels fared worst, with nine of ten affected and five rated severe, while five of six newer WBE panels also showed it. Only the LG A2 and LG G3 came out clean. Meanwhile, the three QD-OLED TVs in the test, Samsung's S95B and S95C and Sony's A95K, didn't have a single dead pixel. However, RTINGS says three units are too few to call QD-OLED immune.<br />\r\n<br />\r\nUnlike burn-in, edge rot doesn't depend on what you watch, so the usual advice of mixing up content won't help. RTINGS suspects contamination during manufacturing or flaws in the encapsulation layer that keeps moisture out, though confirming that would need proper failure analysis. Two staffers also found it on their own LG GX and C1 at home. In a statement to RTINGS, LG said the issue may appear in a very small number of products under prolonged heat, humidity or other harsh conditions, and isn't expected in normal use, which is interesting given that LG Display <a href=\"https://www.techpowerup.com/305405/lg-display-claims-samsungs-qd-oled-more-susceptible-to-screen-burn-than-lgs-woled\" target=\"_blank\">once argued QD-OLED was more prone to burn-in</a>. RTINGS now rates WOLEDs slightly lower for expected reliability, including newer models as a precaution, though it still considers OLEDs more durable than LCDs. Its next planned test includes 2025 and 2026 models, some with LG's RGB Tandem panels, which should show if it's been fixed.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/11uejJ9GmQikg1vD.jpg\" target=\"_blank\" data-width=\"1000\" data-height=\"563\" ><img src=\"https://tpucdn.com/img/11uejJ9GmQikg1vD_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/PDTck52lQAArpjyF.jpg\" target=\"_blank\" data-width=\"1779\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/PDTck52lQAArpjyF_thm.jpg\" width=\"241\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/QKbxsMXWubgIJeFV.jpg\" target=\"_blank\" data-width=\"3429\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/QKbxsMXWubgIJeFV_thm.jpg\" width=\"464\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354590/dead-pixels-creep-in-along-the-edges-of-older-woled-tvs-rtings-finds",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "1c01501e60ccc85e4b9f72852134f365"
+    },
+    {
+      "id": 4853,
+      "title": "Maxsun Readies Panther Lake and Wildcat Lake MoDT NAS Motherboards for November",
+      "summary": "Maxsun has shared full specifications for the SK-PTLNAS and SK-WCLAIO, two NAS-focused MoDT (Mobile on Desktop) motherboards built around Intel's Panther Lake and Wildcat Lake chips. Both were first shown at Computex 2026 and are expected t",
+      "content": "Maxsun has shared full specifications for the SK-PTLNAS and SK-WCLAIO, two NAS-focused MoDT (Mobile on Desktop) motherboards built around Intel's <a href=\"https://www.techpowerup.com/review/intel-panther-lake-technical-deep-dive/\" target=\"_blank\">Panther Lake</a> and <a href=\"https://www.techpowerup.com/348285/intel-wildcat-lake-is-official-up-to-6-cpu-cores-and-2-xe3-cores\" target=\"_blank\">Wildcat Lake</a> chips. Both were first shown at Computex 2026 and are expected to launch this month, though pricing is still unknown. The SK-PTLNAS now tops out at the Core Ultra 9 386H, a 16-core chip with four Xe3 GPU cores, a 25 W base power and up to 80 W of turbo power. The Computex listing mentioned options up to the Core Ultra X9 388H, which no longer seems to be on the table. It supports up to 128 GB of DDR5-7200 memory across two SO-DIMM slots, with five M.2 slots and three Mini SAS ports for storage. The board also gets a PCIe 5.0 x8 slot, 10GbE, 2.5GbE and two 1GbE ports, plus two Thunderbolt 4 ports. Maxsun lists Windows 11 and Ubuntu support.<br />\r\n<br />\r\nThe SK-WCLAIO measures just 90 x 165 mm, a big change from the mATX design shown in June. It runs the six-core Core 7 350 (2P + 4LPE) with two Xe3 cores, a single DDR5-6400 SO-DIMM slot for up to 48 GB, 1 TB of onboard UFS 3.1 storage and four M.2 slots. Wildcat Lake has very few PCIe lanes, so those drives probably won't each get full x4 bandwidth. Maxsun rates the system at 45 W when active and 16 W with drives on standby, which should suit an always-on home NAS. The power input is a bit unclear for now, since the listing mentions both a 12 V DC jack and USB-C PD.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ShNS0ztkRKJmHjoR.jpg\" target=\"_blank\" data-width=\"1066\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ShNS0ztkRKJmHjoR_thm.jpg\" width=\"144\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/YpinfTX3aOLzjqod.jpg\" target=\"_blank\" data-width=\"1589\" data-height=\"921\" ><img src=\"https://tpucdn.com/img/YpinfTX3aOLzjqod_thm.jpg\" width=\"224\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354582/maxsun-readies-panther-lake-and-wildcat-lake-modt-nas-motherboards-for-november",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "22768eac2850ae72d1da519eb1f832f6"
+    },
+    {
+      "id": 4854,
+      "title": "Compact SBC arrives with up to 32 GB RAM and 16-core Intel Panther Lake CPU",
+      "summary": "Aaeon has introduced a new Intel Panther Lake-powered ultra-compact SBC with up to 32 GB of LPDDR5X RAM and dual 2.5G Ethernet. The board is already available for purchase, sporting a hefty price tag.",
+      "content": "Aaeon has introduced a new Intel Panther Lake-powered ultra-compact SBC with up to 32 GB of LPDDR5X RAM and dual 2.5G Ethernet. The board is already available for purchase, sporting a hefty price tag.",
+      "link": "https://www.notebookcheck.net/Compact-SBC-arrives-with-up-to-32-GB-RAM-and-16-core-Intel-Panther-Lake-CPU.1444982.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Compact-SBC-arrives-with-up-to-32-GB-RAM-and-16-core-Intel-Panther-Lake-CPU.1444982.0.html"
+    },
+    {
+      "id": 4855,
+      "title": "The new MacBook Pro 14 is thinner and lighter than before, but the fans are louder than before",
+      "summary": "Apple has redesigned the MacBook Pro, making the new OLED model noticeably lighter and more compact. However, cooling suffers as a result, and the fans are louder than before.",
+      "content": "Apple has redesigned the MacBook Pro, making the new OLED model noticeably lighter and more compact. However, cooling suffers as a result, and the fans are louder than before.",
+      "link": "https://www.notebookcheck.net/The-new-MacBook-Pro-14-is-thinner-and-lighter-than-before-but-the-fans-are-louder-than-before.1445368.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/The-new-MacBook-Pro-14-is-thinner-and-lighter-than-before-but-the-fans-are-louder-than-before.1445368.0.html"
+    },
+    {
+      "id": 4856,
+      "title": "ASRock unveils motherboard with up to 4 TB of DDR5 — and it fits in a standard PC case",
+      "summary": "ASRock Rack has shown off a motherboard for Intel’s upcoming Diamond Rapids Xeon processors that can accommodate up to 4 TB of DDR5 memory. Despite packing 16 memory slots, the DMRD16-2L+ is roughly the size of a large E-ATX desktop motherb",
+      "content": "ASRock Rack has shown off a motherboard for Intel’s upcoming Diamond Rapids Xeon processors that can accommodate up to 4 TB of DDR5 memory. Despite packing 16 memory slots, the DMRD16-2L+ is roughly the size of a large E-ATX desktop motherboard and can fit in some standard PC cases.",
+      "link": "https://www.notebookcheck.net/ASRock-unveils-motherboard-with-up-to-4-TB-of-DDR5-and-it-fits-in-a-standard-PC-case.1445357.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/ASRock-unveils-motherboard-with-up-to-4-TB-of-DDR5-and-it-fits-in-a-standard-PC-case.1445357.0.html"
+    },
+    {
+      "id": 4857,
+      "title": "Citizen releases new colorful EcoDrive watch featuring Mickey Mouse",
+      "summary": "The Citizen Sorcerer Mickey's 100th Anniversary Macy's Parade watch has been released in the US. This limited edition timepiece has a striking blue dial featuring a colorful image of the popular cartoon character. Features of the watch incl",
+      "content": "The Citizen Sorcerer Mickey's 100th Anniversary Macy's Parade watch has been released in the US. This limited edition timepiece has a striking blue dial featuring a colorful image of the popular cartoon character. Features of the watch include a light powered movement and 5 bar water resistance.",
+      "link": "https://www.notebookcheck.net/Citizen-releases-new-colorful-EcoDrive-watch-featuring-Mickey-Mouse.1445282.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Citizen-releases-new-colorful-EcoDrive-watch-featuring-Mickey-Mouse.1445282.0.html"
+    },
+    {
+      "id": 4858,
+      "title": "22 hrs of battery life: Intel Panther Lake makes powerful Windows laptops efficient",
+      "summary": "With older generations of Windows laptops, the more powerful your laptop was, the worse the battery life tended to be. Intel has finally broken this trend with its Panther Lake generation. This is exemplified by the Lenovo ThinkPad P1 Gen 9",
+      "content": "With older generations of Windows laptops, the more powerful your laptop was, the worse the battery life tended to be. Intel has finally broken this trend with its Panther Lake generation. This is exemplified by the Lenovo ThinkPad P1 Gen 9, which achieved over 22 hrs of battery life.",
+      "link": "https://www.notebookcheck.net/22-hrs-of-battery-life-Intel-Panther-Lake-makes-powerful-Windows-laptops-efficient.1445353.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/22-hrs-of-battery-life-Intel-Panther-Lake-makes-powerful-Windows-laptops-efficient.1445353.0.html"
+    },
+    {
+      "id": 4859,
+      "title": "GPT-6 Cyber: OpenAI rates its new security model as Critical",
+      "summary": "OpenAI has introduced GPT-6 Cyber, a model that finds security flaws and builds working exploits for them. Under the company's own risk framework, it is rated Critical for cybersecurity, the highest level. For now, only vetted security team",
+      "content": "OpenAI has introduced GPT-6 Cyber, a model that finds security flaws and builds working exploits for them. Under the company's own risk framework, it is rated Critical for cybersecurity, the highest level. For now, only vetted security teams can use it. Firefox and Linux users are already seeing the effects.",
+      "link": "https://www.notebookcheck.net/GPT-6-Cyber-OpenAI-rates-its-new-security-model-as-Critical.1445199.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GPT-6-Cyber-OpenAI-rates-its-new-security-model-as-Critical.1445199.0.html"
+    },
+    {
+      "id": 4860,
+      "title": "The first fully Chinese desktop: Huawei launches PC with Kirin X90 and HarmonyOS",
+      "summary": "Huawei has unveiled what it describes as the first fully Chinese-made desktop PC, powered by its 10-core Kirin X90 processor and running HarmonyOS. The Qingyun HM650 is designed for government agencies and businesses, with enterprise securi",
+      "content": "Huawei has unveiled what it describes as the first fully Chinese-made desktop PC, powered by its 10-core Kirin X90 processor and running HarmonyOS. The Qingyun HM650 is designed for government agencies and businesses, with enterprise security features and an integrated AI assistant. It is priced at 7,199 yuan (around $1,080), with sales scheduled to begin on December 1.",
+      "link": "https://www.notebookcheck.net/The-first-fully-Chinese-desktop-Huawei-launches-PC-with-Kirin-X90-and-HarmonyOS.1445194.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/The-first-fully-Chinese-desktop-Huawei-launches-PC-with-Kirin-X90-and-HarmonyOS.1445194.0.html"
+    },
+    {
+      "id": 4861,
+      "title": "AMD-powered 15.3-inch gaming laptop releases with 2.5K 240Hz display, 16GB RAM and 1TB SSD",
+      "summary": "Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.",
+      "content": "Mechrevo has listed the Unbounded 15X Blizzard Gaming Edition in China with an AMD Ryzen AI 9 365 processor and a 240Hz display. The laptop also features 16GB of RAM, a 1TB SSD and an 80Wh battery.",
+      "link": "https://www.notebookcheck.net/AMD-powered-15-3-inch-gaming-laptop-releases-with-2-5K-240Hz-display-16GB-RAM-and-1TB-SSD.1444742.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/AMD-powered-15-3-inch-gaming-laptop-releases-with-2-5K-240Hz-display-16GB-RAM-and-1TB-SSD.1444742.0.html"
     },
     {
       "id": 4734,
