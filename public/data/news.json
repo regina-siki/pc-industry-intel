@@ -1,7 +1,622 @@
 {
-  "updatedAt": "2026-11-09",
-  "total": 4959,
+  "updatedAt": "2026-11-10",
+  "total": 5006,
   "list": [
+    {
+      "id": 4960,
+      "title": "Rapidus遭遇关键技术障碍 日本2纳米芯片量产计划面临延期风险",
+      "summary": "日本先进半导体企业Rapidus的2纳米制程项目正遭遇重要挑战。最新消息显示，该公司在推进2纳米工艺研发过程中未能如期完成SRAM（静态随机存取存储器）相关技术里程碑，这使其原定于2027财年实现2纳米芯片量产的目标面临不确定性。 阅读全文",
+      "content": "<p>日本先进半导体企业Rapidus的2纳米制程项目正遭遇重要挑战。最新消息显示，该公司在推进2纳米工艺研发过程中未能如期完成SRAM（静态随机存取存储器）相关技术里程碑，这使其原定于2027财年实现2纳米芯片量产的目标面临不确定性。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585800.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585800.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585800.htm"
+    },
+    {
+      "id": 4961,
+      "title": "希捷推出FireCuda Forge智能混合存储系统 机械硬盘与SSD自动协作",
+      "summary": "希捷（Seagate）推出了一款名为FireCuda Forge的新型外置存储设备，试图将传统机械硬盘的大容量、低成本优势与SSD的高速性能结合起来。它并不是简单地将两块硬盘安装在同一个外壳内，而是通过希捷全新的Alkemi智能存储平台，利用机器学习分析用户的数据访问习惯，自动在机械硬盘和SSD之间迁移文件，让用户在获得大容量存储空间的同时，也能享受到接近SSD的访问速度。 阅读全文",
+      "content": "<p>希捷（Seagate）推出了一款名为FireCuda Forge的新型外置存储设备，试图将传统机械硬盘的大容量、低成本优势与SSD的高速性能结合起来。它并不是简单地将两块硬盘安装在同一个外壳内，而是通过希捷全新的Alkemi智能存储平台，利用机器学习分析用户的数据访问习惯，自动在机械硬盘和SSD之间迁移文件，让用户在获得大容量存储空间的同时，也能享受到接近SSD的访问速度。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585798.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585798.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585798.htm"
+    },
+    {
+      "id": 4962,
+      "title": "独立开发者八个月打造自研引擎 RTX 3080运行森林演示平均约130 FPS",
+      "summary": "独立开发者Tony Macaroni展示了耗时约八个月打造的自研游戏引擎。其森林与草地漫游演示采用1440p录制，在RTX 3080上解除帧率限制后平均约130 FPS，相关视频数日内在YouTube获得超过120万次观看。 阅读全文",
+      "content": "<p>独立开发者Tony Macaroni展示了耗时约八个月打造的自研游戏引擎。其森林与草地漫游演示采用1440p录制，在RTX 3080上解除帧率限制后平均约130 FPS，相关视频数日内在YouTube获得超过120万次观看。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1585790.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1585790.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1585790.htm"
+    },
+    {
+      "id": 4963,
+      "title": "微软请企业为Windows Server新功能“排雷”",
+      "summary": "微软当地时间11月9日在官方技术社区发布招募公告，邀请企业客户参与Windows Server技术采用计划（Technology Adoption Program，简称TAP）。入选企业可以提前测试尚未正式发布的功能和版本，并将使用体验及发现的问题直接反馈给Windows Server产品团队。 阅读全文",
+      "content": "<p>微软当地时间11月9日在官方技术社区发布招募公告，<strong>邀请企业客户参与Windows Server技术采用计划</strong>（Technology Adoption Program，简称TAP）。<strong>入选企业可以提前测试尚未正式发布的功能和版本，并将使用体验及发现的问题直接反馈给Windows Server产品团队</strong>。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585786.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585786.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585786.htm"
+    },
+    {
+      "id": 4964,
+      "title": "全球芯片热潮持续 台积电10月销售额大幅攀升",
+      "summary": "这家全球最大晶圆代工厂周二公布，10 月营收达到 5868.9 亿新台币（折合 178.8 亿美元），同比增长 59.7%，环比上月上涨 14.7%。各大科技企业持续在人工智能领域大举投入，先进半导体需求火热，令台积电从中受益。 阅读全文",
+      "content": "<p>这家全球最大晶圆代工厂周二公布，10 月营收达到 5868.9 亿新台币（折合 178.8 亿美元），同比增长 59.7%，环比上月上涨 14.7%。各大科技企业持续在人工智能领域大举投入，先进半导体需求火热，令台积电从中受益。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585774.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585774.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585774.htm"
+    },
+    {
+      "id": 4965,
+      "title": "黄仁勋出轨女主揭秘 买了近50亿美元英伟达先进AI芯片",
+      "summary": "黄仁勋已大方承认自己的出轨行为，按照英伟达官方的最新安排，他目前仍然会继续担任公司CEO职务。黄仁勋在公开信里直白坦言，自己欠家人和所有相关方一个郑重的道歉。他对妻子不忠，相关行为实实在在伤害了伴侣和孩子，他做的事没有任何可以用来开脱的借口，对此深感愧疚。 阅读全文",
+      "content": "<p><strong>黄仁勋已大方承认自己的出轨行为，按照英伟达官方的最新安排，他目前仍然会继续担任公司CEO职务。黄仁勋在公开信里直白坦言，自己欠家人和所有相关方一个郑重的道歉。</strong>他对妻子不忠，相关行为实实在在伤害了伴侣和孩子，他做的事没有任何可以用来开脱的借口，对此深感愧疚。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585766.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585766.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585766.htm"
+    },
+    {
+      "id": 4966,
+      "title": "黄仁勋八卦背后，借道东南亚的算力租赁生意",
+      "summary": "黄仁勋认了。11 月 8 日，英伟达公开了他写给全体员工的一封信。63 岁的老黄在信里承认对妻子不忠，还写了一句“我欠我的家人和你们所有人一个道歉”。随即英伟达董事会当天宣布启动独立调查。信里没写名字，但大家都知道说的是 Alice Huang，新加坡公司 Megaspeed 的前高管。 阅读全文",
+      "content": "<p>黄仁勋认了。11 月 8 日，英伟达公开了他写给全体员工的一封信。63 岁的老黄在信里承认对妻子不忠，还写了一句“我欠我的家人和你们所有人一个道歉”。随即英伟达董事会当天宣布启动独立调查。信里没写名字，但大家都知道说的是 Alice Huang，新加坡公司 Megaspeed 的前高管。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585762.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585762.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585762.htm"
+    },
+    {
+      "id": 4967,
+      "title": "海思光刻机11月集中交付 12寸/8寸/6寸齐发日本等国",
+      "summary": "据江苏海思（HISIGK）官方披露，其11月迎来集中出货节点，一批全自动双面对准光刻机完成调试并整装待发。本次交付覆盖12寸、8寸、6寸多尺寸平台，分别发往日本MEMS制造企业、AR光波导头部企业及LED芯片企业。 阅读全文",
+      "content": "<p>据江苏海思（HISIGK）官方披露，其11月迎来集中出货节点，一批全自动双面对准光刻机完成调试并整装待发。本次交付覆盖12寸、8寸、6寸多尺寸平台，分别发往日本MEMS制造企业、AR光波导头部企业及LED芯片企业。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585756.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585756.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585756.htm"
+    },
+    {
+      "id": 4968,
+      "title": "美媒分析黄仁勋：英伟达内部60人直接向他汇报 没有“二把手”、没有明确接班人",
+      "summary": "一桩婚外情，冲击全球最重要的AI芯片公司。11月9日，《纽约客》刊发对《思考机器》作者斯蒂芬·维特的采访文章，分析英伟达CEO黄仁勋陷入的风波。 阅读全文",
+      "content": "<p>一桩婚外情，冲击全球最重要的AI芯片公司。11月9日，《纽约客》刊发对《思考机器》作者斯蒂芬·维特的采访文章，分析英伟达CEO黄仁勋陷入的风波。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585748.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585748.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585748.htm"
+    },
+    {
+      "id": 4969,
+      "title": "AMDLSS 5 2.0更新发布 Radeon显卡运行DLSS性能最高提升64%",
+      "summary": "第三方兼容工具AMDLSS 5近日迎来2.0版本更新，开发者宣称新版本通过一系列底层优化，显著提升了AMD Radeon显卡运行英伟达DLSS技术时的性能表现，部分场景下帧率增幅最高可达到64%。 阅读全文",
+      "content": "<p>第三方兼容工具AMDLSS 5近日迎来2.0版本更新，开发者宣称新版本通过一系列底层优化，显著提升了AMD Radeon显卡运行英伟达DLSS技术时的性能表现，部分场景下帧率增幅最高可达到64%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585712.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585712.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585712.htm"
+    },
+    {
+      "id": 4970,
+      "title": "微软新专利：让闲置游戏显卡参与AI训练 电脑用户或可获得现金报酬",
+      "summary": "微软正在探索一种利用普通消费者电脑闲置算力训练人工智能模型的方式。根据近日公开的一份专利申请，微软提出建立一个分布式计算网络，将大型AI模型训练任务拆分成大量小型任务，分配给处于空闲状态的游戏电脑、笔记本电脑，甚至智能手机。愿意提供设备算力的用户，则可能获得积分、免费软件、AI模型使用权限，甚至现金报酬。 阅读全文",
+      "content": "<p>微软正在探索一种利用普通消费者电脑闲置算力训练人工智能模型的方式。根据近日公开的一份专利申请，微软提出建立一个分布式计算网络，将大型AI模型训练任务拆分成大量小型任务，分配给处于空闲状态的游戏电脑、笔记本电脑，甚至智能手机。愿意提供设备算力的用户，则可能获得积分、免费软件、AI模型使用权限，甚至现金报酬。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585710.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585710.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585710.htm"
+    },
+    {
+      "id": 4971,
+      "title": "Google Gemini关联邮箱和云端硬盘后 部分内容会被人工审核",
+      "summary": "日前有开发者发布测试报告称，个人版 Gemini AI 在关联 Google Workspace 后可能会根据日常对话自动检索 Gmail 邮件或Google云端硬盘中存储的文件。而Google在帮助文档中提到，Gemini 处理的部分关联应用数据可能会被人工审核，内容包括但不限于邮件和文件的摘要和摘录，某些情况下还有可能包含完整内容。 阅读全文",
+      "content": "<p>日前有开发者发布测试报告称，个人版 Gemini AI 在关联 Google Workspace 后可能会根据日常对话自动检索 Gmail 邮件或Google云端硬盘中存储的文件。而Google在帮助文档中提到，Gemini 处理的部分关联应用数据可能会被人工审核，内容包括但不限于邮件和文件的摘要和摘录，某些情况下还有可能包含完整内容。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585684.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585684.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585684.htm"
+    },
+    {
+      "id": 4972,
+      "title": "开发中代码被搬运甚至被AI改写隐藏来源 Asahi Linux决定转向GPL许可证",
+      "summary": "致力于让 Linux 系统在苹果 M 芯片上运行的 Asahi Linux 项目日前宣布：开始把旗下代码仓库转向 GPL 2.0 或更高版本的许可证。从 MIT 许可证转向 GPL 许可证意味着宽松授权被收紧，作为开源项目为什么要收紧许可条款呢？ 阅读全文",
+      "content": "<p>致力于让 Linux 系统在苹果 M 芯片上运行的 Asahi Linux 项目日前宣布：开始把旗下代码仓库转向 GPL 2.0 或更高版本的许可证。从 MIT 许可证转向 GPL 许可证意味着宽松授权被收紧，作为开源项目为什么要收紧许可条款呢？</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585682.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585682.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585682.htm"
+    },
+    {
+      "id": 4973,
+      "title": "科学家在碲化锰观察到交替磁性证据",
+      "summary": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑的自旋电子器件。此次实验把目光投向磁振子",
+      "content": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑的自旋电子器件。此次实验把目光投向磁振子。材料受热或受扰后，局部自旋变化会像水波一样向周围传递，这种集体波动的量子化单位就是磁振子。理论曾预言，交替磁体中的磁振子可能带“手性”——自旋集体运动存在顺时针或逆时针的偏好，且这种偏好会随传播方向改变。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85844",
+      "source": "Solidot",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85844"
+    },
+    {
+      "id": 4974,
+      "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
+      "summary": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表了一项研究，发现使用司美格鲁肽处方药的",
+      "content": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表了一项研究，发现使用司美格鲁肽处方药的糖尿病患者患 NAION 的可能性是未使用该药患者的四倍。FDA 随后展开了调查，在审查了递交的副作用报告和多项临床试验的数据之后，FDA 发现所有 GLP-1 药物均出现 NAION 病例的报告。FDA 科学家尚未能明确药物导致 NAION 风险增加的具体机制。NAION 的某些危险因素，与 GLP-1 药物使用者中常见的健康状况——如 2 型糖尿病、肥胖症、睡眠呼吸暂停和高血压——存在重叠。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85843",
+      "source": "Solidot",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85843"
+    },
+    {
+      "id": 4975,
+      "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元（IT之家注：现汇率约合 4,306.16 亿元人民币），并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者融资 260 亿美元（现汇率约合 1,738.51 亿元人民币）。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthr",
+      "content": "<p data-vmark=\"e5a6\" style=\"text-align: start;\">IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4,306.16 亿元人民币）</span>，并准备启动上市推介。</p><p data-vmark=\"7ddc\" style=\"text-align: start;\">招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者<strong>融资 260 亿美元</strong><span class=\"exch-money-value\">（现汇率约合 1,738.51 亿元人民币）</span>。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的<strong>募资规模最高可达 904 亿美元</strong><span class=\"exch-money-value\">（现汇率约合 6,044.67 亿元人民币）</span>。</p><p data-vmark=\"dd67\" style=\"text-align: start;\">Anthropic 及部分现有投资者计划在 IPO 中出售股票，初步定价区间为每股 70 至 78 美元<span class=\"exch-money-value\">（现汇率约合 468.1 至 521.6 元人民币）</span>。具体发行安排预计近期公布。</p><p data-vmark=\"d0b9\" style=\"text-align: start;\">而在当地时间 9 日，路透社披露，Anthropic 计划通过 IPO 募集至多 693 亿美元<span class=\"exch-money-value\">（现汇率约合 4,633.8 亿元人民币）</span>资金。然而，在向银行分发“拟 IPO 筹资 693 亿美元”证券备案文件副本后的短时间内，Anthropic 又撤回了有关文件并回应称，其中有关定价的细节不准确，稍后将更新备案文件。</p><p data-vmark=\"47bf\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"7301\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/024/849.htm\">Anthropic 称定价细节不准确，撤回“拟 IPO 筹资 693 亿美元”文件</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/127.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/127.htm"
+    },
+    {
+      "id": 4976,
+      "title": "华为：鸿蒙电脑应用数量已突破 2.1 万款，通用办公基本盘稳固、多款专业软件已完成适配",
+      "summary": "IT之家 11 月 10 日消息，华为宣布旗下鸿蒙电脑应用数量已正式突破 2.1 万款，通用办公基本盘稳固，AI 赛道快速崛起，多款专业电脑应用也逐步向鸿蒙平台延伸，形成兼顾便携与专业的移动办公体验。 华为表示，目前 WPS Office、钉钉、飞书、企业微信等头部应用已全面适配鸿蒙系统，WorkBuddy、豆包、豆包办公、千问等应用陆续上架，千问办公三端一致首发上架鸿蒙电脑，可为鸿蒙电脑带来全场景 AI 体验。 同时，中望 CAD、中望 3D、MWORKS、悟空图像等专业软",
+      "content": "<p data-vmark=\"233a\">IT之家 11 月 10 日消息，华为宣布旗下鸿蒙电脑应用数量已正式突破 2.1 万款，通用办公基本盘稳固，AI 赛道快速崛起，多款专业电脑应用也逐步向鸿蒙平台延伸，形成兼顾便携与专业的移动办公体验。</p><p style=\"text-align: center;\" data-vmark=\"6d20\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f59b3fb7-cc02-4de0-b742-00bd5a8f8c1a.png\" w=\"1269\" h=\"483\" alt=\"图片 1\" data-weibo=\"0\" data-vmark=\"f764\" class=\"nowebp\"></p><p data-vmark=\"b9d5\">华为表示，目前 WPS Office、钉钉、飞书、企业微信等头部应用已全面适配鸿蒙系统，WorkBuddy、豆包、豆包办公、千问等应用陆续上架，千问办公三端一致首发上架鸿蒙电脑，可为鸿蒙电脑带来全场景 AI 体验。</p><p style=\"text-align: center;\" data-vmark=\"3b6c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/39f35e05-67eb-4b76-814f-8f783f7e0c0b.png\" w=\"1269\" h=\"482\" alt=\"图片 6\" data-weibo=\"1\" data-vmark=\"b384\" class=\"nowebp\"></p><p data-vmark=\"0865\">同时，中望 CAD、中望 3D、MWORKS、悟空图像等专业软件已完成适配鸿蒙系统，填补工程设计、科学仿真等国产电脑生态空白，迎来自主工业软件窗口期。</p><p data-vmark=\"fe04\">在开源共建层面，华为联合生态伙伴推进 Chromium、Electron、Qt 等 10 余个主流跨平台框架适配，丰富超 1 万项三方库，降低应用迁移成本。人才方面，鸿蒙注册开发者突破 1100 万，华为联合 650 余所高校、7500 余家企业单位，每月培养超 10 万名鸿蒙开发者。</p><p style=\"text-align: center;\" data-vmark=\"1cc5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0eef3121-6ba9-4a20-b641-ee5664b4fe90.png\" w=\"1268\" h=\"482\" alt=\"图片 4\" data-weibo=\"2\" data-vmark=\"a2ee\" class=\"nowebp\"></p><p data-vmark=\"937e\">同时，华为已建成一站式开发者工具链：鸿蒙电脑端 DevEco 启动公测，实现“用鸿蒙电脑开发鸿蒙应用”的闭环；DevEco Code 将 AI 能力融入需求设计、代码生成、功能验证全流程，配合 70 余项鸿蒙 Skills、2000 万字知识库的 DevEco CLI，可帮助开发者降低开发门槛。</p>",
+      "link": "https://www.ithome.com/1/025/121.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/121.htm"
+    },
+    {
+      "id": 4977,
+      "title": "海贝推出 HIBY FC4 屏幕版解码耳放：双 CS43131 DAC 芯片、配 1.1 英寸 OLED 面板，首发价 311 元",
+      "summary": "IT之家 11 月 10 日消息，海贝现已在京东上架 HIBY FC4 屏幕版解码耳放，定价为 336 元，首发价 311 元。 京东 HiBy 海贝 FC4 屏幕版耳放券后 311 元领 25 元券 该产品尺寸为 63x26x13mm，重量约 21g，提供黑色、银色和绿色三种配色可选，整体采用赛博机甲风格设计，正面配备一块 1.1 英寸 OLED 彩色显示屏，可直观显示设备的运行状态与音频参数，机身侧边配有 30 级实体硬件音量按键与功能键，并具备音量记忆功能。 该机采用双",
+      "content": "<p data-vmark=\"e3ef\">IT之家 11 月 10 日消息，海贝现已在京东上架 HIBY FC4 屏幕版解码耳放，定价为 336 元，<strong>首发价 311 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o6ueeUR\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oOuhrzn\" data-iosurl=\"https://u.jd.com/o6sdhtN\" data-androidurl=\"https://u.jd.com/oDsMd5I\" data-hosnexturl=\"https://u.jd.com/orsLYis\" data-hosurl=\"https://u.jd.com/oruxWdC\" data-uwpurl=\"https://u.jd.com/oDuXH7F\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fo1sCOSM%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oOu7yHG\" data-lpwxurl=\"https://u.jd.com/oGsLIqp\"   data-ncid=\"269051\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/296434/14/27102/26194/688883cbFa0dab022/b928104dfc22d82b.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HiBy 海贝 FC4 屏幕版耳放</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 311 元</span><span class=\"card-btn-deep\">领 25 元券</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"a505\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ad9d4164-133f-468b-828e-9da5aa1d30e5.png\" w=\"614\" h=\"1648\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"1056\"></p><p data-vmark=\"5988\">该产品尺寸为 63x26x13mm，重量约 21g，提供黑色、银色和绿色三种配色可选，整体采用赛博机甲风格设计，正面配备一块 1.1 英寸 OLED 彩色显示屏，可直观显示设备的运行状态与音频参数，机身侧边配有 30 级实体硬件音量按键与功能键，并具备音量记忆功能。</p><p style=\"text-align: center;\" data-vmark=\"acd9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/468b5331-52f9-44d5-9593-430ccd1a5af6.png\" w=\"612\" h=\"762\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"526d\"></p><p style=\"text-align: center;\" data-vmark=\"0e3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d06a137a-fa17-4950-bd31-fb712deb9d25.png\" w=\"620\" h=\"1654\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"186c\"></p><p data-vmark=\"c7d8\">该机采用双 CS43131 DAC 芯片，结合 45.1584MHz 与 49.152MHz 两颗专用音频晶振，以降低时钟抖动并提升信号精度。音频规格支持最高 DSD512 与 PCM 768kHz/32bit 解码，并获得 Hi-Res 认证。在配合支持的音乐软件使用时，该设备支持 MQA 8X 展开功能，以还原更多音频细节。</p><p style=\"text-align: center;\" data-vmark=\"8e29\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/900cfa25-f89b-4436-9922-5cd68ca15bba.png\" w=\"624\" h=\"1680\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"061b\"></p><p data-vmark=\"49a8\">该机配备了 3.5mm 单端与 4.4mm 平衡双输出接口。其中 3.5mm 接口输出功率为 70mW，信噪比为 123dB；4.4mm 接口输出功率达 151mW，信噪比为 124dB，两者的频响范围均为 20Hz-90kHz。设备支持 iOS、Android、macOS 与 Windows 系统，在 Mac 与 Win10 系统下支持免驱即插即用。产品兼容 UAC1.0 与 UAC2.0 标准，可直接连接 PS5、Switch 等游戏主机。</p><p style=\"text-align: center;\" data-vmark=\"be7b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/cd42dfa6-2aa3-49fd-b12e-c88b3806e06c.png\" w=\"616\" h=\"1482\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"ebd5\"></p><p data-vmark=\"a526\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"6571\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e2b202ad-7be8-42b2-b903-b20984c1b46e.png\" w=\"616\" h=\"1212\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-vmark=\"6058\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/113.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/113.htm"
+    },
+    {
+      "id": 4978,
+      "title": "超频三推出 C3 T310 海景房机箱：兼容 360mm 水冷，可选黑白双色，179 元起",
+      "summary": "IT之家 11 月 10 日消息，超频三现已在京东上架 C3 T310 机箱，其中黑色定价为 179 元，白色定价为 189 元。 京东超频 3 C3 T310 机箱 179 元起直达链接 该机箱尺寸为 420 x 280 x 360mm，采用 270° 全景无立柱设计，机箱顶部配备了快拆磁吸防尘网，I/O 面板集成了 1 个 USB-A 3.0、1 个 USB-A 2.0、1 个音频麦克风接口。 该机箱兼容 M-ATX 与 ITX 规格主板，提供 4 个 PCIe 扩展槽。",
+      "content": "<p data-vmark=\"2456\">IT之家 11 月 10 日消息，超频三现已在京东上架 C3 T310 机箱，其中黑色定价为 179 元，白色定价为 189 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oOsC6yI\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o1uFvBe\" data-iosurl=\"https://u.jd.com/orufDuL\" data-androidurl=\"https://u.jd.com/o1ufrqQ\" data-hosnexturl=\"https://u.jd.com/oDuRHNO\" data-hosurl=\"https://u.jd.com/o6sCzBm\" data-uwpurl=\"https://u.jd.com/orsLTBr\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foGucTaF%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/orufDJL\" data-lpwxurl=\"https://u.jd.com/oaujmg3\"   data-ncid=\"269012\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/547024/32/5536/58707/6ad70afdFcd97e68c/0083320320b40eea.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">超频 3 C3 T310 机箱</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 179 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"95f4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f3437fa8-7d66-4856-8ebc-a0e63be28be3.png\" w=\"672\" h=\"1108\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"fe2e\"></p><p data-vmark=\"c215\">该机箱尺寸为 420 x 280 x 360mm，采用 270° 全景无立柱设计，机箱顶部配备了快拆磁吸防尘网，I/O 面板集成了 1 个 USB-A 3.0、1 个 USB-A 2.0、1 个音频麦克风接口。</p><p style=\"text-align: center;\" data-vmark=\"cee8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dc1dbcef-2f68-47c1-83d0-2c04ae512824.png\" w=\"666\" h=\"824\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"11a3\"></p><p style=\"text-align: center;\" data-vmark=\"7e17\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c86b1302-9cdf-426c-9794-e94a7968bcb8.png\" w=\"636\" h=\"606\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"9af3\"></p><p data-vmark=\"c559\">该机箱兼容 M-ATX 与 ITX 规格主板，提供 4 个 PCIe 扩展槽。显卡限长达到 410mm，CPU 散热器限高为 165mm，电源舱支持安装长度在 160mm 以内的 ATX 规格电源，机箱可同时安装两块 2.5\" SSD 固态硬盘和一块 3.5\" HDD 机械硬盘。</p><p style=\"text-align: center;\" data-vmark=\"8192\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f5c94c8a-ea37-4167-b393-df38e22ddb54.png\" w=\"644\" h=\"696\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"57f5\"></p><p data-vmark=\"d6d9\">该机箱背板理线仓深度达到 90mm，内部总共提供 9 个 120mm 的风扇安装位，可构建多向进出的立体风道。具体分布为顶部支持 3 个、底部支持 3 个、侧面支持 2 个以及后部支持 1 个。机箱顶部支持安装 360mm 或 240mm 规格的水冷排，后部则支持安装 120mm 的水冷排。</p><p style=\"text-align: center;\" data-vmark=\"6eef\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/16ae8272-5017-4d74-a12b-f0acc66c1b7e.png\" w=\"666\" h=\"664\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"cbf8\"></p><p data-vmark=\"82ab\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"17fc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6828a5c0-5664-4955-838c-3e7ae1906fb2.png\" w=\"686\" h=\"1294\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-vmark=\"8f8b\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/093.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/093.htm"
+    },
+    {
+      "id": 4979,
+      "title": "东风本田 CR-V 全能荣耀款新车上市：华为云技术赋能云车机应用，现时售价 13.79 万元起",
+      "summary": "IT之家 11 月 10 日消息，东风本田 CR-V 全能荣耀款新车今晚正式上市，现时售价 13.79 万元起，2,000 元可选价值 5,000 元智享选装包（13 寸 AI 智能屏 + 配套车机、360° 全景影像）。 燃油版 活力版：13.79 万元起 风尚版：15.89 万元起 风尚 7 座版：16.59 万元起 风尚四驱版：17.19 万元起 活力版 + 智享选装包：13.99 万元 混动版 电混活力版：15.69 万元起 电混风尚版：16.69 万元起 电混尊享版",
+      "content": "<p data-vmark=\"8b70\">IT之家 11 月 10 日消息，东风本田 CR-V 全能荣耀款新车今晚正式上市，<strong>现时售价 13.79 万元起</strong>，2,000 元可选价值 5,000 元智享选装包（13 寸 AI 智能屏 + 配套车机、360° 全景影像）。</p><p style=\"text-align: center;\" data-vmark=\"7929\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9041632d-c000-4726-902d-6bf2c89458b5.jpg\" w=\"1440\" h=\"915\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1dfa09ddba2ca83406b761003365254e12d31ecde1c0047831a805096ff6431c0d0145d2aac90e6d8\" data-vmark=\"0b3b\"></p><blockquote><h3 data-vmark=\"4347\">燃油版</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1fe7\">活力版：13.79 万元起</p></li><li><p data-vmark=\"b887\">风尚版：15.89 万元起</p></li><li><p data-vmark=\"0c67\">风尚 7 座版：16.59 万元起</p></li><li><p data-vmark=\"05c3\">风尚四驱版：17.19 万元起</p></li><li><p data-vmark=\"babb\">活力版 + 智享选装包：13.99 万元</p></li></ul><h3 data-vmark=\"4b2e\">混动版</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"9f7f\">电混活力版：15.69 万元起</p></li><li><p data-vmark=\"1cb6\">电混风尚版：16.69 万元起</p></li><li><p data-vmark=\"c6f9\">电混尊享版：17.69 万元起</p></li><li><p data-vmark=\"12dc\">电混尊享四驱版：18.69 万元起</p></li><li><p data-vmark=\"2bd2\">电混风尚版 + 智享选装包：16.89 万元</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"e94b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ce8b662b-60d6-4a46-9590-449713de3051.jpg\" w=\"1440\" h=\"1080\" data-marks=\"1931fd9d012eb6d16dc4f47891e566460847833b78e3b7d8758707cb94021464f69115ebddd80aecbcb19ad7d978be18\" class=\"nowebp no-alt-img\" data-mpos=\"2,0\" data-vmark=\"7399\"></p><p data-vmark=\"f614\">据介绍，新车采用经典美学设计，配备立体式 LED 组合尾灯 + LED 前大灯 + 时尚造型格栅 + 铝合金运动轮毂。燃油版提供烟雨青、晶耀白、摩登灰和彩晶黑四款车色；混动版提供摩登灰、皓月白、烟雨青和彩晶黑四款车色。</p><p style=\"text-align: center;\" data-vmark=\"1dcd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6870c778-e282-404f-96fc-608c2a223305.jpg\" w=\"1440\" h=\"663\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1e2595250ca92b5f546b68a7f093d6a88b24cb8670fc0c7e8e9c5dec796443b121c7caeafe91089ca\" data-vmark=\"9d33\"></p><p data-vmark=\"2707\">东风本田 CR-V 全能荣耀款尺寸为 4703×1866×1680mm、轴距 2701mm，<strong>支持 MVCS 540° 全景影像系统</strong>，座舱新增灰米色内饰，支持 50W 手机无线快充、脚部感应式电动尾门（带离车自动关闭和防夹功能）。</p><p style=\"text-align: center;\" data-vmark=\"4dc3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5d2b6d3b-932e-49fd-b561-79666618879d.jpg\" w=\"1077\" h=\"693\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d14b6222a1547a868873edd3971c946f4fa7db08286dcc10991141980e344f252de2aeca004f18295d\" data-vmark=\"34ec\"></p><p data-vmark=\"263b\">新车搭载高性能麦弗逊前悬 + SFRD 频率响应减震系统，这套减震可以根据路面、震动频率自适应调节阻尼，提升滤震，开起来更平稳舒适。同时，<strong>CR-V 全系标配 10 个安全气囊</strong>，侧气帘、膝部气囊一并到位，正面、侧面与偏置碰撞都有对应防护。</p><p style=\"text-align: center;\" data-vmark=\"b4cd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ea383140-aa01-47e3-a8a3-1632573e178f.jpg\" w=\"1440\" h=\"1047\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d11e2c5e55b3de3778c6422f79365a0ea9d9c284b14e6dc2c92fe5a6559942275f639fabda0dd4b85c\" data-vmark=\"b582\"></p><p data-vmark=\"de48\">东风本田 CR-V 全能荣耀款新增风尚四驱版，将 Real-Time AWD 智能四驱系统装进燃油动力版本；<strong>混动版本搭载的第四代 i-MMD 双电机混合动力系统</strong>，具备 EV、混合动力和发动机直连三种驱动模式。其 WLTC 综合工况油耗 5.49L/100km，城市低速路况下实测 3.13L/100km。</p><p data-vmark=\"b056\">IT之家注意到，<strong>该车还支持华为云技术赋能的云车机应用</strong>，Honda CONNECT 4.0 智导互联系统覆盖在线导航、语音交互、远程控车等功能，并提供 HUAWEI HiCar、Apple CarPlay、百度 CarLife+ 三大手车互联能力。</p><p style=\"text-align: center;\" data-vmark=\"5ff1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/303e4c36-31eb-4a2b-9d75-9175e3584ace.jpg\" w=\"1226\" h=\"690\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1541862c78cb8435d787e2873b5afd05bee3343fc88a38d663af2e66028c4c7f97a4cd8a6cad0dcf9\" data-vmark=\"fc01\"></p><p data-vmark=\"22c8\">IT之家附东风本田 CR-V 全能荣耀款核心亮点如下：</p><p style=\"text-align: center;\" data-vmark=\"9ccd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6a6f6731-6b39-4254-a613-78190201fc00.jpg\" w=\"560\" h=\"9698\" data-weibo=\"6\" class=\"nowebp no-alt-img\"  data-mpos=\"2,0\" data-vmark=\"d3f5\"></p>",
+      "link": "https://www.ithome.com/1/025/076.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/076.htm"
+    },
+    {
+      "id": 4980,
+      "title": "AOC“AG277UXA”27 英寸显示器发售：4K 200Hz / FHD 400Hz 双模，首发价 2199 元",
+      "summary": "IT之家 11 月 10 日消息，AOC 旗下“AG277UXA”27 英寸显示器将于今晚 8 点发售，该机主打 4K 200Hz / FHD 400Hz 双模，定价为 2999 元，官方称今晚 8 点抢购到手价不高于 2199 元。 京东 AOC“AG277UXA”显示器 2199 元领 150 元券 该机配备的 Fast IPS 面板支持以 1920x1080 分辨率 400Hz 或 3840x2160 分辨率 200Hz 显示，其峰值亮度 450 尼特，MPRT 响应速",
+      "content": "<p data-vmark=\"87e1\">IT之家 11 月 10 日消息，AOC 旗下“AG277UXA”27 英寸显示器将于今晚 8 点发售，该机主打 4K 200Hz / FHD 400Hz 双模，定价为 2999 元，官方称今晚 8 点抢购到手价不高于 2199 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oauHJcV\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o1u0IKr\" data-iosurl=\"https://u.jd.com/oOuTJWo\" data-androidurl=\"https://u.jd.com/oGuS4lA\" data-hosnexturl=\"https://u.jd.com/o6un9XX\" data-hosurl=\"https://u.jd.com/ogupgUl\" data-uwpurl=\"https://u.jd.com/oGuvQWP\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foguHEMo%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oDulsMT\" data-lpwxurl=\"https://u.jd.com/oruP2sk\"   data-ncid=\"268915\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/556538/40/5387/252251/6ae41058F0797eb42/0083438438fb9267.jpg\" w=\"1080\" h=\"1080\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC“AG277UXA”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2199 元</span><span class=\"card-btn-deep\">领 150 元券</span></span></span></span></a></dir><p data-vmark=\"b669\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/424919cc-3b8c-49dd-af00-84506d774fd3.png\" w=\"626\" h=\"1314\" data-weibo=\"0\" data-vmark=\"c83c\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"632e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/09769e6e-4138-4509-889a-8538155a37bb.png\" w=\"630\" h=\"1458\" data-weibo=\"1\" data-vmark=\"2e5c\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"59b1\">该机配备的 Fast IPS 面板支持以 1920x1080 分辨率 400Hz 或 3840x2160 分辨率 200Hz 显示，其峰值亮度 450 尼特，MPRT 响应速度 0.3ms，GtG 响应速度 1ms，覆盖 95% DCI-P3 色域。</p><p data-vmark=\"c966\">该机支架支持升降 / 倾斜 / 旋转，显示器本体背面配备氛围灯，提供了 2 个 HDMI 2.1、1 个 DP 2.1、1 个 USB-C、3 个 USB-A 3.2 Gen 1 接口。</p><p data-vmark=\"b4c8\">IT之家附显示器参数：</p><p data-vmark=\"7525\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fef3b087-72cf-409a-b18c-5945f8c02a40.png\" w=\"620\" h=\"1526\" data-weibo=\"2\" data-vmark=\"e2ca\" class=\"nowebp no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/039.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/039.htm"
+    },
+    {
+      "id": 4981,
+      "title": "消息称苹果开始对 iPhone 改机解锁“动手”，后续是否还会加强措施暂不明确",
+      "summary": "IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”，但暂不明确后续是否还会加强措施。 IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。 目前尚不知晓此次变动带来的影响。需要注意的是，苹果官网已明确未经授权修改 iOS 会绕过安全功能，并可导致遭篡改的 iPhone 出现很多问题，例如安全漏洞、不稳定",
+      "content": "<p data-vmark=\"9e49\">IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”，<strong>但暂不明确后续是否还会加强措施</strong>。</p><p style=\"text-align: center;\" data-vmark=\"299e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/269c893d-1423-4051-82b7-5629727954f6.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"558\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1d2f56e85ca6ed1b25b41e985671e1a702e3ad572111ea973de91a0028c08607cd1da689451dcb54b\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F2343781431%2FRqKCqaAHV%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"c477\" class=\"no-alt-img\"></p><p data-vmark=\"3757\">IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。</p><p data-vmark=\"bbcf\">目前尚不知晓此次变动带来的影响。需要注意的是，苹果官网已明确未经授权修改 iOS 会绕过安全功能，并可导致遭篡改的 iPhone 出现很多问题，例如安全漏洞、不稳定和电池续航时间缩短。另外，一般来说，苹果“动手”一般有如下几种情况：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"9f6e\"><strong>后台校验拉黑这批篡改过的序列号</strong>：原本硬改完能正常进系统、登录 ID 的机器，被苹果服务器识别到底层串号异常；</p></li><li><p data-vmark=\"78d1\"><strong>触发锁机</strong>：设备联网校验之后，直接重新弹出激活锁、变砖；</p></li><li><p data-vmark=\"20d1\"><strong>限制功能</strong>：就算暂时不锁，iCloud、推送、Apple Pay 等功能直接失效。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"d244\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ed762c3d-86c1-4a05-bc4f-e29647cd239d.jpg?x-bce-process=image/format,f_auto\" w=\"620\" h=\"550\" data-vmark=\"37c8\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"bad622b2-18e3-444e-a369-d7f577299f97\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuYmlsaWJpbGkuY29tJTJGcmVhZCUyRm1vYmlsZSUzRmJzb3VyY2UlM0R0b3V0aWFvX2JpbGliaWxpaDUlMjZpZCUzRDE5OTIyMTg2JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuMTYzLmNvbSUyRmR5JTJGYXJ0aWNsZSUyRkhQM1I3N0pJMDUxNEVUR04uaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGY2xvdWQudGVuY2VudC5jb20lMkZkZXZlbG9wZXIlMkZuZXdzJTJGOTk3OTUlMjIlMkMlMjJodHRwJTNBJTJGJTJGd3d3Lmp3dmlldy5jb20lMkZqaW5nd2VpJTJGaHRtbCUyRm0lMkYwNS0xMiUyRjQ4MjM3Ny5zaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGc3VwcG9ydC5hcHBsZS5jb20lMkZ6aC1jbiUyRjEwODkzNCUzRl9yZWZsdXhvcyUzRGExMCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGc3VwcG9ydC5hcHBsZS5jb20lMkZ6aC1jbiUyRmd1aWRlJTJGaXBob25lJTJGaXBoOTM4NWJiMjZhJTJGMTclMjIlNUQ=\" class=\"ai-point \"><h3 data-vmark=\"d177\">延伸阅读</h3><p data-vmark=\"8e63\"><span data-ref-ids=\"\" data-ref-urls=\"0,1\">公开资料显示，超雪是国内知名的 iPhone 卡贴解锁团队，与 DB、GPP 并称华强北卡贴市场的“三驾马车”，因用户口碑两极分化而被人戏称为“西门吹雪”。除卡贴外，该团队的业务还涉及 eSIM 卡、WW 黑解、官解等，在华强北卡贴机市场综合实力较强。</span></p><p data-vmark=\"897c\"><span data-ref-ids=\"\" data-ref-urls=\"2,3\">需要区分的是，“改机解锁”与常说的“黑解”“卡贴”并非同一回事：黑解是通过更改 IMEI 的激活策略，让苹果服务器误认为设备是无锁机，从而绕过运营商的网络锁；卡贴则是通过修改 ICCID 编码欺骗 iPhone，让非原运营商的 SIM 卡也能正常使用。二者针对的是运营商定制“有锁机”，而改机解锁则是靠硬件手段篡改序列号、SN、IMEI 等信息，绕过的是 iCloud 激活锁。</span></p><p data-vmark=\"4d47\"><span data-ref-ids=\"\" data-ref-urls=\"4\">所谓激活锁，是苹果“查找”功能的一部分：设备开启“查找我的 iPhone”后，即便被抹掉，也必须输入原 Apple 账户和密码才能重新激活，其本意是防止设备失窃后被他人使用。正常情况下，用户可登录 <span class=\"link-text-start-with-http\">iCloud.com/</span> find，选择要移除的设备来解除激活锁。</span></p><p data-vmark=\"cebe\"><span data-ref-ids=\"\" data-ref-urls=\"5\">苹果官方明确表示，未经授权修改 iOS 会绕过设备的安全功能，可能导致个人信息泄露、系统不稳定、电池续航缩短，iCloud、iMessage、FaceTime、Apple Pay 及推送通知等服务中断，甚至安装后续系统更新后设备永久无法操作，并强调有权拒绝为安装过未经授权软件的设备提供维修服务。</span></p><p data-vmark=\"2724\"><span data-ref-ids=\"1019109\" data-ref-urls=\"\">对于有意购买二手 iPhone 的用户，业内建议核对机身、卡槽与系统内三处序列号是否一致，三者对不上通常是翻新换壳的高危信号，也可通过苹果官网查询序列号确认设备状态，以避免买到被动过手脚的机器。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/025/017.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/017.htm"
+    },
+    {
+      "id": 4982,
+      "title": "Pura X“登陆”PC？华为 MateBook Fold S 小折叠鸿蒙电脑 Live 小方屏玩法曝光",
+      "summary": "IT之家 11 月 10 日消息，华为官方今日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订。 据介绍，新机 A 面搭载一块小方屏，提供云海蓝、天际白、幻夜黑三款配色。IT之家注意到，目前，华为 MateBook Fold S 小折叠鸿蒙电脑的 Live 小方屏玩法已曝光，画面显示，其形态、功能与 Pura X 小阔折叠手机的背屏几乎一致。 华为 Pura X 是首款“阔折叠”形态手机，采用 16:10 阔型屏设计",
+      "content": "<p data-vmark=\"0663\">IT之家 11 月 10 日消息，华为官方今日宣布全新鸿蒙小折叠电脑 —— MateBook Fold S 将于 11 月 14 日 10:08 开启预订。</p><p style=\"text-align: center;\" data-vmark=\"cf64\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/770a4359-8d71-4b46-a909-bff9d83e2397.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1920\" data-vmark=\"008c\" data-mpos=\"0,2\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"0087\">据介绍，新机 A 面搭载一块小方屏，提供云海蓝、天际白、幻夜黑三款配色。IT之家注意到，目前，华为 MateBook Fold S 小折叠鸿蒙电脑的 Live 小方屏玩法已曝光，画面显示，<strong>其形态、功能与 Pura X 小阔折叠手机的背屏几乎一致</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2078\"><a href=\"https://weibo.com/2772978773/RqJ8Tsh6E\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e7c469da-ca56-4047-a2cd-1b9046e7baa9.jpg\"></a></p><p style=\"text-align: left;\" data-vmark=\"ee5c\">华为 Pura X 是首款“阔折叠”形态手机，采用 16:10 阔型屏设计，也是首次全面搭载鸿蒙 HarmonyOS 5 系统的手机，支持第二代灵犀通信（5A 速度）、天通卫星通信。电池容量为 4720mAh 的高硅负极电池，支持 66W 有线快充 + 40W 无线快充。</p><p style=\"text-align: center;\" data-vmark=\"d57f\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/3/247f479a-0ebc-444c-abc6-e5e748a06a6c.jpg\" w=\"1016\" h=\"674\" data-vmark=\"dbc7\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"2dd3\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5153\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/024/975.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/975.htm"
+    },
+    {
+      "id": 4983,
+      "title": "优派推出“VX24G81J-4K”23.8 英寸显示器：4K 160Hz Fast IPS，1721 元",
+      "summary": "IT之家 11 月 10 日消息，优派现已在京东上架型号为“VX24G81J-4K”的 23.8 英寸显示器，该机主打 4K 160Hz，定价为 1721 元，部分地区国补后低至 1399 元。 该机配备一块 3840x2160 分辨率 160Hz Fast IPS 面板，典型对比度为 1000:1，典型亮度为 400 尼特，带有抗眩光、3H、25% 雾度表面涂层，显示器支持原生 8-Bit 色彩，覆盖 100% sRGB、97% DCI-P3、95% AdobeRGB 色域",
+      "content": "<p data-vmark=\"3ccb\">IT之家 11 月 10 日消息，优派现已在京东上架型号为“VX24G81J-4K”的 23.8 英寸显示器，该机主打 4K 160Hz，定价为 1721 元，部分地区国补后低至 1399 元。</p><p style=\"text-align: center;\" data-vmark=\"8eb7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/40760db1-21f9-4c84-a0b0-c9c0c1cf8729.png\" w=\"626\" h=\"1096\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"9380\"></p><p style=\"text-align: center;\" data-vmark=\"e5c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0248ae70-26b4-40cc-a4e2-b00067c80ebd.png\" w=\"618\" h=\"1480\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"69b4\"></p><p data-vmark=\"145a\">该机配备一块 3840x2160 分辨率 160Hz Fast IPS 面板，典型对比度为 1000:1，典型亮度为 400 尼特，带有抗眩光、3H、25% 雾度表面涂层，显示器支持原生 8-Bit 色彩，覆盖 100% sRGB、97% DCI-P3、95% AdobeRGB 色域。</p><p data-vmark=\"a48b\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 2 个 HDMI 2.1、3 个 DP 1.4、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"ab62\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3fc85031-49ba-4997-963a-dc7ad6211541.png\" w=\"628\" h=\"1092\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"abe0\"></p><p data-vmark=\"62c1\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"853f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ed2da37a-ae7a-4475-920a-69fff7c7fc4d.png\" w=\"608\" h=\"856\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"8873\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oru8uVg\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oOuG5Kx\" data-iosurl=\"https://u.jd.com/o6uByoV\" data-androidurl=\"https://u.jd.com/oruPcg2\" data-hosnexturl=\"https://u.jd.com/oDu08C5\" data-hosurl=\"https://u.jd.com/oOuS4KB\" data-uwpurl=\"https://u.jd.com/oDuaNuh\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foDuW6nu%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oauYYbS\" data-lpwxurl=\"https://u.jd.com/oGuvbqF\"   data-ncid=\"268768\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/577934/19/3770/213504/6af29794F5c5b8e0e/008332032060f30e.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">优派“VX24G81J-4K”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1721 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8b04\"><span class=\"font-color-red\"><strong>京东 11.11 无门槛红包</strong> </span>面额至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FOYj5JY\" target=\"_blank\" title=\"点此抽红包\" data-androidurl=\"https://u.jd.com/FGYH495\" data-iosurl=\"https://u.jd.com/FrYcJdU\" data-uwpurl=\"https://u.jd.com/FGB8NxI\" data-hosurl=\"https://u.jd.com/FOY4FL9\" data-hosnexturl=\"https://u.jd.com/FaY789g\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2Fpages%2Funion%2Fproxy%2Fproxy%3FspreadUrl%3Dhttps%253A%252F%252Fu.jd.com%252FFDYoToy%26EA_PTAG%3D17078.27.380\" data-wapurl=\"https://u.jd.com/FOSLr9p\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOB3bPb%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrBG3Jg%26EA_PTAG%3d17078.27.380\"><strong>点此抽红包</strong></a><strong>。</strong></p></li><li><p data-vmark=\"2828\"><span class=\"font-color-orangered\"><strong>淘宝 11.11 无门槛红包</strong></span> 面额至高 26888 元，每天抽 1 次：<a href=\"https://s.click.taobao.com/7NGMyki\" target=\"_blank\" data-androidurl=\"https://s.click.taobao.com/xSbAyki\" data-iosurl=\"https://s.click.taobao.com/1DnFyki\" data-hosurl=\"https://1111.tmall.com/union?wh_alimama=true&amp;disableNav=YES&amp;es=C8kHy5160DsN%2BoQUE6FNzF%2F2mEuY7%2F9ms2NBebDf%2Fzd5M%2F3lzZnXaCN3uML25JKlonv6QcvcARY%3D&amp;tkSid=1791957598996_201031816_0.0&amp;ali_trackid=2:mm_123078715_3350300056_116137250072:1791957598996_201031816_0&amp;union_lens=lensId:PUB@1791957594@212ca4b4_0fe7_1a138fef23a_2444@01@eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfcmVkZW52ZWxvcGVfaW5kZXhfaHRtIn0ie;recoveryid:201031816_0@1791957599017&amp;pageId=20150318020007201&amp;rootPageId=20150318020007201&amp;xMktId=GKgmB9jxHbCYrW8okY0IQ0igUX-avpazWUoteYVaZOzkyZFxUj&amp;bxsign=tbkIVRyjIvySd8dIzqiNfX7uuOcUyml0yhEFYnO_KeArJHIHw4a6OzZ9xxZI_SXx0KwlL3xQki3msFsO77RfG0Jj1o2K2-fXQTX_eZ5L4a6ccKASrxzzPlJmB9bOteirG4MLjRitnYd2Nm1QUxAJGQBTw3OwuV8yPjLFsQNVSgMesq9SC1-ZLQ4BuO8RbifY-C_\" data-hosnexturl=\"https://s.click.taobao.com/Xc5c4di\" data-wxmpurl=\"https://s.click.taobao.com/mvdN4di\" data-wapurl=\"https://s.click.taobao.com/SACQyki\"><strong>点此抽红包</strong></a>。</p></li></ul>",
+      "link": "https://www.ithome.com/1/024/974.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/974.htm"
+    },
+    {
+      "id": 4984,
+      "title": "软银、Grab 签署合作协议，携手砂拉越石油开发马来西亚 AI 基础设施",
+      "summary": "IT之家 11 月 10 日消息，SoftBank（软银）当地时间昨日与东南亚出行平台 Grab 签署合作协议，两方将与砂拉越石油 (PETROS) 合作，在马来西亚的砂拉越州和马来西亚半岛开发人工智能基础设施。 双方计划在种子轮中分别向这两个项目分别投资 10 亿美元和 7.5 亿美元，砂拉越石油则将出资 1 亿美元。各方将寻求其它投资者和超大规模数据中心客户，以支持这一总设计规模超 5GW 的多年期项目的开发和扩张。 Grab 联合创始人兼首席执行官陈炳耀 (Anthon",
+      "content": "<p data-vmark=\"a4e3\">IT之家 11 月 10 日消息，SoftBank（软银）当地时间昨日与东南亚出行平台 Grab 签署合作协议，两方将与砂拉越石油 (PETROS) 合作，<strong>在马来西亚的砂拉越州和马来西亚半岛开发人工智能基础设施</strong>。</p><p data-vmark=\"a31f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/45eb4e8a-988e-49a4-9745-58ea86b9d9f3.jpg\" w=\"800\" h=\"450\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"7b51\"></p><p data-vmark=\"abd6\">双方计划在种子轮中分别向这两个项目分别投资 10 亿美元和 7.5 亿美元，砂拉越石油则将出资 1 亿美元。各方将寻求其它投资者和超大规模数据中心客户，以支持这一总设计规模超 5GW 的多年期项目的开发和扩张。</p><p data-vmark=\"3867\">Grab 联合创始人兼首席执行官陈炳耀 (Anthony Tan) 预计将负责这两个项目的开发，并任命专门的管理团队负责日常运营。此外，<strong>软银原则上同意对其持有的 Grab 股份实行五年锁定</strong>。</p>",
+      "link": "https://www.ithome.com/1/024/938.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/938.htm"
+    },
+    {
+      "id": 4985,
+      "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
+      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹，首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它有用信息，只显示这款折叠手机将于 2027 年发布，且相关支持信息为占位符，安全信息包括 2024 年 8 月发布、Andr",
+      "content": "<p data-vmark=\"24b2\">IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹，<strong>首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。</strong></p><p data-vmark=\"d27f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png\" w=\"1000\" h=\"563\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"5934\"></p><p data-vmark=\"3149\">不过本次官方支持文档并未提供其它有用信息，只显示这款折叠手机将于 2027 年发布，且相关支持信息为占位符，安全信息包括 2024 年 8 月发布、Android 16、支持至 2029 年 8 月以及“测试安全更新”标题。</p><p data-vmark=\"2502\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6001a874-39e6-47b3-ab9d-aaea34c03ce0.jpg\" w=\"1024\" h=\"576\" alt=\"Moto Razr Flex\" data-weibo=\"1\" class=\"nowebp\" data-vmark=\"bf4e\"></p><p data-vmark=\"d1e4\">IT之家曾于 10 月 20 日报道，<a href=\"https://www.ithome.com/1/015/125.htm\" target=\"_blank\">这款折叠手机现身 GeekBench 跑分库</a>，Razr Flex 手机搭载型号为“QTI SM8845”芯片，采用 2+6 集群 CPU 方案，主频为 3.8GHz，关联高通第五代骁龙 8 芯片（非至尊版，至尊版型号为 SM8850）。</p><p data-vmark=\"bc31\">此前消息称这款宽折叠手机搭载第五代骁龙 8 芯片（骁龙 8 Gen5），搭载 6.92 英寸 165Hz 内屏 + 4.97 英寸外屏，后置 50MP+50MP；电池容量 5000mAh，支持 25W 无线充；重约 215g，采用侧边指纹。</p><p data-vmark=\"00a5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/528149b1-7158-43b6-8034-d1441d2bcfb9.png?x-bce-process=image/auto-orient,o_1\" w=\"1154\" h=\"789\" data-vmark=\"a239\" class=\"lazy nowebp no-alt-img\" title=\"摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存\" data-weibo=\"2\"></p><p data-vmark=\"82b5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ecf706fd-8257-4c5b-8d1a-043033a29697.png?x-bce-process=image/auto-orient,o_1\" w=\"1154\" h=\"789\" data-vmark=\"69a5\" class=\"lazy nowebp no-alt-img\" title=\"摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存\" data-weibo=\"3\"></p><p data-vmark=\"961a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9017f92f-cb28-4991-aa7d-9c99b837a47f.png?x-bce-process=image/auto-orient,o_1\" w=\"1154\" h=\"866\" data-vmark=\"83ad\" class=\"lazy nowebp no-alt-img\" title=\"摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存\" data-weibo=\"4\"></p><p data-vmark=\"98a2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/21a10bd0-2503-4330-a699-8800e7bc15d3.png?x-bce-process=image/auto-orient,o_1\" w=\"1420\" h=\"1065\" data-vmark=\"ef67\" class=\"lazy nowebp no-alt-img\" title=\"摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存\" data-weibo=\"5\"></p><p data-vmark=\"4bda\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"7fbe\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/023/978.htm\">消息称摩托罗拉阔折叠手机 Razr Flex 27 会有国行版，搭载第五代骁龙 8 芯片</a>》</p></li><li><p data-vmark=\"2130\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/015/125.htm\">摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/024/921.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/921.htm"
+    },
+    {
+      "id": 4986,
+      "title": "360、阿里云等首批 18 家网络产品安全漏洞收集平台签署自律公约",
+      "summary": "IT之家 11 月 10 日消息，据中国信通院“网络安全威胁和漏洞信息共享平台”公众号，2026 年 11 月 10 日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）与补天漏洞响应平台、漏洞盒子等漏洞收集平台在 2026 年网络和数据安全产业论坛共同发布并签署《网络产品安全漏洞收集平台自律公约》（以下简称《公约》）。 据悉，漏洞收集平台连接漏洞研究者、网络产品提供者等，是发现风险、传递信息、协同处置的重要纽带。为建设规范有序、充满活力的网络产品安全漏洞收集和发布渠",
+      "content": "<p data-vmark=\"80bf\">IT之家 11 月 10 日消息，据中国信通院“网络安全威胁和漏洞信息共享平台”公众号，2026 年 11 月 10 日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）与补天漏洞响应平台、漏洞盒子等漏洞收集平台在 2026 年网络和数据安全产业论坛共同发布并签署《网络产品安全漏洞收集平台自律公约》（以下简称《公约》）。</p><p data-vmark=\"0c6b\">据悉，<strong>漏洞收集平台连接漏洞研究者、网络产品提供者等，是发现风险、传递信息、协同处置的重要纽带</strong>。为建设规范有序、充满活力的网络产品安全漏洞收集和发布渠道，NVDB 组织漏洞收集平台研究制定《公约》。《公约》共 4 章 18 条，对依法依规开展平台备案、能力建设、用户管理、活动开展，以及漏洞收集、评估、处置、发布全过程管理等进行约定。</p><p data-vmark=\"8c57\">根据介绍，本次《公约》签署是漏洞收集平台加强自律和协同治理的重要行动，为规范平台运营，加强交流协作，共建良好生态，促进全产业链漏洞治理能力提升奠定坚实基础。</p><p data-vmark=\"ca27\">IT之家附首批签署漏洞收集平台名单（按平台备案时间排序）：</p><table><tbody><tr class=\"firstRow\"><td><p style=\"text-align: center;\" data-vmark=\"e873\">序号</p></td><td><p style=\"text-align: center;\" data-vmark=\"d86f\">漏洞收集平台名称</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"7ad1\">1</p></td><td><p style=\"text-align: center;\" data-vmark=\"5b18\">工业和信息化部网络安全威胁和漏洞信息共享平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"f524\">2</p></td><td><p style=\"text-align: center;\" data-vmark=\"a786\">补天漏洞响应平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"beef\">3</p></td><td><p style=\"text-align: center;\" data-vmark=\"ad67\">漏洞盒子</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"53a7\">4</p></td><td><p style=\"text-align: center;\" data-vmark=\"5f66\">360 漏洞云平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"58f3\">5</p></td><td><p style=\"text-align: center;\" data-vmark=\"b7a3\">X 漏洞奖励计划</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"1755\">6</p></td><td><p style=\"text-align: center;\" data-vmark=\"092f\">深信服智安全-风险监测平台-漏洞情报</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"fcf7\">7</p></td><td><p style=\"text-align: center;\" data-vmark=\"ca01\">奇安信威胁情报中心 / 漏洞情报</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"dad2\">8</p></td><td><p style=\"text-align: center;\" data-vmark=\"6f2a\">雷神众测平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"e676\">9</p></td><td><p style=\"text-align: center;\" data-vmark=\"ec0c\">阿里云漏洞库</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"02e7\">10</p></td><td><p style=\"text-align: center;\" data-vmark=\"c31b\">xray 扫描 PoC</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"a938\">11</p></td><td><p style=\"text-align: center;\" data-vmark=\"852d\">启明星辰-安全通告</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"22a2\">12</p></td><td><p style=\"text-align: center;\" data-vmark=\"1434\">M-SEC 漏洞社区</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"f5a1\">13</p></td><td><p style=\"text-align: center;\" data-vmark=\"7144\">绿盟科技 NSFOCUS 安全漏洞系统</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"57e9\">14</p></td><td><p style=\"text-align: center;\" data-vmark=\"556f\">灵猴安全众测平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"fa3b\">15</p></td><td><p style=\"text-align: center;\" data-vmark=\"28f9\">DayDayPoc</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"b1d5\">16</p></td><td><p style=\"text-align: center;\" data-vmark=\"e27c\">开放原子开源基金会开源漏洞共享平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"9e11\">17</p></td><td><p style=\"text-align: center;\" data-vmark=\"722f\">阿里云安全先知众测平台</p></td></tr><tr><td><p style=\"text-align: center;\" data-vmark=\"0f2b\">18</p></td><td><p style=\"text-align: center;\" data-vmark=\"6d43\">长亭漏洞情报库</p></td></tr></tbody></table>",
+      "link": "https://www.ithome.com/1/024/910.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/910.htm"
+    },
+    {
+      "id": 4987,
+      "title": "豆包图片设计能力升级，官宣接入全新图像创作模型 Seedream 5.5",
+      "summary": "IT之家 11 月 10 日消息，豆包官方今日宣布，豆包图片设计能力升级，正式接入全新图像创作模型 Seedream 5.5。 据IT之家昨日报道，字节跳动 Seed 团队发布了新一代图像创作模型 Seedream 5.5，重点带来三项核心能力升级： 更稳定的多轮编辑：实现非编辑区域的像素级保持，消除色彩偏移，降低连续修改中的细节丢失与画质衰减，支持围绕同一作品展开多达 100 轮的持续创作。 原生 RGBA 透明素材生成：直接输出带 Alpha 通道的透明或半透明图像，精细",
+      "content": "<p data-vmark=\"9ff1\">IT之家 11 月 10 日消息，豆包官方今日宣布，豆包图片设计能力升级，正式接入全新图像创作模型 Seedream 5.5。</p><p style=\"text-align: center;\" data-vmark=\"627a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7a6e14ea-7f4e-436d-bc76-77b760867b0b.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"0\" data-vmark=\"7918\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"b4d9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/94cf44bc-701a-4bbb-850b-a29584170594.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"1574\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1612\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/07ce88c6-edac-467f-9fbe-8b4e5d2a6308.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"2\" data-vmark=\"fc0c\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"37b8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fa8983a3-ec07-4046-9c52-7b133f947007.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"3\" data-vmark=\"b045\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"51e2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/27db499e-0ecd-4068-9fd2-98ac3b3da8d2.gif\" w=\"1080\" h=\"1440\" data-weibo=\"4\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/27db499e-0ecd-4068-9fd2-98ac3b3da8d2.gif?x-bce-process=image/format,f_png\" data-vmark=\"b3e3\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"d103\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9d78963f-19ce-4f57-ab62-ddccd31147d4.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"5\" data-vmark=\"c76d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"d5c5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7cbb90a7-f0de-4b04-ad49-547534849755.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"6\" data-vmark=\"f333\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"cb70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dd3e5d84-ab03-4e9e-bf33-8b174dc4ba03.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"7\" data-vmark=\"1692\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c541\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/80d0769e-533e-4222-b25c-184ec99d6d81.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-weibo=\"8\" data-vmark=\"5a40\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"9988\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/32388a0b-865b-46a7-9b1e-62f70446da45.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-vmark=\"c5a5\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"f2b0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2a67316a-a767-41ad-855d-f8cfe78e9393.gif\" w=\"1080\" h=\"1440\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/2a67316a-a767-41ad-855d-f8cfe78e9393.gif?x-bce-process=image/format,f_png\" data-vmark=\"faa6\" class=\"no-alt-img\"></p><p data-vmark=\"f825\">据IT之家昨日报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/024/379.htm\">字节跳动 Seed 团队发布了新一代图像创作模型 Seedream 5.5</a>，重点带来三项核心能力升级：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"5b63\">更稳定的多轮编辑：实现非编辑区域的像素级保持，消除色彩偏移，降低连续修改中的细节丢失与画质衰减，支持围绕同一作品展开多达 100 轮的持续创作。</p></li><li><p data-vmark=\"29f3\">原生 RGBA 透明素材生成：直接输出带 Alpha 通道的透明或半透明图像，精细处理轮廓边缘与透明区域，省去后期抠图修边，让生成元素可以作为独立素材进入后续设计流程。</p></li><li><p data-vmark=\"52a8\">质感更自然，文字更清晰：进一步改善光照、材质与皮肤纹理表现，减少过度油亮、过曝，更贴近真实拍摄的成像质感。同时显著提升文字渲染能力，对复杂字形与密集小字的还原更加准确。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"14da\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0b913f17-e6fc-4435-abb9-0dde052b635f.png?x-bce-process=image/format,f_auto\" w=\"807\" h=\"446\" data-vmark=\"03d7\" class=\"no-alt-img\"></p><p data-vmark=\"63ee\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"aacc\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/024/379.htm\">一张图能改 100 遍、直出透明背景，字节跳动发布新一代图像创作模型 Seedream 5.5</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/024/896.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/896.htm"
+    },
+    {
+      "id": 4988,
+      "title": "泰国给数据中心戴上“紧箍咒”：噪音限 70 分贝，温升不超 2 摄氏度",
+      "summary": "IT之家 11 月 10 日消息，据彭博社报道，随着人工智能投资热潮推动数据中心建设迅速扩张，泰国出台了针对数据中心噪音、热量和用水的新规定，为这一快速发展的行业设定了明确的环境限制。 泰国经济规划机构秘书长丹努查 · 皮查亚南（Danucha Pichayanan）周二表示，内阁已批准相关规定。根据新规，数据中心的不间断电源系统运行时，噪音必须控制在约 70 分贝（A 计权分贝，dBA）以内。这一指标经过加权处理，能够更贴近人耳对声音大小的实际感受。 此外，数据中心场地边界",
+      "content": "<p data-vmark=\"8571\">IT之家 11 月 10 日消息，据彭博社报道，随着人工智能投资热潮推动数据中心建设迅速扩张，泰国出台了针对数据中心噪音、热量和用水的新规定，为这一快速发展的行业设定了明确的环境限制。</p><p style=\"text-align: center;\" data-vmark=\"e7ac\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto\" w=\"650\" h=\"366\" data-weibo=\"0\" data-vmark=\"4165\" class=\"no-alt-img\"></p><p data-vmark=\"4abb\">泰国经济规划机构秘书长丹努查 · 皮查亚南（Danucha Pichayanan）周二表示，内阁已批准相关规定。根据新规，数据中心的不间断电源系统运行时，噪音必须控制在约 70 分贝（A 计权分贝，dBA）以内。这一指标经过加权处理，能够更贴近人耳对声音大小的实际感受。</p><p data-vmark=\"3580\">此外，数据中心场地边界处的温度升幅将被限制在 1 至 2 摄氏度以内。冷却用水必须循环利用，排放的废水也必须接受检测。他还表示，位于工业园区内的数据中心设施将面临额外的要求。</p><p data-vmark=\"f43f\">这套规定是泰国应对人工智能投资热潮的一部分。随着计算基础设施投资激增，泰国希望借此获得经济增长收益，同时避免数据中心建设给当地水资源、电力供应带来过重负担，也防止其运营影响周边社区。</p><p data-vmark=\"0d54\">泰国财政部长埃克尼提 · 尼提探帕帕斯（Ekniti Nitithanprapas）表示：“我们将执行最高标准。”他强调，任何无法满足安全和环境要求的项目，“都不允许继续推进”。</p><p data-vmark=\"dc5c\">根据泰国投资促进委员会的数据，今年前九个月，泰国收到的投资促进申请金额超过 500 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 3,343.29 亿元人民币）</span>，其中人工智能相关项目约占申请总金额的 70%。</p>",
+      "link": "https://www.ithome.com/1/024/887.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/887.htm"
+    },
+    {
+      "id": 4989,
+      "title": "国产再突破：中微公司首台等离子体晶圆切割设备成功交付国内重要集成电路封装客户",
+      "summary": "IT之家 11 月 10 日消息，中微半导体设备（上海）股份有限公司（简称“中微公司”）近日发布其全新产品 ——Primo Matrix 双反应台等离子体晶圆切割设备，今日宣布首台设备已顺利付运国内重要集成电路封装客户。 随着先进封装技术成为延续摩尔定律的重要路径，晶圆切割作为封装工艺中的关键环节，直接影响芯片良率与生产效率。 针对先进封装对高精度、低损伤、窄切割道的迫切需求，中微公司在等离子晶圆切割设备领域取得重要突破，此次发布的新品 Primo Matrix 系列宣称是该",
+      "content": "<p data-vmark=\"1078\">IT之家 11 月 10 日消息，中微半导体设备（上海）股份有限公司（简称“中微公司”）近日发布其全新产品 ——Primo Matrix 双反应台等离子体晶圆切割设备，今日宣布<strong>首台设备已顺利付运国内重要集成电路封装客户</strong>。</p><p data-vmark=\"4941\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/668e7354-6395-4b9f-b609-b7b76f1b1e36.jpg\" w=\"863\" h=\"1293\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"ef20\" class=\"no-alt-img\"></p><p data-vmark=\"4894\">随着先进封装技术成为延续摩尔定律的重要路径，晶圆切割作为封装工艺中的关键环节，直接影响芯片良率与生产效率。</p><p data-vmark=\"374f\">针对先进封装对高精度、低损伤、窄切割道的迫切需求，中微公司在等离子晶圆切割设备领域取得重要突破，此次发布的新品 Primo Matrix<sup> </sup>系列宣称是该公司在先进封装领域等离子体切割赛道的核心自主成果，<strong>并为该路线国产化落地增添头部方案选择</strong>。</p><p data-vmark=\"b407\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c86a8322-57da-47a2-a83c-0bf333466896.png\" w=\"900\" h=\"588\" data-s=\"300,640\" data-type=\"png\" data-weibo=\"1\" alt=\"图片\" class=\"nowebp\" data-vmark=\"dfdd\"></p><figcaption>▲ 中微公司 Primo Matrix</figcaption><p data-vmark=\"b413\">中微公司 Primo Matrix<sup> </sup>采用在量产已得到充分验证的 Primo TSV<sup> </sup>的等离子体深硅刻蚀技术，集成双反应台刻蚀腔室及晶圆传输模块，兼具高产能、高精度、低成本和灵活的工艺适配能力。</p><p data-vmark=\"54a2\"><strong>此设备兼容带框架 200mm、300mm 晶圆高效率切割需求</strong>，在切割精度方面，此设备可适用于最小到 5μm 的不同切割道宽度工艺，减少晶圆面积损耗，提升有效芯片产出，满足芯片微型化趋势下的高精度晶圆切割需求。</p><p data-vmark=\"7f10\">在工艺兼容性方面，<strong>此设备支持 25–700μm 晶圆厚度范围</strong>，覆盖超薄晶圆与常规厚度晶圆的切割需求，适用于晶圆减薄后切割及多种先进封装工艺。</p><p data-vmark=\"fd09\">同时，设备以 300mm 晶圆为主要加工平台，向下兼容 200mm 晶圆切割工艺，提升了在不同尺寸晶圆生产线中的应用灵活性。</p><p data-vmark=\"0681\">Primo Matrix<sup> </sup>依托中微公司 Primo 平台打造，系统最多可搭载 6 个刻蚀反应台，适配长工艺时间需求。</p><p data-vmark=\"fd83\">此外，Primo Matrix<sup> </sup>支持带凸点晶圆正面等离子体切割、激光开槽后等离子体切割及晶圆背面刻蚀等典型工艺，满足不同晶圆结构、工艺流程及封装应用需求。</p><p data-vmark=\"5176\">此设备同时具备介质层等硬掩膜开口刻蚀能力，可适配具有介质层及复杂表面结构的晶圆加工需求，进一步拓展了其工艺应用范围。</p><p data-vmark=\"d476\">目前，中微公司刻蚀设备全面覆盖从 65 纳米到 3 纳米及更先进工艺的刻蚀应用，全面覆盖存储器中各类超高深宽比刻蚀应用。介质刻蚀达到 60 比 1、90 比 1 的极高深宽比，硅刻蚀达到 140 比 1 的极高深宽比，<strong>已经达到国际一流水平</strong>。该公司行业首创的双反应台（Dual-Station）ICP 刻蚀技术，已经达到 0.2 纳米的单原子水平，相当于一根头发丝直径的 30 万分之一。</p><p data-vmark=\"e2c6\">中微公司表示，未来五年计划通过“有机生长和外延扩展”，持续拓宽产品矩阵，<strong>覆盖包括刻蚀、薄膜、湿法和量检测设备等约 60% 以上的高端半导体设备市场，以及 70% 以上的先进封装设备市场</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e32f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/27d03081-9d9e-4e88-a6a1-e287a5e5e111.jpg\" w=\"1080\" h=\"619\" alt=\"图片\" data-weibo=\"2\" class=\"nowebp\" data-vmark=\"6df1\"></p>",
+      "link": "https://www.ithome.com/1/024/884.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/024/884.htm"
+    },
+    {
+      "id": 4990,
+      "title": "Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less than buying it separately",
+      "summary": "This Newegg bundle brings together the AMD Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free ATX case for $1,090.98.",
+      "content": "<article>\n                                <p>There's a great Newegg combo deal right now that'll net you half the parts you'll need for a new 4K gaming PC. <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\">For $1,090.98, you can pick up the AMD Ryzen 7 9800X3D, one of the best CPUs you'll find for gaming, along with 32GB of Corsair Vengeance DDR5-6000 RAM and a mid-tier Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard.</a> </p><p>● <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\">Check out this deal at Newegg</a></p><p>The $138.99 saving you're making here means you're getting the RAM for $371, almost $70 less than the current low price for 32GB DDR5 RAM right now. If you count the free Rosewill ATX case you're getting here, too, worth $59.99, the RAM is just $311. These parts give you the foundation for a high-spec AM5 gaming PC that, coupled with a recent GPU that you'll need to buy separately, will smash through high frame rates at 1440p and 4K.</p><div class=\"product star-deal\"><a data-dimension112=\"511901e8-dcf4-11f1-92b0-4929c0bab702\" data-action=\"Star Deal Block\" data-label=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension48=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension25=\"$1090.98\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1028px;\"><p class=\"vanilla-image-block\" style=\"padding-top:79.38%;\"><img id=\"kfFKrpr9ijeA8VYgRyv69G\" name=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/kfFKrpr9ijeA8VYgRyv69G-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1028\" height=\"816\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><div><span class=\"product__star-deal-label\">free ATX case worth $59.99</span><p><strong><a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"511901e8-dcf4-11f1-92b0-4929c0bab702\" data-action=\"Star Deal Block\" data-label=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension48=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension25=\"$1090.98\">Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7: was $1229.97 now $1090.98</a></strong><br />Save big on this 3-item gaming combo from Newegg. You get one of the fastest gaming processors in the Ryzen 7 9800X3D, a quality mid-range Gigabyte X870 motherboard with ample connectivity, and 32GB of Corsair Vengeance DDR5-6000 RAM. Newegg also throws in a free 240mm AIO for your CPU. Get this deal while it lasts!<a class=\"view-deal button\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"511901e8-dcf4-11f1-92b0-4929c0bab702\" data-action=\"Star Deal Block\" data-label=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension48=\"Ryzen 7 9800X3D, 32GB Corsair Vengeance DDR5 RAM, Gigabyte X870 Aorus Elite Wifi7\" data-dimension25=\"$1090.98\">View Deal</a></p></div></div><p>Starting out in this combo is one of the fastest and best of the current-gen gaming CPUs on the market, the <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9800x3d-review-devastating-gaming-performance\">AMD Ryzen 7 9800X3D.</a> This eight-core, 16-thread Zen 5  processor has a base clock speed of 4.6 GHz and a max boost speed of 5.2 GHz and a 120W TDP. More importantly for gamers, though, is the L3 cache. This boosted 96MB L3 cache capacity is the reason AMD CPUs have become the dominant force in gaming right now. They're able to deliver faster, more stable frame rates as the CPU doesn't need to rely on the slower system RAM as often while you're gaming. </p><p>As the CPU benchmark data shows, the 9800X3D sits near the very top of the food chain right now. Only CPUs like the 9850X3D can beat it; that CPU is<a href=\"https://www.tomshardware.com/uk/pc-components/cpus/amd-ryzen-7-9850x3d-vs-ryzen-7-9800x3d\"> 3% faster at 1080p than the 9800X3D</a>, but has much higher power demands. As it stands, the 9800X3D continues to be a firm favorite, and one that'll sit comfortably in high-spec rigs for a few years to come.</p><iframe allow=\"\" height=\"800\" width=\"100%\" id=\"\" style=\"\" class=\"position-center\" data-lazy-priority=\"high\" data-lazy-src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\" src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\"></iframe><p>You're also getting RAM with this bundle, with 32GB of Corsair Vengeance RGB DDR5-6000 memory included, split across two 16GB modules. If you wanted to buy this RAM separately, it'd currently cost you a huge $509.99 right now. As we mentioned, however, this bundle's collective cost and $138.99 discount bring the effective price down by $138. This black kit matches the motherboard and has customizable RGB, which you can switch on and off. With speeds of 6,000 MT/s, this RAM sits in the sweet spot for gamers, with CAS and latency timings of 36-44-44-96.</p><p>As for the motherboard, the Gigabyte X870 Aorus Elite Wifi 7 is a solid mid-range performer for an AM5 gaming PC build. There's plenty of connectivity here, with 12 USB ports on the rear, including two USB-C 4 ports rated for 40 Gbps. There are also four M.2 slots, one rated for PCIe 5.0 with the 9800X3D installed, along with Wi-Fi 7 and 2.5 Gb Ethernet connectivity. There's also a five-year warranty for support. </p><p>The Rosewill mid-tower ATX case is a nice extra, and if you bought it separately, it'd cost you $59.99. It's a gaming PC case, with four 120mm fans, a tempered glass side and a mesh front to keep your fans free from dust. Luckily, it's all free here.</p><p>The <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889955\">$1,090.98 sale price for this Newegg combo bundle</a> with the 9800X3D means you can save nearly $140 on the RAM compared to buying it separately. The $138.99 discount will help towards the cost of a new SSD or GPU, especially given how expensive PC components have become recently. These bundles sell out quickly, though, so you'll need to be quick.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-this-newegg-ram-bundle-with-the-9800x3d-usd70-less-than-buying-it-separately-usd138-saving-on-parts-for-a-4k-gaming-pc-including-a-gigabyte-x870-motherboard-and-free-atx-case",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "VgagDPyq2uFfCdKijEKXSG"
+    },
+    {
+      "id": 4991,
+      "title": "Seagate resurrects hybrid storage: Hands-on with the FireCuda Forge – 8 or 20TB external hard drive requires you to bring your own NVMe SSD",
+      "summary": "Seagate takes on high SSD storage prices with the Firecuda Force, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM). It's a throwback to the days of hybrid drives, and the experience is prett",
+      "content": "<article>\n                                <p>What's old is new again. Seagate started adding faster <a href=\"https://storagemojo.com/2010/05/24/seagate-gets-hybrid-ssdhdd-right/\"><u>flash-based storage to its hard drives in 2010</u></a>, when solid-state storage was prohibitively expensive. And now that SSDs are stupid-expensive again (thanks, AI hyperscaler demand) the hard drive maker is offering up another hybrid drive, of sorts, with the Firecuda Forge.</p><p>Available in 8TB and 20TB capacities, the Forge is an external hard drive that requires that you bring and install your own SSD. That's right, the drive won't work unless you partially disassemble and install your own M.2 2280 SSD, which mounts in the side of the enclosure. 1TB drives with DRAM are recommended. Performance maxes out at PCIe Gen3 drives; newer, faster, and roomier SSDs are supported, but won't improve performance. The Firecuda Forge only has a mounting point for 2280-length drives, and while drives that are less than 1TB are supported, that means less room for frequently used files, so \"performance may be reduced.\" </p><p>Interestingly, Seagate sent us a 2TB FireCuda 530R SSD to test with the Forge hard drive, which is both faster (PCIe 4.0) and more spacious than what the company says you should pair with its hard drive. The list of SSD that Seagate has officially qualified to work with the Firecuda Forge is also pretty sparse, including just three other drives: Samsung's 990 Pro, WD/Sandisk SN850X/GX Pro 850X, and the WD/SanDisk SN710/GX7100.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2560px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"HSzoVDpwC4i2C7ae2ymzr5\" name=\"Seagate FireCuda Forge Cover\" alt=\"Seagate Forge\" src=\"https://cdn.mos.cms.futurecdn.net/HSzoVDpwC4i2C7ae2ymzr5-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2560\" height=\"1440\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>We only received a review sample a few days before launch, and haven't yet had a chance to put the FireCuda Forge through its paces for a full review. But I was impressed that, after I installed the SSD and plugged the drive in, it just showed up in Windows 11 as an 8TB drive. (The company says it also works with macOS 26 and later). There was no software setup involved, and Seagate says you can even remove and upgrade the hard drive to something roomier down the line. Seagate calls the \"product architecture\" that handles unifying and data handling between the spinning platter drive and the SSD \"Alkemi,\" and says it combines \"onboard processing\" with the hard drive and the user-supplied SSD to \"prioritize active data without requiring users to manually manage separate drives.\"</p><p>Seagate says Alkemi observes workloads and gives priority to currently relevant or often-used data, that it adapts over time to user behavior, and describes it as an \"on-device device dynamic caching and workload-aware data-prioritization technology.\" That sounds pretty similar to the SSD caching used on hybrid drives of the early 2010s, although with up to 1TB of fast SSD storage, you're getting a much bigger fast data pool than those drives of the past, which often made do with 4-16GB. </p><p>Interestingly, Seagate says that machine learning is a part of what Alkemi does, but repeatedly points out in its review materials that it is not using generative AI. It's likely the company is worried about customers connecting the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits\"><u>many reported instances of LLMs and agents deleting data</u></a> with this new product. I can understand why Seagate would want to distance its hybrid storage tech from reports of catastrophic data deletion. </p><h2 id=\"what-39-s-the-firecuda-forge-like-to-use\">What's the FireCuda Forge like to use?</h2><p>Getting past the somewhat odd-feeling aspect of having to crack open an external drive right out of the box and install <em>another </em>drive into it in order for it to work, the process was pretty painless. You have to remove four screws from the bottom (with a tiny included hex-bit driver) to get the outer shell off the FireCuda Forge. From there, the M.2 drive bay is clearly visible on the side. If you want to remove six more hex screws, you can also pop out the hard drive for future upgrades. But for now, we're just going to install an M.2 SSD. </p><p>SSD installation is pretty much the same as putting one of these drives in any laptop or motherboard. Though you'll need a tool; the drive requires a  a tiny screw and Seagate does not include a suitable Phillips head screwdriver. The drive bay is somewhat recessed, and there are two thick thermal pads included in the box that should ensure the drive makes contact with both the inner edge of the bay and the external shroud.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2560px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"C4JYdbPMraaJ7GH5u7T4u5\" name=\"Seagate Firecuda Forge SSD thermal pads\" alt=\"Seagate Forge\" src=\"https://cdn.mos.cms.futurecdn.net/C4JYdbPMraaJ7GH5u7T4u5-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2560\" height=\"1440\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>This should provide <em>some </em>heat dissipation, but these surfaces are all's plastic, with only a foil layer on the outer shroud to draw some of the drive's heat away from the SSD itself. This is probably fine for most bursty game and creative workloads. But this design does not feel ideal for workloads that hit the drive consistently for hours on end. During our testing, the edge of the drive where the SSD is installed got noticeably warmer than the rest of the enclosure, but it didn't get hot.</p><p>In terms of design, the FireCuda Forge looks very similar to the <a href=\"https://www.tomshardware.com/pc-components/external-ssds/seagate-firecuda-x-vault-8tb-review\"><u>FireCuda X Vault</u></a> HDD we looked at earlier this year, complete with some gamer-friendly RGB lighting. The primary physical difference is that you'll need the supplied USB-C cable and external power adapter to use the Forge, while the X Vault only has a USB-C port. Presumably, powering both a 3.5-inch hard drive and an M.2 SSD draws too much power for most (or at least some) USB-C ports. I still would love for drives like this to be able to run off of one single cable, though, which was my favorite feature of the X Vault hard drive.</p><h2 id=\"preliminary-testing\">Preliminary testing</h2><p>We only received the FireCuda Forge a couple of working days before its announcement. But we were able to run some benchmarks with the Forge drive and a 530R SSD that Seagate provided, and saw some interesting results. The Forge's USB-C connection is USB4, and Seagate's performance claims are up to 2,500 MB/s read and 2,000 MB/s write. That's obviously much faster than a hard drive, but you're also going to be sacrificing the speed of the SSD you're dropping into this drive — especially if it's a PCIe 4.0 SSD.</p><h2 id=\"trace-testing-pcmark-10-storage-benchmark\">Trace Testing - PCMark 10 Storage Benchmark</h2><p>PCMark 10 is a trace-based benchmark that uses a wide-ranging set of real-world traces from popular applications and everyday tasks to measure the performance of storage devices.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1360px;\"><p class=\"vanilla-image-block\" style=\"padding-top:69.78%;\"><img id=\"ZQ65Vd53dRvVoaMhKyUqD5\" name=\"image1\" alt=\"Seagate Forge\" src=\"https://cdn.mos.cms.futurecdn.net/ZQ65Vd53dRvVoaMhKyUqD5-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1360\" height=\"949\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>On this synthetic test, Seagate's Forge beats recent traditional hard drives (and the slowest external SSD we've tested, Samsung's T5). But Kingston's fast flash drive does better, as does Sandisk's Desk Drive, which nearly doubles the score of the Forge, which isn't surprising given it's a full-fledged external SSD.</p><h2 id=\"transfer-rates-diskbench\">Transfer Rates — DiskBench</h2><p>We use the DiskBench storage<a href=\"https://www.tomshardware.com/tag/benchmark\"> benchmarking</a> tool to test file transfer performance with a custom 50GB dataset. We copy 4,617 files (images, videos, and software ISO files) to a folder on the test drive (write). Then, after leaving the system idle for five minutes, we run the same test in reverse, moving the test folder to a different location on our PCIe 4.0 testing drive.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1272px;\"><p class=\"vanilla-image-block\" style=\"padding-top:75.86%;\"><img id=\"97Ptze7nMfWxUQuLEqHGQQ\" name=\"Seagate FireCuda Forge 50GB\" alt=\"Chart of 50GB folder read and write performance\" src=\"https://cdn.mos.cms.futurecdn.net/97Ptze7nMfWxUQuLEqHGQQ-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1272\" height=\"965\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Here , we see the Forge drive easily beating the spinning-platter-only drives and Samsung's T5 Evo on writes, only falling to the SanDisk Desk Drive desktop SSD. But on reads, the Forge leads by the pack.</p><h2 id=\"synthetic-testing-crystaldiskmark\">Synthetic Testing: CrystalDiskMark</h2><p>CrystalDiskMark (CDM) is a free and easy-to-run storage benchmarking tool that SSD companies commonly use to assign performance specifications to their products. It gives us insight into how each device handles different file sizes. We run this test at its default settings.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1068px;\"><p class=\"vanilla-image-block\" style=\"padding-top:81.09%;\"><img id=\"kREzDsGhNgNJUkjZHV5S7J\" name=\"Seagate FireCuda Forge Seq\" alt=\"Chart of sequential performance in CrystalDiskMark\" src=\"https://cdn.mos.cms.futurecdn.net/kREzDsGhNgNJUkjZHV5S7J-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1068\" height=\"866\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Last up (for now), CrystalDiskMark proves the Force does benefit significantly from its USB4 interface, with its performance on sequential reads and writes jumping well ahead of everything else on our chart — because all other drives here top out at 10 Gbps. There are, of course, faster external SSDs (<a href=\"https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review\"><u>like Samsung's recent P9</u></a>). But at 8TB, solid-state options are generally more expensive, and faster external SSDs at 8TB are <em>much</em> more expensive. And of course, 20TB external SSDs aren't really an option, at least in the consumer drive space.</p><h2 id=\"pricing-and-final-thoughts\">Pricing and final thoughts</h2><p>The whole reason a product like the Seagate Forge exists is because SSDs are expensive. The problem is, hard drives have faced similar price jumps due to demand. And Seagate says the 8TB Force will launch at $699 for the 8TB drive, and $899 for the 20TB option. That's a lot of money for a drive you need to also put your own M.2 SSD into for it to function. </p><p>We'll also need to do more testing with things like game load times before passing judgment on the FireCuda Forge. But it likely makes much more sense in the 20TB capacity, where no single-drive consumer SSD-based option exists. At 8TB, there are options like SanDisk's Desk drive, which has a slower 10GBps interface, but is a full-fledged SSD, rather than a hard drive with some fast SSD cache. Surprisingly, that Sandisk drive is <a href=\"https://www.sandisk.com/products/ssd/external-ssd/sandisk-desk-drive-desktop-ssd?sku=SDSSDT40-8T00-NA25&amp;ef_id=Cj0KCQiA-8XXBhDaARIsADnEOrD-kS1kzqs5r5KY3ucBlRsZF2OICn8cAt_qvzdFJVhIGS7vnWwXBgIaArgwEALw_wcB:G:s&amp;s_kwcid=AL!15012!3!!!!x!!!21840669838!&amp;utm_medium=pdsh2&amp;utm_source=gads&amp;utm_campaign=Google-B2C-Conversion-Pmax-NA-US-EN-SSD-External_SSD-All-Brand&amp;utm_content=&amp;utm_term=SDSSDT40-8T00-NA25&amp;cp2=&amp;gad_source=1&amp;gad_campaignid=21830273700&amp;gbraid=0AAAAA-HVYqnuregcQlq27xkXxYX2quwYQ&amp;gclid=Cj0KCQiA-8XXBhDaARIsADnEOrD-kS1kzqs5r5KY3ucBlRsZF2OICn8cAt_qvzdFJVhIGS7vnWwXBgIaArgwEALw_wcB\"><u>still on sale for $999</u></a>. And unless you happen to have an old M.2 SSD lying around to install into the Forge, its price, including the SSD it needs to function, isn't going to be far off traditional solid-state options.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/external-ssds/seagate-resurrects-hybrid-storage-hands-on-with-the-firecuda-forge-8-or-20tb-external-hard-drive-requires-you-to-bring-your-own-nvme-ssd",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "jhYcFwPBQtFtuj3gRGHbNN"
+    },
+    {
+      "id": 4992,
+      "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "summary": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+      "content": "<article>\n                                <p>The baying of the hounds can be heard at a distance. Yesterday, <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate\">Nvidia's Jensen Huang confirmed that it was indeed true that he had a romantic affair with Alice Huang</a> (not related to the family), who U.S. intelligence services claim is a Chinese honeypot tasked with facilitating smuggling of the firm's advanced GPUs into China. Now, a class-action lawsuit and investigations have started flying from almost everywhere.</p><p>This development is not unexpected, as basic securities law allows shareholders to sue their investees if they misrepresent facts or otherwise perform actions that cause a drop in stock prices. They may have a point, as Nvidia's shares dipped significantly when the confirmation of Jensen's infidelity and the ramifications thereof hit the press everywhere.</p><p>The legal proceedings are bound to be numerous, but as of right now, the <a href=\"https://www.businesswire.com/news/home/20261109317207/en/EQUITY-ALERT-Rosen-Law-Firm-Files-Securities-Class-Action-Lawsuit-on-Behalf-of-NVIDIA-Corporation-Investors-NVDA\">first class-action lawsuit</a> was filed by the Rosen Law Firm. The suit claims that Nvidia and Jensen Huang failed to disclose or misled investors regarding Jensen's affair with Alice, lied about it when asked, raised national security concerns, and caused a subsequent loss of Nvidia's reputation. You can check out the case docket <a href=\"https://www.pacermonitor.com/public/case/67812328/Kistenmacher_v_NVIDIA_Corporation_et_al\">at PacerMonitor here</a>.</p><p>While legal analysis is beyond the scope of this news, Nvidia did downplay Jensen's relationship with Alice, saying that \"Megaspeed has been no different than many other regional cloud customers. Meetings with customers are part of a CEO’s job; Jensen talks with thousands of customer executives every year.\"</p><p>Other legal firms have launched their own investigations into the recent development, with essentially the same justification: <a href=\"https://www.businesswire.com/news/home/20261109620054/en/NVDA-Investors-Have-Opportunity-to-Join-NVIDIA-Corporation-Fraud-Investigation-with-SBS-Law\">Schall, Brown &amp; Schwartz</a> attributes a 5.5% pre-market-trading drop to Nvidia, as does <a href=\"https://natlawreview.com/press-releases/nvidia-corporation-nvda-securities-investigation-notice-levi-korsinsky\">Levi &amp; Korsinsky</a>. The office of <a href=\"https://www.morningstar.com/news/business-wire/20261109750491/lost-money-on-nvidia-corporation-shares-the-law-offices-of-frank-r-cruz-investigates-potential-securities-fraud-after-88-stock-decline\">Frank R. Cruz</a> mentions an 8.8% figure related to intra-day exchanging, and is interested in shareholders with $50,000 in losses. The percentage-drop figure is 5.88% premarket for <a href=\"https://natlawreview.com/press-releases/bronstein-gewirtz-grossman-llc-encourages-nvidia-corporation-nvda-investors\">Bronstein, Gewritz &amp; Grossman</a>.</p><p>Every investigation and suit mentioned here requires no upfront fees from complainants, as with most class-action lawsuits. The underlying condition is often that the law firms involved get a cut of whichever damages or settlements may appear at the end of the lawsuit. Some of them, like the one by Levi &amp; Korsinsky, even aim to relieve investors who've already sold their Nvidia shares and sold them at a loss, with no minimum amount required.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ru4Ac9kpjEEpr49gQcr8X8"
+    },
+    {
+      "id": 4993,
+      "title": "(PR) Seagate Launches the FireCuda Forge Powered by the New Alkemi Intelligent Platform",
+      "summary": "Seagate Technology Holdings plc, a mass-capacity data storage leader, today introduced the Seagate FireCuda Forge drive, representing the first Seagate hard drive powered by the Alkemi intelligent storage platform. With Alkemi, the FireCuda",
+      "content": "Seagate Technology Holdings plc, a mass-capacity data storage leader, today introduced the Seagate FireCuda Forge drive, representing the first Seagate hard drive powered by the Alkemi intelligent storage platform. With Alkemi, the FireCuda Forge combines solid-state drive (SSD) responsiveness and hard disk drive (HDD) capacity in a single drive, using adaptive intelligence to give gamers and creators the speed and space they need without added complexity.<br />\r\n<br />\r\n<b>A new platform for a new reality</b><br />\r\nFrom massive game libraries and 4K video to AI-powered animation, people are creating, working with, and keeping more data than ever. IDC projects annual global data generation will more than triple, from 218 zettabytes in 2025 to more than 718 zettabytes by 2030.1 As digital libraries expand, consumers need fast access to active content and the capacity to preserve growing collections.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/2v696MPHtfeEzteh.jpg\" target=\"_blank\" data-width=\"973\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/2v696MPHtfeEzteh_thm.jpg\" width=\"132\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/gZ3GhH6JUOqqUUQP.jpg\" target=\"_blank\" data-width=\"617\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/gZ3GhH6JUOqqUUQP_thm.jpg\" width=\"84\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Aw352DfbTY6P0lpo.jpg\" target=\"_blank\" data-width=\"1224\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/Aw352DfbTY6P0lpo_thm.jpg\" width=\"166\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/beCqCJ16h8ccZXTR.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"810\" ><img src=\"https://tpucdn.com/img/beCqCJ16h8ccZXTR_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Iv1EDFVL5HIjOzWO.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"810\" ><img src=\"https://tpucdn.com/img/Iv1EDFVL5HIjOzWO_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354640/seagate-launches-the-firecuda-forge-powered-by-the-new-alkemi-intelligent-platform\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354640/seagate-launches-the-firecuda-forge-powered-by-the-new-alkemi-intelligent-platform",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "87c04cdffa2d3caf57973c9e3af17638"
+    },
+    {
+      "id": 4994,
+      "title": "AMD's RDNA 5 Inches Closer as GFX13 Support Lands in Linux Driver Patches",
+      "summary": "AMD has begun integrating its next-generation graphics IP into the Linux kernel, releasing a series of eight patches that add GFX13 support to the open-source AMDGPU driver. These patches, submitted to the mailing list on November 9 by AMDG",
+      "content": "AMD has begun integrating its next-generation graphics IP into the Linux kernel, releasing a series of eight patches that add GFX13 support to the open-source AMDGPU driver. These patches, submitted to the mailing list on November 9 by AMDGPU maintainer Alex Deucher, contain over 12,600 lines of code, excluding the typically large header files. GFX13 is anticipated to be the graphics core for RDNA 5, although AMD has not officially confirmed this connection. However, since GFX12 has been linked to RDNA 4, it is assumed that GFX13 is the correct codename for RDNA 5.<br />\r\n<br />\r\nThe patches introduce version 13 of three IP blocks: the &quot;graphics&quot; GFX block itself, the MicroEngine Scheduler (MES), and the IMU. On the compute side, the AMDKFD driver gains initial GC 13 support, a CWSR trap handler for saving and restoring compute wave state, and a temporary change that disables queue reset in the topology. The final patch enables the MGCG, CGCG, and CGLS clock gating features, which reduce power consumption when parts of the GPU are idle. Interestingly, the series mentions two specific targets, GFX 13.0.1 and GFX 13.0.4, indicating that AMD is preparing at least two graphics IP configurations. These version numbers do not correspond to any specific GPU models, so it is unclear which products they relate to. RDNA 5 is expected to be a significant advancement over RDNA 4, necessitating numerous patches to add support.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/iT09wDGBC5ze5s5Z.jpg\" target=\"_blank\" data-width=\"1170\" data-height=\"658\" ><img src=\"https://tpucdn.com/img/iT09wDGBC5ze5s5Z_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/I2vTY78TESSYpptD.jpg\" target=\"_blank\" data-width=\"1230\" data-height=\"323\" ><img src=\"https://tpucdn.com/img/I2vTY78TESSYpptD_thm.jpg\" width=\"495\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354637/amds-rdna-5-inches-closer-as-gfx13-support-lands-in-linux-driver-patches\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354637/amds-rdna-5-inches-closer-as-gfx13-support-lands-in-linux-driver-patches",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "231cc8654252d1c6793b7903823074fe"
+    },
+    {
+      "id": 4995,
+      "title": "TechPowerUp x Chieftec Giveaway: The Winners!",
+      "summary": "TechPowerUp, in partnership with Chieftec, brought our readers from the EU a unique opportunity to bag one of six pieces of Chieftec hardware spanning cases, AIO CPU coolers, and power supplies. Up for grabs were one each of Chieftec Iceber",
+      "content": "TechPowerUp, in partnership with Chieftec, brought our readers from the EU a unique opportunity to bag one of six pieces of Chieftec hardware spanning cases, AIO CPU coolers, and power supplies. Up for grabs were one each of Chieftec Iceberg 240 RGB CPU cooler, Chieftec Iceberg 240 Dark CPU cooler; Chieftec Apex Lumo case, Chieftec Vista Max case, Chieftec Polaris 3.0 1050 W PSU, and Chieftec Proton 1000 W PSU. The entries are in, and we have our lucky winners. Without further ado, here they are!<ul><li>Toomas from Estonia, wins a Chieftec Iceberg 240 RGB AIO CPU Cooler</li><li>Nico from The Netherlands, wins a Chieftec Iceberg 240 Dark AIO CPU cooler</li><li>Jozsef from Hungary, wins a Chieftec Apex Lumo mid-tower case</li><li>Sebastian from Germany, wins a Chieftec Vista Max E-ATX tower case</li><li>Niels from Denmark, wins a Chieftec Polaris 1050 W ATX 3.1 power supply</li><li>Tommy from France, wins a Chieftec Proton 1000 W power supply</li></ul>Huge Congratulations to our winners! TechPowerUp and Chieftec will return with more such interesting giveaways.",
+      "link": "https://www.techpowerup.com/354625/techpowerup-x-chieftec-giveaway-the-winners",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6b0b17339ab1d2077833759f0f1cabc3"
+    },
+    {
+      "id": 4996,
+      "title": "Pulsar Previews Silent HE Gaming Keyboards With 3.5 mm Audio Jack and 8 kHz Polling",
+      "summary": "Pulsar has apparently been busy in recent months, with the gaming peripherals maker previously showing off an upcoming ergonomic gaming mouse designed for gamers with large hands and more recently teasing new dual-sensor gaming mice that wi",
+      "content": "Pulsar has apparently been busy in recent months, with the gaming peripherals maker previously showing off an <a href=\"https://www.techpowerup.com/352809/pulsar-shows-off-x5-62-g-large-ergonomic-gaming-mouse-with-extra-thumb-button\" target=\"_blank\">upcoming ergonomic gaming mouse designed for gamers with large hands</a> and more recently teasing <a href=\"https://www.techpowerup.com/354280/pulsar-teases-dual-sensor-gaming-mouse-with-true-adjustable-sensor-position\" target=\"_blank\">new dual-sensor gaming mice that will allow for true virtual sensor position</a> for individual customization. Now, according to a recent post shared by <a rel=\"nofollow\" href=\"https://x.com/jakeufps/status/2119796609643139216\" target=\"_blank\">@jakeufps on X</a>, Pulsar is planning to launch two new Hall effect gaming keyboards: the Sboard HE TKL and Sboard HE 100%. <br />\r\n<br />\r\nAs you might have guessed, the names denote two distinct keyboard form factors—classic TKL and 100% layouts, the latter of which is already something of a rarity in the modern gaming keyboard market—but instead of chasing fancy features, like programmable knobs, Pulsar has gone for a cleaner aesthetic and functionality. Both keyboards have the typical 8 kHz polling rate and Hall effect switches expected from serious gaming keyboards launched in 2026, but they also have built in DACs and four-pole 3.5 mm audio combo jacks for audio passthrough. Both keyboards will also supposedly launch with silent Hall effect switches, which is another stand-out feature in a world of clacky gaming keyboards.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/z6zO0O3edOnrKVzB.jpg\" target=\"_blank\" data-width=\"1279\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/z6zO0O3edOnrKVzB_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354628/pulsar-previews-silent-he-gaming-keyboards-with-3-5-mm-audio-jack-and-8-khz-polling\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354628/pulsar-previews-silent-he-gaming-keyboards-with-3-5-mm-audio-jack-and-8-khz-polling",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "44a71c08a94ac1dbd0f0be09c2289878"
+    },
+    {
+      "id": 4997,
+      "title": "Microsoft Patent Describes Paying PC Owners to Train AI on Idle GPUs",
+      "summary": "Gaming PCs sitting idle could one day earn their owners credits, or even cash, by training AI models, at least if a newly published Microsoft patent application ever becomes a product. Titled \"Opportunistic Micro-training on Edge Devices Us",
+      "content": "Gaming PCs sitting idle could one day earn their owners credits, or even cash, by training AI models, at least if a newly published Microsoft patent application ever becomes a product. Titled &quot;Opportunistic Micro-training on Edge Devices Using Spare GPU Utilization,&quot; the filing <a rel=\"nofollow\" href=\"https://ppubs.uspto.gov/api/pdf/downloadPdf/US-20260349820-A1?source=US-PGPUB&amp;requestToken=eyJzdWIiOiJlY2FlY2NjYS1mY2I1LTQ5MzctYWRkNy1mMzQwZDVhYzg0MjYiLCJ2ZXIiOiJiNDY4ODA5OS0zNWZjLTQyZGYtYWE2OC1hYjZmODI4YzczYmIiLCJleHAiOjB9\" target=\"_blank\">US-20260349820-A1</a> from Microsoft Technology Licensing was submitted in April 2025 and made public on November 5. It describes chopping large training jobs into small micro-tasks sized to what each device can handle, then sending them to phones, laptops, and gaming PCs whenever they have spare capacity. Owners would have to explicitly opt in, after which the system could track the work done and apply credits to their account, redeemable for free software, access to the trained model, or money.<br />\r\n<br />\r\nTo stay out of the way, the system watches GPU and CPU load, memory use, temperature and power draw, and checks less often when the GPU is busy or hot. Apparently, tasks can be paused or stopped when limits are crossed, and results get cross-checked across devices to catch faulty or tampered work. The filing doesn't give a payout rate or list supported hardware, and Microsoft hasn't announced a Windows or Xbox service, so it's impossible to say whether the rewards would cover the extra electricity. Of course, this is only an application for now, and plenty of those never turn into products.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/QG5ajr2K9EEIur7E.jpg\" target=\"_blank\" data-width=\"1160\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/QG5ajr2K9EEIur7E_thm.jpg\" width=\"157\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/M8faIH4HOJ4MrXxt.jpg\" target=\"_blank\" data-width=\"1242\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/M8faIH4HOJ4MrXxt_thm.jpg\" width=\"168\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Fii5M3n1dVD27K5w.jpg\" target=\"_blank\" data-width=\"1536\" data-height=\"864\" ><img src=\"https://tpucdn.com/img/Fii5M3n1dVD27K5w_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354630/microsoft-patent-describes-paying-pc-owners-to-train-ai-on-idle-gpus\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354630/microsoft-patent-describes-paying-pc-owners-to-train-ai-on-idle-gpus",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "bbd7871f34f1ed5bec1ff85ff613a0c6"
+    },
+    {
+      "id": 4998,
+      "title": "DLSS 5 on Radeon Gets Faster With AMDLSS5 2.0, Up to 64% Performance Uplift",
+      "summary": "AMDLSS5, a free mod that runs NVIDIA's DLSS 5 Neural Rendering on AMD's Radeon RX 9070 and RX 9070 XT, has reached version 2.0 with an engine its developer, Wehaveall, built for the project. Earlier builds were based on Daniel Blanco's DLSS",
+      "content": "AMDLSS5, a free mod that runs NVIDIA's DLSS 5 Neural Rendering on AMD's Radeon RX 9070 and RX 9070 XT, has reached <a rel=\"nofollow\" href=\"https://github.com/Wehaveall/AMDLSS5/releases/tag/v2.0.0\" target=\"_blank\">version 2.0</a> with an engine its developer, Wehaveall, built for the project. Earlier builds were based on Daniel Blanco's DLSS-NR-on-AMD, the tool that <a href=\"https://www.techpowerup.com/352360/modders-get-dlss-5-working-on-amd-graphics-cards-though-performance-is-rough\" target=\"_blank\">first got DLSS 5 working on Radeon cards</a> back in September, but version 2.0 no longer needs files from any other mod. In a 60-second Resident Evil Requiem run at 4K with FSR on an RX 9070 XT, the new build averaged 101.2 FPS with 78.5 FPS 1% lows, up from 91.3 and 66.0 FPS on version 1.6.1. That is roughly 11% and 19% better, respectively.<br />\r\n<br />\r\nThe headline 64% figure comes from a comparison with unnamed &quot;other mods,&quot; which managed 61.6 FPS in the same scene. These are the developer's own numbers from one game on one GPU, and there's no mod-off baseline showing what Neural Rendering costs. Game support now includes PRAGMATA, Nioh 3 and GTA 5 Enhanced, the latter only in offline Story Mode with BattlEye disabled. RX 9060 series cards should work but are untested, while RX 7000 support is an alpha that hasn't been tried on real hardware yet.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/6ud29060LWgRyFTj.jpg\" target=\"_blank\" data-width=\"1708\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/6ud29060LWgRyFTj_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/0mJVEkCnDeG5eUSq.jpg\" target=\"_blank\" data-width=\"2560\" data-height=\"788\" ><img src=\"https://tpucdn.com/img/0mJVEkCnDeG5eUSq_thm.jpg\" width=\"422\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354629/dlss-5-on-radeon-gets-faster-with-amdlss5-2-0-up-to-64-performance-uplift\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354629/dlss-5-on-radeon-gets-faster-with-amdlss5-2-0-up-to-64-performance-uplift",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6b606526644cabd28b8cf787056be1d7"
+    },
+    {
+      "id": 5003,
+      "title": "Nvidia RTX 5090 is now disappearing from prebuilt gaming PCs, even at HP and Lenovo",
+      "summary": "Nvidia's GeForce RTX 5090 is becoming increasingly difficult to find in the US, with Lenovo and HP running out of prebuilt gaming PCs equipped with the flagship GPU. Standalone cards are also disappearing from major retailers, with remainin",
+      "content": "Nvidia's GeForce RTX 5090 is becoming increasingly difficult to find in the US, with Lenovo and HP running out of prebuilt gaming PCs equipped with the flagship GPU. Standalone cards are also disappearing from major retailers, with remaining models selling for more than twice their original launch price.",
+      "link": "https://www.notebookcheck.net/Nvidia-RTX-5090-is-now-disappearing-from-prebuilt-gaming-PCs-even-at-HP-and-Lenovo.1446789.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-RTX-5090-is-now-disappearing-from-prebuilt-gaming-PCs-even-at-HP-and-Lenovo.1446789.0.html"
+    },
+    {
+      "id": 5004,
+      "title": "GTA 6 preload begins today, November 10",
+      "summary": "Rockstar's servers are almost certain to be under heavy strain on November 19. That's why the game's preload is starting today. This means players can download GTA 6 ahead of its official release, ensuring that most of the game files are al",
+      "content": "Rockstar's servers are almost certain to be under heavy strain on November 19. That's why the game's preload is starting today. This means players can download GTA 6 ahead of its official release, ensuring that most of the game files are already on their devices by launch day. That way, they won't have to wait for the entire download to finish while dealing with overloaded servers.",
+      "link": "https://www.notebookcheck.net/GTA-6-preload-begins-today-November-10.1446790.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GTA-6-preload-begins-today-November-10.1446790.0.html"
+    },
+    {
+      "id": 5005,
+      "title": "Apple Intelligence: China registration for Mac and iPad",
+      "summary": "Apple Intelligence has completed an important regulatory registration step for Mac and iPad in China. This brings the expected December launch closer, but it does not yet constitute official approval or a firm release date. Which features w",
+      "content": "Apple Intelligence has completed an important regulatory registration step for Mac and iPad in China. This brings the expected December launch closer, but it does not yet constitute official approval or a firm release date. Which features will be available remains unclear.",
+      "link": "https://www.notebookcheck.net/Apple-Intelligence-China-registration-for-Mac-and-iPad.1446781.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-Intelligence-China-registration-for-Mac-and-iPad.1446781.0.html"
+    },
+    {
+      "id": 5006,
+      "title": "Beelink opens reservations for ME Pro 358H four-bay NAS with powerful Arc B390 iGPU",
+      "summary": "Beelink has opened JD.com reservations for the ME Pro 358H, a four-bay NAS built on Intel's Core Ultra X7 358H with Arc B390 graphics.",
+      "content": "Beelink has opened JD.com reservations for the ME Pro 358H, a four-bay NAS built on Intel's Core Ultra X7 358H with Arc B390 graphics.",
+      "link": "https://www.notebookcheck.net/Beelink-opens-reservations-for-ME-Pro-358H-four-bay-NAS-with-powerful-Arc-B390-iGPU.1446692.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Beelink-opens-reservations-for-ME-Pro-358H-four-bay-NAS-with-powerful-Arc-B390-iGPU.1446692.0.html"
+    },
     {
       "id": 4862,
       "title": "长期测试发现WOLED电视出现“边缘坏点”现象 多款老型号面临问题",
@@ -1330,6 +1945,66 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Roco-Kingdom-preview-How-Tencent-s-creature-collector-ditches-the-gacha-paywall.1445679.0.html"
+    },
+    {
+      "id": 4999,
+      "title": "GTA VI Game Data Suggests PSSR Update With 120 Hz Support and PS5 Pro \"High CPU Frequency Mode\"",
+      "summary": "With the GTA VI launch around the corner, more and more information has begun to surface about the upcoming game. The latest news comes from GTAForums user Tex2, who analyzed the GTA VI PS5 metadata, who claims that GTA VI will launch along",
+      "content": "With the GTA VI launch around the corner, <a href=\"https://www.techpowerup.com/354448/gta-6-will-need-up-to-212-gb-of-storage-pre-load-now-starts-november-10\" target=\"_blank\">more and more information</a> has begun to surface about the upcoming game. The latest news comes from <a rel=\"nofollow\" href=\"https://gtaforums.com/topic/1007789-gta-vi-launch-pre-loading-room/?do=findComment&amp;comment=1072854671\" target=\"_blank\">GTAForums user Tex2</a>, who analyzed the GTA VI PS5 metadata, who claims that GTA VI will launch alongside a newer version of PSSR. The biggest takeaways from this update are that the new PSSR game mode improves both the framerate capabilities of the PlayStation 5 and manages to eke out some more CPU performance out of the PlayStation 5. <br />\r\n<br />\r\nThe metadata lists PSSR (or MFSR, by Sony's internal references) version 13.60, which builds on the 13.00A found in Assassin's Creed Shadows and Cyberpunk 2077, and the new version will apparently include a 120 Hz mode that drops support for VRR. It may also include a 40 FPS mode as a stop-gap to make up for the lack of VRR, but that hasn't been confirmed by the metadata. It will also enable a CPU High Frequency mode on the PlayStation 5, which may be necessary to enable higher frame rates in GTA VI.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/GJKQJlhZsBmhox7y.jpg\" target=\"_blank\" data-width=\"1088\" data-height=\"612\" ><img src=\"https://tpucdn.com/img/GJKQJlhZsBmhox7y_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/VoZ4S29iK77Aj5Oe.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/VoZ4S29iK77Aj5Oe_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/FNYaF2aQjneG3yU5.jpg\" target=\"_blank\" data-width=\"1397\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/FNYaF2aQjneG3yU5_thm.jpg\" width=\"189\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354626/gta-vi-game-data-suggests-pssr-update-with-120-hz-support-and-ps5-pro-high-cpu-frequency-mode",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-09",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "179519adc1cc918b7463b748e291278c"
+    },
+    {
+      "id": 5000,
+      "title": "(PR) Fraunhofer IPMS Develops Compact 2K OLED Microdisplay Package with MIPI DSI-2",
+      "summary": "Researchers at the Fraunhofer Institute for Photonic Microsystems IPMS have developed a new compact package for their 2K OLED microdisplay. The microdisplay package integrates MIPI DSI-2 control and the generation of all required display vo",
+      "content": "Researchers at the Fraunhofer Institute for Photonic Microsystems IPMS have developed a new compact package for their 2K OLED microdisplay. The microdisplay package integrates MIPI DSI-2 control and the generation of all required display voltages. The new solution will be presented for the first time at SEMICON Europa 2026 from November 10 to 13, 2026, in Munich - at the Silicon Saxony joint booth in Hall B1, Booth B1-221-25.<br />\r\n<br />\r\nOLED microdisplays are frequently used in portable applications such as helmets and smart glasses as well as in optical devices. The new microdisplay package simplifies the integration of Fraunhofer IPMS's 2K microdisplays into such systems, as it combines the microdisplay with the complete electronics required for its control. An integrated 20 mm x 20 mm system-on-module (SoM) implements the MIPI DSI-2 interface via D-PHY, which is widely used in mobile processors and transmits image data and control commands serially at high speeds. The microdisplay package supports up to four data lanes with a data rate of up to 2.5 Gbit/s per lane.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/cOBqaUGSVkT1LHiE.jpg\" target=\"_blank\" data-width=\"1358\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/cOBqaUGSVkT1LHiE_thm.jpg\" width=\"184\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/SKeapeLiiXFbSl8D.jpg\" target=\"_blank\" data-width=\"1333\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/SKeapeLiiXFbSl8D_thm.jpg\" width=\"181\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354621/fraunhofer-ipms-develops-compact-2k-oled-microdisplay-package-with-mipi-dsi-2\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354621/fraunhofer-ipms-develops-compact-2k-oled-microdisplay-package-with-mipi-dsi-2",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-09",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "af933f7597f69245497568b7e82b94b6"
+    },
+    {
+      "id": 5001,
+      "title": "(PR) DapuStor Launches Enterprise NVMe M.2 Boot Drive for High-Performance Data Centers",
+      "summary": "The DapuStor J5101, an enterprise NVMe M.2 boot drive, built with the PCIe Gen 4 interface and a compact M.2 form factor, delivers fast, reliable server boot with low power consumption and flexible capacity options. These capabilities impro",
+      "content": "The DapuStor J5101, an enterprise NVMe M.2 boot drive, built with the PCIe Gen 4 interface and a compact M.2 form factor, delivers fast, reliable server boot with low power consumption and flexible capacity options. These capabilities improve operational efficiency and lower total cost of ownership (TCO) in virtualization, AI, HPC, and cloud environments.<br />\r\n<br />\r\nAs AI infrastructure and data centers scale, server configurations are becoming denser and more complex, with higher costs per node. M.2 boot drives have become a critical component in server reliability and cluster operating costs, with evolving requirements in three key areas:<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/k93MdH5COSFKQRMh.jpg\" target=\"_blank\" data-width=\"640\" data-height=\"480\" ><img src=\"https://tpucdn.com/img/k93MdH5COSFKQRMh_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ayEdrFzmD8mKPBGO.jpg\" target=\"_blank\" data-width=\"550\" data-height=\"421\" ><img src=\"https://tpucdn.com/img/ayEdrFzmD8mKPBGO_thm.jpg\" width=\"170\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354606/dapustor-launches-enterprise-nvme-m-2-boot-drive-for-high-performance-data-centers\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354606/dapustor-launches-enterprise-nvme-m-2-boot-drive-for-high-performance-data-centers",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-09",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "9bfcb1476f0c0145a19ffbbb78acb230"
+    },
+    {
+      "id": 5002,
+      "title": "AMD Confirms Excessive SSD Writes in Radeon Drivers, Fix Coming with Adrenalin 26.11.1",
+      "summary": "AMD has confirmed that the current versions of Radeon drivers, Adrenalin 26.10.1 and Adrenalin 26.10.2, are experiencing an issue that causes excessive SSD writing. This problem results in the SSD writing dozens of gigabytes of data unneces",
+      "content": "AMD has confirmed that the current versions of Radeon drivers, Adrenalin 26.10.1 and Adrenalin 26.10.2, are experiencing an issue that causes excessive SSD writing. This problem results in the SSD writing dozens of gigabytes of data unnecessarily. The culprit appears to be AMD's External Events Client Module, which runs under the name atieclxx.exe on Windows systems. This module is causing some users' system drives to be constantly busy with writes. Reports indicate that the write rate ranges from 0.3 MB/s to 1.5 MB/s, with one Reddit user reporting sustained activity at 5 MB/s. The process is part of AMD's External Events Utility, which manages tasks such as detecting monitors and responding to Radeon software hotkeys. Unfortunately, it has entered an infinite loop of data writing.<br />\r\n<br />\r\nWhile this may seem like a small amount, it's important to remember that systems can run for extended periods, and the writing can accumulate over time, potentially leading to SSD wear and tear. SSD lifespan largely depends on its ability to endure constant random writes, and forcing random writes onto an SSD will undoubtedly shorten its lifecycle. This is particularly concerning given the high cost of NAND Flash, as users are operating expensive SSDs that could undergo unnecessary wear. In response, AMD plans to release an update to its Adrenalin drivers with version 26.11.1, which will address this issue.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/EQvCRvNTbhqyFfMt.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"675\" ><img src=\"https://tpucdn.com/img/EQvCRvNTbhqyFfMt_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/cAqekjZ7sROuBZeV.jpg\" target=\"_blank\" data-width=\"1221\" data-height=\"359\" ><img src=\"https://tpucdn.com/img/cAqekjZ7sROuBZeV_thm.jpg\" width=\"442\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354605/amd-confirms-excessive-ssd-writes-in-radeon-drivers-fix-coming-with-adrenalin-26-11-1\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354605/amd-confirms-excessive-ssd-writes-in-radeon-drivers-fix-coming-with-adrenalin-26-11-1",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-09",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "48fea291c99bc0c1d7732dd698c5532c"
     },
     {
       "id": 4796,
