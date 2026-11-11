@@ -1,7 +1,693 @@
 {
-  "updatedAt": "2026-11-10",
-  "total": 5066,
+  "updatedAt": "2026-11-11",
+  "total": 5124,
   "list": [
+    {
+      "id": 5067,
+      "title": "SpaceX推进“星际大脑”计划：豪掷先进太阳能技术冲刺100吉瓦太空算力目标",
+      "summary": "美国太空探索技术公司（SpaceX）正进一步加快其“Starmind（星际大脑）”太空计算卫星网络建设步伐。根据最新披露的信息，SpaceX已与德国设备制造商SINGULUS TECHNOLOGIES达成新的供应合作协议，为其大规模生产高性能太阳能电池提供关键制造设备。公司计划通过这一合作，最终形成每年100吉瓦发电能力所需的太阳能电池生产规模，以满足未来庞大的太空人工智能计算需求。 阅读全文",
+      "content": "<p>美国太空探索技术公司（SpaceX）正进一步加快其“Starmind（星际大脑）”太空计算卫星网络建设步伐。根据最新披露的信息，SpaceX已与德国设备制造商SINGULUS TECHNOLOGIES达成新的供应合作协议，为其大规模生产高性能太阳能电池提供关键制造设备。公司计划通过这一合作，最终形成每年100吉瓦发电能力所需的太阳能电池生产规模，以满足未来庞大的太空人工智能计算需求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585934.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585934.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585934.htm"
+    },
+    {
+      "id": 5068,
+      "title": "腾讯“元宝搜索”正式上线 接入157个权威信源",
+      "summary": "11月11日消息，腾讯云今日宣布，腾讯全新搜索产品“元宝搜索”正式上线，访问地址为so.qq.com，用户也可升级QQ浏览器，在引擎设置中切换使用该搜索服务。 阅读全文",
+      "content": "<p>11月11日消息，腾讯云今日宣布，腾讯全新搜索产品“元宝搜索”正式上线，访问地址为so.qq.com，用户也可升级QQ浏览器，在引擎设置中切换使用该搜索服务。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585926.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585926.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585926.htm"
+    },
+    {
+      "id": 5069,
+      "title": "AMD高管质疑英伟达、Arm“智能体CPU”：四年前没人能预知浪潮",
+      "summary": "据Tom’s Hardware报道，AMD两名高管近日对英伟达和Arm将新款处理器描述为“专为智能体AI设计”的说法提出质疑。AMD企业副总裁Madhu Rangarajan表示，芯片研发周期长达数年，AMD并未在四年前就预见智能体AI兴起，再据此打造一款专用处理器。 阅读全文",
+      "content": "<p>据Tom’s Hardware报道，<strong>AMD两名高管近日对英伟达和Arm将新款处理器描述为“专为智能体AI设计”的说法提出质疑。</strong>AMD企业副总裁Madhu Rangarajan表示，芯片研发周期长达数年，AMD并未在四年前就预见智能体AI兴起，再据此打造一款专用处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585918.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585918.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585918.htm"
+    },
+    {
+      "id": 5070,
+      "title": "平头哥要上市 阿里AI的第一个“大结果”",
+      "summary": "如外界所料，阿里要分拆平头哥赴港上市了。11月10日晚，阿里发布公告称，拟将旗下芯片公司平头哥在港交所主板独立上市。平头哥早在今年9月11日，就已保密递交上市申请。据媒体报道，平头哥计划明年赴港上市，可能募集20亿至30亿美元。不过，具体发行规模和上市时间，阿里尚未披露。 阅读全文",
+      "content": "<p>如外界所料，阿里要分拆平头哥赴港上市了。11月10日晚，阿里发布公告称，拟将旗下芯片公司平头哥在港交所主板独立上市。平头哥早在今年9月11日，就已保密递交上市申请。据媒体报道，平头哥计划明年赴港上市，可能募集20亿至30亿美元。不过，具体发行规模和上市时间，阿里尚未披露。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585914.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585914.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585914.htm"
+    },
+    {
+      "id": 5071,
+      "title": "马斯克要把AI算力送上天 先买一条太阳能产线",
+      "summary": "据德国设备制造商SINGULUS TECHNOLOGIES当地时间11月10日发布的公告，SpaceX已与该公司签署供应合同，将采购一条用于生产异质结太阳能电池的交钥匙产线。首条产线订单金额超过6000万欧元，计划于2027年上半年交付，相关产品将用于SpaceX的Starmind AI卫星。 阅读全文",
+      "content": "<p>据德国设备制造商SINGULUS TECHNOLOGIES当地时间11月10日发布的公告，<strong>SpaceX已与该公司签署供应合同，将采购一条用于生产异质结太阳能电池的交钥匙产线。首条产线订单金额超过6000万欧元，计划于2027年上半年交付，相关产品将用于SpaceX的Starmind AI卫星。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585906.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585906.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585906.htm"
+    },
+    {
+      "id": 5072,
+      "title": "知名科技分析师艾夫斯：若黄仁勋离职，英伟达市值将暴跌三分之一",
+      "summary": "知名科技股多头丹·艾夫斯（Dan Ives）认为，黄仁勋的价值大约相当于英伟达总市值的30%。这位前韦德布什证券公司分析师周二表示，如果这位 AI 芯片巨头的掌舵人离开，英伟达的市值或将缩水近三分之一。 阅读全文",
+      "content": "<p>知名科技股多头丹·艾夫斯（Dan Ives）认为，黄仁勋的价值大约相当于英伟达总市值的30%。这位前韦德布什证券公司分析师周二表示，如果这位 AI 芯片巨头的掌舵人离开，英伟达的市值或将缩水近三分之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585902.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585902.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585902.htm"
+    },
+    {
+      "id": 5073,
+      "title": "美媒曝中国国防背景高校获得英伟达H200芯片 美国出口管制漏洞再受关注",
+      "summary": "一份最新披露的采购记录显示，中国一所与中国人民解放军关系密切、同时被列入美国出口管制黑名单的高校，近期获得了英伟达先进H200人工智能芯片。相关发现再次引发美国政界对高端AI芯片流向中国以及现行出口管制措施有效性的讨论。 阅读全文",
+      "content": "<p>一份最新披露的采购记录显示，中国一所与中国人民解放军关系密切、同时被列入美国出口管制黑名单的高校，近期获得了英伟达先进H200人工智能芯片。相关发现再次引发美国政界对高端AI芯片流向中国以及现行出口管制措施有效性的讨论。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585894.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585894.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585894.htm"
+    },
+    {
+      "id": 5074,
+      "title": "黄仁勋风波改变美国国会芯片政策博弈 英伟达面临更严出口管制压力",
+      "summary": "英伟达首席执行官黄仁勋与一名被美国情报部门怀疑与中国情报机构有关联的华裔商界人士之间的关系，正在从企业高管个人争议演变为美国国会围绕先进芯片出口政策展开的新一轮政治博弈。原本一直受到英伟达游说阻力的多项对华芯片出口管制法案，如今获得了新的推动力。 阅读全文",
+      "content": "<p>英伟达首席执行官黄仁勋与一名被美国情报部门怀疑与中国情报机构有关联的华裔商界人士之间的关系，正在从企业高管个人争议演变为美国国会围绕先进芯片出口政策展开的新一轮政治博弈。原本一直受到英伟达游说阻力的多项对华芯片出口管制法案，如今获得了新的推动力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585892.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585892.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585892.htm"
+    },
+    {
+      "id": 5075,
+      "title": "微软强化Windows 11安全防护 “内存完整性”功能开始默认启用",
+      "summary": "微软正在进一步加强Windows 11的系统安全策略。根据近期用户和媒体观察，越来越多安装最新版本Windows 11的设备开始自动启用“内存完整性（Memory Integrity）”功能。这项被微软视为重要安全防线的技术能够提升系统抵御恶意软件和驱动程序攻击的能力，但与此同时，也再度引发部分游戏玩家对于性能损失的担忧。 阅读全文",
+      "content": "<p>微软正在进一步加强Windows 11的系统安全策略。根据近期用户和媒体观察，越来越多安装最新版本Windows 11的设备开始自动启用“内存完整性（Memory Integrity）”功能。这项被微软视为重要安全防线的技术能够提升系统抵御恶意软件和驱动程序攻击的能力，但与此同时，也再度引发部分游戏玩家对于性能损失的担忧。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585888.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585888.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585888.htm"
+    },
+    {
+      "id": 5076,
+      "title": "AMD发布第六代EPYC 9006处理器 最高256核心",
+      "summary": "AMD正式发布基于Zen 6架构的第六代EPYC 9006系列服务器处理器，为不断增长的人工智能、云计算和企业级数据中心需求提供新一代计算平台。作为代号“Venice”的产品家族，新系列进一步提升了核心规模、内存带宽以及数据传输能力，最高可提供256个CPU核心，成为AMD目前最强大的通用服务器处理器之一。 阅读全文",
+      "content": "<p>AMD正式发布基于Zen 6架构的第六代EPYC 9006系列服务器处理器，为不断增长的人工智能、云计算和企业级数据中心需求提供新一代计算平台。作为代号“Venice”的产品家族，新系列进一步提升了核心规模、内存带宽以及数据传输能力，最高可提供256个CPU核心，成为AMD目前最强大的通用服务器处理器之一。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585886.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585886.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585886.htm"
+    },
+    {
+      "id": 5077,
+      "title": "苹果秘密测试Harbor应用：多台Mac可通过雷雳5共享统一内存 组成私人计算池",
+      "summary": "苹果正在开发一款名为Harbor的新应用程序，旨在将搭载Apple Silicon芯片的Mac电脑变成私人AI推理服务器。与传统本地AI软件不同，Harbor不仅能够在单台Mac上运行大型语言模型，还可以通过雷雳5（Thunderbolt 5）接口连接多台Mac，将不同设备的统一内存整合为一个更大的计算资源池，从而运行单台电脑无法独立容纳的AI模型。 阅读全文",
+      "content": "<p>苹果正在开发一款名为Harbor的新应用程序，旨在将搭载Apple Silicon芯片的Mac电脑变成私人AI推理服务器。与传统本地AI软件不同，Harbor不仅能够在单台Mac上运行大型语言模型，还可以通过雷雳5（Thunderbolt 5）接口连接多台Mac，将不同设备的统一内存整合为一个更大的计算资源池，从而运行单台电脑无法独立容纳的AI模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585878.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585878.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585878.htm"
+    },
+    {
+      "id": 5078,
+      "title": "苹果PROLED MacBook Pro重现经典发光Logo的秘密揭晓",
+      "summary": "苹果最新推出的PROLED MacBook Pro重新带回了曾经极具辨识度的发光苹果Logo，而来自维修机构iFixit的拆解报告则揭开了这一经典设计回归背后的实现方式。尽管新机型在可维修性方面有所改善，但拆解显示，这枚重新点亮的苹果标志实际上隐藏着相当复杂的结构设计，一旦出现故障，维修难度依然不低。 阅读全文",
+      "content": "<p>苹果最新推出的PROLED MacBook Pro重新带回了曾经极具辨识度的发光苹果Logo，而来自维修机构iFixit的拆解报告则揭开了这一经典设计回归背后的实现方式。尽管新机型在可维修性方面有所改善，但拆解显示，这枚重新点亮的苹果标志实际上隐藏着相当复杂的结构设计，一旦出现故障，维修难度依然不低。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585874.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585874.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585874.htm"
+    },
+    {
+      "id": 5079,
+      "title": "苹果新款MacBook Pro用户抱怨眼睛疲劳和头晕 240Hz屏幕频闪成为争议焦点",
+      "summary": "苹果最新推出的MacBook Pro采用了先进的OLED显示技术，但部分购买者却发现，长时间使用这款笔记本电脑后会出现眼睛疲劳、头痛甚至头晕等不适症状。问题可能与新款显示屏采用的脉冲宽度调制（PWM）亮度控制技术有关。对于部分对屏幕闪烁敏感的用户而言，新显示屏的实际使用体验甚至可能不如上一代Mini-LED机型。 阅读全文",
+      "content": "<p>苹果最新推出的MacBook Pro采用了先进的OLED显示技术，但部分购买者却发现，长时间使用这款笔记本电脑后会出现眼睛疲劳、头痛甚至头晕等不适症状。问题可能与新款显示屏采用的脉冲宽度调制（PWM）亮度控制技术有关。对于部分对屏幕闪烁敏感的用户而言，新显示屏的实际使用体验甚至可能不如上一代Mini-LED机型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585872.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585872.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585872.htm"
+    },
+    {
+      "id": 5080,
+      "title": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目 甚至要索赔2.5万美元",
+      "summary": "芯片公司 Synaptics 日前向开源开发者迈克洛锡安发出停止侵权函，要求这名开发者停止开发和发布 Linux 驱动程序 Vino。该驱动旨在为 DisplayLink 设备提供开源支持，在开发过程中开发者使用 Claude AI 辅助开发。 阅读全文",
+      "content": "<p>芯片公司 Synaptics 日前向开源开发者迈克洛锡安发出停止侵权函，要求这名开发者停止开发和发布 Linux 驱动程序 Vino。该驱动旨在为 DisplayLink 设备提供开源支持，在开发过程中开发者使用 Claude AI 辅助开发。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585868.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585868.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585868.htm"
+    },
+    {
+      "id": 5081,
+      "title": "Apple Intelligence将对超额使用收取额外的费用 订阅iCloud+套餐会包含更多额度",
+      "summary": "据苹果发布的支持文档，部分依赖云端模型的Apple Intelligence功能设有每日使用限制，未来用户可以付费获得更多使用额度。涉及的功能包括但不限于 Siri AI、图乐园、照片智能编辑工具和快捷指令中的云端模型。 阅读全文",
+      "content": "<p>据苹果发布的支持文档，部分依赖云端模型的Apple Intelligence功能设有每日使用限制，未来用户可以付费获得更多使用额度。涉及的功能包括但不限于 Siri AI、图乐园、照片智能编辑工具和快捷指令中的云端模型。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585864.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585864.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585864.htm"
+    },
+    {
+      "id": 5082,
+      "title": "AI智能体疯狂访问网站却不带来真实流量 Cloudflare首席执行官警告网站成本上涨",
+      "summary": "网络服务商 Cloudflare 首席执行官马修普林斯日前表示，随着 AI 智能体越来越多地代替用户浏览器浏览网页，部分网站正在面临新的成本压力：智能体访问网站、读取内容并消耗服务器资源，但最终可能直接向用户给出答案，网站没有得到实际访客和真实流量，也没有获得收益。 阅读全文",
+      "content": "<p>网络服务商 Cloudflare 首席执行官马修普林斯日前表示，随着 AI 智能体越来越多地代替用户浏览器浏览网页，部分网站正在面临新的成本压力：智能体访问网站、读取内容并消耗服务器资源，但最终可能直接向用户给出答案，网站没有得到实际访客和真实流量，也没有获得收益。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585862.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585862.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585862.htm"
+    },
+    {
+      "id": 5084,
+      "title": "AMD 公布 Zen 6 CPU 细节",
+      "summary": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 缓存容量后会降至每周期处理 1 个分支，",
+      "content": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 缓存容量后会降至每周期处理 1 个分支，Zen 6 主要提升了分支目标缓冲器（BTB）的速度而非容量。Zen 6 的分支预测单元精确度接近 Zen 5，执行速度则更快。Zen 5 单线程只能使用一个解码集群，而 Zen 6 提升到了单线程能使用两个解码集群。Zen 6 在整数运算上恢复了 Zen 4 的 NOP（空操作）配对机制，每时钟周期最多可处理 16 个 NOP，配备相同的 6 个算术逻辑单元 Zen 6 每时钟周期可完成 5.96 次 64 位加法运算而 Zen 5 为 5.25 次。AMD 将整数乘法单元的数量从 3 个减少到了 2 个，理由是 3 个整数乘法单元带来的性能提升不足以抵消占用的芯片面积成本。Zen 5 的经典核心（Classic cores）与高密度核心（Dense cores）在架构上几乎完全相同，区别在于单个 CCD 内的核心数量以及每个核心所分配的 L3 缓存大小。但 Zen 6 家族发生了变化。AMD 对 Zen 6 与 Zen 6c 进行了架构的差异性设计，Zen 6c 部分乱序执行结构的容量更大，能同时处理更多的指令，更好应对较高的延迟。Zen 6 优化了高频，而 Zen 6c 能更好容忍较高的内存延迟。Zen 6 和 Zen 6c 分别采用 12 核和 32 核的 CCD 设计，每个核心均配备 4 MB 的 L3 缓存。12 核 CCD 拥有 48 MB 的 L3 缓存，32 核 CCD 拥有 128 MB。L3 缓存延迟从 Zen 5 的约 47 个周期增加到 Zen 6 的 55 个周期和 Zen 6c 的 66 个周期，原因可能是缓存容量的增大以及网格互连节点数量的增加。Zen 6 通过更高的时钟频率抵消了延迟增幅，Zen 6c 则因为低时钟频率以及更大的 CCX 显著增加了延迟。AMD 的测试显示 zen 6 整数运算提升 14% 浮点提升 11%，Zen 6c ipc 提升 20%。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85852",
+      "source": "Solidot",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85852"
+    },
+    {
+      "id": 5085,
+      "title": "Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战",
+      "summary": "IT之家 11 月 11 日消息，英伟达 CUDA 生态系统的领先优势，可能正在受到越来越大的挑战。Anthropic IPO 路演材料中的一张幻灯片显示，随着高性能 AI 模型逐渐具备自主适配不同计算平台的能力，GPU 正在变得越来越像可以相互替换的通用算力资源。 IT之家注意到，Anthropic 的 IPO 路演材料披露了一项颇为引人关注的信息：其 Claude Mythos Preview 模型仅用了大约 3 天时间，就摸索出如何让另一个模型在 AMD MI355X ",
+      "content": "<p data-vmark=\"df1c\">IT之家 11 月 11 日消息，英伟达 CUDA 生态系统的领先优势，可能正在受到越来越大的挑战。Anthropic IPO 路演材料中的一张幻灯片显示，随着高性能 AI 模型逐渐具备自主适配不同计算平台的能力，GPU 正在变得越来越像可以相互替换的通用算力资源。</p><p style=\"text-align: center;\" data-vmark=\"9647\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/cdb2a246-bb84-451d-bdca-b88b100e346f.jpg?x-bce-process=image/format,f_auto\" w=\"728\" h=\"410\" data-weibo=\"0\" data-vmark=\"738f\" class=\"no-alt-img\"></p><p data-vmark=\"4074\">IT之家注意到，Anthropic 的 IPO 路演材料披露了一项颇为引人关注的信息：其 Claude Mythos Preview 模型仅用了大约 3 天时间，就摸索出如何让另一个模型在 AMD MI355X GPU 上运行。相比之下，传统情况下，为一个新的计算平台完成推理任务所需的适配工作，通常需要 6 至 12 个月。</p><p style=\"text-align: center;\" data-vmark=\"fba7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/79ae0c3d-eb30-421c-a8c0-e6ca6b17db4d.jpg?x-bce-process=image/format,f_auto\" w=\"728\" h=\"414\" data-weibo=\"1\" data-vmark=\"5132\" class=\"no-alt-img\"></p><p data-vmark=\"8323\">这意味着，Anthropic 现在可以将不同厂商的 GPU 视为相对通用的算力资源，在不同平台之间切换的技术门槛已经大幅降低。也正因如此，有观点开始认为，英伟达长期以来引以为傲的 CUDA 生态护城河，实际上可能已经失去了原有的意义。</p><p data-vmark=\"06b6\">不过，现在就宣告英伟达 CUDA 生态优势的终结，恐怕还为时过早。CUDA 不仅仅是一套软件工具，其背后还有规模庞大的开发者生态、丰富的函数库和开发工具，以及经过多年持续优化的技术积累。目前，仍有大量开发者围绕 CUDA 构建和维护各类应用。</p><p data-vmark=\"cff4\">过去几年，英伟达也一直在采取各种措施巩固 CUDA 的竞争优势。例如，公司向大学和科研人员免费提供 GPU 及培训资源，吸引更多开发者进入 CUDA 生态。</p><p data-vmark=\"4761\">此外，英伟达还将用于连接多块 GPU 的通信工具库 NVIDIA Collective Communications Library（NCCL），与 NVLink、InfiniBand 等专有硬件技术深度结合，进一步提高多 GPU 协同计算的效率，也增加了用户迁移至其他平台的成本。</p>",
+      "link": "https://www.ithome.com/1/025/736.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/736.htm"
+    },
+    {
+      "id": 5086,
+      "title": "奇瑞瑞虎 9 猎鹰 700 版上市，限时焕新价 17.29 万元起",
+      "summary": "IT之家 11 月 11 日消息，奇瑞瑞虎 9 猎鹰 700 版今日正式上市，官方指导价 18.99 万元，限时红包价 18.29 万元，叠加置换补贴等限时焕新价 17.29 万元。 车身尺寸方面，新车长宽高分别为 4853/1930/1718mm，轴距为 2820mm；IT之家获悉，新车搭载猎鹰 700 辅助驾驶系统，配备激光雷达，拥有 560TOPS 车端算力，支持高速 NOA、城市 NOA、无导航 AI 漫游及全场景泊车。 动力和续航方面，瑞虎 9 猎鹰 700 版搭载",
+      "content": "<p data-vmark=\"38bd\">IT之家 11 月 11 日消息，奇瑞瑞虎 9 猎鹰 700 版今日正式上市，官方指导价 18.99 万元，限时红包价 18.29 万元，叠加置换补贴等<strong>限时焕新价 17.29 万元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e141\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5a646652-e875-450b-b7b8-9ecbe927afe1.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"662\" data-mpos=\"2,2\" data-weibo=\"0\"  data-vmark=\"1680\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"5a7f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5398f6a2-6339-4af7-8def-32adab393f4b.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"1\" data-vmark=\"bd48\" class=\"no-alt-img\"></p><p data-vmark=\"e6c4\">车身尺寸方面，新车长宽高分别为 4853/1930/1718mm，轴距为 2820mm；IT之家获悉，<strong>新车搭载猎鹰 700 辅助驾驶系统</strong>，配备激光雷达，拥有 560TOPS 车端算力，支持高速 NOA、城市 NOA、无导航 AI 漫游及全场景泊车。</p><p style=\"text-align: center;\" data-vmark=\"0588\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5619f9b8-3e8a-49f7-9333-7c91ba90aeea.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"607\" data-weibo=\"2\" data-vmark=\"3f7b\" class=\"no-alt-img\"></p><p data-vmark=\"9718\">动力和续航方面，瑞虎 9 猎鹰 700 版搭载新一代超混 DHT 变速箱，搭载 CDC 磁悬浮底盘，电机最大功率 260kW、最大扭矩 330N·m；配备犀牛 H 增混电池，容量 32.66kWh，WLTC 纯电续航里程 160km，综合续航 1400km+。</p><p data-vmark=\"2975\">内饰部分，新车配备 30 英寸一体屏 + 10.25 英寸液晶仪表，并配备高通骁龙 8255 芯片；搭载伯牙之音 23 扬声器系统；配备女王副驾 2.0，带有 375mm 四向腿托以及一键舒躺模式。</p><p style=\"text-align: center;\" data-vmark=\"c58a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a19560ee-1db0-4097-a3b1-4af5e4910f60.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"694\" data-weibo=\"3\" data-vmark=\"bcb4\" class=\"no-alt-img\"></p><p data-vmark=\"b03d\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"0ede\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/942/285.htm\">奇瑞全新一代瑞虎 9 车型正式上市，限时权益价 14.69-16.69 万元</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/733.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/733.htm"
+    },
+    {
+      "id": 5087,
+      "title": "1899 → 818 元：联想小新 Pad Pro 12.7 高刷平板再降价，天玑 8300 处理器",
+      "summary": "联想小新 Pad Pro 12.7 平板 2024 年 7 月发布，搭载天玑 8300 处理器，配备 2.9K 144Hz 高刷屏。 今日淘宝百亿补贴直降至 919 元近期好价： 先领百亿补贴 8.5 折巅峰金刚券：点此领券 点击下方卡片领券后 → 点击宝贝右上角“…” → 点击弹出页面右下角“淘金币”下单即可： 天猫联想平板 小新 Pad Pro12.7 英寸平板国补后 919 元直达链接 部分地区可凑单使用 1500-150 元 88VIP 消费券（例如广东），平板折合仅",
+      "content": "<p data-vmark=\"67c0\">联想小新 Pad Pro 12.7 平板 2024 年 7 月发布，<strong>搭载天玑 8300 处理器</strong>，配备 2.9K 144Hz 高刷屏。</p><p data-vmark=\"7ab5\">今日淘宝百亿补贴直降至 919 元近期好价：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"47ff\">先领百亿补贴 <strong>8.5 折</strong>巅峰金刚券：<a href=\"https://s.click.taobao.com/t?union_lens=lensId%3APUB%401794394316%40212781fd_0d85_1a1ca3c5e22_2db8%4001%40eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfb2ZmaWNpYWxfaW5kZXhfaHRtIn0ie%3BeventPageId%3A20150318020023429&amp;e=m%3D2%26s%3D4zMOxbAU6YZw4vFB6t2Z2iperVdZeJviAMbqNcPEYg6VPNdSusZCyjLxqsKAeUFqYvfw%2Fmp1AoYWpIFXOotQw2JZce2afFgMn%2Bj5QPDhGN9FlgFsz5Qb2l2ks6AcKUmlNhS2jKSFXm0IHiTch6dCdUlo9ouzOG3AACqnNlErF5cZmPgTW%2BwirXyKwiqD2WK0Bmf7LSR66ai5FyDCeyBgIo5RNw7GWBXd47FHjfsActk7kJwmAcM4EsNGmDtWMABN8YrZaMO%2FJmiVOuJgHDnOH8Ux2DEFLr35sEHgYivADX6Oy%2F1S56Jf63n2aWw0yq7Hs7UNLsd2bI5z8saC7t5FlFUf8haPf2CNK6jxoA%2FVHKq7KEl6b4zk6lOvwoHElIcxOi0J6EzCGDk1zANuoYN5TbcbPfTfZsZJwy0CW%2BBIxPyCOqMWLSGzLl1%2BUF5Lk8eC4XVLsXjbRp%2BPG2ft99oWrdLAnyYSw%2Fx%2BYC30mGqTTc28Oi8EGH%2F9SbsoSXpvjOTq%2B%2BCP4kboH60k5n%2FPEQaxwYFLagj2tp6cYOLc1FTKj3jNpUSCNiF2%2B7giPr%2FuUxtJNvzjXuyTtFV5er2U9U1lD7p01uVuckRar5fFvzDNia%2FpqT9PE%2FG8uy06tyi4KpkkJAAqkpwCSSu1F1Ih3l2O0GdzRCt8aaiWOlcOtmtGZ6s6P77ZqaPxDJeufJEmh27HQgKHjkkMTgAQPXTb1zhltpjW6REjW3N86bwDYo8EwoX9gtnFNjr6cGIdHN%2FMECcpomfkDJRs%2BhU%3D\" target=\"_blank\">点此领券</a></p></li><li><p data-vmark=\"4eaf\">点击下方卡片领券后 → 点击宝贝右上角“<span class=\"font-color-red\"><strong>…</strong></span>” → 点击弹出页面右下角“<span class=\"font-color-orangered\"><strong>淘金币</strong></span>”下单即可：</p></li></ul><dir><a href=\"https://uland.taobao.com/coupon/edetail?traceId=2150466a17943943747784028e0cf6&amp;srItem=1&amp;e=rg7kgsK7fLWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JFx44ZzpEPebm0ZUAHDNsWOwlkNeKir5oANMIIMwjgdqJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMsb%2Bvi71p7YhsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2oNoRzBVFFgP2W2e6Az70wSzjHoZpd4W6dsb%2Bvi71p7Yi3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394374@213ce421_14a4_1a1ca3d42d5_8654@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ca17943943753532332e0b22&amp;srItem=1&amp;e=eVNXyxxGl1SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jdi2j1fVI0nPsnMyME5UaCUdnmmkTVDFvOIh%2FSzJH8VfYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8k9mqRVEQy%2BRz4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvF%2FOXoCGI0Hdsoc985snuzZs8gPsBTxd4Py62WaKlF0T9mqRVEQy%2BRwSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394375@2146bd04_14c4_1a1ca3d451c_4ad4@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045f717943943758618874e0d95&amp;srItem=1&amp;e=o%2B31StehOY%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3J7XMcpDZEfIR%2Br82F3qOKZUasvaLAWRywHgekNZJJ5w6JHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMxyVUUT8Uu4xsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2o8xxCr4xg5jZaaAmbwQD%2F3AxGCPbh02SKxyVUUT8Uu4y3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394375@213f7a7d_1575_1a1ca3d4709_8cf2@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ad17943943764171173e0a6e&amp;srItem=1&amp;e=CaGwqnU8qbmlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JxzoslL%2BSLvPkq3Ip6BarFgjEhLtwR4%2Bp%2B1MZM4rZ3GfYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8k7CeH0T%2BIvRr4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvL2I91woLIv3fJs8ZMxw9cX5yQHUl0GUcitpkeyDshG07CeH0T%2BIvRoSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394376@0bb7749a_1430_1a1ca3d4931_6d0c@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465c17943943773962384e0b2a&amp;srItem=1&amp;e=hfFLjzKM6cWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jn5BHqc%2FGIVffaMNOZ8bgQNxRksirIUjkOuM2b6Y6L2PYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDEWO1C6K2fH4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvALXHwwHwO9PEqQG6bk%2FTc%2BuAxGEfIBDwHcZRiCSS5SVDEWO1C6K2fESq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@0b51e694_151d_1a1ca3d4cfc_70fe@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150408617943943769015403e0d88&amp;srItem=1&amp;e=Nec9hNu2ej%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JGBGXJY5%2FIXCxAy6TK34wQTs%2F%2FeCOoHPLCvunjoDzhubYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDEWO1C6K2fH4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvALXHwwHwO9PEqQG6bk%2FTc%2BuAxGEfIBDwHcZRiCSS5SVDEWO1C6K2fESq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@21279cf8_1498_1a1ca3d4b29_8749@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150460517943943778522363e0dbf&amp;srItem=1&amp;e=d8iOwrMsVTKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JSFAam0GceRS3dSvmzaH%2BDmYk0aEtpCbCmKTGmiJBK6HYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kepWuRdTSQu34HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvLavT4hIvbmuwYo23OgZi9akI5VAKoJwVs1cff%2BknZBvepWuRdTSQu0Sq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@212b4e8b_14f4_1a1ca3d4ece_c57e@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150462717943943784378658e0b38&amp;srItem=1&amp;e=t9bKBJku6ySlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JPphv7HoICbEHByA1%2BYvixCPLTllsrX1YmGkHtwA%2BJ%2FqJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMCdl4aOqenB9sDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2ofn2Faaayv7yBsnx%2Fxs%2BWqePrIhtzZ9rpCdl4aOqenB%2B3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394378@214142f8_1523_1a1ca3d511b_ad71@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150461317943943789557474e0b67&amp;srItem=1&amp;e=sJ1cM9ssg4%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jp0urSWPHH7i5TyDasksrLfMY7gpziaMkiXt8Eh1ruIOJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMTlsmQqC%2BULZsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW2%2FYgr8X0y2BTlYtoA4YiwZUuMmYKc7J6beyqc3x3G18YTlsmQqC%2BULa3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394379@2133e4e7_149d_1a1ca3d5324_d976@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459317943943796086605e0c45&amp;srItem=1&amp;e=u3y%2Fe2iHF6ClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jwx9TCvTYiyJwTFWCcNwEKU%2B%2Bos5W9BHjhLxhxqWmeqjYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDhs8YJv90of4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvI0htCX81sS%2F4QPMp%2BZAkb9bV3EXi3mUXpw0TicVVlhtDhs8YJv90ocSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394379@21666f14_14ee_1a1ca3d55a7_99a9@01\"  data-ncid=\"270032\" contenteditable=\"false\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/O1CN013gXHgl24Fqvbc8yo6_!!6000000007362-0-yinhe.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">联想平板 小新 Pad Pro</span></span><span class=\"card-abstract\">12.7 英寸平板</span><span class=\"card-controls\"><span class=\"price\">国补后 919 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"03cd\"><strong>部分地区</strong>可凑单使用 1500-150 元 88VIP 消费券（例如广东），平板折合仅需 818 元闭眼囤好价。</p><dir><a href=\"https://uland.taobao.com/coupon/edetail?traceId=2150466a17943943747784028e0cf6&amp;srItem=1&amp;e=rg7kgsK7fLWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JFx44ZzpEPebm0ZUAHDNsWOwlkNeKir5oANMIIMwjgdqJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMsb%2Bvi71p7YhsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2oNoRzBVFFgP2W2e6Az70wSzjHoZpd4W6dsb%2Bvi71p7Yi3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394374@213ce421_14a4_1a1ca3d42d5_8654@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ca17943943753532332e0b22&amp;srItem=1&amp;e=eVNXyxxGl1SlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jdi2j1fVI0nPsnMyME5UaCUdnmmkTVDFvOIh%2FSzJH8VfYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8k9mqRVEQy%2BRz4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvF%2FOXoCGI0Hdsoc985snuzZs8gPsBTxd4Py62WaKlF0T9mqRVEQy%2BRwSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394375@2146bd04_14c4_1a1ca3d451c_4ad4@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045f717943943758618874e0d95&amp;srItem=1&amp;e=o%2B31StehOY%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3J7XMcpDZEfIR%2Br82F3qOKZUasvaLAWRywHgekNZJJ5w6JHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMxyVUUT8Uu4xsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2o8xxCr4xg5jZaaAmbwQD%2F3AxGCPbh02SKxyVUUT8Uu4y3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394375@213f7a7d_1575_1a1ca3d4709_8cf2@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ad17943943764171173e0a6e&amp;srItem=1&amp;e=CaGwqnU8qbmlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JxzoslL%2BSLvPkq3Ip6BarFgjEhLtwR4%2Bp%2B1MZM4rZ3GfYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8k7CeH0T%2BIvRr4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvL2I91woLIv3fJs8ZMxw9cX5yQHUl0GUcitpkeyDshG07CeH0T%2BIvRoSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394376@0bb7749a_1430_1a1ca3d4931_6d0c@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465c17943943773962384e0b2a&amp;srItem=1&amp;e=hfFLjzKM6cWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jn5BHqc%2FGIVffaMNOZ8bgQNxRksirIUjkOuM2b6Y6L2PYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDEWO1C6K2fH4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvALXHwwHwO9PEqQG6bk%2FTc%2BuAxGEfIBDwHcZRiCSS5SVDEWO1C6K2fESq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@0b51e694_151d_1a1ca3d4cfc_70fe@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150408617943943769015403e0d88&amp;srItem=1&amp;e=Nec9hNu2ej%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JGBGXJY5%2FIXCxAy6TK34wQTs%2F%2FeCOoHPLCvunjoDzhubYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDEWO1C6K2fH4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvALXHwwHwO9PEqQG6bk%2FTc%2BuAxGEfIBDwHcZRiCSS5SVDEWO1C6K2fESq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@21279cf8_1498_1a1ca3d4b29_8749@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150460517943943778522363e0dbf&amp;srItem=1&amp;e=d8iOwrMsVTKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JSFAam0GceRS3dSvmzaH%2BDmYk0aEtpCbCmKTGmiJBK6HYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kepWuRdTSQu34HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvLavT4hIvbmuwYo23OgZi9akI5VAKoJwVs1cff%2BknZBvepWuRdTSQu0Sq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394377@212b4e8b_14f4_1a1ca3d4ece_c57e@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150462717943943784378658e0b38&amp;srItem=1&amp;e=t9bKBJku6ySlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3JPphv7HoICbEHByA1%2BYvixCPLTllsrX1YmGkHtwA%2BJ%2FqJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMCdl4aOqenB9sDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW26qV3Pb8rC2ofn2Faaayv7yBsnx%2Fxs%2BWqePrIhtzZ9rpCdl4aOqenB%2B3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394378@214142f8_1523_1a1ca3d511b_ad71@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150461317943943789557474e0b67&amp;srItem=1&amp;e=sJ1cM9ssg4%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jp0urSWPHH7i5TyDasksrLfMY7gpziaMkiXt8Eh1ruIOJHbuoEdDWJsKHZBfvfckl2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMTlsmQqC%2BULZsDZOMxpIA12mc91Kg0fnEIP47dK2EGFdKG%2FWUWGvW2%2FYgr8X0y2BTlYtoA4YiwZUuMmYKc7J6beyqc3x3G18YTlsmQqC%2BULa3GXpSbfs48kAGZch3QaClqqIPDPBMeEIoXAmxqXnhmieCmXVTXbX2hAlwBqUZweRlBRYM90QVRw%3D%3D&amp;union_lens=lensId:TAPI@1794394379@2133e4e7_149d_1a1ca3d5324_d976@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459317943943796086605e0c45&amp;srItem=1&amp;e=u3y%2Fe2iHF6ClhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOQsS8ET5mN3Jwx9TCvTYiyJwTFWCcNwEKU%2B%2Bos5W9BHjhLxhxqWmeqjYM0a75tVs6E1FtCdaiWqNy5FOJP2gSFVP%2FWZO3A8fFCs3%2Blw7Ga8kDhs8YJv90of4HedUZIpxPFJIy4xbRlNxWv6TauzkGgICb4RQkxOMvI0htCX81sS%2F4QPMp%2BZAkb9bV3EXi3mUXpw0TicVVlhtDhs8YJv90ocSq1SNqCiMammc91Kg0fnEqu41szkbe%2FxUQvx1vDmJv2UiL%2FozUl%2BDucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;union_lens=lensId:TAPI@1794394379@21666f14_14ee_1a1ca3d55a7_99a9@01\"  data-ncid=\"270032\" contenteditable=\"false\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/O1CN013gXHgl24Fqvbc8yo6_!!6000000007362-0-yinhe.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">联想平板 小新 Pad Pro</span></span><span class=\"card-abstract\">12.7 英寸平板</span><span class=\"card-controls\"><span class=\"price\">淘金币加购物车 1 件</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=215046e317943946154322680e0c4b&amp;srItem=1&amp;e=0wLWX9nuwwGlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJWbPkoh4sC2uJTZQFGtQMAb%2Bh8%2FFnAM3k64%2F1n7hBPq1dZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0DI9LnV2RxzN7CtXivpqDNRw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8tq9PiEi9ua7qC1ydbwJ6x%2Blxp4S%2BlOq9qbU66yYTUTnOb1nxo9CBhEPpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394615@2104ad37_1461_1a1ca40eed0_3612@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150461717943946159782693e0a7e&amp;srItem=1&amp;e=2nOAYAoW2sulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJLdR5leL7t9r74dQBeK4svq03FPNUWqFjYIfyfFleVehdZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0MLEqssXue1hesdIkAueW%2Fxw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8X85egIYjQd2yhz3zmye7NmzyA%2BwFPF3g%2FLrZZoqUXRP2apFURDL5HEPpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394616@212cc21e_13e9_1a1ca40f0ee_25bd@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045bf17943946165277020e0b3c&amp;srItem=1&amp;e=D5SwOY4Y%2BIKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJs4N5o3NJtr9yiO3Dy%2F8UTDsUDHvfUzV60P4fA82r2kBdZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B01BaSOzmO%2BmOB7VoM2F%2BGHRw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8tq9PiEi9ua4iF6LAnVo6NyeHGt4Jp1F9aTCDqbyAZhK9%2FQpCn8msK0PpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394616@213f3154_1508_1a1ca40f313_7d92@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150459317943946170321067e0b7e&amp;srItem=1&amp;e=f4B71Y8dmYWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJOBywMbxIuVjYKaQaQZ4sAbcftR%2FCo1%2Bnfrtg7HzqRL37egeY6%2BO5zl4QL4KPIqMs2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMMny7cicGsKplXymvoVZzQ86il%2Bifr5cLuXl2QqrfC0dMGJQ2jBkJvBHtR5M9fhgNToc5Ok%2BUhfitzGuA%2FFyvxl%2FuUwaRM9QH6XWouWEfIikGjxHATfbyXn4%2BWynxxEENu7dGHPSVPXd6OeLCcSFGoIjKuMrsmA8phAXQAvgGZwWuTmgRnC%2FRkkwNBUbTsArs&amp;union_lens=lensId:TAPI@1794394617@0b522591_14a1_1a1ca40f516_ae69@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465b17943946180338977e0b5a&amp;srItem=1&amp;e=y5PPCY1REYGlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ8JOMHoXupUoJecHz0fPtEwK4OkeOP%2Bc%2BU2FNAvYNhDn7egeY6%2BO5zl4QL4KPIqMs2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtM85yJNyujNLRlXymvoVZzQ86il%2Bifr5cLuXl2QqrfC0dMGJQ2jBkJvBHtR5M9fhgNPpXH9YXtY71I%2FmDyoN%2Bpd3EI%2BKvKdvv9PTarIbCHQb%2BBvMA%2Fekmj%2BX4%2BWynxxEENu7dGHPSVPXd6OeLCcSFGoIjKuMrsmA8phAXQAvgGZwWuTmgRnC%2FRkkwNBUbTsArs&amp;union_lens=lensId:TAPI@1794394618@0b830dfc_14ad_1a1ca40f8f1_d0ff@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150462b17943946176037815e0ba8&amp;srItem=1&amp;e=LBC0YapL3lilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJ8lFHoSJKDhZ7M%2Fk1D9OliFg0gVEQzfhTPbpVwZO9GbxdZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0ECIeXbNnXjpAjeh2wYXd8Rw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8AtcfDAfA708SpAbpuT9Nz64DEYR8gEPAdxlGIJJLlJUMRY7ULorZ8UPpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394617@212b4e8b_14f4_1a1ca40f74e_182b@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045a717943946184937752e0aa1&amp;srItem=1&amp;e=%2BcQblIg%2F8gulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJzfu%2FSTqEvwbSYYRmVtbf0Wp%2BtN5490SsdmSwrrrXWvRdZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0vTQjwUQ9bJNfBFY7lkdbIRw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8tq9PiEi9ua7Bijbc6BmL1qQjlUAqgnBWzVx9%2F6SdkG96la5F1NJC7UPpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394618@2166e49c_1465_1a1ca40fac8_d81c@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045ab17943946189511820e0af1&amp;srItem=1&amp;e=0uVSq%2F1hmY%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJb4s4ZEX4yal%2F5%2F2ugdqH%2BQUtSeTSNo9JBGkURrSr4MBdZO%2F7YPLy4wiq%2F%2B%2B4R08HRSHvQe2jOLZ9pbNCYX0I%2BPP%2BWUTgK%2F%2B0I97B7rCp9lzEau0qnLtxzhw88%2F6hAo9ASOBKLklLxtU42y4OY09KJAJvhFCTE4y8X85egIYjQd0JCvcT6J8E5nCsWDkYzSVqWTeNfhdiKhBxp0liOGkEEkPpMzUza%2FkbM22yXa7vSQQvrk%2FazJGPcDu0ODnzgo9sD6wHQLAtCZ3qW9%2Fx9lGerFVusqqnhify&amp;union_lens=lensId:TAPI@1794394619@212c3be0_14d5_1a1ca40fc8b_d100@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=2150465717943946194376165e0af2&amp;srItem=1&amp;e=5KcFl0wDiaylhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJT1ziraxEIz9JQ7xZ1tKDmDrXV6%2Fn2lYOKAeB384vVEeMWNRo0AIegeqtkAFKVGLHZsH9%2B1fsqwPyMW3eIAWKRa6LeGhgJY%2B%2FPu3fDbUaA8gyBuyUOkixCSHDJFv4HWtFu7dGHPSVPXfb9DA0bS%2FhcUob9ZRYa9bb9iCvxfTLYFOVi2gDhiLBlS4yZgpzsnpt7KpzfHcbXxhOWyZCoL5QtrcZelJt%2BzjyE0s1lTdLLO0JMpH%2Fe9pxKwo3tbp4cVxHNRNWhhtaffxLUGU7O58vwWUFFgz3RBVH&amp;union_lens=lensId:TAPI@1794394619@2107fcc2_144d_1a1ca40fe80_dc4a@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?traceId=215045d117943946198831439e0d70&amp;srItem=1&amp;e=6wjD93xY3N2lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJHc149xDRFQljPQzjJksrdxRLxE4xI8nz3E6gfsqyVjz7egeY6%2BO5zl4QL4KPIqMs2mwCY5fS7rVrTdT7cgXf6jgYSYpxmYtMTlsmQqC%2BULZlXymvoVZzQ86il%2Bifr5cLuXl2QqrfC0dMGJQ2jBkJvBHtR5M9fhgN2mT4bRoR3CZ0sBdXb6EJFmeCicA%2F2QmiyAq3xLRbwrAH5DPrv03HKH4%2BWynxxEENu7dGHPSVPXd6OeLCcSFGoIjKuMrsmA8phAXQAvgGZwWuTmgRnC%2FRkkwNBUbTsArs&amp;union_lens=lensId:TAPI@1794394619@2166c6ac_14ee_1a1ca410037_c4f9@01\"  data-ncid=\"270032\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/i2/2206737409979/O1CN01eOyTVI2NaRT6ZYVMD_!!2206737409979.jpg\" w=\"1000\" h=\"1000\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">凑单品 下单后可立即退款</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">加购物车 1 件</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><h2 data-vmark=\"2f44\">芯片性能</h2><p data-vmark=\"ca73\">天玑 8300 处理器 ≈ 骁龙 7+ Gen2，",
+      "link": "https://www.ithome.com/1/025/731.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/731.htm"
+    },
+    {
+      "id": 5088,
+      "title": "彭博测算：AI 贡献英国今年约四分之一经济增长",
+      "summary": "IT之家 11 月 11 日消息，据彭博经济研究（Bloomberg Economics）经济学家测算，人工智能今年推动了英国约四分之一的经济增长。这也意味着，如果全球 AI 相关资产估值出现大幅回调，英国经济可能面临一定风险。 从数据中心建设到 AI 模型研发，与人工智能相关的经济活动在 2026 年为英国经济增长贡献了 0.45 个百分点。彭博经济研究周三发布的报告显示，今年英国经济整体增幅约为 1.8%，这意味着 AI 相关产业贡献了其中约四分之一。 经济学家安娜 · ",
+      "content": "<p data-vmark=\"9545\">IT之家 11 月 11 日消息，据彭博经济研究（Bloomberg Economics）经济学家测算，人工智能今年推动了英国约四分之一的经济增长。这也意味着，如果全球 AI 相关资产估值出现大幅回调，英国经济可能面临一定风险。</p><p style=\"text-align: center;\" data-vmark=\"c547\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f1101ba9-0606-499e-ac00-b075aa5208f9.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11\" w=\"1440\" h=\"810\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-ai=\"1\" data-mpos=\"0,0\"  data-vmark=\"bcf9\"></p><p data-vmark=\"2d30\">从数据中心建设到 AI 模型研发，与人工智能相关的经济活动在 2026 年为英国经济增长贡献了 0.45 个百分点。彭博经济研究周三发布的报告显示，今年英国经济整体增幅约为 1.8%，这意味着 AI 相关产业贡献了其中约四分之一。</p><p data-vmark=\"6df5\">经济学家安娜 · 安德拉德（Ana Andrade）表示：“这项技术正在为英国经济注入增长动力。”</p><p data-vmark=\"135e\">报告指出，英国受到近期 AI 相关股票抛售潮的影响有多大，取决于这轮市场调整最终会演变成什么局面：究竟是类似金融危机的“无序下跌”，还是相对平稳、有序的估值重新调整。</p><p data-vmark=\"9a54\">目前，人工智能对英国经济增长的贡献，<strong>仍主要来自 AI 技术本身的生产和研发，而不是这项技术在整个经济体系中的广泛应用。</strong></p><p data-vmark=\"2c31\">安德拉德补充说：“随着人工智能得到更广泛的应用，我们预计，它带来的收益将逐步体现为各个行业生产率的提升。”</p><p data-vmark=\"b0e5\">彭博经济研究在衡量 AI 产业规模时，综合考虑了多个领域的经济活动，包括计算硬件制造、数据中心建设、AI 模型和应用开发，以及数据存储和云计算相关服务。</p><p data-vmark=\"1a45\">IT之家注意到，这份报告进一步印证了人工智能正在成为英国经济增长的重要推动力。英国央行此前估计，今年人工智能技术的推广应用已经贡献了英国约五分之一的经济增长。</p>",
+      "link": "https://www.ithome.com/1/025/729.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/729.htm"
+    },
+    {
+      "id": 5089,
+      "title": "消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手",
+      "summary": "IT之家 11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频生成领域的领先优势。字节跳动希望借此加快追赶美国顶尖 AI 实验室的步伐，目标是在未来三年左右缩小双方差距。 知情人士透露，字节跳动联合创始人张一鸣近日在一次面向 AI 团队的全员会议上，向研究人员、工程师及相关支持人员介绍了这一计划，并明确了接下来的重点工作。 张一鸣认为，字节跳动有能力在 AI 前沿领域与 Anthropic、Ope",
+      "content": "<p data-vmark=\"4b38\">IT之家 11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频生成领域的领先优势。字节跳动希望借此加快追赶美国顶尖 AI 实验室的步伐，目标是在未来三年左右缩小双方差距。</p><p style=\"text-align: center;\" data-vmark=\"555d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/be30686f-8c6d-4c9c-b78c-074bdc4701e1.png\" w=\"1440\" h=\"904\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"4eb4\"></p><p data-vmark=\"dce5\">知情人士透露，字节跳动联合创始人张一鸣近日在一次面向 AI 团队的全员会议上，向研究人员、工程师及相关支持人员介绍了这一计划，并明确了接下来的重点工作。</p><p data-vmark=\"1086\">张一鸣认为，字节跳动有能力在 AI 前沿领域与 Anthropic、OpenAI 等行业领先企业展开竞争。不过，他也提醒团队，真正达到这些公司的水平，至少还需要等到 2029 年或 2030 年。</p><p data-vmark=\"898a\">字节跳动计划推出的新款 AI 智能体，将承担与 Meta 今年 9 月推出的 Muse 类似的角色。Muse 上线后在美国市场获得了不错的反响，它将 Meta 长期积累的 AI 研究成果整合为一款语音交互助手，并配有动画虚拟形象，可以帮助用户完成各种任务。</p><p data-vmark=\"1eac\">Meta 正计划将 Muse 推广至旗下多款硬件产品，包括不同型号的智能眼镜，以及一款专门为该 AI 助手打造、即将推出的 Muse Charm 便携设备。目前尚不清楚字节跳动是否也打算为自己的 AI 助手开发配套硬件。</p><p data-vmark=\"12e2\">张一鸣目前已将大量时间投入幕后工作，参与制定字节跳动的 AI 战略。而在他看来，当前最需要关注的问题之一就是数据。</p><p data-vmark=\"d708\">知情人士称，43 岁的张一鸣在会议上表示，字节跳动 Seed 系列大语言模型的预训练数据集规模，比美国顶尖竞争对手使用的数据集小了好几个数量级。</p><p data-vmark=\"b445\">张一鸣的这番表态此前从未被报道过，也让外界得以一窥这位企业家对 AI 产业竞争的真实判断。作为 TikTok 和中国最受欢迎的 AI 聊天应用豆包背后的推动者，张一鸣正重新展现出在 AI 领域争夺领先地位的雄心。</p><p data-vmark=\"1dcf\">字节跳动曾是中国 AI 产业的重要先行者，但随后在竞争中被 DeepSeek 等企业拉开差距。如今，公司正试图重新夺回优势，核心计划包括投入最高 700 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4,681.43 亿元人民币）</span>，并将 Seedance 打造成中国领先的视频 AI 平台。</p><p data-vmark=\"e27d\">在会议上，张一鸣还再次强调，字节跳动不应过度依赖模型蒸馏技术，而应该着眼长远发展。所谓模型蒸馏，是指利用规模更大、能力更强的模型所产生的输出结果，训练和改进规模较小的模型。</p><p data-vmark=\"5a39\">目前，Seed 已成为中国 AI 领域少数尚未取得重大突破的主要竞争者之一。其既没有推出在全球主流模型评测榜单上跻身顶尖行列的大语言模型，也尚未向开发者开放模型权重，供其基于这些参数开发自己的应用。</p><p data-vmark=\"a208\">字节跳动目前真正拥有明显优势的 AI 领域是视频生成。依托庞大的视频数据资源，公司通过 Seedance 系列打造了具备全球竞争力的视频生成模型，并成功实现商业化。OpenAI 关闭 Sora 后留下的市场空间，也为字节跳动提供了进一步发展的机会。</p><p data-vmark=\"ec4c\">字节跳动上一次对 Seed 大语言模型进行重大更新是在今年 6 月，当时发布了 Seed 2.1。Seed 团队当时承认，模型在最具挑战性的开放式任务以及前沿科研问题解决方面，仍有进一步提升的空间。</p><p data-vmark=\"4f18\">英国《金融时报》今年 8 月报道称，字节跳动正在训练一款参数规模可能达到 10 万亿的模型，其规模可与 Anthropic 最高端的 Claude Mythos 相媲美。</p><p data-vmark=\"d562\">在中国，字节跳动也是招聘和留住 AI 人才最积极的企业之一。公司为 Seed 团队的研究人员和工程师提供了区别于其他部门员工的优先股权激励方案，以增强人才吸引力。</p><p data-vmark=\"24b8\">目前，Seed 团队拥有约 1000 名研究人员和工程师，由吴永辉负责领导。张一鸣于 2025 年从谷歌母公司 Alphabet 旗下的 Google DeepMind 挖来了这位技术人才。</p><p data-vmark=\"d422\">除了语言模型、视频模型和图像模型，Seed 团队还在研发机器人 AI、虚拟现实及其他硬件相关技术。今年 10 月，Seed 成为首个成立独立安全与对齐部门的中国大型 AI 实验室，并为该部门招聘了约 10 名核心研究人员。</p>",
+      "link": "https://www.ithome.com/1/025/726.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/726.htm"
+    },
+    {
+      "id": 5090,
+      "title": "向 6G 进发：卡塔尔 CRA 先进通信技术试验实现 12.23Gbps 峰值下载速率，华为提供技术体系",
+      "summary": "IT之家 11 月 11 日消息，据华为无线网络公众号今日分享，卡塔尔通信监管局（CRA）于 11 月 8 日至 10 日举办的 MWC26 多哈展期间，在卡塔尔国家展馆集中展示了先进通信技术试验成果。试验由 CRA 牵头，联合 Ooredoo Qatar 和 Vodafone Qatar 共同开展，华为作为技术合作伙伴参与其中。 据介绍，此次创新测试是 CRA 于 2025 年 MWC 多哈展期间启动的“卡塔尔 6G 测试平台”项目的深化举措，试验采用六载波聚合（6CC）技",
+      "content": "<p data-vmark=\"6863\">IT之家 11 月 11 日消息，据华为无线网络公众号今日分享，卡塔尔通信监管局（CRA）于 11 月 8 日至 10 日举办的 MWC26 多哈展期间，在卡塔尔国家展馆集中展示了先进通信技术试验成果。试验由 CRA 牵头，联合 Ooredoo Qatar 和 Vodafone Qatar 共同开展，华为作为技术合作伙伴参与其中。</p><p data-vmark=\"c45e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c67023a4-5792-4e9e-a891-268c1f82f99e.jpg\" w=\"772\" h=\"867\" data-weibo=\"0\"  data-vmark=\"1161\" class=\"no-alt-img\"></p><p data-vmark=\"42f7\">据介绍，此次创新测试是 CRA 于 2025 年 MWC 多哈展期间启动的“卡塔尔 6G 测试平台”项目的深化举措，试验采用六载波聚合（6CC）技术，总带宽达到 600MHz，并结合先进的 256T256R 大规模 MIMO 天线系统，<strong>实现了 12.23Gbps 的峰值下载速率</strong>。</p><p data-vmark=\"e526\">值得一提的是，载波聚合使用 U6GHz 400MHz 测试许可频谱频段，以及已商用部署的 C-BAND 200MHz 频谱，展现了多频段协同及先进天线技术在提升网络性能方面的潜力。</p><p data-vmark=\"8251\">IT之家从华为官方了解到，此次合作中，CRA 负责提供监管支持及试验所需的临时频谱授权；Ooredoo Qatar 和 Vodafone Qatar 提供网络基础设施及工程技术支持；<strong>华为则提供支撑本次试验的先进技术体系</strong>。</p><p data-vmark=\"4e32\">另外，Omdia 今日发布预测报告，<a target=\"_blank\" href=\"https://www.ithome.com/1/025/309.htm\">全球首次 6G 商用部署将于 2029 年落地</a>。Omdia 预计首批 6G 将在 2029 年推出，标准将在 2028 年底 / 2029 年初实现。初期启动可能采用多重 RAT 频谱共享（MRSS），这将使运营商能够在 5G 和 6G 之间共享现有频谱分配，消除了等待新频谱上线的时间。</p><p data-vmark=\"3368\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f206eb29-56a7-4ad3-9576-0d672d102f42.png\" w=\"850\" h=\"524\" data-vmark=\"b1c4\" data-weibo=\"1\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/025/722.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/722.htm"
+    },
+    {
+      "id": 5091,
+      "title": "奇瑞捷途环游者 EV 将于 11 月 16 日开启预售，全系 67.2kWh 犀牛电池",
+      "summary": "IT之家 11 月 11 日消息，据汽车之家消息，捷途环游者 EV 将于 11 月 16 日开启预售。 新车长宽高分别为 4605/1880/1700mm（含小书包），轴距 2735mm，属于紧凑型 SUV。据IT之家此前报道，8 月 24 日，奇瑞捷途环游者 SUV 开启盲订。 内饰方面，新车配备带滚轮的两辐式方向盘与悬浮中控屏，中央岛台保留实体按键。车机搭载 Tour OS 3.5 系统，集成讯飞语音与豆包大模型 HMI 交互方案，硬件搭载高通骁龙 8775 舱驾一体芯片",
+      "content": "<p data-vmark=\"e293\">IT之家 11 月 11 日消息，据汽车之家消息，捷途环游者 EV 将于 11 月 16 日开启预售。</p><p data-vmark=\"b280\">新车长宽高分别为 4605/1880/1700mm（含小书包），轴距 2735mm，属于紧凑型 SUV。据IT之家此前报道，8 月 24 日，<a target=\"_blank\" href=\"https://www.ithome.com/0/993/652.htm\">奇瑞捷途环游者 SUV 开启盲订</a>。</p><p data-vmark=\"489b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3b569f0b-0a1b-49a0-82fd-c7d909ebec83.jpg\" w=\"1440\" h=\"1920\" data-weibo=\"0\" data-vmark=\"f6bf\" class=\"no-alt-img\"></p><p data-vmark=\"15b3\">内饰方面，新车配备带滚轮的两辐式方向盘与悬浮中控屏，中央岛台保留实体按键。车机搭载 Tour OS 3.5 系统，集成讯飞语音与豆包大模型 HMI 交互方案，硬件搭载高通骁龙 8775 舱驾一体芯片。<strong>新车配备猎鹰 500 辅助驾驶系统</strong>，支持高速辅助驾驶功能。</p><p data-vmark=\"0662\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dfd86d1a-8b7f-4e45-a421-9d94ef66bce3.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"714c\" class=\"no-alt-img\"></p><p data-vmark=\"95b0\">动力方面，新车提供两驱、四驱两种版本。两驱版电机最大功率 200kW；四驱版综合功率 275kW，0-100km/h 加速进入 5 秒区间。</p><p data-vmark=\"82b6\">新车基于原生后驱纯电平台打造，<strong>全系搭载 67.2kWh 磷酸铁锂犀牛电池</strong>，CLTC 续航 550km，电耗 13.5kWh/100km，支持 6.6kW 外放电。四驱车型配备 XWD 全自动智能四驱系统，具备 7+X 一键越野模式。</p><p data-vmark=\"fd04\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/be25fddf-dcdd-4ef9-abfa-1db1f41cbf99.jpg\" w=\"1440\" h=\"5486\" data-weibo=\"2\"  data-vmark=\"c61d\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"54a3\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5166\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/025/721.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/721.htm"
+    },
+    {
+      "id": 5092,
+      "title": "联发科“认领”今日宜休 iFlow 智能温控系统芯片平台：全系搭载 Genio 420",
+      "summary": "IT之家 11 月 11 日消息，今天（11 日）晚间，@联发科技官方微博 发文宣布，MediaTek 赋能 ISHO 今日宜休发布 AI 睡眠科技生态产品 ——ISHO iFlow 智能温控系统和 Pro 版本，两款产品均采用 MediaTek Genio 420 平台，并搭载芯发科技（ZelusTek）自主开发的 Genio 420 系统级模组，以端侧 AI 算力助力打造更智能的睡眠体验。 今年 3 月，联发科发布了 Genio 420。其采用 6nm 制程，提供 7.2",
+      "content": "<p data-vmark=\"ddbe\">IT之家 11 月 11 日消息，今天（11 日）晚间，@联发科技官方微博 发文宣布，MediaTek 赋能 ISHO 今日宜休发布 AI 睡眠科技生态产品 ——ISHO iFlow 智能温控系统和 Pro 版本，两款产品<strong>均采用 MediaTek Genio 420 平台</strong>，并搭载芯发科技（ZelusTek）自主开发的 Genio 420 系统级模组，以端侧 AI 算力助力打造更智能的睡眠体验。</p><p data-vmark=\"dee1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/34f7e276-3c20-4172-a615-fd3133acf8fd.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"82c6\"></p><p data-vmark=\"dfdb\">今年 3 月，联发科发布了 Genio 420。其采用 6nm 制程，提供 7.2 TOPS 系统 AI 算力，整合 16GB LPDDR5X。其与现有 Genio 720、Genio 520 脚位兼容，方便用户迁移芯片型号。</p><p data-vmark=\"8973\">10 月末，今日宜休正式发布品牌首款睡眠干预产品 ISHO iFlow 智能温控系统，<strong>定价 9999 元起</strong>。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"635e\">标准版：9999 元；</p></li><li><p data-vmark=\"ef0c\">Pro 版：12999 元起；</p></li><li><p data-vmark=\"a1c2\">SHANGXIA 联名款：15999 元起。</p></li></ul><p data-vmark=\"e8f9\">据IT之家了解，今日宜休 ISHO iFlow 智能温控系统可自适应身体与床面的变化；<strong>支持 BCG 无感监测</strong>，整晚连续捕捉心率、呼吸，心脉同源采集，可双人独立监测，多点感知覆盖整个床面。</p><p data-vmark=\"36ae\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"e810\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/019/754.htm\">今日宜休首款睡眠干预产品 iFlow 智能温控系统发布：BCG 无感监测、动态温控，9999 元起</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/689.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/689.htm"
+    },
+    {
+      "id": 5093,
+      "title": "华为官宣比亚迪腾势 N8 搭载 HUAWEI HiCar 手车互联，支持三折叠手机形态跨端同步",
+      "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，比亚迪腾势 N8 新车将搭载 HUAWEI HiCar 手车互联系统，支持三折叠形态跨端同步，宣传“手机怎么折，巨幕怎么变”。 IT之家注意到，全新腾势 N8 将于 11 月 12 日正式上市，新车此前已开启小订，搭载了天神之眼 5.0、第二代刀片电池、闪充技术、云辇-A 等技术。 新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。新车提供",
+      "content": "<p data-vmark=\"4883\">IT之家 11 月 11 日消息，华为官方今日宣布，比亚迪腾势 N8 新车将搭载 HUAWEI HiCar 手车互联系统，<strong>支持三折叠形态跨端同步</strong>，宣传“手机怎么折，巨幕怎么变”。</p><p data-vmark=\"015e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/569a6036-ef65-4f7b-a047-6c3c69bc9ed1.jpg\" w=\"1440\" h=\"1920\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"59ff\"></p><p data-vmark=\"2bab\">IT之家注意到，全新腾势 N8 将于 11 月 12 日正式上市，新车此前已开启小订，搭载了天神之眼 5.0、第二代刀片电池、闪充技术、云辇-A 等技术。</p><p data-vmark=\"ec9e\">新车长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。新车提供天霁青、暗夜黑、流光银和舒云灰共 4 款纯色，以及深空蓝、极光绿、日光橙和星暮灰共 4 款拼色供选择。</p><p data-vmark=\"5582\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6ebecb91-c942-40a0-a0f6-10e7181586fa.jpg\" w=\"1440\" h=\"810\" data-vmark=\"47d4\" class=\"nowebp no-alt-img\" data-weibo=\"1\"></p><p data-vmark=\"a8bd\">全新腾势 N8 搭载「天际屏 + 巨幕屏」智能座舱（1.1 米超长 PHUD 天际屏 + 30 英寸超大巨幕屏），其中天际屏主要承载导航、车速等驾驶信息，让重要信息抬头可见；巨幕屏则满足全车的多元交互与娱乐需求，支持多窗口协同、全屏观影、无麦 K 歌等丰富场景。</p><p data-vmark=\"db0a\">新车提供后置单电机两驱、三电机四驱两种动力形式。其中后置单电机分为 320 千瓦、370 千瓦两个功率版本。易三方三电机版本采用一前二后电机布局，前电机最大功率 270 千瓦，左右后电机最大功率均为 310 千瓦，系统综合最大功率 890 千瓦，可实现圆规掉头和智能蠕行等模式。</p><p data-vmark=\"bbf0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/106f010a-e980-4f96-ab7d-cfec963a8ac5.jpg\" w=\"1400\" h=\"787\" data-vmark=\"e1d8\" class=\"nowebp no-alt-img\" data-weibo=\"2\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"0730\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5108\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/025/669.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/669.htm"
+    },
+    {
+      "id": 5094,
+      "title": "AMD 宣布 EPYC 9006 SP7 处理器上市发货，支持 16 通道 DDR5 内存",
+      "summary": "IT之家 11 月 11 日消息，AMD 当地时间 10 日宣布，EPYC 9006 家族首个成员 9006 SP7 现已上市发货。该系列支持 8 个 32 核 Zen6c CCD 或 8 个 12 核 Zen6 CCD，分别可扩展至 256 核心与 96 核心，默认功耗可达 600W。 EPYC 9006 SP7 支持 16 通道 DDR5 内存，搭配 RDIMM 时支持 8000MT/s，搭配 MRDIMM 时支持 12800MT/s，允许 1DPC 配置，单插槽最大内存",
+      "content": "<p data-vmark=\"0c40\">IT之家 11 月 11 日消息，AMD 当地时间 10 日宣布，EPYC 9006 家族首个成员 9006 SP7 现已上市发货。该系列<strong>支持 8 个 32 核 Zen6c CCD 或 8 个 12 核 Zen6 CCD</strong>，分别可扩展至 256 核心与 96 核心，默认功耗可达 600W。</p><p data-vmark=\"8d6b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/db8736bc-7023-4678-8c5f-deba79c22c2e.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"7206\"></p><p data-vmark=\"13a2\">EPYC 9006 SP7 <strong>支持 16 通道 DDR5 内存</strong>，搭配 RDIMM 时支持 8000MT/s，搭配 MRDIMM 时支持 12800MT/s，允许 1DPC 配置，单插槽最大内存容量为 8TB。</p><p data-vmark=\"7afe\">EPYC 9006 SP7 处理器支持单路与双路，单路下可提供 96 条 PCIe Gen6 通道和 8 条 PCIe Gen4 通道，双路下合计 128 条 PCIe Gen6 通道和 16 条 PCIe Gen4 通道。</p><p data-vmark=\"f9e5\">AMD 宣称 9006 SP7 家族的旗舰型号 EPYC 9996 是全球最佳通用处理器，提供领先性能、能效、成本。</p>",
+      "link": "https://www.ithome.com/1/025/621.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/621.htm"
+    },
+    {
+      "id": 5095,
+      "title": "三星与 AMD 合作升级半导体测试系统，引入 Zen6 架构 EPYC 嵌入式 9006 系列 SP7 处理器",
+      "summary": "IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）凌晨发布了霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。 三星电子宣布与 AMD 合作，提升下一代半导体制造测试基础设施的性能。此次合作旨在将三星电子的先进内存解决方案与 AMD 高性能处理器结合，快速处理半导体测试过",
+      "content": "<p data-vmark=\"09db\">IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）凌晨发布了<a href=\"https://www.ithome.com/1/025/195.htm\" target=\"_blank\">霄龙（EPYC）嵌入式 9006 系列 SP7 处理器</a>，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。</p><p data-vmark=\"21b7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/de162ee2-0e71-48e8-b0cc-2770263e9734.jpg\" w=\"660\" h=\"441\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"5e3b\" data-mpos=\"2,0\" ></p><p data-vmark=\"64da\">三星电子宣布与 AMD 合作，提升下一代半导体制造测试基础设施的性能。<strong>此次合作旨在将三星电子的先进内存解决方案与 AMD 高性能处理器结合</strong>，快速处理半导体测试过程中产生的海量数据，提升计算效率。</p><p data-vmark=\"dbcb\">此次合作涉及将三星电子的 DDR5 RDIMM 和 MRDIMM 内存、基于 PCIe Gen 6 的 PM1763 固态硬盘以及基于 CXL 3.2 的存储模块 CMM-D MD310，集成到 AMD 最新的 EPYC 嵌入式 9006 系列 SP7 处理器系统中。</p><p data-vmark=\"d278\">该举措反映了制造测试系统在内存和输入输出（I/O）技术不断进步下，提供更高带宽和更大计算能力的需求。此次合作并非三星内存产品与 AMD 的供应协议，<strong>而是侧重于在三星制造测试基础设施中部署 AMD 处理器，以增强其测试能力</strong>。</p><p data-vmark=\"302a\">IT之家注意到，三星电子内存产品规划团队副总裁 Choi Jang-seok 在 11 月 10 日 AMD 新闻公告中表示：“随着内存和 I/O 技术的不断进步，制造测试环境必须跟上性能和带宽需求的提升。”他补充说，将 AMD 最新处理器与三星的内存解决方案结合，将带来可扩展的计算性能、内存带宽和高速 I/O 能力，表明公司有意将这些能力引入制造测试基础设施。</p><p data-vmark=\"44dd\">AMD 计划于 11 月 15 日开始发售 EPYC 嵌入式 9006 系列的 128 核型号，剩余型号预计将在年底前陆续发售。</p>",
+      "link": "https://www.ithome.com/1/025/619.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/619.htm"
+    },
+    {
+      "id": 5096,
+      "title": "神龙科技与字节火山引擎全面战略合作，全新新能源车型将搭载最新一代 AI 座舱解决方案",
+      "summary": "IT之家 11 月 11 日消息，神龙科技与火山引擎全面战略合作签约仪式今日在北京举行。双方将围绕企业 AI 转型、产品技术共创、用户全周期服务三大维度开展合作。 神龙科技表示，将在全新新能源车型上搭载火山引擎最新一代 AI 座舱解决方案，并成为合资品牌首家与火山引擎全链路深度共创的车企。 神龙科技总经理吕海涛表示：“神龙科技接下来的全新新能源车型，会装上火山引擎最新一代的 AI 座舱系统。经典的 i-Cockpit 将进化为 Ai-Cockpit，我们要给用户的是‘让技术悄",
+      "content": "<p data-vmark=\"8b8b\">IT之家 11 月 11 日消息，神龙科技与火山引擎全面战略合作签约仪式今日在北京举行。双方将围绕企业 AI 转型、产品技术共创、用户全周期服务三大维度开展合作。</p><p style=\"text-align: center;\" data-vmark=\"aa40\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6fb98637-9c8e-410e-9403-4291deb297c8.png\" w=\"1440\" h=\"1118\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"ef44\"></p><p data-vmark=\"0ff5\">神龙科技表示，<strong>将在全新新能源车型上搭载火山引擎最新一代 AI 座舱解决方案</strong>，并成为合资品牌首家与火山引擎全链路深度共创的车企。</p><p data-vmark=\"611c\">神龙科技总经理吕海涛表示：“神龙科技接下来的全新新能源车型，会装上火山引擎最新一代的 AI 座舱系统。经典的 i-Cockpit 将进化为 Ai-Cockpit，我们要给用户的是‘让技术悄悄退到幕后，让体验走到台前’。座舱之外，产品研发、用户体验，到市场营销、企业管理，<strong>甚至海外业务都会引入火山引擎的 AI 能力</strong>，打造 AI native （AI 原生）的神龙科技。”</p><p data-vmark=\"9d01\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/991/579.htm\">神龙汽车科技（武汉）有限公司于 8 月 17 日注册成立</a>，注册资本约 82 亿元。</p><p data-vmark=\"689b\">其中，神龙汽车注册资本占比约 24.1%，<strong>东风汽车占比约 13.5%，Stellantis 集团占比约 13.5%</strong>，长江产业集团占比约 9.8%，武汉金控集团占比约 19.5%，武汉经开产投集团占比约 19.5%。</p><p data-vmark=\"69e8\">新公司的业务布局覆盖整车研发、工业化投资、新能源汽车整车销售等多元领域，<strong>首期规划 4 款全新新能源车型</strong>，<strong>自 2027 年起陆续投放</strong>，涵盖纯电与插混技术路线，满足硬派越野、城市通勤、家庭出行等多元场景。</p><p data-vmark=\"f6c7\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"43a4\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/007/644.htm\">Momenta 与神龙汽车科技达成全球战略合作，R7 世界模型将上车标致、Jeep</a>》</p></li><li><p data-vmark=\"9737\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/996/191.htm\">神龙汽车副总经理程军：神龙科技不可能打价格战，也不会做“速成车”</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/618.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/618.htm"
+    },
+    {
+      "id": 5097,
+      "title": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验",
+      "summary": "IT之家 11 月 11 日消息，AMD 当地时间 9 日宣布，Microsoft（微软）Project Zenith 率先登陆基于锐龙 AI Max+ PRO 495 处理器的新一代锐龙 AI Halo 开发者平台，其它锐龙 AI Max 设备也即将支持。 Project Zenith 将强大的开发者级硬件与预配置的 Windows 环境相结合，旨在帮助开发者更快地进入实际工作。其预装了涵盖各种语言和运行时环境的常用开发工具、源代码控制工具以及生产力工具，还配置了旨在创建优",
+      "content": "<p data-vmark=\"4b3b\">IT之家 11 月 11 日消息，AMD 当地时间 9 日宣布，Microsoft（微软）Project Zenith 率先登陆基于锐龙 AI Max+ PRO 495 处理器的新一代锐龙 AI Halo 开发者平台，其它锐龙 AI Max 设备也即将支持。</p><p data-vmark=\"7a80\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3f969b3b-2342-4a11-bc12-5b0f5aa4d66e.jpg\" w=\"1200\" h=\"675\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"4784\"></p><p data-vmark=\"02b9\">Project Zenith 将强大的开发者级硬件与预配置的 Windows 环境相结合，<strong>旨在帮助开发者更快地进入实际工作</strong>。其预装了涵盖各种语言和运行时环境的常用开发工具、源代码控制工具以及生产力工具，还配置了旨在创建优化开发环境的 Windows 设置。</p><p data-vmark=\"a914\">而在 Project Zenith 的基础上，AMD 还为锐龙 AI Halo 迷你主机配备了 AMD Ryzen AI 开发者中心、预验证软件配置、AMD AI Playbook 分步指南。</p>",
+      "link": "https://www.ithome.com/1/025/613.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/613.htm"
+    },
+    {
+      "id": 5098,
+      "title": "华为鸿蒙 HarmonyOS 7 (API 26.0.1)Developer Beta 开启定向招募，Mate 80 Pro 等机型可报名",
+      "summary": "IT之家 11 月 11 日消息，华为鸿蒙 HarmonyOS 开发套件 26.0.1 Beta1 今日正式发布，该版本为 26.0.0 的增量版本，仅供对新增特性有需求的开发者尝鲜使用。 IT之家注意到，华为开发者联盟已开启 HarmonyOS 7 (API 26.0.1)Developer Beta 定向招募。开发者可通过活动提前获取版本体验新能力，开展应用开发、适配与调测，并反馈使用过程中的问题。 需要注意的是，本次活动仅面向开发者开放，优先面向已上架鸿蒙应用的开发者招",
+      "content": "<p data-vmark=\"a2ca\">IT之家 11 月 11 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/1/025/316.htm\">华为鸿蒙 HarmonyOS 开发套件 26.0.1 Beta1 今日正式发布</a>，该版本为 26.0.0 的增量版本，仅供对新增特性有需求的开发者尝鲜使用。</p><p style=\"text-align: center;\" data-vmark=\"7df8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/cdcbac81-dc60-4ef5-a87b-d197996ecca1.jpg?x-bce-process=image/format,f_auto\" w=\"1396\" h=\"787\" data-vmark=\"da52\" data-marks=\"1931fd9d012eb6d1f643fdce358eef92ec60aab82c45056acab47a74959db753b7cbf9126615d4fda5e7a1052391f7a7\" class=\"no-alt-img\"></p><p data-vmark=\"0368\">IT之家注意到，<strong>华为开发者联盟已开启 HarmonyOS 7 (API 26.0.1)Developer Beta 定向招募</strong>。开发者可通过活动提前获取版本体验新能力，开展应用开发、适配与调测，并反馈使用过程中的问题。</p><p data-vmark=\"4ae9\">需要注意的是，本次活动仅面向开发者开放，优先面向已上架鸿蒙应用的开发者招募。本次活动仅支持在中国大陆使用且符合基线版本的以下机型：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1a44\"><strong>HUAWEI Mate 80 Pro</strong></p></li><li><p data-vmark=\"ed27\"><strong>HUAWEI Mate X7</strong></p></li><li><p data-vmark=\"0af7\"><strong>HUAWEI Mate XTs 非凡大师</strong></p></li><li><p data-vmark=\"f6c3\"><strong>HUAWEI Pura 90</strong></p></li><li><p data-vmark=\"21bc\"><strong>HUAWEI Pura X</strong></p></li><li><p data-vmark=\"22e5\"><strong>HUAWEI Pura X 典藏版</strong></p></li><li><p data-vmark=\"9382\"><strong>HUAWEI Pura X Max</strong></p></li><li><p data-vmark=\"4d8a\"><strong>HUAWEI Pura X Max 典藏版</strong></p></li><li><p data-vmark=\"5f51\"><strong>HUAWEI nova 15 Pro</strong></p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"8629\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/77a9e4d2-3042-45da-a33b-f6053ed5f6d7.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"3462\" data-weibo=\"1\"  data-vmark=\"1af3\" class=\"no-alt-img\"></p><p data-vmark=\"dbbd\">作为参考，26.0.1 Beta1 在 26.0.0 的基础上，开发能力进一步增强：Ability Kit 新增子进程信息查询能力；ArkTS 容器集 Map 类新增多个更新 Map 映射关系的接口；ArkUI 新增预加载 NavDestination 页面、扩展动画组件的 C API 等能力；Basic Services Kit 新增 USB 管理、板级硬件查询；Core File Kit 新增卷管理能力；MDM Kit 新增打印机白名单、精确定时器等能力；新增车辆感知与用户识别能力等。</p><p data-vmark=\"e6e9\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"39e2\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/025/316.htm\">华为鸿蒙 HarmonyOS 开发者套件 26.0.1 Beta1 发布，新增车辆感知与用户识别能力、外设 VoIP 通话控制等</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/025/611.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/611.htm"
+    },
+    {
+      "id": 5099,
+      "title": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付",
+      "summary": "IT之家 11 月 11 日消息，IDC 今日发布报告称，过去两年，中国液冷服务器市场快速增长。IDC 中国液冷服务器追踪显示，2026 年上半年中国液冷服务器市场厂商收入同比增长 153.1%，未来五年出货量年均复合增长率预计接近 49%。 但比增速更值得注意的，是采购端正在发生的变化：越来越多高密度算力项目不再以“台”为单位选型，而是把计算节点、节点间互联、供电和柜内液冷配套作为一整套系统配置和交付。机柜，正在从机房里的物理容器，变成算力采购的交付单元。 当整柜成为交付单",
+      "content": "<p data-vmark=\"0000\">IT之家 11 月 11 日消息，IDC 今日发布报告称，过去两年，中国液冷服务器市场快速增长。IDC 中国液冷服务器追踪显示，<strong>2026 年上半年中国液冷服务器市场厂商收入同比增长 153.1%，未来五年出货量年均复合增长率预计接近 49%</strong>。</p><p data-vmark=\"0004\">但比增速更值得注意的，是采购端正在发生的变化：越来越多高密度算力项目不再以“台”为单位选型，而是把计算节点、节点间互联、供电和柜内液冷配套作为一整套系统配置和交付。<strong>机柜，正在从机房里的物理容器，变成算力采购的交付单元。</strong></p><p data-vmark=\"03c6\">当整柜成为交付单元，服务器厂商交付的是一套已集成的系统，数据中心承接的也不再是若干台设备，而是一组对供电、冷却和接口条件有明确要求的负载。</p><p data-vmark=\"10fa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/018c69a8-7b71-44e1-9bc2-005045fb4b76.png?x-bce-process=image/format,f_auto\" w=\"576\" h=\"332\" data-vmark=\"8503\" data-weibo=\"0\" alt=\"IDC 数据中心液冷部署趋势示意图\"></p><p data-vmark=\"ba9e\">报告称，中国液冷服务器市场的增长，与人工智能带来的计算需求密切相关。<strong>互联网企业是当前最主要的采购来源，占中国液冷服务器市场的 65.6%</strong>；电信运营商和 IT 服务也是主要应用领域；部分传统行业客户尚未采用液冷，主要因为其现有业务以通用计算为主，风冷方案已能满足散热要求，但这些行业正在积极探索适合本行业业务特点的液冷方案。</p><p data-vmark=\"167e\">IDC 中国服务器市场季度跟踪显示，<strong>未来五年中国服务器市场出货量年均复合增长率约 6.8%，而市场收入的年均复合增长率达 24.6%</strong>。出货量的温和增长与收入的高增长并存，说明增量价值正在向高配置、高密度的算力系统集中，液冷的增长正来自这些场景。</p><p data-vmark=\"8709\">从技术路线看，<strong>冷板式液冷仍是主流，占比约 90.2%</strong>，成熟的供应链、散热能力与规模化部署的成本优势，使其在当前阶段更具落地条件。</p><p data-vmark=\"ca3a\">另一个值得注意的变化，是 AI 负载结构本身正在改变：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2d8f\">早期建设阶段，主要围绕大模型训练展开，集群规模大、部署集中；</p></li><li><p data-vmark=\"b46d\">随着模型进入应用阶段，推理负载占比持续上升 —— 在线推理更接近终端用户，对时延和持续在线提出更高要求；</p></li><li><p data-vmark=\"54b4\">以智能体（Agent）为代表的应用形态，一次用户请求往往触发多轮模型调用与工具调用，推理算力消耗被成倍放大。</p></li></ul><p data-vmark=\"5ecf\">据 IDC 统计，<strong>2026 年上半年北美以整柜方式交付的比例已达 47.4%，中国为 5.0%</strong>。在中国市场，超节点形态的推进还有一层现实原因：高端加速卡可获得性趋紧，采购方倾向于通过超节点与整柜方案锁定算力，整柜交付因此从“效率选择”部分变成了“供给约束下的路径选择”。</p>",
+      "link": "https://www.ithome.com/1/025/599.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/599.htm"
+    },
+    {
+      "id": 5100,
+      "title": "Diraq 全球首台硅自旋量子计算机落地商业数据中心",
+      "summary": "IT之家 11 月 11 日消息，量子计算企业 Diraq 当地时间 10 日宣布，其已在 Equinix 位于澳大利亚悉尼的商业数据中心中安装并投运了世界上首台硅自旋量子计算机。 Diraq 的硅自旋技术路线意味着其 QPU 采用与经典计算机芯片相同的半导体工艺，用户在升级 QPU 的同时无需大幅改造配套基础设施。Equinix 悉尼数据中心的量子计算机规模有望在一年内从 8 量子比特扩展至 64 量子比特。 该企业当前量子计算系统功耗＜20kW，占地面积 172 平方英尺",
+      "content": "<p data-vmark=\"10aa\">IT之家 11 月 11 日消息，量子计算企业 Diraq 当地时间 10 日宣布，其已在 Equinix 位于澳大利亚悉尼的商业数据中心中安装并投运了世界上首台硅自旋量子计算机。</p><p data-vmark=\"3e04\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7a57294f-aea8-4a9d-be1f-8ed7886cb777.jpg\" w=\"1440\" h=\"960\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"0dbf\"></p><p data-vmark=\"8f9f\">Diraq 的硅自旋技术路线意味着其 QPU 采用与经典计算机芯片相同的半导体工艺，<strong>用户在升级 QPU 的同时无需大幅改造配套基础设施</strong>。Equinix 悉尼数据中心的量子计算机规模有望在一年内从 8 量子比特扩展至 64 量子比特。</p><p data-vmark=\"5398\">该企业当前量子计算系统功耗＜20kW，占地面积 172 平方英尺<span class=\"exch-unit-value\">（约 16 平方米）</span>；Diraq 预计未来的公用事业级系统的功耗将在 300kW 左右，占地面积有望降至 54 平方英尺<span class=\"exch-unit-value\">（约 5 平方米）</span>，可实现较其它量子计算更高的部署密度。</p>",
+      "link": "https://www.ithome.com/1/025/608.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/608.htm"
+    },
+    {
+      "id": 5101,
+      "title": "微信鸿蒙版 App 获 8.0.23.37 邀测升级，小微 AI 助手更多功能灰度中",
+      "summary": "IT之家 11 月 11 日消息，据用户反馈，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.37 (8394533) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/10-2026/12/10。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗",
+      "content": "<p data-vmark=\"ce7d\">IT之家 11 月 11 日消息，据用户反馈，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 <strong>8.0.23.37 (8394533)</strong> 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/10-2026/12/10。</p><p style=\"text-align: center;\" data-vmark=\"e06a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bccd44eb-12fc-45a8-aca1-50561994850b.jpg?x-bce-process=image/format,f_auto\" w=\"1316\" h=\"2595\" data-mpos=\"0,0\" data-weibo=\"0\"  data-vmark=\"b57f\" class=\"no-alt-img\"></p><p data-vmark=\"060e\">和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"6a40\">部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细；</p></li><li><p data-vmark=\"594b\">更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐；</p></li><li><p data-vmark=\"b5dc\">发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注；</p></li><li><p data-vmark=\"2cd5\">发现 &gt; 直播 &gt; 更多直播新增搜索按钮；</p></li><li><p data-vmark=\"9f1f\">听一听主页面右下角新增小微分支入口浮动按钮，并根据当前页面内容弹出对应提示词，可快速使用听一听相关问小微功能，播放页面点击分享新增问小微（主页面右下角浮动按钮为逐步开放）；</p></li><li><p data-vmark=\"b0ab\">公众号图标焕新，对齐其他端；</p></li><li><p data-vmark=\"084b\">好友昵称、群昵称、备注、微信号、地区等信息支持长按复制；</p></li><li><p data-vmark=\"6b98\">服务号信息流页面已关注的服务号发布的文章支持长按，选择不再关注或删除文章消息；</p></li><li><p data-vmark=\"e8af\">服务号信息流 &gt; 推荐的贴图长按新增转发；</p></li><li><p data-vmark=\"3355\">聊天工具新增问小微（逐步开放，需账号灰度到小微主体）；</p></li><li><p data-vmark=\"65ca\">直播页面支持显示当前直播转发分享人数；</p></li><li><p data-vmark=\"a73c\">听一听浮标样式焕新；</p></li><li><p data-vmark=\"eed2\">在具有管理权限的群聊中查看群成员资料，进群方式中邀请该群员进群的群员昵称变更为蓝色可点击状态；</p></li><li><p data-vmark=\"ba77\">支持展示其他端设置的朋友圈点赞彩蛋；</p></li><li><p data-vmark=\"76a1\">视频号内容点击分享新增问小微（逐步开放，需账号灰度到小微主体）；</p></li><li><p data-vmark=\"e88c\">服务号的通知提醒红字部分新增新通知的服务号名称提醒，由 [n 条消息] 变更为 [xxx 等 n 条消息]；</p></li><li><p data-vmark=\"8968\">群收款右上角新增导入，支持在发起群收款时导入账单、群接龙、历史群收款（逐步开放，支持 8.0.22 及以上版本）；</p></li><li><p data-vmark=\"1c1f\">公众号 / 服务号主页 &gt; 右上角… 新增更多信息，可查看公众号 / 服务号简介、关注时间、基础信息、名称记录、授权第三方服务等信息；</p></li><li><p data-vmark=\"9ccd\">小店与卡包 &gt; 右上角…&gt; 设置 &gt; 隐私设置新增小程序订单授权开关，开启后小程序订单信息将同步至「小店与卡包 &gt; 订单」（热更新）；</p></li><li><p data-vmark=\"3458\">开启群消息免打扰之后，群设置新增以下消息仍通知，可设置 @我、@所有人、群公告以及指定群成员的消息在群消息免打扰时仍通知（逐步开放）；</p></li><li><p data-vmark=\"8d22\">设置＞消息通知＞新增消息提示音，可设置微信内置的 7 个提示音（逐步开放）；</p></li><li><p data-vmark=\"0101\">设置＞账号安全新增登录设备管理，可删除登录设备，删除后在对应设备登录需进行安全验证（逐步开放）；</p></li><li><p data-vmark=\"fe04\">元宝＞体验更多支持跳转应用市场下载元宝 APP（热更新）；</p></li><li><p data-vmark=\"7378\">扫一扫融入小微分支，新增右上角翻转摄像头与底部拍照给 AI，支持识别、翻译、记住此刻、记住朋友（逐步开放，小微分支单独灰度，不依赖小微主体）；</p></li><li><p data-vmark=\"038e\">服务号＞个人中心新增赞、收藏和最近阅读，记录赞、收藏和最近阅读过的贴图号内容（三端同步新增功能，仅展示贴图号发布的贴图，不展示公众号发布的贴图，8.0.23.33 或 34 版本新增）；</p></li><li><p data-vmark=\"7c6f\">部分视频号视频支持展示右下角小微分支悬浮提问快捷入口（热更新，仅部分视频支持显示，不展示小微分支悬浮提问的视频则展示原有悬浮搜索入口，该功能不依赖小微主体）；</p></li><li><p data-vmark=\"dd88\">发表朋友圈时新增小微分支 AI 帮写（逐步开放，不依赖小微主体）；</p></li><li><p data-vmark=\"95b9\">听一听＞个人歌单新增歌单来源分类（微信音乐 / QQ 音乐 / 酷狗音乐），支持绑定 QQ 音乐 / 酷狗音乐账号并同步对应平台收藏歌曲（我喜欢）至听一听（逐步开放，前置条件需灰度到音乐空间，前置条件详见 8.0.16 第 19 条，可通过已有音乐空间的朋友创建空间并邀请加入激活）；</p></li><li><p data-vmark=\"7a9b\">发现＞直播界面逻辑重构对齐，取消更多直播入口，搜索按钮移至一级界面，新增双 11、看剧、颜值、资讯等更多个性化或限时分类（逐步开放，部分分类类型不固定，因账号而异）；</p></li><li><p data-vmark=\"cf86\">我＞小店与卡包新增小店金币 tab，可签到领取金币（逐步开放）；</p></li><li><p data-vmark=\"590f\">听一听＞个人歌单＞右上角🎧沉浸听歌新增时光电台（逐步开放，需灰度到小微主体）；</p></li><li><p data-vmark=\"7fc7\">公众号文章标题下新增 AI 摘要，滑动阅读时右下角新增 AI 摘要悬浮按钮，长按选择文字新增问 AI（需更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"bb10\">扫码登录鸿蒙电脑微信时支持选择自动登录该设备（逐步开放，鸿蒙电脑需更新至 4.1.13 及以上版本）；</p></li><li><p data-vmark=\"cc47\">公众号文章或贴图点击分享新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"6940\">聊天消息长按新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"6c21\">聊天中的网页链接消息、文档类文件长按新增小微总结（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"44b3\">公众号文章或贴图中的图片长按新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"a2d3\">聊天中的图片点击查看大图新增 AI 处理，编辑图片时新增 AI 处理（逐步开放）；</p></li><li><p data-vmark=\"47f8\">服务通知右上角新增通知设置，可设置消息免打扰和播放语音提醒开关（逐步开放）。</p></li></ul></blockquote><p data-vmark=\"8861\">另外，微信鸿蒙版 App 的安装量已超 9000 万次（最新数据显示安装量为 9051 万次）。<strong>华为鸿蒙 HarmonyOS 终端用户数也即将突破 1 亿</strong>，预计会在 11 月下旬达成这一目标。</p><p data-vmark=\"fa2a\" style=\"text-align: justify;\">大家在<a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\" title=\"IT之家微信号\" data-androidurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-iosurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wxmpurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp%26openchat%3Dtrue\" data-wapurl=\"weixin://dl/business/?appid=wx8869812e2ddf7133&amp;path=pages/webview/webview&amp;query=url%3Ditmp\">IT之家微信号</a>回复“<span class=\"font-color-red\">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p data-vmark=\"1f40\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"770\" alt=\"\" data-vmark=\"951c\"></p><p data-vmark=\"57c2\" style=\"text-align: center;\"><a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\" data-androidurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-iosurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wxmpurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wapurl=\"weixin://dl/business/?appid=wx8869812e2ddf7133&amp;path=pages/webview/webview&amp;query=url%3Ditmp\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/2/d715ba69-5ed2-4b1d-a704-bd156713c1a0.gif\" w=\"1179\" h=\"654\" data-source-type=\"1\" data-weibo=\"2\"></a></p>",
+      "link": "https://www.ithome.com/1/025/601.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/601.htm"
+    },
+    {
+      "id": 5102,
+      "title": "曝 SpaceX 探索服务器机架层“去英伟达化”：只买芯片，更多配套硬件自行采购",
+      "summary": "IT之家 11 月 11 日消息，半导体研究机构 SemiAnalysis 今天（11 日）上午在 X 平台发文披露，SpaceX 正在开发一款名为 Kessel 的定制 AI 服务器机架，计划保留英伟达芯片，但自行采购更多配套硬件。Kessel 将同时用于地面数据中心和太空轨道计算。 采用 Kessel 设计后，SpaceX 仍将使用英伟达芯片，但能自行决定更多配套硬件的选型。据介绍，Kessel 还将改变硬件采购模式。SpaceX 计划直接向英伟达购买芯片封装件，其余组件",
+      "content": "<p data-vmark=\"2224\">IT之家 11 月 11 日消息，半导体研究机构 SemiAnalysis 今天（11 日）上午在 X 平台发文披露，SpaceX 正在开发一款名为 Kessel 的定制 AI 服务器机架，<strong>计划保留英伟达芯片，但自行采购更多配套硬件</strong>。Kessel 将同时用于地面数据中心和太空轨道计算。</p><p data-vmark=\"2a98\">采用 Kessel 设计后，SpaceX 仍将使用英伟达芯片，但能<strong>自行决定更多配套硬件的选型</strong>。据介绍，Kessel 还将改变硬件采购模式。SpaceX 计划<strong>直接向英伟达购买芯片封装件，其余组件自行采购，不再经过英伟达的 L6 计算板卡</strong>。这意味着 SpaceX 能够更自主地选择供应商和采购组件。</p><p style=\"text-align: center;\" data-vmark=\"99a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/473bce9b-8233-4154-a82e-289bb350a7e6.png?x-bce-process=image/format,f_auto\" w=\"1196\" h=\"3565\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FSemiAnalysis_%2Fstatus%2F2120351564720136389%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"6c1c\" class=\"no-alt-img\"></p><p data-vmark=\"2cbf\">Kessel 还将重新设计内部布局。英伟达标准版 Vera Rubin NVL72 机架依靠内部铜缆模块连接计算设备和交换机，Kessel 则计划取消这些模块，改用一块位于机架中央的无源电路板作为连接中板。</p><p data-vmark=\"f9af\">Kessel 仍采用 Oberon 方案的 72 个 GPU 封装件、18 个计算托盘和 9 个交换机托盘，但将托盘背靠背安装在中央电路板两侧。整体设计类似于英伟达同样使用电路板中板的 Kyber 方案，只是规模更小。</p><p data-vmark=\"57be\">今年 3 月，SemiAnalysis 曾披露一款配备 144 个 GPU 的 Kyber 方案，GPU 数量是 Kessel 的两倍。而在这次的推文中，该机构形容 Kessel 为“迷你版 Kyber”：纵向扩展域更小，既能部署在地面，也能用于太空轨道。</p><p data-vmark=\"948f\">IT之家获悉，缩小规模在有望降低 Kessel 的制造难度的同时，对材料提出了更高要求。Kessel 的中板<strong>采用 M10 材料，共有 84 层电路</strong>，而此前 Kyber 方案计划采用 M9 材料，电路板层数达到 156 层。</p><p data-vmark=\"611c\">SemiAnalysis 指出，减少电路板层数有利于制造，但必须使用更高等级的材料。</p><p data-vmark=\"fcfd\">不过，仅靠这些改动能否解决制造难题仍不确定。该机构认为，关键在于缩小规模后，中板方案能否真正投入实际应用。</p><p data-vmark=\"ef7c\">Kessel 的开发正值 SpaceX 加快布局 AI 数据中心之际。SemiAnalysis 上周披露，SpaceX 将 2027 年的算力容量目标<strong>上调至约 13GW</strong>，其中分布在多个地点的 3.6GW 项目正在建设。分析师表示：“我们认为这个目标有望实现，而且找到了超过 9GW 的容量。”</p><p data-vmark=\"24cb\">SemiAnalysis 提到了 Colossus 周边的扩建工程，以及 SpaceX 计划在星舰基地火箭园区部分区域建设数据中心。不过，供电仍是一大难题。该机构此前发现，现有可获得的电力供应不足以满足这些数据中心的需求。</p>",
+      "link": "https://www.ithome.com/1/025/597.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/597.htm"
+    },
+    {
+      "id": 5103,
+      "title": "AI 数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
+      "summary": "IT之家 11 月 11 日消息，据路透社报道，安世半导体临时首席执行官斯特凡 · 蒂尔格（Stefan Tilger）周二在慕尼黑举行的 Electronica 电子展上接受采访时表示，随着供应商将制造产能转向快速增长的 AI 数据中心市场，减少对汽车和工业设备所用成熟制程芯片的投入，安世半导体目前的订单已经“完全超额”。 蒂尔格表示，部分竞争对手已经将产能从安世半导体供应的通用型半导体产品转移出去，导致汽车供应链的部分环节出现瓶颈。 他在采访中说：“目前，汽车行业正受到相",
+      "content": "<p data-vmark=\"3b77\">IT之家 11 月 11 日消息，据路透社报道，安世半导体临时首席执行官斯特凡 · 蒂尔格（Stefan Tilger）周二在慕尼黑举行的 Electronica 电子展上接受采访时表示，随着供应商将制造产能转向快速增长的 AI 数据中心市场，减少对汽车和工业设备所用成熟制程芯片的投入，安世半导体目前的订单已经“完全超额”。</p><p style=\"text-align: center;\" data-vmark=\"d3db\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/d596d79a-d271-4730-b5d0-29a7a382b3e1.png?x-bce-process=image/format,f_auto\" w=\"837\" h=\"557\" data-weibo=\"0\" data-vmark=\"daff\" class=\"no-alt-img\"></p><p data-vmark=\"ad0d\">蒂尔格表示，部分竞争对手已经将产能从安世半导体供应的通用型半导体产品转移出去，导致汽车供应链的部分环节出现瓶颈。</p><p data-vmark=\"719a\">他在采访中说：“目前，汽车行业正受到相当严重的冲击。”</p><p data-vmark=\"45ea\">IT之家注意到，意法半导体（STMicroelectronics）首席执行官让-马克 · 谢里（Jean-Marc Chery）周一也发出警告称，晶圆代工厂和芯片封装企业正越来越多地将资源从汽车和工业应用产品转向其他领域。</p><p data-vmark=\"2076\">谢里在展会开幕前举行的首席执行官圆桌会议上表示：“我们看到了许多供应瓶颈。”</p><p data-vmark=\"5dda\">这些表态进一步表明，AI 投资热潮正在给半导体供应链的其他领域带来压力。随着制造商优先生产与数据中心和人工智能相关、利润率更高的产品，传统芯片的供应也受到影响。</p><p data-vmark=\"61ce\">谢里表示，一些过去服务于广泛客户群体的晶圆代工厂、芯片组装和封装企业，正在逐渐退出主流技术领域。</p><p data-vmark=\"6678\">蒂尔格指出，AI 数据中心和机器人领域的需求正在大量消耗制造产能，而用于二极管、晶体管及其他基础元器件的成熟技术，多年来一直缺乏足够投资。</p><p data-vmark=\"9f4b\">安世半导体主要生产大批量、低成本的半导体产品，客户集中在汽车和工业设备领域。与意法半导体等大型竞争对手不同，安世半导体的产品线相对狭窄，主要专注于成熟制程元器件。</p><p data-vmark=\"a512\">谢里则表示，意法半导体拥有自己的制造体系，因此在一定程度上能够抵御供应限制带来的冲击。他说：“通过资本支出和自身制造能力，我们能够掌握一部分未来的主动权。”</p>",
+      "link": "https://www.ithome.com/1/025/588.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/588.htm"
+    },
+    {
+      "id": 5104,
+      "title": "24Gb GDDR7 价格过高，传 16GB 版本 GeForce RTX 5080 显卡回归市场",
+      "summary": "IT之家 11 月 11 日消息，渠道消息平台 博板堂 版主 高手一号 昨日爆料称，NVIDIA（英伟达）已向 AIC 合作伙伴通知放弃 2027 年 1 月上市 GeForce RTX 5080 24GB 显卡，这一型号暂无明确的上市排期。 消息人士宣称，此番搁置的本质原因还是单颗粒 24Gb (3GB) 的 GDDR7 显存价格仍处于高位，导致整卡成本结构难以满足商业化的需求。 随着 24GB 版本的延后乃至取消，16GB 版本的 GeForce RTX 5080 也会再",
+      "content": "<p data-vmark=\"4172\">IT之家 11 月 11 日消息，渠道消息平台<span class=\"no-auto-spacing\"> 博板堂 </span>版主<span class=\"no-auto-spacing\"> 高手一号 </span>昨日爆料称，NVIDIA（英伟达）已向 AIC 合作伙伴通知<strong>放弃 2027 年 1 月上市 GeForce RTX 5080 24GB 显卡</strong>，这一型号暂无明确的上市排期。</p><p data-vmark=\"8e35\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/727f221d-3b7c-4aa0-8b92-80e384dd2f95.jpg\" w=\"1100\" h=\"640\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"70f9\"></p><p data-vmark=\"8e79\">消息人士宣称，此番搁置的本质原因还是单颗粒 24Gb (3GB) 的 GDDR7 显存价格仍处于高位，导致<strong>整卡成本结构难以满足商业化的需求</strong>。</p><p data-vmark=\"95c5\">随着 24GB 版本的延后乃至取消，<strong>16GB 版本的 GeForce RTX 5080 也会再次启用</strong>，满足市场对同等级产品的需求。</p>",
+      "link": "https://www.ithome.com/1/025/586.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/586.htm"
+    },
+    {
+      "id": 5105,
+      "title": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度",
+      "summary": "IT之家 11 月 11 日消息，11 月 10 日，佳能在日本东京宣布，将于 2026 年 12 月上旬发售面向存储和逻辑芯片的 KrF（IT之家注：氟化氪）扫描式半导体光刻机“FPA-6400ES6a”。 ▲ KrF 扫描式半导体光刻机“FPA-6400ES6a” 官方表示，通过新开发的超高加速度载台缩短驱动时间，这款 KrF 扫描式半导体光刻机新产品具备每小时 400 片晶圆的高产能；同时新开发了即使在高速驱动时也能进行稳定高精度位置控制的震动抑制技术，以及降低设备内气",
+      "content": "<p data-vmark=\"e9c3\">IT之家 11 月 11 日消息，11 月 10 日，佳能在日本东京宣布，将于 2026 年 12 月上旬发售面向存储和逻辑芯片的 KrF（IT之家注：氟化氪）扫描式半导体光刻机“FPA-6400ES6a”。</p><p data-vmark=\"e309\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3ac277f1-9e6e-4a77-aecb-521129fdada5.jpg\" w=\"1080\" h=\"580\" data-weibo=\"0\" data-vmark=\"d78f\" class=\"no-alt-img\"></p><figcaption>▲ KrF 扫描式半导体光刻机“FPA-6400ES6a”</figcaption><p data-vmark=\"2471\">官方表示，通过新开发的超高加速度载台缩短驱动时间，这款 KrF 扫描式半导体光刻机新产品具备<strong>每小时 400 片晶圆的高产能</strong>；同时新开发了即使在高速驱动时也能进行稳定高精度位置控制的震动抑制技术，以及降低设备内气流不均匀、使激光光路温度均一化的空调控制技术，从而实现<strong>业界</strong><strong>高水平的 4.0nm 套刻精度</strong>。</p><p data-vmark=\"e3c1\">此外，在佳能独有的图像对准系统中，新增了可选配的新光源“Hi-ALS（High Alignment Light Source）”。由于可根据材料和工艺任意选择合适的对准测量波长，因此能在各种半导体制造工艺中实现高精度对准，提高工艺稳定性。</p><p data-vmark=\"febb\">同时，设备可在曝光前测量各种工艺中产生的晶圆翘曲量，并通过调整载台上的吸气流量，提高对大翘曲晶圆的吸附能力，从而改善曝光时的翘曲。由此，<strong>可对应的翘曲量扩大到 700μm</strong>，强化了对三维器件的堆叠及晶圆键合工艺中产生的晶圆翘曲的应对能力。</p><p data-nine-grid=\"1\" data-vmark=\"7ff9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d1323538-0f27-4500-99f4-2487bf487c48.png\" w=\"1024\" h=\"575\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"b083\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/84eeb417-4bf6-464f-9cd8-fc0ca4184e9f.png\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/76f1dd3e-6d0d-41af-860d-0ecb1b7f47b7.png\" w=\"1024\" h=\"578\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"5760\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/d12910ea-8fb7-4dbe-b09b-d229e6bd8d7c.png\"></p><figcaption>▲ 晶圆翘曲改善的示意图（改善前与改善后）</figcaption><p data-vmark=\"e2e3\">据介绍，佳能半导体光刻机“FPA-6400ES6a”搭载新开发的电力控制技术，可将在载台减速时产生的再生电力储存在电容器中，并在加速时加以再利用。通过控制来自电源和电容器的电力供给，在确保超高加速度载台所需高响应性的同时，有效利用再生能源。</p><p data-vmark=\"42eb\">该设备还配备了新开发的支持超高加速度载台的高效率电源，通过提升电源效率降低电力损耗，并简化冷却机构。通过这些技术，降低了每片晶圆曝光所需的耗电量，同时兼顾了环境保护。</p>",
+      "link": "https://www.ithome.com/1/025/574.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/574.htm"
+    },
+    {
+      "id": 5106,
+      "title": "洛图科技：2026 年第三季度中国笔记本电脑线上销量同比下滑 14.0%，均价 7759 元上涨 13.4%",
+      "summary": "IT之家 11 月 11 日消息，洛图科技最新数据显示，2026 年第三季度，中国笔记本电脑市场在线上全渠道平台的销量为 312 万台，同比下降 14.0%；销额为 241 亿元，同比下降 2.6%。 第三季度的市场表现延续了上半年的低迷走势，并且是自 2025 年第四季度起连续第四个季度的同比下滑。全年预测调低至 1200 万台，同比降幅为 10.7%。 ▲ 2026Q3 中国笔记本电脑线上市场季度销量及变化，单位：万台 IT之家获悉，当季的主流电商销售均价为 7759 元",
+      "content": "<p data-vmark=\"77bf\">IT之家 11 月 11 日消息，洛图科技最新数据显示，2026 年第三季度，中国笔记本电脑市场在线上全渠道平台的销量为 312 万台，<strong>同比下降 14.0%</strong>；销额为 241 亿元，<strong>同比下降 2.6%</strong>。</p><p data-vmark=\"3104\">第三季度的市场表现延续了上半年的低迷走势，并且是自 2025 年第四季度起连续第四个季度的同比下滑。全年预测调低至 1200 万台，同比降幅为 10.7%。</p><p style=\"text-align: center;\" data-vmark=\"e23a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ba2222a0-59c0-488b-8924-43e5c54a5490.jpg?x-bce-process=image/format,f_auto\" w=\"1011\" h=\"518\" data-weibo=\"0\" data-vmark=\"9b3e\" class=\"no-alt-img\"></p><figcaption>▲ 2026Q3 中国笔记本电脑线上市场季度销量及变化，单位：万台</figcaption><p data-vmark=\"1d13\">IT之家获悉，<strong>当季的主流电商销售均价为 7759 元，同比上涨 13.4%</strong>。4000–5999 元价位的销量份额同比提升 9.9 个百分点，至 30.4%，已是目前体量最大的核心价格带；万元以上价位市场的销量同比增长 85%，增幅最高。</p><p style=\"text-align: center;\" data-vmark=\"8490\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/27bcbcda-db1d-43cf-a922-aa5dc4fa5e26.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"483\" data-weibo=\"1\" data-vmark=\"a591\" class=\"no-alt-img\"></p><figcaption>▲ 2026Q3 中国笔记本电脑线上市场价格段销量结构，单位：%</figcaption><p data-vmark=\"2a29\">在主流电商平台上，联想系、华硕系、机械革命、苹果、惠普这前五品牌的合计销量份额为 79.2%，较去年同期提升 1.3 个百分点，集中度小幅走高。</p><p style=\"text-align: center;\" data-vmark=\"b142\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/08f8aa8f-09e0-40d3-a942-a10f360e572a.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"581\" data-weibo=\"2\" data-vmark=\"27c0\" class=\"no-alt-img\"></p><figcaption>▲ 2026Q3 中国笔记本电脑线上市场品牌销量份额，单位：%</figcaption><figcaption></figcaption><p data-vmark=\"8538\"><span class=\"referenceTitle \">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"36e2\"><a target=\"_blank\" href=\"https://mp.weixin.qq.com/s/_f_gxUGwYNDiy3oW_tYvog\">季报 | 2026Q3 中国笔记本电脑线上销量下滑 14.0%，销额仅降 2.6%；TOP5 品牌销量占八成；万元以上销量大涨 85%</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/025/564.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/025/564.htm"
+    },
+    {
+      "id": 5107,
+      "title": "AI data center buildout triggers fiber optic cable shortage, squeezing Ukrainian drone operations",
+      "summary": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
+      "content": "<article>\n                                <p>Russia’s 2022 invasion of Ukraine sparked a new era of drone warfare. Russian invaders first used drones with fiber-optic tethers to combat electronic warfare on the front lines, but both sides now use these jam-proof drones. Against that backdrop, the AI data center buildout is making it harder for Ukraine to buy the fiber-optic spools that it needs to continue scaling its drone manufacturing capabilities. A research and development representative for BlueBird Tech, a Ukrainian defense firm specializing in drones, told <a href=\"https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/\"><em>Ars Technica</em></a> in an interview that prices of fiber optic cables have risen around six to 10 times in the past couple of years as AI data center demand soaks up more and more of the supply of this resource.</p><p>According to that interview, It’s estimated that Ukraine and Russia are producing around 50,000 fiber optic drones monthly, with each drone capable of ranges of up to 62 miles. But Ukraine has only been able to acquire 72 miles of fiber optic cable from Chinese suppliers during August 2025, whereas Russia imported a whopping 328,000 miles during that same month. It was estimated that Russia acquired 37 million miles of fiber during the entirety of 2025, accounting for over 10% of the global production. </p><p>What makes matters worse for Ukrainian defenders is that there is an estimated 111-million-mile shortfall in fiber optic cable supply across the world, adding to the <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers\">various shortages that the data center industry has faced</a> in recent years. Aside from the material shortfall, Ukraine faces trade barriers in acquiring more fiber. The BlueBird representative claimed that some Chinese companies have outright refused to sell Ukraine fiber optic cables.</p><p>China is the primary supplier of this material, so it’s easier for Russia to obtain them through its massive land border with the country. While Ukraine could purchase fiber optic cables from suppliers located in other countries, that's not much of an alternative. The BlueBird rep notes: \"there can be intermediaries in other countries, and prices can differ depending on the country and the purchasing route. But in the end, China remains the main source of the fiber optic material we are talking about.” </p><p>There has also been talk of producing fiber optic cables domestically in Ukraine, but such manufacturing requires specially trained personnel who must practice on the already limited supply of fiber optic cables. Even if manufacturers automate production, they still require experienced personnel who can oversee the line and ensure the quality of the final product.</p><p>The data center build out has been causing all kinds of shortages. We’ve seen supply shortfalls in GPUs, memory chips, and even PCBs, but there’s also shortages in other seemingly unrelated industries like power infrastructure, optical transceivers, and even in <a href=\"https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-boom-hits-a-human-bottleneck-critical-skilled-labor-shortages-could-slow-deployment-despite-billions-in-funding\">critical skilled labor</a> like electricians. This overwhelming demand has started affecting other industries not related to computing, like <a href=\"https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent\">cars</a>, <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/exploding-ai-data-center-build-outs-delay-texas-housing-projects-data-centers-high-demand-for-electricians-prices-out-contractors-homes-now-take-two-months-longer-to-complete\">home construction</a>, and now, fiber optic attack drones.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "D8RQvBWWkcnFztMZnddfdS"
+    },
+    {
+      "id": 5108,
+      "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
+      "summary": "Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 in the process.",
+      "content": "<article>\n                                <p>Newegg is one of the best places at the moment for deal bundles on otherwise expensive PC parts for a new gaming PC. With that in mind, <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\">you can pick up a brand-new AMD Ryzen 7 9950X3D with 32GB of DDR5 RAM and an Asus TUF Gaming X870E motherboard for $1,059.98</a>.</p><p>● <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\">Check out this combo deal at Newegg</a></p><p>This deal saves you $128.99 compared to buying the parts separately. You're also getting a free Rosewill 360mm AIO liquid cooler thrown in for free, worth $89.99. More importantly, however, is the RAM. With this deal, you're bringing down the effective cost of the memory to just $351, or less if you count the free cooler. </p><p>Buying this RAM separately would cost you $479.99, while the cheapest 32GB DDR5 kit on sale anywhere right now is $438, so you're paying $87 less for RAM compared to what you'd have to pay elsewhere. That's a great deal considering how expensive RAM has become over the last year, especially if you need to build or upgrade your rig today.</p><div class=\"product star-deal\"><a data-dimension112=\"ee770908-ddbc-11f1-8be8-d76d89aa7679\" data-action=\"Star Deal Block\" data-label=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension48=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension25=\"$1059.98\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:75.00%;\"><img id=\"Dg69uSYrL4eUkFJB5eJG6D\" name=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/Dg69uSYrL4eUkFJB5eJG6D-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"960\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ee770908-ddbc-11f1-8be8-d76d89aa7679\" data-action=\"Star Deal Block\" data-label=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension48=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension25=\"$1059.98\">CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard: was $1188.97 now $1059.98</a></strong><br />This combo deal means securing an AMD Ryzen 7 9800X3D, one of AMD's fastest mainstream processors for gaming with seriously impressive 3D V-Cache, with 32GB of V-Color DDR5 RAM, rated at 6,000 MT/s and an Asus TUF Gaming X870E-Plus Wifi7 motherboard.<a class=\"view-deal button\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ee770908-ddbc-11f1-8be8-d76d89aa7679\" data-action=\"Star Deal Block\" data-label=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension48=\"CPU Memory Combo - AMD Ryzen 7 9800X3D Bundle with V-Color 32GB DDR5-6400 RAM and Asus TUF Gaming X870E-Plus Wifi 7 motherboard\" data-dimension25=\"$1059.98\">View Deal</a></p></div><p>The<a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9800x3d-review-devastating-gaming-performance\"> AMD Ryzen 7 9800X3D</a> is no longer the fastest gaming CPU on the market, but it's still our favorite, with performance that's almost impossible to beat. It ships with eight cores, 16 threads, and a boost clock speed up to 5.2 GHz. The important stat, though, is 96MB of L3 cache. This is AMD's all-important 3D V-Cache technology in action. The extra cache provides a huge frame rate boost by giving the CPU more memory directly. </p><p>There's less need for it to drop down to slower system RAM while you're gaming, making frame rates higher and more stable. As the<a href=\"https://www.tomshardware.com/bench\"> Bench charts</a> below show, this is a CPU that, despite being marginally pipped to the post by newer CPUs like the 9850X3D, is still an absolute powerhouse for gamers.</p><iframe allow=\"\" height=\"800\" width=\"100%\" id=\"\" style=\"\" class=\"position-center\" data-lazy-priority=\"high\" data-lazy-src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\" src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\"></iframe><p>Along with this world-class processor is a solid set of RAM for your rig. The V-Color Manta XSky RAM included here is a popular one among these Newegg bundles. You're getting two 16GB memory modules to run dual-channel, and it's fast DDR5 CL30 RAM, rated at 6,000 MT/s, with RGB lighting that you can configure. RAM prices are showing no signs of cooling, so getting RAM for nearly $90 less than you'd be paying elsewhere is a worthy option if you're building or upgrading a new PC.</p><p>Along with the RAM is an Asus TUF Gaming X870E-Plus WiFi 7 motherboard. This is an enthusiast-friendly board that's packed with a whole host of gaming features. Ready for an AM5 build, this motherboard has 13 USBs at the rear, including two USB-C ports that are rated at speeds of 40 Gbps. You're also getting four M.2 sockets for plenty of SSDs, and with the 9800X3D installed, two of them are rated for PCIe 5.0 speeds over four lanes. There's fast networking, with 2.5 Gb Ethernet and Wi-Fi 7 support included.</p><p>A nice extra, too, is that Rosewill AIO cooler. Worth $89.99 if you had to buy it, this 360mm cooler will help to keep your CPU cool, with three RGB fans and a built-in display that can show you your CPU's temperature, fan and pump speeds. No cost here: this one comes with the bundle for free.</p><p>Overall, the <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889967\">$1,059.99 sale price for this Newegg parts bundle </a>means you're scoring a top-spec CPU with better-priced RAM than buying it separately before we even consider the motherboard and free CPU cooler. The $128.99 discount here isn't one you should ignore given current market prices, but with these bundles selling out fast, you'll need to be quick to secure it for yourself.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd351-with-this-newegg-bundle-with-the-9800x3d-usd87-less-than-the-next-cheapest-memory-gaming-pc-build-kit-includes-enthusiast-asus-x870e-motherboard-and-free-aio-liquid-cooler-with-usd128-99-in-total-savings",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "QY484EL5ih3Xoo9h3dRWSk"
+    },
+    {
+      "id": 5109,
+      "title": "NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains",
+      "summary": "NVIDIA's rumored GeForce RTX 5080 24 GB model has reportedly been put on hold. The company is struggling to secure enough 3 GB GDDR7 memory modules and is instead opting for the less expensive 2 GB modules for the standard 16 GB version. Ac",
+      "content": "NVIDIA's rumored GeForce RTX 5080 24 GB model has reportedly been put on hold. The company is struggling to secure enough 3 GB GDDR7 memory modules and is instead opting for the less expensive 2 GB modules for the standard 16 GB version. According to a report from Board Channels, NVIDIA has already informed its add-in card (AIC) partners to officially cancel the January 2027 launch plan for the 24 GB model, citing economic challenges. As we are currently experiencing one of the worst supply chain shortages for memory modules, using the more expensive 3 GB GDDR7 modules would result in a significantly higher MSRP and, consequently, a higher price for customers. Therefore, the 2 GB GDDR7 memory modules will continue to be used, and the RTX 5080 16 GB model will remain available.<br />\r\n<br />\r\nReaders may recall that NVIDIA did not plan any other changes to the model besides the memory configuration, as the CUDA core count was to remain the same. The new 24 GB model would potentially have slightly higher TDP and clock speeds, but the main improvements would come from increased memory capacity and bandwidth. Since it seems we won't be getting the revised model, and there's no rumor of a &quot;SUPER&quot; overhaul anytime soon, we will have to stick with the standard lineup a bit longer until the next-generation GeForce RTX 60-Series &quot;Rubin&quot; arrives.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/043GnDkFDO8jZXsj.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/043GnDkFDO8jZXsj_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354686/nvidia-geforce-rtx-5080-24-gb-reportedly-cancelled-16-gb-model-remains\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354686/nvidia-geforce-rtx-5080-24-gb-reportedly-cancelled-16-gb-model-remains",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e9f24d683a1a3b79fdb8ea31a9ee62ec"
+    },
+    {
+      "id": 5110,
+      "title": "(PR) ASUS Showcases ProArt GR1X, ProArt P16 & P14 Laptops, ProArt OLED Monitors, and AI-Powered Solutions for Creatives at Adobe MAX 2026",
+      "summary": "ProArt, the ASUS sub-brand created by creators, for creators, today announced its participation at Adobe MAX 2026, where it will showcase a complete ecosystem of AI-powered creator solutions designed to accelerate content creation, streamli",
+      "content": "ProArt, the ASUS sub-brand created by creators, for creators, today announced its participation at Adobe MAX 2026, where it will showcase a complete ecosystem of AI-powered creator solutions designed to accelerate content creation, streamline workflows, and empower the next generation of creative professionals. Event attendees can experience hands-on demonstrations of the ProArt GR1X, a new agentic AI mini PC, and ProArt P16 &amp; P14 laptops, bringing powerful on-device AI capabilities directly to creators, as well as ProArt OLED monitors featuring exceptional color accuracy and HDR performance. The demos will span AI content creation, visual effects production, professional photo editing, and color-critical workflows.<br />\r\n<br />\r\n<b>RTX Spark Creator Solutions</b><br />\r\n<b>ProArt GR1X mini PC: Create without limits. Your AI agent, always on</b><br />\r\nThe ProArt GR1X is a mini PC that brings on-device AI to creative workflows, from the Adobe Creative Suite, to generative AI tools like ComfyUI. The RTX Spark carries the full NVIDIA Stack, CUDA, TensorRT, NVFP4, RTX Ray Tracing, DLSS, and Optix. With up to 128 GB of unified memory, users can run agents alongside their largest creative projects, and iterate without per-token or per-generation fees. Because the GR1X has a 6144-core NVIDIA Blackwell RTX GPU, users can keep client footage and project files on their own machine, and feel confident when they utilize AI on their most sensitive client projects. Apps, tools, and workflows are connected into one seamless experience, private by default. RTX Spark brings NVIDIA's full-stack AI platform, ready for the AI workloads of today and whatever comes next. Delivered on the familiar, trusted Windows platform.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/dCDqIsRDDequBUCU.jpg\" target=\"_blank\" data-width=\"595\" data-height=\"330\" ><img src=\"https://tpucdn.com/img/dCDqIsRDDequBUCU_thm.jpg\" width=\"234\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354685/asus-showcases-proart-gr1x-proart-p16-p14-laptops-proart-oled-monitors-and-ai-powered-solutions-for-creatives-at-adobe-max-2026\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354685/asus-showcases-proart-gr1x-proart-p16-p14-laptops-proart-oled-monitors-and-ai-powered-solutions-for-creatives-at-adobe-max-2026",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "d5f5768d104d5b352fcd66d8ecdf0a6a"
+    },
+    {
+      "id": 5111,
+      "title": "Epomaker Launches Bamboo75 and Galaxy75 Wireless Mechanical Keyboards",
+      "summary": "Epomaker previously revealed the Galaxy75 in an official livestream video, but the peripheral maker has now officially launched the Galaxy75 alongside a new keyboard, the Bamboo75. As we covered previously, the Galaxy75 features a relativel",
+      "content": "Epomaker previously <a href=\"https://www.techpowerup.com/353699/epomaker-reveals-galaxy75-wireless-mechanical-keyboard-with-aluminium-case-and-via-support\" target=\"_blank\">revealed the Galaxy75 in an official livestream video</a>, but the peripheral maker has now officially launched the Galaxy75 alongside a new keyboard, the Bamboo75. As we covered previously, the Galaxy75 features a relatively standard 75% layout, an aluminium case, polycarbonate plate, a mix of PBT and PC/ABS keycaps, wireless connectivity with an 8,000 mAh battery, and Epomaker's Creamy Jade linear switches. The official launch price, which was previously unknown, is <a rel=\"nofollow\" href=\"https://epomaker.com/products/epomaker-galaxy75\" target=\"_blank\">$109 on Epomaker's site</a>, and the Galaxy75 is available in three colorways: black, purple, and pink. <br />\r\n<br />\r\nThe Epomaker Bamboo75, on the other hand, is a slightly more interesting affair. It takes a similar, but notably not identical, layout to the Galaxy75 but swaps out the cutesy pastel and minimalist aesthetics of the Galaxy75 for a more nature-inspired design, thanks to a case made of bamboo and keycaps made of a mix of ABS and PBT with wood grain print on the top. Those Cherry profile keycaps also feature a side-printed shine-through legend, which allows the south-facing per-key RGB backlighting to shine through while keeping the consistent wood aesthetic when looking at the keyboard from the top. Like the Galaxy75, the Bamboo75 also packs wireless connectivity, with both Bluetooth and 2.4 GHz connectivity, and it also has an 8,000 mAh battery, although Epomaker doesn't provide any claims of battery life.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/qBiPFm0zcQDLtHbN.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/qBiPFm0zcQDLtHbN_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/pzqDsGPTwZdI7uNZ.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/pzqDsGPTwZdI7uNZ_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/j9ukJ1ErlTVNsdCp.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/j9ukJ1ErlTVNsdCp_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/gh0FXqOcxS8sND0M.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/gh0FXqOcxS8sND0M_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354683/epomaker-launches-bamboo75-and-galaxy75-wireless-mechanical-keyboards\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354683/epomaker-launches-bamboo75-and-galaxy75-wireless-mechanical-keyboards",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "308edd1ceddeeabbdc29f2ab32efadce"
+    },
+    {
+      "id": 5112,
+      "title": "Epomaker Launches Alice40 40% Mechanical Keyboard With Ergonomic Layout and $70 Pricetag",
+      "summary": "Epomaker has officially unveiled the Alice40 as its latest foray into the world of 40% mechanical keyboards—after the TH40 we reviewed previously and the Luma40 after that—and this time, the brand has gone for yet another unique layout opti",
+      "content": "Epomaker has officially unveiled the Alice40 as its latest foray into the world of 40% mechanical keyboards—after the <a href=\"https://www.techpowerup.com/review/epomaker-th40-wireless-mechanical-keyboard/\" target=\"_blank\">TH40 we reviewed previously</a> and the <a href=\"https://www.techpowerup.com/342221/epomaker-launches-luma40-low-profile-40-ortholinear-wireless-mechanical-keyboard-with-aluminium-case-and-focus-on-rgb-and-customization\" target=\"_blank\">Luma40 after that</a>—and this time, the brand has gone for yet another unique layout option. As the name suggests, the Alice40 is based on the Alice layout that is commonly recommended to first-time ergonomic keyboard buyers, for its similarity to a regular unibody keyboard, although the Alice40 has a few features that set it apart from other mechanical keyboards in the same $69.99 price bracket. <br />\r\n<br />\r\nFor starters, the Alice40 modifies the traditional Alice layout with columnar stagger, meaning the columns are vertically offset from one another instead of the rows being horizontally offset. This is meant to make the keys align more appropriately to the natural movement of your fingers while you're typing. Another interesting quirk of the Alice40 is the knob between the two halves of the alpha cluster. As expected from a $69.99 mechanical keyboard, it has a plastic case, but it also has flip-out feet that allow users to adjust the typing angle between 5° and 8.5°. The case also features a gasket mount design, much like the Epomaker TH40, and it is stuffed with sound-damping materials to cut down on echoes and reverberation inside the case.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/b7IlKVT4njs0WA42.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/b7IlKVT4njs0WA42_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/IdQcPaKr9BLE0WlO.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/IdQcPaKr9BLE0WlO_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/UsIj87TGW1YOyI6O.jpg\" target=\"_blank\" data-width=\"1572\" data-height=\"858\" ><img src=\"https://tpucdn.com/img/UsIj87TGW1YOyI6O_thm.jpg\" width=\"238\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354682/epomaker-launches-alice40-40-mechanical-keyboard-with-ergonomic-layout-and-usd-70-pricetag\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354682/epomaker-launches-alice40-40-mechanical-keyboard-with-ergonomic-layout-and-usd-70-pricetag",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "29edc2b10e37723b847789582bc43e35"
+    },
+    {
+      "id": 5113,
+      "title": "AMD Pushes Back on NVIDIA and Arm's \"Agentic CPU\" Marketing",
+      "summary": "AMD's Madhu Rangarajan, corporate VP of Compute and Enterprise AI, says the company never set out to build its Zen 6 EPYC 9006 \"Venice\" chips around agentic AI, a not-so-subtle dig at NVIDIA and Arm, which both pitch their latest server CPU",
+      "content": "AMD's Madhu Rangarajan, corporate VP of Compute and Enterprise AI, says the company never set out to build its Zen 6 <a href=\"https://www.techpowerup.com/351000/amd-announces-6th-gen-epyc-server-processors-powered-by-zen-6-microarchitecture\" target=\"_blank\">EPYC 9006 &quot;Venice&quot; chips</a> around agentic AI, a not-so-subtle dig at NVIDIA and Arm, which both <a href=\"https://www.techpowerup.com/350943/nvidia-details-vera-cpu-with-88-cores-176-threads-and-up-to-1-5-tb-of-lpddr5x-memory\" target=\"_blank\">pitch their latest server CPUs</a> as made for that exact job. Rangarajan still called EPYC 9006 the best CPU for agentic workloads during a media session covered by <a rel=\"nofollow\" href=\"https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing\" target=\"_blank\">Tom's Hardware</a>. Chief Zen architect Mike Clark said much the same in a separate talk, admitting AMD didn't see agentic computing coming, though he added that the company always expected the CPU to keep a role in AI software. Here's what Rangarajan said:<blockquote class=\"quote\">We think that the EPYC 9006 CPU is the best CPU for the agentic era, and spoiler alert, we didn't magically know four years ago that agentic was going to be a thing and purpose-built something for agentic. The reality is an agentic workflow is a diverse set of tasks… and in order to execute those tasks well, you need compute that is able to handle a diverse set of workloads with a full portfolio.</blockquote><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/MsYBfv9MfOTrYj6K.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/MsYBfv9MfOTrYj6K_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/vgoIoXbvWuxhFGlA.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/vgoIoXbvWuxhFGlA_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354678/amd-pushes-back-on-nvidia-and-arms-agentic-cpu-marketing\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354678/amd-pushes-back-on-nvidia-and-arms-agentic-cpu-marketing",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "71c54f23b7d46641ce22c9656a751e10"
+    },
+    {
+      "id": 5116,
+      "title": "What's inside Apple's new glowing logo? iFixit tears down the MacBook Pro OLED",
+      "summary": "Apple has brought back the glowing logo on its MacBook Pro, but this time it uses four tiny LEDs hidden behind the OLED display. An iFixit teardown reveals how the new lighting system works, along with details about the laptop's display tec",
+      "content": "Apple has brought back the glowing logo on its MacBook Pro, but this time it uses four tiny LEDs hidden behind the OLED display. An iFixit teardown reveals how the new lighting system works, along with details about the laptop's display technology, reduced weight and improved repairability.",
+      "link": "https://www.notebookcheck.net/What-s-inside-Apple-s-new-glowing-logo-iFixit-tears-down-the-MacBook-Pro-OLED.1447816.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/What-s-inside-Apple-s-new-glowing-logo-iFixit-tears-down-the-MacBook-Pro-OLED.1447816.0.html"
+    },
+    {
+      "id": 5117,
+      "title": "Nvidia RTX 5080 24 GB reportedly canceled in China due to soaring GDDR7 costs",
+      "summary": "Nvidia has reportedly abandoned the planned January 2027 Chinese launch of its GeForce RTX 5080 24 GB, according to a new supply-chain leak. Prohibitively expensive 3 GB GDDR7 memory modules are allegedly responsible, prompting Nvidia to co",
+      "content": "Nvidia has reportedly abandoned the planned January 2027 Chinese launch of its GeForce RTX 5080 24 GB, according to a new supply-chain leak. Prohibitively expensive 3 GB GDDR7 memory modules are allegedly responsible, prompting Nvidia to continue offering the existing 16 GB model instead.",
+      "link": "https://www.notebookcheck.net/Nvidia-RTX-5080-24-GB-reportedly-canceled-in-China-due-to-soaring-GDDR7-costs.1447776.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-RTX-5080-24-GB-reportedly-canceled-in-China-due-to-soaring-GDDR7-costs.1447776.0.html"
+    },
     {
       "id": 4960,
       "title": "Rapidus遭遇关键技术障碍 日本2纳米芯片量产计划面临延期风险",
@@ -1509,6 +2195,154 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Xiaomi-18T-tipped-to-receive-major-upgrades-led-by-200-MP-Leica-camera.1446991.0.html"
+    },
+    {
+      "id": 5083,
+      "title": "传英伟达或削减台积电芯片订单 内外部压力持续加大",
+      "summary": "据台湾《工商时报》援引未具名供应链消息人士的报道，英伟达可能正在放缓对台积电的芯片下单节奏。该报道并未指明涉及的具体产品、制程节点、订单规模或时间表，英伟达和台积电目前也均未对此作出回应。由于消息来源单一，相关说法仍应被视为传闻。 阅读全文",
+      "content": "<p>据台湾《工商时报》援引未具名供应链消息人士的报道，英伟达可能正在放缓对台积电的芯片下单节奏。该报道并未指明涉及的具体产品、制程节点、订单规模或时间表，英伟达和台积电目前也均未对此作出回应。由于消息来源单一，相关说法仍应被视为传闻。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1585852.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585852.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1585852.htm"
+    },
+    {
+      "id": 5114,
+      "title": "(PR) Philips Launches Evnia 27M2D5901A 27-inch 5K 180 Hz Monitor",
+      "summary": "The Philips Evnia 27M2D5901A is a 27-inch (68.58 cm) Dual Mode gaming monitor that lets users switch between detailed 5K visuals and high-speed QHD performance. The Philips Evnia 27M2D5901A features a Fast IPS panel with Dual Mode technolog",
+      "content": "The Philips Evnia 27M2D5901A is a 27-inch (68.58 cm) Dual Mode gaming monitor that lets users switch between detailed 5K visuals and high-speed QHD performance. The Philips Evnia 27M2D5901A features a Fast IPS panel with Dual Mode technology. Users can choose a 5K resolution for detailed visuals or switch to QHD for refresh rates of up to 350 Hz. For a more immersive gaming experience, the monitor combines built-in RGB backlighting with AI-enhanced Ambiglow, and AmbiScape to extend lighting effects to Matter-compatible smart lights.<br />\r\n<br />\r\nDifferent games call for different screen settings. Dual Mode lets users switch between 5K for greater detail and QHD for a higher refresh rate. In 5K mode, the monitor delivers 5120 x 2880 pixels at 165 Hz and can be overclocked to 180 Hz. On a 27-inch panel, the high pixel density keeps textures, text, and interface elements clear, making this mode suitable for visually detailed games, content creation, and everyday work. When speed matters more, the QHD mode runs at 330 Hz and can be overclocked to 350 Hz at 2560 x 1440 pixels. The higher refresh rate provides smoother motion during fast-paced and competitive games.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/fATwfuTY7IhDUPzv.jpg\" target=\"_blank\" data-width=\"2151\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/fATwfuTY7IhDUPzv_thm.jpg\" width=\"233\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354677/philips-launches-evnia-27m2d5901a-27-inch-5k-180-hz-monitor\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354677/philips-launches-evnia-27m2d5901a-27-inch-5k-180-hz-monitor",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "790c4ae70e9a4fdefca192375e8a24af"
+    },
+    {
+      "id": 5115,
+      "title": "(PR) STORMCRAFT PC Launches Fantasy Gaming PCs",
+      "summary": "STORMCRAFT PC, a California gaming PC brand founded by gamers and engineers, today announced the launch of its Fantasy Series prebuilt gaming desktops, introducing 10 configurations across Intel and AMD platforms. Featured systems pair the ",
+      "content": "STORMCRAFT PC, a California gaming PC brand founded by gamers and engineers, today announced the launch of its Fantasy Series prebuilt gaming desktops, introducing 10 configurations across Intel and AMD platforms. Featured systems pair the AMD Ryzen 7 7800X3D processor with AMD Radeon RX 9070 16 GB graphics, or the Intel Core Ultra 7 265F processor with NVIDIA GeForce RTX 5070 12 GB graphics, giving gamers a choice of processor and graphics combinations within the new series.<br />\r\n<br />\r\nFantasy combines these hardware options with a 270-degree panoramic glass chassis, ARGB lighting and new illustrated packaging inspired by classic game boxes and arcade-era adventures. The lineup also includes NVIDIA GeForce RTX 5060 Ti and RTX 5060 graphics options. Arriving ahead of the holiday shopping season, the series connects a modern hardware showcase with the nostalgic excitement of unboxing a new gaming adventure.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/RNAklSP0s1Vf9vDg.jpg\" target=\"_blank\" data-width=\"1000\" data-height=\"1000\" ><img src=\"https://tpucdn.com/img/RNAklSP0s1Vf9vDg_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/U12Y88s9z7dvJ9Zd.jpg\" target=\"_blank\" data-width=\"1000\" data-height=\"1000\" ><img src=\"https://tpucdn.com/img/U12Y88s9z7dvJ9Zd_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/wcPpUWEFLsvpPStV.jpg\" target=\"_blank\" data-width=\"1000\" data-height=\"1000\" ><img src=\"https://tpucdn.com/img/wcPpUWEFLsvpPStV_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/kiZLsW1AyIyCmeih.jpg\" target=\"_blank\" data-width=\"600\" data-height=\"600\" ><img src=\"https://tpucdn.com/img/kiZLsW1AyIyCmeih_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354676/stormcraft-pc-launches-fantasy-gaming-pcs\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354676/stormcraft-pc-launches-fantasy-gaming-pcs",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "c13fb536d46101f15be2c2ffd0766540"
+    },
+    {
+      "id": 5118,
+      "title": "Ultra-slim mini PC unveiled with up to 64 GB RAM and impressive 16-core Intel CPU",
+      "summary": "FEVM has teased a new ultra-slim mini PC ahead of launch, powered by a capable 16-core Intel CPU paired with up to 64 GB of LPDDR5X RAM. The 0.4-liter mini PC, dubbed the FNPH1, packs a lot of punch despite its diminutive size.",
+      "content": "FEVM has teased a new ultra-slim mini PC ahead of launch, powered by a capable 16-core Intel CPU paired with up to 64 GB of LPDDR5X RAM. The 0.4-liter mini PC, dubbed the FNPH1, packs a lot of punch despite its diminutive size.",
+      "link": "https://www.notebookcheck.net/Ultra-slim-mini-PC-unveiled-with-up-to-64-GB-RAM-and-impressive-16-core-Intel-CPU.1446209.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Ultra-slim-mini-PC-unveiled-with-up-to-64-GB-RAM-and-impressive-16-core-Intel-CPU.1446209.0.html"
+    },
+    {
+      "id": 5119,
+      "title": "Affordable 14-inch laptop launches with Intel processors, 55Wh battery and 180-degree hinge",
+      "summary": "The Infinix XBook 14 Neo is a lightweight 14-inch laptop with a 180-degree hinge and a battery rated for up to 13 hours. It comes with an Intel Core processor, 8GB of RAM and up to 512GB of SSD storage, and is now available in Malaysia.",
+      "content": "The Infinix XBook 14 Neo is a lightweight 14-inch laptop with a 180-degree hinge and a battery rated for up to 13 hours. It comes with an Intel Core processor, 8GB of RAM and up to 512GB of SSD storage, and is now available in Malaysia.",
+      "link": "https://www.notebookcheck.net/Affordable-14-inch-laptop-launches-with-Intel-processors-55Wh-battery-and-180-degree-hinge.1446679.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-14-inch-laptop-launches-with-Intel-processors-55Wh-battery-and-180-degree-hinge.1446679.0.html"
+    },
+    {
+      "id": 5120,
+      "title": "Logitech releases MX Master 4 Creator Edition with artboard-inspired design",
+      "summary": "The Logitech MX Master 4 Creator Edition is a limited-run productivity mouse with an artboard-inspired design and creative-themed details. It retains the standard model's hardware, including its 8,000 DPI sensor, Haptic Sense Panel and Acti",
+      "content": "The Logitech MX Master 4 Creator Edition is a limited-run productivity mouse with an artboard-inspired design and creative-themed details. It retains the standard model's hardware, including its 8,000 DPI sensor, Haptic Sense Panel and Actions Ring.",
+      "link": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Creator-Edition-with-artboard-inspired-design.1446537.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Creator-Edition-with-artboard-inspired-design.1446537.0.html"
+    },
+    {
+      "id": 5121,
+      "title": "AMD Zen 6 could bring 24-core Ryzen CPUs and 144 MB of cache to gaming Ryzen X3D",
+      "summary": "AMD’s Zen 6 could pave the way for 24-core Ryzen processors and 12-core Ryzen X3D gaming CPUs with up to 144 MB of L3 cache per chiplet. The architecture also brings improvements that could boost performance even in games that don't use all",
+      "content": "AMD’s Zen 6 could pave the way for 24-core Ryzen processors and 12-core Ryzen X3D gaming CPUs with up to 144 MB of L3 cache per chiplet. The architecture also brings improvements that could boost performance even in games that don't use all available cores.",
+      "link": "https://www.notebookcheck.net/AMD-Zen-6-could-bring-24-core-Ryzen-CPUs-and-144-MB-of-cache-to-gaming-Ryzen-X3D.1447255.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/AMD-Zen-6-could-bring-24-core-Ryzen-CPUs-and-144-MB-of-cache-to-gaming-Ryzen-X3D.1447255.0.html"
+    },
+    {
+      "id": 5122,
+      "title": "Apple MacBook Pro 14 OLED review verdict – A great display, but cooling weaknesses",
+      "summary": "The updated MacBook Pro 14 offers an excellent OLED panel and improved battery life. However, there are no new processors, and cooling is less effective than before.",
+      "content": "The updated MacBook Pro 14 offers an excellent OLED panel and improved battery life. However, there are no new processors, and cooling is less effective than before.",
+      "link": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-OLED-review-verdict-A-great-display-but-cooling-weaknesses.1447228.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-OLED-review-verdict-A-great-display-but-cooling-weaknesses.1447228.0.html"
+    },
+    {
+      "id": 5123,
+      "title": "MSI's MEG X OLED gaming monitor comes with AI lighting that mimics your health bar",
+      "summary": "Update | (Not a new launch) MSI has expanded its OLED gaming monitor portfolio with the MEG X. It comes with some unique AI features that bring game integrations, durability improvements, and other gaming advantages.",
+      "content": "Update | (Not a new launch) MSI has expanded its OLED gaming monitor portfolio with the MEG X. It comes with some unique AI features that bring game integrations, durability improvements, and other gaming advantages.",
+      "link": "https://www.notebookcheck.net/MSI-s-MEG-X-OLED-gaming-monitor-comes-with-AI-lighting-that-mimics-your-health-bar.1447236.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/MSI-s-MEG-X-OLED-gaming-monitor-comes-with-AI-lighting-that-mimics-your-health-bar.1447236.0.html"
+    },
+    {
+      "id": 5124,
+      "title": "Lenovo Legion 7a Gen 11 with powerful AMD APU and 165 Hz OLED gets $700 discount",
+      "summary": "Deal | The Lenovo Legion 7a Gen 11 gaming laptop with the beastly AMD Ryzen AI Max+ 388 \"Strix Halo\" APU, 32 GB RAM, and 1 TB of storage is now enjoying a massive $700 price cut. The AMD APU powering the gaming laptop gives it superb perfor",
+      "content": "Deal | The Lenovo Legion 7a Gen 11 gaming laptop with the beastly AMD Ryzen AI Max+ 388 \"Strix Halo\" APU, 32 GB RAM, and 1 TB of storage is now enjoying a massive $700 price cut. The AMD APU powering the gaming laptop gives it superb performance.",
+      "link": "https://www.notebookcheck.net/Lenovo-Legion-7a-Gen-11-with-powerful-AMD-APU-and-165-Hz-OLED-gets-700-discount.1446811.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-Legion-7a-Gen-11-with-powerful-AMD-APU-and-165-Hz-OLED-gets-700-discount.1446811.0.html"
     },
     {
       "id": 4862,
