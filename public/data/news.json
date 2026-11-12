@@ -1,7 +1,665 @@
 {
-  "updatedAt": "2026-11-11",
-  "total": 5172,
+  "updatedAt": "2026-11-12",
+  "total": 5224,
   "list": [
+    {
+      "id": 5173,
+      "title": "微软AI超分辨率技术Auto SR正式登陆ROG Xbox Ally掌机",
+      "summary": "微软AI驱动的超分辨率技术Auto SR现已正式登陆ROG Xbox Ally掌机，为该设备提供AI超分辨率功能。根据微软DirectX开发者博客的公告，Auto SR已结束预览阶段，正式支持ROG Xbox Ally X与Ally X20两款机型，并扩展至部分搭载AMD锐龙处理器的Windows Copilot+ PC。 阅读全文",
+      "content": "<p>微软AI驱动的超分辨率技术Auto SR现已正式登陆ROG Xbox Ally掌机，为该设备提供AI超分辨率功能。根据微软DirectX开发者博客的公告，Auto SR已结束预览阶段，正式支持ROG Xbox Ally X与Ally X20两款机型，并扩展至部分搭载AMD锐龙处理器的Windows Copilot+ PC。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586062.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586062.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586062.htm"
+    },
+    {
+      "id": 5174,
+      "title": "马斯克回应Anthropic或不续租SpaceX算力：乐意收回，但实际情况可能相反",
+      "summary": "针对Anthropic可能在2027年年中后停止租用SpaceX算力的消息，SpaceX CEO埃隆·马斯克在X平台回应称，公司乐意收回相关算力，但他认为实际情况可能恰恰相反。 阅读全文",
+      "content": "<p><strong>针对Anthropic可能在2027年年中后停止租用SpaceX算力的消息，SpaceX CEO埃隆·马斯克在X平台回应称，公司乐意收回相关算力，但他认为实际情况可能恰恰相反。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586050.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586050.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586050.htm"
+    },
+    {
+      "id": 5175,
+      "title": "英伟达CUDA护城河迎来新挑战 Claude仅用3天就让模型适配AMD AI加速器",
+      "summary": "Anthropic 在 IPO 路演中披露，该公司使用 Claude Mythos Preview 协助适配 AMD AI 加速器。A 社称 Claude AI 仅用 3 天就让内部模型在 AMD MI355X 上完成提示词处理，并达到可用的性能水平。 阅读全文",
+      "content": "<p>Anthropic 在 IPO 路演中披露，该公司使用 Claude Mythos Preview 协助适配 AMD AI 加速器。A 社称 Claude AI 仅用 3 天就让内部模型在 AMD MI355X 上完成提示词处理，并达到可用的性能水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586028.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586028.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586028.htm"
+    },
+    {
+      "id": 5176,
+      "title": "AI数据中心抢光纤导致俄乌战场上的无人机光纤采购价格暴涨10倍",
+      "summary": "AI 数据中心建设正在推高全球光纤需求，影响范围已经延伸到无人机供应链。在俄乌战场目前双方都大量使用无人机作战，而为避免无线通信被干扰，这些无人机通常都使用光纤绞盘作为主要通信方式。 阅读全文",
+      "content": "<p>AI 数据中心建设正在推高全球光纤需求，影响范围已经延伸到无人机供应链。在俄乌战场目前双方都大量使用无人机作战，而为避免无线通信被干扰，这些无人机通常都使用光纤绞盘作为主要通信方式。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586024.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586024.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586024.htm"
+    },
+    {
+      "id": 5177,
+      "title": "AMD显卡SSD异常写入漏洞出现民间解决方案 开源工具率先提供临时修复",
+      "summary": "在AMD官方修复程序发布前，围绕Radeon显卡驱动程序异常写入SSD的问题，社区开发者已经推出了一种临时解决方案，为受影响用户提供了一条无需关闭关键驱动服务的替代路径。 阅读全文",
+      "content": "<p>在AMD官方修复程序发布前，围绕Radeon显卡驱动程序异常写入SSD的问题，社区开发者已经推出了一种临时解决方案，为受影响用户提供了一条无需关闭关键驱动服务的替代路径。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586014.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586014.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586014.htm"
+    },
+    {
+      "id": 5178,
+      "title": "微软承认Outlook误拦截正常邮件 部分用户数日未能收到邮件且无法恢复",
+      "summary": "微软近日确认，旗下Outlook邮件服务此前更新的一项垃圾邮件过滤规则出现错误，导致大量合法邮件被系统误判并直接拒收。受影响用户可能在过去数天内错过了重要邮件，而这些被拒绝的邮件由于未能成功送达服务器，现已无法找回。 阅读全文",
+      "content": "<p>微软近日确认，旗下Outlook邮件服务此前更新的一项垃圾邮件过滤规则出现错误，导致大量合法邮件被系统误判并直接拒收。受影响用户可能在过去数天内错过了重要邮件，而这些被拒绝的邮件由于未能成功送达服务器，现已无法找回。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586012.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586012.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586012.htm"
+    },
+    {
+      "id": 5180,
+      "title": "腾讯计划将半数员工部署到 AI 原生业务",
+      "summary": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大航海时代”，他将腾讯的核心业务比作陆军，将新的 AI 业务比作海军。马化腾称，50% 的人要像陆军一样，守土有责，通过提效去做好现有的核心业务；另外 50% 的人像海军一样，拥抱浪潮，探索 AI Native、拓展新的发展空间。近期有传言称腾讯计划裁员50%，对此知情人士称，公司资源适应 AI 时代的重新调度，可能是所",
+      "content": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大航海时代”，他将腾讯的核心业务比作陆军，将新的 AI 业务比作海军。马化腾称，50% 的人要像陆军一样，守土有责，通过提效去做好现有的核心业务；另外 50% 的人像海军一样，拥抱浪潮，探索 AI Native、拓展新的发展空间。近期有传言称腾讯计划裁员50%，对此知情人士称，公司资源适应 AI 时代的重新调度，可能是所谓“裁员 50%”的谣言出处，该说法完全不属实。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85865",
+      "source": "Solidot",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85865"
+    },
+    {
+      "id": 5181,
+      "title": "罗技给所有员工放假一天玩 GTA 6",
+      "summary": "游戏外设制造商罗技推出了罗技游戏日（Logi Game Day），为公司全部 7000 名员工提供了额外的一天带薪假期，让他们能在 11 月 19 日《GTA 6》发布时尽情畅玩。员工和实习生可在未来一年内的任意时间使用这一假期。罗技认为应当摒弃玩游戏是浪费时间的旧观念。作为一家生产游戏外设的企业，罗技持有这种观点并不令人意外，但首席执行官 Hanneke Faber 指出，公司观察到“在某一领域的投入，能促进在另一领域的表现”。罗技希望通过让员工玩游戏，带动生产力的提升。",
+      "content": "游戏外设制造商罗技推出了罗技游戏日（Logi Game Day），为公司全部 7000 名员工提供了额外的一天带薪假期，让他们能在 11 月 19 日《GTA 6》发布时尽情畅玩。员工和实习生可在未来一年内的任意时间使用这一假期。罗技认为应当摒弃玩游戏是浪费时间的旧观念。作为一家生产游戏外设的企业，罗技持有这种观点并不令人意外，但首席执行官 Hanneke Faber 指出，公司观察到“在某一领域的投入，能促进在另一领域的表现”。罗技希望通过让员工玩游戏，带动生产力的提升。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85864",
+      "source": "Solidot",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85864"
+    },
+    {
+      "id": 5182,
+      "title": "从呼叫中心职员到慧与科技 CEO，安东尼奥 · 内里分享职场晋升心得",
+      "summary": "IT之家 11 月 12 日消息，慧与 CEO 安东尼奥 · 内里认为，想在职场上获得更多机会，首先要做到一件最基本的事：说到做到。 内里接受《商业内幕》采访时指出，职场发展的第一步，就是兑现自己的承诺。对于如何获得上司赏识、实现职业晋升，内里颇有心得。 20 世纪 90 年代中期，内里加入当时的惠普，从阿姆斯特丹一家呼叫中心的岗位做起，此后一路晋升，于 2018 年成为慧与 CEO。 内里建议，员工除了做好本职工作，还应主动向上司说明未来三到五年的职业规划。“要督促上司履行",
+      "content": "<p data-vmark=\"e853\">IT之家 11 月 12 日消息，慧与 CEO 安东尼奥 · 内里认为，想在职场上获得更多机会，首先要做到一件最基本的事：说到做到。</p><p data-vmark=\"67ea\">内里接受《商业内幕》采访时指出，职场发展的第一步，就是兑现自己的承诺。对于如何获得上司赏识、实现职业晋升，内里颇有心得。</p><p data-vmark=\"3cd2\">20 世纪 90 年代中期，内里加入当时的惠普，从阿姆斯特丹一家呼叫中心的岗位做起，此后一路晋升，于 <strong>2018 年成为慧与 CEO</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0ccd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e9be997c-064e-4096-b75e-546fbaf520e2.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"3ff5\" class=\"no-alt-img\"></p><p data-vmark=\"33e9\">内里建议，员工除了做好本职工作，还应主动向上司<strong>说明未来三到五年的职业规划</strong>。“要督促上司履行职责，但更重要的是，也要对自己负责。职业发展需要双方共同努力。”</p><p data-vmark=\"608f\">想要获得晋升，还应该主动争取能够锻炼自身能力的机会，扩大在公司内部的人脉，与同事和其他管理者建立联系。这样既能增加自己的曝光度，也有望在新的发展机会出现时进入公司的考虑范围。</p><p data-vmark=\"d64f\">内里还提醒，面对机会要有所选择。“不要过度表现，但也不能一直默默无闻。该说话的时候就说话，其他时候多听听别人的意见。不过，说到底，最重要的还是说到做到。”</p><p data-vmark=\"a5fb\">IT之家从报道中获悉，沃尔玛首席人力官唐娜 · 莫里斯也提出过类似建议。今年 10 月，她接受《商业内幕》采访时提到，自己在考虑晋升人选时主要看重两项特质，其中之一就是能否把本职工作做好。“晋升速度快的员工非常重视把眼下的工作做到最好，甚至比其他事情还要重视”。</p><p data-vmark=\"7f30\">她认为，另一项重要特质是<strong>能够证明自己有能力承担更多工作</strong>。“要做一个愿意承担额外工作的人，而不只是完成分内的事。面对新想法、新项目，要主动争取参与，或者自愿贡献自己的力量。”</p>",
+      "link": "https://www.ithome.com/1/026/356.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/356.htm"
+    },
+    {
+      "id": 5183,
+      "title": "华硕 2026 财年前三季度归母净利润 504.76 亿新台币，同比增长 52.25%",
+      "summary": "IT之家 11 月 12 日消息，华硕今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入：7,424.31 亿新台币（IT之家注：现汇率约合 1,505.65 亿元人民币），同比增长 38.52% 毛利润：1,206.93 亿新台币（现汇率约合 244.77 亿元人民币），同比增长约 52.26% 毛利率：16.26%，同比提高约 1.47 个百分点 归母净利润",
+      "content": "<p data-vmark=\"0000\">IT之家 11 月 12 日消息，华硕今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告：</p><h3 data-vmark=\"b4b8\">2026 年前三季度</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c980\"><strong>营业总收入</strong>：7,424.31 亿新台币<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,505.65 亿元人民币）</span>，同比增长 38.52%</p></li><li><p data-vmark=\"e371\"><strong>毛利润</strong>：1,206.93 亿新台币<span class=\"exch-money-value\">（现汇率约合 244.77 亿元人民币）</span>，同比增长约 52.26%</p></li><li><p data-vmark=\"2692\"><strong>毛利率</strong>：16.26%，同比提高约 1.47 个百分点</p></li><li><p data-vmark=\"d4fa\"><strong>归母净利润</strong>：504.76 亿新台币<span class=\"exch-money-value\">（现汇率约合 102.37 亿元人民币）</span>，同比增长约 52.25%</p></li><li><p data-vmark=\"dd8d\"><strong>基本每股收益</strong>：67.96 新台币<span class=\"exch-money-value\">（现汇率约合 13.8 元人民币）</span>，同比增长约 52.27%</p></li></ul><h3 data-vmark=\"47d0\">2026 年第三季度品牌业务</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e13c\"><strong>营业收入</strong>：2,587.88 亿新台币<span class=\"exch-money-value\">（现汇率约合 524.82 亿元人民币）</span>，同比增长 36%，环比增长 7%</p></li><li><p data-vmark=\"20a9\"><strong>毛利润</strong>：412.05 亿新台币<span class=\"exch-money-value\">（现汇率约合 83.56 亿元人民币）</span>，同比增长 68%</p></li><li><p data-vmark=\"ba98\"><strong>毛利率</strong>：15.9%，同比提高 3.0 个百分点</p></li><li><p data-vmark=\"956b\"><strong>营业利润</strong>：219.64 亿新台币<span class=\"exch-money-value\">（现汇率约合 44.54 亿元人民币）</span>，同比增长 161%</p></li><li><p data-vmark=\"b4c1\"><strong>营业利润率</strong>：8.5%，同比提高 4.1 个百分点</p></li><li><p data-vmark=\"81bb\"><strong>税后净利润</strong>：216.31 亿新台币<span class=\"exch-money-value\">（现汇率约合 43.87 亿元人民币）</span>，同比增长 105%</p></li><li><p data-vmark=\"63f1\"><strong>每股收益</strong>：29.10 新台币<span class=\"exch-money-value\">（现汇率约合 5.9 元人民币）</span></p></li><li><p data-vmark=\"85a0\"><strong>资产负债率</strong>：64.88%，较第二季度末提高约 2.40 个百分点</p></li></ul><blockquote data-ai-tip=\"IT之家提示：解读内容由 Doubao Seed 2.1 lite 大模型生成，仅供参考。\" class=\"ai-point\"><h3 data-vmark=\"0015\">AI 解读</h3><h3 data-vmark=\"a98d\">第三季度业绩亮点</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"154c\"><strong>品牌业务营收与利润创纪录</strong>：第三季度品牌业务营收 2,587.88 亿新台币<span class=\"exch-money-value\">（现汇率约合 524.82 亿元人民币）</span>，同比增长 36%；营业利润 219.64 亿新台币<span class=\"exch-money-value\">（现汇率约合 44.54 亿元人民币）</span>，同比增长 161%，营业利润率达到 8.5%。</p></li><li><p data-vmark=\"779c\"><strong>服务器业务保持高速增长</strong>：第三季度服务器收入同比增长超过 100%，通用型服务器收入同比增长超过 80%。部分客户数据中心建设进度延迟，导致部分服务器订单收入递延至第四季度确认。</p></li><li><p data-vmark=\"02b5\"><strong>PC 业务增长及产品结构改善</strong>：第三季度 PC 收入同比增长超过 25%，系统事业群高价值产品收入占比超过 65%；商用 PC 出货量同比增长超过 30%，AI PC 收入同比增长超过 100%。</p></li><li><p data-vmark=\"90c3\"><strong>开放平台业务保持增长</strong>：开放平台事业群第三季度营收同比增长约 5% 至 10%；其中电竞外设业务收入增长超过 60%，工作站收入增长超过 50%。</p></li><li><p data-vmark=\"eee9\"><strong>月营收继续增长</strong>：9 月集团合并营收 972.43 亿新台币<span class=\"exch-money-value\">（现汇率约合 197.21 亿元人民币）</span>，10 月增至 1,076.20 亿新台币<span class=\"exch-money-value\">（现汇率约合 218.25 亿元人民币）</span>，环比增长约 10.7%，同比增长约 62.2%。</p></li></ul><h3 data-vmark=\"9a89\">AI 基础设施与产品布局</h3><p data-vmark=\"5874\">华硕在 2026 年 9 月首尔全球 AI Tech 峰会展示基于 NVIDIA Vera Rubin NVL72 平台的 ASUS AI POD XA VR721-E3 机架级系统。按照华硕官方介绍，该系统每瓦性能较上一代提高 10 倍。</p><p data-vmark=\"86e4\">公司还在 OCP 2026 展示基于 NVIDIA MGX 平台、搭载 NVIDIA Vera CPU 的 XA P2N-E2 服务器，面向代理式 AI 等应用。</p><p data-vmark=\"1d86\">华硕持续拓展 AI 服务器、工作站、边缘 AI 及企业计算基础设施业务，并计划加强关键客户合作、提供软硬件整合及部署服务。</p><h3 data-vmark=\"eb9b\">第四季度业绩展望</h3><p data-vmark=\"7993\">华硕预计 2026 年第四季度：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8cbc\"><strong>PC 业务收入</strong>：环比下降约 15%，同比增长约 15%。</p></li><li><p data-vmark=\"22a9\"><strong>零组件业务收入</strong>：环比下降约 10%，同比下降约 15%。</p></li><li><p data-vmark=\"2618\"><strong>服务器业务收入</strong>：环比增长约 100%，同比增长约 280%。</p></li></ul><p data-vmark=\"b9d5\">公司维持 2026 年全年服务器业务收入至少同比增长 150% 的目标。</p><h3 data-vmark=\"0b96\">财务结构及后续关注点</h3><p data-vmark=\"8db4\">按照 2026 年第三季度品牌业务财务数据，华硕期末资产达到 10,009 亿新台币<span class=\"exch-money-value\">（现汇率约合 2,029.83 亿元人民币）</span>，总负债 6,494.30 亿新台币<span class=\"exch-money-value\">（现汇率约合 1,317.04 亿元人民币）</span>，资产负债率约 64.88%。</p><p data-vmark=\"4df6\">同期存货达到 4,638.86 亿新台币<span class=\"exch-money-value\">（现汇率约合 940.76 亿元人民币）</span>，较第二季度末增长约 36%；银行借款及债券合计 2,205.13 亿新台币<span class=\"exch-money-value\">（现汇率约合 447.2 亿元人民币）</span>，环比增长 150%。</p><p data-vmark=\"0966\">华硕解释，部分库存增长来自服务器出货递延及关键零组件战略备料。后续需要关注第四季度订单交付、库存周转、融资成本及经营现金回收表现。</p></blockquote><h3 data-vmark=\"0019\">相关阅读：</h3><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"0011\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/026/289.htm\">微星 2026 年 Q1~Q3 归母净利润 104.49 亿新台币，同比增长 153.9%</a>》</p></li><li><p data-vmark=\"0012\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/988/860.htm\">华硕 2026 财年半年报归母净利润 288.45 亿新台币</a>》</p></li><li><p data-vmark=\"0013\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/949/441.htm\">华硕 2026 财年第一财季归母净利润 97.97 亿元新台币</a>》</p></li></ul><p data-vmark=\"0014\" class=\"ad-tips \"><span class=\"ai-tip-name \">风险提示：</span>本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。</p>",
+      "link": "https://www.ithome.com/1/026/346.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/346.htm"
+    },
+    {
+      "id": 5184,
+      "title": "月之暗面徐天天：AI 迭代速度将继续加快",
+      "summary": "IT之家 11 月 12 日消息，据新浪财经报道，在今日“以发展应变局”为主题的第十七届财新峰会上，月之暗面金融行业与生态负责人徐天天发表讲话。 针对“AI 迭代速度是否还会加快”问题，徐天天表示，当前整个 AI 智能远远未达到上限。 她指出，这背后有三条增长曲线：其一，预训练算力曲线；其二，后训练与推理端曲线，AI 已从快思考转变为慢思考，展现思考链路；其三，智能体设计曲线，智能体设计越来越复杂，将导致智能上限提高。这三条曲线都在增长，三者叠加，导致 AI 迭代速度加快。 ",
+      "content": "<p data-vmark=\"1c53\">IT之家 11 月 12 日消息，据新浪财经报道，在今日“以发展应变局”为主题的第十七届财新峰会上，月之暗面金融行业与生态负责人徐天天发表讲话。</p><p data-vmark=\"ca1a\">针对“AI 迭代速度是否还会加快”问题，徐天天表示，<strong>当前整个 AI 智能远远未达到上限</strong>。</p><p data-vmark=\"4510\">她指出，这背后有三条增长曲线：其一，预训练算力曲线；其二，后训练与推理端曲线，AI 已从快思考转变为慢思考，展现思考链路；其三，智能体设计曲线，智能体设计越来越复杂，将导致智能上限提高。这三条曲线都在增长，三者叠加，<strong>导致 AI 迭代速度加快</strong>。</p><p data-vmark=\"4ef0\">IT之家注意到，徐天天指出，AI 智能体独自能完成的任务时长还在增长，也正在加速。这意味着，<strong>AI 从最初的“打杂”工作，转变为切入更深的工作流程中</strong>。</p><p data-vmark=\"0b6b\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"a80f\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/022/490.htm\">月之暗面 2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/353.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/353.htm"
+    },
+    {
+      "id": 5185,
+      "title": "飞利浦弈威“27M4N8500V”27 英寸显示器发售：2K 360Hz QD-OLED，3499 元",
+      "summary": "IT之家 11 月 12 日消息，飞利浦旗下弈威“27M4N8500V”27 英寸显示器现已在京东发售，定价为 3499 元。 京东飞利浦“27M4N8500V”显示器 3499 元直达链接 IT之家获悉，这款显示器搭载全新一代 AI Sensor 智能感应器，支持人体位移和环境光变化双重自适应；两枚快捷键可一键切换专属配置文件；采用石墨烯 + 铝制散热模组。 这款显示器搭载了一块 26.5 英寸 2K（2560×1440）360Hz QD-OLED 屏幕，HDR 峰值亮度 ",
+      "content": "<p data-vmark=\"b7e9\">IT之家 11 月 12 日消息，飞利浦旗下弈威“27M4N8500V”27 英寸显示器现已在京东发售，定价为 3499 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o6gy21B\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oDg3T6a\" data-iosurl=\"https://u.jd.com/oagqAiw\" data-androidurl=\"https://u.jd.com/oDgwibC\" data-hosnexturl=\"https://u.jd.com/orgu7qq\" data-hosurl=\"https://u.jd.com/o6gGUyG\" data-uwpurl=\"https://u.jd.com/o1gatDv\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foag12td%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/ogg8GEV\" data-lpwxurl=\"https://u.jd.com/oggQtyw\"   data-ncid=\"270985\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/583407/19/1148/101016/6af27478Fa2ba7d56/00835a05a0a87a09.jpg\" w=\"1440\" h=\"1440\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">飞利浦“27M4N8500V”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 3499 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"ade7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8da9eef1-12bd-410e-965c-348de08595ab.jpg\" w=\"1440\" h=\"2276\" data-mpos=\"2,2\" data-weibo=\"0\"  data-vmark=\"0ced\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"6619\">IT之家获悉，这款显示器搭载全新一代 AI Sensor 智能感应器，支持人体位移和环境光变化双重自适应；两枚快捷键可一键切换专属配置文件；采用石墨烯 + 铝制散热模组。</p><p data-vmark=\"88cd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cb57675c-e194-4358-a48e-04c043fe572e.png\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"6445\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"0928\">这款显示器搭载了一块 26.5 英寸 2K（2560×1440）360Hz QD-OLED 屏幕，HDR 峰值亮度 1000nits；色域覆盖 99% DCI-P3、98% AdobeRGB，色准 ΔE &lt;2。</p><p data-vmark=\"50e4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6e2b124f-3c9f-4afb-9e73-76fc5b9a6bd4.png\" w=\"1440\" h=\"2962\" data-weibo=\"2\" data-vmark=\"6823\" class=\"nowebp no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/026/350.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/350.htm"
+    },
+    {
+      "id": 5186,
+      "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+      "summary": "IT之家 11 月 12 日消息，据路透社今天（12 日）报道，摩根大通最新预测显示，随着人形机器人从技术展示走向商业化应用，美国人形机器人产量到 2030 年将达到 30 万至 40 万台，2035 年进一步增至约 150 万台。 劳动力短缺、使用成本下降和产能扩大，正推动制造、物流和仓储企业采用人形机器人，以替代重复性人工劳动。 不过，人形机器人的大规模应用仍面临硬件、AI 训练数据、算力和产能等方面的限制。除特斯拉外，美国大多数厂商的年产量目标仅为 1 万至 3 万台。",
+      "content": "<p data-vmark=\"20ea\">IT之家 11 月 12 日消息，据路透社今天（12 日）报道，摩根大通最新预测显示，随着人形机器人从技术展示走向商业化应用，美国人形机器人产量<strong>到 2030 年将达到 30 万至 40 万台</strong>，2035 年进一步增至约 150 万台。</p><p data-vmark=\"0805\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/95b7910e-df25-40c3-8787-bcb5ab2266c4.jpg?x-bce-process=image/format,f_auto\" w=\"515\" h=\"388\" data-vmark=\"e739\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"43fc\">劳动力短缺、使用成本下降和产能扩大，正推动制造、物流和仓储企业采用人形机器人，以替代重复性人工劳动。</p><p data-vmark=\"e994\">不过，人形机器人的大规模应用仍面临<strong>硬件、AI 训练数据、算力和产能</strong>等方面的限制。除特斯拉外，美国大多数厂商的年产量目标<strong>仅为 1 万至 3 万台</strong>。</p><p data-vmark=\"fd68\">摩根大通估计，人形机器人的使用成本已逐渐接近人工成本。如果安排机器人多班次作业，每家客户每年可节省约 10 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 66.9 万元人民币）</span>。然而在短期内，行业发展仍受制于供应能力。<strong>灵巧手、执行器、机器人“大脑”和产能</strong>是几大主要瓶颈。</p><p data-vmark=\"8bb2\">相比整机制造商，摩根大通认为零部件供应商在短期内更具投资机会，预计到 2035 年，执行器、电机、视觉系统等核心零部件的市场规模将<strong>接近 300 亿美元</strong><span class=\"exch-money-value \">（现汇率约合 2,005.74 亿元人民币）</span>。</p><p data-vmark=\"4cf7\">整机厂商方面，摩根大通重点提及特斯拉的 Optimus、Agility Robotics 的 Digit、波士顿动力的 Atlas、Figure AI 的 Figure 系列机器人，以及 Apptronik 的 Apollo，认为这些产品背后的企业是美国人形机器人行业的主要参与者。</p><p data-vmark=\"a88b\">零部件供应商方面，摩根大通看好铁姆肯、ROBOTIS、绿的谐波、奥比中光和康耐视。</p>",
+      "link": "https://www.ithome.com/1/026/334.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/334.htm"
+    },
+    {
+      "id": 5187,
+      "title": "联想拯救者公布游戏《燕云十六声》定制版 Y700 五代平板电脑",
+      "summary": "IT之家 11 月 12 日消息，联想 (Lenovo) 拯救者 (Legion) 官方刚刚确认将同游戏《燕云十六声》展开联动，携手推出联想 AI 平板拯救者 Y700 五代燕云定制版。 IT之家注意到，这款联名定制设备似乎拥有独特后盖，装饰以叶脉、扇面，扇面上则有文字和花卉点缀。 Y700 五代平板电脑发布于 2026 年 3 月，基于高通第 5 代骁龙 8 至尊版移动平台，配备 8.8\" 3040×1904 165Hz 屏幕，拥有 2640Hz 瞬时采样率、480Hz 多",
+      "content": "<p data-vmark=\"3e66\">IT之家 11 月 12 日消息，联想 (Lenovo) 拯救者 (Legion) 官方刚刚确认将同游戏《燕云十六声》展开联动，<strong>携手推出联想 AI 平板拯救者 Y700 五代燕云定制版</strong>。</p><p data-vmark=\"329b\">IT之家注意到，这款联名定制设备似乎拥有独特后盖，装饰以叶脉、扇面，扇面上则有文字和花卉点缀。</p><p data-vmark=\"9d53\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/94e5ae12-55a2-46e4-8295-b5c3fc499612.png\" w=\"1440\" h=\"810\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"2d6a\"></p><p data-vmark=\"7a1a\">Y700 五代平板电脑发布于 2026 年 3 月，基于高通第 5 代骁龙 8 至尊版移动平台，配备 8.8\" 3040×1904 165Hz 屏幕，拥有 2640Hz 瞬时采样率、480Hz 多指采样率。</p><p data-vmark=\"2ed3\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"a625\">《<a href=\"https://www.ithome.com/0/930/389.htm\" target=\"_blank\" title=\"联想 AI 平板拯救者 Y700 五代发布：骁龙 8 Elite Gen5 + 8.8 英寸 165Hz 电竞屏\">联想 AI 平板拯救者 Y700 五代发布：骁龙 8 Elite Gen5 + 8.8 英寸 165Hz 电竞屏</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/302.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/302.htm"
+    },
+    {
+      "id": 5188,
+      "title": "“行业 AI 梦工厂”首款昇腾原生世界模型，华为云 CloudRobo 具身世界模型发布会定档 11 月 16 日",
+      "summary": "IT之家 11 月 12 日消息，华为云今日宣布，华为云 CloudRobo 具身世界模型发布会将于 11 月 16 日 14:00-15:30 在线上直播。 海报显示，届时将发布“行业 AI 梦工厂”首款昇腾原生世界模型，具体名称为 CloudRobo-WM1.2。 IT之家注：行业 AI 梦工厂是华为推出的行业 AI 平台，设计用于降低各行业应用 AI 的门槛。 2026 年 2 月 1 日，华为云发布“行业 AI 梦工厂”首个落地专区 —— 智慧医疗专区，并于 2026",
+      "content": "<p data-vmark=\"c845\">IT之家 11 月 12 日消息，华为云今日宣布，华为云 CloudRobo 具身世界模型发布会将于 11 月 16 日 14:00-15:30 在线上直播。</p><p data-vmark=\"cc43\">海报显示，届时将发布“行业 AI 梦工厂”首款昇腾原生世界模型，具体名称为 <strong>CloudRobo-WM1.2</strong>。</p><p data-vmark=\"6384\">IT之家注：行业 AI 梦工厂是华为推出的行业 AI 平台，设计用于降低各行业应用 AI 的门槛。</p><p data-vmark=\"2dd9\">2026 年 2 月 1 日，华为云发布“行业 AI 梦工厂”首个落地专区 —— 智慧医疗专区，并于 2026 年 6 月 5 日在华为云 INSPIRE 创想者大会上正式上线智慧医疗、具身智能、智能制造、科学计算四大专区。</p><p style=\"text-align: center;\" data-vmark=\"95da\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f7276455-8e38-42ef-8af8-d86aff2abeeb.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1577\" data-weibo=\"0\"  data-vmark=\"4e07\" class=\"no-alt-img\"></p><p data-vmark=\"23a5\">2025 年 6 月，<a target=\"_blank\" href=\"https://www.ithome.com/0/862/448.htm\">华为云发布 CloudRobo 具身智能平台</a>。华为常务董事、华为云计算 BU 董事长强调，华为云不做机器人本体，把机器人本体交给伙伴。<strong>华为云的目标是让一切联网的本体都成为具身智能机器人</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8c99\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/976deeb7-bd98-4db4-ad91-b21b15310281.jpg?x-bce-process=image/format,f_auto\" w=\"876\" h=\"292\" data-weibo=\"1\" data-vmark=\"4a5f\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"a83b\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5174\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/026/288.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/288.htm"
+    },
+    {
+      "id": 5189,
+      "title": "迪拜富豪萨基瓦尼：光是投资 OpenAI、SpaceX 和 Anthropic，我们就赚了几十亿美元",
+      "summary": "IT之家 11 月 12 日消息，据彭博社今天（12 日）报道，迪拜富豪、达马克集团创始人侯赛因 · 萨基瓦尼预计，投资 Anthropic 等 AI 公司有望带来数十亿美元收益。 近年来押注科技巨头的部分投资者，正从中获得丰厚回报。萨基瓦尼在彭博迪拜投资论坛上说：“光是 OpenAI、SpaceX 和 Anthropic 这三家公司，我们就赚了数十亿美元。” 达马克集团以迪拜房地产业务起家，近年来逐步将投资范围扩大到科技和数据中心领域。此前消息称，Anthropic 的 I",
+      "content": "<p data-vmark=\"984e\">IT之家 11 月 12 日消息，据彭博社今天（12 日）报道，迪拜富豪、达马克集团创始人侯赛因 · 萨基瓦尼预计，投资 Anthropic 等 AI 公司有望带来数十亿美元收益。</p><p data-vmark=\"74a0\">近年来押注科技巨头的部分投资者，正从中获得丰厚回报。萨基瓦尼在彭博迪拜投资论坛上说：“光是 OpenAI、SpaceX 和 Anthropic 这三家公司，<strong>我们就赚了数十亿美元</strong>。”</p><p data-vmark=\"b22c\">达马克集团以迪拜房地产业务起家，近年来逐步将投资范围扩大到科技和数据中心领域。此前消息称，Anthropic 的 IPO 获得数倍超额认购，市场对这场有望成为史上最大规模 IPO 的交易热情持续高涨。</p><p data-vmark=\"11fd\">迪拜房地产市场多年来的繁荣，也让萨基瓦尼身家不断上涨。彭博亿万富豪指数显示，他的净资产超过 130 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 869.15 亿元人民币）</span>。不过，受伊朗战争影响，近几个月迪拜房地产市场需求有所放缓。</p><p data-vmark=\"417f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/10/4a69b0e1-e67d-41db-8ef8-6057568dfcee.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11\" w=\"1440\" h=\"1080\" data-mpos=\"2,0\"  data-ai=\"2\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"ae40\"></p><p data-vmark=\"9eca\">萨基瓦尼等投资者虽然从科技投资中赚取了可观利润，<strong>但市场对 AI 公司估值过高的担忧也在升温</strong>。萨基瓦尼承认存在一定风险，认为 AI 仍会持续创造收入，但市场不排除出现回调。</p><p data-vmark=\"c3fa\">同样出席论坛的黑石集团私人财富业务全球 COO 法尔哈德 · 卡里姆认为，<strong>数字基础设施和物流领域</strong>蕴藏着尤其突出的投资机会，未来算力需求将大幅增长。“本地区对 AI 及 AI 基础设施的投入和承诺非常令人振奋。”</p><p data-vmark=\"8025\">相比之下，太平洋投资管理公司对全球数字基础设施的扩张速度更为谨慎。该公司董事总经理兼总裁克里斯蒂安 · 斯特拉克预计，数字基础设施贷款的增长将逐渐放缓。他认为，即使资金继续涌入，市场对投资的需求也不可能年年翻倍。</p>",
+      "link": "https://www.ithome.com/1/026/286.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/286.htm"
+    },
+    {
+      "id": 5190,
+      "title": "韩国公布端侧 AI 半导体路线图，计划到 2030 年完成 10 款芯片开发验证",
+      "summary": "IT之家 11 月 12 日消息，韩国产业通商资源部当地时间今日公布了该国端侧 AI 半导体技术开发项目的路线图，目标通过这一总额 8,002 亿韩元（IT之家注：现汇率约合 39.93 亿元人民币）的项目到 2030 年完成 10 款 AI 芯片的开发和验证。 这十款芯片中 3 款面向智能家电，自动驾驶、协作机器人、类人机器人、农业机器人、无人机领域各一款，还有先进制程和极端场景项目。 图源：Pexels 根据这一路线图，三星电子等晶圆代工企业将优先向本国项目分配 MPW（",
+      "content": "<p data-vmark=\"e34d\">IT之家 11 月 12 日消息，韩国产业通商资源部当地时间今日公布了该国端侧 AI 半导体技术开发项目的路线图，目标通过这一总额 8,002 亿韩元<span class=\"exch-money-value \">（IT之家注：现汇率约合 39.93 亿元人民币）</span>的项目<strong>到 2030 年完成 10 款 AI 芯片的开发和验证</strong>。</p><p data-vmark=\"235e\">这十款芯片中 3 款面向智能家电，自动驾驶、协作机器人、类人机器人、农业机器人、无人机领域各一款，还有先进制程和极端场景项目。</p><p style=\"text-align: center;\" data-vmark=\"eabe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dc53e77c-dfa7-41ae-b765-b0c81972ffb9.jpg?x-bce-process=image/format,f_auto\" w=\"940\" h=\"627\" data-weibo=\"0\" data-vmark=\"c37d\" class=\"no-alt-img\"></p><figcaption>图源：Pexels</figcaption><p data-vmark=\"3f7e\">根据这一路线图，三星电子等晶圆代工企业将<strong>优先向本国项目分配 MPW（多用途晶圆）等测试流片机会资源</strong>，<strong>IP 企业将通过灵活的方式降低韩国芯片设计者的 IP 使用成本</strong>。此外，芯片客户将积极地参与研发进程。</p>",
+      "link": "https://www.ithome.com/1/026/284.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/284.htm"
+    },
+    {
+      "id": 5191,
+      "title": "大唐推出基于海光 1400 系列处理器的 FX1400 迷你主机",
+      "summary": "IT之家 11 月 12 日消息，大唐计算机 (Maxtang) 今日宣布推出基于海光 1400 新品处理器的 FX1400 迷你主机。其内置 M.2 2280 PCIe 插槽，支持 NVMe SSD 存储或 M.2 外形规格的 AI 加速卡；工作温度 -10~+50℃。 FX1400 三维 208×190×45 (mm)，配备 4 核 3.0GHz 15W 处理器，拥有 1 个 DDR4 SO-DIMM 内存插槽、1 个 M.2 SATA SSD 盘位，可选板载 eMMC ",
+      "content": "<p data-vmark=\"d595\">IT之家 11 月 12 日消息，大唐计算机 (Maxtang) 今日宣布推出基于<a target=\"_blank\" href=\"https://www.ithome.com/1/021/239.htm\">海光 1400 新品处理器</a>的 FX1400 迷你主机。其内置 M.2 2280 PCIe 插槽，<strong>支持 NVMe SSD 存储或 M.2 外形规格的 AI 加速卡</strong>；工作温度 -10~+50℃。</p><p style=\"text-align: center;\" data-vmark=\"cc62\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/89286b41-3aec-465a-8e00-60a7e250b30a.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1620\" data-weibo=\"0\" data-vmark=\"a83b\" class=\"no-alt-img\"></p><p data-vmark=\"48df\">FX1400 三维 208×190×45 (mm)，<strong>配备 4 核 3.0GHz 15W 处理器</strong>，拥有 1 个 DDR4 SO-DIMM 内存插槽、1 个 M.2 SATA SSD 盘位，可选板载 eMMC 5.0，提供 1 个 Mini PCIe 插槽。</p><p data-vmark=\"1ab3\">而在外部，这一迷你主机提供 6 个 USB-A 接口、2 个 RJ-45 网口，支持 HDMI 与 VGA 视频信号输出，前后均设有音频插孔。</p><p style=\"text-align: center;\" data-vmark=\"9cc6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c0ecc33d-666a-466a-840f-bb46c7f59e42.png\" w=\"1080\" h=\"546\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"025b\"></p>",
+      "link": "https://www.ithome.com/1/026/278.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/278.htm"
+    },
+    {
+      "id": 5192,
+      "title": "鸿海董事长刘扬伟：2027 年芯片、内存及部分关键零部件供需吃紧将持续",
+      "summary": "IT之家 11 月 12 日消息，据台媒经济日报，鸿海董事长刘扬伟今日下午表示，2027 年 AI 整体需求预期仍将大于供给，供需吃紧将持续。他预计未来 3 到 5 年，鸿海在 AI 相关云端产品业绩占比，将提高至超过 6 成。 刘扬伟表示，目前芯片、内存及部分关键零部件供应吃紧，是整体产业共同面临的挑战，虽然随着新产能陆续开出，供应瓶颈将逐渐缓解，但展望明年，整体需求预期仍将大于供给，供需吃紧的情况可能还会持续一段时间。 展望明年市场情况，刘扬伟表示，全球产业将持续呈现 K",
+      "content": "<p data-vmark=\"6c17\">IT之家 11 月 12 日消息，据台媒经济日报，鸿海董事长刘扬伟今日下午表示，<strong>2027 年 AI 整体需求预期仍将大于供给，供需吃紧将持续</strong>。他预计未来 3 到 5 年，鸿海在 AI 相关云端产品业绩占比，将提高至超过 6 成。</p><p data-vmark=\"df1e\">刘扬伟表示，目前芯片、内存及部分关键零部件供应吃紧，是整体产业共同面临的挑战，虽然随着新产能陆续开出，供应瓶颈将逐渐缓解，但展望明年，<strong>整体需求预期仍将大于供给</strong>，<strong>供需吃紧的情况可能还会持续一段时间</strong>。</p><p data-vmark=\"f815\">展望明年市场情况，刘扬伟表示，全球产业将持续呈现 K 型发展，AI 相关产业将受惠全球算力需求以及基础设施投资，成长拉货动能仍非常强劲。</p><p data-vmark=\"272d\">IT之家注意到，展望个人电脑 PC 市场时，刘扬伟看法相对审慎，他表示，内存供应吃紧及零部件价格上涨，可能推高终端产品售价，影响消费者换机意愿。</p><p data-vmark=\"a7c1\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"47af\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/026/063.htm\">鸿海 2026 年前三季度归母净利润 1874.17 亿新台币，同比增长 30%</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/277.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/277.htm"
+    },
+    {
+      "id": 5193,
+      "title": "TrendForce 预测： PC 内存、存储价格 2026Q4 分别再涨 13~18%、0~5%",
+      "summary": "IT之家 11 月 12 日消息，TrendForce（集邦）昨日发布预测，认为 PC DRAM 内存、Client SSD（客户端固态硬盘）存储的价格将在 2026 年第 4 季度分别再环比上涨 13~18%、0~5%。 ▲ 图源：TrendForce PC DRAM 部分，机构表示 OEM 的内存库存水位已于 Q3 进入上升通道，目前已有厂商要求重新讨论明年的整体供应类目；而 Client SSD 同样库存位于高位，导致新增采购量仅对应基本生产需求。 从整体 PC 市场来",
+      "content": "<p data-vmark=\"d4bc\">IT之家 11 月 12 日消息，TrendForce（集邦）昨日发布预测，认为 PC DRAM 内存、Client SSD（客户端固态硬盘）存储的价格<strong>将在 2026 年第 4 季度分别再环比上涨 13~18%、0~5%</strong>。</p><p data-vmark=\"fc8b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/db66817b-5b60-47ea-abbc-f387f733b2f1.jpg\" w=\"1080\" h=\"560\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"9f59\"></p><figcaption>▲ 图源：TrendForce</figcaption><p data-vmark=\"bc93\">PC DRAM 部分，机构表示 OEM 的内存库存水位已于 Q3 进入上升通道，目前已有厂商要求重新讨论明年的整体供应类目；而 Client SSD 同样库存位于高位，导致新增采购量仅对应基本生产需求。</p><p data-vmark=\"e256\">从整体 PC 市场来看，OEM 正面临销售疲弱、库存堆高的双重挑战，<strong>部分企业计划调整 2026Q4 乃至 2027Q1 的存储器采购规模</strong>，可能扩大贴牌机型的出货比重。</p><p data-vmark=\"64a7\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"dca4\"><a href=\"https://www.trendforce.cn/presscenter/news/20261111-13302.html\" target=\"_blank\">TrendForce 集邦咨询: 整机库存堆高，部分 PC OEM 调整 2027 年存储器采购策略</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/026/253.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/253.htm"
+    },
+    {
+      "id": 5194,
+      "title": "长鑫 DDR5 产品进展：32Gb 颗粒落地，MRDIMM 速率最高 12800Mbps",
+      "summary": "IT之家 11 月 12 日消息，蓝鲸科技从长鑫方面获悉了其 DDR5 RDIMM、MRDIMM 产品线最新进展。 DDR5 颗粒已完成 24Gb 至 32Gb 迭代 RDIMM 模组实现 32GB–128GB 主流容量、5600Mbps–8000Mbps 速率全覆盖 MRDIMM 则覆盖 128GB、192GB 容量，最高速率可达 12800Mbps IT之家注：RDIMM 指寄存式双列直插内存模块，主要面向服务器和数据中心；MRDIMM 指多路复用秩双列直插式内存模块，是",
+      "content": "<p data-vmark=\"e9af\">IT之家 11 月 12 日消息，蓝鲸科技从长鑫方面获悉了其 DDR5 RDIMM、MRDIMM 产品线最新进展。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"93ba\">DDR5 颗粒已完成 24Gb 至 32Gb 迭代</p></li><li><p data-vmark=\"0014\">RDIMM 模组实现 32GB–128GB 主流容量、5600Mbps–8000Mbps 速率全覆盖</p></li><li><p data-vmark=\"f8f3\">MRDIMM 则覆盖 128GB、192GB 容量，最高速率可达 12800Mbps</p></li></ul><p data-vmark=\"cdc6\">IT之家注：RDIMM 指寄存式双列直插内存模块，主要面向服务器和数据中心；MRDIMM 指多路复用秩双列直插式内存模块，是面向 AI 大模型训练 / 推理、高性能计算的新一代超高带宽内存。</p><p data-vmark=\"8c32\">长鑫科技副总裁骆晓东今日表示，内存需求进入“分层时代”，不同细分市场需求分化，<strong>目前服务器市场需求占比超 50%</strong>，服务器市场高端存储和高性能芯片需求走高。</p><p data-vmark=\"b6a3\">长鑫科技表示，受 AI 应用快速发展带来的需求驱动，四季度公司依然收到服务器客户对产品的强劲需求，<strong>DRAM 供不应求的态势仍将延续</strong>，预计公司四季度营收继续保持增长趋势。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"ac51c9cc-f278-48b8-bd30-654a64d7c566\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuY3htdC5jb20lMkZuZXdzJTJGaW5mb185NS5odG1sJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuY3htdC5jb20lMkZuZXdzJTJGaW5mb185Ny5odG1sJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuc3VwZXJtaWNyby5jb20lMkZ6aC1jbiUyRmdsb3NzYXJ5JTJGbXJkaW1tJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaW5ub2Rpc2suY29tJTJGY2h0JTJGbmV3cyUyRmlubm9kaXNrLWRkcjUtMTI4MDAtbXJkaW1tLWZvci1haSUyMiU1RA==\" class=\"ai-point \"><h3 data-vmark=\"9d5e\">延伸阅读</h3><p data-vmark=\"2d3d\"><span data-ref-ids=\"\" data-ref-urls=\"1\">文中提到的 24Gb、32Gb 指单颗 DRAM 芯片（颗粒）的容量，单位为吉比特。32Gb 即单颗颗粒容量为 32 吉比特（约合 4GB），颗粒容量越大，在相同模组容量下所需堆叠的颗粒数量越少。</span></p><p data-vmark=\"709d\"><span data-ref-ids=\"\" data-ref-urls=\"2,3\">MRDIMM（多路复用内存条）与 RDIMM 的主要区别在于架构和性能。RDIMM 通过内置寄存器缓冲控制信号，以稳定内存系统并支持更大容量；MRDIMM 则在单个模组内使用多个内存列（rank），借助 MRCD（多路寄存器时钟驱动器）与 MDB（多路数据缓冲器）元件同时访问双列内存，从而大幅提升带宽并降低内存控制器负载。</span></p><p data-vmark=\"b176\"><span data-ref-ids=\"\" data-ref-urls=\"3\">DDR5 MRDIMM 采用标准 287-pin 设计，兼容 DDR5 RDIMM 插槽，无需变更系统架构即可在现有平台上实现性能升级，主要面向高性能计算、大规模数据库、虚拟化、实时分析以及人工智能 / 机器学习等对内存容量和带宽要求较高的场景。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/026/241.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/241.htm"
+    },
+    {
+      "id": 5195,
+      "title": "MTE 支持回归后，GrapheneOS 即将实现谷歌 Pixel 11 系列智能手机适配",
+      "summary": "IT之家 11 月 12 日消息，GrapheneOS 官方昨日表示，随着上游 Android 17 QPR2 为 Pixel 11 系列带回对 MTE 功能的支持，该第三方 Android 发行版也将正式适配谷歌最新一代智能手机。 MTE 全称内存标记扩展，可实时检测内存错误，大幅降低漏洞被利用风险。这项安全功能在一般 Android 发行版中甚少被利用，但却是 GrapheneOS 这个主打安全性的版本的关键基石。 此前的多代 Pixel 智能手机都支持 MTE，但 Pi",
+      "content": "<p data-vmark=\"9301\">IT之家 11 月 12 日消息，GrapheneOS 官方昨日表示，随着上游 Android 17 QPR2 为 Pixel 11 系列带回对 MTE 功能的支持，<strong>该第三方 Android 发行版也将正式适配谷歌最新一代智能手机</strong>。</p><p data-vmark=\"241a\">MTE 全称内存标记扩展，可实时检测内存错误，大幅降低漏洞被利用风险。这项安全功能在一般 Android 发行版中甚少被利用，但却是 GrapheneOS 这个主打安全性的版本的关键基石。</p><p data-vmark=\"af98\">此前的多代 Pixel 智能手机都支持 MTE，但 <strong>Pixel 11 系列在发售伊始缺乏该功能</strong>，导致 GrapheneOS 的适配工作遇到阻碍。</p><p style=\"text-align: center;\" data-vmark=\"750d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e65b3d78-dba3-47d4-a5bb-e83fa458d4bb.png\" w=\"800\" h=\"450\" alt=\"\" data-weibo=\"0\" class=\"nowebp\" data-vmark=\"09fa\"></p>",
+      "link": "https://www.ithome.com/1/026/179.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/179.htm"
+    },
+    {
+      "id": 5196,
+      "title": "10 月全球新能源汽车销量 209 万辆重回增长，中国出口创单月纪录",
+      "summary": "IT之家 11 月 12 日消息，据路透社 12 日报道，英国研究机构 Benchmark Mineral Intelligence 周四公布的数据显示，10 月全球纯电和插混车型销量重回增长，主要受到美国去年同期基数极低，以及欧洲市场持续增长的影响。 Benchmark 数据经理查尔斯 · 莱斯特接受路透社采访时说：“虽然中国国内市场销量下滑，但这也促使许多车企加大出口力度，显著带动了其他地区的销量增长。” 10 月全球纯电和插混汽车新车销量达到 209 万辆，同比增长 8",
+      "content": "<p data-vmark=\"6082\">IT之家 11 月 12 日消息，据路透社 12 日报道，英国研究机构 Benchmark Mineral Intelligence 周四公布的数据显示，10 月全球纯电和插混车型销量重回增长，主要受到<strong>美国去年同期基数极低，以及欧洲市场持续增长</strong>的影响。</p><p data-vmark=\"afdb\">Benchmark 数据经理查尔斯 · 莱斯特接受路透社采访时说：“虽然中国国内市场销量下滑，但这也促使许多车企加大出口力度，显著带动了其他地区的销量增长。”</p><p data-vmark=\"10b6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4d0f0224-09fa-4fda-8f8c-f03d4959269d.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11\" w=\"1440\" h=\"1080\" data-ai=\"1\" data-vmark=\"7349\" data-weibo=\"0\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"eb0a\">10 月全球纯电和插混汽车新车<strong>销量达到 209 万辆，同比增长 8%</strong>；今年前 10 个月累计销量 1750 万辆，同比增长 5%。</p><p data-vmark=\"4952\">莱斯特指出，中国市场销量同比降幅收窄至 12%，随着车企继续发力出口，<strong>新能源乘用车出口量接近 60 万辆，再创单月纪录</strong>。</p><p data-vmark=\"ece5\">欧洲市场销量同比增长 36%，主要受<strong>购车补贴、燃油价格上涨、欧盟排放法规以及在售车型增多</strong>等因素推动。</p><p data-vmark=\"db1f\">美国方面，由于联邦电动汽车税收抵免政策取消，今年 10 月是首次与同样不享受该政策的月份进行同比比较。莱斯特指出，北美市场销量虽然<strong>同比增长 24%，重回增长轨道</strong>，但美国市场并未真正复苏，只是<strong>在较低水平上趋于稳定</strong>。</p><p data-vmark=\"bcd0\">IT之家从数据中获悉，北美以外的其他海外市场销量同比增长 85%，总量也超过北美市场，主要得益于中国汽车出口增长。</p>",
+      "link": "https://www.ithome.com/1/026/177.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/177.htm"
+    },
+    {
+      "id": 5197,
+      "title": "消息称 Take-Two 疑似对粉丝饭制《GTA 6》游戏地图项目发起版权打击",
+      "summary": "IT之家 11 月 12 日消息，据外媒 NoteBook Check 报道，Take-Two Interactive 近期疑似采取版权措施，针对粉丝饭制 GTA 6 游戏地图“GTA 6 Mapping Project”项目发起 DMCA 版权打击，目前相应项目的 Discord 服务器已下线，项目正常运营受到较大影响。 外媒怀疑，Take-Two 对“GTA 6 Mapping Mapping Project”进行版权打击的主要原因是相应项目使用了 Cyberleek 泄",
+      "content": "<p data-vmark=\"fccd\">IT之家 11 月 12 日消息，据外媒 NoteBook Check 报道，Take-Two Interactive 近期疑似采取版权措施，针对粉丝饭制 GTA 6 游戏地图“GTA 6 Mapping Project”项目发起 DMCA 版权打击，目前相应项目的 Discord 服务器已下线，项目正常运营受到较大影响。</p><p data-vmark=\"d0f4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9dec7d45-0021-47d5-97c3-d833c1638516.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"dea0\"></p><p data-vmark=\"00ab\">外媒怀疑，Take-Two 对“GTA 6 Mapping Mapping Project”进行版权打击的主要原因是相应项目使用了 Cyberleek 泄露事件中的实机画面绘制地图，不过目前尚未有实际证据曝光。</p><p data-vmark=\"fcf4\">不过，目前“GTA 6 Mapping Project”项目打造的 State of Leonida 网站暂时仍可正常访问，玩家依然能够通过网站自由浏览游戏地图、查看各个地点的相关介绍，以及它们与现实世界地理位置之间的对应关系。</p><p data-vmark=\"2b57\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/83542426-2b2e-4c25-bf55-70127514c470.jpg\" w=\"1440\" h=\"737\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"4813\"></p>",
+      "link": "https://www.ithome.com/1/026/168.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/168.htm"
+    },
+    {
+      "id": 5198,
+      "title": "长鑫科技副总裁骆晓东：来自服务器市场的内存需求占比超 50%",
+      "summary": "IT之家 11 月 12 日消息，据中国基金报报道，长鑫科技副总裁骆晓东今日（11 月 12 日）在第八届 IC 企业家大会上发表了题为《算力分层时代探索 DRAM 产品新边界》的主题演讲。 骆晓东指出，算力增长趋势还在持续。据行业预测，2024 年到 2031 年，全球 AI 算力年均增速将达 96.1%；2026 年到 2030 年，DRAM 年均需求增速将达 21%。但在 AI 驱动下，各细分赛道需求增长出现明显分层，“服务器赛道增速领跑，成为存储增长的核心主力”。其中",
+      "content": "<p data-vmark=\"0a0d\">IT之家 11 月 12 日消息，据中国基金报报道，长鑫科技副总裁骆晓东今日（11 月 12 日）在第八届 IC 企业家大会上发表了题为《算力分层时代探索 DRAM 产品新边界》的主题演讲。</p><p data-vmark=\"4599\">骆晓东指出，算力增长趋势还在持续。据行业预测，2024 年到 2031 年，全球 AI 算力年均增速将达 96.1%；2026 年到 2030 年，DRAM 年均需求增速将达 21%。但在 AI 驱动下，各细分赛道需求增长出现明显分层，“<strong>服务器赛道增速领跑，成为存储增长的核心主力</strong>”。其中，服务器市场复合年增长率将达 29%，智驾渗透下的汽车市场复合年增长率将达 30%，手机市场的复合年增长率将达 6%。</p><p data-vmark=\"c17f\">另据第一财经报道，骆晓东表示，内存需求进入“分层时代”，不同细分市场需求分化，<strong>目前服务器市场需求占比超 50%</strong>，服务器市场高端存储和高性能芯片需求走高。行业要跳出传统存储仅仅关注容量和速率的固化思路，根据目前的内存需求，内存可拆分为五个核心维度：容量、带宽、写入率、访问粒度和延迟。</p><p data-vmark=\"a09a\">据IT之家此前报道，<a href=\"https://www.ithome.com/1/020/832.htm\" target=\"_blank\">长鑫科技产品主要分为 DDR 系列以及 LPDDR 系列</a>，2026 年上半年：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1880\">DDR 系列产品实现 694.72 亿元收入，占营业收入比例为 46.22%；</p></li><li><p data-vmark=\"ea2c\">LPDDR 系列产品实现 781.91 亿元收入，占营业收入比例为 52.02%。</p></li></ul><p data-vmark=\"7498\">相较于 2026 年上半年，长鑫科技 2026 年前三季度 DDR 系列产品在营业收入中的占比持续上升，主要是因为 DDR5 产品自 2024 年底量产后，销量持续增长，带动 DDR 系列产品的收入占比提升。</p><p data-vmark=\"ee07\">长鑫科技表示，受 AI 应用快速发展带来的需求驱动，四季度公司依然收到服务器客户对产品的强劲需求，<strong>DRAM 供不应求的态势仍将延续，预计公司四季度营收继续保持增长趋势</strong>。</p>",
+      "link": "https://www.ithome.com/1/026/154.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/154.htm"
+    },
+    {
+      "id": 5199,
+      "title": "七彩虹推出 BATTLE-AX B850M-GAMING WIFI6E V14 主板，799 元",
+      "summary": "IT之家 11 月 12 日消息，七彩虹 (Coloful) 现已在电商平台售卖 BATTLE-AX B850M-GAMING WIFI6E V14 主板。这一战斧系列新品价格为 799 元。 BATTLE-AX B850M-GAMING WIFI6E V14 采用 230×220 (mm) 的“缩水”Micro-ATX 板型，配备 1 组 8Pin EPS CPU 供电接口。 其拥有 7+2+1 相供电，选用 60A DrMOS；提供 2 条支持 7200+ MT/s 超频",
+      "content": "<p data-vmark=\"33ca\">IT之家 11 月 12 日消息，七彩虹 (Coloful) 现已在电商平台售卖 BATTLE-AX B850M-GAMING WIFI6E V14 主板。这一战斧系列新品<strong>价格为 799 元</strong>。</p><p data-vmark=\"e5f1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/36250667-f4b9-4ad4-b046-dd6a79884e25.png\" w=\"800\" h=\"800\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"67bd\"></p><p data-vmark=\"a37e\">BATTLE-AX B850M-GAMING WIFI6E V14 采用 230×220 (mm) 的“缩水”Micro-ATX 板型，配备 1 组 8Pin EPS CPU 供电接口。</p><p data-vmark=\"c115\">其<strong>拥有 7+2+1 相供电</strong>，选用 60A DrMOS；提供 2 条支持 7200+ MT/s 超频的 DDR5 UDIMM 内存插槽；PCIe 方面包括 1 个 Gen5 ×16 插槽、1 个 Gen4 ×1 插槽，<strong>两个 M.2 分别是 Gen5 ×4 和 Gen4 ×4</strong>；<strong>配备 2.5GbE LAN</strong>、Wi-Fi 6E &amp; 蓝牙 5.3 WLAN。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/or1xiio\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oO1c7h5\" data-iosurl=\"https://u.jd.com/o61cNO6\" data-androidurl=\"https://u.jd.com/oG1cdy7\" data-hosnexturl=\"https://u.jd.com/og1RbGh\" data-hosurl=\"https://u.jd.com/oG1HltQ\" data-uwpurl=\"https://u.jd.com/or1UVtw\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foa1JwPf%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/og1XHca\" data-lpwxurl=\"https://u.jd.com/o61kjtJ\"   data-ncid=\"270586\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/575445/10/877/211261/6aebe4d1F551f7f3b/0083320320d566ea.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">七彩虹 BATTLE-AX B850M-GAMING WIFI6E V14 主板</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 799 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/026/126.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/126.htm"
+    },
+    {
+      "id": 5200,
+      "title": "Rimac 宣布 Nevera 电动超跑即将停产，累计仅生产 71 辆",
+      "summary": "IT之家 11 月 12 日消息，克罗地亚汽车制造商 Rimac 即将结束旗下 Nevera 纯电动超级跑车的生产。目前，公司正在制造最后 10 辆 Nevera R，预计这些车辆将在今年年底前全部交付客户。此后，该车将正式停产。 Rimac 创始人兼 CEO 马特 · 里马克（Mate Rimac）在一段 Instagram 视频中透露，自 2022 年开始交付以来，Rimac Automobili 总共生产了 71 辆 Nevera 系列超跑。其中，标准版 Nevera ",
+      "content": "<p data-vmark=\"0e2d\">IT之家 11 月 12 日消息，克罗地亚汽车制造商 Rimac 即将结束旗下 Nevera 纯电动超级跑车的生产。目前，公司正在制造最后 10 辆 Nevera R，预计这些车辆将在今年年底前全部交付客户。此后，该车将正式停产。</p><p style=\"text-align: center;\" data-vmark=\"282e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d3cda063-17b6-4c6c-aa41-1124852069f0.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"720\" data-weibo=\"0\" data-vmark=\"7dbd\" class=\"no-alt-img\"></p><p data-vmark=\"bb1a\">Rimac 创始人兼 CEO 马特 · 里马克（Mate Rimac）在一段 Instagram 视频中透露，自 2022 年开始交付以来，<strong>Rimac Automobili 总共生产了 71 辆 Nevera 系列超跑</strong>。其中，标准版 Nevera 有 51 辆，性能更强的 Nevera R 有 20 辆。</p><p data-vmark=\"bd21\">2018 年，公司首次展示后来发展为 Nevera 的概念车型时，<strong>原本计划生产 150 辆</strong>。尽管最终产量远低于最初目标，马特 · 里马克对此仍然相当满意。</p><p data-vmark=\"ed65\">他在视频最后表示：“我认为，这仍然是一项相当了不起的成就。<strong>它是全球销量最高的电动超级跑车</strong>。如果没有它，就不会有今天的 Tourbillon，也不会有现在这座工厂。因此，它已经完成了自己的使命。我认为这是一辆非常酷的汽车…… 它将在汽车历史上占有一席之地。感谢所有车主，感谢你们参与这段不可思议的旅程。”</p><p data-vmark=\"887b\">Rimac 最早于 2018 年以 C Two 概念车的名义发布了 Nevera。该车当时公布的性能数据相当惊人：四台电动机综合输出功率达到 1914 马力，0 至 60 英里 / 小时（约 96 公里 / 小时）加速仅需 1.85 秒。</p><p data-vmark=\"be8a\">Nevera 的最高时速可达 258 英里（约 415 公里），完成四分之一英里直线加速赛仅需 9.1 秒，量产版 Nevera 于 2021 年正式亮相。</p><p data-vmark=\"1a7c\">后续推出的 Nevera R 性能还要更强，综合输出功率提升至 2107 马力，0 至 60 英里 / 小时加速时间缩短至 1.74 秒。从静止加速至 124 英里 / 小时（约 200 公里 / 小时）仅需 4.38 秒，达到 186 英里 / 小时（约 300 公里 / 小时）也只需 8.66 秒。其四分之一英里加速成绩更是缩短至 8.23 秒。</p><p data-vmark=\"a7b9\">除了 Nevera，Rimac 集团的业务版图早已扩展至超级跑车市场之外，旗下拥有多个业务部门。其中，Rimac Technology 专注于先进电动汽车零部件的研发与供应，为其他汽车制造商提供相关技术和产品。</p><p data-vmark=\"d14c\">IT之家注意到，Rimac 集团还持有 Bugatti Rimac 的重要股权。后者是布加迪与 Rimac 于 2021 年成立的合资企业。双方合作推出了布加迪 Tourbillon，这是一款混合动力超级跑车，搭载三台电动机和一台自然吸气 8.3 升 V16 发动机，综合输出功率达到 1800 马力。</p><p data-vmark=\"9ddc\">此外，Rimac 还推出了名为 Verne 的自动驾驶出租车项目，其定位与特斯拉 Cybercab 类似，同时还涉足网约车服务。Verne 于 2024 年正式发布，并已于今年早些时候开始运营。</p><p style=\"text-align: center;\" data-vmark=\"f2fe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ab4e0423-2b21-405f-b721-1ee7ad9c8dc2.jpg?x-bce-process=image/format,f_auto\" w=\"889\" h=\"500\" data-weibo=\"1\" data-vmark=\"c795\" class=\"no-alt-img\"></p><p data-vmark=\"c022\">对 Rimac 而言，Nevera 的停产并不意味着电动超跑梦想的终结。相反，这款车型已经帮助公司建立起技术和制造基础，并推动其向更广泛的汽车产业领域发展。</p>",
+      "link": "https://www.ithome.com/1/026/124.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/124.htm"
+    },
+    {
+      "id": 5201,
+      "title": "半岛铁盒推出 F40-AI 全塔机箱：支持 SSI-EEB 主板，提供 12 个硬盘位，650 元",
+      "summary": "IT之家 11 月 12 日消息，半岛铁盒现已在京东上架 F40 全塔机箱，该机箱支持 SSI-EEB 主板，提供 12 个硬盘位，兼容 360 水冷，定价为 650 元。 京东半岛铁盒 F40-AI 机箱 650 元直达链接 该机箱尺寸为 550 x 248 x 550mm，前面板采用六边形网孔设计，机箱采用快拆侧板并配备防脱落螺丝，多面均标配可水洗防尘网，I/O 方面提供两个 USB-A 3.0 与一个 USB-C 接口。 该机箱兼容 SSI-EEB、E-ATX、ATX、",
+      "content": "<p data-vmark=\"7dab\">IT之家 11 月 12 日消息，半岛铁盒现已在京东上架 F40 全塔机箱，该机箱支持 SSI-EEB 主板，提供 12 个硬盘位，兼容 360 水冷，<strong>定价为 650 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oO19tPp\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o619Yqj\" data-iosurl=\"https://u.jd.com/or1NZPy\" data-androidurl=\"https://u.jd.com/or1Vwsd\" data-hosnexturl=\"https://u.jd.com/og1E5J3\" data-hosurl=\"https://u.jd.com/oD1jAjU\" data-uwpurl=\"https://u.jd.com/og15IaV\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foG1VZIG%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/o61JK7e\" data-lpwxurl=\"https://u.jd.com/oO15pmr\"   data-ncid=\"270581\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/567933/30/5146/95166/6aebe175F96e7fb63/0083320320f91c31.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">半岛铁盒 F40-AI 机箱</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 650 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"c9de\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3db163aa-21a8-418d-858a-53b02fcbc278.jpg\" w=\"582\" h=\"1432\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d12d97c6e412050d00ffeffc996806abe54f8bd47beec00f086eff2c20d03840ef2374c71ecb45fbfd\" data-vmark=\"845b\"></p><p data-vmark=\"8a06\">该机箱尺寸为 550 x 248 x 550mm，前面板采用六边形网孔设计，机箱采用快拆侧板并配备防脱落螺丝，多面均标配可水洗防尘网，I/O 方面提供两个 USB-A 3.0 与一个 USB-C 接口。</p><p data-vmark=\"21db\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4092f27b-f69f-4b85-a9f0-24d05b080bb2.jpg\" w=\"1092\" h=\"834\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1a6ef2e7632e3ba6b669e7e9300c3e848c86a45217356d04dddb832c00545a2e84d1f6e78ed10551c\" data-vmark=\"087b\"></p><p data-vmark=\"7f28\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0c0f1551-54db-4d01-9ae6-41ca41b76642.jpg\" w=\"1108\" h=\"836\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1b6965ffd22bc670156b3bcbfd386191c843f616f4cc6bc37eb185bdebf3bc25116f7cd24722433e8\" data-vmark=\"70bb\"></p><p data-vmark=\"3bba\">该机箱兼容 SSI-EEB、E-ATX、ATX、M-ATX 及 ITX 主板，并支持背插主板。内部提供 8 个 PCI-E 扩展槽，支持多卡并行。显卡最大长度支持 450mm，安装正面硬盘架时支持 360mm。机箱标配显卡支架，CPU 散热器最高支持 190mm。</p><p data-vmark=\"c4d7\">存储配置方面，整机提供 12 个硬盘位。内部标配 10 个硬盘架，利用正背面空间，最多可安装 11 块机械硬盘或 12 块固态硬盘。机箱最多可安装 15 把风扇，包括前面板 4 把、顶部 3 把、壁挂 3 把、电源仓 3 把、背板 1 把及 1 把显卡挡片风扇，顶盖支持 420mm 或 360mm 水冷，前面板支持 360mm 水冷。</p><p data-vmark=\"25aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8a1a0067-7960-40fd-8593-944210b5f0b8.jpg\" w=\"522\" h=\"1478\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\"  data-vmark=\"f703\"></p><p data-vmark=\"a45a\">IT之家附产品参数：</p><p data-vmark=\"d43d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9ce05110-f40a-4932-8b7f-79e898647afa.png\" w=\"616\" h=\"1128\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"9cc3\"></p>",
+      "link": "https://www.ithome.com/1/026/120.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/120.htm"
+    },
+    {
+      "id": 5202,
+      "title": "瀚铠 AMD Radeon RX 9070 GRE 合金 PRO 显卡上市，到手价 4599 元",
+      "summary": "IT之家 11 月 12 日消息，瀚铠 (VASTARMOR) 今日宣布推出 AMD Radeon RX 9070 GRE 合金 PRO 显卡。该型号搭载三风扇散热模组，可选黑 / 白 2 种颜色，到手价为 4599 元。 瀚铠 AMD Radeon RX 9070 GRE 合金 PRO 三维 332×134×51.5 (mm)，需求 2 组 PCIe 8Pin 供电；配备霍尼韦尔 PTM7950 相变 TIM + 3 热管 + 3 颗 100mm 风扇的散热系统，覆盖强化背",
+      "content": "<p data-vmark=\"47af\">IT之家 11 月 12 日消息，瀚铠 (VASTARMOR) 今日宣布推出 AMD Radeon RX 9070 GRE 合金 PRO 显卡。该型号搭载三风扇散热模组，可选黑 / 白 2 种颜色，<strong>到手价为 4599 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2639\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7cb3d5ee-ad47-4470-a9f4-314d9c4422a2.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"2046\" data-vmark=\"13c0\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"235e\">瀚铠 AMD Radeon RX 9070 GRE 合金 PRO 三维 332×134×51.5 (mm)，需求 2 组 PCIe 8Pin 供电；配备霍尼韦尔 PTM7950 相变 TIM + 3 热管 + 3 颗 100mm 风扇的散热系统，覆盖强化背板；<strong>GPU 加速频率可达 2920MHz</strong> (+130MHz)。</p><p style=\"text-align: center;\" data-vmark=\"4f56\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e65a4a70-a4ad-419d-9bd7-36065d8d326d.png\" w=\"520\" h=\"313\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"541c\"></p><p style=\"text-align: center;\" data-vmark=\"99ba\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2a385b99-3005-417c-84d2-26e40c9315a2.png\" w=\"522\" h=\"390\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"c806\"></p><dir><a href=\"https://u.jd.com/oa1EN4Z\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o61A8X0\" data-iosurl=\"https://u.jd.com/og1BLHH\" data-androidurl=\"https://u.jd.com/og1j49A\" data-hosnexturl=\"https://u.jd.com/oD10tgf\" data-hosurl=\"https://u.jd.com/oO1pU0p\" data-uwpurl=\"https://u.jd.com/oD1THIQ\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fog1nURr%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/or1TVR8\" data-lpwxurl=\"https://u.jd.com/og1fsDs\"   data-ncid=\"270562\" contenteditable=\"false\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/536298/16/14115/98192/6acfc2edFec6d3def/0083320320c13542.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">瀚铠 RX 9070 GRE 合金 PRO 黑色 显卡</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 4599 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oO1liDn\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oD1RzeW\" data-iosurl=\"https://u.jd.com/oG1vzRX\" data-androidurl=\"https://u.jd.com/o112pYX\" data-hosnexturl=\"https://u.jd.com/oa1cHRL\" data-hosurl=\"https://u.jd.com/oD1WIZo\" data-uwpurl=\"https://u.jd.com/or1HyP1\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fo61Ebat%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oD1A5tJ\" data-lpwxurl=\"https://u.jd.com/or1Pl6i\"   data-ncid=\"270562\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/529901/11/14392/89894/6acfc6c8F6a05a959/008332032043c079.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">瀚铠 RX 9070 GRE 合金 PRO 白色 显卡</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 4599 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/026/119.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/119.htm"
+    },
+    {
+      "id": 5203,
+      "title": "This is the Meta MetaRoCE Network Adapter",
+      "summary": "At OCP Summit 2026, Meta showed off its MetaRoCE adapter designed to scale to million-GPU training clusters The post This is the Meta MetaRoCE Network Adapter appeared first on ServeTheHome.",
+      "content": "<p>At OCP Summit 2026, Meta showed off its MetaRoCE adapter designed to scale to million-GPU training clusters</p>\n<p>The post <a href=\"https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/\">This is the Meta MetaRoCE Network Adapter</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+      "link": "https://www.servethehome.com/this-is-the-meta-metaroce-network-adapter/",
+      "source": "ServeTheHome",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "服务器",
+        "海外"
+      ],
+      "guid": "https://www.servethehome.com/?p=107166"
+    },
+    {
+      "id": 5204,
+      "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
+      "summary": "Grab a CyberPowerPC machine with an RX 9070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199.",
+      "content": "<article>\n                                <p>Best Buy has just slashed $350 off this all-AMD CyberPowerPC gaming desktop, scoring you a powerful 9800X3D build for less. <a href=\"https://www.bestbuy.com/product/cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black/J3L7GQWRZC\">Right now, this gaming PC with an RX 9070 16GB is just $1949</a>.</p><p><a href=\"https://www.bestbuy.com/product/cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black/J3L7GQWRZC\">● Check out this deal at Best Buy</a></p><p>This is a fantastic gaming PC for 1440p, with a strong supporting cast of specs. The 32GB of RAM in this PC alone is worth $450 right now, and a 1 TB SSD will set you back $250. </p><div class=\"product\"><a data-dimension112=\"b02f052a-de88-11f1-ae24-a70b8a07f412\" data-action=\"Deal Block\" data-label=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension48=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension25=\"$1949.99\" href=\"https://www.bestbuy.com/product/cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black/J3L7GQWRZC\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:504px;\"><p class=\"vanilla-image-block\" style=\"padding-top:84.33%;\"><img id=\"xyUjHp7BsRTRjFpHkGvPxF\" name=\"Cyberpower PC GML 99653\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/xyUjHp7BsRTRjFpHkGvPxF-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"504\" height=\"425\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.bestbuy.com/product/cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black/J3L7GQWRZC\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"b02f052a-de88-11f1-ae24-a70b8a07f412\" data-action=\"Deal Block\" data-label=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension48=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension25=\"$1949.99\">CyberPowerPC gaming PC (RX 9070, 9800X3D): was $2299.99 now $1949.99</a></strong><br />This is a rig for 1440p gaming. This CyberPowerPC machine has an AMD Ryzen 7 9800X3D, an Nvidia GeForce RX 9070 GPU, 32GB of DDR5 5600 RAM, and a 1TB SSD. It ships with Wi-Fi 6 connectivity.<a class=\"view-deal button\" href=\"https://www.bestbuy.com/product/cyberpowerpc-gaming-desktop-amd-ryzen-7-9800x3d-2024-amd-radeon-rx-9070-16gb-32gb-ddr5-memory-1tb-ssd-storage-black/J3L7GQWRZC\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"b02f052a-de88-11f1-ae24-a70b8a07f412\" data-action=\"Deal Block\" data-label=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension48=\"CyberPowerPC gaming PC (RX 9070, 9800X3D)\" data-dimension25=\"$1949.99\">View Deal</a></p></div><p>The Ryzen 7 9800X3D is the headline spec of this build. With its generous 3D cache, it's one of the very best gaming CPUs on the market right now, edged out only by the 9850X3D in terms of gaming performance, as you can see from our bench database below. With 8 cores and 16 threads, this CPU will chew through any gaming title thanks to that 3D cache, which means the chip has to rely much less heavily on RAM, drastically improving performance. </p><iframe allow=\"\" height=\"800\" width=\"100%\" id=\"\" style=\"\" class=\"position-center\" data-lazy-priority=\"high\" data-lazy-src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\" src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=CPUs&amp;benchmark=1080p+Gaming+Score&amp;showPerfPerDollar=false&amp;theme=light\"></iframe><p>The GPU in this build is the RX 9070 with a generous 16GB of VRAM. Sadly, it isn't the more potent XT version, but this is still a great gaming GPU, averaging nearly 75 FPS in our 19-game rasterization benchmark suite at 1440p. 4K performance was around 41 FPS without frame generation, too, so there is some 4K potential. </p><p>The PC also comes with 32GB of DDR5 5600 memory, a slight compromise over 6000 speeds but one you shouldn't notice too much. You also get a 1TB PCIe 4.0 SSD for your operating system and storing games, plenty to get you started. </p><p>It's all held together by a B650 motherboard, and ships inside one of CyberPower's more impressive cases, along with fans aplenty. You also get Wi-Fi 6, Bluetooth, lots of USB ports, HDMI and DisplayPort connectivity, and a liquid cooler for the CPU, as well as an 850-watt power supply. And, of course, a copy of Windows 11. </p><p>With Black Friday still a couple of weeks away, this is one of the best gaming PC deals going right now and one not to be missed. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd350-on-this-all-amd-1440p-gaming-desktop-with-9800x3d-rx-9070-also-features-32gb-of-ram-and-a-1tb-ssd-for-just-usd1-949",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "uphc9Z9PEyWWZTTVcBgsMZ"
+    },
+    {
+      "id": 5205,
+      "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+      "summary": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+      "content": "<article>\n                                <p>Enterprising techies looking to build their own local AI cluster have far more interesting options than buying DGX Sparks or Apple Mac Studios. Used data center GPUs are everywhere, and a server rack's garbage is an enthusiast's treasure. This option has become even more popular with <a href=\"https://github.com/amoghmunikote/cmpunlocker\">CMPunlocker</a>, a soft-mod for Nvidia CMP-170HX cards that unlocks abilities well beyond stock. Now, a techie <a href=\"https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/\">has taken it a step further</a>, blasting through the remaining limitations with voltage glitching and creating a card faster than the actual $20,000 Nvidia A100 GPU with 80GB of VRAM... but from an $2,500 8GB CMP-170HX mining card.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: GPUs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Wh9EZgD8NG9yUioNNgPB3d\" name=\"ASUS RTX 5080 Noctua Edition - Continuing the legacy of acoustic excellence 6-26 screenshot\" caption=\"\" alt=\"Asus RTX 5080 Noctua Edition\" src=\"https://cdn.mos.cms.futurecdn.net/Wh9EZgD8NG9yUioNNgPB3d-1920-80.png\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Noctua)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/desktop-gpu-roadmap-nvidia-rubin-amd-udna-and-intel-xe3-celestial?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">Desktop GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">Nvidia's Enterprise GPU Roadmap</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/testing-directstorage-with-gpu-decompression-do-blackwell-gpus-have-the-upper-hand?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">Testing DirectStorage with GPU decompression</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/the-geforce-rtx-30-series-upgrade-matrix-does-your-ampere-gpu-need-an-upgrade-in-2026?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026?</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-vera-rubin-platform-in-depth-inside-nvidias-most-complex-ai-and-hpc-platform-to-date?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">Rubin in-depth</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-stout-owl-how-i-built-the-ultimate-noctua-g2-pc?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=gpu\" target=\"_blank\">The Stout Owl: The ultimate Noctua G2 PC</a></li></ul></p></div></div><p>The volt-mod was done by Kate (<a href=\"https://github.com/kate-land/ga100vfi\">GitHub link here</a>), who got her starting point <a href=\"https://www.researchgate.net/publication/408132536_A_Canary_in_the_Crypto_Mine_Defeating_Stack_Protection_in_a_GPU_Secure_Coprocessor\">from a paper</a> that described how one could exploit GA100 cards' microcode. She turned her attention to the normally protected onboard fuse controller. Although it's rarely discussed, a \"fuse box\" has been integral in most any CPU and GPU for a while — though it's normally used once at the factory to break physical connections in chips to parts that have tested poorly, thus disabling them so they can be sold as a lower-end model.</p><p>If you're wondering how people are getting 80-40GB of VRAM out of 8-10GB, the explanation is simple: the GA100 silicon actually includes all the corresponding HBM2e VRAM dies within; but they get disabled at the factory like the shader modules. The smaller version is more desirable, as it's based on the variant of GA100 with 80GB of HBM2e within, while the 10GB cards spawn from the 40GB GA100.</p><p>The Nvidia cards in question have quite an elaborate eFuse controller (16,384 in a 512 x 32 array) — which can be read to obtain the card's current configuration. Most every part of the card has related fuses: VRAM sections, individual shader modules, PCIe 4.0 and NVLink, and even video codec hardware. However, as Kate succinctly put it: Nvidia's design is insecure, as popping fuses can grant access to <em>more</em> features, not fewer.</p><p>Under normal conditions, these fuses can't be popped, or \"written to,\" by the user — but a geek armed with a soldering iron isn't a normal user. Kate had GPT-6 Astra design a simple circuit board based on an $8 STM32G4 microcontroller to tap into the power signals on the card's PCB.</p><p>The voltage regulators (VRMs) on the card \"speak\" PWMVID, an Nvidia standard, and Kate's board intercepted the PWM signals sent into the VRM controller, forcing it to produce voltage glitches on the line feeding the GPU, where the fuse controller lies.</p><p>Remember when we said the fuse controller was read-only? With the voltage glitches, many fuse-status reads in a tight loop, and she managed to set the controller to a state in which its security bit flags allowed writes through. From that point, it was \"easy\" to reconfigure her card. She was careful to force-disable any shader modules previously marked as defective, because these are physical fuses — there's no \"undo\" button.</p><p>She applied the mod to her cards and, after testing with multiple workloads, found that nine had the full 80 GB of VRAM working, and one card \"only\" had 64 GB usable. Most interestingly, unlocking all the shader modules (SM) nets her FP16 FMA performance 20% <em>beyond</em> a regular A100 card. She thinks this is due to the chips often having 120 or more usable SMs — over the 108 on the spec sheet. The GA100 die starts with 128 SMs to account for defects, which is normal in chip manufacturing.</p><p>The CMPUnlocker soft mod is required for enabling the \"new\" features on the drivers, but it doesn't unlock the card's full potential: the VRAM upper limit is 40-64GB (depending on the variant), many shader modules remain locked, and PCIe bandwidth only goes to 2.0. Additionally, there's no ECC, NVLink, or multi-instance GPU support, all of which are critical in a server setup and are also used for product segmentation.</p><p>Kate's volt-mod does away with all of these limits, and her best test card is happily working at PCIe 4.0 speed with the full feature set. She didn't test the video encoder bits, but it's unlikely anybody using these cards cares much for that.</p><p>As for the cost, a CMP-170HX 8GB is currently hovering around $3,000, and the 10GB variant costs around $2,500. A full-fat Nvidia A100 80GB in a PCIe configuration can reach $20,000 or more. The SXM server-module versions are cheaper, but they require infrastructure around them. Note that these prices will likely vary significantly, especially as people become increasingly aware of the mods.</p><p>Kate says she's publishing her research now because another person independently found the same issue. She has informed Nvidia of the vulnerability, though there's not much the company can do for existing cards already on the market.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "CGCjeVQenPCcU4YfbBUjzH"
+    },
+    {
+      "id": 5206,
+      "title": "Struggling marijuana farmers pivot to becoming AI data center sites to escape falling weed revenue",
+      "summary": "One expert says that it still depends on the perfect confluence of cheap power, favorable regulation, and reliable connectivity.",
+      "content": "<article>\n                                <p>The AI data center boom is bringing hope to struggling cannabis farmers as they face increased competition, costs, and taxes amid reduced demand for marijuana. According to <a href=\"https://www.azpm.org/datacenters/2026-11-09/a-tucson-entrepreneur-wants-to-turn-cannabis-farms-into-mini-data-centers\"><em>Arizona Public Media</em></a>, the cannabis industry is in decline, with sales peaking in 2024 and oversupply driving prices down. And now, several growers are considering selling their cultivation facilities or converting them into “mini data center nodes.” These facilities already have many of the ingredients needed for AI data centers, such as the increasingly hard-to-get supply of electricity and water infrastructure. </p><p>\"For some reason, there's a lot more cannabis grown in Arizona than Arizonans use. And so, a lot of folks are getting out of that business, like myself, at least on the cultivation side. But these facilities can potentially be repurposed to be mini data center nodes,\" Moe Asnani, the former owner of two Tucson D2 Dispensaries, told the public broadcaster. He also added, \"The whole idea is if you create these smaller nodes where people control their own data, where they're not at the mercy of other people's updates and things like that — that's kind of where the idea came in, because I believe in decentralization.\"</p><p>Cannabis farming is both power- and water-intensive. <a href=\"https://www.forbes.com/sites/willyakowicz/2026/10/21/inside-the-weed-industrys-ai-data-center-pipe-dream/\"><em>Forbes</em></a> looked at a 32,850-square-foot cannabis facility in Kalamazoo, Michigan, which is currently wired for 1.5 megawatts, which can be expanded to 2.5 megawatts in under a year and 15 megawatts in the long term. It's also provisioned for fiber internet and equipped with a state-of-the-art HVAC system for climate control, which should make it a tempting property for anyone wanting to put up a small data center — something that even <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction\">OpenAI and Anthropic are interested in</a> as massive hyperscale sites face opposition from the community.</p><p>This concept is dubbed \"adaptive reuse,\" with Tucson City Council member Paul Cunningham saying that it’s a more palatable alternative to massive, purpose-built sites sitting on the outskirts of town. \"Data centers are dirty words, and everybody knows that. And no one wants to build a brand-new data center anywhere,\" the politician said. \"But if we have buildings that were using that amount of water and that amount of energy already in their previous function and [it] can be done without being invasive, I'm OK with exploring that option.\"</p><p>There is massive demand for data centers, but it’s not a guaranteed payoff for struggling cash-strapped growers looking to unload their unprofitable properties. Niki Krear, vice president of acquisitions of real estate investment trust New Lake Capital Partners, said that there’s a sweet spot between connectivity, costs, and regulation that data center operators look for in a site. </p><p>\"It’s a combination of finding affordable power, dense fiber networks, and favorable tax policies,\" Krear told <a href=\"https://mjbizdaily.com/news/are-ai-data-centers-coming-for-cannabis-cultivation-real-estate/617451/\"><em>MJBizDaily</em></a>. Even though many cultivation facilities already boast higher-than-average power capacity for lighting and climate control, data centers often demand twice to thrice more, with upgrades possibly taking up to five years.</p><p>Data center operators looking for smaller sites may also have to contend with NIMBY — not in my backyard — fights from neighbors. Additionally, there may be zoning restrictions, moratoriums, and regulatory hurdles, and the lack of economies of scale could end up costing operators more. </p><p>This is particularly important as AI chips are expected to <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform-company-says-its-pacing-ahead-of-20x-efficiency-by-2030\">increase in power and efficiency</a> in the next five years. As these new AI GPUs become available, data centers will need to <a href=\"https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping\">sell their existing equipment</a> and buy new hardware to remain competitive. Because suppliers usually offer favorable pricing for larger orders, upgrading these smaller sites will likely end up being more expensive on a per-unit basis. That said, growing opposition toward large new projects could make these former cannabis farms suitable alternatives for operators desperate to get more compute online quickly, provided they check all (or most of) the boxes they need.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "XsLkdUzMvBEJekZKdrh255"
+    },
+    {
+      "id": 5209,
+      "title": "(PR) Noctua Introduces NT-CP1 Carbice Carbon Nanotube Thermal Pad for AM5",
+      "summary": "Noctua today introduced the new NT-CP1 AM5/4 carbon nanotube thermal pad for AMD AM5 and AM4 processors. Leveraging Carbice's novel, space-grade carbon nanotube technology, the NT-CP1 is a premium-quality, easy-to-apply thermal pad that off",
+      "content": "Noctua today introduced the new NT-CP1 AM5/4 carbon nanotube thermal pad for AMD AM5 and AM4 processors. Leveraging Carbice's novel, space-grade carbon nanotube technology, the NT-CP1 is a premium-quality, easy-to-apply thermal pad that offers superior long-term stability for peace of mind. While thermal pastes and most other thermal pads gradually lose performance over time due to pump-out, delamination, cracking and other degradation effects, Carbice pads keep improving their performance over the first few hundred to a few thousand thermal cycles. This is possible thanks to the pad's robust mechanics, phase-change polymer coating and carbon nanotubes that incrementally conform to surface microstructures, enhancing the heat transfer rate with time and thermal cycling. Once this initial activation phase is completed, the NT-CP1 maintains stable, maintenance-free performance for years and years. As such, it is ideal for everyone who seeks to rule out thermal issues due to degradation and never wants to bother with reapply paste again.<br />\r\n<br />\r\nUnlike other carbon or graphite-based thermal pads that can be brittle, slippery and highly electrically conductive, Carbice pads are sturdy, safe and easy to install using a straightforward &quot;peel, press, peel&quot; process. The NT-CP1's aluminium backbone makes it surprisingly robust and easy to remove. The slightly tacky polymer coating helps to keep the pad in place once pressed onto the CPU and ensures that the contact surfaces are electrically non-conductive before usage unless the polymer layer is penetrated.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/3S4yF8WudhN239pt.jpg\" target=\"_blank\" data-width=\"768\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/3S4yF8WudhN239pt_thm.jpg\" width=\"104\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354729/noctua-introduces-nt-cp1-carbice-carbon-nanotube-thermal-pad-for-am5\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354729/noctua-introduces-nt-cp1-carbice-carbon-nanotube-thermal-pad-for-am5",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "f391250312043aeb3d84b6fc3e1ea448"
+    },
+    {
+      "id": 5210,
+      "title": "Apex Neural Rendering Beats NVIDIA DLSS in Both Image Quality and Performance",
+      "summary": "According to a company called Apex Compute, there is a new player in neural rendering. The company has developed Apex Neural Rendering, which reportedly offers higher quality and performance than NVIDIA's DLSS implementations. It includes t",
+      "content": "According to a company called Apex Compute, there is a new player in neural rendering. The company has developed Apex Neural Rendering, which reportedly offers higher quality and performance than NVIDIA's DLSS implementations. It includes three key components: frame generation (ANR FG), super resolution upscaling (ANR SR), and ray reconstruction denoising for ray tracing (ANR RR). Running frame generation on NVIDIA's GeForce RTX 5090 at 4K, the ANR FG achieves a latency of 1.01 ms per generated frame at a 2x setting, while NVIDIA's DLSS Frame Generation records 1.26 ms. We are not sure which version of DLSS FG was tested, but we can assume it was the latest version.<br />\r\n<br />\r\nRegarding memory consumption, ANR FG uses only 214 MB of GPU memory, while DLSS FG requires more than double that, at 562 MB. Reportedly, the ANR FG neural network weights fit within just 0.17 MB, which is incredibly efficient. Based on samples on the company's website, the image quality that ANR delivers matches DLSS and even surpasses it in some cases. Apex Compute also managed to get Hogwarts Legacy and The Last of Us Part II Remastered working, showing the difference compared to DLSS, resulting in frame generation with more visual fidelity. ANR FG is a beta injector built around OptiScaler, which works in any game offering NVIDIA DLSS Frame Generation. You can view the results below.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/HcxYFQNn4s7mBPaM.jpg\" target=\"_blank\" data-width=\"1743\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/HcxYFQNn4s7mBPaM_thm.jpg\" width=\"236\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/jSxJC5HQHaRVFuG1.jpg\" target=\"_blank\" data-width=\"1714\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/jSxJC5HQHaRVFuG1_thm.jpg\" width=\"232\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/tCSWBGFUTx5bk4RR.jpg\" target=\"_blank\" data-width=\"1717\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/tCSWBGFUTx5bk4RR_thm.jpg\" width=\"233\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/FCpLkJOQDPxBWoe4.jpg\" target=\"_blank\" data-width=\"1736\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/FCpLkJOQDPxBWoe4_thm.jpg\" width=\"235\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354727/apex-neural-rendering-beats-nvidia-dlss-in-both-image-quality-and-performance\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354727/apex-neural-rendering-beats-nvidia-dlss-in-both-image-quality-and-performance",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "292fec28001ce0217b7577fc43b7a7fd"
+    },
+    {
+      "id": 5211,
+      "title": "Build Your Dream Anime-Inspired PC with the AORUS ARI Bundle, Exclusively at Newegg",
+      "summary": "GIGABYTE brings anime aesthetics and gaming performance together with the AORUS ARI Bundle, featuring the AORUS GeForce RTX 5060 ARI 8G graphics card and B850 AORUS ELITE-P ICE motherboard. Inspired by Ari, AORUS's original anime character,",
+      "content": "GIGABYTE brings anime aesthetics and gaming performance together with the <b>AORUS ARI Bundle</b>, featuring the <b>AORUS GeForce RTX 5060 ARI 8G graphics card</b> and <b>B850 AORUS ELITE-P ICE motherboard</b>. Inspired by Ari, AORUS's original anime character, this exclusive bundle combines distinctive character artwork, sleek white hardware, and advanced gaming technologies to create a PC build that truly stands out.<br />\r\n<br />\r\nAt the heart of the bundle is the <b>AORUS GeForce RTX 5060 ARI 8G</b>, powered by NVIDIA's Blackwell architecture and equipped with 8 GB of GDDR7 memory. Featuring NVIDIA DLSS technology and advanced ray tracing capabilities, the graphics card delivers enhanced visuals and smooth gaming performance. GIGABYTE's WINDFORCE cooling system incorporates patented Hawk fans, server-grade thermal conductive gel, and composite copper heat pipes to optimize heat dissipation. Its reinforced metal backplate, featuring exclusive ARI artwork, combines long-term durability with a bold anime-inspired design.<br />\r\n<br />\r\n<a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889584\" target=\"_blank\">Buy GIGABYTE AORUS ARI Bundle on Newegg!</a><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/4I7yUYsJinNeUE29.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"675\" ><img src=\"https://tpucdn.com/img/4I7yUYsJinNeUE29_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354726/build-your-dream-anime-inspired-pc-with-the-aorus-ari-bundle-exclusively-at-newegg\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354726/build-your-dream-anime-inspired-pc-with-the-aorus-ari-bundle-exclusively-at-newegg",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "b80142a803ebf4f3d42138e53398a5f6"
+    },
+    {
+      "id": 5212,
+      "title": "Radeon Users Get a Stopgap Open-Source Fix for AMD's SSD Write Bug",
+      "summary": "AMD's Radeon SSD write bug now has a community workaround that doesn't require disabling the External Events Utility. ComputerBase forum member Necandi (necanditool on GitHub) has released Radeon-atieclxx-SSD-Fix, a free, open-source tool t",
+      "content": "AMD's Radeon SSD write bug now has a community workaround that doesn't require disabling the External Events Utility. <a rel=\"nofollow\" href=\"https://x.com/ComputerBase/status/2120459215651094651\" target=\"_blank\">ComputerBase</a> forum member Necandi (necanditool on GitHub) has released <a rel=\"nofollow\" href=\"https://github.com/necanditool/Radeon-atieclxx-SSD-Fix\" target=\"_blank\">Radeon-atieclxx-SSD-Fix</a>, a free, open-source tool that blocks the writes but leaves the service running. The developer found that atieclxx.exe keeps copying its own 660 KB executable out of the driver folder and into the Windows SYSTEM profile every second, or roughly 56 GB of writes per day. User reports put the write rate between 0.3 MB/s and 5 MB/s, and the top end works out to a massive 432 GB a day.<br />\r\n<br />\r\nThe tool uses Windows file permissions to deny the SYSTEM account write access to that one copied file, so each copy attempt fails and nothing new lands on the drive. Since the service stays active, FreeSync, frame pacing, and Radeon hotkeys should keep working. It also checks whether a PC is affected first, estimates the writes so far, and adds a scheduled task that reapplies the block after driver updates. Apparently, it can even lift the protection on its own once AMD patches the bug. The interface is only in German for now, and it is an unofficial tool, so readers are advised to use it at their own risk.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/JVayFDfJ2oI8Jdeb.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"844\" ><img src=\"https://tpucdn.com/img/JVayFDfJ2oI8Jdeb_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/KSOlZUsAFoBf2Ew9.jpg\" target=\"_blank\" data-width=\"676\" data-height=\"659\" ><img src=\"https://tpucdn.com/img/KSOlZUsAFoBf2Ew9_thm.jpg\" width=\"133\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354719/radeon-users-get-a-stopgap-open-source-fix-for-amds-ssd-write-bug\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354719/radeon-users-get-a-stopgap-open-source-fix-for-amds-ssd-write-bug",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "fc9410058715b2132876ede019dc9ff4"
+    },
+    {
+      "id": 5213,
+      "title": "Microsoft's Auto SR Upscaler Goes Handheld on Xbox Ally X and X20, Gains 120 FPS Mode",
+      "summary": "ROG Xbox Ally X and X20 owners can now use Microsoft's Automatic Super Resolution (Auto SR) upscaler on the handheld's own screen. Microsoft says Auto SR is out of preview on both devices and on select AMD Ryzen Copilot+ PCs. During the Xbo",
+      "content": "ROG Xbox Ally X and X20 owners can now use <a rel=\"nofollow\" href=\"https://devblogs.microsoft.com/directx/autosr-performance-mode/\" target=\"_blank\">Microsoft's Automatic Super Resolution (Auto SR)</a> upscaler on the handheld's own screen. Microsoft says Auto SR is out of preview on both devices and on select AMD Ryzen Copilot+ PCs. During the Xbox Insider preview that started in April, it only worked with the Ally X docked to an external display. It now works undocked and on battery, and accepts games running at 1080p. The base ROG Xbox Ally misses out, since its chip has no NPU. Auto SR runs its AI model on the NPU, so the upscaling doesn't eat into the GPU's frame time. A new Performance Mode lifts the frame rate ceiling to 120 FPS, from roughly 60 to 75 FPS before. <br />\r\n<br />\r\nIn Microsoft's Rocket League test on the Ally X at 720p and high settings, Quality Mode averaged around 70 FPS, while Performance Mode hit about 115 FPS. Auto SR can now be paired with Auto HDR as well, though both Performance Mode and Auto HDR support will roll out gradually through Windows updates. Microsoft warns that 1080p on the internal screen may not perform as well as other setups, although older games should still see visual gains. Ally X owners have also had an <a href=\"https://www.techpowerup.com/354078/asus-rolls-out-fsr-4-1-preview-for-rog-xbox-ally-handhelds\" target=\"_blank\">FSR 4.1 preview driver</a> since last month, which is probably still the better pick in games that support it well, leaving Auto SR for the rest. Enabling it requires the latest Windows 11 and Game Bar updates plus the Auto Super Resolution Package from the Microsoft Store.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/eVTtFWIszD76vOjS.jpg\" target=\"_blank\" data-width=\"894\" data-height=\"596\" ><img src=\"https://tpucdn.com/img/eVTtFWIszD76vOjS_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/1af7fnLa3M3r6OE6.jpg\" target=\"_blank\" data-width=\"1266\" data-height=\"711\" ><img src=\"https://tpucdn.com/img/1af7fnLa3M3r6OE6_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/TARlqDolHgcgOjiu.jpg\" target=\"_blank\" data-width=\"1267\" data-height=\"712\" ><img src=\"https://tpucdn.com/img/TARlqDolHgcgOjiu_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354715/microsofts-auto-sr-upscaler-goes-handheld-on-xbox-ally-x-and-x20-gains-120-fps-mode",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "69761c362621a07e143c2b3d7f0746e9"
+    },
+    {
+      "id": 5214,
+      "title": "Nvidia facing leadership shake-up? Jensen Huang reportedly at risk of being ousted after yet another affair allegation",
+      "summary": "Nvidia CEO Jensen Huang is facing mounting pressure following reports of a second extramarital affair. According to media reports, the AI chipmaker's board of directors is preparing to remove him from his position. An earlier alleged affair",
+      "content": "Nvidia CEO Jensen Huang is facing mounting pressure following reports of a second extramarital affair. According to media reports, the AI chipmaker's board of directors is preparing to remove him from his position. An earlier alleged affair with a suspected Chinese spy had already triggered an internal investigation. The longtime CEO of one of the world's most valuable companies now appears to be facing the end of his tenure.",
+      "link": "https://www.notebookcheck.net/Nvidia-facing-leadership-shake-up-Jensen-Huang-reportedly-at-risk-of-being-ousted-after-yet-another-affair-allegation.1448813.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-facing-leadership-shake-up-Jensen-Huang-reportedly-at-risk-of-being-ousted-after-yet-another-affair-allegation.1448813.0.html"
+    },
+    {
+      "id": 5215,
+      "title": "Modded Nvidia RTX 5090 with 96 GB VRAM and custom BIOS surfaces in China",
+      "summary": "An alleged Nvidia GeForce RTX 5090 modification with 96 GB of VRAM has surfaced on a Chinese secondhand marketplace. The seller is offering custom PCB schematics and modified BIOS firmware, but only to businesses.",
+      "content": "An alleged Nvidia GeForce RTX 5090 modification with 96 GB of VRAM has surfaced on a Chinese secondhand marketplace. The seller is offering custom PCB schematics and modified BIOS firmware, but only to businesses.",
+      "link": "https://www.notebookcheck.net/Modded-Nvidia-RTX-5090-with-96-GB-VRAM-and-custom-BIOS-surfaces-in-China.1448783.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Modded-Nvidia-RTX-5090-with-96-GB-VRAM-and-custom-BIOS-surfaces-in-China.1448783.0.html"
+    },
+    {
+      "id": 5216,
+      "title": "Lenovo quietly drops Legion Space 2.1 update that finally frees restricted LOQ laptops",
+      "summary": "Lenovo is pushing Legion Space 2.1.11.31 with no changelog or announcements, and the update reached a LOQ 15IRX10 that Lenovo lists under the older 1.8.12.9 build.",
+      "content": "Lenovo is pushing Legion Space 2.1.11.31 with no changelog or announcements, and the update reached a LOQ 15IRX10 that Lenovo lists under the older 1.8.12.9 build.",
+      "link": "https://www.notebookcheck.net/Lenovo-drops-Legion-Space-2-1-update.1448618.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-drops-Legion-Space-2-1-update.1448618.0.html"
+    },
+    {
+      "id": 5217,
+      "title": "New Nvidia DLSS rival promises faster frame generation on older AMD, Intel and GeForce GPUs",
+      "summary": "Apex Compute has released a public beta of Apex Neural Rendering, an AI-powered frame generation solution compatible with older Nvidia GeForce, AMD Radeon and Intel Arc graphics cards. The company claims its technology outperforms Nvidia DL",
+      "content": "Apex Compute has released a public beta of Apex Neural Rendering, an AI-powered frame generation solution compatible with older Nvidia GeForce, AMD Radeon and Intel Arc graphics cards. The company claims its technology outperforms Nvidia DLSS Frame Generation in speed, image quality and memory consumption.",
+      "link": "https://www.notebookcheck.net/New-Nvidia-DLSS-rival-promises-faster-frame-generation-on-older-AMD-Intel-and-GeForce-GPUs.1448621.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-Nvidia-DLSS-rival-promises-faster-frame-generation-on-older-AMD-Intel-and-GeForce-GPUs.1448621.0.html"
+    },
+    {
+      "id": 5218,
+      "title": "Lenovo's tiny Mac mini rival with Intel Panther Lake and 16 GB RAM gets a $460 discount",
+      "summary": "Deal | The Lenovo Yoga Mini PC is down to $599.99 ahead of Black Friday. Powered by Intel's Core Ultra 5 325 Panther Lake processor, 16 GB of RAM, and 512 GB of storage, this 0.65-liter mini PC offers a sleek, powerful alternative to the Ma",
+      "content": "Deal | The Lenovo Yoga Mini PC is down to $599.99 ahead of Black Friday. Powered by Intel's Core Ultra 5 325 Panther Lake processor, 16 GB of RAM, and 512 GB of storage, this 0.65-liter mini PC offers a sleek, powerful alternative to the Mac Mini, with plenty of ports and useful extras.",
+      "link": "https://www.notebookcheck.net/Lenovo-s-tiny-Mac-mini-rival-with-Intel-Panther-Lake-and-16-GB-RAM-gets-a-460-discount.1448183.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-s-tiny-Mac-mini-rival-with-Intel-Panther-Lake-and-16-GB-RAM-gets-a-460-discount.1448183.0.html"
+    },
+    {
+      "id": 5219,
+      "title": "Nvidia reportedly preparing to oust Jensen Huang as CEO amid espionage controversy",
+      "summary": "vidia's board is reportedly preparing to remove CEO Jensen Huang following revelations about two extramarital relationships, including one involving a woman suspected of having Chinese intelligence ties. According to The Wall Street Journal",
+      "content": "vidia's board is reportedly preparing to remove CEO Jensen Huang following revelations about two extramarital relationships, including one involving a woman suspected of having Chinese intelligence ties. According to The Wall Street Journal, the board is considering the future of its longtime chief executive, although no decision has been officially announced.",
+      "link": "https://www.notebookcheck.net/Nvidia-reportedly-preparing-to-oust-Jensen-Huang-as-CEO-amid-espionage-controversy.1448414.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-reportedly-preparing-to-oust-Jensen-Huang-as-CEO-amid-espionage-controversy.1448414.0.html"
+    },
+    {
+      "id": 5220,
+      "title": "Seiko's new limited edition 5 Sports takes inspiration from Taiwan's Alishan mountains",
+      "summary": "Seiko’s limited-edition 5 Sports HDB019K1 “Alishan” draws on Taiwan’s mountain scenery with a forest-green dial, gold accents, and a black-and-sand-brown bezel, paired with an automatic 4R36 movement. Exclusive to Taiwan, the watch will sta",
+      "content": "Seiko’s limited-edition 5 Sports HDB019K1 “Alishan” draws on Taiwan’s mountain scenery with a forest-green dial, gold accents, and a black-and-sand-brown bezel, paired with an automatic 4R36 movement. Exclusive to Taiwan, the watch will start shipping in early December.",
+      "link": "https://www.notebookcheck.net/Seiko-s-new-limited-edition-5-Sports-takes-inspiration-from-Taiwan-s-Alishan-mountains.1447238.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Seiko-s-new-limited-edition-5-Sports-takes-inspiration-from-Taiwan-s-Alishan-mountains.1447238.0.html"
+    },
     {
       "id": 5067,
       "title": "SpaceX推进“星际大脑”计划：豪掷先进太阳能技术冲刺100吉瓦太空算力目标",
@@ -1395,6 +2053,109 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/MSI-releases-new-compact-desktop-PC-with-Nvidia-RTX-Spark-and-6-144-CUDA-cores.1447829.0.html"
+    },
+    {
+      "id": 5179,
+      "title": "AWS CEO认为太空数据中心未来10-20年难以实现商业化 马斯克有不同看法",
+      "summary": "将人工智能数据中心搬到太空，正在成为科技行业一个颇具争议的新方向。埃隆·马斯克旗下SpaceX计划利用星舰（Starship）部署大规模轨道计算卫星，希望借助太空中的太阳能为AI计算提供能源。然而，亚马逊云计算业务AWS首席执行官马特·加曼（Matt Garman）对此持谨慎态度。他认为，太空数据中心在未来十年甚至二十年内，都很难达到经济可行和实际应用的要求。 阅读全文",
+      "content": "<p>将人工智能数据中心搬到太空，正在成为科技行业一个颇具争议的新方向。埃隆·马斯克旗下SpaceX计划利用星舰（Starship）部署大规模轨道计算卫星，希望借助太空中的太阳能为AI计算提供能源。然而，亚马逊云计算业务AWS首席执行官马特·加曼（Matt Garman）对此持谨慎态度。他认为，太空数据中心在未来十年甚至二十年内，都很难达到经济可行和实际应用的要求。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586010.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586010.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586010.htm"
+    },
+    {
+      "id": 5207,
+      "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
+      "summary": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
+      "content": "<article>\n                                <p>Nvidia's Board of Directors is preparing to oust co-founder and chief executive Jensen Huang following revelations of two extramarital affairs, including one with a <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips\">woman suspected of working for Chinese intelligence</a> and <a href=\"https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy\">another with an Nvidia executive</a>, reports <a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\"><em>The Wall Street Journal</em>.</a> Although no final decision has been made yet, the company's directors could meet as early as November 11 to discuss Huang's future. Whoever succeeds Huang will be the company's second CEO in 33 years. Nvidia's stock dropped 8% in after-hours trading following the reports. Nvidia's board of directors launched an independent investigation into the matter on November 8.</p><p>The report from the WSJ comes hours after the <em>New York Times</em> revealed that <a href=\"https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy\">Huang allegedly had an extramarital relationship with Kimberly Powell</a>, Nvidia's vice president of health care, who reports directly to him. According to five people who worked at Nvidia, the relationship was known internally, while Huang and Powell were reportedly seen together at a San Jose hotel during Nvidia's GTC conference in March. The allegations follow an earlier report that Huang had a relationship with Alice Huang, a Chinese businesswoman whom U.S. intelligence believes to be a Chinese intelligence asset. </p><p>A similar controversy cost Intel chief executive Brian Krzanich his position in June 2018, when an internal investigation confirmed that he had maintained a consensual relationship with an employee, which violated the company's non-fraternization policy applicable to all managers. It is noteworthy that <a href=\"https://images.nvidia.com/aem-dam/en-zz/Solutions/about-us/NVIDIA-Code-of-Conduct-External.pdf\">Nvidia's code of conduct</a> explicitly identifies personal relationships as potential conflicts of interest and instructs employees to consult the company's legal department when such conflicts arise. Whether Huang violated Nvidia's internal policies remains unclear, as the code of conduct does not explicitly prohibit all relationships between managers and subordinates.  </p><p>Huang's potential departure would mark the first CEO transition in Nvidia's 33-year history, and therefore his succession has become an immediate concern for Nvidia, which does not have anyone of Huang's caliber in the leadership team. Although chief financial officer Colette Kress could potentially serve as interim chief executive if Huang is ousted while the BoD searches for a permanent replacement, it remains to be seen how Wall Street would react to this assignment.</p><p>Nvidia co-founder Chris Malachowsky, who used to be the company's senior vice president of engineering and operations and remains a member of the company's board and an Nvidia Fellow, could also play a role in the succession process, given his extensive knowledge of Nvidia's technology, corporate culture, and history. However, has not served in an executive role at Nvidia for at least a decade, so the chances that he will succeed Huang are low.</p><p>Back on Sunday, directors expressed confidence in Jensen Huang <em>and</em> his leadership team, a choice of words that did not exactly guarantee his continued tenure.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "E6sDQTjK88uDtR97d4biKX"
+    },
+    {
+      "id": 5208,
+      "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
+      "summary": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy.",
+      "content": "<article>\n                                <p>Nvidia CEO Jensen Huang — already embroiled in a scandal for an extramarital relationship with a woman <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips\">believed by U.S. intelligence to be spying on behalf of China</a> — reportedly had a separate affair with one of his direct reports,<a href=\"https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.KSJP.BfpqRkievd3T&amp;smid=nytcore-ios-share\"> according to the <em>New York Times</em></a>. Nvidia's board is now <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years\">reportedly preparing to fire Huang</a>. </p><p>The <em>Times</em>, citing five anonymous sources within Nvidia, says that Huang had a relationship with Kimberly Powell, the company's vice president of health care. The sources claim that Huang and Powell were \"captured on video being affectionate\" in March at a hotel in San Jose, Calif., where the company's GTC conference takes place. </p><p>That report says that someone at the hotel filmed the moment on their smartphone, but that Huang's security team \"sequestered\" them and \"made the person an offer to sign a nondisclosure agreement.\"</p><p>Powell joined Nvidia in 2008 and has been steadily promoted. The <em>Times</em> highlights that personal relationships are mentioned as potentially causing conflicts of interest<a href=\"https://images.nvidia.com/aem-dam/en-zz/Solutions/about-us/NVIDIA-Code-of-Conduct-External.pdf\"> in Nvidia's code of conduct</a>. Like Huang, she is married to someone else.</p><p>In 2018, former <a href=\"https://www.tomshardware.com/news/intel-ceo-resign-brian-krzanich,37339.html\">Intel CEO Brian Krzanich resigned</a> following a relationship with an employee, which was also against the company's policies. Nvidia has not responded to a request for comment from <em>Tom's Hardware. </em>This story will be updated if we hear back.<br /><br />Earlier this week, it came out that Jensen had an extramarital affair with Alice Huang, formerly a top executive at Singaporean firm Megaspeed and believed by U.S. intelligence to be a spy. Huang<a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate\"> admitted to the affair</a> in an email to Nvidia employees. China has denied claims of espionage.<br /><br />Nvidia's board has an ongoing investigation into that affair, led by the law firm Wachtell, Lipton, Rosen &amp; Katz. Huang is continuing to run the company while that investigation is ongoing.<a href=\"https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop\"> Law firms have been racing</a> to sue the company on behalf of shareholders, including a proposed class-action lawsuit that Nvidia misled investors on material facts about the business.</p><p>The Congressional House committee on China has called on Huang for a closed-door session, with Republican lawmakers saying the reports \"raise significant national security concerns.\"</p><p>Huang has been a leader of the AI industry, providing the most sought-after chips in the field. He has also had the ear of President Donald Trump, traveling with him and attempting to influence export controls.<br /><br /><a href=\"https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation\">Trump told reporters</a> that the FBI was investigating Huang, but also that the Nvidia CEO \"had absolutely no idea that the person in question was a spy.”</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "rvem2VnbnweNxf7CWe9mmX"
+    },
+    {
+      "id": 5221,
+      "title": "GTA 6 Mapping Project reportedly targeted by Take-Two, closing Discord that shared leaks",
+      "summary": "The GTA 6 Mapping Project charted Leonida long before Rockstar revealed more about the open-world. A week ahead of the release date, Take-Two may have finally pursued a DMCA takedown of the resource. Its Discord server vanished without warn",
+      "content": "The GTA 6 Mapping Project charted Leonida long before Rockstar revealed more about the open-world. A week ahead of the release date, Take-Two may have finally pursued a DMCA takedown of the resource. Its Discord server vanished without warning, leaving the project's status in doubt.",
+      "link": "https://www.notebookcheck.net/Take-Two-reportedly-targets-GTA-6-Mapping-Project-closing-Discord-that-shared-leaks.1448191.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Take-Two-reportedly-targets-GTA-6-Mapping-Project-closing-Discord-that-shared-leaks.1448191.0.html"
+    },
+    {
+      "id": 5222,
+      "title": "New mini-ITX motherboard arrives with up to 128 GB RAM and 16-core Intel Core Ultra 9",
+      "summary": "BioStar has introduced a new mini ITX motherboard equipped with Intel's Panther Lake CPUs paired with up to 128 GB of RAM. As can be expected from a product targeted at industrial use, the board offers a whole bunch of I/O and expansion opt",
+      "content": "BioStar has introduced a new mini ITX motherboard equipped with Intel's Panther Lake CPUs paired with up to 128 GB of RAM. As can be expected from a product targeted at industrial use, the board offers a whole bunch of I/O and expansion options.",
+      "link": "https://www.notebookcheck.net/New-mini-ITX-motherboard-arrives-with-up-to-128-GB-RAM-and-16-core-Intel-Core-Ultra-9.1448195.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-mini-ITX-motherboard-arrives-with-up-to-128-GB-RAM-and-16-core-Intel-Core-Ultra-9.1448195.0.html"
+    },
+    {
+      "id": 5223,
+      "title": "Japanese brand unveils lightweight laptop with up to 32 GB RAM and Ryzen 7 APU",
+      "summary": "Mouse Computer has introduced the MousePro G2 - a lightweight laptop with spec sheet that is nearly identical to the Mouse X2. The laptop is already available for purchase, carrying an eye-watering price tag.",
+      "content": "Mouse Computer has introduced the MousePro G2 - a lightweight laptop with spec sheet that is nearly identical to the Mouse X2. The laptop is already available for purchase, carrying an eye-watering price tag.",
+      "link": "https://www.notebookcheck.net/Japanese-brand-unveils-lightweight-laptop-with-up-to-32-GB-RAM-and-Ryzen-7-APU.1447823.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-brand-unveils-lightweight-laptop-with-up-to-32-GB-RAM-and-Ryzen-7-APU.1447823.0.html"
+    },
+    {
+      "id": 5224,
+      "title": "Japan-made laptop with up to 32 GB RAM and 4G connectivity goes on sale",
+      "summary": "The entry-level variant of the Mouse X2 laptop has finally been launched in Japan, featuring a 6-core Ryzen 5 APU and lightweight design that weighs in at just 2.16 lbs.",
+      "content": "The entry-level variant of the Mouse X2 laptop has finally been launched in Japan, featuring a 6-core Ryzen 5 APU and lightweight design that weighs in at just 2.16 lbs.",
+      "link": "https://www.notebookcheck.net/Japan-made-laptop-with-up-to-32-GB-RAM-and-4G-connectivity-goes-on-sale.1447821.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-11",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japan-made-laptop-with-up-to-32-GB-RAM-and-4G-connectivity-goes-on-sale.1447821.0.html"
     },
     {
       "id": 4960,
