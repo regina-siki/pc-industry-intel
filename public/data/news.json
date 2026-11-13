@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-13",
-  "total": 5315,
+  "total": 5357,
   "list": [
     {
       "id": 5267,
@@ -661,6 +661,603 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/French-made-mini-PC-with-unique-cubical-design-and-16-GB-RAM-goes-on-sale.1449039.0.html"
+    },
+    {
+      "id": 5316,
+      "title": "英伟达澄清CEO接班传闻：尚未接触任何正式候选人 继任者遴选仍在初期阶段",
+      "summary": "当地时间11月13日，人工智能芯片巨头英伟达董事会表示，公司尚未选定负责CEO招聘工作的猎头机构，也尚未正式接触任何潜在候选人。此番表态旨在回应近期围绕前首席执行官黄仁勋继任人选的大量市场猜测。 阅读全文",
+      "content": "<p>当地时间11月13日，人工智能芯片巨头英伟达董事会表示，公司尚未选定负责CEO招聘工作的猎头机构，也尚未正式接触任何潜在候选人。此番表态旨在回应近期围绕前首席执行官黄仁勋继任人选的大量市场猜测。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586320.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586320.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586320.htm"
+    },
+    {
+      "id": 5317,
+      "title": "传与黄仁勋关系密切人士涉足中国AI产业链 报告称其关联企业曾接触受限英伟达芯片",
+      "summary": "围绕英伟达前首席执行官黄仁勋近期所引发的争议事件，再度出现新的调查进展。根据最新报道，一份调查报告声称，被指与黄仁勋关系密切的中国商界人士Alice Huang不仅曾与此前备受关注的企业存在关联，还被发现与另一家能够获得受美国出口管制英伟达先进AI芯片的企业存在深层联系。 阅读全文",
+      "content": "<p>围绕英伟达前首席执行官黄仁勋近期所引发的争议事件，再度出现新的调查进展。根据最新报道，一份调查报告声称，被指与黄仁勋关系密切的中国商界人士Alice Huang不仅曾与此前备受关注的企业存在关联，还被发现与另一家能够获得受美国出口管制英伟达先进AI芯片的企业存在深层联系。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586312.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586312.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586312.htm"
+    },
+    {
+      "id": 5318,
+      "title": "中国AI模型被发现英伟达Blackwell芯片“指纹”  研究推算部分训练集群规模达3000至4500颗",
+      "summary": "中国AI企业DeepSeek、月之暗面（Moonshot AI）、MiniMax和蚂蚁集团的最新模型，可能已经使用英伟达最新一代Blackwell GPU进行初始化，甚至可能利用这些芯片完成大规模训练。一个名为Unemployment Labs的独立研究团队通过分析公开发布的AI模型权重，发现其中保留了与特定英伟达GPU架构相匹配的数字特征。这项研究为此前有关中国AI企业获得受美国出口管制限制的Blackwell芯片的猜测，提供了新的技术证据。 阅读全文",
+      "content": "<p>中国AI企业DeepSeek、月之暗面（Moonshot AI）、MiniMax和蚂蚁集团的最新模型，可能已经使用英伟达最新一代Blackwell GPU进行初始化，甚至可能利用这些芯片完成大规模训练。一个名为Unemployment Labs的独立研究团队通过分析公开发布的AI模型权重，发现其中保留了与特定英伟达GPU架构相匹配的数字特征。这项研究为此前有关中国AI企业获得受美国出口管制限制的Blackwell芯片的猜测，提供了新的技术证据。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586310.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586310.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586310.htm"
+    },
+    {
+      "id": 5319,
+      "title": "微软最新邮件故障演变为全球性云服务危机",
+      "summary": "微软正逐步从持续一整天的服务中断事件中恢复。此前，公司大量系统遭遇连锁式软件故障。故障始于周四，最初标记为仅影响美国及美洲区域的服务；但由于工程师难以恢复宕机服务器，问题很快蔓延至全球。 阅读全文",
+      "content": "<p>微软正逐步从持续一整天的服务中断事件中恢复。此前，公司大量系统遭遇连锁式软件故障。故障始于周四，最初标记为仅影响美国及美洲区域的服务；但由于工程师难以恢复宕机服务器，问题很快蔓延至全球。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586298.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586298.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586298.htm"
+    },
+    {
+      "id": 5320,
+      "title": "改装者用约650字节固件补丁让45美元USB-C扩展坞变身Switch 2底座",
+      "summary": "一名改装爱好者mkopec通过修改固件，让一款约40欧元、折合约45美元的Cable Matters 7合1 USB-C扩展坞支持Nintendo Switch 2电视输出。普通USB-C扩展坞原本可以为主机充电，却无法输出画面，因为Switch 2会先检查底座是否能回应任天堂专有的通信握手。 阅读全文",
+      "content": "<p>一名改装爱好者mkopec通过修改固件，让一款约40欧元、折合约45美元的Cable Matters 7合1 USB-C扩展坞支持Nintendo Switch 2电视输出。普通USB-C扩展坞原本可以为主机充电，却无法输出画面，因为Switch 2会先检查底座是否能回应任天堂专有的通信握手。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1586288.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586288.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1586288.htm"
+    },
+    {
+      "id": 5321,
+      "title": "黄仁勋离职与美国出口管制审查冲击中国AI项目 涉及金额超过230亿元人民币",
+      "summary": "据路透社2026年11月13日报道，尽管英伟达此前表示，美国出口管制实际上已经使其退出中国AI数据中心市场，但路透社对中国各地政府采购公告、投资计划、建设合同及企业披露文件进行调查后发现，中国仍有大量围绕英伟达受限制芯片建设的AI算力项目，涉及金额超过230亿元人民币，约合32亿美元。 阅读全文",
+      "content": "<p>据路透社2026年11月13日报道，尽管英伟达此前表示，美国出口管制实际上已经使其退出中国AI数据中心市场，但路透社对中国各地政府采购公告、投资计划、建设合同及企业披露文件进行调查后发现，中国仍有大量围绕英伟达受限制芯片建设的AI算力项目，涉及金额超过230亿元人民币，约合32亿美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586286.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586286.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586286.htm"
+    },
+    {
+      "id": 5322,
+      "title": "苹果多款iPhone机型降价",
+      "summary": "11月13日，近日，苹果官网再次更新，调整了以旧换新价格。其中，iPhone Air和iPhone 17是本次调价幅度最大的产品，均从原本的585美元上调至615美元，涨幅超过5%。 阅读全文",
+      "content": "<p>11月13日，近日，苹果官网再次更新，调整了以旧换新价格。其中，iPhone Air和iPhone 17是本次调价幅度最大的产品，均从原本的585美元上调至615美元，涨幅超过5%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586278.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586278.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586278.htm"
+    },
+    {
+      "id": 5323,
+      "title": "黄仁勋一手打造4万亿美元AI巨头英伟达 但持股不足4%",
+      "summary": "黄仁勋这位亿万富豪、前英伟达 CEO，把一家游戏显卡小厂商带到 AI 革命的核心芯片巨头位置。他此前曾说过一句耐人寻味的话：他随时都可能被解雇。今年 1 月，黄仁勋在和乔迪・谢尔顿的播客访谈中提到：“治理完善的公司里，CEO 本来就向董事会汇报，董事会向股东负责。如果 CEO 没能做好本职工作，不管董事会一共是 12、13 还是 15 名成员，都可以将他解聘。” 阅读全文",
+      "content": "<p>黄仁勋这位亿万富豪、前英伟达 CEO，把一家游戏显卡小厂商带到 AI 革命的核心芯片巨头位置。他此前曾说过一句耐人寻味的话：他随时都可能被解雇。今年 1 月，黄仁勋在和乔迪・谢尔顿的播客访谈中提到：“治理完善的公司里，CEO 本来就向董事会汇报，董事会向股东负责。如果 CEO 没能做好本职工作，不管董事会一共是 12、13 还是 15 名成员，都可以将他解聘。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586272.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586272.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586272.htm"
+    },
+    {
+      "id": 5324,
+      "title": "非洲加速发展太阳能",
+      "summary": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示",
+      "content": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素共同推动了非洲太阳能的普及：光伏电池板成本的下降、市电供应的不稳定性、日益加剧的全国性能源危机，发电机所用柴油成本的上涨，以及非洲大部分地区拥有充足且稳定的日照。Deloitte 南非公司的 Jayne Mammatt 表示，非洲很多国家缺乏完善的电网或稳定的电力供应，而太阳能技术已相当成熟，成为一种可在本地直接部署的切实可行的方案。非洲太阳能增长量的 75% 是小型太阳能发电装置，Solar as a Service（缩写 SaaS）就是其中一种活跃的模式。非洲仅有 10%-20% 的家庭实现了通电，其增长空间远未见顶。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85882",
+      "source": "Solidot",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85882"
+    },
+    {
+      "id": 5325,
+      "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
+      "summary": "IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— 华为凌霄子母路由 Q7 电线版。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，对比传统 WiFi，可降低游戏网络卡顿率。 IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪",
+      "content": "<p data-vmark=\"7e48\">IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— <a target=\"_blank\" href=\"https://www.ithome.com/0/958/271.htm\">华为凌霄子母路由 Q7 电线版</a>。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，<strong>对比传统 WiFi，可降低游戏网络卡顿率</strong>。</p><p style=\"text-align: center;\" data-vmark=\"1cab\"><a target=\"_blank\" href=\"https://img.ithome.com/newsuploadfiles/2026/11/e9aebf49-8698-4d5e-8faa-44bd155176d7.png\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ba95929e-1fd5-4f98-9b95-460d6c9a398d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1078\" data-mpos=\"0,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d115844fab09826388f0c655a927540312802381e474703e8ff7935090c0c3d27486ed3593174af244\" class=\"no-alt-img\"></a></p><p data-vmark=\"7436\">IT之家注意到，华为 MatePad Pro 13.2 2023 等机型推送了鸿蒙 <strong>HarmonyOS 7.0.0.111 SP16</strong> 版本升级，带来了星闪电竞专链功能 —— 支持与具备星闪电竞专链特性的华为路由，<strong>基于星闪连接技术建立专属连接</strong>，提升游戏运行的流畅度与稳定性。</p><p style=\"text-align: center;\" data-vmark=\"60ac\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3499ed7b-e21b-48de-af1f-f76e9f08cc7a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"921\" data-mpos=\"0,0\" data-weibo=\"1\"  data-vmark=\"a617\" class=\"no-alt-img\"></p><p data-vmark=\"e3cb\">作为参考，华为官网显示，MatePad Pro 13.2 2023 支持的星闪版本为 NearLink E1.0，这意味着更多初代星闪设备也将支持这项新特性。</p><p data-vmark=\"eb25\">需要注意的是，星闪连接和 WiFi 连接绑定（即和连接对应 WiFi 的路由才可建立星闪连接），<strong>未连接 WiFi 时，星闪手机无法连接星闪路由器</strong>。</p><blockquote class=\"ai-point\" data-ai-task=\"d941eb1f-7d3f-4ac0-8acf-34c98bded4f6\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaWdyc2xhYi5jb20lMkYlMjVFNCUyNUJBJTI1QTclMjVFNCUyNUI4JTI1OUElMjVFNyUyNTk0JTI1OUYlMjVFNiUyNTgwJTI1ODElMkYlMjIlMkMlMjJodHRwcyUzQSUyRiUyRmNvbnN1bWVyLmh1YXdlaS5jb20lMkZjbiUyRnN1cHBvcnQlMkZjb250ZW50JTJGemgtY24xNjA3NDI5OCUyRiUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGY29uc3VtZXIuaHVhd2VpLmNvbSUyRmNuJTJGc3VwcG9ydCUyRmNvbnRlbnQlMkZ6aC1jbjE2MDc0NTY4JTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZjb25zdW1lci5odWF3ZWkuY29tJTJGY24lMkZyb3V0ZXJzJTJGcTclMkZzcGVjcyUyRiUyMiUyQyUyMmh0dHAlM0ElMkYlMkZ3d3cuY2UuY24lMkZjeXNjJTJGdGVjaCUyRmdkMjAxMiUyRjIwMjYwNiUyRnQyMDI2MDYwMl8zMDA1MjY2LnNodG1sJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZiYWlrZS5zb2dvdS5jb20lMkZ2MjE2MDkyMjEyLmh0bSUyMiU1RA==\"><h3 data-vmark=\"dccc\">延伸阅读</h3><p data-vmark=\"e2b1\"><span data-ref-ids=\"\" data-ref-urls=\"0\">星闪（NearLink）是中国自主创新的新一代无线短距通信技术，聚焦于重塑流畅、稳定的设备连接体验，具备低时延、高并发、高可靠、抗干扰等特性。其主导机构为国际星闪联盟（全称国际星闪联盟无线短距通信联盟），该联盟于 2020 年 9 月成立，由行业机构、高校和科研院所、芯片、整车、手机终端、家电等各领域单位组成，并于 2023 年 5 月取得民政部颁发的社会团体法人登记证书，正式成为国际性产业与标准组织。</span></p><p data-vmark=\"ebde\"><span data-ref-ids=\"\" data-ref-urls=\"1,2\">关于文章提到的星闪版本，据华为官网说明，星闪 E1.0（NearLink E1.0）主打“可发现、可连接”，保证设备之间“互连互通”，典型应用包括星闪鼠标、星闪手写笔、星闪游戏手柄、星闪水杯等；而星闪 E2.0（NearLink E2.0）则对应“星闪音频”，是在 E1.0（星闪连接）的基础上，新增了专门为提升音质和音频体验设计的优化方案、协议及编解码，让音频传输更高效、更清晰，例如 FreeBuds 系列、FreeClip 2 等耳机产品。</span></p><p data-vmark=\"7d54\"><span data-ref-ids=\"\" data-ref-urls=\"3,4\">华为凌霄子母路由 Q7 电线版于 2026 年 6 月 1 日在成都举行的华为 nova 16 系列及全场景新品发布会上发布。根据华为官网规格参数，该路由支持第三代凌霄 PLC 组网、Wi-Fi 7+、双频无缝漫游、灵犀双 Wi-Fi、星闪电竞专链以及星闪蓝牙双模网关等功能，母路由理论无线速率总和为 3570 Mbps。</span></p><p data-vmark=\"4205\"><span data-ref-ids=\"\" data-ref-urls=\"5\">至于此次获推新功能的华为 MatePad Pro 13.2 英寸，其于 2023 年 9 月 25 日发布，官方发行价 5199 元起，是华为第一款官宣星闪技术的产品。该平板搭载 13.2 英寸柔性 OLED 屏幕，分辨率为 2880×1920 像素，出厂搭载 HarmonyOS 4 系统，电池等效容量为 10100 mAh（典型值）。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/026/995.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/995.htm"
+    },
+    {
+      "id": 5326,
+      "title": "华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速",
+      "summary": "IT之家 11 月 13 日消息，华为麒麟官方公众号继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，新一代灵犀 CPU 详情已公开。 据介绍，麒麟 9050 系列搭载新一代灵犀 CPU，支持 9 核 16 线程超线程技术，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%，配合鸿蒙应用并行化与智能调度，多任务更流畅。 重载场景（应用启动、大文件加载、游戏运行）由 1 超大核 + 2 性能大核负责；多任务场景（UX 交",
+      "content": "<p data-vmark=\"7f06\">IT之家 11 月 13 日消息，华为麒麟官方公众号继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，<strong>新一代灵犀 CPU 详情已公开</strong>。</p><p data-vmark=\"0cb9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9508c846-9f1a-4b6b-b376-97eea9575995.jpg\" w=\"1080\" h=\"5267\" data-weibo=\"0\" alt=\"图片\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1f052c2ab40cc9b10f2b577847670ac90002d354fd49883dfca335371bffc87ecde589c53889d9d3e\" class=\"nowebp\" data-vmark=\"9c55\"></p><p data-vmark=\"02e7\">据介绍，麒麟 9050 系列搭载新一代灵犀 CPU，<strong>支持 9 核 16 线程超线程技术</strong>，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%，配合鸿蒙应用并行化与智能调度，多任务更流畅。</p><p data-vmark=\"5702\">重载场景（应用启动、大文件加载、游戏运行）由 1 超大核 + 2 性能大核负责；多任务场景（UX 交互、悬浮窗、视频通话、分屏）由 4 能效大核负责；日常场景（浏览资讯、短视频）由 2 小核负责。</p><p data-vmark=\"9e10\">此外，麒麟 9050 系列芯片还支持内存压缩加速器，压缩率提升 45%，<strong>可用内存平均增加 3GB</strong>，后台多任务会更从容；智能异构调度可提升设备续航，硬化低时延调度让 XPU 协同更高效。</p><p data-vmark=\"944f\">据IT之家此前报道，在华为今年 10 月举行的 2026 麒麟媒体沟通会上，华为半导体业务无线终端芯片产品管理部部长徐松余表示，<a target=\"_blank\" href=\"https://www.ithome.com/1/012/176.htm\">麒麟 9050 系列作为首款逻辑折叠的 τ 芯片，将开启未来 10 年新征程</a>。PPT 显示，华为目标在 2031 年实现 P 核频率突破 5GHz。</p><p data-vmark=\"7437\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/89b632fa-5575-4366-8888-8dae83f963d6.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"960\" data-vmark=\"f045\" data-mpos=\"0,2\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/026/993.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/993.htm"
+    },
+    {
+      "id": 5327,
+      "title": "麒麟 8000 系也有份：华为更多机型更新 HarmonyOS 7 系统后补齐沉浸光感粒子动效",
+      "summary": "IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级，新增粒子动效。 值得一提的是，此次补齐沉浸光感粒子动效的机型部分搭载的是麒麟 8000 系处理器，这意味着该特性不再是旗舰专属。 参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品",
+      "content": "<p data-vmark=\"d437\">IT之家 11 月 13 日消息，据多位用户反馈，华为 nova 12 系列、nova Flip、畅享 90 系列、畅享 70X 等机型已开启鸿蒙 HarmonyOS 7.0.0.111 新版本（SP 后缀随机型不同有所区别）升级，<strong>新增粒子动效</strong>。</p><p style=\"text-align: center;\" data-vmark=\"5902\"><img src=\"https://img.ithome.com/newsuploadfiles/2024/1/c6e272cb-d522-427e-912a-29f6d5b49c27.jpg\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"dc47\" class=\"no-alt-img\"></p><p data-vmark=\"523d\">值得一提的是，<strong>此次补齐沉浸光感粒子动效的机型部分搭载的是麒麟 8000 系处理器</strong>，这意味着该特性不再是旗舰专属。</p><p style=\"text-align: center;\" data-vmark=\"3020\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/184b0294-4398-4765-9bec-ead240033b87.jpg\" w=\"846\" h=\"1725\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"1,0\" data-marks=\"1931fd9d012eb6d1fc5bf3d6d31a4d60296740eee2ca0906f3570b61bd713b251c02d58bb8c6155d2fccd9c57f718d9a\" data-vmark=\"c8ea\"></p><p data-vmark=\"87d6\">参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚正式发布了鸿蒙 HarmonyOS 7 操作系统。</p><p data-vmark=\"1741\">华为在鸿蒙 HarmonyOS 7 上带来了沉浸光感和粒子动效新美学特性，支持拖动图标时，光影随指尖划出轨迹；滑动消除通知消息，通知栏化作光感粒子飘散等效果。</p><p style=\"text-align: center;\" data-vmark=\"8e62\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0f598225-01b2-476b-b6c1-f57ab9de95fc.jpg\" w=\"1440\" h=\"2001\" data-vmark=\"b7c3\" data-weibo=\"2\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/026/991.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/991.htm"
+    },
+    {
+      "id": 5328,
+      "title": "鸿蒙智行问界新 M8 旗舰 SUV 上市 2 小时大定破 4600 台，37.98 万元起",
+      "summary": "IT之家 11 月 13 日消息，今天下午，鸿蒙智行问界新 M8 旗舰 SUV 正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万-46.98 万元。 博主 @我鸿 刚刚分享了问界新 M8 的首销情况：上市 2 小时大定突破 4600 台。 IT之家附鸿蒙智行问界新 M8 亮点一图知如下：",
+      "content": "<p data-vmark=\"5714\">IT之家 11 月 13 日消息，今天下午，鸿蒙智行问界新 M8 旗舰 SUV 正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万-46.98 万元。</p><p data-vmark=\"a10c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/985e0f4b-17f8-45d5-863d-e465fc88c1e9.jpg\" w=\"1280\" h=\"960\" data-vmark=\"278d\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1b190e9b32db8299b2b9eaf2f96d10bd1b4fe78d71c3916ebd25335108df655a070ec18b6540653eb\" class=\"no-alt-img\"></p><p data-vmark=\"2cae\">博主 @我鸿 刚刚分享了问界新 M8 的首销情况：<strong>上市 2 小时大定突破 4600 台</strong>。</p><p data-vmark=\"aa93\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9cc4d10d-ea4d-412c-ac19-04554e2c1cd8.png\" w=\"798\" h=\"1381\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F5717069810%2FRreDgsIyQ%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d171e2d08abbd3e349aa9b95e583af3c586d3af4aa44fdde9b5ed8f77bd42b7b3c9815d0e257069356\" data-vmark=\"0604\"></p><p data-vmark=\"936f\">IT之家附鸿蒙智行问界新 M8 亮点一图知如下：</p><p data-vmark=\"96e8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f29630ae-5f30-4a91-b5bd-add5ad7d0c21.jpg\" w=\"872\" h=\"12381\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\"  data-vmark=\"574b\"></p>",
+      "link": "https://www.ithome.com/1/026/966.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/966.htm"
+    },
+    {
+      "id": 5329,
+      "title": "再次延期：华为 HarmonyOS 7 小艺 AI 快捷栏 11 月中旬开推，首批含 Pura X View 等",
+      "summary": "IT之家 11 月 13 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 今年 10 月，华为客户服务曾透露该功能预计在 10 月底或 11 月初逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方给出了更详细的计划表： 推",
+      "content": "<p data-vmark=\"95cf\">IT之家 11 月 13 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，<strong>华为还剧透了全新功能 —— 小艺 AI 快捷栏</strong>。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</p><p data-vmark=\"eb0d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a8efa3d-3873-4f28-bba1-16bf0e7b88bd.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"638\" data-vmark=\"b50f\" data-mpos=\"2,0\" data-weibo=\"0\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"ea78\">今年 10 月，华为客户服务曾透露该功能预计在 10 月底或 11 月初逐步和大家见面。IT之家今日再次就该功能的上线时间进行了询问，对方给出了更详细的计划表：</p><table><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\">推送时间</td><td valign=\"middle\" align=\"center\">手机型号</td><td valign=\"middle\" align=\"center\">平板型号</td></tr><tr><td valign=\"middle\" align=\"center\">2026 年 11 月中旬</td><td valign=\"middle\" align=\"center\"><p data-vmark=\"278b\" style=\"text-align: center;\"><strong> <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/10/08/8b719d5e-76dc-4bb9-bb64-e79651e91957.png?x-bce-process=image/format,f_auto\" data-topic-id=\"67618\">HUAWEI Mate 90</span>，Mate 90 Pro，Mate 90 RS，Pura X View</strong></p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"bf7e\" style=\"text-align: center;\">/</p></td></tr><tr><td valign=\"middle\" align=\"center\">2026 年 12 月（第一批推送）</td><td valign=\"middle\" align=\"center\"><p data-vmark=\"d949\" style=\"text-align: center;\">·Mate 80 系列</p><p data-vmark=\"d60e\" style=\"text-align: center;\">·Pura 90 Pro、Pura 90 Pro Max、Pura 90</p><p data-vmark=\"addc\" style=\"text-align: center;\">·Pura X Max 系列</p><p data-vmark=\"9487\" style=\"text-align: center;\">·Mate X7 系列</p><p data-vmark=\"8b59\" style=\"text-align: center;\">·nova 16 Ultra、nova 16 Pro、nova 16、nova 16z</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"9a53\" style=\"text-align: center;\">MatePad Mini、MatePad 11.5 2026、MatePad Edge、MatePad Pro Max、HUAWEI MatePad Pro 12 英寸 2026、HUAWEI MatePad Air 12 英寸（第三代）、<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/11/03/9e3ee5e5-3d12-45a7-a4ee-f37733b22612.png?x-bce-process=image/format,f_auto\" data-topic-id=\"70214\">HUAWEI MatePad Air Z</span></p></td></tr><tr><td valign=\"middle\" align=\"center\">2026 年 12 月（第二批推送）</td><td valign=\"middle\" align=\"center\"><p data-vmark=\"f551\" style=\"text-align: center;\">·Mate 70、Mate 70 Pro、Mate 70 Pro 优享版、Mate 70 Pro+、Mate 70 RS、Mate 70 Air</p><p data-vmark=\"ecf6\" style=\"text-align: center;\">·Mate X6 系列</p><p data-vmark=\"15de\" style=\"text-align: center;\">·Pura 80 系列</p><p data-vmark=\"2d63\" style=\"text-align: center;\">·Pura X 系列</p><p data-vmark=\"4eb1\" style=\"text-align: center;\">·Pura 70、Pura 70 Pro、Pura 70 Pro+、Pura 70 Ultra、Pura 70 北斗卫星消息版</p><p data-vmark=\"2845\" style=\"text-align: center;\">·Mate 60、Mate 60 Pro、Mate 60 Pro+、Mate 60 RS | ULTIMATE DESIGN</p><p data-vmark=\"d2f2\" style=\"text-align: center;\">·nova 15 系列和 nova 14 系列</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"0d67\" style=\"text-align: center;\">MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Air 12 2025、MatePad 11.5 S 2025</p></td></tr><tr><td valign=\"middle\" align=\"center\">2027 年 1 月初</td><td valign=\"middle\" align=\"center\"><p data-vmark=\"29c7\" style=\"text-align: center;\">·Mate XTs、Mate XT 非凡大师</p><p data-vmark=\"53d7\" style=\"text-align: center;\">·Mate X5 系列</p><p data-vmark=\"a738\" style=\"text-align: center;\">·Pocket 2 系列</p><p data-vmark=\"c4b7\" style=\"text-align: center;\">·nova Flip 系列</p><p data-vmark=\"492f\" style=\"text-align: center;\">·nova 13 系列</p><p data-vmark=\"cc8f\" style=\"text-align: center;\">·nova 12、nova 12 Ultra、nova 12 Ultra 星耀版、nova 12 Pro</p></td><td valign=\"middle\" align=\"center\"><p data-vmark=\"e16f\" style=\"text-align: center;\">MatePad Pro 13.2 2023、MatePad Pro 11 2024、MatePad Pro 12.2 2024、MatePad Air 12 2024、MatePad 11.5\"S 2024</p></td></tr></tbody></table><p data-vmark=\"6bd8\" style=\"text-align: left;\">华为客户服务表示，12GB 及以上内存的手机、折叠屏、平板机型支持 AI 快捷栏，<strong>其他机型推送计划会持续刷新</strong>。</p><p data-vmark=\"3100\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e5e9749b-0d39-40a4-9c9f-c28bedd2e436.jpg\" w=\"1320\" h=\"6441\" data-mpos=\"1,0\" data-weibo=\"1\"  data-vmark=\"a1b4\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"baef\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"68a6\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/999/277.htm\">华为鸿蒙 HarmonyOS 7 操作系统正式发布：全新空间美学设计语言，搭载系统智能体小艺</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/962.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/962.htm"
+    },
+    {
+      "id": 5330,
+      "title": "超 19 万名车主报名参赛，第二届华为乾崑智驾公开赛今日收官",
+      "summary": "IT之家 11 月 13 日消息，历时 14 天的第二届华为乾崑智驾公开赛今日正式收官。本届赛事自 10 月 31 日开赛以来，吸引了超过 19 万名车主报名参与，赛事围绕真实出行场景设置八大赛道，覆盖城市通勤、乡道漫游、高速领航、停车泊车等多个环节。 与传统竞技赛事不同，本届公开赛将“赛道即日常”的理念融入比赛，让车主在真实道路中体验辅助驾驶，从复杂园区、盘山道路到极窄路段，从城市通勤到郊野出行，多样化的道路环境，也让华为乾崑智驾 ADS 5 的能力得到了更充分的展示。 对",
+      "content": "<p data-vmark=\"b980\">IT之家 11 月 13 日消息，历时 14 天的第二届华为乾崑智驾公开赛今日正式收官。本届赛事自 10 月 31 日开赛以来，吸引了超过 19 万名车主报名参与，赛事围绕真实出行场景设置八大赛道，覆盖城市通勤、乡道漫游、高速领航、停车泊车等多个环节。</p><p data-vmark=\"9c9c\">与传统竞技赛事不同，本届公开赛将“赛道即日常”的理念融入比赛，让车主在真实道路中体验辅助驾驶，从复杂园区、盘山道路到极窄路段，从城市通勤到郊野出行，多样化的道路环境，也让华为乾崑智驾 ADS 5 的能力得到了更充分的展示。</p><p style=\"text-align: center;\" data-vmark=\"6c2a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8c7ab016-5778-4787-b462-07fb55206a85.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1118\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"fe89\" class=\"no-alt-img\"></p><p data-vmark=\"dac9\">对于日常驾驶来说，城市主干道只是出行的一部分，复杂环岛、没有清晰标线的乡间小路，以及老城区里的狭窄道路，同样是车主经常遇到的情况。本届赛事将这些非标准路况纳入体验范围。</p><p data-vmark=\"2f2c\">此外，华为乾崑智驾 ADS 5 还新增了城区漫游巡航辅助 RCA。不同于需要提前规划路线的传统领航辅助，该功能无需设置目的地，也不必开启导航，即可在城区道路开启漫游巡航，支持红绿灯识别、路口连续通行以及自主变道、超车等操作。进入园区后，用户同样可以开启漫游巡航辅助，并根据需要就近选择空闲车位泊车。</p><p data-vmark=\"a717\">停车也是本届赛事关注的重点。针对车位被占、通道狭窄等日常停车难题，华为乾崑智驾 ADS 5 车位到车位 3.0 支持车位与路边之间自由切换。如果抵达停车场后发现原定车位已被占用，系统还可以继续漫游寻找其他空闲车位。</p><p style=\"text-align: center;\" data-vmark=\"afa3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e621fbea-2aa3-46cb-bbb9-d156beb4f020.jpg?x-bce-process=image/format,f_auto\" w=\"1600\" h=\"900\" data-weibo=\"1\" data-vmark=\"2719\" class=\"no-alt-img\"></p><p data-vmark=\"2aae\">与此同时，守位泊车、手势泊车以及即插即充等功能也被纳入体验范围。其中，即插即充支持车辆停入充电车位后，通过插入充电枪直接启动充电，无需再进行扫码操作。</p><p data-vmark=\"084a\">安全方面，本届赛事设置了安全挑战赛道，重点体验华为乾崑智驾 ADS 5 的防御性安全能力。其新增的后向主动防撞辅助，在城区快速路或高速行驶时，如果后方车辆近距离逼近、存在追尾风险，系统会在判断前方环境安全后主动加速，以降低被追尾的风险。</p><p data-vmark=\"12d4\">从城区到郊野，从道路领航到车位到车位 3.0，本届公开赛将辅助驾驶体验融入车主日常出行的多个环节。19 万车主的参与，也让华为乾崑智驾 ADS 5 在真实道路中的能力得到了一次集中展示。</p><p data-vmark=\"61ca\">对于辅助驾驶而言，技术实力不仅体现在功能和参数上，更体现在面对复杂多变的道路环境时，能否为用户带来稳定、可靠的出行体验。这也是本届华为乾崑智驾公开赛将赛场搬到真实道路上的重要意义。</p>",
+      "link": "https://www.ithome.com/1/026/957.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/957.htm"
+    },
+    {
+      "id": 5331,
+      "title": "新紫光集团与北汽集团成立联合创新中心，围绕 SoC 芯片、智能座舱等合作",
+      "summary": "IT之家 11 月 13 日消息，11 月 12 日，新紫光集团与北汽集团在北京举行联合创新中心揭牌暨深化合作签约仪式。双方将围绕 SoC 芯片、舱驾控域控、智能座舱、智能底盘域控等重点领域深化合作，推动汽车芯片研发与整车应用深度融合。 新紫光集团董事长李滨与北汽集团党委书记、董事长张建勇共同为“北汽集团 × 新紫光集团联合创新中心”揭牌。 签约仪式上，新紫光集团旗下紫光同芯与北汽集团旗下北汽研究总院签署战略合作协议，将围绕先进车规工艺舱驾一体 SoC 芯片开展联合研发。IT",
+      "content": "<p data-vmark=\"b8a1\">IT之家 11 月 13 日消息，11 月 12 日，新紫光集团与北汽集团在北京举行联合创新中心揭牌暨深化合作签约仪式。双方将围绕<strong> SoC 芯片、舱驾控域控、智能座舱、智能底盘域控</strong>等重点领域深化合作，推动汽车芯片研发与整车应用深度融合。</p><p data-vmark=\"0a3d\">新紫光集团董事长李滨与北汽集团党委书记、董事长张建勇共同为“北汽集团 × 新紫光集团联合创新中心”揭牌。</p><p style=\"text-align: center;\" data-vmark=\"6c0b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3725e971-5651-431b-a6a2-82e7bdaf6413.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1368\" data-weibo=\"0\" data-vmark=\"98bf\" class=\"no-alt-img\"></p><p data-vmark=\"3460\">签约仪式上，新紫光集团旗下紫光同芯与北汽集团旗下北汽研究总院签署战略合作协议，<strong>将围绕先进车规工艺舱驾一体 SoC 芯片开展联合研发</strong>。IT之家获悉，双方将共同打造<strong>面向智能汽车的系统级解决方案</strong>，加快相关技术和产品在整车场景中的应用落地。</p><p data-vmark=\"c28e\">双方表示，将进一步发挥各自优势，加快重点合作项目落地，<strong>推动国产汽车芯片规模化应用</strong>，共同促进智能汽车产业高质量发展。</p>",
+      "link": "https://www.ithome.com/1/026/954.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/954.htm"
+    },
+    {
+      "id": 5332,
+      "title": "寻找“下一个英伟达”：台积电拟设立 5 亿美元创投基金",
+      "summary": "IT之家 11 月 13 日消息，据日经亚洲今天（13 日）上午报道，台积电计划设立一只规模 5 亿美元（IT之家注：现汇率约合 33.43 亿元人民币）的创投基金，扶持有望成长为下一个英伟达或博通的芯片初创企业。 台积电业务开发及全球销售资深副总经理、副联席首席运营官张晓强透露，随着 AI 产业蓬勃发展，公司希望通过新基金扩大产业生态，并建立更加规范的投资机制。本周公布的新基金还可能投资供应商及其他上游合作伙伴，不再将投资对象局限于直接客户。 张晓强首次透露设立专门投资部门",
+      "content": "<p data-vmark=\"39df\">IT之家 11 月 13 日消息，据日经亚洲今天（13 日）上午报道，台积电计划设立一只规模 5 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 33.43 亿元人民币）</span>的创投基金，扶持有望成长为下一个英伟达或博通的芯片初创企业。</p><p data-vmark=\"7d86\">台积电业务开发及全球销售资深副总经理、副联席首席运营官张晓强透露，随着 AI 产业蓬勃发展，公司希望通过新基金扩大产业生态，并建立更加规范的投资机制。本周公布的新基金还可能投资供应商及其他上游合作伙伴，不再将投资对象局限于直接客户。</p><p data-vmark=\"a343\">张晓强首次透露设立专门投资部门的原因：“我们认为，<strong>是时候建立正式的投资机制了</strong>。我们也希望扩大投资范围，不再只面向直接客户，而是借此发展更广泛的产业生态，包括供应商等上游合作伙伴。”</p><p data-vmark=\"dbfe\">张晓强还谈到了台积电<strong>向 Anthropic 和 OpenAI 各投最多 5 亿美元</strong><span class=\"exch-money-value\">（现汇率约合 33.43 亿元人民币）</span>背后的原因。“投资 Anthropic 或 OpenAI，可以形成<strong>相互促进的良性循环</strong>，让整个产业生态更加丰富、健康，也有望进一步扩大规模。我们希望继续推动硅技术进步，满足未来的算力需求。”</p><p data-vmark=\"ed07\">新创投基金的<strong>初始规模为 5 亿美元</strong><span class=\"exch-money-value\">（现汇率约合 33.43 亿元人民币）</span>，远高于台积电 2021 年设立的 2 亿美元<span class=\"exch-money-value\">（现汇率约合 13.37 亿元人民币）</span>新兴企业基金。此前的基金主要帮助初创企业利用台积电的先进芯片制造技术。</p><p data-vmark=\"152e\">张晓强指出，新创投部门的设立表明，台积电除了向全球芯片巨头提供代工服务，也希望<strong>扶持半导体行业的新兴企业</strong>。“我们不只是服务大客户。说起台积电，大家首先想到的可能是苹果、英伟达、AMD 和博通。没错，他们都是非常优秀的客户。但别忘了，<strong>英伟达刚开始与我们合作时，也只是一家初创企业</strong>。<strong>我们不仅要支持今天的英伟达，也希望扶持未来的英伟达</strong>。”</p><p data-vmark=\"1f94\">台积电承诺投入的资金总额最高达 17 亿美元<span class=\"exch-money-value\">（现汇率约合 113.65 亿元人民币）</span>，涵盖 2021 年的新兴企业基金、新创投部门，以及对 OpenAI 和 Anthropic 的投资计划。张晓强透露，原有基金的投资回报十分出色，如果有需要，台积电也不排除继续扩大新基金的规模。</p>",
+      "link": "https://www.ithome.com/1/026/953.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/953.htm"
+    },
+    {
+      "id": 5333,
+      "title": "韩企雄心勃勃规划吉瓦级数据中心，但目前仅有兆瓦级规模设施落地",
+      "summary": "IT之家 11 月 13 日消息，据韩媒 The Elec 今天（13 日）晚间报道，为满足日益增长的 AI 需求，KT、SK 电讯、Naver 和 NHN Cloud 等韩国企业纷纷提出建设吉瓦级数据中心的计划，但现有设施的容量仍只有数十至数百兆瓦。 相比之下，海外运营商的规模则早已突破 1GW，韩国企业可能因此陷入争夺客户不利、扩建计划延误的恶性循环。 截至 11 月 13 日，韩国企业公布的财报及季度报告显示，KT 和 SK 电讯运营的数据中心容量分别为 152MW 和",
+      "content": "<p data-vmark=\"8916\">IT之家 11 月 13 日消息，据韩媒 The Elec 今天（13 日）晚间报道，为满足日益增长的 AI 需求，KT、SK 电讯、Naver 和 NHN Cloud 等韩国企业纷纷提出建设吉瓦级数据中心的计划，但现有设施的容量仍<strong>只有数十至数百兆瓦</strong>。</p><p data-vmark=\"fec3\">相比之下，海外运营商的规模则早已突破 1GW，韩国企业可能因此陷入争夺客户不利、扩建计划延误的恶性循环。</p><p data-vmark=\"d333\">截至 11 月 13 日，韩国企业公布的财报及季度报告显示，KT 和 SK 电讯运营的数据中心容量分别为 152MW 和 137MW，仅相当于各自 1GW 规划目标的 13% 至 15%。</p><p data-vmark=\"4971\">KT 在第三季度财报电话会议上提出，到 2031 年新增<strong>超过 1GW 的数据中心运营容量</strong>。公司规划的新项目合计 911MW，但只有 200MW 的投资计划得到最终确认。</p><p data-vmark=\"3f21\">SK 电讯同样面临规模差距。公司计划通过 SK Horizon，将现有设施与蔚山、九老在建数据中心的<strong>总容量扩大至 318MW</strong>。这样的扩建进度，也让 SK 集团另行提出的<strong>最高 15GW AI 数据中心建设目标</strong>面临可行性质疑。</p><p data-vmark=\"f0e3\">Naver 在江原道春川市和世宗市分别运营 GAK 春川、GAK 世宗两座数据中心。前者受电容量约 40MW，后者截至 2025 年 10 月的容量为 47MW，计划到 2029 年扩建至 130MW 以上。</p><p data-vmark=\"cb5e\">对于这些韩国企业而言，要跻身拥有 1GW 容量的大型数据中心运营商行列，<strong>仍需要投入巨额资金，并花费相当长的时间</strong>。</p><p data-vmark=\"5bc6\">海外的数据中心运营商<strong>则迈入了吉瓦级规模</strong>。美国 AI 云服务企业 CoreWeave 于当地时间 11 月 10 日公布的第三季度财报显示，投入运营的数据中心容量达到 1.7GW，通过与其他数据中心运营商签约取得的供电容量另有 4.6GW。</p><p data-vmark=\"66af\">CoreWeave 的扩张有实际订单支撑。第三季度营收同比大增 168%，达到 4.9 万亿韩元<span class=\"exch-money-value\">（IT之家注：现汇率约合 245.1 亿元人民币）</span>，在手客户合同金额达到 177 万亿韩元<span class=\"exch-money-value\">（现汇率约合 8,853.54 亿元人民币）</span>。</p><p data-vmark=\"18d7\">CoreWeave CEO 迈克尔 · 因特拉托在财报电话会议上透露，截至 2027 年底，正在洽谈的有效客户需求量达到公司现有可供应容量的 10 倍。</p><p data-vmark=\"a0a7\">韩国企业在客户争夺方面也落后于海外竞争对手。Naver 在第三季度财报电话会议上公布，公司签下了一份 20MW 的供电容量合同。按照 Naver 与博枫等合作伙伴的计划，到 2028 年将提供 200MW 的数据中心容量，但目前签约的部分仅占规划规模的 10%。</p>",
+      "link": "https://www.ithome.com/1/026/951.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/951.htm"
+    },
+    {
+      "id": 5334,
+      "title": "AOC 推出“Q25G5ZE8”24.5 英寸显示器：2K 275Hz，1099 元",
+      "summary": "IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。 京东 AOC Q25G5ZE8 显示器 1099 元直达链接 该机配备一块 2560x1440 分辨率 275Hz Fast IPS 面板，显示器亮度 450 尼特，GtG 响应速度 1ms，覆盖 95% DCI-P3 色域，显示器采用固定支架，本体支持 VESA 壁挂，提供 HDMI 2.0 和 DP 1.4 接口。 IT之家",
+      "content": "<p data-vmark=\"111f\">IT之家 11 月 13 日消息，AOC 现已在京东上架“Q25G5ZE8”24.5 英寸显示器，该机主打 2K 275Hz，定价为 1099 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ogyzcg1\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oGyO5LR\" data-iosurl=\"https://u.jd.com/oGy81Sz\" data-androidurl=\"https://u.jd.com/oryMvir\" data-hosnexturl=\"https://u.jd.com/oO3marj\" data-hosurl=\"https://u.jd.com/o1ywLGP\" data-uwpurl=\"https://u.jd.com/oDyCdVP\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fo1yu5Gz%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oOy8RyZ\" data-lpwxurl=\"https://u.jd.com/oayQafZ\"   data-ncid=\"271892\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/586890/16/1185/178112/6af3cdb7F3d42d513/0083320320cbbd80.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC Q25G5ZE8 显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1099 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"f0d2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4448b854-fcca-498c-a0f6-ed7fd29fc0fa.png\" w=\"802\" h=\"834\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"df4f\"></p><p style=\"text-align: center;\" data-vmark=\"a079\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/aafaeb79-2e6a-4e02-af26-6acfa42c4059.png\" w=\"1122\" h=\"1128\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"58c1\"></p><p data-vmark=\"c406\">该机配备一块 2560x1440 分辨率 275Hz Fast IPS 面板，显示器亮度 450 尼特，GtG 响应速度 1ms，覆盖 95% DCI-P3 色域，显示器采用固定支架，本体支持 VESA 壁挂，提供 HDMI 2.0 和 DP 1.4 接口。</p><p data-vmark=\"8763\">IT之家附显示器参数：</p><p style=\"text-align: center;\" data-vmark=\"4311\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2a77a125-d9ed-4730-903d-1063f43d136b.png\" w=\"1128\" h=\"1124\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"e298\"></p>",
+      "link": "https://www.ithome.com/1/026/942.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/942.htm"
+    },
+    {
+      "id": 5335,
+      "title": "微信鸿蒙版 App 获 8.0.23.37 正式版更新",
+      "summary": "IT之家 11 月 13 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.37 正式版更新。 与往常不同，本次更新日志没有任何内容。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性： 部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐； 发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注",
+      "content": "<p data-vmark=\"203a\">IT之家 11 月 13 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 <strong>8.0.23.37</strong> 正式版更新。</p><p style=\"text-align: center;\" data-vmark=\"a99b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/028b9dd1-85af-475b-af24-b0120257c9ed.jpg\" w=\"1320\" h=\"2724\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"2,0\"  data-vmark=\"2d78\"></p><p data-vmark=\"c159\">与往常不同，本次更新日志没有任何内容。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"d90e\">部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细；</p></li><li><p data-vmark=\"995f\">更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐；</p></li><li><p data-vmark=\"39e3\">发表视频号内容时新增添加标注，视频号已发布的内容点击分享同步新增添加标注；</p></li><li><p data-vmark=\"b2ea\">发现 &gt; 直播 &gt; 更多直播新增搜索按钮；</p></li><li><p data-vmark=\"931e\">听一听主页面右下角新增小微分支入口悬浮按钮，并根据当前页面内容弹出对应提示词，可快速使用听一听相关问小微功能，播放页面点击分享新增问小微（主页面右下角悬浮按钮为逐步开放）；</p></li><li><p data-vmark=\"78ee\">公众号图标焕新，对齐其他端；</p></li><li><p data-vmark=\"d95b\">好友昵称、群昵称、备注、微信号、地区等信息支持长按复制；</p></li><li><p data-vmark=\"9350\">服务号信息流页面已关注的服务号发布的文章支持长按，选择不再关注或删除文章消息；</p></li><li><p data-vmark=\"6dbb\">聊天中的图片或视频点开右下角此聊天中的图片视频按钮样式更改（该条确认为 bug，已在 8.0.23.33 修复）；</p></li><li><p data-vmark=\"b7de\">服务号信息流 &gt; 推荐的贴图长按新增转发；</p></li><li><p data-vmark=\"2e9c\">聊天工具新增问小微（逐步开放，需账号灰度到小微主体）；</p></li><li><p data-vmark=\"8fee\">直播页面支持显示当前直播转发分享人数；</p></li><li><p data-vmark=\"7bb9\">听一听浮标样式焕新；</p></li><li><p data-vmark=\"5a50\">在具有管理权限的群聊中查看群成员资料，进群方式中邀请该群员进群的群员昵称变更为蓝色可点击状态；</p></li><li><p data-vmark=\"1073\">支持展示其他端设置的朋友圈点赞彩蛋；</p></li><li><p data-vmark=\"2049\">视频号内容点击分享新增问小微（逐步开放，需账号灰度到小微主体）；</p></li><li><p data-vmark=\"2536\">服务号的通知提醒红字部分新增新通知的服务号名称提醒，由 [n 条消息] 变更为 [xxx 等 n 条消息]；</p></li><li><p data-vmark=\"45a7\">群收款右上角新增导入，支持在发起群收款时导入账单、群接龙、历史群收款（逐步开放，支持 8.0.22 及以上版本）；</p></li><li><p data-vmark=\"f736\">公众号 / 服务号主页 &gt; 右上角… 新增更多信息，可查看公众号 / 服务号简介、关注时间、基础信息、名称记录、授权第三方服务等信息；</p></li><li><p data-vmark=\"a30a\">小店与卡包 &gt; 右上角…&gt; 设置 &gt; 隐私设置新增小程序订单授权开关，开启后小程序订单信息将同步至「小店与卡包 &gt; 订单」（热更新）；</p></li><li><p data-vmark=\"66fb\">开启群消息免打扰之后，群设置新增以下消息仍通知，可设置 @我、@所有人、群公告以及指定群成员的消息在群消息免打扰时仍通知（逐步开放）；</p></li><li><p data-vmark=\"8d4e\">设置＞消息通知＞新增消息提示音，可设置微信内置的 7 个提示音（逐步开放）；</p></li><li><p data-vmark=\"0466\">设置＞账号安全新增登录设备管理，可删除登录设备，删除后在对应设备登录需进行安全验证（逐步开放）；</p></li><li><p data-vmark=\"4e3d\">元宝＞体验更多支持跳转应用市场下载元宝 APP（热更新）；</p></li><li><p data-vmark=\"ffb1\">扫一扫融入小微分支，新增右上角翻转摄像头与底部拍照给 AI，支持识别、翻译、记住此刻、记住朋友（逐步开放，小微分支单独灰度，不依赖小微主体）；</p></li><li><p data-vmark=\"0a08\">服务号＞个人中心新增赞、收藏和最近阅读，记录赞、收藏和最近阅读过的贴图号内容（三端同步新增功能，仅展示贴图号发布的贴图，不展示公众号发布的贴图，8.0.23.33 或 34 版本新增）；</p></li><li><p data-vmark=\"4aa5\">部分视频号视频支持展示右下角小微分支悬浮提问快捷入口（热更新，仅部分视频支持显示，不展示小微分支悬浮提问的视频则展示原有悬浮搜索入口，该功能不依赖小微主体）；</p></li><li><p data-vmark=\"b8cb\">发表朋友圈时新增小微分支 AI 帮写（逐步开放，不依赖小微主体）；</p></li><li><p data-vmark=\"87d3\">听一听＞个人歌单新增歌单来源分类（微信音乐 / QQ 音乐 / 酷狗音乐），支持绑定 QQ 音乐 / 酷狗音乐账号并同步对应平台收藏歌曲（我喜欢）至听一听（逐步开放，前置条件需灰度到音乐空间，可通过已有音乐空间的朋友创建空间并邀请加入激活）；</p></li><li><p data-vmark=\"70a1\">发现＞直播界面逻辑重构对齐，取消更多直播入口，搜索按钮移至一级界面，新增双 11、看剧、颜值、资讯等更多个性化或限时分类（逐步开放，部分分类类型不固定，因账号而异）；</p></li><li><p data-vmark=\"61c9\">我＞小店与卡包新增小店金币 tab，可签到领取金币（逐步开放）；</p></li><li><p data-vmark=\"4e05\">听一听＞个人歌单＞右上角🎧沉浸听歌新增时光电台（逐步开放，需灰度到小微主体）；</p></li><li><p data-vmark=\"5d42\">公众号文章标题下新增 AI 摘要，滑动阅读时右下角新增 AI 摘要悬浮按钮，长按选择文字新增问 AI（需更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"5180\">扫码登录鸿蒙电脑微信时支持选择自动登录该设备（逐步开放，鸿蒙电脑需更新至 4.1.13 及以上版本）；</p></li><li><p data-vmark=\"30ff\">公众号文章或贴图点击分享新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"a6fe\">聊天消息长按新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"02a0\">聊天中的网页链接消息、文档类文件长按新增小微总结（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"f2c5\">公众号文章或贴图中的图片长按新增问小微（需灰度到小微主体并更新至 8.0.23.35 及以上版本）；</p></li><li><p data-vmark=\"d37d\">聊天中的图片点击查看大图新增 AI 处理，编辑图片时新增 AI 处理（逐步开放）；</p></li><li><p data-vmark=\"5fa8\">服务通知右上角新增通知设置，可设置消息免打扰和播放语音提醒开关（逐步开放）；</p></li><li><p data-vmark=\"9806\">部分文章或贴图内容滑动阅读时或打开后停留 3 秒，右下角出现关键词搜索或问小微悬浮按钮（8.0.23.35 及以上版本支持）；</p></li><li><p data-vmark=\"60db\">群公告消息支持通知提醒（热更新）；</p></li><li><p data-vmark=\"f2d3\">支持邀请好友体验小微（小范围逐步开放，需账号已灰度小微主体）；</p></li><li><p data-vmark=\"12a1\">服务＞钱包＞身份信息界面焕新重构（热更新）；</p></li><li><p data-vmark=\"3a9d\">服务＞钱包＞身份信息界面焕新重构（热更新）；</p></li><li><p data-vmark=\"bc94\">群聊中选择提醒的人新增最常提醒，支持显示最近艾特过的群员（逐步开放，灰度到艾特一次后出现）；</p></li><li><p data-vmark=\"2f14\">发现＞游戏＞圈子选择手游对应的圈子，支持启动对应已适配鸿蒙版本的游戏；</p></li><li><p data-vmark=\"2954\">修复了一些已知问题。</p></li></ul></blockquote><p data-vmark=\"fa2a\" style=\"text-align: justify;\">大家在<a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\" title=\"IT之家微信号\" data-androidurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-iosurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wxmpurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp%26openchat%3Dtrue\" data-wapurl=\"weixin://dl/business/?appid=wx8869812e2ddf7133&amp;path=pages/webview/webview&amp;query=url%3Ditmp\">IT之家微信号</a>回复“<span class=\"font-color-red\">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p data-vmark=\"1f40\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"770\" alt=\"\" data-vmark=\"951c\"></p><p data-vmark=\"57c2\" style=\"text-align: center;\"><a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\" data-androidurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-iosurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wxmpurl=\"ithome://openmp?appid=ithome&amp;path=pages%2Fwebview%2Fwebview%3Furl%3Ditmp\" data-wapurl=\"weixin://dl/business/?appid=wx8869812e2ddf7133&amp;path=pages/webview/webview&amp;query=url%3Ditmp\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/2/d715ba69-5ed2-4b1d-a704-bd156713c1a0.gif\" w=\"1179\" h=\"654\" data-source-type=\"1\" data-weibo=\"2\"></a></p>",
+      "link": "https://www.ithome.com/1/026/940.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/940.htm"
+    },
+    {
+      "id": 5336,
+      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+      "summary": "IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。 具体来看，相应文档要求主播应当遮挡大尺度内容，建议主播通过直播伴侣 LUT 滤镜、OBS 滤镜或显卡自带滤镜进行处理，或者直接使用游戏的“色盲模式”，将血液从红色变为绿色、灰色等其他颜色。 参考IT之家先前报道，Rockstar Games 于 11 月 12 日正式",
+      "content": "<p data-vmark=\"0594\">IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\" data-vmark=\"8cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/242de68b-e16d-4295-9c72-e782fd855552.png\" w=\"1440\" h=\"837\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"d00e\"></p><p data-vmark=\"4ab7\">具体来看，相应文档要求主播应当遮挡大尺度内容，建议主播通过直播伴侣 LUT 滤镜、OBS 滤镜或显卡自带滤镜进行处理，或者直接使用游戏的“色盲模式”，将血液从红色变为绿色、灰色等其他颜色。</p><p data-vmark=\"5fd7\">参考IT之家先前报道，Rockstar Games <a href=\"https://www.ithome.com/1/026/006.htm\" target=\"_blank\">于 11 月 12 日正式开通了经认证的抖音官方账号</a>，认证主体为“ROCKSTAR INTERNATIONAL LIMITED”，IP 属地显示为上海，首条视频即为《GTA 6》的预载宣传片。</p>",
+      "link": "https://www.ithome.com/1/026/938.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/938.htm"
+    },
+    {
+      "id": 5337,
+      "title": "成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案",
+      "summary": "IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。 京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 100% 无人化，标志着高价值精密物料物流从单点自动化迈向系统级无人化。 官方表示，半导体正处在 AI 算力、汽车电子需求带动的扩产周期，物流效率直接影响产能释放。行业里对稳定和安全性的要求极其苛刻：成品晶圆单件价值可达 50 万美元（IT之家注：",
+      "content": "<p data-vmark=\"8024\">IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。</p><p data-vmark=\"db26\">京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 <strong>100% 无人化</strong>，标志着高价值精密物料物流从单点自动化迈向系统级无人化。</p><p data-vmark=\"91ef\">官方表示，半导体正处在 AI 算力、汽车电子需求带动的扩产周期，物流效率直接影响产能释放。<strong>行业里对稳定和安全性的要求极其苛刻</strong>：成品晶圆单件价值可达 50 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 334.3 万元人民币）</span>，一个仓库可存放数万件货品，金额高达数十亿美元；存储环境苛刻，需高度无尘、恒温恒湿；一旦错发将面临巨大的时间和经济损失，批次、效期需长期追溯。过往人工操作，不仅劳动强度大、也容易错拣漏拣。</p><p data-vmark=\"aa5f\"><strong>京东物流首次打通了成品晶圆从下线至包装 100% 全自动化链条</strong>：成品晶圆从无尘室（FAB）制作完成后，由铝箔密封，经由无尘机器人抓取入库；入库前，AI 视觉算法将再次核验包装，确保无漏气风险；“智狼”飞梯机器人和搬运机器人配合，快速完成入库、分拣、出库；最后经传送带将其自动打包，出库记录可留存 5—10 年。</p><p data-vmark=\"b6bb\">据介绍，某半导体公司引入 100% 全流程无人化方案后，存储密度提升 210%，库存准确度达 100%，作业效率提升 300%，同等面积存得更多，批次库位实时可查，出入库节拍明显加快。</p>",
+      "link": "https://www.ithome.com/1/026/936.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/936.htm"
+    },
+    {
+      "id": 5338,
+      "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+      "summary": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
+      "content": "<article>\n                                <p>Nvidia's board of directors has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, according to a report from the<a href=\"https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926\"> Financial Times</a> that cites people familiar with the matter. Haas is among several candidates under consideration, although it remains unclear whether he will get a formal offer and/or agree to take the position.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: AI and data centers</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Vh4nY3pMCcmra2ymXah9S7\" name=\"Microsoft data center in Mount Pleasant, Wisconsin\" caption=\"\" alt=\"Microsoft data center in Mount Pleasant, Wisconsin\" src=\"https://cdn.mos.cms.futurecdn.net/Vh4nY3pMCcmra2ymXah9S7-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Microsoft)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cooling/the-data-center-cooling-state-of-play-2025-liquid-cooling-is-on-the-rise-thermal-density-demands-skyrocket-in-ai-data-centers-and-tsmc-leads-with-direct-to-silicon-solutions?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">The data center cooling state of play</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">The custom AI ASIC state of play </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/americas-ai-chip-rules-keep-changing-and-the-rest-of-the-world-is-paying-the-price?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\">America’s AI chip rules keep changing — and the rest of the world is paying the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\">GTC 2026: Ian Buck press Q&amp;A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/demand-for-data-center-cpus-has-surged-and-ai-agents-are-responsible-why-the-cpu-to-gpu-ratio-is-more-important-than-ever-for-hyperscalers?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=datacenter\" target=\"_blank\">Demand for data center CPUs has surged, and AI agents are responsible</a></li></ul></p></div></div><p>The search for Nvidia's next chief executive comes as the company undergoes a leadership transition following <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">Jensen Huang's swift departure from the CEO position</a> earlier this week. For now, Nvidia's chief financial officer Colette Kress serves as interim CEO. The company's board is currently searching for a permanent replacement and is reportedly evaluating both internal and external candidates. Neither Arm nor Nvidia commented on the matter to <em>FT</em>.</p><p>Rene Haas is no stranger to Nvidia, as he spent approximately seven years at the company before leaving in 2013. During his tenure as vice president at Nvidia, he was responsible for multiple projects, including notebook GPUs, Windows-on-Arm, and Tegra system-on-chips. Given that he held senior management positions, he certainly gained experience with Nvidia's operations, corporate culture, and relationships with customers and partners. </p><p>Furthermore, Haas has experience with the development of consumer and data center CPUs as well as GPUs and GPU IP, a combination that is hard to find in the industry. Haas reportedly maintains close ties with Jensen Huang and several members of Nvidia's board, which could make him a particularly attractive candidate for a company whose strategy and management structure have orbited around its founder for more than three decades.</p><p>While at Arm, Haas has demonstrated a willingness to make substantial strategic changes at the company. Since Haas took the reins in 2022, Arm has introduced its <a href=\"https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p\">Compute Subsystems (CSS) initiative</a>, providing customers with complete and validated processor platform design, making it easier for newcomers to enter the market. Arm also introduced its first own-brand AGI CPU, putting the company in direct competition with some of its traditional customers. Both initiatives represent significant departures from Arm's traditional business model; however, they demonstrate Haas' readiness to pursue new revenue opportunities despite risks and the possibility of damaging relationships with long-term partners.</p><p>Another advantage is Haas' extensive experience with the semiconductor industry in general. Arm's CPU and GPU technologies are used in system-on-chips developed by hundreds of companies that have very distinctive requirements, including Nvidia itself, Apple, Qualcomm, and MediaTek, just to name a few.</p><p>In addition, Haas led Arm through its initial public offering in 2023 and therefore has experience with investors and regulators. Also, Haas happens to be the CEO of SoftBank, the parent of Arm.</p><p>Nevertheless, Haas' potential appointment would not be without challenges, primarily because he has never managed a company the scale of Nvidia. Arm has around 10,000 employees worldwide; it develops and licenses various semiconductor IP, primarily CPU and GPU technologies, to a wide range of customers with distinct needs. By contrast, Nvidia designs CPUs, GPUs, networking equipment, complete AI systems, and software platforms and has a headcount of about 42,000. As a result, if Haas becomes the boss of Nvidia, he will have to manage a considerably bigger organization with a dramatically more complicated product portfolio and supply chain. Furthermore, replacing Huang, who has led Nvidia since its establishment in 1993 and personally shaped its technology strategy and business tactics, would be a formidable task for virtually any executive.</p><p>Ironically, Haas' appointment (if it happens) would create an unusual situation in which Nvidia will be led by the chief executive of a company it attempted to acquire in 2020 and abandoned the transaction in 2022 amid regulatory opposition.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "UsxYtjWTpDab39wuudUaXX"
+    },
+    {
+      "id": 5339,
+      "title": "Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts",
+      "summary": "The best sub-$100 gifts to get the keyboard enthusiast in your life — even if they already have their end-game keyboard.",
+      "content": "<article>\n                                <p>Keyboards are one of the most important, if not <em>the </em>most important, PC peripherals. You use your keyboard constantly — it's the primary input source for just about everyone (there are a few exceptions). And everyone deserves a keyboard that's a little nicer than the $5 board that was tossed in for free with your last PC purchase. Or — god forbid — whatever's built into your laptop. </p><p>If you've got a gamer, a writer, or, well, anyone who uses a computer for any reason in your life, they could probably use a keyboard upgrade. Even keyboard enthusiasts with multiple mechanical boards will appreciate a new one, especially if it fills a niche — say, a low-profile board that's portable and perfect for traveling, or a nostalgia-inducing retro-inspired board that's reminiscent of their favorite old-school game console. </p><p>Mechanical keyboards don't usually come cheap, but there are several budget-friendly boards that any keyboard lover would be thrilled to receive. And if they've already got the board of their dreams, pick up a fun accessory — a cool-looking cable, some pretty keycaps, or a wrist rest — to really elevate their typing experience.</p><h2 id=\"keyboards-under-100\">Keyboards under $100</h2><p>There aren't a ton of budget-friendly mechanical keyboards built for keyboard enthusiasts, but there are a few. These are all pre-built, so your recipient won't need to know how to assemble anything, but you can also often pick up bare-bones keyboard kits for cheaper than their fully built counterparts.</p><div class=\"product\"><a data-dimension112=\"590c5490-df24-11f1-97cf-af1c2b6121a1\" data-action=\"Deal Block\" data-label=\"C2 Pro\" data-dimension48=\"C2 Pro\" data-dimension25=\"$67.20\" href=\"https://www.amazon.com/dp/B09MN9P3NF?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:69.20%;\"><img id=\"mxhxiy6ZbXoKbrwvvNDygh\" name=\"keychronc2pro\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/mxhxiy6ZbXoKbrwvvNDygh-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"1038\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/dp/B09MN9P3NF?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"590c5490-df24-11f1-97cf-af1c2b6121a1\" data-action=\"Deal Block\" data-label=\"C2 Pro\" data-dimension48=\"C2 Pro\" data-dimension25=\"$67.20\">C2 Pro: was $84.00 now $67.20</a></strong><br />This full-size wired mechanical keyboard comes with red (linear) or brown (tactile) switches and has a hot-swappable PCB, PBT keycaps, and up to a 1,000 Hz polling rate — so it's great for both work and play. <a class=\"view-deal button\" href=\"https://www.amazon.com/dp/B09MN9P3NF?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"590c5490-df24-11f1-97cf-af1c2b6121a1\" data-action=\"Deal Block\" data-label=\"C2 Pro\" data-dimension48=\"C2 Pro\" data-dimension25=\"$67.20\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"ba8598ba-df21-11f1-8d22-c765f220ca18\" data-action=\"Deal Block\" data-label=\"Aula F75\" data-dimension48=\"Aula F75\" data-dimension25=\"$64.99\" href=\"https://www.amazon.com/dp/B0CNT61VMZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:50.00%;\"><img id=\"RMaqJtBFcZxD9tNmUzeGDf\" name=\"61MC8BK0w0L._AC_SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/RMaqJtBFcZxD9tNmUzeGDf-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"500\" height=\"250\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/dp/B0CNT61VMZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba8598ba-df21-11f1-8d22-c765f220ca18\" data-action=\"Deal Block\" data-label=\"Aula F75\" data-dimension48=\"Aula F75\" data-dimension25=\"$64.99\">Aula F75: was $79.99 now $64.99</a></strong><br />This compact 75% keyboard comes with Leobog Reaper switches, PBT keycaps, and a programmable knob. The shell is mostly plastic, but the layers of sound-dampening material make for a nice \"thock.\"<a class=\"view-deal button\" href=\"https://www.amazon.com/dp/B0CNT61VMZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba8598ba-df21-11f1-8d22-c765f220ca18\" data-action=\"Deal Block\" data-label=\"Aula F75\" data-dimension48=\"Aula F75\" data-dimension25=\"$64.99\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"ba85993c-df21-11f1-82f0-83f81f12b3b4\" data-action=\"Deal Block\" data-label=\"Ajazz AK820 Pro\" data-dimension48=\"Ajazz AK820 Pro\" data-dimension25=\"$55.19\" href=\"https://www.amazon.com/dp/B0CMWY2QJZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback&amp;th=1\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:50.00%;\"><img id=\"VPX6SMWQdtUvbQsouSfAE5\" name=\"Ajazz AK820 Pro.jpg\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/VPX6SMWQdtUvbQsouSfAE5-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"500\" height=\"250\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/dp/B0CMWY2QJZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback&amp;th=1\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba85993c-df21-11f1-82f0-83f81f12b3b4\" data-action=\"Deal Block\" data-label=\"Ajazz AK820 Pro\" data-dimension48=\"Ajazz AK820 Pro\" data-dimension25=\"$55.19\">Ajazz AK820 Pro: was $68.99 now $55.19</a></strong><br />This 75% wireless mechanical keyboard features a gasket mount design, PBT keycaps, bright RGB backlighting, and a customizable TFT screen, as well as a programmable knob. And a hot-swappable PCB so you can bring your own switches.<a class=\"view-deal button\" href=\"https://www.amazon.com/dp/B0CMWY2QJZ?lv=shuf&amp;ascsubtag=tomshardware-us-1424792658741517778&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback&amp;th=1\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba85993c-df21-11f1-82f0-83f81f12b3b4\" data-action=\"Deal Block\" data-label=\"Ajazz AK820 Pro\" data-dimension48=\"Ajazz AK820 Pro\" data-dimension25=\"$55.19\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"ba8599aa-df21-11f1-95ad-d3a76ff43f34\" data-action=\"Deal Block\" data-label=\"ND75 LP\" data-dimension48=\"ND75 LP\" data-dimension25=\"$90.00\" href=\"https://www.amazon.com/dp/B0DLWL65S9?lv=shuf&amp;ascsubtag=tomshardware-us-1377340555288909303&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:62.53%;\"><img id=\"ntoiB7Ux2ZzfaxKaGj3SoE\" name=\"61i-p6HoN+L._AC_SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/ntoiB7Ux2ZzfaxKaGj3SoE-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"938\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/dp/B0DLWL65S9?lv=shuf&amp;ascsubtag=tomshardware-us-1377340555288909303&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba8599aa-df21-11f1-95ad-d3a76ff43f34\" data-action=\"Deal Block\" data-label=\"ND75 LP\" data-dimension48=\"ND75 LP\" data-dimension25=\"$90.00\">ND75 LP: $90.00</a></strong><br />This low-profile wireless 75% mechanical keyboard comes with a wrist rest that doubles as a keyboard stand to adjust the angle. The board comes with low-profile linear switches and features a full aluminum body, so it looks and feels premium — but still costs under $100.<a class=\"view-deal button\" href=\"https://www.amazon.com/dp/B0DLWL65S9?lv=shuf&amp;ascsubtag=tomshardware-us-1377340555288909303&amp;th=1&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"ba8599aa-df21-11f1-95ad-d3a76ff43f34\" data-action=\"Deal Block\" data-label=\"ND75 LP\" data-dimension48=\"ND75 LP\" data-dimension25=\"$90.00\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"35c49068-def9-11f1-962a-171c1c1d1d85\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$85.99\" href=\"https://www.amazon.com/gp/product/B0D4QB5HMZ\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1422px;\"><p class=\"vanilla-image-block\" style=\"padding-top:75.81%;\"><img id=\"UqHjj3eYADKU8VECikAtk7\" name=\"612GLQC07wL._AC_SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/UqHjj3eYADKU8VECikAtk7-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1422\" height=\"1078\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/gp/product/B0D4QB5HMZ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"35c49068-def9-11f1-962a-171c1c1d1d85\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$85.99\">Retro Mechanical Keyboard: was $89.99 now $85.99</a></strong><br />This 87-key Bluetooth/2.4GHz/USB keyboard has all the retro vibes of a classic IBM-style keyboard, but without the huge price tag! Kailh Box Switch V2 White mechanical key switches, dye-sub PBT keycaps, and multiple connection options make this a great keyboard for retro computing and getting work done.<a class=\"view-deal button\" href=\"https://www.amazon.com/gp/product/B0D4QB5HMZ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"35c49068-def9-11f1-962a-171c1c1d1d85\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$85.99\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"35c490d6-def9-11f1-8ee4-27056c568816\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$99\" href=\"https://www.amazon.com/Mechanical-Keyboard-Backlight-Bluetooth-Swappable-Wireless/dp/B0DMTLLSBN\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"xHxYUtHwmkouciwQbwcCTG\" name=\"716LOjB0T6L._SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/xHxYUtHwmkouciwQbwcCTG-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"1500\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Mechanical-Keyboard-Backlight-Bluetooth-Swappable-Wireless/dp/B0DMTLLSBN\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"35c490d6-def9-11f1-8ee4-27056c568816\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$99\">Retro Mechanical Keyboard: was $119.99 now $99</a></strong><br />An OG-Xbox-inspired 87-key keyboard with RGB backlight! You get 87 keys with Kailh Jellyfish X switches, double-layered ABS keycaps, and a lovely translucent green plastic shell! The colored cursor keys are beautiful. <a class=\"view-deal button\" href=\"https://www.amazon.com/Mechanical-Keyboard-Backlight-Bluetooth-Swappable-Wireless/dp/B0DMTLLSBN\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"35c490d6-def9-11f1-8ee4-27056c568816\" data-action=\"Deal Block\" data-label=\"Retro Mechanical Keyboard\" data-dimension48=\"Retro Mechanical Keyboard\" data-dimension25=\"$99\">View Deal</a></p></div><h2 id=\"keyboard-accessories-under-100\">Keyboard accessories under $100</h2><p>If you're shopping for a keyboard enthusiast — or anyone who already has a keyboard they love, getting them a keyboard as a gift probably won't go over quite as well. But that doesn't mean you can't still pick up an accessory or two to complement their favorite board.</p><div class=\"product\"><a data-dimension112=\"e8b6c474-defa-11f1-8cb6-035d1b5ac6de\" data-action=\"Deal Block\" data-label=\"Premium Coiled USB-C Angled Cable\" data-dimension48=\"Premium Coiled USB-C Angled Cable\" data-dimension25=\"$25.99\" href=\"https://www.amazon.com/Keychron-Detachable-Connector-Double-Sleeved-Mechanical/dp/B09ZNJMCXL/\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"icZ4cV33qZ4RbGCC5x2PnP\" name=\"71iWRCMz0YL._SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/icZ4cV33qZ4RbGCC5x2PnP-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"1500\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Keychron-Detachable-Connector-Double-Sleeved-Mechanical/dp/B09ZNJMCXL/\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"e8b6c474-defa-11f1-8cb6-035d1b5ac6de\" data-action=\"Deal Block\" data-label=\"Premium Coiled USB-C Angled Cable\" data-dimension48=\"Premium Coiled USB-C Angled Cable\" data-dimension25=\"$25.99\">Premium Coiled USB-C Angled Cable: $25.99</a></strong><br />Cables are a part of life, but that doesn't mean they have to be ugly. This coiled USB-C cable from Keychron comes in four colors and is specifically designed to fit Keychron's K, K Pro, K Max, and K HE series boards, but will work with most USB-C boards. It comes with a 14cm coiled section and a 94cm straight cable that connect via a detachable aviator port, plus a USB-C to USB-A converter.<a class=\"view-deal button\" href=\"https://www.amazon.com/Keychron-Detachable-Connector-Double-Sleeved-Mechanical/dp/B09ZNJMCXL/\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"e8b6c474-defa-11f1-8cb6-035d1b5ac6de\" data-action=\"Deal Block\" data-label=\"Premium Coiled USB-C Angled Cable\" data-dimension48=\"Premium Coiled USB-C Angled Cable\" data-dimension25=\"$25.99\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"590c553a-df24-11f1-a4b9-85bf66168031\" data-action=\"Deal Block\" data-label=\"GPBT Doubleshot Keycaps\" data-dimension48=\"GPBT Doubleshot Keycaps\" data-dimension25=\"$39.99\" href=\"https://www.amazon.com/Glorious-GPBT-Sublimated-Keycaps-Forest/dp/B08Q3WND8X\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:52.93%;\"><img id=\"ZcdQum66ictf8VeuTtoxuX\" name=\"71FINoGquSS._AC_SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/ZcdQum66ictf8VeuTtoxuX-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"794\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Glorious-GPBT-Sublimated-Keycaps-Forest/dp/B08Q3WND8X\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"590c553a-df24-11f1-a4b9-85bf66168031\" data-action=\"Deal Block\" data-label=\"GPBT Doubleshot Keycaps\" data-dimension48=\"GPBT Doubleshot Keycaps\" data-dimension25=\"$39.99\">GPBT Doubleshot Keycaps: was $59.99 now $39.99</a></strong><br />Not all keyboards have hot-swappable switches, but almost all of them have swappable keycaps. Glorious' cherry-profile keycaps are made of double-shot PBT and come in a variety of pretty, ombre colors.<a class=\"view-deal button\" href=\"https://www.amazon.com/Glorious-GPBT-Sublimated-Keycaps-Forest/dp/B08Q3WND8X\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"590c553a-df24-11f1-a4b9-85bf66168031\" data-action=\"Deal Block\" data-label=\"GPBT Doubleshot Keycaps\" data-dimension48=\"GPBT Doubleshot Keycaps\" data-dimension25=\"$39.99\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"590c55a8-df24-11f1-a8a8-2395a81e656b\" data-action=\"Deal Block\" data-label=\"Wrist Rest\" data-dimension48=\"Wrist Rest\" data-dimension25=\"$22.99\" href=\"https://www.amazon.com/dp/B07GP7JXQY?lv=shuf&amp;ascsubtag=tomshardware-us-1170286531158199135-20&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback&amp;th=1\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:666px;\"><p class=\"vanilla-image-block\" style=\"padding-top:46.70%;\"><img id=\"GqzNpRZWKXzJUwcg8qC3pe\" name=\"HyperX Wrist Rest\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/GqzNpRZWKXzJUwcg8qC3pe-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"666\" height=\"311\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p>Just about every keyboard user could use a wrist rest, and this cooling gel-filled memory foam wrist rest from HyperX is one of our long-time favorites. It's durable and comfortable, and comes in multiple sizes to fit everything from compact to full-size keyboards.<a class=\"view-deal button\" href=\"https://www.amazon.com/dp/B07GP7JXQY?lv=shuf&amp;ascsubtag=tomshardware-us-1170286531158199135-20&amp;tag=ftr-tomshardware-us-20&amp;geniuslink=true&amp;channelId=1&amp;plpRedirect=mhFallback&amp;th=1\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"590c55a8-df24-11f1-a8a8-2395a81e656b\" data-action=\"Deal Block\" data-label=\"Wrist Rest\" data-dimension48=\"Wrist Rest\" data-dimension25=\"$22.99\">View Deal</a></p></div><div class=\"product\"><a data-dimension112=\"aa949c26-df26-11f1-811d-c740b7e8f6bb\" data-action=\"Deal Block\" data-label=\"Wooden Wrist Rest\" data-dimension48=\"Wooden Wrist Rest\" data-dimension25=\"$23.99\" href=\"https://www.amazon.com/Ergonomic-Non-Slip-Comfortable-Mechanical-Keyboard/dp/B0B3VXK6BH\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:38.87%;\"><img id=\"b9tpB68QBVYYFoZajmGxbL\" name=\"61tAQ5NBTqL._AC_SL1500_\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/b9tpB68QBVYYFoZajmGxbL-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1500\" height=\"583\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p>Gel/foam wrist rests are comfortable, but wooden wrist rests are <em>",
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "jjz4TQFeMU32v6mUkdJ5uj"
+    },
+    {
+      "id": 5340,
+      "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+      "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
+      "content": "<article>\n                                <p>A new Intel Arrow Lake SKU is listed for sale in multiple prebuilt PCs on Newegg, despite no official acknowledgement of the model from Intel. The Core Ultra 7 260K is a downclocked version of the Core Ultra 7 265K from Intel's main Arrow Lake stack, not the Arrow Lake Refresh stack that's infiltrated our list of the <a href=\"https://www.tomshardware.com/reviews/best-cpus,3986.html\">best CPUs for gaming</a>. Outside of <a href=\"https://www.newegg.com/insider/intel-core-ultra-7-260k-abs-gaming-pcs?srsltid=AYCX9vLUn8Og7dTp3YItesO1VUm4ZjyUVj6F3hH9T-TVMg6zHHR-q3hm\">a few areas on Newegg's website</a>, you'll find no mention of the CPU elsewhere online (including Intel's official <a href=\"https://www.intel.com/content/www/us/en/ark/products/series/241071/intel-core-ultra-processors-series-2.html\">Core Ultra Series 2 specs page</a>). </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: CPU</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"Xh2MupWrRjJPiLLuopmKRB\" name=\"W1103180\" caption=\"\" alt=\"A hand holding the Ryzen 7 9850X3D.\" src=\"https://cdn.mos.cms.futurecdn.net/Xh2MupWrRjJPiLLuopmKRB-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/cpu-scaling-with-dlss-investigating-cpu-performance-in-the-age-of-upscaling?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">CPU scaling with DLSS</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/intels-one-two-punch-plan-in-desktop-cpus-is-taking-shape-z990-spotted-nova-lake-detailed-raptor-lake-next-teased?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Intel's one-two punch plan in desktop CPUs is taking shape</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/cpus/amd-splits-zen-7-into-three-epyc-families-for-2028-and-starts-selling-server-cpus-by-the-agent?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=cpu\" target=\"_blank\">AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent </a></li></ul></p></div></div><p>Although retailer-exclusive and late-generation variants are common from AMD and Intel — we recently reviewed the <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review\">Ryzen 5 5500F</a>, for instance — they almost never fly completely under the radar, as is the case with the Core Ultra 7 260K. The chip itself is identical to the Core Ultra 7 265K based on the specs we know, fitted with 20 cores, eight of which are P-cores. The 260K tops out at 5.4 GHz, however, while the 265K reaches 5.5 GHz. </p><p>Otherwise, the specs are all the same. It comes with the same 125W TDP, same 30 MB of L3 cache, and same support for up to 256 GB of memory running at DDR5-6400. We only know of these specs from an image shown on the two ABS prebuilt listings available with the 260K. It's available in the <a href=\"https://www.newegg.com/abs-kaze-ii-white-gaming-desktop-pcs-geforce-rtx-5060-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-k2a57n56r1/p/N82E16883362061\">ABS Kaze II paired with an RTX 5060</a>, as well as the <a href=\"https://www.newegg.com/abs-flux-ii-gaming-desktop-pc-geforce-rtx-5070-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-f2a57n57r1-black/p/N82E16883362062\">Flux II Aqua with an RTX 5070</a>. </p><p>The image is below, captured hastily, as you can see, from a Microsoft Teams call. Again, we weren't able to find any information from Intel about the chip outside of this slide. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:805px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.65%;\"><img id=\"zpfSTxdBXgFdPxhcY9i66h\" name=\"Screenshot 2026-11-13 093249\" alt=\"Intel 260K.\" src=\"https://cdn.mos.cms.futurecdn.net/zpfSTxdBXgFdPxhcY9i66h-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"805\" height=\"456\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Intel)</span></figcaption></figure><p>One critical detail this slide confirms is that the Core Ultra 7 260K belongs to the Arrow Lake family, not the range of Arrow Lake Refresh processors like the <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review/2\">Core Ultra 7 270K Plus</a>. It tops out at DDR5-6400, while Arrow Lake Refresh climbs up to DDR5-7200. That means the chip doesn't have access to the hardware-level enhancements available in Arrow Lake Refresh, nor the <a href=\"https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average\">software-based Intel Binary Optimization Tool</a> that boosts performance in select games. </p><p>Although that's enough to categorize the 260K, there are some details that are unclear. In the two PCs it's available in, the chip is referred to as the 260K across the full product page <em>except </em>in Newegg's option selector (pictured below), where it's referred to as the U7-260KF. Intel's KF models are unlocked for overclocking but lack integrated graphics. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:895px;\"><p class=\"vanilla-image-block\" style=\"padding-top:64.47%;\"><img id=\"ZXvmqivxNYpcQpwKXYL3ki\" name=\"Screenshot 2026-11-13 094847\" alt=\"ABS gaming PC.\" src=\"https://cdn.mos.cms.futurecdn.net/ZXvmqivxNYpcQpwKXYL3ki-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"895\" height=\"577\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Additionally, the slide from Intel referenced above shows the chip boosting up to 5.4 GHz, but the product page lists the chip at 5.2 GHz for maximum boost clock. </p><p>Newegg has told us that the chip is exclusive to the retailer and will only be sold through its in-house ABS prebuilts. ABS machines are normally sold with components Newegg already sells piecemeal, offering a convenient way to get a full rig with parts you can identify. The ABS Flux II Aqua, which is available with the chip, is on sale at Newegg now for $300 off. </p><div class=\"product star-deal\"><a data-dimension112=\"4e4b324a-df7b-11f1-8a6a-c59eef91960c\" data-action=\"Star Deal Block\" data-label=\"Flux II Aqua gaming PC\" data-dimension48=\"Flux II Aqua gaming PC\" data-dimension25=\"$1799.99\" href=\"https://www.newegg.com/abs-flux-ii-gaming-desktop-pc-geforce-rtx-5070-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-f2a57n57r1-black/p/N82E16883362062?Item=N82E16883362062\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:99.61%;\"><img id=\"nWNfBbcyVCiRNbgUDDztpi\" name=\"Flux II Aqua gaming PC\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/nWNfBbcyVCiRNbgUDDztpi-1920-80.webp\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"1275\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p>The ABS Flux II Aqua gaming PC comes with an Intel CPU, an Nvidia GeForce GeForce RTX 5070 graphics card, a 1TB NVMe SSD with Gen 4 speeds, and 32GB of DDR5-6000 RAM. This is a 1440p gaming powerhouse with the potential for 4K.<a class=\"view-deal button\" href=\"https://www.newegg.com/abs-flux-ii-gaming-desktop-pc-geforce-rtx-5070-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-f2a57n57r1-black/p/N82E16883362062?Item=N82E16883362062\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"4e4b324a-df7b-11f1-8a6a-c59eef91960c\" data-action=\"Star Deal Block\" data-label=\"Flux II Aqua gaming PC\" data-dimension48=\"Flux II Aqua gaming PC\" data-dimension25=\"$1799.99\">View Deal</a></p></div><p>We've reached out to Intel to get more details about the Core Ultra 7 260K, and we'll update this story when we hear back (see update log above). Although the specs suggest the 260K should perform almost identically to the 265K, we haven't had a chance to test the CPU ourselves. And, as you can see from the rankings in our <a href=\"https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html\">CPU benchmark hierarchy</a>, we recommend most Intel shoppers move toward an Arrow Lake Refresh SKU. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "fWBXoEgzQBj8Q3QouiNAwF"
+    },
+    {
+      "id": 5341,
+      "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+      "summary": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 AI servers.",
+      "content": "<article>\n                                <p>Malaysia and Singapore have intensified scrutiny of AI hardware shipments amid concerns about the potential circumvention of U.S. export restrictions on China. Malaysia has launched an investigation into whether AI hardware imported by a subsidiary of the ill-fated Megaspeed was subsequently exported to other countries, reports <a href=\"https://www.reuters.com/world/asia-pacific/malaysia-says-it-is-investigating-if-any-chips-linked-speedmatrix-were-re-2026-11-13/\">Reuters</a>. Meanwhile, Singapore has charged another executive over questionable purchases of 917 servers that may contain Nvidia accelerators, according to <a href=\"https://www.straitstimes.com/singapore/courts-crime/man-handed-41-charges-in-relation-to-nvidia-chips-case\">The Straits Times</a>. The news follows the <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">resignation of Nvidia CEO Jensen Huang over claims he had multiple extra-marital affairs</a>, including with a possible Chinese intelligence asset who facilitated GPU smuggling into China. <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls\">Analysts speculate that systematic chip smuggling may be the reason behind his departure</a>. </p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Taiwan, trade, and tariffs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"p2QqhVFP7dTRWfeVBCYBYV\" name=\"tsmc-semiconductor-fab-hero\" caption=\"\" alt=\"tsmc\" src=\"https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: tsmc)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">While the U.S. flip-flops on chip sanctions, China is building its own chip supply market</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-decade-long-semiconductor-push-still-a-decade-behind-despite-hundreds-of-billions-spent-and-significant-progress-examining-the-original-made-in-china-2025-initiative?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">The state of China's decade-long semiconductor push</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-ascend-npu-roadmap-examined-company-targets-4-zettaflops-fp4-performance-by-2028-amid-manufacturing-constraints?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">Huawei Ascend NPU roadmap examined </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">China's latest round of rare-earth export controls explained</a></li></ul></p></div></div><p>Malaysia's Ministry of Investment, Trade and Industry is examining <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway\">whether Speedmatrix, the Malaysian subsidiary of Singapore-based Megaspeed</a>, re-exported any of the AI processors and servers it had imported for use in local data centers. Apparently, after months of investigating, authorities have yet to find out whether any such shipments occurred and, if they did, whether they complied with Malaysian laws. Malaysia introduced restrictions on the export, transit, and trans-shipment of advanced U.S.-developed AI accelerators in July 2025, so it now requires companies to obtain appropriate permits.</p><p>The Malaysian ministry said it was cooperating with customs authorities as well as officials in Singapore and the U.S., and could introduce additional restrictions. Prime Minister Anwar Ibrahim said there was no evidence that Megaspeed-related AI hardware had left Malaysia, but he promised to cooperate with international investigations. </p><p>Speaking of Megaspeed, the company said on November 12 that it had hired a U.S. law firm to conduct a comprehensive inventory of its AI GPUs and independently assess its compliance with U.S. export-control regulations, reports <a href=\"https://www.digitimes.com/news/a20261113PR202/government-inventory-shipments-technology-2026.html\"><em>DigiTimes</em></a><em>.</em> The company also confirmed that it had cooperated with inspections by the U.S. Department of Commerce's Bureau of Industry and Security (BIS) and was prepared to cooperate with other U.S. government agencies if necessary. </p><p>James Tan Yong Pong, chief executive of Megaspeed, stressed that compliance with U.S. export rules as well as transparent operations were always a priority for the company. However, Megaspeed did not disclose how many GPUs it owns and which GPU models it has, what BIS examined during its inspections, or whether the authorities had identified any violations.</p><p>Meanwhile, Singaporean authorities have brought 41 criminal charges against Shi Bingzhe, a 34-year-old Chinese citizen who served as director of Superphi and chief operating officer of NJ Global Financial. The two companies purchased 917 servers containing restricted Nvidia hardware from Aperia International in 41 transactions between May 2024 and February 2025, according to prosecutors. Authorities allege that the companies had reason to believe the servers were linked to criminal activity by Aperia International. Superphi now faces six charges, while NJ Global Financial faces 35.</p><p>The latest charges expand a case that now involves five individuals and six companies. Four firms — Aperia International, A-Speed Infotech, Aperia Cloud Services (II), and Luxuriate Your Life — were charged in July over allegedly making false claims when purchasing servers. Meanwhile, the exact nature of those claims was not disclosed in the report. Authorities have frozen the disposal of a property worth approximately S$55 million and confiscated around S$1 million from bank accounts. Shi faces up to 10 years in prison and a fine of S$500,000 per charge if convicted. His next court appearance is scheduled for January 4, 2027.</p><p>The two cases largely highlight the significance of Malaysia and Singapore in the supply chain of restricted AI hardware to places where it should not be, such as China. Singapore's investigation focuses on alleged fraud and transactions involving proceeds of criminal activity, whereas Malaysia seeks to find out whether imported AI equipment was subsequently shipped abroad in violation of local regulations.  </p><p>Neither investigation has found that the hardware ultimately reached China, but both illustrate difficulties that authorities face as they attempt to enforce restrictions on advanced AI hardware across international supply chains. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ZgZH6igiyajB2jaJ5gE6wi"
+    },
+    {
+      "id": 5342,
+      "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims",
+      "summary": "Jensen Huang reportedly called himself 'a piece of sh--\" after his forced departure, but employees still want him back.",
+      "content": "<article>\n                                <p>Former Nvidia CEO Jensen Huang has reportedly called himself “a piece of sh**\" as he left the company he built over 33 years. <a href=\"https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia\"><em>Bloomberg</em></a> reports that the co-founder, known for his legendary energy and outgoing demeanor, surrendered and looked “broken and shattered” during the board meeting where he resigned from the AI hardware firm after admitting to at least one<a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\"> extra-marital affair</a>, including one with <a href=\"https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips\">a suspected Chinese spy</a>. But despite his resignation and the controversies surrounding him, it seems that Nvidia employees are still rallying behind him, with thousands of comments on the company’s internal “suggestion box” showing support for the disgraced leader, according to <a href=\"https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/?utm_brand=wired&amp;utm_social-type=owned\"><em>Wired</em></a>.</p><p>“If you believe in the mission, bring back THE boss,” one commenter said, while another one wrote, “We are all humans and can make mistakes. Jensen did so many good things and he needs a second chance.” An Nvidia staffer told <em>Wired </em>privately, “Nvidia is Nvidia because of Jensen,” even as another employee sent a company-wide email demanding transparency into his resignation. “I stand by Jensen. Not because I believe any person is infallible, but because I refuse to believe that standing for fairness must mean standing at a distance from someone whose leadership has meant so much to us.” They also added, “If America fails the man who helped build its future, then this world does not deserve Jensen Huang.”</p><p>According to the report, internal calls for Huang's reinstatement have drawn more than 1,600 comments on Nvidia's internal forums, \"the majority in full support of reinstalling him.\" The company has more than 42,000 employees worldwide. </p><p>Rumors about Megaspeed executive Alice Huang, an <a href=\"https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing\">alleged Chinese spy, being close to Jensen Huang</a> first circulated in late October, with Nvidia vehemently denying there was any impropriety. “Megaspeed has been no different than many other regional cloud customers. Jensen’s interactions with Ms. Huang are not unusual or unexpected. Meetings with customers are part of a CEO's job; Jensen talks with thousands of customer executives every year,” an Nvidia spokesperson told <em>Tom's Hardware</em>. However, things took a turn for the worse for the Nvidia CEO when reports came out that he actually <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips\">had an affair with Ms. Huang</a>.</p><p>Nvidia General Counsel and Secretary of the Board Tim Teter confronted Jensen at his house when this came out, after which he confessed. The founder soon <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate\">released a statement admitting to and apologizing for his actions</a>, while the company’s board formed an independent committee to investigate. However, another scandal broke out revealing that the <a href=\"https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy\">former Nvidia chief had another affair</a> — this time with a subordinate. This was apparently the last straw for the board, and the Nvidia co-founder was <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">forced to resign soon after</a>.</p><p>Reports say that Jensen Huang was a hands-on leader, with over 60 executives at the company reporting directly to him, and that he was known to respond to emails quickly, whether it was day or night. But, more importantly, he was the face of the company who was particularly loved by many people, giving rise to <a href=\"https://www.tomshardware.com/tech-industry/big-tech/mini-jensen-huang-cosplayer-melts-hearts-wearing-a-massive-nvidia-gpu-for-halloween\">the term “Jensanity” in his home country of Taiwan</a>. Regardless of his status as a billionaire, people still find him <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-is-worth-dollar42-billion-but-still-eats-street-food-at-street-markets-and-visits-lan-parties-during-overseas-trips\">trying out street food</a>, <a href=\"https://www.tomshardware.com/tech-industry/korean-fried-chicken-stocks-surge-30-percent-as-nvidia-ceo-jensen-huang-dines-out-on-local-delicacy-entire-industry-buoyed-by-secret-ingredient-jensanity\">eating at fast food chains</a>, and even honoring his <a href=\"https://www.tomshardware.com/tech-industry/nvidia-ceo-stops-by-dennys-food-truck-to-eat-and-serve-nvidia-breakfast-bytes-before-gtc-2025\">humble beginnings as a busboy at Denny’s</a>.</p><p>Aside from these latest scandals, many gamers castigate Huang for abandoning the core market that supported Nvidia before it became an AI giant, with consumer graphics cards now drastically more expensive than ever before. He was also often criticized for his <a href=\"https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-allegedly-asks-managers-discouraging-ai-use-are-you-insane-assures-employees-their-jobs-arent-at-risk-because-of-ai\">all-out push on artificial intelligence</a> and <a href=\"https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-nearly-lost-his-composure-when-pressed-on-selling-chips-to-china-youre-not-talking-to-someone-who-woke-up-a-loser\">stance on selling chips to China</a>. Still, those issues did not detract from his aura, with his trademark <a href=\"https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change\">leather jacket raising nearly $1 million</a> at a charity auction. It remains to be seen what will happen to Jensen after his monumental fall from grace, with <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators\">SpaceX and Tesla mogul Elon Musk noting it would be an honor to hire Huang.</a> </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "qBjFMNrPHNrkPDBVc9BCh3"
+    },
+    {
+      "id": 5343,
+      "title": "Colorful Launches iGame X870E Senna V14 Motherboard",
+      "summary": "Colorful has launched the iGame X870E Senna V14, an ATX Socket AM5 motherboard for AMD Ryzen processors. It features a themed heatsink design, extensive M.2 storage support, and Wi-Fi 7 networking. The board measures 305 x 244 mm and uses a",
+      "content": "Colorful has launched the iGame X870E Senna V14, an ATX Socket AM5 motherboard for AMD Ryzen processors. It features a themed heatsink design, extensive M.2 storage support, and Wi-Fi 7 networking. The board measures 305 x 244 mm and uses an eight-layer PCB. It features Colorful's Qi Xiaoxi character on the heatsink armor, rear I/O cover and backplate. Power delivery is well represented with a 16+2+1 phase design and 80 A DrMOS components. The four DDR5 slots support up to 256 GB of RAM with speeds up to 8,400 MT/s (OC). For expansion, it offers one PCIe 5.0 x16 slot and one PCIe x16 slot. Storage consists of five M.2 slots, three PCIe 5.0 x4, two PCIe 4.0 x4, and three SATA ports. Networking is handled by a Realtek RTL8126-CG 5 GbE controller and a MediaTek MT7925 Wi-Fi 7 module with Bluetooth 5.4. Audio comes from a Realtek ALC1220 codec.<br />\r\n<br />\r\nThe rear I/O panel includes 2x USB4 ports, 3x USB 3.2 Gen 2 ports, 4x USB 3.2 Gen 1 ports, and 2x USB 2.0 ports. It also includes HDMI output, two Wi-Fi antenna connectors, two analog audio jacks, optical S/PDIF, a BIOS update button, and a CMOS clear button. An onboard debug display and dual-BIOS recovery switch are also included. RGB lighting can be controlled via iGame Center software. The motherboard is listed in China for RMB 2,399, approximately $330. Colorful has not announced international pricing or availability.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/fUrkT6L6xlOzyMjF.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/fUrkT6L6xlOzyMjF_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/6JKgbiwYNa8Fbcwm.jpg\" target=\"_blank\" data-width=\"607\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/6JKgbiwYNa8Fbcwm_thm.jpg\" width=\"99\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/TKURiX6dYSEnokds.jpg\" target=\"_blank\" data-width=\"602\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/TKURiX6dYSEnokds_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/hORBgN1316ICR0Ky.jpg\" target=\"_blank\" data-width=\"352\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/hORBgN1316ICR0Ky_thm.jpg\" width=\"57\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/vLUxTcfj7f46QTue.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/vLUxTcfj7f46QTue_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354806/colorful-launches-igame-x870e-senna-v14-motherboard",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6531251392f5f4a4c558fca7f74c1ae9"
+    },
+    {
+      "id": 5344,
+      "title": "Intel's ISA Reference Confirms Razor Lake Desktop and Laptop Model IDs",
+      "summary": "Intel has added Razor Lake and Coral Rapids to the November edition of its Architecture Instruction Set Extensions Programming Reference, the document developers use to prepare software for upcoming chips. Revision 063 gives Razor Lake four",
+      "content": "Intel has added Razor Lake and Coral Rapids to the November edition of its <a rel=\"nofollow\" href=\"https://cdrdv2-public.intel.com/932753/319433-063-architecture-instruction-set-extensions-programming-reference.pdf\" target=\"_blank\">Architecture Instruction Set Extensions Programming Reference</a>, the document developers use to prepare software for upcoming chips. Revision 063 gives Razor Lake four new model values under family 18 (12H), the same family as Nova Lake, with 12_06H and 12_0AH covering desktop parts and 12_07H and 12_09H covering laptops. The Coral Rapids Xeon family gets 13_08H, following Diamond Rapids at 13_01H. <a rel=\"nofollow\" href=\"https://bsky.app/profile/instlatx64.bsky.social/post/3n26kw3gwf22q\" target=\"_blank\">InstLatX64</a> spotted the update and shared it on Bluesky.<br />\r\n<br />\r\nThe new feature entries are fairly small. Razor Lake picks up SSBD_PSFD_U_S, which seems to allow separate user-mode and supervisor-mode control over certain speculative memory behavior, while both families gain APIC-Timer Virtualization for virtual machines. Coral Rapids also gets a new instruction called VPMLDSABFLYDQ, aimed at ML-DSA, the quantum-resistant digital signature standard. According to <a rel=\"nofollow\" href=\"https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor\" target=\"_blank\">Intel's GCC patches</a>, posted this week, Razor Lake carries the <a href=\"https://www.techpowerup.com/342881/intel-officially-confirms-avx10-2-and-apx-support-in-nova-lake\" target=\"_blank\">same ISA feature set as Nova Lake</a>, which should mean AVX10.2 and APX carry over, though the reference itself doesn't list Razor Lake under those rows yet. Coral Rapids sticks with AVX10.2 rather than the newer AVX10.3, at least for now.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/dAUZ3wXKDH00xQZj.jpg\" target=\"_blank\" data-width=\"1447\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/dAUZ3wXKDH00xQZj_thm.jpg\" width=\"196\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/9NVxOLSnIkM4kFKz.jpg\" target=\"_blank\" data-width=\"1044\" data-height=\"759\" ><img src=\"https://tpucdn.com/img/9NVxOLSnIkM4kFKz_thm.jpg\" width=\"179\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/WM2C1BGDtFMkagi5.jpg\" target=\"_blank\" data-width=\"1047\" data-height=\"357\" ><img src=\"https://tpucdn.com/img/WM2C1BGDtFMkagi5_thm.jpg\" width=\"381\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "49185a7f5b9088c1f6aee8fa6f77f45e"
+    },
+    {
+      "id": 5345,
+      "title": "(PR) ESGAMING Debuts ZERO MAX Gaming PC Case with Novel 8° Tilted GPU Airflow Design",
+      "summary": "ESGAMING is spotlighting its ZERO MAX gaming PC case, available in black and white, which features an innovative 8° tilted bottom airflow structure that directs cool air toward the GPU area. With 270° panoramic tempered glass, clearance for",
+      "content": "ESGAMING is spotlighting its ZERO MAX gaming PC case, available in black and white, which features an innovative 8° tilted bottom airflow structure that directs cool air toward the GPU area. With 270° panoramic tempered glass, clearance for graphics cards up to 415 mm, and flexible cooling configurations, the ZERO MAX offers high-performance custom PC builders a solution that balances thermal layout, hardware display, and component compatibility. The ZERO MAX has already posted solid sales in markets including South America and the Middle East, and ESGAMING continues to expand its global network of distributor partnerships.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/aDFQy93KQo3XN0XR.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/aDFQy93KQo3XN0XR_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354788/esgaming-debuts-zero-max-gaming-pc-case-with-novel-8-tilted-gpu-airflow-design\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354788/esgaming-debuts-zero-max-gaming-pc-case-with-novel-8-tilted-gpu-airflow-design",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "18348c48c7d310c27492fde6f0a5b3f0"
+    },
+    {
+      "id": 5346,
+      "title": "(PR) Corsair Pro to Optimize Engineering Workstations, Servers and Clusters for Ansys Simulation",
+      "summary": "Corsair Gaming, Inc. (\"Corsair\" or the \"Company\"), a leading global provider and innovator of high-performance products for gamers, streamers, content-creators, performance PC builders, and SIM Racing enthusiasts, has joined the Ansys Techn",
+      "content": "Corsair Gaming, Inc. (&quot;Corsair&quot; or the &quot;Company&quot;), a leading global provider and innovator of high-performance products for gamers, streamers, content-creators, performance PC builders, and SIM Racing enthusiasts, has joined the Ansys Technology Partner Program, part of Synopsys, to deliver HPC systems that accelerate and simplify deployments.<br />\r\n<br />\r\nAt the center of the collaboration is Corsair Pro, Corsair's high-performance workstation platform, running Ansys engineering applications locally and bringing powerful simulation and visualization capabilities directly to engineers.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/D8tBzB0wFnQHlld0.jpg\" target=\"_blank\" data-width=\"768\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/D8tBzB0wFnQHlld0_thm.jpg\" width=\"104\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Xz2dyxTGaZXsMb4l.jpg\" target=\"_blank\" data-width=\"702\" data-height=\"701\" ><img src=\"https://tpucdn.com/img/Xz2dyxTGaZXsMb4l_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354783/corsair-pro-to-optimize-engineering-workstations-servers-and-clusters-for-ansys-simulation\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354783/corsair-pro-to-optimize-engineering-workstations-servers-and-clusters-for-ansys-simulation",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "52a1e9fd6472f64411bbc9c6bed627ad"
+    },
+    {
+      "id": 5347,
+      "title": "New gaming monitor with 600 Hz refresh rate and 93% DCI-P3 coverage set to hit shelves",
+      "summary": "KTC has introduced a brand-new gaming monitor boasting a 600 Hz refresh rate for fast-paced gaming. The monitor also covers a claimed 93% of the P3 color gamut, and features multiple gaming-oriented features.",
+      "content": "KTC has introduced a brand-new gaming monitor boasting a 600 Hz refresh rate for fast-paced gaming. The monitor also covers a claimed 93% of the P3 color gamut, and features multiple gaming-oriented features.",
+      "link": "https://www.notebookcheck.net/New-gaming-monitor-with-600-Hz-refresh-rate-and-93-DCI-P3-coverage-set-to-hit-shelves.1449037.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-gaming-monitor-with-600-Hz-refresh-rate-and-93-DCI-P3-coverage-set-to-hit-shelves.1449037.0.html"
+    },
+    {
+      "id": 5348,
+      "title": "This Mac Studio “clone” offers 16-core Ryzen and up to 192 GB of memory for $7,399",
+      "summary": "Beelink's new GTR9 Pro packs AMD's 16-core Ryzen AI Max+ 495 processor and up to 192 GB of soldered LPDDR5X memory into a compact, Mac Studio-inspired desktop. Its top configuration with a 4 TB SSD costs $7,799, putting it in the same price",
+      "content": "Beelink's new GTR9 Pro packs AMD's 16-core Ryzen AI Max+ 495 processor and up to 192 GB of soldered LPDDR5X memory into a compact, Mac Studio-inspired desktop. Its top configuration with a 4 TB SSD costs $7,799, putting it in the same price range as high-end compact workstations.",
+      "link": "https://www.notebookcheck.net/This-Mac-Studio-clone-offers-16-core-Ryzen-and-up-to-192-GB-of-memory-for-7-399.1449848.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/This-Mac-Studio-clone-offers-16-core-Ryzen-and-up-to-192-GB-of-memory-for-7-399.1449848.0.html"
+    },
+    {
+      "id": 5349,
+      "title": "Lenovo releases new budget 15-inch laptop with over 20 hours battery life",
+      "summary": "Lenovo has released a new budget laptop with a 400-nit and 15.3-inch display. First spotted months ago, the Lenovo V15 G7 Q7X is one of the few laptops powered by Qualcomm's Snapdragon C platform, which helps it surpass 20 hours of battery ",
+      "content": "Lenovo has released a new budget laptop with a 400-nit and 15.3-inch display. First spotted months ago, the Lenovo V15 G7 Q7X is one of the few laptops powered by Qualcomm's Snapdragon C platform, which helps it surpass 20 hours of battery life in official tests.",
+      "link": "https://www.notebookcheck.net/Lenovo-releases-new-budget-15-inch-laptop-with-over-20-hours-battery-life.1449504.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-releases-new-budget-15-inch-laptop-with-over-20-hours-battery-life.1449504.0.html"
+    },
+    {
+      "id": 5350,
+      "title": "Hoy 1.0.1 lets Mac users send files by dropping them on a friend's face",
+      "summary": "Hoy has reached version 1.0.1, bringing an unusual approach to sharing files, voice messages and screen recordings on Mac. The app uses Apple's iCloud instead of its own messaging servers, with free access, a $29 lifetime Pro option and iPh",
+      "content": "Hoy has reached version 1.0.1, bringing an unusual approach to sharing files, voice messages and screen recordings on Mac. The app uses Apple's iCloud instead of its own messaging servers, with free access, a $29 lifetime Pro option and iPhone and iPad support on the way.",
+      "link": "https://www.notebookcheck.net/Hoy-1-0-1-lets-Mac-users-send-files-by-dropping-them-on-a-friend-s-face.1449524.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Hoy-1-0-1-lets-Mac-users-send-files-by-dropping-them-on-a-friend-s-face.1449524.0.html"
+    },
+    {
+      "id": 5351,
+      "title": "Huawei unveils Sense G1 blood glucose sensor with smartwatch connectivity",
+      "summary": "Huawei has announced Sense G1, its first continuous glucose monitor, which promises to offer \"professional features\". Handy: Readings can be sent directly to a compatible smartwatch and displayed on the watch's screen along with a trend gra",
+      "content": "Huawei has announced Sense G1, its first continuous glucose monitor, which promises to offer \"professional features\". Handy: Readings can be sent directly to a compatible smartwatch and displayed on the watch's screen along with a trend graph.",
+      "link": "https://www.notebookcheck.net/Huawei-unveils-Sense-G1-blood-glucose-sensor-with-smartwatch-connectivity.1449843.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Huawei-unveils-Sense-G1-blood-glucose-sensor-with-smartwatch-connectivity.1449843.0.html"
+    },
+    {
+      "id": 5352,
+      "title": "New affordable gaming monitor debuts with 360 Hz refresh rate and 0.03 ms response time",
+      "summary": "Phillips has introduced the Evnia 27M4N8500V gaming monitor in China. The company’s new monitor features a QD-OLED panel, a 360 Hz refresh rate, and a 0.03 ms response time. Plus, it comes with a built-in CMOS sensor that detects human pres",
+      "content": "Phillips has introduced the Evnia 27M4N8500V gaming monitor in China. The company’s new monitor features a QD-OLED panel, a 360 Hz refresh rate, and a 0.03 ms response time. Plus, it comes with a built-in CMOS sensor that detects human presence.",
+      "link": "https://www.notebookcheck.net/New-affordable-gaming-monitor-debuts-with-360-Hz-refresh-rate-and-0-03-ms-response-time.1449499.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-affordable-gaming-monitor-debuts-with-360-Hz-refresh-rate-and-0-03-ms-response-time.1449499.0.html"
+    },
+    {
+      "id": 5353,
+      "title": "Xiaomi Redmi Note 17 Pro Max 5G: Huge battery, little progress",
+      "summary": "Over 33 hours of battery life, a very bright AMOLED display, and a rugged chassis: The Redmi Note 17 Pro Max 5G has plenty to offer. However, Xiaomi has cut corners when it comes to the processor, cameras, and features. Is that acceptable f",
+      "content": "Over 33 hours of battery life, a very bright AMOLED display, and a rugged chassis: The Redmi Note 17 Pro Max 5G has plenty to offer. However, Xiaomi has cut corners when it comes to the processor, cameras, and features. Is that acceptable for a smartphone with a launch MSRP of nearly €600?",
+      "link": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-17-Pro-Max-5G-Huge-battery-little-progress.1446046.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-17-Pro-Max-5G-Huge-battery-little-progress.1446046.0.html"
+    },
+    {
+      "id": 5354,
+      "title": "Microsoft is giving away 25 free games when you activate a new Windows PC",
+      "summary": "In celebration of 25 years of Xbox, Microsoft is giving buyers who purchase an eligible Windows PC (laptop, desktop, or handheld) over two dozen free PC games. Unfortunately, not only is the pool of eligible devices small, the giveaway is a",
+      "content": "In celebration of 25 years of Xbox, Microsoft is giving buyers who purchase an eligible Windows PC (laptop, desktop, or handheld) over two dozen free PC games. Unfortunately, not only is the pool of eligible devices small, the giveaway is also limited to the US.",
+      "link": "https://www.notebookcheck.net/Microsoft-is-giving-away-25-free-games-when-you-activate-a-new-Windows-PC.1449491.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-is-giving-away-25-free-games-when-you-activate-a-new-Windows-PC.1449491.0.html"
+    },
+    {
+      "id": 5355,
+      "title": "Keychron Orca echo gets taller keys but keeps its built-in trackball",
+      "summary": "Keychron is introducing a standard-profile version of its unusual Orca echo split keyboard, replacing the original low-profile switches with taller mechanical ones. Existing owners can also buy a conversion kit rather than replacing the ent",
+      "content": "Keychron is introducing a standard-profile version of its unusual Orca echo split keyboard, replacing the original low-profile switches with taller mechanical ones. Existing owners can also buy a conversion kit rather than replacing the entire keyboard.",
+      "link": "https://www.notebookcheck.net/Keychron-Orca-echo-gets-taller-keys-but-keeps-its-built-in-trackball.1449514.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Keychron-Orca-echo-gets-taller-keys-but-keeps-its-built-in-trackball.1449514.0.html"
+    },
+    {
+      "id": 5356,
+      "title": "Black Friday at Zima – Home servers and more up to 50% off",
+      "summary": "Deal | Many products are discounted for Black Friday from November 12 through November 30. From individual ZimaBoards and NAS kits to the ZimaCube, several IceWhale products are available at lower prices than usual.",
+      "content": "Deal | Many products are discounted for Black Friday from November 12 through November 30. From individual ZimaBoards and NAS kits to the ZimaCube, several IceWhale products are available at lower prices than usual.",
+      "link": "https://www.notebookcheck.net/Black-Friday-at-Zima-Home-servers-and-more-up-to-50-off.1449687.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Black-Friday-at-Zima-Home-servers-and-more-up-to-50-off.1449687.0.html"
     },
     {
       "id": 5173,
@@ -1985,6 +2582,21 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/New-Minix-mini-PC-goes-on-sale-with-AMD-Ryzen-AI-9-HX-470-and-vapor-chamber-cooling.1448728.0.html"
+    },
+    {
+      "id": 5357,
+      "title": "Chinese CPU-powered mini PC goes live with plenty of ports",
+      "summary": "A new mini PC is on the block, at least in China. Dubbed the Maxtang FX1400, the compact mini PC sports a healthy array of ports and a quad-core CPU designed entirely in China.",
+      "content": "A new mini PC is on the block, at least in China. Dubbed the Maxtang FX1400, the compact mini PC sports a healthy array of ports and a quad-core CPU designed entirely in China.",
+      "link": "https://www.notebookcheck.net/Chinese-CPU-powered-mini-PC-goes-live-with-plenty-of-ports.1448765.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Chinese-CPU-powered-mini-PC-goes-live-with-plenty-of-ports.1448765.0.html"
     },
     {
       "id": 5067,
