@@ -1,7 +1,667 @@
 {
-  "updatedAt": "2026-11-12",
-  "total": 5266,
+  "updatedAt": "2026-11-13",
+  "total": 5315,
   "list": [
+    {
+      "id": 5267,
+      "title": "英伟达市值缩水约1.6万亿美元 分析师：黄仁勋离任或长期压制股价",
+      "summary": "早在本周黄仁勋风波爆发之前，英伟达投资者就已经转向看空。但过去几日，华尔街抛售进一步加剧，该股或将迎来周线六连跌，为2012年以来最长连跌周期。这家芯片巨头今年大部分时间都是全球市值最高企业，截至周四收盘，这段时间市值已经蒸发29%，缩水约1.6万亿美元，市值也被苹果反超。 阅读全文",
+      "content": "<p>早在本周黄仁勋风波爆发之前，英伟达投资者就已经转向看空。但过去几日，华尔街抛售进一步加剧，该股或将迎来周线六连跌，为2012年以来最长连跌周期。这家芯片巨头今年大部分时间都是全球市值最高企业，截至周四收盘，这段时间市值已经蒸发29%，缩水约1.6万亿美元，市值也被苹果反超。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586266.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586266.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586266.htm"
+    },
+    {
+      "id": 5268,
+      "title": "Ostorlab发布2026移动银行App安全报告：鸿蒙系统严重缺陷比例达31.6%位居首位",
+      "summary": "网络安全机构 Ostorlab 发布《2026 移动银行应用安全报告》，这是该年度报告首次将华为鸿蒙系统（HarmonyOS）纳入评估范围。本次研究共分析了来自全球 64 个国家、487 家银行的 2686 款手机银行 App，其中有 478 款来自华为应用市场（AppGallery）。 阅读全文",
+      "content": "<p>网络安全机构 Ostorlab 发布《2026 移动银行应用安全报告》，这是该年度报告首次将华为鸿蒙系统（HarmonyOS）纳入评估范围。本次研究共分析了来自全球 64 个国家、487 家银行的 2686 款手机银行 App，其中有 478 款来自华为应用市场（AppGallery）。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586258.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586258.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586258.htm"
+    },
+    {
+      "id": 5269,
+      "title": "NVIDIA计算卡限制遭破解 8GB显存秒变80GB",
+      "summary": "日前国外研究者Kate利用电压故障注入技术，成功解锁NVIDIA CMP 170HX矿卡原本被禁用的显存及计算单元，将标称8GB显存的矿卡改造成具备80GB显存的A100级计算卡。 阅读全文",
+      "content": "<p>日前国外研究者Kate利用电压故障注入技术，成功解锁NVIDIA CMP 170HX矿卡原本被禁用的显存及计算单元，将标称8GB显存的矿卡改造成具备80GB显存的A100级计算卡。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586250.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586250.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586250.htm"
+    },
+    {
+      "id": 5270,
+      "title": "AMD下一代旗舰APU或迎重大改变 GPU将有独立GDDR7显存",
+      "summary": "硬件爆料者Gotou_3rd透露，AMD面向高端市场的下一代Siren Halo APU可能同时配备独立GDDR7显存与LPDDR系统内存，不再完全依赖统一内存。LPDDR据称仍会保留，但两套内存池的容量、位宽和连接方式尚无确切消息。 阅读全文",
+      "content": "<p>硬件爆料者Gotou_3rd透露，AMD面向高端市场的下一代Siren Halo APU可能同时配备独立GDDR7显存与LPDDR系统内存，不再完全依赖统一内存。LPDDR据称仍会保留，但两套内存池的容量、位宽和连接方式尚无确切消息。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586246.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586246.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586246.htm"
+    },
+    {
+      "id": 5271,
+      "title": "Kioxia与戴尔合作将640块SSD装入单机架 原始容量达157 PB",
+      "summary": "Kioxia与戴尔合作打造一套单机架对象存储系统，在标准42U机架中配置640块Kioxia LC9系列245.76 TB固态硬盘，原始闪存容量达到约157 PB。系统运行戴尔软件定义存储平台ObjectScale，由16台PowerEdge R7725xd服务器承载，面向人工智能训练、大数据分析和云原生应用等非结构化数据工作负载。 阅读全文",
+      "content": "<p>Kioxia与戴尔合作打造一套单机架对象存储系统，在标准42U机架中配置640块Kioxia LC9系列245.76 TB固态硬盘，原始闪存容量达到约157 PB。系统运行戴尔软件定义存储平台ObjectScale，由16台PowerEdge R7725xd服务器承载，面向人工智能训练、大数据分析和云原生应用等非结构化数据工作负载。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586214.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586214.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586214.htm"
+    },
+    {
+      "id": 5272,
+      "title": "AI生成代码大量涌入Linux内核 资深维护者Lorenzo Stoakes宣布退出多个代码审查岗位",
+      "summary": "人工智能编程工具的普及正在改变开源软件的开发方式，但随之而来的低质量代码提交，也给项目维护者带来了越来越沉重的负担。Linux内核长期贡献者、内存管理领域专家Lorenzo Stoakes近日宣布，将退出多个内核子系统的代码审查工作，原因正是AI生成的代码补丁数量激增，已经超出他能够承担的审查能力。 阅读全文",
+      "content": "<p>人工智能编程工具的普及正在改变开源软件的开发方式，但随之而来的低质量代码提交，也给项目维护者带来了越来越沉重的负担。Linux内核长期贡献者、内存管理领域专家Lorenzo Stoakes近日宣布，将退出多个内核子系统的代码审查工作，原因正是AI生成的代码补丁数量激增，已经超出他能够承担的审查能力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586212.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586212.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586212.htm"
+    },
+    {
+      "id": 5273,
+      "title": "苏姿丰获雅虎财经“年度CEO”：她如何带领AMD逆袭？",
+      "summary": "AMD首席执行官苏姿丰（Lisa Su）在2026年交出了一份亮眼的成绩单。她过去近15年的职业选择与努力，也在这一年得到了充分体现。苏姿丰在雅虎财经投资峰会（Yahoo Finance Invest）上表示：“我当初加入AMD，是因为我希望成为一家真正站在技术前沿的公司的成员。我坚信，技术能够为经济和世界带来巨大的积极影响，我希望成为其中的一部分。” 阅读全文",
+      "content": "<p>AMD首席执行官苏姿丰（Lisa Su）在2026年交出了一份亮眼的成绩单。她过去近15年的职业选择与努力，也在这一年得到了充分体现。苏姿丰在雅虎财经投资峰会（Yahoo Finance Invest）上表示：“我当初加入AMD，是因为我希望成为一家真正站在技术前沿的公司的成员。我坚信，技术能够为经济和世界带来巨大的积极影响，我希望成为其中的一部分。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586204.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586204.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586204.htm"
+    },
+    {
+      "id": 5274,
+      "title": "俄罗斯Yandex承认部分客户数据永久丢失 数据中心被无人机袭击后正在恢复",
+      "summary": "俄罗斯科技公司 Yandex 的多座数据中心在 10 月份遭到乌克兰无人机袭击，对数据中心而言通常被物理攻击后都会造成破坏，所以事后 Yandex 调集工程团队修复硬件并尝试恢复数据中心。 阅读全文",
+      "content": "<p>俄罗斯科技公司 Yandex 的多座数据中心在 10 月份遭到乌克兰无人机袭击，对数据中心而言通常被物理攻击后都会造成破坏，所以事后 Yandex 调集工程团队修复硬件并尝试恢复数据中心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586194.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586194.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586194.htm"
+    },
+    {
+      "id": 5275,
+      "title": "消息称AMD显卡中国区供应减少20%到50% 紧缺可能会持续到明年1月",
+      "summary": "据博板堂旗下公众号 ChannelGate 视博合聚发布的消息，从 26Q4 开始 AMD 面向中国市场的游戏显卡供应量减少约 20%~50%，这种供应紧张情况可能会持续到明年 1 月。 阅读全文",
+      "content": "<p>据博板堂旗下公众号 ChannelGate 视博合聚发布的消息，从 26Q4 开始 AMD 面向中国市场的游戏显卡供应量减少约 20%~50%，这种供应紧张情况可能会持续到明年 1 月。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586192.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586192.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586192.htm"
+    },
+    {
+      "id": 5276,
+      "title": "黄仁勋离任后 英伟达那些投资怎么办？",
+      "summary": "过去三年，英伟达一跃成为人工智能初创企业、小型云服务商以及前沿AI实验室最活跃的投资方之一，背后核心原因在于CEO黄仁勋持续发力，保证自家专用AI芯片维持旺盛需求。而在他突然卸任之后，这一大笔资金供给源头如今蒙上阴影。 阅读全文",
+      "content": "<p>过去三年，英伟达一跃成为人工智能初创企业、小型云服务商以及前沿AI实验室最活跃的投资方之一，背后核心原因在于CEO黄仁勋持续发力，保证自家专用AI芯片维持旺盛需求。而在他突然卸任之后，这一大笔资金供给源头如今蒙上阴影。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586186.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586186.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586186.htm"
+    },
+    {
+      "id": 5277,
+      "title": "黄仁勋的陨落 是硅谷权力流失的信号",
+      "summary": "黄仁勋被自己一手创办、并打造成AI浪潮根基的公司罢免，周四这天，科技巨头那种势不可挡、近乎无敌的感觉，轰然褪色。随着黄仁勋在英伟达失去权力，科技精英圈层不得不面对一个残酷现实：巨头的地位不再牢不可破，或许，他们也再也无法超然于各方约束之外。 阅读全文",
+      "content": "<p>黄仁勋被自己一手创办、并打造成AI浪潮根基的公司罢免，周四这天，科技巨头那种势不可挡、近乎无敌的感觉，轰然褪色。<strong>随着黄仁勋在英伟达失去权力，科技精英圈层不得不面对一个残酷现实：巨头的地位不再牢不可破，或许，他们也再也无法超然于各方约束之外。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586182.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586182.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586182.htm"
+    },
+    {
+      "id": 5278,
+      "title": "多名投资者：没了黄仁勋 AI热潮仍将支撑英伟达",
+      "summary": "多名核心投资者表示，尽管联合创始人黄仁勋突然辞职引发这家芯片巨头股价大跌，但英伟达作为AI浪潮最大受益者之一的基本面前景并未受损。黄仁勋因婚外情相关丑闻卸任，周四英伟达市值蒸发1820亿美元，不过主要投资者依然看好公司潜力。 阅读全文",
+      "content": "<p>多名核心投资者表示，尽管联合创始人黄仁勋突然辞职引发这家芯片巨头股价大跌，但英伟达作为AI浪潮最大受益者之一的基本面前景并未受损。黄仁勋因婚外情相关丑闻卸任，周四英伟达市值蒸发1820亿美元，不过主要投资者依然看好公司潜力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586178.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586178.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586178.htm"
+    },
+    {
+      "id": 5279,
+      "title": "硅谷科技领袖批评英伟达急让CEO去职：不排除延揽黄仁勋、期望王者归来",
+      "summary": "英伟达首席执行官去职在硅谷引起轩然大波，众多创投家和企业创始人纷纷批评这家芯片制造商的决定，并担忧该决定对整个产业的深远影响。“黑暗、黑暗的一天，”Andreessen Horowitz普通合伙人Martin Casado在X发文说。“对美国和西方世界来说，这是个烂决定。” 阅读全文",
+      "content": "<p>英伟达首席执行官去职在硅谷引起轩然大波，众多创投家和企业创始人纷纷批评这家芯片制造商的决定，并担忧该决定对整个产业的深远影响。“黑暗、黑暗的一天，”Andreessen Horowitz普通合伙人Martin Casado在X发文说。“对美国和西方世界来说，这是个烂决定。”</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586174.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586174.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586174.htm"
+    },
+    {
+      "id": 5280,
+      "title": "台积电内部员工数据泄露",
+      "summary": "台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC",
+      "content": "台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC。黑客提供的样本显示数据涵盖员工姓名、生日、职称、住址、身分证字号、手机号码、银行帐户等资讯，甚至还有紧急连络人电话。黑客称，如果一周内没有找到买家，将会公开所有数据。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85881",
+      "source": "Solidot",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85881"
+    },
+    {
+      "id": 5281,
+      "title": "《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6",
+      "summary": "《幻兽帕鲁（Palworld）》开发商 Pocketpair 宣布了五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新记录，预计首周销量将高达数千万份拷贝。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期。它同时表示《Palworld》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA 6。",
+      "content": "《幻兽帕鲁（Palworld）》开发商 Pocketpair 宣布了五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新记录，预计首周销量将高达数千万份拷贝。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期。它同时表示《Palworld》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA 6。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85879",
+      "source": "Solidot",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85879"
+    },
+    {
+      "id": 5282,
+      "title": "899 美元微软 25 周年纪念版 XBOX Series X 上市，玩家亦可单独购买 X25 特别版手柄无线控制器",
+      "summary": "IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元（IT之家注：现汇率约合 6,016 元人民币）。 这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附带一份《光环：战役进化》完整游戏下载码。 另外，XBOX 无线控制器 X25 特别版也可单独购买，京东显示 558 元。除此之外，微软之前还推出了限定款键盘、鼠标、耳机等产品",
+      "content": "<p data-vmark=\"4a84\">IT之家 11 月 13 日消息，微软宣布旗下 25 周年纪念版 XBOX Series X 主机现已正式上市，定价为 899.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,016 元人民币）</span>。</p><p data-vmark=\"c8de\">这款纪念主机搭载 1TB 存储，外观采用致敬初代 XBOX 的经典半透明绿色（“OG Green”）设计。每台主机附带一份《光环：战役进化》完整游戏下载码。</p><p style=\"text-align: center;\" data-vmark=\"8704\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8eef1ef9-8125-4230-8e5f-6369642a6744.png\" w=\"1440\" h=\"1047\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"497f\"></p><p data-vmark=\"d968\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/49194cf1-6623-412c-bcf6-32c31ea39240.jpg\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"adfd\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"1224\">另外，XBOX 无线控制器 X25 特别版也可单独购买，京东显示 558 元。除此之外，微软之前还推出了限定款键盘、鼠标、耳机等产品。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o1yL8QF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oG3xlij\" data-iosurl=\"https://u.jd.com/or3mJSW\" data-androidurl=\"https://u.jd.com/oD3Uu3A\" data-hosnexturl=\"https://u.jd.com/oa3mNTv\" data-hosurl=\"https://u.jd.com/oO39bIj\" data-uwpurl=\"https://u.jd.com/oa3x7mb\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fo63hKee%26EA_PTAG%3d17078.27.380\" data-ncid=\"271880\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/506269/6/9608/67569/6a8eeed4F5afb1023/008332032015f88c.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">微软（Microsoft）XBOX 无线游戏手柄 X25 无线控制器 25 周年定制手柄</span></span><span class=\"card-abstract\">蓝牙适配 XBOX / PC / 平板 / 手机 Steam 促销</span><span class=\"card-controls\"><span class=\"price\"> 558 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"ecde\">微软在 6 月举行的 XBOX Games Showcase 上首次公布了这款 25 周年纪念主机。在同步举办的 XBOX FanFest 活动中，XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）曾向现场佩戴“粉丝”徽章的与会者宣布，将免费赠送每人一台该主机。</p><p data-vmark=\"3eca\">相关阅读：</p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"defb\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/962/288.htm\">微软 Xbox 新 CEO 夏尔马宠粉：向发布会现场观众赠送 25 周年限定版 Series X 主机</a>》</p></li><li><p data-vmark=\"137c\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/961/194.htm\">庆祝 Xbox 品牌成立 25 周年：微软发布限量版半透明 Series X 游戏机 / 手柄</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/932.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/932.htm"
+    },
+    {
+      "id": 5283,
+      "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
+      "summary": "IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。 据介绍，Gentle Monster 和 Warby Parker 的新品均搭载高通 Snapdragon AR1 Gen 1 芯片，均配备一颗 1,200 万像素摄像头，",
+      "content": "<p data-vmark=\"ea50\">IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。</p><p data-vmark=\"9d26\">据介绍，Gentle Monster 和 Warby Parker 的新品均搭载高通 Snapdragon AR1 Gen 1 芯片，均配备一颗 1,200 万像素摄像头，除了能够拍摄照片 / 视频外，还能借助 AI 实现实时翻译、逐向导航、接打电话和播放音乐等功能。不过，两款产品并未采用 Meta AI，而是接入谷歌 Gemini，用户可以通过眼镜与 Gemini 交互，并使用多项谷歌服务。</p><h3 data-vmark=\"a0cb\">Gentle Monster 智能眼镜</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"5785\">起售价：449 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,002 元人民币）</span></p></li></ul><p data-vmark=\"d4ad\">相应眼镜共推出 6 款设计，部分款式可选深红色、粉色、灰色和黄色镜框，镜片则提供染色、透明、蓝色和棕色等选项，大多数镜框还支持选配近视等处方镜片。</p><p data-vmark=\"46b6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/59d536c3-d86b-48cd-b5c6-0e46ba83f77d.png\" w=\"1440\" h=\"961\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"a1cd\"></p><h3 data-vmark=\"595f\">Warby Parker 智能眼镜</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ae9d\">起售价：395 美元<span class=\"exch-money-value\">（现汇率约合 2,641 元人民币）</span></p></li></ul><p data-vmark=\"8821\">相应眼镜共推出 Alden、Reid 和 Wren 三种款式，设计灵感号称来自 Warby Parker 品牌旗下多款热门眼镜。用户可以选择 Pine、Saddle 和 Jet Black 三种配色，并根据需求选择不同的处方镜片、镜框宽度及镜片配置。</p><p data-vmark=\"0c53\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fb3adf47-2957-402e-9344-948e7353498b.png\" w=\"1440\" h=\"955\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"1cab\"></p>",
+      "link": "https://www.ithome.com/1/026/931.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/931.htm"
+    },
+    {
+      "id": 5284,
+      "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+      "summary": "IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。 裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。 ▲ IT之家注：第二段首句应为“自从黄仁勋宣布辞职以来” 去年，黄仁勋访韩出席亚太经合组织（APEC）会议期间，英伟达与韩国达成了 26 万块 GPU 的供应协议。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 ",
+      "content": "<p data-vmark=\"de10\">IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。</p><p data-vmark=\"b464\">裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。</p><p style=\"text-align: center;\" data-vmark=\"b429\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/580c8c72-81fb-4009-b7c7-64f3e209ffa3.png\" w=\"1196\" h=\"3020\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fmsitminister%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fmsitminister%2Fstatus%2F2121156427528245294%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"4fc6\"></p><figcaption>▲ IT之家注：第二段首句应为“自从黄仁勋宣布辞职以来”</figcaption><p data-vmark=\"3341\">去年，黄仁勋访韩出席亚太经合组织（APEC）会议期间，<strong>英伟达与韩国达成了 26 万块 GPU 的供应协议</strong>。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。</p><p data-vmark=\"9ac5\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"c737\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/900/956.htm\">韩国政府牵头成立 GPU 工作组，联合四大韩企采购 26 万块英伟达显卡</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/927.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/927.htm"
+    },
+    {
+      "id": 5285,
+      "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+      "summary": "IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 & openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure，智能体基础设施）的操作系统。 据介绍，openEuler 升级为面向 Agentic Infra 的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent ",
+      "content": "<p data-vmark=\"c656\">IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 &amp; openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure，<strong>智能体基础设施</strong>）的操作系统。</p><p data-vmark=\"f8df\">据介绍，openEuler 升级为面向 Agentic Infra 的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent 应用等场景，已经在互联网，金融等行业头部用户商用落地。</p><p data-vmark=\"aa0a\">开放原子开源基金会理事长谢少锋现场披露，<strong>openEuler 系操作系统国内累计装机量预计突破 2200 万套</strong>。会上，开放原子开源欧拉委员会主席熊伟发布了 openEuler 24.03 LTS SP5 版本。</p><p data-vmark=\"7b0f\">此外，openEuler 社区计划到年底实现 80% CVE 由 AI 辅助处理，社区服务 Agent 100% 接入。在全球化层面，巴基斯坦高等教育委员会正式发布 HECOS 1.0，成为<strong>海外首个基于 openEuler 的本土操作系统</strong>。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"b479ba78-c742-4e7c-820e-99787be58798\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cubGVub3ZvLmNvbSUyRmluJTJGZW4lMkZrbm93bGVkZ2ViYXNlJTJGd2hhdC1pcy1hZ2VudGljLWFpLWluZnJhc3RydWN0dXJlJTJGJTIyJTJDJTIyaHR0cCUzQSUyRiUyRnd3dy5qamNrYi5jbiUyRjIwMjQxMTI1JTJGMTRmZmIyNTVmYzhmNGVlZWIwYmI1NTIzYmEyODg0NTklMkZjLmh0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRnd3dy5vcGVuZXVsZXIub3BlbmF0b20uY24lMkZ6aCUyRm5ld3MlMkYyMDIzMDQyOC1yZW5taW4lMkYyMDIzMDQyOC1yZW5taW4uaHRtbCUyMiUyQyUyMmh0dHAlM0ElMkYlMkZtLjE2My5jb20lMkZkeSUyRmFydGljbGUlMkZMQktEVjVWRTA1MTk4Q0pOLmh0bWwlMjIlMkMlMjJodHRwJTNBJTJGJTJGZmluYW5jZS5zaW5hLmNuJTJGMjAyNi0xMS0xMyUyRmRldGFpbC1pbml5cXd0dDA5MDU3NzIuZC5odG1sJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cub3BlbmV1bGVyLm9wZW5hdG9tLmNuJTJGemglMkZuZXdzJTJGMjAyNjEwMDEtb3BlbkV1bGVyJTI1MjAyNi4wOSUyRjIwMjYxMDAxLW9wZW5FdWxlciUyNTIwMjYuMDkuaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGYy5tLjE2My5jb20lMkZuZXdzJTJGYSUyRkxCS1FSQUY4MDUxMjhBOFIuaHRtbCUyMiU1RA==\" class=\"ai-point \"><h3 data-vmark=\"ee61\">延伸阅读</h3><p data-vmark=\"4d8a\"><span data-ref-ids=\"\" data-ref-urls=\"0\">所谓 Agentic Infra，指的是支撑 AI 智能体（Agent）构建、运行、连接、监控与管理的技术底座。它通常涵盖模型推理资源、Agent 运行时、编排调度、工具调用、数据接入、任务状态管理、记忆系统、身份权限控制以及监控等组件，可根据不同系统设计支持多步骤工作流、工具集成与外部系统交互。</span></p><p data-vmark=\"9f45\"><span data-ref-ids=\"\" data-ref-urls=\"1,2\">openEuler 起源于华为自研的服务器操作系统 EulerOS，于 2019 年 9 月正式开源。2021 年 9 月，华为宣布将其从服务器操作系统升级为数字基础设施的操作系统；同年 11 月，华为携手社区伙伴将 openEuler 捐赠给开放原子开源基金会，其发展模式由企业主导转向产业共建、社区自治。</span></p><p data-vmark=\"c236\"><span data-ref-ids=\"\" data-ref-urls=\"1\">在装机量方面，openEuler 曾于 2024 年 11 月披露，开源五年累计装机量突破 1000 万套，其中 2024 年新增装机量超过 500 万套。此次预计突破 2200 万套，意味着其规模在约两年间实现翻倍以上增长。</span></p><p data-vmark=\"fd8c\"><span data-ref-ids=\"\" data-ref-urls=\"4\">在社区规模上，目前 openEuler 社区拥有超过 2200 家成员单位、超过 3 万名开源贡献者，覆盖金融、电信、能源等关键行业，并已进入卫星系统、具身智能等新兴领域。</span></p><p data-vmark=\"ea59\"><span data-ref-ids=\"\" data-ref-urls=\"5\">在本次大会之前，openEuler 已于 2026 年 10 月 1 日发布 26.09 创新版本，推出 6.6 与 6.18 双内核，AI 场景新增 Agent 可观测、SkillHub、上下文管理、KV Cache 协同加速、模型加载优化等特性，并完成面向 Agentic AI 的技术升级。</span></p><p data-vmark=\"69df\"><span data-ref-ids=\"\" data-ref-urls=\"6\">在全球化协作方面，openEuler 还将与全球头部操作系统厂商 Ubuntu 在超节点等技术领域开展协作交流；大会现场宣布了社区新增白金捐赠人，并揭晓了 20 个“2026 年度 openEuler 领先商业实践”项目案例。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/026/911.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/911.htm"
+    },
+    {
+      "id": 5286,
+      "title": "英国在数据中心上对自由放任说不，避免重演美国式争议",
+      "summary": "IT之家 11 月 13 日消息，据彭博社当地时间 11 日报道，英国财政大臣 John Healey 在同日进行的财政部特别委员会上表示，该国在数据中心监管上不会采用美国式的自由放任策略，“不想看到美国的数据中心辩论在英国重演”。 整体上来看，美国对数据中心项目的监管相对粗放，这与容量不足的水电基础设施一道造成了一系列问题，引发公众和政界的强烈反对，已开始反过来阻碍对 AI 的投资。 图源：Pexels John Healey“准备对那些不能带来社区利益的数据中心说不”。他",
+      "content": "<p data-vmark=\"80a3\">IT之家 11 月 13 日消息，据彭博社当地时间 11 日报道，英国财政大臣 John Healey 在同日进行的财政部特别委员会上表示，<strong>该国在数据中心监管上不会采用美国式的自由放任策略</strong>，“不想看到美国的数据中心辩论在英国重演”。</p><p data-vmark=\"69f4\">整体上来看，美国对数据中心项目的监管相对粗放，这与容量不足的水电基础设施一道造成了一系列问题，引发公众和政界的强烈反对，已开始反过来阻碍对 AI 的投资。</p><p data-vmark=\"0d7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a06066ae-7ae5-4c7c-b307-6efc61774667.jpg\" w=\"867\" h=\"650\" class=\"nowebp no-alt-img\" data-weibo=\"0\" data-vmark=\"b405\"></p><figcaption>图源：Pexels</figcaption><p data-vmark=\"c6fc\">John Healey“准备对那些不能带来社区利益的数据中心说不”。他同时强调了主权 AI 基础设施对该国韧性与独立性的重要性。英国计划到 2030 年实现 6GW 的算力容量，这一水平是当前的 3 倍。</p><p data-vmark=\"d406\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"ddfa\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/024/357.htm\">谷歌英国数据中心遭近 5.5 万人联名反对，包括摩托骑手和昆虫保护者</a>》</p></li><li><p data-vmark=\"534a\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/014/574.htm\">微软取消 AI 相关合作，英国本土数据中心企业 Nscale 遭遇重大挫折</a>》</p></li><li><p data-vmark=\"f74c\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/993/242.htm\">微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对</a>》</p></li><li><p data-vmark=\"544c\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/984/875.htm\">遏制投机性数据中心申请：英国能源市场监管机构拟设立并网保证金</a>》</p></li><li><p data-vmark=\"3692\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/981/517.htm\">英国水务协会警告：数据中心扩张将致用水量激增，政府未提前规划</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/026/875.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/875.htm"
+    },
+    {
+      "id": 5287,
+      "title": "今年下半年唯一国产旗舰机：消息称华为 Pura X View 阔直板激活销量破百万",
+      "summary": "IT之家 11 月 13 日消息，今天（13 日）傍晚，@数码闲聊站 爆料称，华为 Pura X View 阔直板手机上市 66 天，激活销量已突破 100 万台。该机截至今年第 45 周累计激活为 96.4 万台，百万台大关是在第 46 周突破的。 @数码闲聊站 在评论区透露，今年下半年达成单品百万激活的只有 iPhone 18 Pro Max、iPhone 18 Pro、华为 Pura X View 三款机型，而华为 Pura X View 就是下半年唯一百万激活的国产旗",
+      "content": "<p data-vmark=\"e4c2\">IT之家 11 月 13 日消息，今天（13 日）傍晚，@数码闲聊站 爆料称，华为 Pura X View 阔直板手机上市 66 天，<strong>激活销量已突破 100 万台</strong>。该机截至今年第 45 周累计激活为 96.4 万台，百万台大关是在第 46 周突破的。</p><p data-vmark=\"a50c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dd148524-bcc8-428b-878b-5b38a2c1b7d1.png\" w=\"1276\" h=\"314\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1eaf238c8bfb344a3c25e2f58ceca44933c69908ee75a5e04620b3f2933fec28f497caf8a64c200af\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2F5364835860874497%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRrcFY3FuN%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"75c7\" class=\"no-alt-img\"></p><p data-vmark=\"e95d\">@数码闲聊站 在评论区透露，今年下半年达成单品百万激活的只有 iPhone 18 Pro Max、iPhone 18 Pro、华为 Pura X View 三款机型，而华为 Pura X View 就是<strong>下半年唯一百万激活的国产旗舰机</strong>。</p><p data-vmark=\"f5ae\">第 45 周，苹果的首款折叠屏手机 iPhone Duo 累计激活量约为 35 万台，单周销量被华为 Pura X View 超越。</p><p data-vmark=\"eedd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/20afb63e-2a25-42cf-887c-edd84f53debc.png\" w=\"1280\" h=\"426\" data-mpos=\"2,2\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1c86b4abadb9d537c77904e5db8c1128403379ecc4c40a971b0118d572c2c71b19f0cbb967c55bc27\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2F5364835860874497%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"ed60\" class=\"no-alt-img\"></p><p data-vmark=\"4bf3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/414ff1b0-023b-4d99-a738-0ad46e70d637.png\" w=\"1280\" h=\"382\" data-mpos=\"2,2\" data-weibo=\"2\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2F5364835860874497%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"c79b\" class=\"no-alt-img\"></p><p data-vmark=\"6e8f\">本月早些时候，长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 43 周（10 月 19 日-10 月 25 日），<strong>华为 Pura X View 阔直板手机的销量约 75.53 万台</strong>。</p><p data-vmark=\"4c9c\">据IT之家此前报道，华为 Pura X View 一度长期处于缺货状态，部分第三方平台的现货需要加价购买。博主 @数码闲聊站 曾透露，<a target=\"_blank\" href=\"https://www.ithome.com/1/013/731.htm\">该机为今年势头最猛的国产旗舰</a>，<strong>实销均价 7000 元左右</strong>，其中约 30％用户来自苹果用户。</p><p data-vmark=\"c321\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8f21bf6f-aba6-42cd-97f0-a4d8f1b4b7e9.jpg\" w=\"1080\" h=\"892\" data-vmark=\"3a5b\" data-mpos=\"2,0\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"0a3e\">值得一提的是，<a target=\"_blank\" href=\"https://www.ithome.com/1/014/812.htm\">华为官方已于 10 月 20 日开启了该机的 60 天预约申购活动</a>。目前，<strong>该机在官网已放开购买，并支持至高 12 期 0 分期利息活动</strong>。</p><p data-vmark=\"9bb1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5b546967-fd57-436f-8c2f-6d5c744f8907.jpg\" w=\"1373\" h=\"832\" data-vmark=\"0366\" data-weibo=\"4\" class=\"no-alt-img\"></p><p data-vmark=\"41de\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/980.htm\">华为 Pura X View 于 9 月 9 日开启首销</a>，搭载麒麟 9030S 处理器，<strong>售价 5999 元起</strong>。该机还配备一块 6.39 英寸 2232×1320 分辨率屏幕（比例 16:9.5），支持 120Hz 刷新率、2160Hz 高频 PWM 调光及 6500nits 局部峰值亮度，四等边黑边宽度均为 1.05mm，屏占比达 96.1%。</p>",
+      "link": "https://www.ithome.com/1/026/869.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/869.htm"
+    },
+    {
+      "id": 5288,
+      "title": "消息称松下 LUMIX S9 二代相机将于 2027 年初发布",
+      "summary": "IT之家 11 月 13 日消息，据 L-Rumors 消息，可靠消息源透露，松下的多款新相机将于 2027 年初发布，其中 LUMIX S9 II 已经 99% 确认。 L-Rumors 称，全球 DRAM 短缺可能导致一些相机的发布推迟了几个月，比如尼康 Z70（即将推出）和富士 X-T6。此外，索尼 A7S IV 也很可能会在 2027 年初推出，而不是今年 11 月。 据IT之家此前报道，松下 LUMIX S9 发布于 2024 年 5 月，搭载约 2420 万像素的",
+      "content": "<p data-vmark=\"5312\" style=\"text-align: left;\">IT之家 11 月 13 日消息，据 L-Rumors 消息，可靠消息源透露，松下的多款新相机将于 2027 年初发布，<strong>其中 LUMIX S9 II 已经 99% 确认</strong>。</p><p style=\"text-align: left;\" data-vmark=\"dd79\">L-Rumors 称，全球 DRAM 短缺可能导致一些相机的发布推迟了几个月，比如尼康 Z70（即将推出）和富士 X-T6。此外，索尼 A7S IV 也很可能会在 2027 年初推出，而不是今年 11 月。</p><p style=\"text-align: left;\" data-vmark=\"bb19\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/770/176.htm\">松下 LUMIX S9 发布于 2024 年 5 月</a>，搭载约 2420 万像素的全画幅 CMOS 传感器，国行单机身首发价 9599 元。</p><p style=\"text-align: center;\" data-vmark=\"c869\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/95b41d1f-500c-4c6c-bec4-f8d5158232ad.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"709\" data-weibo=\"0\" data-vmark=\"03ae\" class=\"no-alt-img\"></p><p style=\"text-align: left;\" data-vmark=\"e95a\">LUMIX S9 机身上配备“LUT”专用按钮，可以让用户轻松调用应用程序中的各种色彩配置文件，包括用户自己创建的风格和应用程序提供的预设。不过，这款相机没有机械快门，不支持热靴。</p><p style=\"text-align: center;\" data-vmark=\"f8e1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3319f9f9-5a30-4a3f-a6bb-6d8d2fe5d32d.jpg?x-bce-process=image/format,f_auto\" w=\"840\" h=\"630\" data-weibo=\"1\" data-vmark=\"1c36\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/026/864.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/864.htm"
+    },
+    {
+      "id": 5289,
+      "title": "华硕推出“VG27AQL5F 吹雪”27 英寸显示器：2K 220Hz + 双扬，1249 元",
+      "summary": "IT之家 11 月 13 日消息，华硕现已在京东上架“VG27AQL5F 吹雪”27 英寸显示器，该机主打 2K 220Hz，定价为 1249 元。 京东华硕“VG27AQL5F 吹雪”显示器 1249 元直达链接 该机配备一块 2560x1440 分辨率 220Hz 超频 Fast IPS 面板，亮度 400 尼特，对比度 1300:0，GtG 响应速度 0.03ms，覆盖 95% DCI-P3 色域。 该机采用白色边框 / 白色支架，支架支持升降 / 倾斜 / 旋转，内置",
+      "content": "<p data-vmark=\"3762\">IT之家 11 月 13 日消息，华硕现已在京东上架“VG27AQL5F 吹雪”27 英寸显示器，该机主打 2K 220Hz，<strong>定价为 1249 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o13NY2d\" target=\"_blank\" data-wapurl=\"https://u.jd.com/og3ptVq\" data-iosurl=\"https://u.jd.com/o13ZqhX\" data-androidurl=\"https://u.jd.com/oG3Se0C\" data-hosnexturl=\"https://u.jd.com/or32hn1\" data-hosurl=\"https://u.jd.com/o13vcTN\" data-uwpurl=\"https://u.jd.com/o13Tz3G\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fog3Zyom%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oO3yXNI\" data-lpwxurl=\"https://u.jd.com/oO3lKOt\"   data-ncid=\"271755\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/587256/9/1029/185474/6af40c5fFbdcb21c3/0083320320cc46c0.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华硕“VG27AQL5F 吹雪”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1249 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"9ddd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1272d599-162b-4a1a-a40f-ac7edb492530.png\" w=\"868\" h=\"838\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"4e7d\"></p><p style=\"text-align: center;\" data-vmark=\"af9a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/16821fb2-c745-4416-bf39-75a633d629b6.png\" w=\"1326\" h=\"1312\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"920e\"></p><p data-vmark=\"d7df\">该机配备一块 2560x1440 分辨率 220Hz 超频 Fast IPS 面板，亮度 400 尼特，对比度 1300:0，GtG 响应速度 0.03ms，覆盖 95% DCI-P3 色域。</p><p data-vmark=\"fb6c\">该机采用白色边框 / 白色支架，支架支持升降 / 倾斜 / 旋转，内置双 2W 扬声器，提供 2 个 HDMI 2.1、1 个 DP 1.4、1 个 3.5mm 音频接口、1 个 USB-C 接口。</p><p style=\"text-align: center;\" data-vmark=\"2c61\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/66917e27-69ee-48dd-8734-99e4f1c87d70.png\" w=\"1320\" h=\"1002\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"b02a\"></p>",
+      "link": "https://www.ithome.com/1/026/862.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/862.htm"
+    },
+    {
+      "id": 5290,
+      "title": "腾讯混元发布实时语音模型 Hy Realtime：能说会唱、还能调用工具，已在元宝语音通话、腾讯客服等上线",
+      "summary": "IT之家 11 月 13 日消息，腾讯混元今日发布全新实时语音模型 Hy Realtime。该模型在语音理解、指令遵循、拟人化表达等基础对话能力上有优异表现，同时新增 Agentic 工具调用与唱歌能力。 Hy Realtime 已在元宝语音通话、腾讯客服等产品上线，近期也将上线腾讯云，对外提供 API 服务。 官方表示，Hy Realtime 仍在不断迭代，下一步将重点在双工交互、长期个性化记忆、前后台 Agent 交互上等方面不断提升，为用户带来更好的交互体验。 当前版本",
+      "content": "<p data-vmark=\"c4da\">IT之家 11 月 13 日消息，腾讯混元今日发布全新实时语音模型 Hy Realtime。该模型在语音理解、指令遵循、拟人化表达等基础对话能力上有优异表现，同时新增 Agentic 工具调用与唱歌能力。</p><p data-vmark=\"438b\">Hy Realtime <strong>已在元宝语音通话、腾讯客服等产品上线</strong>，近期也将上线腾讯云，对外提供 API 服务。</p><p data-vmark=\"daf3\">官方表示，Hy Realtime 仍在不断迭代，下一步将重点在双工交互、长期个性化记忆、前后台 Agent 交互上等方面不断提升，为用户带来更好的交互体验。</p><p data-vmark=\"8cf8\">当前版本可通过最新版元宝 App 体验，在语音通话功能中选择“初语”音色；也可访问网页 Demo 进行部分能力体验。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0e05\"><a target=\"_blank\" href=\"https://rtcube.cloud.tencent.com/component/hunyuan/index.html\"><span class=\"link-text-start-with-http\">https://rtcube.cloud.tencent.com/component/hunyuan/index.html</span></a></p></li></ul><p style=\"text-align: center;\" data-vmark=\"28b5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/122306fd-1bf5-40ef-b851-ef64988e0af5.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"819\" data-weibo=\"0\" data-vmark=\"59b0\" class=\"no-alt-img\"></p><p data-vmark=\"5cd8\">IT之家附官方介绍如下：</p><blockquote><p data-vmark=\"64dd\">Hy Realtime 在理解用户意图和指令遵循方面表现出色。现实交流中，用户交互可能会口齿含糊、话说半截，或者中途改口纠正自己，模型可以结合对话上下文，对这类不完整输入进行意图还原，理解准确率显著提升。同时，模型的多轮指令遵循与上下文管理能力进一步增强，在较长的连续对话中依然能够稳定理解用户意图，保持对话流畅。</p><p data-vmark=\"b8cc\">除了基础对话功能，Hy Realtime 还具备<strong>工具调用能力</strong>，它能根据对话上下文、用户意图准确判断是否执行联网搜索，统一搜索决策、调用工具与生成回答。</p><p data-vmark=\"7d71\">除了“听力理解”的大幅提升，Hy Realtime 的<strong>口语表达能力</strong>也进一步升级。在音质、发音、韵律、情感各维度上全面优于上一代模型，对话内情感的变化和递进更加自然，韵律语调处理也更具多样性，与用户的共情能力进一步提升。</p><p data-vmark=\"82a0\">依托与腾讯音乐 TME 灵音 AI 团队的深度 Co-Design，Hy Realtime 新增<strong>唱歌能力</strong>，将自然语言点歌与富有表现力的歌声融入对话，让交互从“能说”走向“会唱”。</p><p data-vmark=\"a362\">用户可以按歌手、专辑、曲风、语种、发行年份和热度组合点歌，也能承接前文继续选择。例如，当用户说“来首 2010 年到 2020 年之间的英文民谣”，模型即可结合多轮上下文，理解点歌意图、匹配歌曲并演唱。</p><p data-vmark=\"a889\">在演唱表现上，混元团队围绕表现力、自然度和音乐性持续打磨，让演唱情绪更有层次，咬字、气息衔接更加自然，旋律与节奏表达更加协调。在内部专家 A/B Test 评测中，Hy Realtime 在核心体验维度中呈现出显著优势。</p><p style=\"text-align: center;\" data-vmark=\"b77f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3d6f22a0-3912-490e-b43e-e89e0bedc334.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"692\" data-weibo=\"1\" data-vmark=\"1eb4\" class=\"no-alt-img\"></p><figcaption>▲ 在中文 / 中英混为主的应用场景上，混元语音构建了体验向的真实产品评测体系。在内部专家盲评的结果上，基础搜答类体验上有了显著提升。</figcaption><p style=\"text-align: center;\" data-vmark=\"c0bf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/85d2b1f1-18cb-4abd-9b59-e137c272385b.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"861\" data-weibo=\"2\" data-vmark=\"9e9a\" class=\"no-alt-img\"></p><figcaption>▲ 在覆盖数学、科学、逻辑推理、知识问答、复杂指令、文本理解、多轮等多个维度的内部自建基础智商测试集上，非思考模式的中文表现不俗。</figcaption><p style=\"text-align: center;\" data-vmark=\"61f8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/64e05f7b-d82a-4ede-81b7-da804ba54615.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1133\" data-weibo=\"3\" data-vmark=\"d5a0\" class=\"no-alt-img\"></p><figcaption>▲ 在语音交互领域多个公开 Benchmark 上，综合客观表现处于领先水平。</figcaption></blockquote>",
+      "link": "https://www.ithome.com/1/026/825.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/825.htm"
+    },
+    {
+      "id": 5291,
+      "title": "日本滋贺县甲贺市紧急信息语音广播系统遭黑客攻击，当地户外扩音器防灾服务紧急暂停",
+      "summary": "IT之家 11 月 13 日消息，据日媒 ITMedia 报道，日本滋贺县甲贺市通报当地语音广播系统服务器于 11 月 12 日遭到勒索软件攻击，导致户外扩音器和家庭语音广播终端无法使用。市政府将改用官方 LINE 账号、电视和广播等渠道传递相关信息。 公开信息显示，甲贺市在全市 229 个地点设置了户外扩音器，平时会在正午等固定时段播放旋律报时，发生紧急情况时则会与家庭语音广播终端配合，播报避难信息等内容。 外媒表示，此次黑客攻击事件导致户外扩音器及当地防灾系统联动的家庭语",
+      "content": "<p data-vmark=\"b2e0\">IT之家 11 月 13 日消息，据日媒 ITMedia 报道，日本滋贺县甲贺市通报当地语音广播系统服务器于 11 月 12 日遭到勒索软件攻击，导致户外扩音器和家庭语音广播终端无法使用。市政府将改用官方 LINE 账号、电视和广播等渠道传递相关信息。</p><p data-vmark=\"c115\">公开信息显示，甲贺市在全市 229 个地点设置了户外扩音器，平时会在正午等固定时段播放旋律报时，发生紧急情况时则会与家庭语音广播终端配合，播报避难信息等内容。</p><p style=\"text-align: center;\" data-vmark=\"a7d4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ac8f6e9b-eab5-4569-97d9-7e4b46b975e1.png\" w=\"1224\" h=\"1202\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"d372\"></p><p data-vmark=\"6979\">外媒表示，此次黑客攻击事件导致户外扩音器及当地防灾系统联动的家庭语音广播终端出现故障，目前所有紧急信息、行政通知、报时旋律、讣告信息等服务均已暂停。目前相关服务尚无明确的恢复时间表，甲贺市当前正在调查语音广播终端登记用户的姓名及企业名称等信息是否遭到泄露，后续官方将在确认信息泄露情况及服务恢复进展后，及时对外公布最新情况。</p>",
+      "link": "https://www.ithome.com/1/026/805.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/805.htm"
+    },
+    {
+      "id": 5292,
+      "title": "消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成",
+      "summary": "IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示，该企业计划进行新一轮 60 亿美元股票回购。 字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元（IT之家注：现汇率约合 2.67 万亿元人民币）的整体估值。这一数额相较一年前上轮回购时的水平高出 20%。 知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；",
+      "content": "<p data-vmark=\"13b7\">IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示，<strong>该企业计划进行新一轮 60 亿美元股票回购</strong>。</p><p data-vmark=\"d3c0\">字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2.67 万亿元人民币）</span>的整体估值。<strong>这一数额相较一年前上轮回购时的水平高出 20%</strong>。</p><p data-vmark=\"28ba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/45ada9c5-1275-425f-9aef-df3f0128ca0e.png\" w=\"1080\" h=\"215\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"e70b\"></p><p data-vmark=\"73ad\">知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；该企业还在文件中详细描述了向 AI 部门员工提供总计 3 亿股与 AI 业务价值挂钩的股份的计划。</p>",
+      "link": "https://www.ithome.com/1/026/803.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/803.htm"
+    },
+    {
+      "id": 5293,
+      "title": "鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元",
+      "summary": "IT之家 11 月 13 日现场消息，今天（13 日）下午，鸿蒙智行问界新 M8 正式上市。新车定位家庭智慧旗舰 SUV，面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，号称研发投入 15 亿元，拥有 126 项创新技术。 IT之家从发布会现场获悉，问界新 M8 的售价如下： 增程版 阔五座：Max 售 37.98 万元，Max+ 售 39.98 万元，Ultra 售 44.98 万元 享六座：Max 售 38.98 万元，Max+ ",
+      "content": "<p data-vmark=\"7272\">IT之家 11 月 13 日现场消息，今天（13 日）下午，鸿蒙智行问界新 M8 正式上市。新车定位家庭智慧旗舰 SUV，面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，号称研发投入 15 亿元，拥有 126 项创新技术。</p><p data-vmark=\"5a00\">IT之家从发布会现场获悉，问界新 M8 的售价如下：</p><h2 data-vmark=\"8bbd\">增程版</h2><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"efa6\">阔五座：Max 售 37.98 万元，Max+ 售 39.98 万元，Ultra 售 44.98 万元</p></li><li><p data-vmark=\"f503\">享六座：Max 售 38.98 万元，Max+ 售 41.98 万元，Ultra 售 46.98 万元</p></li></ul><h2 data-vmark=\"43d1\">纯电版</h2><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e850\">阔五座：Max+ 售 39.98 万元，Ultra 售 44.98 万元</p></li><li><p data-vmark=\"07dc\">享六座：Max+ 售 41.98 万元，Ultra 售 46.98 万元</p></li></ul><p data-vmark=\"9853\">新车长宽高分别为 5190/1999/1795mm，轴距 3105mm，拥有更挺拔的鼻棱线、全新宽域侧进气帘、镀铬网状进气格栅，风阻系数 0.254。</p><p data-vmark=\"7a88\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e3a64fb3-afc7-469b-9dc5-98f1afa4ede4.jpg\" w=\"1280\" h=\"960\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d16dc80a65faf2e878939ba3dfacf6e3a4629adb084b2daa0997727b432982689fad45b0c664bb4139\" data-vmark=\"0a3a\"></p><p data-vmark=\"492e\">问界新 M8 提供鎏金黑、暖云白、星际蓝、瑞红（8,000 元）、夜紫（8,000 元）、苍戎绿（8,000 元）、天幕青（8,000 元）外观色可选；内饰则有赤茶橘、沙砾棕（8,000 元）、澜月白（8,000 元）、松露棕（8,000 元）和星云红（8,000 元）五种配色。</p><p data-vmark=\"d37b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dff80817-3e29-4ba2-813d-5f457aa8f985.jpg\" w=\"1280\" h=\"960\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1a39ac10f86c2eaa1d41aba8ddf54d81fb3ea0fb6bcdd2397139432c696a3cb1434758a25820e89d8\" data-vmark=\"77d7\"></p><p data-vmark=\"4e15\">问界新 M8 拥有全新天地万象车色 + 全新豪华轮毂 + 鲲鹏设计，内饰采用奢雅拼色设计，配备 C 型菱格光岛 + 交互智能氛围灯，同时拥有更大坐乘装载空间 + 全新影音系统，<strong>六座版型可选三零重力座椅</strong>。</p><p data-vmark=\"f012\">新车内饰以“浮光菱影”为核心设计语言，<strong>全车配备近 17 米超长氛围灯带、4 组环抱光岛</strong>，并搭配有经典菱格纹设计。</p><p data-vmark=\"2349\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/98a7f4b2-4cba-4999-ad5b-bf001a530199.jpg\" w=\"1440\" h=\"1080\" data-vmark=\"e5fc\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1d9653c119872bb6ebe8683a52dc93dd2d929d8eda4ed545f8fbd09a6a029be8bdbba1460dc08fb01\" data-weibo=\"2\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"2e23\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/985e0f4b-17f8-45d5-863d-e465fc88c1e9.jpg\" w=\"1280\" h=\"960\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1b190e9b32db8299b2b9eaf2f96d10bd1b4fe78d71c3916ebd25335108df655a070ec18b6540653eb\" data-vmark=\"278d\"></p><p data-vmark=\"a08a\">材质方面，车内运用天然实木、Nappa 真皮等，拥有 7 处实木饰面、65 处同光泽电镀按键、双层蚀刻音响网罩、电镀门板座椅调节按键。此外，新车实现了 160 处隔音设计优化，配备 10 块双层隔音玻璃、大面积吸音棉。</p><p data-nine-grid=\"1\" data-vmark=\"7817\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/be90b909-4647-4343-b142-3fd442419034.png\" w=\"320\" h=\"240\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d144d9c912cb73078ef070c75f58c3625175b80faf371c5762e038a298c77fc7a2872833f228a1dcaf\" data-vmark=\"65ba\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/b0a3fd4c-2713-4a87-8f1a-75da352efc9d.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/12128e72-10a8-42eb-a44a-6a96e2a7b362.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1aeec8d39e72a88b6fae39084bbc4d27ecb51204c38b5277b66f6a9cd1f0abd884172774f00266c8e\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-vmark=\"de72\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/52cb05eb-b4ba-4471-818c-676d014e95ea.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bababbdc-e500-406b-bd73-3c0ee001e55c.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d10dafb1027b39efb89061e40233cdabcd18fbe12f7294a924c5151cd3ae4a7542f17dbcfa2265fec5\" data-weibo=\"6\" class=\"nowebp no-alt-img\" data-vmark=\"b917\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/c373bc7c-f44e-4c76-9b6f-f2d97b3cce50.jpg\"></p><p data-vmark=\"de59\">问界新 M8 搭载华为悦彰音响系统，包含 25 单元 2080W 功放，支持 7.1.4 环绕声场；业界首发超高清云晰柔光娱乐屏，规格为 21 英寸 4K 分辨率。车内还有超制冷压缩机冰箱，制冷温度-18℃ 号称行业最低，支持 15 分钟内从 25℃ 至 0℃ 的快速降温。</p><p data-vmark=\"732a\">新车升级前排双零重力座椅，120° 真零压角、16 向电动调节，升级后的舒云座椅拥有更宽型面、更厚支撑，配有四层气袋按摩系统。</p><p data-vmark=\"922d\">“阔五座”车型后排腿部空间可达 1080mm，头部空间为 1062mm，还配有准零重力座椅；“享六座”车型的三排也有 840mm 腿部空间、960mm 头部空间。</p><p data-nine-grid=\"1\" data-nine-grid-more=\"+1\" data-vmark=\"4deb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/67b96645-80f6-4456-8d6d-08aafd09874b.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1a6ad55231fc718a5d29a8cf64693b542facdb6d893111a7fb451678a444f616df29660598e69edcc\" data-weibo=\"7\" class=\"nowebp no-alt-img\" data-vmark=\"05d5\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/75d799b6-192e-43f5-989f-b0b0d9b8854b.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e7f1da03-6f19-4077-909d-33b1f552a384.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d112b68225fe38020a5cd767b38af59690f42d46fc409fde6e08a5f12245acd77e52f62a0209aa201e\" class=\"nowebp no-alt-img\" data-vmark=\"9c87\" data-weibo=\"8\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/d1c85982-fadc-4e5c-a06a-44c5e4c3b067.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/302f3207-5d2c-4091-961d-d62907969e1b.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1d5b0d69cc40cc428ae84beb5c5c902f3fcf425ab05bf043d7236c0548fdd1b930d44e0eb51d9e92f\" class=\"nowebp no-alt-img\" data-vmark=\"edc0\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/8ef55ae8-e5c9-42d6-a32f-0cbed55e44b1.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f318f8cc-e9e3-4dc2-8619-591c231b9c5a.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1f1010eec27db823e56c386e34cd0dcb46a7fe8f9b3fec9ed1ab7867f5163344af22ec7d8dde526d8\" class=\"nowebp no-alt-img\" data-vmark=\"cb76\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/a68fd2b2-087b-43bf-9d8e-52d253b99b01.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8708d362-1e21-49b0-b583-49a44c9faf7e.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d13aeceb4da8ceff9a7c22ed3db3d5b3e84c052dd57040ef42b51f670a135c29ffc640c94191faa3e4\" class=\"nowebp no-alt-img\" data-vmark=\"550d\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/7067bf7a-8e7e-4e4e-9af3-d5864491fa42.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8222772b-764b-4286-b719-a88065288b93.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1c79f10d21bbf6ad1fe74d8496e8888b6308cc84000c1d74213af39972025106add3e64396608a94d\" class=\"nowebp no-alt-img\" data-vmark=\"75d0\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/81ecfdc2-1490-4ede-8961-73a0f0fea58a.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f4c2f4e9-7c92-4091-975c-0f9d4f64b14c.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d10a9052bd3ebefc831de54bdbb865c3cd54c0eaf26af00fb15df10b55e724ffcddfee5831fe4a015a\" class=\"nowebp no-alt-img\" data-vmark=\"961b\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/156d5feb-6d9b-4e91-be41-975e3106131b.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e3c06709-0854-494f-bb10-4df6447b5005.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d14b18789a50b7a73110ddd0a7238a59f5a0de9ba014f89e2025c9929c57df677a0bc177bb89ffd079\" class=\"nowebp no-alt-img\" data-vmark=\"c36a\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/81dd1d5f-37f6-45b3-af72-acd9e9b89821.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7e3c30c2-4fb5-4606-a325-9dffe65dbe12.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1fcb558c0aaf28b2f7c4b3d312d358a98c97aa91fd679fc5504a19cc9152f7b576571d8a59b99683d\" class=\"nowebp no-alt-img\" data-vmark=\"fa76\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/3b7e1823-0aa6-4fc5-b6ee-2b5739d9d50a.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/be45b05c-2a20-4e4d-975f-c2a7a8d981eb.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d11039b1d5a416679dc7f0bd5ff48b2671eb44f287b30870c881522d8da563c9fd563a3ec72ed0c8d9\" class=\"nowebp no-alt-img\" data-vmark=\"e4a3\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/43121a4b-0812-49aa-8081-cb48d1ac3bfa.jpg\"></p><p data-vmark=\"5556\">华为官网显示，新车“舒享配置”可选电动踏板（8,000 元）、主驾零重力座椅（10,000 元）、副驾零重力座椅（8,000 元）、二排右侧零重力座椅；“科技配置”可选 21 英寸后排柔光娱乐屏（10,000 元）、后轮转向（20,000 元）、智慧电动门（15,000 元）和百万像素投影大灯（Ultra 标配）。</p><p data-vmark=\"8039\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/98abf91b-d49b-4dad-8422-b7ef43b234b6.jpg\" w=\"1280\" h=\"960\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1ded54dfaa68e6f72822a21dc28b2920b8467ad75d71b044f981a308a006e8da2e9c93086fad679b0\" data-vmark=\"9a9f\"></p><p data-vmark=\"a959\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2cca95fd-7e4d-4d10-aa0e-9a2f6fbeef85.jpg\" w=\"1280\" h=\"960\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d10b415d293e5900b3b3caf8eb7985c3693abf822e2d16a0788d750b56f0ebe4c05b5ec65a068bfa5b\" data-vmark=\"2d54\"></p><p data-vmark=\"213e\">不同版本的配置信息如下：</p><h3 data-vmark=\"daf5\">问界新 M8 Max</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"aa33\">全系 L3 级架构 | 四激光雷达</p></li><li><p data-vmark=\"b613\">巨鲸电池 | 双腔双阀 | 六活塞定钳</p></li><li><p data-vmark=\"15c5\">800V 平台 | 增程 56 度电池</p></li></ul><h3 data-vmark=\"6860\">问界新 M8 Max+</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"4722\">L3 级架构 | 四激光雷达 | 巨鲸电池</p></li><li><p data-vmark=\"2e47\">800V 平台 | 增程 56 度电池 | 纯电 100 度电池</p></li><li><p data-vmark=\"5e30\">二排右侧零重力座椅（六座）</p></li></ul><h3 data-vmark=\"32ad\">问界新 M8 Ultra</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8d52\">800V 平台 | 增程 56 度电池 | 纯电 120 度电池</p></li><li><p data-vmark=\"77f0\">后轮转向 | 21 英寸后排柔光娱乐屏</p></li><li><p data-vmark=\"2e92\">智慧电动门 | 华为悦彰音响卓越系列</p></li></ul><p data-vmark=\"f4a8\">问界新 M8 将配备全新一代智能底盘，<strong>升级双阀连续可变阻尼减振器</strong>，采用双腔闭式空悬与增强型前双叉臂及后五连杆独立悬架，<strong>新增 ±8° 主动式后轮转向</strong>。</p><p data-vmark=\"b6b7\">新车还配有全息感知空间网络，<strong>采用专属智能座舱设计</strong>，支持全新智能迎宾灯语。新 M8 同时配有全新调校智能底盘、双腔双阀、后轮转向，全系 800V 架构，<strong>纯电版支持 830km 纯电续航</strong>、增程版支持 1435km 综合续航（纯电续航为 432km）。</p><p data-nine-grid=\"1\" data-nine-grid-more=\"+2\" data-vmark=\"06e4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/12107d68-b18e-47d3-a66a-8654dfc05915.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1aa642e32ea1081f44c5f53821cbc059ebdfb283b86fb4c7a643e57c08437ccff3f6fa949ea8602df\" class=\"nowebp no-alt-img\" data-vmark=\"a114\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/e78d7439-b0e7-4912-ae49-d3fbffea1702.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/647f9d41-e19e-455e-99e2-276362b27bd1.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d169531b635a39934cf054ee2d500d588e0d5ad9d4dfa5a55161387690a767e1b1900ce39e9a0f9d0d\" class=\"nowebp no-alt-img\" data-vmark=\"17dd\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/9c62a761-89c5-41ad-9db9-bdc7017ec4d3.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8f6f1cfb-7607-4375-839b-8416eb2bb890.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d12a311263882a7fe7f8685bdf1e10294fda937dc82ae2b7612afaf656c14c8a020ddaa0e9532b177e\" class=\"nowebp no-alt-img\" data-vmark=\"ad67\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/76033cb3-fa4c-406f-8fb8-654202db5d2c.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6e575874-9b44-4e67-9721-7be0c31ec28c.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d11cb2bb08a1b621271fb752f00f1ee1327c66d2c39ef3eeecf1621c71171ff59158fceaa622d19a18\" class=\"nowebp no-alt-img\" data-vmark=\"2835\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/5b932c40-c826-4715-a962-6632413f662a.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b3fc4c82-188b-40cf-bcf5-2bd343370a4e.jpg\" w=\"1280\" h=\"960\" data-marks=\"1931fd9d012eb6d1c668071fcb0467495ee3c6acc938e48fe2a441b4fdbaa7d9f658b07719b1e132209e87e184f7079b\" class=\"nowebp no-alt-img\" data-vmark=\"0525\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/6e26a65a-66de-47eb-9763-b377383e7a71.jpg\"></p><p data-vmark=\"a6a2\">该车标配<strong>华为乾崑智驾 ADS 5</strong>，拥有新一代全向立体融合感知系统，并采用面向未来的 L3 架构设计，具备全链路八大冗余。</p><p data-vmark=\"f3b5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e26dba43-0332-44f9-8092-617de04b78c0.jpg\" w=\"1280\" h=\"960\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d125be5b748c595334efd757a564d0f45506033577b95ebda4f86f31d56c2b3fa3376cb48f59993c3b\" data-vmark=\"4916\"></p><p data-vmark=\"cc32\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/eecdc82e-a446-4ac9-a9ef-c7db62887bab.jpg\" w=\"1280\" h=\"960\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"e0b2\"></p><p data-vmark=\"d86f\">官方的配置详解如下：</p><p style=\"text-align: center;\" data-vmark=\"6db7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/20a80a23-94a2-4617-8357-d7b88e6c87fc.jpg\" w=\"872\" h=\"16383\" class=\"nowebp no-alt-img\" data-vmark=\"138a\"></p>",
+      "link": "https://www.ithome.com/1/026/799.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/799.htm"
+    },
+    {
+      "id": 5294,
+      "title": "泰坦军团推出“C49SHC”49 英寸带鱼屏显示器：1080P 144Hz HVA 面板，配双扬及 RJ45 网口，3788 元",
+      "summary": "IT之家 11 月 13 日消息，泰坦军团现已在京东上架“C49SHC”49 英寸带鱼屏显示器，该机主打 1080P 144Hz，定价为 3788 元，国补后 3598 元。 京东泰坦军团“C49SHC”显示器 3788 元直达链接 该机配备一块 3840x1080 分辨率 144Hz HVA 面板（曲率 1800R），GtG 响应速度 1ms，显示器 HDR 亮度 400 尼特，覆盖 99% sRGB 色域。 该机支架支持升降 / 旋转，显示器本体支持 VESA 75x75",
+      "content": "<p data-vmark=\"caf2\">IT之家 11 月 13 日消息，泰坦军团现已在京东上架“C49SHC”49 英寸带鱼屏显示器，该机主打 1080P 144Hz，定价为 3788 元，国补后 3598 元。</p><dir><a href=\"https://u.jd.com/oD3aQnY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oD3rUxU\" data-iosurl=\"https://u.jd.com/or33GK2\" data-androidurl=\"https://u.jd.com/oO3nWtt\" data-hosnexturl=\"https://u.jd.com/oO3vXHa\" data-hosurl=\"https://u.jd.com/o63YgiT\" data-uwpurl=\"https://u.jd.com/og3qRgk\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foG3nlRS%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/og3aYuh\" data-lpwxurl=\"https://u.jd.com/o63PnKT\"   data-ncid=\"271648\" contenteditable=\"false\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/566399/16/8156/73142/6af16211Fbcec6122/00833203208f9854.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">泰坦军团“C49SHC”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 3788 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"6a1b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d944a71b-c223-47d7-b4b2-ca2260d89d02.png\" w=\"622\" h=\"1338\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"2def\"></p><p data-vmark=\"54a7\">该机配备一块 3840x1080 分辨率 144Hz HVA 面板（曲率 1800R），GtG 响应速度 1ms，显示器 HDR 亮度 400 尼特，覆盖 99% sRGB 色域。</p><p style=\"text-align: center;\" data-vmark=\"1a90\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a8fd78aa-0a17-4da0-931c-cfb8647ac617.png\" w=\"614\" h=\"1006\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"2660\"></p><p data-vmark=\"aa6d\">该机支架支持升降 / 旋转，显示器本体支持 VESA 75x75mm 壁挂，同时内置双扬声器，提供 1 个 HDMI 2.0、1 个 DP1.4、2 个 USB-A、1 个 USB-C 65W、1 个 RJ45 网口、1 个 3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"5c22\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a19ed409-a67a-409c-a83c-9a53453bd60e.png\" w=\"896\" h=\"1148\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"0aea\"></p><p style=\"text-align: center;\" data-vmark=\"bef2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f5c6f4da-8dca-4a27-bda4-88f4274d841b.png\" w=\"744\" h=\"1378\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"d4ac\"></p>",
+      "link": "https://www.ithome.com/1/026/798.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/798.htm"
+    },
+    {
+      "id": 5295,
+      "title": "手指哪里控制哪里，问界新 M8 汽车搭载全维手势交互系统",
+      "summary": "IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，华为董事、终端 BG CEO 何刚介绍，问界新 M8 搭载全维手势交互系统。 何刚介绍，问界新 M8 搭载全息空间感知网络，舱内外多传感器融合感知，带来更加智能的交互体验。全维手势交互系统，车内车外都能控。 比如，用户用手指着车窗玻璃，告诉小艺“把窗户开到这里”，问界新 M8 就能把窗户打开到用户手指的位置。 或者，用户可以指着二排娱乐屏，让问界新 M8 展开屏幕，播放内容；前排屏幕内容用手抓取",
+      "content": "<p data-vmark=\"8065\">IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，华为董事、终端 BG CEO 何刚介绍，<strong>问界新 M8 搭载全维手势交互系统</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8995\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ed9c19d8-ad4a-48d6-a5f2-fef850145d79.jpg\" w=\"1098\" h=\"429\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\"  data-vmark=\"b125\"></p><p data-vmark=\"70cd\">何刚介绍，问界新 M8 搭载全息空间感知网络，<strong>舱内外多传感器融合感知</strong>，带来更加智能的交互体验。全维手势交互系统，车内车外都能控。</p><p data-vmark=\"7ce1\">比如，用户用手指着车窗玻璃，告诉小艺“把窗户开到这里”，问界新 M8 就能把窗户打开到用户手指的位置。</p><p data-vmark=\"521a\">或者，用户可以指着二排娱乐屏，让问界新 M8 展开屏幕，播放内容；前排屏幕内容用手抓取到后排。</p><p style=\"text-align: center;\" data-vmark=\"e0ca\"><a href=\"https://weibo.com/1644027280/Rrc7NvEyq?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/837b25fa-4c25-4f60-bdaa-7e1c22d76fae.jpg\"></a></p>",
+      "link": "https://www.ithome.com/1/026/785.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/785.htm"
+    },
+    {
+      "id": 5296,
+      "title": "两部门：加快锂离子电池储能迭代升级，推广钠离子电池储能应用",
+      "summary": "IT之家 11 月 13 日消息，国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。 IT之家获悉，到 2030 年，新型储能由规模化发展阶段步入市场化发展阶段，全国新型储能装机规模达到 3 亿千瓦，平均储能时长 3 小时左右。 《方案》提出，科学布局新型储能创新方向。加快锂离子电池储能迭代升级，推广钠离子电池储能应用。推动压缩空气储能、液流电池储能、飞轮储能等从试点应用向商业化应用过渡。鼓励超级电容、压缩二氧化碳储能、液态空气储能、重力储能、熔盐储热等技术试点应",
+      "content": "<p data-vmark=\"5cb6\">IT之家 11 月 13 日消息，国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。</p><p data-vmark=\"be76\">IT之家获悉，到 2030 年，新型储能由规模化发展阶段步入市场化发展阶段，<strong>全国新型储能装机规模达到 3 亿千瓦，平均储能时长 3 小时左右</strong>。</p><p data-vmark=\"0f17\">《方案》提出，科学布局新型储能创新方向。<strong>加快锂离子电池储能迭代升级，推广钠离子电池储能应用</strong>。推动压缩空气储能、液流电池储能、飞轮储能等从试点应用向商业化应用过渡。鼓励超级电容、压缩二氧化碳储能、液态空气储能、重力储能、熔盐储热等技术试点应用。支持固态电池、热泵储电、热储能、氢储能等前沿技术储备。进一步推动构网型储能发展。以场景需求为牵引，积极稳妥推进构网型储能布局应用，验证构网型储能技术可靠性及其对电网的支撑能力，逐步完善构网型储能规划配置及设备技术要求等标准规范。</p><p data-vmark=\"4a6c\">《方案》还提到，鼓励新型储能制造企业提高关键原材料资源保障水平和产品质量等。夯实全产业链自主研发制造能力。优化新型储能性能检测能力建设。研究新型储能回收体系。鼓励各地因地制宜培育新型储能产业生态集群，加强市场研判与评估，发挥新型储能发展需求对产业的引导作用，促进产能合理布局和结构优化。落实锂电池产业调控要求，<strong>指导储能电池企业合理有序推进项目建设，防范盲目扩张风险</strong>。</p>",
+      "link": "https://www.ithome.com/1/026/779.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/779.htm"
+    },
+    {
+      "id": 5297,
+      "title": "华为何刚惊喜亮相问界新 M8 上市发布会，主讲产品配置",
+      "summary": "IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，华为董事、终端 BG CEO 何刚惊喜亮相，主讲问界新 M8 的产品配置信息。 在何刚上台前，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东，以及赛力斯集团董事长张兴海均已进行上台发言，二人站在一起，喊出“在一起，为用户”的口号。 IT之家注意到，何刚曾在今年 3 月的华为春季新品发布会代班余承东（身体不适），首次主持发布鸿蒙智行系列产品。这是他的第二次“跨界”。",
+      "content": "<p data-vmark=\"dfd4\">IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，<strong>华为董事、终端 BG CEO 何刚惊喜亮相</strong>，主讲问界新 M8 的产品配置信息。</p><p data-vmark=\"5e93\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ed0266ff-73e2-441b-9874-3d3bef5801bc.jpg\" w=\"1280\" h=\"960\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1b1e193e27a3c72bfa772f755bbec84aac036780b78c637da2d6e5b683e48ea43a653d5708911a53d\" data-vmark=\"6b86\"></p><p data-vmark=\"269f\">在何刚上台前，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东，以及赛力斯集团董事长张兴海均已进行上台发言，<a href=\"https://www.ithome.com/1/026/750.htm\" target=\"_blank\">二人站在一起，喊出“在一起，为用户”的口号</a>。</p><p data-vmark=\"5b06\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0d4b4633-8f31-43ce-9409-f4a038f491d4.jpg\" w=\"1280\" h=\"960\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d18edf90406cdfeae9860bf464cf95dacdb5e6d81d46e38c6a97bb362238b66629ade2e89be324a09c\" data-vmark=\"ce35\"></p><p data-vmark=\"d0d6\">IT之家注意到，何刚曾在今年 3 月的<a href=\"https://www.ithome.com/0/931/782.htm\" target=\"_blank\">华为春季新品发布会代班余承东（身体不适）</a>，首次主持发布鸿蒙智行系列产品。这是他的第二次“跨界”。</p><p data-vmark=\"7802\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9f86da60-07bc-421c-b949-3d35fb68866f.jpg\" w=\"1101\" h=\"437\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"27a1\" data-mpos=\"2,2\" ></p>",
+      "link": "https://www.ithome.com/1/026/762.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/762.htm"
+    },
+    {
+      "id": 5298,
+      "title": "不用显卡：玩家靠停产傲腾内存跑通 2.8 万亿参数 Kimi K3 AI 模型，每秒输出 1.5 词元",
+      "summary": "IT之家 11 月 13 日消息，网友 u/IndividualSurvival 于 11 月 2 日在 Reddit 社区发帖，分享了一项家庭实验室尝试，在不配备显卡的情况下，使用已停产的英特尔傲腾持久内存，成功运行 2.8 万亿参数的月之暗面 Kimi K3 模型。 IT之家注：“傲腾”（Intel Optane）是一套基于 3D XPoint 的内存与存储产品技术，是英特尔与美光共同开发的非易失性存储技术。该网友使用傲腾持久内存 200 系列，外形和安装方式接近服务器内",
+      "content": "<p data-vmark=\"3312\">IT之家 11 月 13 日消息，网友 u/IndividualSurvival 于 11 月 2 日在 Reddit 社区发帖，分享了一项家庭实验室尝试，在不配备显卡的情况下，使用已停产的英特尔傲腾持久内存，<strong>成功运行 2.8 万亿参数的月之暗面 Kimi K3 模型。</strong></p><p style=\"text-align: center;\" data-vmark=\"2827\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6d24b0f3-5213-4a77-b61e-655241674f87.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1611\" data-weibo=\"0\" data-vmark=\"159a\" class=\"no-alt-img\"></p><p data-vmark=\"2282\">IT之家注：“傲腾”（Intel Optane）是一套基于 3D XPoint 的内存与存储产品技术，是英特尔与美光共同开发的非易失性存储技术。该网友使用傲腾持久内存 200 系列，外形和安装方式接近服务器内存条，单条提供 128GB、256GB 和 512GB 三种容量，针对第三代至强可扩展处理器平台设计。</p><p data-vmark=\"9bd7\">在配置方面，该网友使用 40 核第三代英特尔至强可扩展处理器（原文并未明确具体规格），以及傲腾持久内存 200 系列（原文并未明确具体容量），并使用 App Direct 模式（DRAM 和傲腾作为两个独立的数据空间呈现给软件）测试，并使用 <span class=\"link-text-start-with-http\">llama.cpp</span> 软件执行推理。</p><p data-vmark=\"eef7\">不过该项目依然只是测试项目，词元（Token）输出速度方面并不流畅。报道显示，采用 1 比特量化、压缩模型数据后，初始生成速度约为每秒 0.85 个词元；关闭直接访问功能 DAX、让常用数据受益于 DRAM 缓存后，速度提升至每秒 1.50 个词元。另一项 3 比特量化测试仅达到每秒 0.75 个词元，生成 5 万个词元约需 18.5 小时。</p><p style=\"text-align: center;\" data-vmark=\"7f40\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ed4cf9fc-326c-47ba-bccb-ef0b065e8051.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"895\" data-mpos=\"2,2\" data-weibo=\"1\"  data-vmark=\"d6ab\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/026/759.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/759.htm"
+    },
+    {
+      "id": 5299,
+      "title": "新款华为 FreeBuds 7 耳机开启众测招募，报名截至 12 月 12 日",
+      "summary": "IT之家 11 月 13 日消息，华为 11 月 12 日启动新款 FreeBuds 7 耳机众测体验官招募，报名通道设于“我的华为”App 内的“我是体验官”入口，报名期持续至 12 月 12 日。 该活动面向正在使用 FreeBuds 7、对降噪等体验有问题或建议的用户，入选者将参与为期 30 天的产品众测。 根据活动说明，此次众测提供的是 FreeBuds 7 的 Beta 版本，华为明确标注其为测试版而非正式商品。报名者需填写招募问卷并按时提交，完成“我是体验官”报名",
+      "content": "<p data-vmark=\"9f41\">IT之家 11 月 13 日消息，华为 11 月 12 日启动新款 FreeBuds 7 耳机众测体验官招募，报名通道设于“我的华为”App 内的“我是体验官”入口，报名期持续至 12 月 12 日。</p><p data-vmark=\"4c6e\">该活动面向正在使用 FreeBuds 7、对降噪等体验有问题或建议的用户，入选者将参与为期 30 天的产品众测。</p><p style=\"text-align: center;\" data-vmark=\"7fbf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e14af373-bf2f-466b-8ccc-e823a6d4d96b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"617\" data-weibo=\"0\" data-vmark=\"af23\" class=\"no-alt-img\"></p><p data-vmark=\"2fa6\">根据活动说明，此次众测提供的是 FreeBuds 7 的 Beta 版本，华为明确标注其为测试版而非正式商品。报名者需填写招募问卷并按时提交，完成“我是体验官”报名流程。</p><p data-vmark=\"643b\">入选标准有三条：正在使用 FreeBuds 7 且善于发现问题的用户优先；愿意积极反馈体验问题与建议，并配合工作人员复现日常使用中发现的问题；认真填写问卷并按时提交。华为在活动说明中表示，希望借助用户反馈持续优化产品体验。</p><p data-vmark=\"ba32\">IT之家注：Beta 版本指处于测试阶段、尚未作为正式商品发布的软件或固件版本，功能与稳定性可能与最终上市版本存在差异。</p><p style=\"text-align: center;\" data-vmark=\"2249\"><a href=\"https://weibo.com/tv/show/1034:5364735068012625?mid=5364807324926443\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d7c7709d-771a-48cb-b9a4-46c1597464dc.jpg\"></a></p>",
+      "link": "https://www.ithome.com/1/026/757.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/757.htm"
+    },
+    {
+      "id": 5300,
+      "title": "李小龙谈华为首个动态血糖仪“维感 G1”：开发周期最长的一款产品，首次佩戴至今已 35 个月",
+      "summary": "IT之家 11 月 13 日消息，今日，华为首个动态血糖仪正式官宣，定名为 —— 维感 G1，华为终端 BG CTO 李小龙转发了相关内容。 他表示：“这是我们开发周期最长的一款产品，也是我参与 beta 测试持续时间最久的一款产品，我记得第一次佩戴是在 2023 年 12 月，到现在已经 35 个月，我们开发团队的小伙伴佩戴的时间比我还要早很多。” IT之家注意到，国家药监局今年 10 月 30 日公示的医疗器械批准文件送达信息中出现了华为终端有限公司的持续葡萄糖监测系统，",
+      "content": "<p data-vmark=\"8103\">IT之家 11 月 13 日消息，今日，华为首个动态血糖仪正式官宣，定名为 —— 维感 G1，华为终端 BG CTO 李小龙转发了相关内容。</p><p data-vmark=\"43c2\">他表示：“这是我们开发周期最长的一款产品，也是我参与 beta 测试持续时间最久的一款产品，我记得第一次佩戴是在 2023 年 12 月，<strong>到现在已经 35 个月</strong>，我们开发团队的小伙伴佩戴的时间比我还要早很多。”</p><p data-vmark=\"283c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8f6920dd-56ee-4035-bdf8-a94e065e55f9.png\" w=\"638\" h=\"415\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F1945906841%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F1945906841%2FRrb2S517W%22%2C%22qualityValue%22%3A%22original%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"958a\"></p><p data-vmark=\"465c\">IT之家注意到，国家药监局今年 10 月 30 日公示的医疗器械批准文件送达信息中出现了华为终端有限公司的<strong>持续葡萄糖监测系统</strong>，注册证编号为国械注准 20263072228。</p><p data-vmark=\"0bd4\">三类医疗器械是中国监管体系中的最高等级，与心脏支架、人工关节同级。此前华为在健康监测领域的合规路径主要集中在二类证，包括腕部动态血压记录仪、睡眠呼吸暂停筛查软件、脉搏波房颤和早搏提示软件等。此次 CGM 获批，意味着华为从健康监测进入临床级连续监测的准入区间。</p><p data-vmark=\"c335\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/20199f30-a92e-4929-bd98-ba2254bcd631.jpg\" w=\"1440\" h=\"720\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"8092\"></p><p data-vmark=\"403f\">据悉，华为维感 G1 支持持续葡萄糖监测系统（CGM），承诺将以专业能力为用户提供智能血糖管理体验。从官方海报中可以看到，华为维感 G1 需要贴在皮肤表面，并可通过连接到华为智能手机和智能手表查看详情，还支持血糖异常提醒等功能。</p>",
+      "link": "https://www.ithome.com/1/026/755.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/755.htm"
+    },
+    {
+      "id": 5301,
+      "title": "山灵 SM 3.3 数播解码一体机将于 11 月 14 日发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
+      "summary": "IT之家 11 月 13 日消息，山灵音响发文，宣布旗下 SM 3.3 数播解码一体机将于 11 月 14 日发售，定价为 23980 元。 该产品整体造型方正，正面配备一块 5.98 英寸 2560 x 1440 分辨率触摸屏，支持 0° 到 45° 自由翻转悬停。其采用分离式供电设计，内部配备 66W 定制双 R 形变压器，通过物理隔离来抑制干扰。机身匹配双「昆仑 Pro」R2R 解码阵列及双 12AT7 银栅极电子管，采用“424 万分之一的定制精密电阻”，整机信噪比可",
+      "content": "<p data-vmark=\"da88\">IT之家 11 月 13 日消息，山灵音响发文，宣布旗下 SM 3.3 数播解码一体机将于 11 月 14 日发售，定价为 23980 元。</p><p style=\"text-align: center;\" data-vmark=\"d45d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/105236a5-f719-479c-b860-430e16eba473.png\" w=\"1334\" h=\"928\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"c1a5\"></p><p data-vmark=\"baec\">该产品整体造型方正，正面配备一块 5.98 英寸 2560 x 1440 分辨率触摸屏，支持 0° 到 45° 自由翻转悬停。其采用分离式供电设计，内部配备 66W 定制双 R 形变压器，通过物理隔离来抑制干扰。机身匹配双「昆仑 Pro」R2R 解码阵列及双 12AT7 银栅极电子管，采用“424 万分之一的定制精密电阻”，整机信噪比可达 117dB。</p><p style=\"text-align: center;\" data-vmark=\"8d51\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b6c55230-6170-43a9-8043-b7ebb7d0b7fb.png\" w=\"1216\" h=\"1472\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"04cd\"></p><p data-vmark=\"d653\">该机配备 4GB RAM 与 64GB 存储空间，内置 Apple Music、酷狗 HiFi、QQ 音乐、网易云音乐及 Tidal 等多种主流流媒体 App，同时全面支持 Tidal Connect、Qobuz Connect、Roon Ready 和 QPlay 等多种串流协议，方便接入多元化音频服务。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"e005\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5188\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/026/753.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/026/753.htm"
+    },
+    {
+      "id": 5302,
+      "title": "Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti",
+      "summary": "Save $730 on this CyberPowerPC with Intel Core Ultra 9 285 and RTX 5070 Ti.",
+      "content": "<article>\n                                <p>Walmart has slashed $730 off this CyberPower PC gaming desktop, making it a much cheaper way to get your hands on a potent Nvidia RTX GPU, 32GB of RAM, and more. <a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\">Right now you can score this Intel Core Ultra 9 285 gaming PC with a 5070 Ti for just $2,479.99</a>. </p><p>● <a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\">Check out this deal at Walmart</a></p><p>This is a brilliant PC with lots of processing power for gaming, as well as a 24-core Intel CPU for multitasking. Unfortunately, it doesn't appear to be the more potent 285K, but this should still be plenty of oomph for everyday tasks as well as running your favorite titles. </p><div class=\"product\"><a data-dimension112=\"549af58e-df50-11f1-b7ef-51b79fc132d9\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2000px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"ymVqJ8hXVJrRkbhNLiqWcA\" name=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/ymVqJ8hXVJrRkbhNLiqWcA-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2000\" height=\"2000\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"549af58e-df50-11f1-b7ef-51b79fc132d9\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\">Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD: was $3209.99 now $2479.99</a></strong><br />Save on this CyberPower PC with Intel Core Ultra 9 285, RTX 5070 Ti, 32GB DDR5, and a 2TB SSD. <a class=\"view-deal button\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"549af58e-df50-11f1-b7ef-51b79fc132d9\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\">View Deal</a></p></div><p>The main event in this build is the potent GPU. With the coveted 16GB of VRAM capacity and 8,960 CUDA cores, the RTX 5070 Ti excels at gaming in 1080p and 1440p, and with access to Nvidia's DLSS technologies, will also be ample for some 4K gaming too. </p><iframe allow=\"\" height=\"800\" width=\"100%\" id=\"\" style=\"\" class=\"position-center\" data-lazy-priority=\"high\" data-lazy-src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=GPUs&amp;benchmark=1080p+Ultra+Average+FPS&amp;showPerfPerDollar=false&amp;theme=dark\" src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=GPUs&amp;benchmark=1080p+Ultra+Average+FPS&amp;showPerfPerDollar=false&amp;theme=dark\"></iframe><p>The Intel Core Ultra 9 285 is a 24-core CPU with eight performance cores and 16 efficient cores, with a total of 24 threads. It has max turbo clocks of 5.6 GHz, and while it lacks the potent cache of AMD's X3D SKUs, it is a brilliant CPU for multi-threaded workloads. </p><p>This PC also comes with a generous 32GB of DDR5 6400 RAM, a $500 item in the current PC building economy. You also get a 2TB SSD gen 4 SSD, Wi-Fi 6, and Bluetooth 5.3.</p><p>If you'd prefer to go for a gaming-focused CPU, this 9800X3D PC comes with an RTX 5070 12GB, 32GB of DDR5, and a 1TB SSD instead.</p><div class=\"product\"><a data-dimension112=\"549af7aa-df50-11f1-9a66-2b2c2285ab59\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension48=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension25=\"$2349.99\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-Desktop-AMD-Ryzen-7-9800X3D-NVIDIA-GeForce-RTX-5070-12GB-32GB-DDR5-1TB-SSD-Black-SLC11000CPGV5/19388063617\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2000px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"GZ7XKRbthkSQntm5o2mMqC\" name=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/GZ7XKRbthkSQntm5o2mMqC-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2000\" height=\"2000\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-Desktop-AMD-Ryzen-7-9800X3D-NVIDIA-GeForce-RTX-5070-12GB-32GB-DDR5-1TB-SSD-Black-SLC11000CPGV5/19388063617\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"549af7aa-df50-11f1-9a66-2b2c2285ab59\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension48=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension25=\"$2349.99\">Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD: $2349.99</a></strong><br />Get a 9800X3D CPU for gaming alonside the RTX 5070 with 12GB of VRAM, 32GB of DDR5, and a 1TB gen 4 SSD. <a class=\"view-deal button\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-Desktop-AMD-Ryzen-7-9800X3D-NVIDIA-GeForce-RTX-5070-12GB-32GB-DDR5-1TB-SSD-Black-SLC11000CPGV5/19388063617\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"549af7aa-df50-11f1-9a66-2b2c2285ab59\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension48=\"Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5, 1TB SSD\" data-dimension25=\"$2349.99\">View Deal</a></p></div>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/walmart-has-slashed-usd730-off-this-monster-gaming-pc-with-rtx-5070-ti-also-features-a-24-core-intel-processor-32gb-ddr5-2tb-ssd",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "NLny6Q3tDJMKPLiWEhQA5H"
+    },
+    {
+      "id": 5303,
+      "title": "How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation",
+      "summary": "While Alice Huang lives on the headlines, it was actually her husband who put her in the same room as Jensen Huang.",
+      "content": "<article>\n                                <p>Jensen Huang had a stunning fall from grace — from being one of the richest people on Earth and one of the primary drivers of the AI boom to being implicated in <a href=\"https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy\">two extramarital affair scandals</a> and <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">resigning from Nvidia</a> in under two weeks. While many are focused on the former Nvidia chief’s relationship with Alice Huang, who was <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips\">allegedly passing on information to Chinese intelligence</a>, the <em>Wall Street Journal</em> dug deeper into the person who introduced her to Jensen — Kang Wei, a star fund manager in Shanghai who also happened to be Ms. Huang’s husband.</p><p>There have been reports that Kang Wei met Jensen Huang in the 2010s, when his investment firm was heavily involved in Chinese gaming companies. It’s not clear if this introduction predated Kang’s relationship and marriage to Alice, but sources close to Ms. Huang said that she was able to get close to Jensen by the 2020s. Despite being a couple, the <em>WSJ</em> reported that Kang seemingly accepted Alice’s relationship with Jensen, with people close to the couple saying that he would often joke that she was a personal assistant to the billionaire.</p><p>Kang Wei is not just an average business executive, though. He made a name for himself in the finance world as a strategist for Shenyin Wanguo before taking over the Zhonghai Fund in 2007. This made him one of the youngest mutual fund chiefs in China at that time, before finally setting out on his own and founding Shanghai Hexi in 2010. </p><p>It was also around this time that Alice Huang, whose Chinese name is Huang Le, entered the financial industry, first working at HSBC’s private banking arm in Hong Kong, before moving to CITIC Securities, where she attained a vice president position. It was during her time at CITIC that Alice crossed paths with Kang. Shanghai Hexi signed a deal with the securities firm in 2014 and 2015, and by 2016, corporate registry records show that Ms. Huang had joined the investment firm.</p><p>The <a href=\"https://economictimes.indiatimes.com/news/international/us/who-is-kang-wei-the-chinese-fund-executive-reported-to-be-alice-huangs-husband-and-now-under-police-investigation-in-shanghai/articleshow/135740485.cms\"><em>Economic Times</em></a><em> </em>reports Alice Huang’s move into Shanghai Hexi resulted in her getting a 25% stake in the company, all of which came from Kang. The remaining shares were shared between Kang Wei, with 48.75%, and his business partner, Zhu Xiaoming, with 26.25%, with Alice Huang’s 25% ownership stake being held through Shanghai Yuxi Investment Management Consulting Co., Ltd. Meanwhile, Kang also started introducing Alice Huang as his wife to his business associates and investors. </p><p>One year later, Zhu and Kang had a falling out when one of their investments under a Hexi fund resulted in a major windfall, with the two partners disagreeing on how the profits were to be shared. Nevertheless, the massive profit generated by the deal allowed Shanghai Hexi to purchase Hangzhou Shengfeng, a video game company, for around 500 million yuan from Chinese conglomerate Century Huatong. </p><p>Two years after the transaction, in 2019, Hangzhou Shengfeng’s ownership was transferred to an offshore entity, which was eventually consolidated under Osmanthus Vale Holdings — a holding company incorporated in the British Virgin Islands and listed Huang Le, Alice Huang’s Chinese name, as its sole owner. It was then purchased by 7Road Holdings less than two months after it was founded. While Ms. Huang was the signatory in this deal, it’s believed that she served as a “white glove,” a person who operates on behalf of another to conceal their identity — but it remains unclear if this was for Shanghai Hexi and Kang Wei or some other third party.</p><p>There is not much information on Alice Huang’s activities between 2019 and 2021. However, Shanghai Hexi invested in Shanghai Longjing Information Technology, a data center-focused subsidiary of Century Huatong in 2020, where Ms. Huang served as a director between 2021 and 2022, according to a report by <a href=\"https://www.thewirechina.com/2026/11/11/the-rise-and-rise-of-alice-huang/\"><em>The Wire China</em></a>. At about the same time, 7Road Holdings expanded into cloud computing, just before ChatGPT brought AI LLMs to the forefront. The U.S. government’s ban on the export of Nvidia chips to China put this investment in jeopardy, though, forcing it to spin off the business as 7Road International in Singapore.</p><p>We don’t know when 7Road Holdings sold its Singapore subsidiary, but corporate records show that by the time the company was renamed Megaspeed in March 2023, it was already under the ownership of Huang Le Limited and led by Ms. Huang. It was sold again in November 2023 to Swiftdata, a company owned by Singaporean Tan Yong Pong. <a href=\"https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed\"><em>Axios</em></a> said that she left the firm as a managing director soon after this acquisition, but sources said that she kept working with the company afterward, with Kang Wei helping her get it off the ground.</p><p>In the same year, Shanghai Century Litong was founded to build AI data centers in Shanghai and Shenzhen, with Jiangsu Lettall Electronic Co., an electronic components manufacturer, holding a 90% stake, while the remaining 10% is owned by Century Longteng, as reported by <a href=\"https://finance.biggo.com/news/ac2bef77-1a31-4236-af0b-8cb60cb6a38a\"><em>BigGo Finance</em></a>. It should be noted that Century Longteng was renamed from Shanghai Yuxi Investment Management, with the firm pivoting its business from finance to cloud computing, and that even though Alice Huang has already exited the company by this time, it’s under the control of Huang Yu, who some sources say is Ms. Huang’s sister.</p><p>A year after these data center acquisitions, Alice Huang began to be spotted in public with the former Nvidia CEO. A <a href=\"https://www.linkedin.com/posts/computex-ai-ugcPost-7204717553166798849-PpUx/?rcm=ACoAABpx3FcBKAV76kUVefLtYTzSNLBlXQ3BPNk\">LinkedIn post</a> showed her having drinks with a leather-clad Jensen Huang alongside other tech executives from NetThunder and Gigabyte at a post-Computex 2024 event. She was once again seen having dinner with him in a Taipei restaurant as reporters tried to interview him while one kid demanded his attention off camera. </p><p>But more than these public sightings, Alice herself boasted about her “closeness” to the then CEO. People close to her said that she regularly posted photos with Jensen on her WeChat account, and even shared others with potential customers to help establish her credibility. She even reportedly claimed that Mr. Huang would celebrate her birthdays with restaurant dinners and gifts, with one Nvidia China sales employee also saying that she was a familiar face at the company’s annual event for China partners.</p><p>An investigation revealed that from 2023 to 2025, Megaspeed imported $4.6 billion worth of Nvidia AI chips, while <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway\">another $2 billion was routed through Speedmatrix</a>, Megaspeed’s subsidiary with offices in Johor, Malaysia. Shanghai Century Litong also reportedly bought AI GPUs from other sources, with estimates putting the total number of banned chips moved through Alice Huang’s assistance at around 240,000, putting the <a href=\"https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200\">shipments’ worth at around $7.5 billion.</a></p><p>But even as Ms. Huang was making her international moves, Kang Wei was facing trouble at home. Chinese regulators fined him 2.5 million yuan, or approximately $380,000, in 2025, for violating sections of China’s Securities Law. This also led to a warning letter against him, issued in August 2026 by the China Securities Regulatory Commission. Despite running into trouble with the authorities, this massive paper trail showed how Kang Wei actively made moves that put Alice Huang close to Jensen Huang. </p><p>Some questions remain, though, about the U.S. intelligence community’s claims that she worked with the Ministry of State Security (MSS), China’s primary intelligence and counterintelligence agency. If it’s true that Alice Huang worked with the MSS and passed on information to the agency, did she specifically target Jensen Huang, or did the spy agency simply discover their indiscretion and use that to force her to cooperate? Was all this planned by the MSS, or were they just shrewd business moves that allowed Kang to make more money while going under the radar of regulators? These are questions that only Kang Wei and Alice Huang (or the Chinese spy agency) can answer. But no matter the case, the fact remains that China acquired advanced AI chips that were supposed to be out of its reach because of this couple’s connections.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ec73eTgZXxwMCJrb3TgQTo"
+    },
+    {
+      "id": 5304,
+      "title": "Mass smuggling of Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
+      "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
+      "content": "<article>\n                                <p>Semiconductor research firm <em>SemiAnalysis</em> believes that <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">Jensen Huang's sudden departure from Nvidia</a> may have been driven not only by revelations about his personal extramarital relationships, but also by widespread illicit exports of advanced AI accelerators to China. In its latest newsletter, analysts estimate that more than 1.5 GW worth of restricted Nvidia hardware has reached the country despite U.S. export controls.</p><div  class=\"fancy-box\"><div class=\"fancy_box-title\">Go deeper with TH Premium: Taiwan, trade, and tariffs</div><div class=\"fancy_box_body\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' ><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"p2QqhVFP7dTRWfeVBCYBYV\" name=\"tsmc-semiconductor-fab-hero\" caption=\"\" alt=\"tsmc\" src=\"https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1920-80.jpg\" mos=\"\" link=\"\" align=\"\" fullscreen=\"\" width=\"\" height=\"\" attribution=\"\" endorsement=\"\" class=\"pinterest-pin-exclude\" /></p></div></div><figcaption itemprop=\"caption description\" class=\"\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: tsmc)</span></figcaption></figure><p class=\"fancy-box__body-text\"><ul><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/while-the-u-s-flip-flops-on-chip-sanctions-china-is-building-its-own-chip-supply-market-export-controls-are-creating-conditions-for-a-sino-russian-chip-trade-alliance?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">While the U.S. flip-flops on chip sanctions, China is building its own chip supply market</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-decade-long-semiconductor-push-still-a-decade-behind-despite-hundreds-of-billions-spent-and-significant-progress-examining-the-original-made-in-china-2025-initiative?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">The state of China's decade-long semiconductor push</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-ascend-npu-roadmap-examined-company-targets-4-zettaflops-fp4-performance-by-2028-amid-manufacturing-constraints?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">Huawei Ascend NPU roadmap examined </a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/pc-components/dram/chinas-cxmt-targets-30-percent-dram-memory-market-share-by-2030-with-sixth-mega-fab-future-plans-bottlenecked-by-access-to-advanced-chipmaking-tools?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab</a></li><li><a data-analytics-id=\"inline-link\" href=\"https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry?utm_source=edit-links&amp;utm_medium=boxout&amp;utm_term=trade\" target=\"_blank\">China's latest round of rare-earth export controls explained</a></li></ul></p></div></div><p>Over 1.5 GW of Nvidia hardware subject to U.S. export restrictions ultimately ended up in China in recent years, according to SemiAnalysis' Accelerator Model, which tracks AI accelerator production and destinations. The estimate excludes processors that Nvidia specifically developed to comply with U.S. export rules, such as the H20 or H800. The firm also claims that the U.S. Department of Commerce has reached a similar conclusion about the scale of unauthorized shipments. Yet, SemiAnalysis does not disclose the exact number of accelerators shipped to China illegally, or their split between Nvidia's product generations.</p><p>The scale of the alleged diversions is particularly notable because modern AI accelerators require substantial power and infrastructure. While the report does not explain how it converts accelerator quantities into power figures, it is likely that the company uses package-level nameplate/rated power multiplied by the number of GPUs. Assuming that all of these AI GPUs were Nvidia H200 SXM rated for up to 700W, then China got around 2.142 million of such accelerators, while if all of these processors were B200 SXM rated for up to 1,000W, then we are talking about 1.5 million units. For a mixed deployment, the total would fall between these figures, depending on the proportion of H200 and B200 accelerators. To put these numbers into context, xAI's Colossus One had 220-230,000 Hopper H100 and H200 GPUs, whereas the Colossus 2 has a target of 1.2 million Blackwell B200 and B300 GPUs. That said, 1.5 GW of restricted Nvidia hardware in China represents an enormous amount of computing infrastructure, which is comparable, or even exceeds, the scale of xAI's entire existing Colossus operation. </p><p>While SemiAnalysis did not reveal all the cases in which restricted AI accelerators reached the People's Republic of China, it supports its assessment with two well-known cases of alleged GPU smuggling. The <a href=\"https://www.tomshardware.com/desktops/servers/doj-reportedly-probes-supermicro-for-accounting-manipulations-alleged-export-violations-to-china-and-russia-also-raise-attention\">first involves Supermicro</a> co-founder Wally Liaw, Taiwan sales executive Steven Chang, and contractor Willy Sun, who were charged in March 2026. According to the indictment, <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/super-micro-employees-accused-of-smuggling-usd2-5-billion-worth-of-nvidia-hardware-to-china-perps-used-a-hairdryer-to-move-serial-numbers-between-real-hardware-and-thousands-of-dummy-servers\">approximately $2.5 billion worth of servers</a> were sold to a company in Southeast Asia, with $510 million worth of equipment <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/supermicro-tied-execs-used-thailand-government-entity-to-ship-nvidia-ai-gpus-to-china-report-alleges-chinese-web-giant-alibaba-received-restricted-servers\">subsequently diverted to China and obtained by Alibaba</a>. Prosecutors allege that the defendants used substitute servers and transferred identification labels to conceal the actual destinations of the hardware during audits.</p><p>The second case involves nine individuals associated with Nvidia, Albatron, Chief Telecom, Flying Tiger, and Supermicro in Taiwan. The authorities accuse the group of arranging unauthorized exports of 130 Nvidia B300-based servers, 74 of which eventually reached China. The suspects used shell companies, forged documents, and declared Japan as the destination for servers that were actually bound for China, according to prosecutors. Taiwanese authorities discovered the operation during a drug smuggling investigation. Both cases are still before the courts. </p><p>Amidst the ongoing fallout and reports into Jensen's Huang's extramarital affair with Alice Huang, an alleged Chinese intelligence asset who was an executive at Megaspeed, one report claims that <a href=\"https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200\">Ms. Huang was personally responsible for facilitating the smuggling of $7.5 billion of Nvidia AI hardware into China</a>, around 240,000 GPUs, mostly H100 and H200 models. </p><h2 id=\"the-right-timing\">The right timing?</h2><p>SemiAnalysis suggests that the scale of these violations may explain why Huang's personal conduct became a major issue at this very point in time. The company's analysts speculate that some members of the U.S. intelligence community sought to remove Jensen Huang because he opposed more aggressive restrictions on China's access to American AI hardware. However, the report provides no direct evidence that intelligence agencies influenced Nvidia's board or that Huang participated in unauthorized exports. </p><p>The timing also coincides with congressional efforts to advance the Remote Access Security Act (RASA), which passed the House of Representatives on January 12. The legislation is meant to extend U.S. export-control authority to remote access to advanced AI hardware hosted outside China, including data centers in Europe and the Middle East. SemiAnalysis reports that Nvidia and Oracle have actively opposed the proposal.</p><p>The analysts believe that Huang's departure essentially removes an influential opponent of stricter restrictions and accelerates efforts to block Chinese companies from accessing American AI hardware in the cloud. However, SemiAnalysis warns that truly all-inclusive restrictions could encourage Chinese developers to adopt domestic accelerators (something that Jensen Huang has consistently warned about), undermine international AI software collaboration, and ultimately weaken American high-tech companies.</p><p>Continued Chinese access to American AI accelerators offers several advantages to the U.S. technology industry, according to SemiAnalysis. Firstly, it generates revenue for American companies such as AMD, Nvidia, and cloud service providers. Secondly, when Chinese companies rent GPU capacity from data centers outside China, U.S. authorities retain the ability to monitor their activities and potentially terminate access if necessary due to national security concerns. Thirdly, prolonged reliance on American hardware reduces incentives for Chinese developers to adopt domestic AI accelerators, which could eventually compete with AMD and Nvidia in international markets.</p><p>Another important aspect is the contribution of Chinese developers to the global software ecosystem. On the one hand, Chinese laboratories have developed open-source technologies such as DeepEP, DeepGEMM, and MSA, which improve the efficiency of AI workloads on Nvidia hardware and benefit developers worldwide. In addition, American companies also depend on Chinese engineers, component suppliers, and manufacturers. Therefore, legal curbs that completely restrict Chinese developers' access to American AI accelerators could undermine international cooperation, reduce availability of open-source optimizations, and encourage Chinese companies to develop software specifically for domestic hardware.</p><p>On the other hand, access to advanced AI accelerators from AMD or Nvidia enables Chinese laboratories to develop increasingly sophisticated AI models, which will rival leading-edge models developed in America and perhaps create national security risks. To that end, SemiAnalysis acknowledges the need to limit China's access to advanced AI accelerators from U.S.-based companies, as they could, among other things, be used to develop weapons of mass destruction or undermine American national security in different ways. Yet, SA analysts argue that restrictions should focus on the amount and capabilities of hardware available to Chinese entities rather than completely prohibit any access. </p><p>SemiAnalysis seems to favor a system in which Chinese developers can rent computing capacity from trusted providers outside China under U.S. oversight. Such an approach could preserve American technological influence and commercial benefits and limit China's ability to acquire advanced AI infrastructure independently. </p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "zppcrpVxxAoy6GSqAHbHcf"
+    },
+    {
+      "id": 5305,
+      "title": "Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12",
+      "summary": "This 8BitDo Ultimate 2 game controller for your PC or Nintendo Switch is down to a record low price on Amazon right now.",
+      "content": "<article>\n                                <p>A huge discount on a gamepad for your gaming PC or Nintendo Switch 2 console is available right now. You can pick up the <a href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\">8BitDo Ultimate 2 game controller for only $51.12 right now</a>, a 27% discount on a flagship wireless gamepad with precision TMR joysticks and an integrated charging dock.</p><p>● <a href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\">Check out this deal at Amazon</a></p><p>This is the lowest price we've ever seen for this 8BitDo controller, according to Camelcamelcamel's data. It's important to note that there are a few different variants of this game controller that you can buy. They're pretty much identical, except for some differences in the color and button layout. This one is the cheapest right now, and it'll work with your Windows PC immediately. </p><p>This is a wireless controller, and you can use it over 2.4 GHz wireless using the supplied USB adapter or via a Bluetooth connection. You can also use it wired, too, over USB. This is a Windows-compatible controller, but this particular variant of the 8BitDo Ultimate 2 is built with the Nintendo Switch in mind. It's now both Switch and Switch 2 compatible, but you'll need to update the firmware for both the controller and adapter to use it with your Switch 2. It has built-in vibration and, with those Nintendo gamers in mind, it also includes motion control functionality that you can use in-game. </p><div class=\"product\"><a data-dimension112=\"d3ebde04-df4e-11f1-8984-ad7e46cbefe0\" data-action=\"Deal Block\" data-label=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension48=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension25=\"$51.12\" href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:500px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"tsohYYXDRPbX3ZRTJVh5MD\" name=\"8bitdo-ultimate-2-bluetooth-controller-f-32ba5ad3-a3ef-45ce-afd4-84411600af3e.jpg\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/tsohYYXDRPbX3ZRTJVh5MD-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"500\" height=\"500\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"d3ebde04-df4e-11f1-8984-ad7e46cbefe0\" data-action=\"Deal Block\" data-label=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension48=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension25=\"$51.12\">Ultimate 2 Bluetooth Controller for PC and Nintendo Switch: was $69.99 now $51.12</a></strong><br />This 8BitDo Ultimate 2 wireless controller works with Windows PCs, laptops, and Nintendo Switch game consoles, with Switch 2 functionality requiring a quick firmware update. It has both linear Hall Effect and non-linear tactical triggers, which you can switch between, along with ultra-sensitive TMR joysticks, as well as a charging dock.<a class=\"view-deal button\" href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"d3ebde04-df4e-11f1-8984-ad7e46cbefe0\" data-action=\"Deal Block\" data-label=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension48=\"Ultimate 2 Bluetooth Controller for PC and Nintendo Switch\" data-dimension25=\"$51.12\">View Deal</a></p></div><p>The 8BitDo Ultimate 2 comes with both linear Hall Effect triggers and non-linear tactile triggers, with quick-switch sliders that let you choose between the two, depending on which you prefer. It's also the first 8BitDo controller on sale that uses TMR joysticks, giving you much higher sensitivity and greater precision for gaming.</p><p>You can fully customize this 8BitDo controller to suit how you play. That's thanks to its Ultimate V2 software, which you can use to adjust stick and trigger precision settings, remap the buttons, adjust the RGB lighting, and set your vibration settings. It also lets you set up in-game macros, which you can activate using long presses on different keys.</p><p>This is a wireless controller, so you'll need to charge its 1,000 mAh battery to keep using it (unless you decide to go wired). It comes with a charging dock, however, so you won't need to swap out any AAA batteries here. The dock works as a practical stand for your controller when you're not using it, too, and has a built-in light so you know when the charging is complete.</p><p>With a <a href=\"https://www.amazon.com/Bluetooth-Controller-Joysticks-Switchable-Gaming-Console/dp/B0F194QFT2\">sale price of $51.12, this 8BitDo Ultimate 2 wireless game controller</a> is now at the lowest price we've ever seen it. This is a great price for a versatile controller that you can use with both your PC and Nintendo consoles, along with other devices like laptops and handheld gaming PCs like the Steam Deck, too.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-8bitdo-wireless-controller-for-your-gaming-pc-and-switch-2-at-its-lowest-ever-price-now-usd51-12-27-percent-off-this-fully-customizable-ultimate-2-gamepad-with-tmr-joysticks-dual-triggers-and-remappable-buttons",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "7DM84DUHQQsDyzhKQSJGif"
+    },
+    {
+      "id": 5306,
+      "title": "Kioxia and Dell Build a 157 PB Rack With 640 SSDs",
+      "summary": "Kioxia and Dell have managed to fit a massive 157 PB of raw flash storage into a single 42U server rack. The configuration runs Dell's software-defined ObjectScale object storage platform on 16 PowerEdge R7725xd servers, which together carr",
+      "content": "Kioxia and Dell have managed to fit a massive 157 PB of raw flash storage into a single 42U server rack. The configuration runs Dell's software-defined ObjectScale object storage platform on 16 PowerEdge R7725xd servers, which together carry 640 of Kioxia's <a href=\"https://www.techpowerup.com/339128/kioxia-announces-industrys-first-245-76-tb-nvme-ssd-built-for-the-demands-of-generative-ai-environments\" target=\"_blank\">245.76 TB LC9 Series SSDs</a>. Kioxia calls it the industry's first 157 PB single-rack object store, a claim it bases on its own market survey. Each 2U server holds 40 of the E3.L drives, the same setup the two companies <a href=\"https://www.techpowerup.com/349049/kioxia-and-dell-technologies-first-to-deliver-high-density-server-with-9-8-pb-of-flash-storage\" target=\"_blank\">showed off in May</a> at 9.8 PB per server, so the 16 servers take up 32U and leave 10U of the rack free.<br />\r\n<br />\r\nThe LC9 drives are PCIe 5.0 NVMe SSDs built on Kioxia's eighth-generation BiCS FLASH QLC with a 32-die stack. The full 245.76 TB capacity is limited to the E3.L form factor, though, since the 2.5-inch and E3.S versions top out at 122.88 TB, which would roughly halve the rack to about 78.6 PB. Dell's George Papadopoulos says customers can &quot;consolidate more data into fewer systems and racks&quot; while cutting down on cabling, power, and cooling.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/4ddIZa4Wwc6ECaJK.jpg\" target=\"_blank\" data-width=\"532\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/4ddIZa4Wwc6ECaJK_thm.jpg\" width=\"72\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/QGNHuYzMnWA6j9EO.jpg\" target=\"_blank\" data-width=\"2998\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/QGNHuYzMnWA6j9EO_thm.jpg\" width=\"406\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354767/kioxia-and-dell-build-a-157-pb-rack-with-640-ssds\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354767/kioxia-and-dell-build-a-157-pb-rack-with-640-ssds",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "da1b218aaba83d76ead2cc6a8066a96e"
+    },
+    {
+      "id": 5307,
+      "title": "AMD \"Siren Halo\" APU Rumored to Pair Dedicated GDDR7 With LPDDR Memory",
+      "summary": "AMD's next big Halo APU might ship with two separate memory pools, if a new leak from Gotou_3rd on X is accurate. In a short post on November 12, the leaker wrote that \"Siren Halo has dedicated GD7 VRAM.\" When asked whether that meant unifi",
+      "content": "AMD's next big Halo APU might ship with two separate memory pools, if a new leak from <a rel=\"nofollow\" href=\"https://x.com/Gotou_kai3/status/2120744697618669760\" target=\"_blank\">Gotou_3rd on X</a> is accurate. In a short post on November 12, the leaker wrote that &quot;Siren Halo has dedicated GD7 VRAM.&quot; When asked whether that meant unified GDDR memory, like on consoles, or separate pools, <a rel=\"nofollow\" href=\"https://x.com/Gotou_kai3/status/2120816686094045270\" target=\"_blank\">Gotou clarified</a> that LPDDR system memory would still be there. He also claimed that Siren Halo follows <a href=\"https://www.techpowerup.com/346164/amd-medusa-halo-apu-to-use-lpddr6-memory\" target=\"_blank\">Medusa Halo</a>, that Siren Point is basically a Medusa refresh, and that the new name exists because AMD won't have a fully new Halo design in 2027. There's no word on capacities, bus widths, or launch timing. AMD <a href=\"https://www.techpowerup.com/352940/amd-adds-gddr7-support-in-gpu-driver-preparing-for-rdna-5-launch\" target=\"_blank\">already added GDDR7 support</a> to its Linux driver in September, a change widely tied to RDNA 5.<br />\r\n<br />\r\nThis would be quite a change for the lineup. Strix Halo and its <a href=\"https://www.techpowerup.com/349218/amd-launches-the-ryzen-ai-max-400-series-processors-strix-halo-gets-a-memory-upgrade\" target=\"_blank\">Gorgon Halo refresh</a> use a single LPDDR5X pool shared by the CPU and GPU, with the Ryzen AI Max+ PRO 495 supporting up to 192 GB, of which up to 160 GB can go to graphics. That shared pool is a big reason these chips are popular for running LLMs locally. Dedicated GDDR7 should give the iGPU far more bandwidth for gaming, though it's unclear how much memory AI workloads would get. The leaker also suggested Siren Halo could be related to Magnus, the AMD chip <a href=\"https://www.techpowerup.com/348376/latest-leak-reveals-xbox-helix-will-effectively-just-be-a-pc-with-no-custom-apu\" target=\"_blank\">linked to Microsoft's Project Helix</a>, though that is speculation at this point. AMD hasn't confirmed Siren Halo at all, so it's best treated as a rumor for now.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/CDNJbVcDnxWuIZ8m.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/CDNJbVcDnxWuIZ8m_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/25vYmEeFvug2DdTr.jpg\" target=\"_blank\" data-width=\"1244\" data-height=\"890\" ><img src=\"https://tpucdn.com/img/25vYmEeFvug2DdTr_thm.jpg\" width=\"182\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354765/amd-siren-halo-apu-rumored-to-pair-dedicated-gddr7-with-lpddr-memory",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "3280f8e2b47f816d180bb8721ce7f1f7"
+    },
+    {
+      "id": 5309,
+      "title": "360Hz IJP OLED-equipped Lenovo Legion gaming laptop prototype debuts at DTC 2026",
+      "summary": "There were a handful of gaming-focused prototypes at the TCL CSOT DTC 2026 event, and a 16-inch Lenovo Legion gaming laptop was one of them. It sports a next-gen IJP OLED display with a whopping 360Hz refresh rate and 100% DCI-P3 color cove",
+      "content": "There were a handful of gaming-focused prototypes at the TCL CSOT DTC 2026 event, and a 16-inch Lenovo Legion gaming laptop was one of them. It sports a next-gen IJP OLED display with a whopping 360Hz refresh rate and 100% DCI-P3 color coverage.",
+      "link": "https://www.notebookcheck.net/360Hz-IJP-OLED-equipped-Lenovo-Legion-gaming-laptop-prototype-debuts-at-DTC-2026.1449671.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/360Hz-IJP-OLED-equipped-Lenovo-Legion-gaming-laptop-prototype-debuts-at-DTC-2026.1449671.0.html"
+    },
+    {
+      "id": 5310,
+      "title": "TCL CSOT shows off new IJP OLED laptop display with super-slim bezels at DTC 2026",
+      "summary": "The TCL CSOT DTC 2026 event has concluded in China, and among the prototypes showcased was a new 16-inch IJP OLED laptop display with super-slim bezels. It’s expected to be mass-produced for partners in 2027.",
+      "content": "The TCL CSOT DTC 2026 event has concluded in China, and among the prototypes showcased was a new 16-inch IJP OLED laptop display with super-slim bezels. It’s expected to be mass-produced for partners in 2027.",
+      "link": "https://www.notebookcheck.net/TCL-shows-off-new-IJP-OLED-laptop-display-with-super-slim-bezels-at-DTC-2026.1449554.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/TCL-shows-off-new-IJP-OLED-laptop-display-with-super-slim-bezels-at-DTC-2026.1449554.0.html"
+    },
+    {
+      "id": 5311,
+      "title": "Microsoft outage disrupts rail operations in Germany",
+      "summary": "An outage affecting critical Microsoft server infrastructure appears to be disrupting rail operations in countries like Germany. Deutsche Bahn reports that Microsoft Outlook is \"running extremely slowly\", preventing it from sending timetabl",
+      "content": "An outage affecting critical Microsoft server infrastructure appears to be disrupting rail operations in countries like Germany. Deutsche Bahn reports that Microsoft Outlook is \"running extremely slowly\", preventing it from sending timetables for diverted services. Other rail operators are also affected.",
+      "link": "https://www.notebookcheck.net/Microsoft-outage-disrupts-rail-operations-in-Germany.1449413.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Microsoft-outage-disrupts-rail-operations-in-Germany.1449413.0.html"
+    },
+    {
+      "id": 5312,
+      "title": "Oppo releases 7,400mAh phone with 120Hz AMOLED display in Europe",
+      "summary": "The Oppo A7 Pro 5G is now on sale in Europe. The mid-range Android phone features a 7,400mAh battery, up to 80W wired charging, and a 120Hz AMOLED display.",
+      "content": "The Oppo A7 Pro 5G is now on sale in Europe. The mid-range Android phone features a 7,400mAh battery, up to 80W wired charging, and a 120Hz AMOLED display.",
+      "link": "https://www.notebookcheck.net/Oppo-releases-7-400mAh-phone-with-120Hz-AMOLED-display-in-Europe.1448976.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Oppo-releases-7-400mAh-phone-with-120Hz-AMOLED-display-in-Europe.1448976.0.html"
+    },
+    {
+      "id": 5313,
+      "title": "French-made mini PC with unique cubical design and 16 GB RAM goes on sale",
+      "summary": "The Kubb Mini mini PC from French brand Bleu Jour has been launched in the USA. Priced at a premium, the ultra-compact mini PC sports a unique cubical design and a bunch of fun color ways.",
+      "content": "The Kubb Mini mini PC from French brand Bleu Jour has been launched in the USA. Priced at a premium, the ultra-compact mini PC sports a unique cubical design and a bunch of fun color ways.",
+      "link": "https://www.notebookcheck.net/French-made-mini-PC-with-unique-cubical-design-and-16-GB-RAM-goes-on-sale.1449039.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/French-made-mini-PC-with-unique-cubical-design-and-16-GB-RAM-goes-on-sale.1449039.0.html"
+    },
     {
       "id": 5173,
       "title": "微软AI超分辨率技术Auto SR正式登陆ROG Xbox Ally掌机",
@@ -1280,6 +1940,51 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/AMD-Siren-Halo-APU-rumored-to-feature-dedicated-GDDR7-VRAM-alongside-LPDDR-memory.1448811.0.html"
+    },
+    {
+      "id": 5308,
+      "title": "NVIDIA GeForce 621.24 WHQL Game Ready Drivers Released",
+      "summary": "NVIDIA has released the latest version of GeForce Game Ready drivers, version 621.24, which brings significant optimizations and game-ready support for multiple titles. Notably, it includes game-ready support for Warhammer 40,000: Dawn of W",
+      "content": "NVIDIA has released the latest version of GeForce Game Ready drivers, version 621.24, which brings significant optimizations and game-ready support for multiple titles. Notably, it includes game-ready support for Warhammer 40,000: Dawn of War IV and Assetto Corsa Rally. Additionally, the driver introduces neural rendering capabilities with 3D guidance of DLSS 5 for the game Where Winds Meet. As for the typical bug fixes included with such a driver release, NVIDIA has addressed a few issues, such as the NVIDIA OptiX Denoiser failing at higher resolutions in Chao Vantage. Another fix in this package resolves incorrect colors during DJI D-Log H.265 video playback in Windows Photos and Media Player. There are no known issues with this update, making it more of a game-ready enhancement than a major feature update. Please let us know in the comments if you've updated and how it's working for you.<br />\r\n<br />\r\n<b>DOWNLOAD</b>: <a href=\"https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/\" target=\"_blank\">NVIDIA GeForce 621.24 WHQL</a><div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/VeqrQ52hRLfya8lb.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/VeqrQ52hRLfya8lb_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/ypDNEZSOyvln6KVS.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ypDNEZSOyvln6KVS_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354746/nvidia-geforce-621-24-whql-game-ready-drivers-released\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354746/nvidia-geforce-621-24-whql-game-ready-drivers-released",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "d17b2f7b0cabffec2a8adf292e9dadab"
+    },
+    {
+      "id": 5314,
+      "title": "New affordable portable monitor debuts with 16-inch 2.5K 240Hz display",
+      "summary": "SANC has launched the Starship S9 portable monitor in China, featuring a 16-inch 2.5K IPS display with a 240Hz refresh rate. It also supports VRR and ALLM and includes a built-in stand, dual speakers and USB-C connectivity.",
+      "content": "SANC has launched the Starship S9 portable monitor in China, featuring a 16-inch 2.5K IPS display with a 240Hz refresh rate. It also supports VRR and ALLM and includes a built-in stand, dual speakers and USB-C connectivity.",
+      "link": "https://www.notebookcheck.net/New-affordable-portable-monitor-debuts-with-16-inch-2-5K-240Hz-display.1448585.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-affordable-portable-monitor-debuts-with-16-inch-2-5K-240Hz-display.1448585.0.html"
+    },
+    {
+      "id": 5315,
+      "title": "New Minix mini PC goes on sale with AMD Ryzen AI 9 HX 470 and vapor chamber cooling",
+      "summary": "Minix has started selling the ER947-AI, a new mini PC that pairs AMD's Ryzen AI 9 HX 470 processor with 32 GB of RAM. Starting at $1,599.90, it uses two fans and a vapor chamber for cooling and offers plenty of ports, including two Ethernet",
+      "content": "Minix has started selling the ER947-AI, a new mini PC that pairs AMD's Ryzen AI 9 HX 470 processor with 32 GB of RAM. Starting at $1,599.90, it uses two fans and a vapor chamber for cooling and offers plenty of ports, including two Ethernet jacks.",
+      "link": "https://www.notebookcheck.net/New-Minix-mini-PC-goes-on-sale-with-AMD-Ryzen-AI-9-HX-470-and-vapor-chamber-cooling.1448728.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-12",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-Minix-mini-PC-goes-on-sale-with-AMD-Ryzen-AI-9-HX-470-and-vapor-chamber-cooling.1448728.0.html"
     },
     {
       "id": 5067,
