@@ -1,7 +1,368 @@
 {
-  "updatedAt": "2026-11-13",
-  "total": 5357,
+  "updatedAt": "2026-11-14",
+  "total": 5388,
   "list": [
+    {
+      "id": 5358,
+      "title": "英特尔内部文档曝光 两代处理器Razor Lake将接替Nova Lake",
+      "summary": "第063版架构指令集扩展编程参考文档曝光，坐实英特尔下一代处理器迭代路线。文档详细列出了代号为Razor Lake的消费级处理器与Coral Rapids服务器处理器的CPUID识别码，预示着这两大架构已进入实质性的开发阶段。 阅读全文",
+      "content": "<p>第063版架构指令集扩展编程参考文档曝光，坐实英特尔下一代处理器迭代路线。文档详细列出了代号为Razor Lake的消费级处理器与Coral Rapids服务器处理器的CPUID识别码，预示着这两大架构已进入实质性的开发阶段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586396.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586396.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586396.htm"
+    },
+    {
+      "id": 5359,
+      "title": "黄仁勋辞职带火签名RTX 5090 论坛喊价5万美元",
+      "summary": "随着英伟达创始人黄仁勋于11月12日正式卸任CEO职务，硬件圈掀起了一场关于其亲笔签名版显卡的收藏热潮。在海外知名硬件社区Reddit上，一张带有黄仁勋金色签名的GeForce RTX 5090公版显卡成为焦点，不少玩家认为该设备已成为记录游戏行业历史的关键文物。 阅读全文",
+      "content": "<p>随着英伟达创始人黄仁勋于11月12日正式卸任CEO职务，硬件圈掀起了一场关于其亲笔签名版显卡的收藏热潮。<strong>在海外知名硬件社区Reddit上，一张带有黄仁勋金色签名的GeForce RTX 5090公版显卡成为焦点，不少玩家认为该设备已成为记录游戏行业历史的关键文物。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586376.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586376.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586376.htm"
+    },
+    {
+      "id": 5360,
+      "title": "Tendrils Compute获3000万美元融资 押注数千核心并行处理器 意在重新发明CPU",
+      "summary": "英国剑桥初创公司Tendrils Compute宣布完成3000万美元融资，由Benchmark领投，Visionaries Club、英国主权人工智能基金、FR8、Antimatter、Cloudberry VC、Conviction、Embassy Ventures和SV Angels等参与。公司称，新加入的董事会成员为Jack Altman。 阅读全文",
+      "content": "<p>英国剑桥初创公司Tendrils Compute宣布完成3000万美元融资，由Benchmark领投，Visionaries Club、英国主权人工智能基金、FR8、Antimatter、Cloudberry VC、Conviction、Embassy Ventures和SV Angels等参与。公司称，新加入的董事会成员为Jack Altman。</p> <a href=\"https://www.cnbeta.com.tw/articles/science/1586362.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1586362.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1586362.htm"
+    },
+    {
+      "id": 5361,
+      "title": "AMD第三季度桌面CPU出货份额降至29.9% Intel回升至70.1%",
+      "summary": "Mercury Research数据显示，AMD在2026年第三季度的桌面处理器出货份额降至29.9%，较第二季度的34.9%下滑5个百分点；Intel则回升至70.1%。这是AMD数月来首次出现季度份额下跌，也是其自2025年初以来的最低水平。一年前，AMD桌面CPU出货份额为33.6%。 阅读全文",
+      "content": "<p>Mercury Research数据显示，AMD在2026年第三季度的桌面处理器出货份额降至29.9%，较第二季度的34.9%下滑5个百分点；Intel则回升至70.1%。这是AMD数月来首次出现季度份额下跌，也是其自2025年初以来的最低水平。一年前，AMD桌面CPU出货份额为33.6%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586346.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586346.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586346.htm"
+    },
+    {
+      "id": 5362,
+      "title": "​英特尔酷睿Ultra 7 260K处理器低调现身 仅随新蛋两款整机限量发售",
+      "summary": "英特尔一款此前未曾正式发布的新处理器酷睿Ultra 7 260K近日悄然上架销售，但目前仅搭载于北美电商平台新蛋（Newegg）旗下自有品牌ABS的两款游戏整机中。其中，配置RTX 5060显卡的Kaze II Aqua整机售价为1699.99美元，配备RTX 5070显卡的Flux II Aqua整机售价则为1999.99美元。 阅读全文",
+      "content": "<p>英特尔一款此前未曾正式发布的新处理器酷睿Ultra 7 260K近日悄然上架销售，但目前仅搭载于北美电商平台新蛋（Newegg）旗下自有品牌ABS的两款游戏整机中。其中，配置RTX 5060显卡的Kaze II Aqua整机售价为1699.99美元，配备RTX 5070显卡的Flux II Aqua整机售价则为1999.99美元。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586344.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586344.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586344.htm"
+    },
+    {
+      "id": 5363,
+      "title": "韩国研发“发声屏幕”显示技术 让声音从画面发生位置直接传出",
+      "summary": "长期以来，无论是电视、显示器还是智能手机，画面与声音往往来自不同位置。观众看到人物在屏幕上说话，但声音通常来自屏幕下方的扬声器或外部音响设备。如今，韩国研究团队开发出一种全新的显示技术，试图彻底解决这一问题，让声音能够直接从画面中的发声位置传出，从而带来更具沉浸感的视听体验。韩国机械材料研究院（KIMM）的研究人员近日公布了一项基于模块化网格结构的“视听融合显示技术”。该技术在显示面板背面安装多个振动执行器，使屏幕本身能够成为一个大型扬声器，并且能够精准控制声音从屏幕的特定区",
+      "content": "<p>长期以来，无论是电视、显示器还是智能手机，画面与声音往往来自不同位置。观众看到人物在屏幕上说话，但声音通常来自屏幕下方的扬声器或外部音响设备。如今，韩国研究团队开发出一种全新的显示技术，试图彻底解决这一问题，让声音能够直接从画面中的发声位置传出，从而带来更具沉浸感的视听体验。<strong>韩国机械材料研究院（KIMM）的研究人员近日公布了一项基于模块化网格结构的“视听融合显示技术”。该技术在显示面板背面安装多个振动执行器，使屏幕本身能够成为一个大型扬声器，并且能够精准控制声音从屏幕的特定区域发出。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/science/1586334.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/science/1586334.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/science/1586334.htm"
+    },
+    {
+      "id": 5364,
+      "title": "Gemini接入Google Wallet 可基于消费记录提供个性化预算建议",
+      "summary": "Google宣布，Google Wallet现已加入Gemini“Personal Intelligence（个人智能）”可连接应用名单，与Gmail、Google Photos、YouTube和Google Search等服务并列。用户完成连接后，Gemini将能够基于其消费记录和支出习惯提供更加个性化的财务分析与预算建议。 阅读全文",
+      "content": "<p>Google宣布，Google Wallet现已加入Gemini“Personal Intelligence（个人智能）”可连接应用名单，与Gmail、Google Photos、YouTube和Google Search等服务并列。用户完成连接后，Gemini将能够基于其消费记录和支出习惯提供更加个性化的财务分析与预算建议。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586332.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586332.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586332.htm"
+    },
+    {
+      "id": 5366,
+      "title": "黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结",
+      "summary": "IT之家 11 月 14 日消息，过去一周，英伟达接连经历重大变故。随着黄仁勋离任 CEO，GeForce 显卡乃至整个游戏业务的前景引发担忧。 不过，英伟达品牌推广人员雅各布 · 弗里曼出面回应了外界的疑虑，明确否认公司将放弃游戏显卡业务，让不少考虑转投 AMD 或英特尔的玩家吃下了定心丸。 弗里曼在参加北美最大的局域网游戏聚会之一 PDXLAN 期间，于 X 上发文回应公司近期的动荡，强调英伟达仍会继续支持 PC 游戏业务。 他还分享了多张照片，回顾英伟达多年来参与这项活",
+      "content": "<p data-vmark=\"f9d2\">IT之家 11 月 14 日消息，过去一周，英伟达接连经历重大变故。随着黄仁勋离任 CEO，GeForce 显卡乃至整个游戏业务的前景引发担忧。</p><p data-vmark=\"9e21\">不过，英伟达品牌推广人员雅各布 · 弗里曼出面回应了外界的疑虑，明确否认公司将放弃游戏显卡业务，让不少考虑转投 AMD 或英特尔的玩家吃下了定心丸。</p><p data-vmark=\"0ea3\">弗里曼在参加北美最大的局域网游戏聚会之一 PDXLAN 期间，于 X 上发文回应公司近期的动荡，强调英伟达仍会继续支持 PC 游戏业务。</p><p data-vmark=\"9234\">他还分享了多张照片，回顾英伟达多年来参与这项活动的经历。“<strong>这一周发生了很多事</strong>。能与这么多热爱 PC 游戏、硬件和科技的优秀同事共事，我感到十分庆幸。<strong>我们的工作还会继续！</strong>”</p><p data-vmark=\"7699\">随后，有 X 用户直接问道：“嘿，雅各布，很多人都说 GeForce 的时代要结束了，你怎么看？”弗里曼干脆地回答：“不会。”</p><p data-vmark=\"59b4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/182c0992-ace4-4a04-ac31-7cf1f574fa15.png\" w=\"1196\" h=\"3396\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FGeForce_JacobF%2Fstatus%2F2121342509960057160%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"0f28\"></p><p data-vmark=\"03b4\">此前部分玩家一度担心，英伟达会就此放弃游戏显卡业务，从而失去升级 RTX 6000 系列显卡的机会。</p><p data-vmark=\"43ba\">不过，受全球 AI 产业爆发式增长的影响，DRAM（动态随机存取存储器）市场目前正面临严重的供应危机，<strong>尤其是 3GB GDDR7 显存颗粒的短缺</strong>。据IT之家此前报道，如此种种导致原定于 2026 年上半年发布的 RTX 50 “SUPER”系列被迫推迟，甚至在今年年初，<a href=\"https://www.ithome.com/0/911/828.htm\" target=\"_blank\">还传出“无限期搁置发布”的消息</a>。</p><p data-vmark=\"f1d9\">这一空窗期使得市场目光提前聚焦到了更遥远的 RTX 60 系列上。今年年初的消息称，英伟达计划 <strong><a href=\"https://www.ithome.com/0/911/382.htm\" target=\"_blank\">2027 年下半年推出 RTX 60 系列显卡</a></strong>，将运用 Rubin 架构。</p>",
+      "link": "https://www.ithome.com/1/027/212.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/212.htm"
+    },
+    {
+      "id": 5367,
+      "title": "星闪智能家电 OpenLab 实验室正式投运：九方共建，覆盖芯片到整机全链条",
+      "summary": "IT之家 11 月 14 日消息，国际星闪联盟今日发文宣布，星闪智能家电（上海）创新实验室（简称星闪智能家电 OpenLab）此前以高分通过验收并获正式授牌，成为国际星闪联盟第四家官方授权 OpenLab，也是首个面向智能家电领域的开放创新平台。目前，实验室已正式投入运营。 星闪（NearLink）作为新一代无线短距通信技术，具备低时延、高可靠、精定位、抗干扰、多并发等特性。官方表示，在智能家电领域，星闪数传、感知、定位以及灵活组网能力已经催生出一批新场景： 在电视周边，星闪",
+      "content": "<p data-vmark=\"9678\">IT之家 11 月 14 日消息，国际星闪联盟今日发文宣布，星闪智能家电（上海）创新实验室（简称星闪智能家电 OpenLab）此前以高分通过验收并获正式授牌，成为国际星闪联盟第四家官方授权 OpenLab，也是首个面向智能家电领域的开放创新平台。目前，<strong>实验室已正式投入运营</strong>。</p><p data-vmark=\"633b\">星闪（NearLink）作为新一代无线短距通信技术，具备低时延、高可靠、精定位、抗干扰、多并发等特性。官方表示，在智能家电领域，星闪数传、感知、定位以及灵活组网能力已经催生出一批新场景：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"34a7\">在电视周边，星闪指向遥控为全区影音娱乐带来全新沉浸式体验；</p></li><li><p data-vmark=\"8ee3\">在白电周边，星闪通感一体让全屋家电变得更智能；</p></li><li><p data-vmark=\"1c54\">在路由器周边，宽窄一张网让全屋互联更加便捷。</p></li></ul><p data-vmark=\"5c9d\">据介绍，星闪智能家电 OpenLab 由上海青浦星联星闪促进中心承建并运营。促进中心由美的、上海海思、杭州永谐、上海数字电视国家工程研究中心、上海交通大学、合肥恒新基、上海长三角宝业、上海比路电子、长三角 AI+ 联合创新中心共 9 家单位联合发起，<strong>覆盖“芯片 — 模组 — 整机 — 高校科研 — 地方产业平台”的各个环节</strong>。</p><p data-vmark=\"69f4\">IT之家获悉，为推动星闪技术在智能家电领域规模化落地，实验室制定了三步走发展路线图：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0244\"><strong>破冰期（至 2026 年底）：</strong>完成组织建设与制度搭建，推进能力建设与基础业务运营，联合生态伙伴孵化解决方案；</p></li><li><p data-vmark=\"4ec7\"><strong>平台期（2027—2028 年）：</strong>建成集技术创新应用服务、测试能力、产业推广于一体的平台，<strong>推动星闪技术在华东地区应用与产业政策落地</strong>；</p></li><li><p data-vmark=\"5540\"><strong>可持续期（2029 年起）：</strong>形成稳定的研发服务团队，持续创新与项目孵化，实现运营可持续发展。</p></li></ul><p data-vmark=\"e945\">目前，实验室已形成专兼职结合的团队架构：10 余名来自各成员单位的技术骨干，分别兼职参与解决方案开发、测试实验室、产业生态发展三条业务线，均具备芯片、产品或解决方案开发经验；计划至 2026 年底到位全职人员 7 位。</p><p data-vmark=\"06bd\">与此同时，实验室依托成员单位专家资源，邀请上海交通大学何大治教授、管云峰教授等长期参与标准制定的专家，深度参与技术创新与产业落地。</p>",
+      "link": "https://www.ithome.com/1/027/209.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/209.htm"
+    },
+    {
+      "id": 5368,
+      "title": "Mercury Research：AMD 第三季度桌面 CPU 市占率跌破 30%，英特尔夺回市场份额",
+      "summary": "IT之家 11 月 14 日消息，据 PC Gamer 披露的 Mercury Research 最新数据，2026 年第三季度 AMD 桌面端 CPU 的出货量份额降至 29.9%，较第二季度的 34.9% 下滑了 5 个百分点；与此同时，Intel 的份额则回升至 70.1%。 这也是 AMD 自 2025 年初（当时约为 28%）以来的最低桌面端占比。不过在服务器市场，局势截然相反 —— AMD 的份额从上一季度的 34.5% 进一步攀升至 35.5%。 IT之家获悉，",
+      "content": "<p data-vmark=\"158f\">IT之家 11 月 14 日消息，据 PC Gamer 披露的 Mercury Research 最新数据，2026 年第三季度 AMD 桌面端 CPU 的出货量份额降至 29.9%，较第二季度的 34.9% 下滑了 5 个百分点；与此同时，Intel 的份额则回升至 70.1%。</p><p data-vmark=\"f3cb\">这也是 AMD 自 2025 年初（当时约为 28%）以来的最低桌面端占比。不过在服务器市场，局势截然相反 —— AMD 的份额从上一季度的 34.5% 进一步攀升至 35.5%。</p><p style=\"text-align: center;\" data-vmark=\"22b4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4c6cb86c-d520-4ef5-a316-846d027fce9d.jpg?x-bce-process=image/format,f_auto\" w=\"1054\" h=\"670\" data-weibo=\"0\" data-vmark=\"da8c\" class=\"no-alt-img\"></p><p data-vmark=\"8c68\">IT之家获悉，Mercury Research 称目前尚无法确切判定英特尔此次份额大幅波动的原因。该机构最倾向的推测是：<strong>由于笔记本电脑市场需求疲软，此前在桌面端一直供货不足的英特尔得以将更多芯片产能调配至桌面市场</strong>，恰逢该市场通常会在第三季度迎来季节性需求增长；反观 AMD，则似乎未能享受到这一波季节性增长。</p><p data-vmark=\"b382\">Mercury Research 指出，AMD 对 PC 游戏市场的依赖度更高，而该领域近期正受到显卡供应受限的拖累。此外，AMD 也已公开承认目前需求超过了其出货能力，首席执行官苏姿丰近期更明确表示，AMD 是一家“数据中心优先”的公司。</p><p data-vmark=\"a822\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"11a8\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/023/934.htm\">苏姿丰：AMD 是一家数据中心优先的公司</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/027/185.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/185.htm"
+    },
+    {
+      "id": 5369,
+      "title": "山灵音响 SM 3.3 数播解码一体机发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
+      "summary": "IT之家 11 月 14 日消息，山灵音响宣布旗下 SM 3.3 数播解码一体机现已在京东发售，该产品集本地播放、网络串流及解码输出于一体，定价为 23980 元。 京东山灵 SM3.3 R2R 电子管流媒体数播一体机播放器 23980 元直达链接 该设备尺寸为 430×320×106 mm，重量约为 9.5 kg。机身正面配备了一块 5.98 英寸 2560×1440 分辨率触控屏，屏幕支持在 45° 范围内自由翻转与悬停。 该机采用双“昆仑 Pro”R2R 解码阵列，共包",
+      "content": "<p data-vmark=\"8037\">IT之家 11 月 14 日消息，山灵音响宣布旗下 SM 3.3 数播解码一体机现已在京东发售，该产品集本地播放、网络串流及解码输出于一体，定价为 23980 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oGnNB1M\" target=\"_blank\" data-wapurl=\"https://u.jd.com/ogn2ElO\" data-iosurl=\"https://u.jd.com/oOnyF7v\" data-androidurl=\"https://u.jd.com/o6n2n4a\" data-hosnexturl=\"https://u.jd.com/ogngvUp\" data-hosurl=\"https://u.jd.com/oGnPSd6\" data-uwpurl=\"https://u.jd.com/ognc3BF\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fo1nJD31%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oOnP2GX\" data-lpwxurl=\"https://u.jd.com/ognciqP\"   data-ncid=\"272225\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/588224/24/1548/56008/6af6c1c8Fdc5794e8/00833203204d1d66.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">山灵 SM3.3 R2R 电子管流媒体数播一体机播放器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 23980 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"9c07\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4631a627-f455-435c-966e-6f114db926c7.png\" w=\"710\" h=\"1212\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"464e\"></p><p style=\"text-align: center;\" data-vmark=\"586b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8f81ba85-fa69-4ab4-9949-f06279cd979c.png\" w=\"556\" h=\"1522\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"14f0\"></p><p data-vmark=\"3de1\">该设备尺寸为 430×320×106 mm，重量约为 9.5 kg。机身正面配备了一块 5.98 英寸 2560×1440 分辨率触控屏，屏幕支持在 45° 范围内自由翻转与悬停。</p><p style=\"text-align: center;\" data-vmark=\"cf0c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/32af3b69-60a9-47d2-8fad-107f221e85a4.png\" w=\"646\" h=\"548\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"2ca4\"></p><p data-vmark=\"05b1\">该机采用双“昆仑 Pro”R2R 解码阵列，共包含 424 颗高精度电阻，整机信噪比高达 117 dB。模拟部分搭载双 12AT7 电子管用于平衡输出。内部数字处理采用 XMOS XU316 音频芯片与双晶振设计，供电部分则配备了总功率为 66 W 的双 R 型变压器进行独立供电。</p><p style=\"text-align: center;\" data-vmark=\"cf91\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/69ff2990-d7e2-421a-a927-d5d09206b84d.png\" w=\"596\" h=\"736\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"a3fd\"></p><p style=\"text-align: center;\" data-vmark=\"eb34\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f9bd12a2-12c3-4224-b839-7e9662b5da52.png\" w=\"612\" h=\"1196\" data-weibo=\"4\" class=\"nowebp no-alt-img\" data-vmark=\"5006\"></p><p data-vmark=\"464b\">该设备搭载 Rockchip 数播处理器，配备 4G RAM 与 64G 存储空间。机身内置 M.2 PCIe 3.0 SSD 插槽，支持最大 2 TB 存储扩展，同时也支持读取外接 U 盘及连接 NAS。音频处理最高支持 PCM 768 kHz/32 bit 与 DSD512 硬件解码，并兼容多种主流音频格式。</p><p style=\"text-align: center;\" data-vmark=\"a1ab\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8cf67d92-a6c9-45f8-861d-3d4442c83cb6.png\" w=\"654\" h=\"1348\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-vmark=\"6ee9\"></p><p data-vmark=\"d3af\">网络与接口方面，机器提供千兆 LAN 口、SFP 模块插槽以及 2.4G/5.8G 双频 WiFi 6 传输。无线连接支持 LDAC、aptX-HD 等多种编码，数字输入方面提供 HDMI ARC 接口。软件方面支持 Eddict Controller App 控制，系统内嵌多款主流流媒体平台，并兼容苹果 AirPlay 2 与 Roon Ready 等串流协议。设备后侧还配置了齐全的数字及模拟输出接口。</p><p style=\"text-align: center;\" data-vmark=\"e7cc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9e356f2a-d434-414c-83f2-a83d610f0a85.png\" w=\"750\" h=\"1258\" data-weibo=\"6\" class=\"nowebp no-alt-img\" data-vmark=\"4045\"></p><p data-vmark=\"ea6e\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"95dd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d3fae8ce-db27-4185-ae77-cfa35bf4d3a4.png\" w=\"574\" h=\"1274\" data-weibo=\"7\" class=\"nowebp no-alt-img\" data-vmark=\"adcd\"></p>",
+      "link": "https://www.ithome.com/1/027/183.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/183.htm"
+    },
+    {
+      "id": 5370,
+      "title": "华为麒麟 9050 系列新马良 GPU、AI ISP 情报公开：实装二代硬件光追，首次实现 2 亿像素融合拍照",
+      "summary": "IT之家 11 月 14 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，目前最新公开了新一代马良 GPU 和麒麟 AI ISP 的情报。 据介绍，麒麟 9050 系列搭载新一代马良 GPU，实现性能、能效与图形体验的升级。其采用第四代 GPU 微架构，GPU 性能提升 40%、功耗下降 45%。 系列新芯支持第二代硬件光追，光追性能提升 78%：第二代光线追踪硬加速，拥有高性能光追硬加速计算单元；BVH 硬加速单元，支持几",
+      "content": "<p data-vmark=\"098f\">IT之家 11 月 14 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，<strong>目前最新公开了新一代马良 GPU 和麒麟 AI ISP 的情报</strong>。</p><p data-vmark=\"a0e9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5bb37b97-f053-4476-a1ac-20ad7f21690e.jpg\" w=\"1080\" h=\"5308\" data-weibo=\"0\" alt=\"图片\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1cbf2b95f80bd6f7d87211d9fb20b1f71cd6d55fc6d984f66aea5a0790471c73ce3f5b0270940e447\" class=\"nowebp\" data-vmark=\"b332\"></p><p data-vmark=\"862a\">据介绍，麒麟 9050 系列搭载新一代马良 GPU，实现性能、能效与图形体验的升级。其采用第四代 GPU 微架构，<strong>GPU 性能提升 40%、功耗下降 45%</strong>。</p><p data-vmark=\"bade\">系列新芯支持第二代硬件光追，<strong>光追性能提升 78%</strong>：第二代光线追踪硬加速，拥有高性能光追硬加速计算单元；BVH 硬加速单元，支持几何加速结构实时重建；FERT 求交硬加速，支持专利求交算法与硬加速；AO 加速管线，可以让环境光遮蔽阴影效果更加逼真。</p><p data-vmark=\"2a34\">另外，麒麟 9050 系列芯片<strong>支持 AI 超分与 HDR 增强</strong>，可以让画面细节更清晰、明暗层次更丰富，<strong>并带来了控显分离、端侧 3D 重建等能力</strong>。华为官方表示，马良 API 还支持与鸿蒙 HarmonyOS 系统进行深度协同。</p><p data-vmark=\"a026\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4f5959d9-2da0-407b-b4a2-2b35b91bed87.jpg\" w=\"1080\" h=\"5444\" data-weibo=\"1\" alt=\"图片\" data-mpos=\"2,2\"  class=\"nowebp\" data-vmark=\"4789\"></p><p data-vmark=\"80a8\">IT之家注意到，麒麟 9050 系列新一代 AI ISP 集成像素专用 NPU，与通用 NPU 双引擎并行，支持 4K60 实时视频处理，<strong>并首次实现 2 亿高像素融合拍照</strong>。</p><p data-vmark=\"e6e4\">同时系列新芯还支持 18EV 高动态视频、长焦超清引擎、像素级人像优化和全链路 BT.2020 广色域，可提升拍照与视频体验。</p><p data-vmark=\"bff0\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"4980\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/026/993.htm\">华为麒麟 9050 系列芯片新一代灵犀 CPU 详细信息公开：9 核 16 线程并行调度，支持内存压缩加速</a>》</p></li><li><p data-vmark=\"4aaa\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/025/331.htm\">华为麒麟 9050 系列芯片官宣搭载新一代达芬奇架构 NPU，业界首个 30B MoE 大模型入端</a>》</p></li><li><p data-vmark=\"6de5\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/024/869.htm\">首款「逻辑折叠」技术 τ 芯片：华为详解麒麟 9050 系列核心升级，晶体管密度暴涨 53.5%</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/027/181.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/181.htm"
+    },
+    {
+      "id": 5371,
+      "title": "消息称华硕 / 技嘉显卡工厂已执行最新成本价格调整政策：RTX5080 系列涨 1000 元、5060 涨 150 元",
+      "summary": "IT之家 11 月 14 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，技嘉显卡工厂及华硕显卡工厂现已执行 11 月份最新成本价格调整政策，针对大部分型号成本价格全面涨价，IT之家整理表格如下： 显卡系列 / 型号技嘉上涨幅度华硕上涨幅度 RTX 5080 系列1000 元1000 元 RTX 5070 Ti 系列900 元800 元 RTX 5070 系列400 元300 元 RTX 5060 Ti 系列 (16G/8G)150 元150 元 R",
+      "content": "<p data-vmark=\"0720\">IT之家 11 月 14 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，技嘉显卡工厂及华硕显卡工厂现已执行 11 月份最新成本价格调整政策，针对大部分型号成本价格全面涨价，IT之家整理表格如下：</p><table><tbody><tr class=\"firstRow\"><td><strong>显卡系列 / 型号</strong></td><td><strong>技嘉上涨幅度</strong></td><td><strong>华硕上涨幅度</strong></td></tr><tr><td><strong> RTX 5080 系列</strong></td><td>1000 元</td><td>1000 元</td></tr><tr><td><strong> RTX 5070 Ti 系列</strong></td><td>900 元</td><td>800 元</td></tr><tr><td><strong> RTX 5070 系列</strong></td><td>400 元</td><td>300 元</td></tr><tr><td><strong> RTX 5060 Ti 系列 (16G/8G)</strong></td><td>150 元</td><td>150 元</td></tr><tr><td><strong> RTX 5060 系列</strong></td><td>150 元</td><td>150 元</td></tr><tr><td><strong> RTX 3050 系列</strong></td><td>100 元</td><td>100 元</td></tr><tr><td><strong> RX 7650 GRE</strong></td><td>100 元</td><td>-</td></tr><tr><td><strong>RX 9070 XT</strong></td><td>-</td><td>150 元</td></tr><tr><td><strong> RX 9070 GRE</strong></td><td>-</td><td>100 元</td></tr><tr><td><strong>其他型号</strong></td><td>维持不变</td><td>维持不变</td></tr></tbody></table><p style=\"text-align: center;\" data-vmark=\"38ff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/eb7c70e2-d9a3-448b-b584-a3de1006c648.jpg\" w=\"1268\" h=\"846\" alt=\"图片 26\" data-weibo=\"0\" data-vmark=\"bd7e\" class=\"nowebp\"></p><figcaption>▲ IT之家图赏：技嘉 GeForce RTX 5060 Ti AERO OC 8GB 显卡</figcaption>",
+      "link": "https://www.ithome.com/1/027/178.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/178.htm"
+    },
+    {
+      "id": 5372,
+      "title": "小心打着《GTA 6》PC 版旗号的诈骗：可盗取 Steam 账号和加密钱包数据",
+      "summary": "IT之家 11 月 14 日消息，据外媒 Neowin 今天（14 日）下午报道，网络安全公司 Cynet 发现，有人在谷歌 Colab 笔记本中发布了虚假的“GTA 6 EXE 文件下载”链接。 Cynet 并未说明研究人员最初如何发现该笔记本。调查发现，链接指向一个名为“Windows Software Hub”的网页，其网址使用了 WooCommerce 字样。 为了骗取用户信任，下载页面不仅标注了软件版本号和下载次数，还贴上“无病毒”“安全”“已验证”等标签，甚至声称",
+      "content": "<p data-vmark=\"1a88\">IT之家 11 月 14 日消息，据外媒 Neowin 今天（14 日）下午报道，网络安全公司 Cynet 发现，有人在谷歌 Colab 笔记本中发布了虚假的“GTA 6 EXE 文件下载”链接。</p><p data-vmark=\"0f57\">Cynet 并未说明研究人员最初如何发现该笔记本。调查发现，链接指向一个<strong>名为“Windows Software Hub”的网页</strong>，其网址使用了 WooCommerce 字样。</p><p data-vmark=\"6cd1\">为了骗取用户信任，下载页面不仅标注了软件版本号和下载次数，还贴上<strong>“无病毒”“安全”“已验证”等标签</strong>，甚至声称没有检测到任何安全威胁。</p><p data-vmark=\"e8ed\">不过，网页标注的<strong>下载文件只有 72MB</strong>，实际下载的压缩包更是可疑。里面只有一个 796KB 的 EXE 可执行文件和一份 1KB 的 README 说明文档。说明文档要求用户以管理员身份运行 EXE 文件，忽略系统安全警告，如果遭到杀毒软件拦截，还要将文件加入排除列表。</p><p data-vmark=\"b499\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7081aec7-f88b-4ae2-8dc6-e567730952bc.png\" w=\"1280\" h=\"631\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"3c6f\"></p><p data-vmark=\"9a5a\">一旦照做，电脑就会感染信息窃取木马。该恶意软件能够绕过沙箱和虚拟机检测，向浏览器进程注入恶意代码，窃取<strong>密码、Steam 和 Roblox 账号登录凭据、Cookie、浏览记录、浏览器扩展程序中的敏感信息</strong>，以及<strong>加密货币钱包</strong>数据。不仅如此，木马还能篡改用户复制的加密货币地址，并下载更多恶意软件。</p><p data-vmark=\"43da\">IT之家提醒：《GTA 6》尚未推出 PC 版。</p><p data-vmark=\"ce1b\">游戏定于 11 月 19 日发售，首发平台只有 PS5、XBOX Series X 和 XBOX Series S。因此，现阶段任何声称可以下载 Windows 或 macOS 版《GTA 6》的内容，都极有可能是骗局。</p><p data-vmark=\"6126\">Cynet 总结道：“无论下一款重磅游戏是谁家的，R 星也好、B 社或暴雪也罢，都会再次掀起热潮，攻击者也会再次利用玩家的好奇心诱骗他们点击链接。安全防护不能指望用户识破所有以假乱真的骗局，也不能只依靠一名恰巧在游戏发售当天请假的安全分析师。”</p>",
+      "link": "https://www.ithome.com/1/027/170.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/170.htm"
+    },
+    {
+      "id": 5373,
+      "title": "TCL 华星光电推出“全球最高刷新率”360Hz 笔记本 OLED 面板，使用喷墨打印技术",
+      "summary": "IT之家 11 月 14 日消息，TCL 华星光电联合联想，在 DTC 2026 活动展示了一款拯救者游戏本原型机，该机搭载 360Hz OLED 面板，是目前业界刷新率最高的笔记本 OLED 面板。 与传统 OLED 面板不同，这款屏幕采用喷墨打印 OLED 技术，通过精密喷嘴将液态有机材料直接喷射到预先划分好的子像素沟槽中。该工艺不仅有望降低面板生产成本，还能提升文字显示的清晰度。 具体来看，这块屏幕尺寸为 16 英寸，分辨率为 2560×1440，覆盖 100% DCI",
+      "content": "<p data-vmark=\"9c4d\">IT之家 11 月 14 日消息，TCL 华星光电联合联想，在 DTC 2026 活动展示了一款拯救者游戏本原型机，该机搭载 360Hz OLED 面板，是目前业界刷新率最高的笔记本 OLED 面板。</p><p data-vmark=\"6330\">与传统 OLED 面板不同，这款屏幕采用喷墨打印 OLED 技术，通过精密喷嘴将液态有机材料直接喷射到预先划分好的子像素沟槽中。该工艺不仅有望降低面板生产成本，还能提升文字显示的清晰度。</p><p style=\"text-align: center;\" data-vmark=\"f35f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/500381ac-6657-4f71-bf2d-7e0794225320.png\" w=\"1104\" h=\"610\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"ee47\"></p><p data-vmark=\"eb4f\">具体来看，这块屏幕尺寸为 16 英寸，分辨率为 2560×1440，覆盖 100% DCI-P3 色域，峰值亮度可达 500 尼特。TCL 华星光电目前正在推进该面板量产，预计很快我们就能在业界多款笔记本上看到相应面板。</p>",
+      "link": "https://www.ithome.com/1/027/163.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/163.htm"
+    },
+    {
+      "id": 5374,
+      "title": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏",
+      "summary": "IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。 该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电）。",
+      "content": "<p data-vmark=\"876b\">IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。</p><p style=\"text-align: center;\" data-vmark=\"18af\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ef9c5e86-69ad-4455-8ccc-5bc278e7fa1f.png?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1080\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"f0e9\"></p><p data-vmark=\"4e53\">该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电）。</p>",
+      "link": "https://www.ithome.com/1/027/151.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/151.htm"
+    },
+    {
+      "id": 5375,
+      "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
+      "summary": "IT之家 11 月 14 日消息，据摩尔线程公众号，近日，清华大学自动化系江瑞课题组发布了面向单细胞蛋白组的基础模型 ProtCell，完成了论文《ProtCell:a foundation model for single-cell proteomics》。该模型汇集约 3.8 亿个细胞、98 个公开数据集用于预训练与评估，能够精准映射细胞状态、推断未测蛋白表达，为药物研发与前沿“虚拟细胞”构建提供了关键底座支撑。 论文同时披露，团队在摩尔线程旗舰级 AI 训推一体智算卡 ",
+      "content": "<p data-vmark=\"2cca\">IT之家 11 月 14 日消息，据摩尔线程公众号，近日，清华大学自动化系江瑞课题组发布了面向单细胞蛋白组的基础模型 ProtCell，完成了论文《ProtCell:a foundation model for single-cell proteomics》。该模型汇集约 3.8 亿个细胞、98 个公开数据集用于预训练与评估，能够精准映射细胞状态、推断未测蛋白表达，为药物研发与前沿“虚拟细胞”构建提供了关键底座支撑。</p><p data-vmark=\"a76f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1420d832-71ce-49ab-b077-c706dbf12e22.png\" w=\"1234\" h=\"1024\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"d7cb\"></p><p data-vmark=\"1f22\">论文同时披露，<strong>团队在摩尔线程旗舰级 AI 训推一体智算卡 MTT S5000 上成功完成了 ProtCell 的全流程预训练复现，主要定量评测指标与国际主流 GPU 平台的差异仅约 0.2%</strong>，验证了摩尔线程全功能 GPU（Universal GPU）与 MUSA 全栈软件生态对前沿生命科学基础模型的承载力。</p><p data-vmark=\"0bff\">公开信息显示，“虚拟细胞”旨在用 AI 在计算机中构建细胞的运行模型，描述细胞当前状态，并精准预测细胞在受到药物、基因编辑等干预后的动态变化，已成为全球 AI4S 竞争的核心战略高地。</p><p data-vmark=\"3a75\">国际上，顶尖科研机构与科技巨头正加速投入数十亿美元与万卡级算力集群竞逐这一领域。在我国，《国务院关于深入实施“人工智能 +”行动的意见》把「人工智能 +」科学技术列为重点行动首位。由于虚拟细胞研发所依赖的基因组、蛋白组等核心数据高度涉及国家生物遗传资源安全，构建自主可控的先进算力基座至关重要。</p>",
+      "link": "https://www.ithome.com/1/027/148.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/148.htm"
+    },
+    {
+      "id": 5376,
+      "title": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%",
+      "summary": "IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。 据财联社报道，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受采访时表示，该产品正在进行相应的开发和进一步完善，具体上市时间需根据品牌客户的产品规划节奏确定。 对于市场关注的印刷 OLED 产线爬坡情况，赵军表示，目前武汉的 t12 产线生产情况良好，产能已从过去的每月 3K ",
+      "content": "<p data-vmark=\"d9f7\">IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。</p><p style=\"text-align: center;\" data-vmark=\"bc36\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/16693f9a-ef97-4753-94ca-0d123258d102.jpg\" w=\"1080\" h=\"720\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"07a9\"></p><p data-vmark=\"4f1d\">据财联社报道，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受采访时表示，<strong>该产品正在进行相应的开发和进一步完善</strong>，具体上市时间需根据品牌客户的产品规划节奏确定。</p><p data-vmark=\"e07a\">对于市场关注的印刷 OLED 产线爬坡情况，赵军表示，目前武汉的 t12 产线生产情况良好，产能已从过去的每月 3K 大板提升至 9K 大板，且产线良率提升迅速，<strong>首款产品 4 月投入量产后，良率已从刚投产时的个位数提升至目前的约 70%</strong>。目前，有<strong>多款印刷 OLED 产品正同时处于量产状态</strong>。</p><p data-vmark=\"d51e\">据IT之家了解，<strong>印刷 OLED 采用喷墨打印工艺</strong>，将有机发光材料以“按需沉积”方式精准印刷到玻璃基板上，相比传统真空蒸镀，具备材料利用率更高、生产更绿色高效等显著优势。</p><p data-vmark=\"2b05\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f6eb\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/026/505.htm\">TCL 华星 CEO 赵军：印刷 OLED 已实现量产出货，广州 t8 项目计划明年 5 月产品点亮</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/027/142.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/142.htm"
+    },
+    {
+      "id": 5377,
+      "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
+      "summary": "IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini 便能根据谷歌 Gemini 个人智能功能接入 Google Wallet：可为用户消费习惯提供个性化分析建议。 谷歌表示，用户只需在 Gemini 对话中输入 @Google Wallet，即可询问个人财务状况、消费情况以及预算规划等问题。用户还可通过 Plaid 将信用卡和银行账",
+      "content": "<p data-vmark=\"c9a7\">IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini 便能根据谷歌 Gemini 个人智能功能接入 Google Wallet：可为用户消费习惯提供个性化分析建议。</p><p data-vmark=\"489b\">谷歌表示，用户只需在 Gemini 对话中输入 @Google Wallet，即可询问个人财务状况、消费情况以及预算规划等问题。用户还可通过 Plaid 将信用卡和银行账户关联至 Google Wallet，以获取更加全面的财务信息。</p><p data-vmark=\"d664\">在具体功能方面，例如 Gemini 可以分析用户上一季度的消费记录，并直接在对话中生成图表，展示现金流、资产配置和预算情况。如果用户希望在未来 3 个月内存下 1000 美元，Gemini 也可以据此协助制定储蓄计划。</p><p style=\"text-align: center;\" data-vmark=\"1517\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1a61f51d-f3dd-4f36-a6cb-0710c5e33374.png\" w=\"1436\" h=\"650\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"74c3\"></p><p style=\"text-align: center;\" data-vmark=\"fa50\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ada4ddaa-dd17-40da-bfac-185e7ada24f1.jpg\" w=\"1432\" h=\"749\" data-weibo=\"1\" class=\"nowebp no-alt-img\"  data-vmark=\"d2ca\"></p><p data-vmark=\"c270\">谷歌强调，Gemini 只能读取用户授权账户中的信息，无法转账、管理资金或进行投资操作。Google Wallet 的接入完全采用自愿授权机制，用户需要在 Personal Intelligence 设置中的“已连接的应用”选项下手动开启，也可以随时取消连接。</p>",
+      "link": "https://www.ithome.com/1/027/141.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/141.htm"
+    },
+    {
+      "id": 5378,
+      "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
+      "summary": "IT之家 11 月 14 日消息，据外媒 Notebook Check 报道，部分玩家发现自己购买的《GTA6》游戏实体包装盒内竟然没有 Xbox 或 PlayStation Store 游戏兑换码。相应玩家尝试向 Rockstar Games 及零售商申请退款，但均未能成功。 X 平台上流传的贴文显示，一名 PS5 版《GTA 6》购买者拆开包装后发现，原本应该印有游戏兑换码的内页只有一条灰色印刷区域，并没有实际兑换码。更令人沮丧的是，零售商百思买（Best Buy）甚至拒",
+      "content": "<p data-vmark=\"1ed6\">IT之家 11 月 14 日消息，据外媒 Notebook Check 报道，部分玩家发现自己购买的《GTA6》游戏实体包装盒内竟然没有 Xbox 或 PlayStation Store 游戏兑换码。相应玩家尝试向 Rockstar Games 及零售商申请退款，但均未能成功。</p><p data-vmark=\"51c7\">X 平台上流传的贴文显示，一名 PS5 版《GTA 6》购买者拆开包装后发现，原本应该印有游戏兑换码的内页只有一条灰色印刷区域，并没有实际兑换码。更令人沮丧的是，零售商百思买（Best Buy）甚至拒绝为其办理退款。</p><p style=\"text-align: center;\" data-vmark=\"ca85\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bd8146b5-d869-482b-a5a6-f73b2fb518e6.jpg\" w=\"914\" h=\"1168\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\"  data-vmark=\"cf17\"></p><p data-vmark=\"2773\">即便直接通过 Rockstar Games 官方渠道预订《GTA 6》实体盒装版，玩家也可能遇到同样的问题。Reddit 用户 InParties 表示，自己收到了随游戏附赠的双面海报，却没有找到应有的 PlayStation Store 兑换码。该用户向 Rockstar Games 客服寻求帮助后，客服甚至关闭了其提交的两张工单。</p><p data-vmark=\"e719\">Rockstar Games 官网目前建议，通过第三方零售商购买游戏的用户直接联系对应商家。不过，由于出现问题的商品均为未拆封包装，因此很难将责任归咎于百思买、沃尔玛或 GameStop 等零售商。相比之下，问题更有可能出在游戏正式进入零售渠道之前的生产制造环节。</p><p data-vmark=\"2f47\">更糟糕的是，PS5 和 Xbox 版《GTA 6》盒装兑换码还存在被物流人员或消费者窃取的风险。此前有报告指出，<a href=\"https://www.ithome.com/1/027/073.htm\" target=\"_blank\">使用高亮度手电筒照射包装盒，就可能透过外层包装看到内部印刷的游戏 CDKEY 信息</a>，无须拆开封条便能获取兑换码。不过，目前这一问题似乎主要集中在部分欧洲市场版本游戏，相关包装盒缺少额外的防护层。</p>",
+      "link": "https://www.ithome.com/1/027/135.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/135.htm"
+    },
+    {
+      "id": 5379,
+      "title": "AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground",
+      "summary": "AMD's share of desktop CPU shipments fell to 29.9% in the third quarter of 2026, according to new Mercury Research data, shared by PC Gamer. That's a five-point drop from the 34.9% AMD held in Q2, with Intel climbing back to 70.1%. It's als",
+      "content": "AMD's share of desktop CPU shipments fell to 29.9% in the third quarter of 2026, according to new <a rel=\"nofollow\" href=\"https://www.mercuryresearch.com/\" target=\"_blank\">Mercury Research</a> data, shared by <a rel=\"nofollow\" href=\"https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/\" target=\"_blank\">PC Gamer</a>. That's a five-point drop from the <a href=\"https://www.techpowerup.com/351908/amd-gains-ground-as-intel-x86-market-share-goes-back-to-1995-levels\" target=\"_blank\">34.9% AMD held in Q2</a>, with Intel climbing back to 70.1%. It's also AMD's lowest desktop figure since early 2025, when it sat at around 28%. A year ago, AMD held 33.6% of the desktop market.<br />\r\n<br />\r\nMercury itself admits it isn't sure what caused the swing. Its best guess is that weaker laptop demand let Intel shift more chips to desktops, which usually see a seasonal bump in the third quarter, after Intel had been under-supplying that market earlier in the year. AMD, on the other hand, didn't seem to get that seasonal increase. Mercury also points to AMD's heavier reliance on PC gaming, a market it says has been hurt by supply constraints on gaming GPUs. On top of that, AMD has openly admitted that <a href=\"https://www.techpowerup.com/353445/amd-ceo-lisa-su-says-2027-will-bring-a-substantial-supply-increase\" target=\"_blank\">demand is running ahead</a> of what it can ship, and Lisa Su recently called AMD a <a href=\"https://www.techpowerup.com/354543/amd-goes-data-center-first-while-gaming-revenue-drops-40\" target=\"_blank\">&quot;data center first&quot; company</a>.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/nDobEMfsaP1UYPq3.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/nDobEMfsaP1UYPq3_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/A2kVRyEOm3QmoAFV.jpg\" target=\"_blank\" data-width=\"1510\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/A2kVRyEOm3QmoAFV_thm.jpg\" width=\"204\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/oSodria7d2uTOOAE.jpg\" target=\"_blank\" data-width=\"1574\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/oSodria7d2uTOOAE_thm.jpg\" width=\"213\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "a3ededf3caa332f2cd7d55fa08f3e18b"
+    },
+    {
+      "id": 5380,
+      "title": "Intel Core Ultra 7 260K Arrives Without an Announcement, Limited to Two Prebuilt Desktops",
+      "summary": "A new unannounced Intel CPU, the Core Ultra 7 260K, is now on sale, though only inside two of Newegg's in-house ABS gaming desktops. The Kaze II Aqua pairs it with an RTX 5060 for $1,699.99, while the Flux II Aqua steps up to an RTX 5070 fo",
+      "content": "A new unannounced Intel CPU, the Core Ultra 7 260K, is now on sale, though only inside two of Newegg's in-house ABS gaming desktops. The <a rel=\"nofollow\" href=\"https://www.newegg.com/abs-kaze-ii-white-gaming-desktop-pcs-geforce-rtx-5060-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-k2a57n56r1/p/N82E16883362061\" target=\"_blank\">Kaze II Aqua</a> pairs it with an RTX 5060 for $1,699.99, while the <a rel=\"nofollow\" href=\"https://www.newegg.com/abs-flux-ii-gaming-desktop-pc-geforce-rtx-5070-intel-core-ultra-7-260k-32gb-ddr5-1tb-nvme-ssd-f2a57n57r1-black/p/N82E16883362062\" target=\"_blank\">Flux II Aqua</a> steps up to an RTX 5070 for $1,999.99. Newegg confirmed the chip is exclusive to its ABS systems and won't be sold separately. Per <a rel=\"nofollow\" href=\"https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip\" target=\"_blank\">Tom's Hardware</a>, Intel has since described it as a &quot;limited-availability&quot; SKU with no boxed retail version, and its specifications should appear on Intel's website within a few days.<br />\r\n<br />\r\nGoing by Newegg's own <a rel=\"nofollow\" href=\"https://www.newegg.com/insider/intel-core-ultra-7-260k-abs-gaming-pcs\" target=\"_blank\">buying guide</a>, the 260K looks like a <a href=\"https://www.techpowerup.com/review/intel-core-ultra-7-265k/\" target=\"_blank\">Core Ultra 7 265K</a> with a slightly lower clock speed ceiling. It keeps the same 8P+12E core layout, 30 MB of L3 cache, 125 W base power, and DDR5-6400 support for up to 256 GB of memory, but the P-cores top out at 5.4 GHz instead of 5.5 GHz. That DDR5-6400 limit places it in the original Arrow Lake family rather than the <a href=\"https://www.techpowerup.com/347251/intel-launches-arrow-lake-refresh-core-ultra-5-250k-plus-and-core-ultra-7-270k-plus-new-binary-optimization-tool\" target=\"_blank\">Arrow Lake Refresh lineup</a>, so it misses out on DDR5-7200 support and Intel's <a href=\"https://www.techpowerup.com/review/intel-core-ultra-7-270k-plus/25.html\" target=\"_blank\">Binary Optimization Tool</a> as well.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/aSReqTWcS6ozZjmI.jpg\" target=\"_blank\" data-width=\"1280\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/aSReqTWcS6ozZjmI_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/lJiNQH3xOpSWvvfi.jpg\" target=\"_blank\" data-width=\"1896\" data-height=\"775\" ><img src=\"https://tpucdn.com/img/lJiNQH3xOpSWvvfi_thm.jpg\" width=\"318\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Tp0HXJwD40HIzqFQ.jpg\" target=\"_blank\" data-width=\"1894\" data-height=\"769\" ><img src=\"https://tpucdn.com/img/Tp0HXJwD40HIzqFQ_thm.jpg\" width=\"320\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354821/intel-core-ultra-7-260k-arrives-without-an-announcement-limited-to-two-prebuilt-desktops\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354821/intel-core-ultra-7-260k-arrives-without-an-announcement-limited-to-two-prebuilt-desktops",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "84ad3a334cea9bf43c69b235c8e37223"
+    },
+    {
+      "id": 5383,
+      "title": "Google Pixel owners report camera failures and desktop mode bugs after November update",
+      "summary": "Google's November 2026 Pixel Drop is drawing complaints from owners reporting unusable cameras, broken desktop-mode features and display problems. Reports continued to attract attention on 13 November, although the extent of the issues rema",
+      "content": "Google's November 2026 Pixel Drop is drawing complaints from owners reporting unusable cameras, broken desktop-mode features and display problems. Reports continued to attract attention on 13 November, although the extent of the issues remains unclear.",
+      "link": "https://www.notebookcheck.net/Google-Pixel-owners-report-camera-failures-and-desktop-mode-bugs-after-November-update.1449844.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Google-Pixel-owners-report-camera-failures-and-desktop-mode-bugs-after-November-update.1449844.0.html"
+    },
+    {
+      "id": 5384,
+      "title": "Some physical GTA 6 boxes are missing codes, with Rockstar refusing to help",
+      "summary": "Flaws with the GTA 6 code-in-box approach are being discovered days before its release date. Some sealed retail cases shipped without the Xbox or PlayStation Store redemption inside. Buyers of the disc-less Xbox and PS5 versions have unsucc",
+      "content": "Flaws with the GTA 6 code-in-box approach are being discovered days before its release date. Some sealed retail cases shipped without the Xbox or PlayStation Store redemption inside. Buyers of the disc-less Xbox and PS5 versions have unsuccessfully requested refunds from Rockstar and retailers.",
+      "link": "https://www.notebookcheck.net/Some-physical-GTA-6-boxes-are-missing-codes-with-Rockstar-refusing-to-help.1449998.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Some-physical-GTA-6-boxes-are-missing-codes-with-Rockstar-refusing-to-help.1449998.0.html"
+    },
+    {
+      "id": 5385,
+      "title": "Super-slim, low-reflection IJP OLED display debuts for thin and light laptops",
+      "summary": "The DTC 2026 event, hosted by TCL CSOT, featured a wide range of interesting IJP OLED prototypes. Alongside the 16-inch display with bezels as thin as 1.6mm, the company has showcased a 14-inch panel with a claimed thickness of just 0.6mm.",
+      "content": "The DTC 2026 event, hosted by TCL CSOT, featured a wide range of interesting IJP OLED prototypes. Alongside the 16-inch display with bezels as thin as 1.6mm, the company has showcased a 14-inch panel with a claimed thickness of just 0.6mm.",
+      "link": "https://www.notebookcheck.net/Super-slim-low-reflection-IJP-OLED-display-debuts-for-thin-and-light-laptops.1450215.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-14",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Super-slim-low-reflection-IJP-OLED-display-debuts-for-thin-and-light-laptops.1450215.0.html"
+    },
     {
       "id": 5267,
       "title": "英伟达市值缩水约1.6万亿美元 分析师：黄仁勋离任或长期压制股价",
@@ -1258,6 +1619,94 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Black-Friday-at-Zima-Home-servers-and-more-up-to-50-off.1449687.0.html"
+    },
+    {
+      "id": 5365,
+      "title": "黄仁勋风波持续发酵 英伟达创逾18个月来最差单周表现",
+      "summary": "英伟达股价录得逾18个月来最差单周表现，这家芯片巨头在黄仁勋离职后持续承压。英伟达周五下跌2%，收于162.85美元，过去五个交易日累计下跌13%，创2025年4月以来最大单周跌幅，当时美国总统唐纳德·特朗普宣布大范围征收关税的计划，引发全球市场震荡。这也是英伟达连续第六周下跌，为2012年以来最长连跌。 阅读全文",
+      "content": "<p>英伟达股价录得逾18个月来最差单周表现，这家芯片巨头在黄仁勋离职后持续承压。英伟达周五下跌2%，收于162.85美元，过去五个交易日累计下跌13%，创2025年4月以来最大单周跌幅，当时美国总统唐纳德·特朗普宣布大范围征收关税的计划，引发全球市场震荡。这也是英伟达连续第六周下跌，为2012年以来最长连跌。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586328.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586328.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586328.htm"
+    },
+    {
+      "id": 5381,
+      "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+      "summary": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups th",
+      "content": "Following the <a href=\"https://www.techpowerup.com/354732/nvidia-co-founder-and-ceo-jensen-huang-officially-resigns\" target=\"_blank\">departure of now-former NVIDIA CEO, Jensen Huang</a>, a new report by <a rel=\"nofollow\" href=\"https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?\" target=\"_blank\">The Wall Street Journal</a> (via <a rel=\"nofollow\" href=\"https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/\" target=\"_blank\">Wccftech</a>) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers. The reason behind this was to maintain the perception of ongoing high demand and to move an oversupply of semiconductors from TSMC. <br />\r\n<br />\r\nThe WSJ report cites an August meeting between Huang and his senior finance team, including NVIDIA's CFO and acting CEO, Colette Kress, during which Kress pushed for a reduction in circular financing agreements, in response to which Huang allegedly lay into Kress, calling her a &quot;deer in the headlights,&quot; after she had pushed to scale back <a href=\"https://www.techpowerup.com/351120/nvidia-and-openai-reportedly-discuss-usd-250-billion-deal-for-10-gigawatt-ohio-data-center\" target=\"_blank\">NVIDIA's $250 billion deal with OpenAI</a>. Jensen's push for further investment into small-scale cloud providers was seemingly in response to the changing tide that saw AI hyperscalers move away from off-the-shelf components in favor of custom solutions.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/ooCln2q3jkKNGHen_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "55116f499cb3e363cdc8a8c4bafaf79a"
+    },
+    {
+      "id": 5382,
+      "title": "Modder Builds Keybytes: Modular Magnetic Keyboard System Made with Single Key Building Blocks",
+      "summary": "The world of DIY mechanical keyboards is full of niche devices with unique designs, and more than a few gimmicks. Keybytes, a new project by a modder who goes by notaroomba on GitHub via KBDnews, falls somewhere between the former and the l",
+      "content": "The world of DIY mechanical keyboards is full of niche devices with unique designs, and more than a few gimmicks. Keybytes, a new project by a modder who goes by notaroomba on <a rel=\"nofollow\" href=\"https://github.com/NotARoomba/keybytes\" target=\"_blank\">GitHub</a> via <a rel=\"nofollow\" href=\"https://kbd.news/Keybytes-2938.html\" target=\"_blank\">KBDnews</a>, falls somewhere between the former and the latter, and mostly serves as an interesting proof of concept. Keybytes a modular mechanical keyboard project designed for ultimate customization. The basic idea is to have single mechanical keyboard sockets with full-height MX mechanical switches, aka Keybits, each with their own PCB and magnetic connectors that allow them to snap together, effectively creating an infinitely reconfigurable keyboard. <br />\r\n<br />\r\nThe whole project hinges on the Keyword, a motherboard of sorts that contains the USB Type-C port, battery charging circuitry, and a STM32WB55 MCU. That motherboard connects to each Keybit, each of which also has its own RISC-V CH592F MCU and some clever tricks that allow the bits to connect in a rotation-agnostic way. There are also alternative PCB options, including one with a 3-axis Hall sensor, which would allow for something like a joystick or Hall effect switch implementation, and there are also spacer Keybits with power passthrough in 1u, 0.75u, and 0.5u units. In the latest design revision, each of the Keybits also has six magnets per side and automatic polarity detection, meaning switches can be arranged in-line or at 25%, 50%, or 75% offsets.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/60p4MlUE1EvWH5rH.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/60p4MlUE1EvWH5rH_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/et20Hv8UE5IeqQGv.jpg\" target=\"_blank\" data-width=\"1600\" data-height=\"900\" ><img src=\"https://tpucdn.com/img/et20Hv8UE5IeqQGv_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/N9Dabs4ZUzYCxsLC.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/N9Dabs4ZUzYCxsLC_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/gh3Q8xzWXEM58wpO.jpg\" target=\"_blank\" data-width=\"1518\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/gh3Q8xzWXEM58wpO_thm.jpg\" width=\"206\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354802/modder-builds-keybytes-modular-magnetic-keyboard-system-made-with-single-key-building-blocks\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354802/modder-builds-keybytes-modular-magnetic-keyboard-system-made-with-single-key-building-blocks",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "4f9b11832c78f7ef475c98704a9183de"
+    },
+    {
+      "id": 5386,
+      "title": "Japanese rugged tablet arrives with 16 GB RAM and 8-core Intel \"Panther Lake\" CPU",
+      "summary": "Panasonic has introduced a new rugged tablet in Japan, dubbed the ToughBook FZ-G3. The tablet features a 10.1-inch display, quite a capable Panther Lake CPU, and is designed to function in harsh environments.",
+      "content": "Panasonic has introduced a new rugged tablet in Japan, dubbed the ToughBook FZ-G3. The tablet features a 10.1-inch display, quite a capable Panther Lake CPU, and is designed to function in harsh environments.",
+      "link": "https://www.notebookcheck.net/Japanese-rugged-tablet-arrives-with-16-GB-RAM-and-8-core-Intel-Panther-Lake-CPU.1449481.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-rugged-tablet-arrives-with-16-GB-RAM-and-8-core-Intel-Panther-Lake-CPU.1449481.0.html"
+    },
+    {
+      "id": 5387,
+      "title": "MSI releases new Claw 8 EX gaming handheld with cheaper pricing and Intel Arc B370 graphics",
+      "summary": "MSI has launched its cheaper Claw 8 EX gaming handheld globally. Simultaneously, the company has released its newer model in the US, with a Luminous Blue finish, Intel Arc B370 graphics and a $300 lower price separating it from MSI's origin",
+      "content": "MSI has launched its cheaper Claw 8 EX gaming handheld globally. Simultaneously, the company has released its newer model in the US, with a Luminous Blue finish, Intel Arc B370 graphics and a $300 lower price separating it from MSI's original Intel Panther Lake-backed gaming handheld.",
+      "link": "https://www.notebookcheck.net/MSI-releases-new-Claw-8-EX-gaming-handheld-with-cheaper-pricing-and-Intel-Arc-B370-graphics.1449866.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/MSI-releases-new-Claw-8-EX-gaming-handheld-with-cheaper-pricing-and-Intel-Arc-B370-graphics.1449866.0.html"
+    },
+    {
+      "id": 5388,
+      "title": "Does the new OLED MacBook Pro also pave the way for a MacBook Air with an OLED screen?",
+      "summary": "The biggest weakness of the current MacBook Air is its 60 Hz IPS screen. But with Apple finally offering an OLED screen for the MacBook Pro, we could soon also see see a new display for the MacBook Air.",
+      "content": "The biggest weakness of the current MacBook Air is its 60 Hz IPS screen. But with Apple finally offering an OLED screen for the MacBook Pro, we could soon also see see a new display for the MacBook Air.",
+      "link": "https://www.notebookcheck.net/Does-the-new-OLED-MacBook-Pro-also-pave-the-way-for-a-MacBook-Air-with-an-OLED-screen.1449769.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-13",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Does-the-new-OLED-MacBook-Pro-also-pave-the-way-for-a-MacBook-Air-with-an-OLED-screen.1449769.0.html"
     },
     {
       "id": 5173,
