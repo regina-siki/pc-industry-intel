@@ -1,7 +1,740 @@
 {
-  "updatedAt": "2026-11-15",
-  "total": 5469,
+  "updatedAt": "2026-11-16",
+  "total": 5522,
   "list": [
+    {
+      "id": 5470,
+      "title": "RTX 4090 Ti工程样卡现身中国二手平台 传搭载18176个CUDA核心",
+      "summary": "一块据称是英伟达未发布的GeForce RTX 4090 Ti工程样卡，近日出现在中国二手交易平台。卖家展示的GPU-Z截图标出18176个CUDA核心、192个光栅单元和568个纹理单元；相比正式版RTX 4090的16384个CUDA核心，核心数量多约11%。 阅读全文",
+      "content": "<p>一块据称是英伟达未发布的GeForce RTX 4090 Ti工程样卡，近日出现在中国二手交易平台。卖家展示的GPU-Z截图标出18176个CUDA核心、192个光栅单元和568个纹理单元；相比正式版RTX 4090的16384个CUDA核心，核心数量多约11%。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586636.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586636.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586636.htm"
+    },
+    {
+      "id": 5471,
+      "title": "美参议员炮轰商务部监管失职：英伟达AI芯片流向中国引发国家安全争议",
+      "summary": "随着英伟达前首席执行官黄仁勋相关争议持续发酵，美国国会内部围绕先进人工智能芯片出口管制的问题再度升温。美国参议院商务委员会资深民主党议员玛丽亚·坎特韦尔近日公开致信商务部长霍华德·卢特尼克，指责其领导下的美国商务部未能有效阻止先进AI芯片流向与中国有关联的企业，从而损害了美国国家安全利益，并削弱了美国在人工智能领域的技术领先优势。 阅读全文",
+      "content": "<p>随着英伟达前首席执行官黄仁勋相关争议持续发酵，美国国会内部围绕先进人工智能芯片出口管制的问题再度升温。美国参议院商务委员会资深民主党议员玛丽亚·坎特韦尔近日公开致信商务部长霍华德·卢特尼克，指责其领导下的美国商务部未能有效阻止先进AI芯片流向与中国有关联的企业，从而损害了美国国家安全利益，并削弱了美国在人工智能领域的技术领先优势。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586634.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586634.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586634.htm"
+    },
+    {
+      "id": 5472,
+      "title": "开发者分析称Nintendo Switch 2采用桌面版DLSS模型并新增两种预设",
+      "summary": "开发者kurumuz分析Nintendo Switch 2内置模型后称，该主机采用了桌面GPU所用的DLSS模型和预设，并额外加入桌面端没有的H、I预设。相关文件包含DLSS 4，但不包含DLSS 4.5。 阅读全文",
+      "content": "<p>开发者kurumuz分析Nintendo Switch 2内置模型后称，该主机采用了桌面GPU所用的DLSS模型和预设，并额外加入桌面端没有的H、I预设。相关文件包含DLSS 4，但不包含DLSS 4.5。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1586628.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586628.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1586628.htm"
+    },
+    {
+      "id": 5473,
+      "title": "乌兰察布数据中心运维成高薪体面职业：“相亲能少10万彩礼”",
+      "summary": "据《晚点LatePost》报道，随着AI算力集群在乌兰察布快速扩张，数据中心运维正成为当地一份有社会声望的新职业。报道称，一座数据中心投入运营后，一栋楼值班和维护所需人员不到20人——值班8人、电气维护2人、暖通2人、弱电1人，约1MW配一人，一个工程师能管两栋楼。因人数稀少、工资较高，运维岗位在当地颇受青睐。 阅读全文",
+      "content": "<p>据《晚点LatePost》报道，随着AI算力集群在乌兰察布快速扩张，数据中心运维正成为当地一份有社会声望的新职业。报道称，一座数据中心投入运营后，一栋楼值班和维护所需人员不到20人——值班8人、电气维护2人、暖通2人、弱电1人，约1MW配一人，一个工程师能管两栋楼。因人数稀少、工资较高，运维岗位在当地颇受青睐。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586624.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586624.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586624.htm"
+    },
+    {
+      "id": 5474,
+      "title": "高盛称乌兰察布为亚太最大AI算力集群 22个数据中心同时在建",
+      "summary": "据《晚点LatePost》报道，高盛两个月前发布报告称，乌兰察布已崛起为亚太地区规模最大、增长最快的AI算力集群。这座仅150万人口、原本以土豆、火山和宇航员出名的北方边境小城，正在成为AI算力竞赛的前线。 阅读全文",
+      "content": "<p>据《晚点LatePost》报道，高盛两个月前发布报告称，乌兰察布已崛起为亚太地区规模最大、增长最快的AI算力集群。这座仅150万人口、原本以土豆、火山和宇航员出名的北方边境小城，正在成为AI算力竞赛的前线。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586622.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586622.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586622.htm"
+    },
+    {
+      "id": 5475,
+      "title": "郭明錤：英伟达换帅，GoogleTPU借OpenAI、Anthropic订单扩大业务",
+      "summary": "天风国际证券知名分析师郭明錤周一发文称，在英伟达CEO接班人选存在不确定性的情况下，Google的TPU芯片正借助OpenAI、Anthropic的订单开拓业务。郭明錤在X上发文称，根据他的最新产业调查，受益于OpenAI和Anthropic的强劲新订单，GoogleTPU的出货能见度已延伸至2029年，优于英伟达GPU及其他AI芯片供应商(多数订单能见度为2027年第四季度至2028年第二季度)。出货能见度指的是企业能够明确看到或掌握未来多长时间的客户订单和出货计划。 阅读",
+      "content": "<p>天风国际证券知名分析师郭明錤周一发文称，在英伟达CEO接班人选存在不确定性的情况下，Google的TPU芯片正借助OpenAI、Anthropic的订单开拓业务。郭明錤在X上发文称，根据他的最新产业调查，受益于OpenAI和Anthropic的强劲新订单，GoogleTPU的出货能见度已延伸至2029年，优于英伟达GPU及其他AI芯片供应商(多数订单能见度为2027年第四季度至2028年第二季度)。出货能见度指的是企业能够明确看到或掌握未来多长时间的客户订单和出货计划。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586604.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586604.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586604.htm"
+    },
+    {
+      "id": 5476,
+      "title": "纯代码奇迹！AI手搓97KB极简水下模拟器 RTX 5070 Ti跑出180帧",
+      "summary": "近日一名开发者展示了AI辅助编程的极端优化极限，仅利用Claude Fable 5.2生成了一个97 KB的HTML文件，竟在网页端实现了一个完整的高画质交互式水下世界。在英伟达GeForce RTX 5070 Ti显卡的驱动下，该项目在2560×1440分辨率下的运行帧率高达180 FPS。 阅读全文",
+      "content": "<p><strong>近日一名开发者展示了AI辅助编程的极端优化极限，仅利用Claude Fable 5.2生成了一个97 KB的HTML文件，竟在网页端实现了一个完整的高画质交互式水下世界。</strong>在英伟达GeForce RTX 5070 Ti显卡的驱动下，该项目在2560×1440分辨率下的运行帧率高达180 FPS。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586602.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586602.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586602.htm"
+    },
+    {
+      "id": 5477,
+      "title": "Anthropic即将登陆纳斯达克：寻求1.4万亿美元估值 被寄望接替英伟达成为AI新标杆",
+      "summary": "据彭博社报道，就在黄仁勋(Jensen Huang)上周经历声誉急剧崩塌之际，他的一家芯片大客户则有望跻身顶级上市公司行列。Anthropic即将进行史上规模最大的首次公开招股(IPO)，将AI投资者的希望、梦想与恐惧，全部押注在一家前沿AI模型开发商身上。 阅读全文",
+      "content": "<p>据彭博社报道，就在黄仁勋(Jensen Huang)上周经历声誉急剧崩塌之际，他的一家芯片大客户则有望跻身顶级上市公司行列。Anthropic即将进行史上规模最大的首次公开招股(IPO)，将AI投资者的希望、梦想与恐惧，全部押注在一家前沿AI模型开发商身上。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586600.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586600.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586600.htm"
+    },
+    {
+      "id": 5478,
+      "title": "TCL华星展示全球首款PSF蓝磷光OLED手机屏：6.36 英寸，功耗降低30%",
+      "summary": "2026年TCL华星全球显示生态大会（DTC2026）近日在武汉启幕，会上TCL华星展出全球首款蓝磷光OLED手机显示（6.36英寸）与全球首款蓝磷光OLED微相机显示（2.86英寸），率先将蓝磷光从材料研究阶段推进至终端产品形态，完成从材料到产品的行业首发。 阅读全文",
+      "content": "<p>2026年TCL华星全球显示生态大会（DTC2026）近日在武汉启幕，<strong>会上TCL华星展出全球首款蓝磷光OLED手机显示（6.36英寸）与全球首款蓝磷光OLED微相机显示（2.86英寸），率先将蓝磷光从材料研究阶段推进至终端产品形态，完成从材料到产品的行业首发。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586598.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586598.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586598.htm"
+    },
+    {
+      "id": 5479,
+      "title": "苹果首款AI眼镜产品明年亮相：能翻译、导航、叫外卖",
+      "summary": "科技博主Mark Gurman披露，苹果计划在2027年6月举行的WWDC全球开发者大会上发布首款AI智能眼镜，并于当年年底前正式上市。这款产品内部代号为N50，目前硬件设计已基本定型。外观方面，Apple Intelligence眼镜比Meta第二代Ray-Ban智能眼镜更加纤薄，摄像头直接集成在镜框内部，没有明显凸起。苹果还准备了多种款式和配色，并重点优化音质、传感器及佩戴体验。 阅读全文",
+      "content": "<p><strong>科技博主Mark Gurman披露，苹果计划在2027年6月举行的WWDC全球开发者大会上发布首款AI智能眼镜，并于当年年底前正式上市。这款产品内部代号为N50，目前硬件设计已基本定型。</strong>外观方面，Apple Intelligence眼镜比Meta第二代Ray-Ban智能眼镜更加纤薄，摄像头直接集成在镜框内部，没有明显凸起。苹果还准备了多种款式和配色，并重点优化音质、传感器及佩戴体验。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586592.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586592.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586592.htm"
+    },
+    {
+      "id": 5480,
+      "title": "第二代iPhone Duo曝光：苹果正专注两个优先事项",
+      "summary": "据科技网站9to5mac报道，明年秋季，苹果将推出第二代iPhone Duo。目前尚不清楚这款产品除了常规的芯片升级和摄像头改进之外，还会带来哪些实质性升级。不过，苹果工程师正试图将Face ID集成到新一代手机中，但这项功能最终可能赶不上产品发布。 阅读全文",
+      "content": "<p>据科技网站9to5mac报道，明年秋季，苹果将推出第二代iPhone Duo。目前尚不清楚这款产品除了常规的芯片升级和摄像头改进之外，还会带来哪些实质性升级。不过，苹果工程师正试图将Face ID集成到新一代手机中，但这项功能最终可能赶不上产品发布。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586590.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586590.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586590.htm"
+    },
+    {
+      "id": 5481,
+      "title": "荷兰断供逼出最强国产替代 安世中国绝地反击：交付超400亿颗芯片",
+      "summary": "在被荷兰安世总部断供晶圆一年后，安世中国不仅没有陷入停滞，反而联合国产供应链交出了一份震撼的成绩单：累计交付超400亿颗芯片，技术平台已实现反超。 阅读全文",
+      "content": "<p>在被荷兰安世总部断供晶圆一年后，安世中国不仅没有陷入停滞，反而联合国产供应链交出了一份震撼的成绩单：累计交付超400亿颗芯片，技术平台已实现反超。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586588.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586588.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586588.htm"
+    },
+    {
+      "id": 5482,
+      "title": "DeepSeek被曝收紧App及网页端额度 长对话与每日使用受限",
+      "summary": "11月16日，DeepSeek被曝对App及网页端部分使用场景实施限制，涉及长期未活跃的长对话、单次输入文字数量和每日对话额度。多名用户近日收到DeepSeek平台提示，称受算力不足影响，不再支持超过7天未活跃的长对话。 阅读全文",
+      "content": "<p>11月16日，DeepSeek被曝对App及网页端部分使用场景实施限制，涉及长期未活跃的长对话、单次输入文字数量和每日对话额度。多名用户近日收到DeepSeek平台提示，称受算力不足影响，不再支持超过7天未活跃的长对话。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586584.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586584.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586584.htm"
+    },
+    {
+      "id": 5483,
+      "title": "盟友游说推动黄仁勋回归 白宫阻力重重",
+      "summary": "据报道，黄仁勋正在考虑重返英伟达担任首席执行官。就在这名科技高管因被曝出婚外情而辞职数日之后，硅谷圈内的盟友正在向公司董事会施压，要求恢复他的职务。多名知情人士透露，黄仁勋已经和亲信探讨过回归的可能性；与此同时，英伟达董事会正在开展一项独立调查，厘清引发这家市值4万亿美元芯片企业本周爆发重大管理层危机的相关行为。 阅读全文",
+      "content": "<p>据报道，黄仁勋正在考虑重返英伟达担任首席执行官。就在这名科技高管因被曝出婚外情而辞职数日之后，硅谷圈内的盟友正在向公司董事会施压，要求恢复他的职务。多名知情人士透露，黄仁勋已经和亲信探讨过回归的可能性；与此同时，英伟达董事会正在开展一项独立调查，厘清引发这家市值4万亿美元芯片企业本周爆发重大管理层危机的相关行为。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586570.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586570.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586570.htm"
+    },
+    {
+      "id": 5484,
+      "title": "SK海力士宣布未来五年投入10.5亿美元扶持本土芯片供应商",
+      "summary": "韩国存储芯片巨头SK海力士宣布，计划在未来五年投入1.4万亿韩元，约合10.5亿美元，用于扶持韩国本土半导体材料、零部件及设备供应商。随着人工智能芯片市场竞争持续升温，SK海力士希望通过强化本土供应链，降低对关键技术和设备外部供应的依赖，同时帮助中小型企业提升技术能力和商业化水平。 阅读全文",
+      "content": "<p>韩国存储芯片巨头SK海力士宣布，计划在未来五年投入1.4万亿韩元，约合10.5亿美元，用于扶持韩国本土半导体材料、零部件及设备供应商。随着人工智能芯片市场竞争持续升温，SK海力士希望通过强化本土供应链，降低对关键技术和设备外部供应的依赖，同时帮助中小型企业提升技术能力和商业化水平。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586560.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586560.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586560.htm"
+    },
+    {
+      "id": 5485,
+      "title": "无印良品使用明文存储用户信用卡号码 泄露109万条记录",
+      "summary": "早前日本知名公司良品计划遭到黑客攻击，良品计划是无印良品背后的运营方，此次攻击造成大约 109 万张信用卡信息泄露。不过更让人咋舌的是：无印良品不但违规保存用户信用卡卡号，甚至还没有对卡号进行加密，也就是直接明文存储。 阅读全文",
+      "content": "<p>早前日本知名公司良品计划遭到黑客攻击，良品计划是无印良品背后的运营方，此次攻击造成大约 109 万张信用卡信息泄露。不过更让人咋舌的是：无印良品不但违规保存用户信用卡卡号，甚至还没有对卡号进行加密，也就是直接明文存储。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1586536.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586536.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1586536.htm"
+    },
+    {
+      "id": 5487,
+      "title": "KTC 推出“H32U6P”31.5 英寸显示器：4K 60Hz 配 90W USB-C，1399 元",
+      "summary": "IT之家 11 月 16 日消息，KTC 现已在京东上架型号为“H32U6P”的 31.5 英寸显示器，该机为 4K 60hz 规格，定价为 1399 元。 京东 KTC“H32U6P”显示器 1399 元直达链接 该机配备一块 3840x2160 分辨率 60Hz 侧入式背光 Fast IPS 面板，显示器亮度 300 尼特，对比度 3000:1，显示器支持 8-Bit 色彩，覆盖 100% sRGB 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA ",
+      "content": "<p data-vmark=\"6cbe\">IT之家 11 月 16 日消息，KTC 现已在京东上架型号为“H32U6P”的 31.5 英寸显示器，该机为 4K 60hz 规格，<strong>定价为 1399 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/oaBuq7u\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oDBCGK7\" data-iosurl=\"https://u.jd.com/ogBCJG5\" data-androidurl=\"https://u.jd.com/oDBsT3U\" data-hosnexturl=\"https://u.jd.com/o1B8JQ4\" data-hosurl=\"https://u.jd.com/ogBMYT7\" data-uwpurl=\"https://u.jd.com/or0ofk9\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foOBtYp6%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/oaBCM2g\" data-lpwxurl=\"https://u.jd.com/orBMPFa\"   data-ncid=\"273299\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/585203/16/2019/120295/6af41ad7Fa6abbdb9/00833203200c05e4.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> KTC“H32U6P”显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1399 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"983f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d8c25e4c-dbe4-4247-942a-d462b1239a0c.png\" w=\"754\" h=\"1320\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"ef24\"></p><p data-vmark=\"4246\">该机配备一块 3840x2160 分辨率 60Hz 侧入式背光 Fast IPS 面板，显示器亮度 300 尼特，对比度 3000:1，显示器支持 8-Bit 色彩，覆盖 100% sRGB 色域。</p><p data-vmark=\"d990\">该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 USB-C（开机 65W / 待机 90W）、2 个 USB-A 3.0、1 个 3.5mm 音频接口。</p><p data-vmark=\"8e3d\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"6b70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/25a31ba5-b75a-47e7-8a5c-c5e8002ae133.png\" w=\"572\" h=\"1488\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"6508\"></p>",
+      "link": "https://www.ithome.com/1/027/918.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/918.htm"
+    },
+    {
+      "id": 5488,
+      "title": "U 盘屏幕也能跑《毁灭战士》，靠文件复制就能玩",
+      "summary": "IT之家 11 月 16 日消息，现在，《毁灭战士》（Doom）甚至能在 U 盘自带的 LCD 屏幕上运行，玩家只需通过与 U 盘之间复制文件就能游玩。硬件改装爱好者亚伦 · 克里斯托费尔（Aaron Christophel）在一段拆解视频中展示了这一成果。 这款 U 盘显示芯片上的型号标识已经被人为抹除，不过，克里斯托费尔发现设备保留了开放的调试接口，于是通过该接口提取了芯片固件，并据此确定了芯片型号。随后，他借助 AI 对硬件进行逆向分析，最终成功让《毁灭战士》在 U 盘",
+      "content": "<p data-vmark=\"5b11\">IT之家 11 月 16 日消息，现在，《毁灭战士》（Doom）甚至能在 U 盘自带的 LCD 屏幕上运行，玩家只需通过与 U 盘之间复制文件就能游玩。硬件改装爱好者亚伦 · 克里斯托费尔（Aaron Christophel）在一段拆解视频中展示了这一成果。</p><p data-vmark=\"9036\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/990c6a74-434b-434a-88f9-859cab3885db.jpg\" w=\"970\" h=\"546\" data-weibo=\"0\" data-vmark=\"490e\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"ca41\">这款 U 盘显示芯片上的型号标识已经被人为抹除，不过，克里斯托费尔发现设备保留了开放的调试接口，于是通过该接口提取了芯片固件，并据此确定了芯片型号。随后，他借助 AI 对硬件进行逆向分析，最终成功让《毁灭战士》在 U 盘屏幕上运行。</p><p data-vmark=\"4624\" style=\"text-align: center;\"><iframe src=\"https://player.bilibili.com/player.html?bvid=BV14UWa6AEJR&amp;autoplay=0&amp;page=1\" class=\"ithome_video bilibili\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"></iframe></p><p data-vmark=\"9bbb\">这款现成的产品名为 MOVESPEED MSSU10，一端配备 USB-A 接口，另一端配备 USB-C 接口。克里斯托费尔购买的是该系列容量最小的 128GB 版本，花费约 50 欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 368.1 元人民币）</span>。正常情况下，U 盘屏幕会显示传输速度、剩余容量以及设备温度等状态信息。</p><p data-vmark=\"68f9\">这款 U 盘采用慧荣科技（Silicon Motion）的 SM2320G 作为主闪存控制器。此外，设备还配备了一颗独立的 C*Core CCM4101 微控制器，负责驱动分辨率为 428 × 142 的彩色 LCD 屏幕。这颗微控制器自带 2MB 闪存和少量 RAM。NAND 闪存颗粒上则印有闪迪（SanDisk）的标识。</p><p data-vmark=\"526c\">除屏幕之外，这套硬件基本采用了常见的便携式 SSD 设计。</p><p data-vmark=\"e6dd\">拆解过程中，克里斯托费尔发现，U 盘金属外壳两端的塑料部件使用了大量胶水固定。拆除这些部件后，首先可以取下显示屏并断开连接。接着，卸下 USB-C 端的盖板，就能将电路板抽出，不过这一步也造成了轻微的外观损伤。</p><p data-vmark=\"2362\">显示芯片上的型号标识已经被抹除，克里斯托费尔推测，这很可能是通过激光处理完成的。这种做法会增加芯片识别和硬件改装的难度。</p><p data-vmark=\"2aae\">好在，电路板上的调试焊盘让他顺利找到了突破口。他首次尝试连接探针、接地端和 3.3V 电源引脚，就成功建立了连接，并立即读取了芯片内存。</p><p data-vmark=\"ffa5\">读取过程中，芯片引导程序首先返回了一条带有 2023 年日期的版本信息，随后便是完整固件。这些信息为识别芯片提供了很大帮助。克里斯托费尔表示，这款芯片在市场上主要面向安全领域，例如指纹识别设备和门禁控制系统，但他没有发现这些相关功能在这款 U 盘上得到启用。</p><p data-vmark=\"6840\">他还发现了一个令人困惑的问题：根据芯片数据手册和原厂固件，其工作时钟频率应为 200MHz，但实际测量结果只有 40.2MHz。目前尚不清楚原因。</p><p data-vmark=\"602d\">不过，让《毁灭战士》在这款 U 盘上运行，还有一个更直接的问题：设备没有任何实体按键，玩家该如何操控游戏？</p><p data-vmark=\"01b6\">原因在于，显示芯片本身并没有 USB 接口。连接电脑后，它只能读取主存储控制器的工作状态，并通过这些信息判断数据传输速度。具体来说，主存储控制器提供了读写计数器，显示芯片每隔 50 毫秒就会通过 I2C 接口读取一次数据。</p><p data-vmark=\"d486\">克里斯托费尔表示，与其依赖单个实体按键来控制游戏，这种方式反而更容易实现。他此前改装充电宝时，就曾采用过实体按键控制方案。</p><p data-vmark=\"ac27\">最终，他编写了一个名为 <span class=\"link-text-start-with-http\">doomctl.py</span> 的电脑端脚本，将键盘按键转换成定时的小规模双向文件传输操作。具体而言，脚本将不同指令编码为数据传输速率，每个传输方向各有五个速度等级，再通过不同的读写组合对应游戏中的按键操作。</p><p data-vmark=\"9731\">控制方式也比较直观：方向键负责移动和转向，空格键或 Ctrl 键负责射击和开门，M 键则用于打开菜单。即使不运行这个脚本，用户也可以通过普通文件复制操作控制游戏，只是使用脚本后，操作体验会好得多。</p><p data-vmark=\"7635\">至于游戏性能，表现就不那么理想了：运行帧率只有约 13 FPS，基本谈不上流畅。不过，游戏逻辑仍然以《毁灭战士》原版的每秒 35 个逻辑周期运行。</p><p data-vmark=\"5feb\">克里斯托费尔认为，芯片时钟频率可能是提升性能的最大突破口。如果能将实际运行频率提高到数据手册标注的水平，游戏表现或许还有改善空间。</p><p data-vmark=\"39d0\">游戏本身基于阿图尔 · 别涅克（Artur Bieniek）开发的 DMC100-DOOM 移植版本，该项目专门针对资源极其有限的微控制器进行优化。由于芯片闪存容量有限，目前只能容纳游戏的第一关 E1M1。此外，这款 U 盘没有蜂鸣器，因此游戏也无法发出声音。</p><p data-vmark=\"affd\">尽管存在这些限制，克里斯托费尔还是完整玩通了这一关，只是游戏画面分辨率相当低。</p><p data-vmark=\"22d9\">整个项目的逆向工程和游戏移植工作都大量借助了 AI 完成。克里斯托费尔坦言：“如果没有 AI，我不可能在短短几个小时内完成这样的工作。”</p><p data-vmark=\"780a\">目前，这个开源项目已经公开了源代码和预编译固件，预计会吸引更多硬件爱好者关注，甚至催生类似的改装项目。整个改装过程所需工具并不复杂，主要是一套调试探针。不过，克里斯托费尔也提醒其他爱好者，动手之前最好先备份设备原有固件。</p><p data-vmark=\"1e9f\">至于他自己的这只 U 盘，在完成改装后已经重新装配，可以像普通 U 盘一样正常使用。当然，如果想怀旧一下，它依然能够运行《毁灭战士》。</p>",
+      "link": "https://www.ithome.com/1/027/917.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/917.htm"
+    },
+    {
+      "id": 5489,
+      "title": "横跨 1971 至 2024 年，爱好者收集 357 款 CPU 核心高清照片",
+      "summary": "IT之家 11 月 16 日消息，一位 CPU 爱好者整理了一份处理器数据库，收录了 357 款经典及相对冷门处理器的高清核心照片（Die Shot），画面清晰，细节丰富。 访问 sheets.works/data-viz/cpu-dies，用户可以浏览一个支持排序、搜索和筛选的处理器核心照片图库。其中的照片均由摄影爱好者免费分享，贡献者包括保利 · 劳塔科尔皮（Pauli Rautakorpi）、ZeptoBars、约翰 · 麦克马斯特（John McMaster）以及弗里",
+      "content": "<p data-vmark=\"8718\">IT之家 11 月 16 日消息，一位 CPU 爱好者整理了一份处理器数据库，收录了 357 款经典及相对冷门处理器的高清核心照片（Die Shot），画面清晰，细节丰富。</p><p style=\"text-align: center;\" data-vmark=\"cf71\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/91a6b5d5-5422-4135-a77d-96222fc322e9.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"422\" data-weibo=\"0\" data-vmark=\"f8a4\" class=\"no-alt-img\"></p><p data-vmark=\"9d8c\">访问 <a href=\"https://sheets.works/data-viz/cpu-dies?utm_source=chatgpt.com\"><span class=\"link-text-start-with-http\">sheets.works/data-viz/cpu-dies</span></a>，用户可以浏览一个支持排序、搜索和筛选的处理器核心照片图库。其中的照片均由摄影爱好者免费分享，贡献者包括保利 · 劳塔科尔皮（Pauli Rautakorpi）、ZeptoBars、约翰 · 麦克马斯特（John McMaster）以及弗里琴斯 · 弗里茨（Fritzchens Fritz）。用户可以从中挑选自己喜欢的处理器，仔细观察芯片内部的设计细节，重温计算机技术发展的历程。</p><p style=\"text-align: center;\" data-vmark=\"20cb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ecf61865-506a-4e1f-b798-b70f7b39ceb1.jpg\" w=\"1200\" h=\"978\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"1867\"></p><p data-vmark=\"041e\">虽然这份图库的整理者并未亲自贡献核心照片，但将这些宏观摄影和显微摄影作品汇集在一起，已经是一项相当出色的工作。图库开头有一段简短介绍，向免费分享照片的摄影师致谢，随后便是收录了 357 张照片的完整作品集。</p><p data-vmark=\"aedc\">IT之家注意到，默认情况下，图库采用图片墙形式展示照片，并按照芯片问世时间从早到晚排序。此外，用户还可以切换到真实尺寸视图（True Scale），直观了解不同处理器核心的实际大小。</p><p data-vmark=\"bc70\">图库还提供表格视图，可以快速查看处理器制造商、推出年份、核心尺寸以及照片授权信息。不过，这种视图会将照片缩小为尺寸有限的缩略图，视觉效果不如图片墙模式直观。</p><p data-vmark=\"5626\">图库内置了搜索功能，查找特定处理器也十分方便。例如，输入搜索条件后，可以只显示英特尔 486 系列处理器。值得一提的是，这份图库共收录了 17 款 486 处理器，样本来自 AMD、Cyrix、IBM、德州仪器（TI）、UMC、VLSI，当然也包括英特尔。</p><p data-vmark=\"5839\">点击任意一张缩略图，即可进入大图页面，查看芯片设计说明以及摄影师的相关信息和署名。虽然点击后图片会明显放大，但如果想完整欣赏核心照片的细节，还需要右键点击图片，选择在新标签页中打开，才能获得更好的观看效果。</p><p style=\"text-align: center;\" data-vmark=\"4c93\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/76f53d6b-ac30-4c7f-bc32-a8e35cf85af9.jpg\" w=\"1200\" h=\"919\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"a226\"></p><p style=\"text-align: center;\" data-vmark=\"0a64\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/edf76562-495a-43ee-9908-0701f1153328.jpg\" w=\"1200\" h=\"896\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-vmark=\"f917\"></p><p data-vmark=\"f105\">如果这份数据库能够持续更新，及时收录各位贡献者新分享的核心照片，将会更有价值。此外，图库还可以进一步完善处理器信息，例如补充目前并未完整收录的芯片核心面积等数据。如果能增加晶体管数量等可搜索、可排序的字段，实用性也会进一步提升。</p>",
+      "link": "https://www.ithome.com/1/027/912.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/912.htm"
+    },
+    {
+      "id": 5490,
+      "title": "银昕推出 AIO 液冷 Hailstone 420：搭载工业级 14034 LCP 风扇，支持 450W TDP",
+      "summary": "IT之家 11 月 16 日消息，SilverStone（银欣 / 银昕）现已在其官网上线一体式液冷散热器 Hailstone 420。这一型号搭载 3 颗工业级 14034 规格大尺寸加厚风扇，配备 LCP 扇叶、双滚珠轴承，设计解热能力达到 450W。 Hailstone 420 拥有超大面积铜底，支持 sTR5 / SP6 / TR4 平台的 AMD 锐龙 Threadripper 工作站处理器，同时也兼容英特尔 Socket V / H、AMD Socket AM5 ",
+      "content": "<p data-vmark=\"6865\">IT之家 11 月 16 日消息，SilverStone（银欣 / 银昕）现已在其官网上线一体式液冷散热器 Hailstone 420。这一型号搭载 3 颗工业级 14034 规格大尺寸加厚风扇，配备 LCP 扇叶、双滚珠轴承，<strong>设计解热能力达到 450W</strong>。</p><p data-vmark=\"4e06\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3918019f-4322-40ca-b033-efd39499d25a.jpg\" w=\"560\" h=\"280\" data-weibo=\"0\" class=\"nowebp no-alt-img\"  data-vmark=\"a7f7\"></p><p data-vmark=\"6256\">Hailstone 420 拥有超大面积铜底，支持 sTR5 / SP6 / TR4 平台的 AMD 锐龙 Threadripper 工作站处理器，同时也兼容英特尔 Socket V / H、AMD Socket AM5 / AM4 这些 MSDT 级平台。</p><p data-vmark=\"77e7\">其水泵采用铜底铝身的材质组合，配备新一代三相六极马达，转速可达 3,200 RPM；搭配 460mm 橡胶水管；铝制冷排厚度 28mm；吹排风扇单体风量可达 123.8 CFM、静压可达 7.66 mmAq，噪声 38.8 dB(A)。</p><p data-vmark=\"bc32\">此外，Hailstone 420 还<strong>可在冷头顶部堆叠安装 IMF70 风扇</strong>，改善主板上 VRM 等组件的散热。</p>",
+      "link": "https://www.ithome.com/1/027/907.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/907.htm"
+    },
+    {
+      "id": 5491,
+      "title": "EPOMAKER 推出 Bamboo75 三模机械键盘：竹质机身 + 竹纹键帽",
+      "summary": "IT之家 11 月 16 日消息，EPOMAKER 上周公布了三模机械键盘 Bamboo75。该系列的每件产品都拥有纹理独一无二的手工抛光竹材机身，搭配原厂 (CHERRY) 高度的 PBT + ABS 混合注塑染料热升华工艺竹纹侧透键帽。 Bamboo75 键盘采用 75% 配列，内部为 Tray-Mount 结构，搭配单键开槽 PCB、横向开槽 PC 定位板、5 层阻尼填充，内置南向单键 RGB 背光，支持轴体热插拔，原装搭载大理石音云玉轴。 其在 USB-C 和 2.4",
+      "content": "<p data-vmark=\"e7a3\">IT之家 11 月 16 日消息，EPOMAKER 上周公布了三模机械键盘 Bamboo75。该系列的<strong>每件产品都拥有纹理独一无二的手工抛光竹材机身</strong>，搭配原厂 (CHERRY) 高度的 PBT + ABS 混合注塑染料热升华工艺<strong>竹纹侧透键帽</strong>。</p><p data-vmark=\"1a29\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/37b52fa6-4679-4ee7-88c2-42527c786c9b.jpg\" w=\"1440\" h=\"864\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"f77e\"></p><p data-vmark=\"79f2\">Bamboo75 键盘采用 75% 配列，内部为 Tray-Mount 结构，搭配单键开槽 PCB、横向开槽 PC 定位板、5 层阻尼填充，内置南向单键 RGB 背光，支持轴体热插拔，原装搭载大理石音云玉轴。</p><p data-vmark=\"6568\">其在 USB-C 和 2.4GHz 模式下支持 1kHz 回报率，三模延迟分别为 3ms / 8ms / 15ms；内置 2 块 4000mAh 电池。</p><p data-vmark=\"e89c\">IT之家了解到，EPOMAKER Bamboo75 键盘可选深浅两种颜色版本，<strong>价格均为 109.99 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 734.6 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/027/862.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/862.htm"
+    },
+    {
+      "id": 5492,
+      "title": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底",
+      "summary": "苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。 京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦： 京东 Apple Watch Series 1246mm 教育优惠版券后 2379 元领 300 元券 Apple Watch Series 12 搭载全新健康感测系统和 S11 芯片，采用更大面积的光学心率传感器，可实现全天每 ",
+      "content": "<p data-vmark=\"2ea8\">苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。</p><p data-vmark=\"4492\">京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/or0cMoH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/or0khZN\" data-iosurl=\"https://u.jd.com/oO0cjhk\" data-androidurl=\"https://u.jd.com/oG07Yni\" data-hosnexturl=\"https://u.jd.com/oO0cenR\" data-hosurl=\"https://u.jd.com/og09Hy0\" data-uwpurl=\"https://u.jd.com/o60ZX7T\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252foa09hzh%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/or0xDnU\" data-lpwxurl=\"https://u.jd.com/o10A5G3\"  data-ncid=\"273194\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526448/24/177/34934/6aa1cc57Fcc6d45b4/00832ee2ee600fb3.png\" w=\"750\" h=\"750\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> Apple Watch Series 12</span></span><span class=\"card-abstract\">46mm 教育优惠版</span><span class=\"card-controls\"><span class=\"price\">券后 2379 元</span><span class=\"card-btn-deep\">领 300 元券</span></span></span></span></a></dir><p data-vmark=\"b4ba\">Apple Watch Series 12 搭载全新健康感测系统和 S11 芯片，采用更大面积的光学心率传感器，可实现全天每 5 秒一次的心率测量，其心率变异性（HRV）的测量频率较上一代提升最高 24 倍。</p><p data-vmark=\"042f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c8a8c1b6-372a-4440-a0da-d8def00d59a4.jpg\" w=\"750\" h=\"759\" data-weibo=\"0\"  data-vmark=\"049d\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"4dba\">基于新的健康感测数据，Series 12 引入了“准备状态”评分功能，通过分析近期活动量、训练负荷、生命体征和睡眠评分，以 0 至 10 分的数值呈现用户的身体恢复状态，并提供“需要恢复”“适度调整”“准备就绪”等建议。</p>",
+      "link": "https://www.ithome.com/1/027/857.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/857.htm"
+    },
+    {
+      "id": 5493,
+      "title": "鸿蒙智行问界新 M8 上市 72 小时大定突破 1.1 万台，售价 37.98 万元起",
+      "summary": "IT之家 11 月 16 日消息，鸿蒙智行问界新 M8 旗舰 SUV 已于 11 月 13 日正式上市，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，定价 37.98 万元起。 据多位博主分享，鸿蒙智行问界新 M8 上市 72 小时，大定已突破 11,000 台。 参考IT之家此前报道，鸿蒙智行问界新 M8 长宽高分别为 5190/1999/1795mm，轴距 3105mm，拥有更挺拔的鼻棱线、全新宽域侧进气帘、镀铬网状进气格栅",
+      "content": "<p data-vmark=\"16d4\">IT之家 11 月 16 日消息，<a href=\"https://www.ithome.com/1/026/799.htm\" target=\"_blank\">鸿蒙智行问界新 M8 旗舰 SUV 已于 11 月 13 日正式上市</a>，采用面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，<strong>定价 37.98 万元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fc5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/985e0f4b-17f8-45d5-863d-e465fc88c1e9.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"960\" data-vmark=\"278d\" data-mpos=\"0,2\" class=\"no-alt-img\"></p><p data-vmark=\"703e\">据多位博主分享，<strong>鸿蒙智行问界新 M8 上市 72 小时，大定已突破 11,000 台</strong>。</p><p style=\"text-align: center;\" data-vmark=\"060e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b3b61aa8-fadf-457a-b503-6781329b2d78.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"1227\" data-mpos=\"0,2\" data-weibo=\"1\"  data-vmark=\"9e71\" class=\"no-alt-img\"></p><p data-vmark=\"936f\">参考IT之家此前报道，鸿蒙智行问界新 M8 长宽高分别为 5190/1999/1795mm，轴距 3105mm，拥有更挺拔的鼻棱线、全新宽域侧进气帘、镀铬网状进气格栅，风阻系数 0.254；拥有全新天地万象车色 + 全新豪华轮毂 + 鲲鹏设计，六座版型可选三零重力座椅。</p><p data-vmark=\"a87e\">新车搭载华为悦彰音响系统，包含 25 单元 2080W 功放，支持 7.1.4 环绕声场；升级前排双零重力座椅，120° 真零压角、16 向电动调节；标配华为乾崑智驾 ADS 5，拥有新一代全向立体融合感知系统，并采用面向未来的 L3 架构设计，具备全链路八大冗余。</p><p style=\"text-align: center;\" data-vmark=\"75a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2d369330-a749-4795-bf94-c7ce79dc2454.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1080\" data-vmark=\"60ea\" data-mpos=\"2,2\" class=\"no-alt-img\"></p><p data-vmark=\"5591\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f690\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/026/799.htm\">鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/027/855.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/855.htm"
+    },
+    {
+      "id": 5494,
+      "title": "消息称 LG 电子评估 5K / 6K 高分辨率 IJP OLED 显示器，瞄准 2028~2029 年推出",
+      "summary": "IT之家 11 月 16 日消息，韩媒 ZDNET Korea 当地时间今日报道称，出席 TCL 华星 DTC2026 全球显示生态大会的 LG 电子方面人士表示，正就在 2028~2029 年推出的 5K/6K 高分辨率 OLED 显示器中应用 IJP（喷墨打印）技术进行评估。 IT之家注意到，目前仅发布了一款基于 TCL 华星 IJP OLED 技术的一般 IT 显示器产品，即微星的 PRO MAX OLED 271UPJW12，且该型号仍未上市。 而根据 TCL 华星官",
+      "content": "<p data-vmark=\"439c\">IT之家 11 月 16 日消息，韩媒 ZDNET Korea 当地时间今日报道称，出席 TCL 华星 DTC2026 全球显示生态大会的 LG 电子方面人士表示，<strong>正就在 2028~2029 年推出的 5K/6K 高分辨率 OLED 显示器中应用 IJP（喷墨打印）技术进行评估</strong>。</p><p data-vmark=\"4ddf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5e1ed4ff-c1ca-4028-8287-5d8fa0ab32ae.jpg\" w=\"1280\" h=\"853\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"0896\"></p><p data-vmark=\"3965\">IT之家注意到，目前仅发布了一款基于 TCL 华星 IJP OLED 技术的一般 IT 显示器产品，即微星的 PRO MAX OLED 271UPJW12，且该型号仍未上市。</p><p data-vmark=\"1a4a\">而根据 TCL 华星官方消息，<strong>该企业在本次活动上展示了 27\" QHD 500Hz 的高刷新率 IJP OLED</strong>。这一型号支持后台实时无感补偿，兼顾高速动态表现与画质均一性。</p><p data-vmark=\"6574\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"ea08\"><a href=\"https://zdnet.co.kr/view/?no=20261116161009\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://zdnet.co.kr/view/?no=20261116161009</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/027/853.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/853.htm"
+    },
+    {
+      "id": 5495,
+      "title": "华为 MateBook Fold S 鸿蒙小折叠电脑官宣 11 月 24 日发布，至高 32GB/1TB 规格",
+      "summary": "IT之家 11 月 16 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于 11 月 14 日开启预订。 华为官方今日宣布，MateBook Fold S 鸿蒙小折叠电脑将在 2026 年 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会上亮相。 据IT之家此前报道，华为首款鸿蒙小折叠电脑 MateBook Fold S 已现身官网，并公开了部分信息。该机折叠态 10.2 英寸、展开态 14.7 英寸，会在 11 月",
+      "content": "<p data-vmark=\"da89\">IT之家 11 月 16 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于 11 月 14 日开启预订。</p><p style=\"text-align: center;\" data-vmark=\"8524\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/22a1b183-b834-46bf-a880-39ad2c5c2c4d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"720\" data-vmark=\"1560\" data-mpos=\"0,0\" class=\"no-alt-img\"></p><p data-vmark=\"00b8\">华为官方今日宣布，MateBook Fold S 鸿蒙小折叠电脑将在 2026 年 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会上亮相。</p><p style=\"text-align: center;\" data-vmark=\"574f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5648cad0-b85d-40c1-aeec-cbbe9833eef5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2159\" data-mpos=\"0,2\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d195479dc851be3c0c317a34aeeb7e616f67765c12f0be3b0915c81f83de2aab3ff702f943cbe826fe\" data-vmark=\"09f0\" class=\"no-alt-img\"></p><p data-vmark=\"9293\">据IT之家此前报道，华为首款鸿蒙小折叠电脑 MateBook Fold S 已现身官网，并公开了部分信息。该机折叠态 10.2 英寸、展开态 14.7 英寸，会在 11 月 24 日 17:00~11 月 25 日 17:00 支付尾款，支持 12 期 0 分期利息购买。</p><h3 data-vmark=\"9d11\">颜色</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"5da1\">幻夜黑</p></li><li><p data-vmark=\"659b\">天际白</p></li><li><p data-vmark=\"390b\">云海蓝</p></li></ul><h3 data-vmark=\"f53b\">配置</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"c62a\">16GB/256GB（含键盘 + 内胆包）</p></li><li><p data-vmark=\"345c\">16GB/512GB（含键盘 + 内胆包）</p></li><li><p data-vmark=\"3071\">24GB/512GB（含键盘 + 内胆包）</p></li><li><p data-vmark=\"5408\">32GB/1TB（含键盘 + 手写笔 + 内胆包）</p></li></ul><p style=\"text-align: center;\" data-vmark=\"3b3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f40c1715-5ea5-4b4b-aa8f-a53ded07707b.jpg?x-bce-process=image/format,f_auto\" w=\"1374\" h=\"1159\" data-vmark=\"8f43\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"a882\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5193\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/027/816.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/816.htm"
+    },
+    {
+      "id": 5496,
+      "title": "SUNEAST 推出 UHS-II SD 卡，顺序读写分别可达 280MB/s 和 270MB/s",
+      "summary": "IT之家 11 月 16 日消息，日本存储与配件制造商旭东 (SUNEAST) 当地时间今日公布了其存储卡新品 ULTIMATE PRO SDXC UHS-II V90 Card BLACK。该系列产品基于 TLC NAND 闪存，可选 128GB / 256GB / 512GB 容量。 ULTIMATE PRO SDXC UHS-II V90 Card BLACK 全系列最大顺序读取速率可达 280MB/s，128GB 版本最大顺序写入速率可达 170MB/s、256GB ",
+      "content": "<p data-vmark=\"1dc2\">IT之家 11 月 16 日消息，日本存储与配件制造商旭东 (SUNEAST) 当地时间今日公布了其存储卡新品 ULTIMATE PRO SDXC UHS-II V90 Card BLACK。该系列产品<strong>基于 TLC NAND 闪存</strong>，可选 128GB / 256GB / 512GB 容量。</p><p data-vmark=\"eabe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/35fa84df-54d0-4987-98bb-c7613cf7d06e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"0d01\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"b5ca\">ULTIMATE PRO SDXC UHS-II V90 Card BLACK 全系列最大顺序读取速率可达 280MB/s，128GB 版本最大顺序写入速率可达 170MB/s、256GB 和 512GB 最大顺序写入速率可达 270MB/s，<strong>获得 V90、U3、A1 速度等级认证</strong>。</p><p data-vmark=\"9be8\">其兼容 UHS-I SDR104 模式；工作温度范围达 -25~+85℃，<strong>享受 5 年质保</strong>；卡面正面底部为可书写的空白标签区域。</p><p data-vmark=\"4231\">IT之家了解到，SUNEAST ULTIMATE PRO SDXC UHS-II V90 Card BLACK 存储卡各版本含税定价分别为 2.98 万 / 4.78 万 / 8.78 万日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,245 / 1,997 / 3,667 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/027/814.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/814.htm"
+    },
+    {
+      "id": 5497,
+      "title": "联想杨元庆提出“私域数据飞轮”：AI 产业竞争将从比模型参数转向比混合式 AI 落地能力",
+      "summary": "IT之家 11 月 16 日消息，以“拾光同行，科技向新”为主题的 2026 联想创投 CEO 年会于 11 月 15 日至 16 日在浙江杭州举行。 联想集团董事长兼 CEO 杨元庆在大会上发表题为《以混合式 AI 加速转型，共创 AI 普惠未来》的主旨演讲，阐释联想集团对 AI 产业趋势的最新判断，以及联想混合式 AI 战略的落地进展。 杨元庆在演讲中指出，AI 正从生成迈入执行，智能体正在成为价值核心。他表示，AI 的成功不只是看卖了多少设备、建了多少基础设施，更要看智",
+      "content": "<p data-vmark=\"85b5\">IT之家 11 月 16 日消息，以“拾光同行，科技向新”为主题的 2026 联想创投 CEO 年会于 11 月 15 日至 16 日在浙江杭州举行。</p><p data-vmark=\"e0bb\">联想集团董事长兼 CEO 杨元庆在大会上发表题为《以混合式 AI 加速转型，共创 AI 普惠未来》的主旨演讲，阐释联想集团对 AI 产业趋势的最新判断，<strong>以及联想混合式 AI 战略的落地进展</strong>。</p><p data-vmark=\"328d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8f1549ae-711c-4d39-988b-7c8f3da0d28e.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"451\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"81a5\"></p><p data-vmark=\"16b4\">杨元庆在演讲中指出，AI 正从生成迈入执行，智能体正在成为价值核心。他表示，AI 的成功不只是看卖了多少设备、建了多少基础设施，<strong>更要看智能体有没有被用起来，有没有持续创造价值</strong>。对个人来说，成功的智能体要真正懂你，最终成为你的 AI 双胞胎；对企业来说，成功的智能体要能跨越数据领域、打破应用孤岛，让人和智能体并肩工作。而智能体理解得有多深，取决于数据有多丰富，记忆有多深多久。</p><p data-vmark=\"4c86\">他提出了“<strong>私域数据飞轮</strong>”，即个人设备和企业业务产生数据，数据训练智能体；智能体越懂用户和企业，用户和企业就越愿意用，从而产生更多数据。公共数据人人都有，模型会越来越趋同。真正拉开差距的，是通过个人智能和企业智能，释放用户独有的私域数据潜能。</p><p data-vmark=\"b705\">杨元庆判断，AI 产业的竞争将从比拼模型参数转向比拼混合式 AI 的落地能力。<strong>“AI 的下一战，不仅靠模型，更靠数据，靠混合式 AI。”</strong>他强调，企业在各类应用中积累的数据归用户自己所有，不属于应用软件或 SaaS 服务提供商。</p><p data-vmark=\"cf58\">在个人智能领域，联想推进“一体多端”战略。今年第三季度，联想 AI PC 全球市场份额达 25%，继续位居第一。在中国市场，AI PC 占联想笔记本销量超 50%，截至目前累计销量突破 700 万台。联想持续拓展 AI 主机、AI 眼镜等终端，<strong>42 款 AI 终端通过首批 L3 级测试，数量居行业首位</strong>；天禧个人超级智能体已升级至 4.5，从被动调用走向自主执行。</p><p data-vmark=\"5c8f\">在企业智能领域，联想持续加强“端-边-云”混合式 AI 基础设施，加快布局 AI 推理计算和边缘计算。杨元庆认为，<strong>未来 70% 至 80% 的 Token 将产生在边侧或端侧，20% 至 30% 在云上</strong>。</p><p data-vmark=\"872b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ee161a94-8e5e-4a58-901b-62dbbbf9b7a6.jpg\" w=\"1080\" h=\"607\" alt=\"图片\" data-weibo=\"1\" class=\"nowebp\" data-vmark=\"a9fb\"></p><p data-vmark=\"efe7\">IT之家注意到，今年是联想创投成立 10 周年。杨元庆表示，<strong>十年来联想创投已投资超过 350 家优秀科技企业，其中 27 家实现 IPO</strong>。目前有 70 多家被投企业围绕联想混合式 AI 架构开展业务合作，覆盖算力基础设施、模型和应用等多个层面。最近一年，联想集团与被投企业的生态协同金额就超过 100 亿人民币。</p>",
+      "link": "https://www.ithome.com/1/027/813.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/813.htm"
+    },
+    {
+      "id": 5498,
+      "title": "网易《哈利波特：魔法觉醒》手游后续安排公布，S23 时光赛季结束时间延至明年 3 月 3 日",
+      "summary": "IT之家 11 月 16 日消息，网易旗下《哈利波特：魔法觉醒》手游今日发布停止运营公告，由于授权协议即将到期，2027 年 3 月 3 日起，本作将正式停止运营。 IT之家注意到，游戏官方刚刚发布了后续安排总览，宣布： 【停运相关时间安排】 1. 2026 年 12 月 21 日，停止游戏充值，停止新用户注册，全平台下架； 2. 2027 年 3 月 3 日，正式停止游戏运营，关闭游戏服务器，并停止角色交易等相关服务。 * 如有调整，或任何关于停服的补充细节，均以后续网易官",
+      "content": "<p data-vmark=\"1689\">IT之家 11 月 16 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/1/027/738.htm\">网易旗下《哈利波特：魔法觉醒》手游今日发布停止运营公告</a>，由于授权协议即将到期，<strong>2027 年 3 月 3 日起，本作将正式停止运营</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8e39\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6915a064-5a70-4277-ad7b-de1da1214cba.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1766\" data-weibo=\"0\" data-vmark=\"e966\" class=\"no-alt-img\"></p><p data-vmark=\"cf57\">IT之家注意到，游戏官方刚刚发布了后续安排总览，宣布：</p><blockquote><h3 data-vmark=\"d2c9\">【停运相关时间安排】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"896a\">1. 2026 年 12 月 21 日，停止游戏充值，停止新用户注册，全平台下架；</p></li><li><p data-vmark=\"e762\">2. 2027 年 3 月 3 日，正式停止游戏运营，关闭游戏服务器，并停止角色交易等相关服务。</p></li><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"187c\">* 如有调整，或任何关于停服的补充细节，均以后续网易官方渠道发布的正式公告为准。</p></li></ul></ul><h3 data-vmark=\"b902\">【后续赛季内容安排】</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"b9ba\">S23 时光赛季「拾光纪事」结束时间延后至 2027 年 3 月 3 日。详细赛季内容安排请在长图中查看。</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"ea50\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/50da2451-cd45-4c8a-bff2-0cd5b37604df.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"4950\" data-weibo=\"1\" data-vmark=\"53fb\" class=\"no-alt-img\"></p><p data-vmark=\"4722\">公开资料显示，《哈利波特：魔法觉醒》手游国服于 2021 年 9 月开启公测，采用复古的手绘风格，重现霍格沃茨、对角巷等各个场景。据 SensorTower 数据，本作自 2021 年 9 月 9 日在亚洲部分地区推出以来，不到两个月收入已经超过 2 亿美元，在同类 IP 中，收入仅次于《哈利波特：霍格沃茨之谜》。</p><p style=\"text-align: center;\" data-vmark=\"9e98\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1f3a0ec5-9ab6-4846-a656-fd189d822586.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1080\" data-vmark=\"37b3\" class=\"no-alt-img\"></p><p data-vmark=\"ce0e\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"cf96\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/027/738.htm\">网易〈哈利波特：魔法觉醒〉手游宣布明年 3 月停止运营</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/027/807.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/807.htm"
+    },
+    {
+      "id": 5499,
+      "title": "微软高管解释 Microsoft 365 服务为何全球宕机：三重故障引发连锁反应，击垮 80% 服务器",
+      "summary": "IT之家 11 月 16 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，导致 Outlook、Exchange Online、Teams、SharePoint 等在全世界范围宕机，数百万名用户超 12 小时无法访问电子邮件。 今天微软发布了此次事故的初步报告。据初步判断，此次故障根本原因在于一个 7 月的软件缺陷，然后和另外两个基础设施问题共同发作，引发连锁故障，一度导致微软 80% 网络服务器失去响应。 如今，微软",
+      "content": "<p data-vmark=\"db98\">IT之家 11 月 16 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，导致 Outlook、Exchange Online、Teams、SharePoint 等在全世界范围宕机，数百万名用户超 12 小时无法访问电子邮件。</p><p style=\"text-align: center;\" data-vmark=\"77d6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b485d785-2969-4e7e-8f8d-7bbef9d54639.png\" w=\"1280\" h=\"720\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"2295\"></p><p data-vmark=\"267d\">今天微软发布了此次事故的初步报告。据初步判断，<strong>此次故障根本原因在于一个 7 月的软件缺陷</strong>，<strong>然后和另外两个基础设施问题共同发作</strong>，引发连锁故障，一度导致微软 80% 网络服务器失去响应。</p><p data-vmark=\"c3f5\">如今，微软高管查尔斯 · 拉曼纳（Charles Lamanna）在 X 平台分享了故障原因的详细说明，IT之家附核心内容如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3d88\">今年 7 月，微软在修复 Microsoft 365 网络网关问题时弄出了一个软件缺陷。该漏洞导致服务器进程出现锁竞争（Lock Contention），无法响应特定工作负载。但包含缺陷的软件通过了微软常规测试，并在数周内部署至全球各地，期间没有出现任何问题。</p></li><li><p data-vmark=\"0b98\">微软发现，当时的测试没有发现软件缺陷，是因为测试环境主要使用型号较旧、性能较弱的 CPU 和硬件，然而在核心数更多的新型服务器上，这一漏洞更容易触发。</p></li><li><p data-vmark=\"866a\">在此次大规模故障发生前几个小时，微软将 Teams 流量从备用网络网关转移到主网络网关。该网关同时负责处理 Exchange Online 流量，此次调整是为了确保 Teams 能够正常运行。虽然这是微软基础设施的常规故障切换操作，但此举增加了 Exchange Online 主网络网关负载，并改变其流量分布。</p></li><li><p data-vmark=\"f9f0\">由于前一天发生的另一起无关问题，网络网关约 14% 的服务器容量已经无法使用。此时剩余的 86% 容量仍足以应对正常工作负载。</p></li><li><p data-vmark=\"8549\">当上述三个问题同时触发时，服务中断正式发生。增加的 Teams 流量与减少的服务器容量，共同触发了此前一直没有发现的软件漏洞。</p></li><li><p data-vmark=\"d786\">当服务器无响应时，微软的基础设施会自动将流量转发至运行正常的服务器上。但这种机制反而让情况进一步恶化。服务器接收到大量转发流量后负载增加，这时候又触发了同一个软件漏洞，导致越来越多的服务器如连锁反应般倒下。不到两小时，故障就蔓延至微软 80% 网络网关服务器。</p></li><li><p data-vmark=\"2bbd\">通常情况下，微软会通过独立容量分区和区域来限制此类故障的影响范围。然而另一个问题导致这些保护机制未能阻止连锁故障，最终使其蔓延至全球。</p></li></ul><p data-vmark=\"0f34\">微软计划本周晚些时候发布详细报告，届时将公布更多技术细节。</p>",
+      "link": "https://www.ithome.com/1/027/801.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/801.htm"
+    },
+    {
+      "id": 5500,
+      "title": "TrendForce 预测：2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%",
+      "summary": "IT之家 11 月 16 日消息，TrendForce（集邦）今日发布 2026Q3 全球电视出货数据并对后续市场进行预测，认为 2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%。 机构指出，电视市场短期内将持续受到来自存储器、显示面板和其它上游零部件的成本压力。终端需求疲弱将成为一种“新常态”。 根据其提供的数据，全球电视出货量在 2026Q3 达到 4,794 万台，环比回升 2.8%、同比下滑 3.6%；预计 2026Q4 出货量环比再度增长 8",
+      "content": "<p data-vmark=\"7bae\">IT之家 11 月 16 日消息，TrendForce（集邦）今日发布 2026Q3 全球电视出货数据并对后续市场进行预测，<strong>认为 2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%</strong>。</p><p data-vmark=\"4f17\">机构指出，电视市场<strong>短期内将持续受到来自存储器、显示面板和其它上游零部件的成本压力</strong>。终端需求疲弱将成为一种“新常态”。</p><p data-vmark=\"b5d5\">根据其提供的数据，全球电视出货量在 2026Q3 达到 4,794 万台，环比回升 2.8%、同比下滑 3.6%；预计 2026Q4 出货量环比再度增长 8.0%、同比跌幅扩大至 4.0%。</p><p data-vmark=\"dd03\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9ec8e799-c02c-4907-9244-56e337a419f4.jpg\" w=\"1080\" h=\"560\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"abc3\"></p><figcaption>▲ 图源：TrendForce</figcaption><p data-vmark=\"cc2b\">LG 电子、小米、TCL 在第三季度表现良好，三星、海信的出货减少也相对有限，<strong>五大品牌之外的电视企业则面临更大压力</strong>；而从技术角度，<strong>高端市场的</strong><strong>后一般 Mini LED 时代已然到来</strong>，RGB Mini LED 与 Micro RGB 产品今年有望出货 200 万台。</p><p data-vmark=\"3e83\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"4a7f\"><a href=\"https://www.trendforce.cn/presscenter/news/20261116-13305.html\" target=\"_blank\">TrendForce 集邦咨询：3Q26 全球电视出货年减 3.6%，品牌布局 Mini LED、RGB Mini LED 等高端市场</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/027/794.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/794.htm"
+    },
+    {
+      "id": 5501,
+      "title": "轻信短视频“英伟达 RTX 5080 显卡降价近万元”虚假消息，杭州一居民被骗 1.58 万元",
+      "summary": "IT之家 11 月 16 日消息，据“平安西湖”公众号消息，杭州西湖区居民小杨（化名）近日因轻信短视频中的低价显卡信息，遭遇电信网络诈骗，损失 1.58 万元。 IT之家参考通报获悉，11 月 5 日，小杨在家中刷手机时看到一条视频，称有显卡降价出售。小杨私聊对方商定款式和价格后，对方发来一个网店地址。 小杨发现网店标价与双方商定价格差距较大，提出质疑。对方称可以改价，随后又以“平台有价格保护”为由，引导小杨到另一二手平台下单。小杨在该二手平台找到店铺并下单。 下单后，支付宝",
+      "content": "<p data-vmark=\"b12d\">IT之家 11 月 16 日消息，据“平安西湖”公众号消息，杭州西湖区居民小杨（化名）近日因轻信短视频中的低价显卡信息，遭遇电信网络诈骗，损失 1.58 万元。</p><p data-vmark=\"665d\">IT之家参考通报获悉，11 月 5 日，小杨在家中刷手机时看到一条视频，称有显卡降价出售。小杨私聊对方商定款式和价格后，对方发来一个网店地址。</p><p data-vmark=\"2d3d\">小杨发现网店标价与双方商定价格差距较大，提出质疑。<strong>对方称可以改价，随后又以“平台有价格保护”为由，引导小杨到另一二手平台下单。小杨在该二手平台找到店铺并下单</strong>。</p><p data-vmark=\"9ff0\">下单后，支付宝弹出风险测评提示，小杨按提示完成操作，随后发现订单已显示自动确认收货。小杨立即联系对方，对方让其联系“客服”，并提供一个二维码。</p><p data-vmark=\"cb45\">小杨扫码后与“客服”聊天，在对方诱导下开启屏幕共享软件，并按指引进行操作，还进入所谓“银行密码认证”环节。小杨在输入密码时察觉异常，但此时账户资金已被扣划。</p><p data-vmark=\"2712\">意识到被骗后，小杨立即到杭州公安蒋村派出所报案。<strong>经统计，小杨损失 1.58 万余元。目前，蒋村派出所已受理该案，相关调查工作正在进行</strong>。</p><p data-vmark=\"0d35\">警方提醒，电脑配件价格波动期间，更要警惕“低价出售”“内部货源”“改价交易”等话术。网络购物应通过正规平台进行，不要脱离平台私下交易，不要轻信对方发送的店铺链接、二维码；二手平台交易中，对“价格保护”“改价下单”等说法要通过平台官方渠道核实。切勿与陌生人开启屏幕共享，不要向陌生人提供银行卡密码、短信验证码、支付密码等信息。订单状态异常、对方要求“联系客服认证”的，应直接通过平台官方客服核实。如遇可疑情况，可拨打 96110 咨询；一旦发现被骗，立即拨打 110 或到附近派出所报案，并保存聊天记录、转账凭证、对方账号等证据。</p>",
+      "link": "https://www.ithome.com/1/027/778.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/778.htm"
+    },
+    {
+      "id": 5502,
+      "title": "鸿蒙智行享界 V8 旗舰 MPV 连发 100 张预热海报，新车 11 月 20 日发布",
+      "summary": "IT之家 11 月 16 日消息，鸿蒙智行享界汽车官方今日一口气发布享界 V8 旗舰 MPV 的 100 张海报，逐条释放了百个家用设计。根据规划，这款新车将在 11 月 20 日正式发布。 据介绍，享界 V8 拥有 674L 超大后备箱，宣称满载 7 人仍有宽敞储物空间；该车还采用黄金三线设计，主打车身线条流畅灵动；辅以 730mm 超大侧滑门开度，拥有宽敞出入空间，可轻松上下车。 新车全系标配华为智擎 800V 高压碳化硅平台，纯电、增程动力均支持高效补能；车内铺设五防隐",
+      "content": "<p data-vmark=\"3ff0\">IT之家 11 月 16 日消息，鸿蒙智行享界汽车官方今日一口气发布享界 V8 旗舰 MPV 的 100 张海报，逐条释放了百个家用设计。根据规划，<strong>这款新车将在 11 月 20 日正式发布</strong>。</p><p style=\"text-align: center;\" data-vmark=\"c193\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3b44132f-184c-41bb-941a-1c58b104300a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"76e2\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1919186b64a76234be6aacbf2825ab65d754a2c4698a349849c396c36f985712ea8afc90a338f6ec9\" class=\"no-alt-img\"></p><p data-vmark=\"1afb\">据介绍，<strong>享界 V8 拥有 674L 超大后备箱</strong>，宣称满载 7 人仍有宽敞储物空间；该车还采用黄金三线设计，主打车身线条流畅灵动；<strong>辅以 730mm 超大侧滑门开度</strong>，拥有宽敞出入空间，可轻松上下车。</p><p data-vmark=\"3c51\"><strong>新车全系标配华为智擎 800V 高压碳化硅平台</strong>，纯电、增程动力均支持高效补能；车内铺设五防隐藏式地轨，可减少零食碎屑、饮料泼洒带来的影响；<strong>全系标配后风挡安全气囊</strong>，为第三排增加安全防护。</p><p style=\"text-align: center;\" data-vmark=\"6096\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ab9273d8-a5ae-4d45-a115-e98a1df47c86.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"2623\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1dce1ca647cef02aa28467313516b8b8d408c6239ef276456e91b5a4f3947cfb457976d784e545f86\" class=\"no-alt-img\"></p><p data-vmark=\"244c\">鸿蒙智行享界 V8 <strong>三排座椅支持预碰撞主动回位</strong>，提前调整靠背姿态，可为第三排增添安全保障；同时配备整体式金属防撞背板，为第三排增添防护；<strong>拥有 859mm 大头部安全距离</strong>，为第三排预留更多空间。</p><p data-vmark=\"b218\">新车配备超厚目字截面铝合金后防撞梁，<strong>采用 3.18 倍国标后碰能量设计</strong>；搭载全新一代华为巨鲸电池平台，拥有 15 层防护保障电池安全；<strong>纯电版搭载 120kWh 大电池</strong>，CLTC 最高续航 830km。</p><p style=\"text-align: center;\" data-vmark=\"e44c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/42782978-68b0-45e3-83ce-20f1974e7a68.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"1009\" data-mpos=\"0,0\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d15f0d53fb4a25a6b701ab78928aa5082dfe1c74468bd57ab95884760089f6b5ca6b2489962afd5398\" class=\"no-alt-img\"></p><p data-vmark=\"87db\">另外，享界 V8 增程版最大 75.4kWh 电池，<strong>CLTC 综合续航 1465km</strong>；新车支持车辆对外放电，可为露营灯、户外烹饪设备提供电力；<strong>B 柱及后备箱有双 220V 电源接口</strong>，支持热水壶、咖啡机等电器接入。</p><p data-vmark=\"3ede\">车内配有 10.9L 独立压缩机冷暖箱，支持一箱两用，<strong>提供 6 种模式可实现冷热切换</strong>；新车的双腔空气悬架支持 80mm 高度调节；<strong>双阀连续可变阻尼减振器可过滤颠簸</strong>，减少车身晃动。</p><p style=\"text-align: center;\" data-vmark=\"8b5e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2c5a7a32-e69b-4207-acfa-0088ba6effb7.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"b18b\" data-mpos=\"0,2\" data-weibo=\"3\" data-marks=\"1931fd9d012eb6d1148dec72196daeca766dc7e8006763c104de00f7d768f35e035b29904329f82f5bb4e2be2cf7e011\" class=\"no-alt-img\"></p><p data-vmark=\"04f8\">新车最大涉水深度 510mm，<strong>具备 SUV 级涉水能力</strong>；100 余处空气动力学优化，支持 0.226Cd 低风阻特性，可减少高速风噪干扰；<strong>配备 11 块静音玻璃</strong>，可阻隔外界喧嚣。</p><p data-vmark=\"05b7\">鸿蒙智行享界 V8 还配备静音轮胎 + 双层隔音玻璃；<strong>12° 超大蟹行角度</strong>，支持低速斜向灵活挪车，适用于窄巷会车、侧方泊车；<strong>拥有行业量产超大单体贯穿灯</strong>，可搭配流光画卷灯语使用。</p><p style=\"text-align: center;\" data-vmark=\"13ec\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0df91f3f-4260-479f-800b-5860f633b4dc.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"538c\" data-mpos=\"2,2\" data-weibo=\"4\" data-marks=\"1931fd9d012eb6d174268f22c79c49f984e424ce24b31c6268ae247490bcce73710b49dc28e827e41154d3128e2271a4\" class=\"no-alt-img\"></p><p data-vmark=\"44c4\">新车拥有鸿蒙星环专属迎宾光效，<strong>车内还有四座零重力座椅</strong>，并支持无麦 K 歌 3.0；二三排拥有智能隐私光幕玻璃，当感应车外人员靠近自动调暗；<strong>内置开门预警系统实时监测侧后方风险</strong>，可通过语音与灯光提醒来车及障碍物。</p><p data-vmark=\"ad2b\">享界 V8 还支持一键寻娃功能 —— <strong>车机连接儿童手表，可一键导航至孩子所在位置</strong>。车内配有全新家居质感座舱，提供四种色彩可选；<strong>后备箱采用 630mm 低尾门槛设计</strong>，可降低搬运行李的负担，同时二排座椅还支持电动横移。</p><p style=\"text-align: center;\" data-vmark=\"6439\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/949d77e4-c52b-4c53-a0bf-427a77954e0f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"0414\" data-mpos=\"0,2\" data-weibo=\"5\" data-marks=\"1931fd9d012eb6d12f7cd4fb806457d85b59f7a185ee1d1bbac04318ed02b7735b5c5dbe6a2915af010bb7a1b357bd0a\" class=\"no-alt-img\"></p><p data-vmark=\"70b1\">此外，<strong>新车二排有 1352mm 车内净高，留足头顶活动空间，方便车内活动</strong>；可选 21.4 英寸华为云晰柔光屏，车内还支持“欢乐传声筒”功能，方便前后排沟通。享界官方还提到，<strong>V8 的二排座椅支持 45°、90°、180° 电动旋转</strong>，同时座椅选用儿童友好材料。</p><p data-vmark=\"5941\">鸿蒙智行享界 V8 <strong>全车有 4 个 ISOFIX 儿童座椅接口</strong>，方便安装多台儿童安全座椅；车内还有 190mm 中央通道，方便停车后走动穿梭；标配前排座椅背袋搭配小桌板。<strong>该车的三排座椅还支持 0°~180° 电动调节</strong>，可拓展全平空间。</p><p style=\"text-align: center;\" data-vmark=\"1b37\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fd12a474-028a-4ac7-9956-202c53e60ec4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-vmark=\"32ef\" data-mpos=\"2,0\" data-weibo=\"6\" data-marks=\"1931fd9d012eb6d1a6250fb1fcb4af0e2cbbcda4d551e3518bbf10ea8d2587443529e3d22d7e84e4ae50191c3739a95b\" class=\"no-alt-img\"></p><p data-vmark=\"9658\">新车还有 340mm 超长 B 柱扶手、380mm 超低地台高度，方便上下和入座；<strong>支持底盘协同控制防晕</strong>，可舒缓行车颠簸与晃动；一二排配置石墨烯加热座椅，支持均匀送暖。</p><p data-vmark=\"d417\">享界 V8 还全系标配二排电动招财猫扶手，<strong>支持电动上翻与自动找平</strong>；配备双层流空调，上层新风除雾，下层回风制暖；拥有 3250mm 轴距，<strong>并采用 1:1:1 空间分割比</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9e14\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/85622e91-47fb-4492-8560-096196bdfed3.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"aafa\" data-mpos=\"2,2\" data-weibo=\"7\" data-marks=\"1931fd9d012eb6d1297858970e0753fba45346861412e1c9185252246f1bd42398eab5b60d2da48a0e7dc5e39d0e10eb\" class=\"no-alt-img\"></p><p data-vmark=\"adef\">新车还搭载了水离子空调，<strong>宣称抑菌率 99%、花粉过滤效率达 98%</strong>；内置驻车小憩模式，支持一键开启；内置智能宠物模式，可维持座舱适宜温度；<strong>采用 MOFs 抑菌空调滤芯</strong>，搭配可吸附降解材料，支持净化异味。</p><p data-vmark=\"403f\">鸿蒙智行享界 V8 搭载了享界专属定制增程器，支持双级隔振降噪；支持增程热泵技术，可快速制热持续送暖；<strong>新车纯电两驱百公里电耗约 16.1kWh</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0b95\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6bddcc3a-e9dd-4740-90a4-ad7410a1bad6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"67e4\" data-mpos=\"2,2\" data-weibo=\"8\" data-marks=\"1931fd9d012eb6d1f9d5acfe276f7448f4916a7160860ef2b5f9a55961fee42571bfa46f2db0bd3cdd1fbc3274c2efde\" class=\"no-alt-img\"></p><p data-vmark=\"5650\">IT之家注意到，<strong>该车将搭载华为乾崑智驾 ADS 5，支持全维防碰撞 CAS 5.0</strong>；其采用 13 横 11 纵玄武车身架构，前乘员舱核心骨架结构 100% 热成型钢，同时配备 3 米 2.0GPa 超长 A 柱内嵌式防滚架，强化乘员舱防护；2.0GPa 热成型钢座椅横梁，可支撑座椅结构；<strong>至高 12 个安全气囊，侧气帘贯通三排</strong>。</p><p data-vmark=\"e0f7\">享界 V8 二排座支持主动回位，<strong>可联动 ADS 感知后方风险，提前调整座椅姿态</strong>；采用四重车门解锁冗余设计，极端情况下提供多种应急开门方式；<strong>前后门采用电动机械二合一内拉手</strong>，并搭配有传统机械外拉手。</p><p style=\"text-align: center;\" data-vmark=\"bd64\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f903fda5-4277-4b60-8740-137c868b6d0f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"ca3e\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d12ea7ae15cecd0fb2b6a15ad06c17ef8f311897123d470f6586569a0c6c16f3c56e364c8e081133e7\" class=\"no-alt-img\"></p><p data-vmark=\"64b9\"><strong>新车搭载了全新一代鸿蒙智行 HarmonyOS 专属座舱</strong>，支持极简操作和专属小艺；支持华为智慧生活人车家互联，远程控制家中设备；配备全新一体寰宇三联屏，支持主驾导航、副驾追剧；采用华为悦彰音响卓越系列，<strong>25 单元声学设计与 2080W 功放</strong>，并支持三排独立环绕立体声。</p><p data-vmark=\"3835\">鸿蒙智行享界 V8 还全系标配流媒体内后视镜，支持三倍视野与夜视增强；<strong>后排配有 6.58 英寸 MagLink Mini 控制屏</strong>，采用磁吸可拆卸设计；车内灯光采用护眼设计，并可一键开启旅拍 2.0 模式；车外支持语音控车，开口就能控制车门及前后舱盖；此外，<strong>新车还支持车内外对讲功能</strong>。</p><p style=\"text-align: center;\" data-vmark=\"1d4b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1665b58a-471e-48fd-973e-0a8ca50ad7ca.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"99ed\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1bb1bf7d0e51a66de22685d9ef24001f87cfa91d76caf35b0328b50fc5ef62385b04d3a2acaecb19b\" class=\"no-alt-img\"></p><p data-vmark=\"8a93\"><strong>享界 V8 全车有 6 个 Type-C 快充接口</strong>，覆盖全家多设备充电需求。其中，一二排 TYPE-C 支持 DP-in，可连游戏设备，让车载大屏可充当家庭娱乐空间。<strong>全车还有 39 个储物空间</strong>，主副驾专属储物设计、中控台配备 4 个杯托。此外，全车多点位还有便捷座椅调节按键。</p><p data-vmark=\"4f18\">新车二排座椅采用 16 层堆叠设计，后排也有独立温区设计，拥有专属空调出风口。全车有超 10 项定制家用精品附件，配备三色温三亮度化妆镜；<strong>车内还有 10 颗智能追光灯</strong>，放置水杯、使用桌板时，灯光随之亮起。</p><p style=\"text-align: center;\" data-vmark=\"e072\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9ab821aa-51a3-4503-9a48-60a3e276871b.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"98e5\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1ae661845d35b3e20a3c2dd418a7c92a2a18a927d5434610c164b11129f6d75cf7713e5929e87093c\" class=\"no-alt-img\"></p><p data-vmark=\"7fe2\">享界 V8 全车标配 11 块防晒玻璃，可减少阳光直晒；<strong>同时全车标配 4 块物理遮阳帘，可遮挡阳光</strong>；采用强整车气密性设计，可减少外界噪音与空气污染侵扰。该车采用四激光雷达矩阵设计，<strong>全车 38 个传感器，并辅以全链路 8 大冗余设计</strong>。</p><p data-vmark=\"e409\">新车还搭载旗舰华为途灵平台，采用六合一全域融合架构；搭载前双叉臂后五连杆独立悬架，辅以全系超高钢度减震轮毂，<strong>支持 35.08m 百零制动距离、最快 4.93s 零百加速</strong>。该车全系标配 ±12° 后轮转向，支持 5.09m 最小转弯半径。</p><p style=\"text-align: center;\" data-vmark=\"fa2e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/465d0575-e174-4c68-8370-868a5d6759f2.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-vmark=\"4ee0\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p data-vmark=\"7813\">IT之家附享界 V8 预热海报合订集如下：</p><p style=\"text-align: center;\" data-vmark=\"6d54\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fec97bb5-36f1-46bf-a322-8ac8429596cd.jpg?x-bce-process=image/format,f_auto\" w=\"1343\" h=\"14999\" data-vmark=\"49f0\" class=\"no-alt-img\"></p><p data-vmark=\"682c\" class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5161\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/027/770.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/770.htm"
+    },
+    {
+      "id": 5503,
+      "title": "SK 海力士：计划未来 5 年将投入 1.4 万亿韩元扶持本土芯片供应商",
+      "summary": "IT之家 11 月 16 日消息，据路透社报道，韩国芯片制造商 SK 海力士（SK Hynix）周一表示，计划在未来 5 年内投入 1.4 万亿韩元（IT之家注：现汇率约合 70.03 亿元人民币），扶持韩国本土半导体材料、零部件及设备供应商，以进一步强化供应链，应对日益激烈的 AI 芯片市场竞争。 与此同时，SK 海力士还公布了一项总投资额达 8,746 亿韩元（现汇率约合 43.75 亿元人民币）的半导体测试设施建设计划。该设施将由企业与政府共同出资，建在首尔以南的龙仁半",
+      "content": "<p data-vmark=\"ddd9\">IT之家 11 月 16 日消息，据路透社报道，韩国芯片制造商 SK 海力士（SK Hynix）周一表示，计划在未来 5 年内投入 1.4 万亿韩元<span class=\"exch-money-value \">（IT之家注：现汇率约合 70.03 亿元人民币）</span>，扶持韩国本土半导体材料、零部件及设备供应商，以进一步强化供应链，应对日益激烈的 AI 芯片市场竞争。</p><p style=\"text-align: center;\" data-vmark=\"08e8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/70f50dcf-1e58-4e22-8869-8adeb2d1c976.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"822\" data-weibo=\"0\" data-vmark=\"fb20\" class=\"no-alt-img\"></p><p data-vmark=\"a3fa\">与此同时，SK 海力士还公布了一项总投资额达 8,746 亿韩元<span class=\"exch-money-value \">（现汇率约合 43.75 亿元人民币）</span>的半导体测试设施建设计划。该设施将由企业与政府共同出资，建在首尔以南的龙仁半导体园区内，为规模较小的供应商提供测试条件，使其能够在接近商业化芯片生产线的环境中验证产品性能。</p><p data-vmark=\"d11f\">SK 海力士表示，此次供应商扶持计划涵盖研发、测试、量产和销售四个阶段，旨在帮助中小型企业克服资金和技术方面的障碍，提升本土半导体供应链的整体竞争力。</p><p data-vmark=\"1a93\">这座名为 Trinity Fab 的测试工厂将由 SK 海力士、韩国中央政府及地方政府共同建设，预计于 2027 年 5 月投入运营。根据 SK 海力士公布的出资方案，公司将承担 4,432 亿韩元<span class=\"exch-money-value \">（现汇率约合 22.17 亿元人民币）</span>，中央政府出资 3,736 亿韩元<span class=\"exch-money-value \">（现汇率约合 18.69 亿元人民币）</span>，地方政府出资 577 亿韩元<span class=\"exch-money-value \">（现汇率约合 2.89 亿元人民币）</span>。</p><p data-vmark=\"7d93\">该设施将设在 SK 海力士龙仁半导体集群的第一座芯片工厂内。龙仁距离首尔以南约 40 公里，SK 海力士计划在这一园区投资 600 万亿韩元<span class=\"exch-money-value \">（现汇率约合 3 万亿元人民币）</span>，建设 4 座半导体晶圆制造厂。</p><p data-vmark=\"ed5c\">Trinity Fab 将配备一间面积达 3305 平方米的洁净室，以及光刻、刻蚀、薄膜沉积和检测等工艺所需的设备。供应商可以使用 12 英寸晶圆对材料和设备进行评估，在正式将产品部署到商业化生产线上之前完成验证。</p><p data-vmark=\"dd60\">SK 海力士表示，共享测试设施能够帮助中小型供应商降低测试成本，缩短产品从研发到上市的周期。为保护供应商的知识产权和商业敏感信息，该设施将交由一家独立的非营利基金会运营。</p><p data-vmark=\"df07\">在研发支持方面，SK 海力士还将改变传统的项目资助方式。根据计划，公司将提前提供最高相当于项目初期研发成本 50% 的资金支持。即使研发项目最终未能达到预定目标，供应商已经开展的相关工作也能获得相应补偿，以降低企业承担的研发风险。</p><p data-vmark=\"e166\">此外，SK 海力士还将联合金融机构提供总额达 2 万亿韩元<span class=\"exch-money-value \">（现汇率约合 100.04 亿元人民币）</span>的融资，并由韩国贸易保险公社提供担保。其他扶持措施还包括低息贷款和技术咨询服务，覆盖范围不仅包括直接供应商，也包括规模较小的下游分包商。</p><p data-vmark=\"fc04\">通过资金支持、共享测试设施和技术服务等多项举措，SK 海力士希望帮助韩国本土中小企业提升半导体材料与设备研发能力，进一步完善本土供应链，为 AI 芯片市场的持续增长提供支撑。</p>",
+      "link": "https://www.ithome.com/1/027/768.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/768.htm"
+    },
+    {
+      "id": 5504,
+      "title": "华为在韩国赞助国际大学生程序设计竞赛，支持信息通信技术领域人才培养",
+      "summary": "IT之家 11 月 16 日消息，据韩媒 ETNews 报道，华为韩国公司于今日透露，已赞助于 11 月 13 日至 14 日在韩国京畿道高阳市 KINTEX 会展中心举行的“2026 ICPC 首尔区域赛”。 公开信息显示，ICPC 是由国际计算机学会（ACM）和 ICPC 基金会主办的大学生程序设计竞赛，每年吸引来自全球 100 多个国家和地区的约 5 万名选手参加。今年的首尔区域赛共有来自韩国、日本、新加坡等亚洲各国家和地区的 80 余支队伍参赛。 相应比赛采用团队竞赛",
+      "content": "<p data-vmark=\"3a94\">IT之家 11 月 16 日消息，据韩媒 ETNews 报道，华为韩国公司于今日透露，已赞助于 11 月 13 日至 14 日在韩国京畿道高阳市 KINTEX 会展中心举行的“2026 ICPC 首尔区域赛”。</p><p style=\"text-align: center;\" data-vmark=\"022f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/93c7d9c7-0865-49e9-bff9-865ee9685525.jpg\" w=\"1440\" h=\"1119\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"afd5\"></p><p data-vmark=\"7acf\">公开信息显示，ICPC 是由国际计算机学会（ACM）和 ICPC 基金会主办的大学生程序设计竞赛，每年吸引来自全球 100 多个国家和地区的约 5 万名选手参加。今年的首尔区域赛共有来自韩国、日本、新加坡等亚洲各国家和地区的 80 余支队伍参赛。</p><p data-vmark=\"3a49\">相应比赛采用团队竞赛形式，每支队伍由 3 名大学生组成，需要在 5 小时内解决指定编程问题，主要考察参赛者的算法设计、程序实现以及团队协作解决问题的能力。</p><p data-vmark=\"ed78\">当前，华为是 ICPC 全球钻石级赞助商。在韩国市场，华为自 2015 年起便与当地多所高校合作，通过 ICT 教育、编程竞赛及海外研修项目等方式支持人才培养。相关项目包括理论与实践相结合的“华为 ICT 学院”、面向韩国及海外学生举办的“华为 ICT 大赛”，以及提供海外技术研修和跨国团队项目机会的“未来种子计划”（Seeds for the Future）。</p><p data-vmark=\"e6e4\">其中，“未来种子计划”是华为于 2008 年启动的全球 ICT 人才培养项目，截至今年已在全球 143 个国家和地区开展。华为韩国公司表示，截至目前，已有约 7000 名学生参与该公司在韩国开展的 ICT 教育、竞赛及海外研修项目。</p><p data-vmark=\"a3ae\">华为韩国公司副总裁陈静表示：“华为长期赞助 ICPC，旨在促进产学交流与国际合作，为 ICT 产业发展夯实人才基础。未来，华为将继续与韩国高校及产业合作伙伴携手，推动理论与实践相结合，并拓展国际交流机会，为数字人才领域培养贡献力量。”</p>",
+      "link": "https://www.ithome.com/1/027/765.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/765.htm"
+    },
+    {
+      "id": 5505,
+      "title": "日本 IT 求职平台 Paiza 开发用测试环境曝漏洞：已存在 13 年、约 90 万用户信息存在泄露可能性",
+      "summary": "IT之家 11 月 16 日消息，据外媒 ITMedia 报道，面向 IT 工程师提供求职的平台 Paiza 于 11 月 13 日通报，其开发用测试环境存在漏洞，其中存储的约 90 万条个人信息长期可以被已离职员工等第三方访问，相应漏洞已存在约 13 年。 paiza 表示，该测试环境使用从正式环境复制的数据，并对姓名、地址等个人信息进行脱敏处理（隐藏或替换），以供开发测试使用。但在部分时期，部分数据字段未经过脱敏处理，因此实际上包含了真实数据。同时测试环境在登录验证时使用",
+      "content": "<p data-vmark=\"ea65\">IT之家 11 月 16 日消息，据外媒 ITMedia 报道，面向 IT 工程师提供求职的平台 Paiza 于 11 月 13 日通报，其开发用测试环境存在漏洞，其中存储的约 90 万条个人信息长期可以被已离职员工等第三方访问，相应漏洞已存在约 13 年。</p><p data-vmark=\"3232\">paiza 表示，该测试环境使用从正式环境复制的数据，并对姓名、地址等个人信息进行脱敏处理（隐藏或替换），以供开发测试使用。但在部分时期，部分数据字段未经过脱敏处理，因此实际上包含了真实数据。同时测试环境在登录验证时使用固定字符串作为密码，基本身份验证等认证信息也长期未进行更换，容易被第三方趁虚而入。</p><p data-vmark=\"efea\">具体来看，可能泄露的信息包括用户出生日期、性别、工作经历、学历、居住地所在都道府县等个人属性，昵称、博客 URL、求职申请记录、期望职位条件、用户 ID、技能测试及学习记录，以及部分时期的学员邮箱地址、备用邮箱地址、GitHub ID 和学籍编号等。</p><p data-vmark=\"62a8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8c23f6c1-88be-407e-965c-4931edcee715.png\" w=\"728\" h=\"1446\" data-weibo=\"0\" data-vmark=\"aa99\" class=\"no-alt-img\"></p><p data-vmark=\"0926\">今年 7 月 17 日，paiza 收到日本行政机构的问询后启动调查，并发现认证管理方面存在缺陷。公司于 8 月 10 日启动紧急应对措施，8 月 12 日采取紧急处置，并于 13 日切断相关环境的访问权限、加强访问控制。9 月 4 日，公司进一步完善了内部安全管理手册等制度。截至 11 月 5 日，相关紧急应对措施已完成，公司也已向行政机构提交报告。</p><p data-vmark=\"9be1\">paiza 表示，公司在员工离职时会要求其签署保密承诺书，但后续仍将持续监控相关情况并分析系统日志。目前，尚未确认有数据被传输至外部的事实。</p><p data-vmark=\"9894\">后续，公司将进一步落实员工离职等情况下的权限撤销工作，重新审查测试数据的脱敏标准，并修订安全管理手册。此外，还将定期委托外部专业机构开展漏洞检测等工作，以检查个人信息的管理情况。对于可能受到影响且能够确认联系方式的用户，paiza 正通过电子邮件逐一发送通知。</p>",
+      "link": "https://www.ithome.com/1/027/763.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/763.htm"
+    },
+    {
+      "id": 5506,
+      "title": "股价单日暴跌 29% 后，英特尔及 CEO 陈立武遭股东集体诉讼",
+      "summary": "IT之家 11 月 16 日消息，据路透社报道，英特尔（Intel）遭到股东起诉。投资者指控这家美国芯片制造商隐瞒个人电脑（PC）市场长期低迷对公司业务造成的影响，误导股东，导致公司股价在单日暴跌近 29%。 当地时间上周五，由一家密歇根州养老基金牵头的股东在美国加利福尼亚州圣何塞联邦法院提起拟议中的集体诉讼。股东认为，英特尔未能及时披露 PC 销量放缓和库存积压将对公司营收造成多大影响。 诉讼文件指出，英特尔 PC 业务销售疲软和库存过剩带来的负面影响，已经超过数据中心建设",
+      "content": "<p data-vmark=\"5f4b\">IT之家 11 月 16 日消息，据路透社报道，英特尔（Intel）遭到股东起诉。投资者指控这家美国芯片制造商隐瞒个人电脑（PC）市场长期低迷对公司业务造成的影响，误导股东，导致公司股价在单日暴跌近 29%。</p><p style=\"text-align: center;\" data-vmark=\"e462\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/12/e6c9d1e6-fd2d-45af-b123-b9c830b7cf14.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"513e\" class=\"no-alt-img\"></p><p data-vmark=\"f0ad\">当地时间上周五，由一家密歇根州养老基金牵头的股东在美国加利福尼亚州圣何塞联邦法院提起拟议中的集体诉讼。股东认为，英特尔未能及时披露 PC 销量放缓和库存积压将对公司营收造成多大影响。</p><p data-vmark=\"3262\">诉讼文件指出，英特尔 PC 业务销售疲软和库存过剩带来的负面影响，已经超过数据中心建设以及人工智能热潮带来的其他收益。</p><p data-vmark=\"6a83\">股东还指控，英特尔有动机也有机会通过隐瞒经营问题误导投资者，以便在 8 月中旬筹集资金。当时，公司正处于被股东称为“灾难性”的第三季度中期，却以每股 95 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 634.4 元人民币）</span>的价格出售了价值 230 亿美元<span class=\"exch-money-value \">（现汇率约合 1,536.03 亿元人民币）</span>的股票。</p><p data-vmark=\"61cd\">此次股票出售与英特尔扩大芯片代工业务的计划密切相关。这也是 CEO 陈立武（Lip-Bu Tan）商业战略中的重要组成部分。截至上周五收盘，英特尔股价为 59.66 美元<span class=\"exch-money-value \">（现汇率约合 398.4 元人民币）</span>。</p><p data-vmark=\"391e\">10 月 30 日，英特尔股价暴跌 28.6%，市值单日蒸发约 1,400 亿美元<span class=\"exch-money-value \">（现汇率约合 9,349.76 亿元人民币）</span>。就在前一天，英特尔公布了低于市场预期的第四季度营收和利润预测，并预计 PC 销售疲软的局面还将持续较长时间。</p><p data-vmark=\"5042\">在随后举行的财报电话会议上，陈立武向分析师表示，制造环节的供应短缺、前所未有的内存供应紧张，以及由此导致的 PC 市场需求疲软，都令他感到失望。</p><p data-vmark=\"691f\">陈立武补充说：“我们必须迅速应对这些挑战。”</p><p data-vmark=\"abc4\">与许多其他大型科技公司一样，英特尔近年来投入了大量资金扩大芯片制造产能。然而，供应链中断和产能受限，使公司难以充分受益于数据中心芯片需求的增长。与此同时，内存价格持续上涨，推高了 PC 的售价，进一步抑制了市场需求。</p><p data-vmark=\"0d76\">此次诉讼由南菲尔德市消防与警察退休系统（City of Southfield Fire and Police Retirement System）牵头，要求英特尔向在 2026 年 7 月 23 日至 10 月 29 日期间购买公司股票的投资者赔偿损失，但具体金额尚未确定。</p><p data-vmark=\"8596\">除英特尔外，陈立武和首席财务官戴维 · 津斯纳（David Zinsner）也被列为被告。</p><p data-vmark=\"8cb5\">尽管近期遭遇股价重挫，英特尔今年以来截至上周五的股价仍累计上涨 62%。不过，其股价已经从 6 月 30 日创下的近期高点 142.35 美元<span class=\"exch-money-value \">（现汇率约合 950.7 元人民币）</span>大幅回落。</p>",
+      "link": "https://www.ithome.com/1/027/762.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/762.htm"
+    },
+    {
+      "id": 5507,
+      "title": "“江苏制造”全球最大无人货机 W5000 试飞成功，整机 22 万个零部件全部国产化",
+      "summary": "IT之家 11 月 16 日消息，11 月 14 日，全球最大的无人货运飞机 W5000 在内蒙古自治区鄂托克前旗通用机场完成技术验证试飞。该机型由江苏省科技企业白鲸航线（常州）科技有限公司自主研发制造，是江苏低空经济发展的标志性成果之一。 图源：白鲸航线官微 试飞当天，W5000 在跑道上滑行约 600 米后腾空而起，升至场高 1000 米，整个飞行过程持续约 30 分钟。期间，飞机按计划完成爬升、平飞、转弯、下降及进近着陆等科目，在既定航线上进行了 4 次转弯。本次试飞重",
+      "content": "<p data-vmark=\"1ac7\">IT之家 11 月 16 日消息，11 月 14 日，全球最大的无人货运飞机 W5000 在内蒙古自治区鄂托克前旗通用机场完成技术验证试飞。该机型由江苏省科技企业白鲸航线（常州）科技有限公司自主研发制造，是江苏低空经济发展的标志性成果之一。</p><p style=\"text-align: center;\" data-vmark=\"4b33\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e1f66c60-8d7a-42bd-bd6e-65d7e087742b.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"0\" data-vmark=\"0e46\" class=\"no-alt-img\"></p><figcaption>图源：白鲸航线官微</figcaption><p data-vmark=\"0f72\">试飞当天，W5000 在跑道上滑行约 600 米后腾空而起，升至场高 1000 米，整个飞行过程持续约 30 分钟。期间，飞机按计划完成爬升、平飞、转弯、下降及进近着陆等科目，在既定航线上进行了 4 次转弯。本次试飞重点验证了飞机操控稳定性，以及动力、飞控、航电和地面测控保障系统的协同运行能力。</p><p data-vmark=\"7cf5\">据介绍，W5000 整机约 22 万个零部件实现全部国产化，飞控航电、动力系统、复合材料机体等关键环节均实现自主可控。</p><p data-vmark=\"c11c\">据IT之家了解，作为一款大型支线物流无人机，W5000 在运载能力、航程和经济性上表现突出。该机型有效载荷达 5 吨，货舱有效容积超过 65 立方米，最远航程可达 2600 公里，且可兼容多款标准航空货箱与货板，能够适应跨区域支线物流、冷链运输、应急物资保障等多种运输场景。飞机采用“自主驾驶 + 地面监控”的无人化运行模式，既适用于民航机场，也适配通航机场的运行条件，为构建灵活高效的航空货运网络开辟了新的路径。</p><p data-vmark=\"0ef3\">成本方面，W5000 的吨公里物流成本较同级别传统有人驾驶货机下降逾六成。这一优势主要来自两方面：一是无人化运营免去了飞行机组人力成本和载人座舱设备投入，并实现了机身减重；二是飞机搭载国产涡桨发动机，机体大量采用国产碳纤维复合材料，在保证结构强度的同时减轻自重，从而将更多起飞重量分配给货运载荷，进一步降低油耗。</p><p data-vmark=\"88db\">白鲸航线于 2023 年 5 月在常州建立制造基地，首架机 \" 龙城壹号 \" 于 2024 年 10 月 18 日在常州完成总装下线。作为江苏低空经济的标杆项目，W5000 将为江苏打造长三角低空经济高质量发展新高地提供有力支撑。W5000 投入运营后，有望填补国内支线航空货运市场的空白，并对城际物流、跨境物流的运作模式产生深远影响。</p><p data-vmark=\"250d\">据悉，W5000 目前已获得 835 架意向订单，预计于 2027 年底正式投入商业运营。机型的迭代升级与适航取证工作正在有序推进中。</p>",
+      "link": "https://www.ithome.com/1/027/746.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/746.htm"
+    },
+    {
+      "id": 5508,
+      "title": "网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营",
+      "summary": "IT之家 11 月 16 日消息，网易旗下《哈利波特：魔法觉醒》手游今日发布停止运营公告，由于授权协议即将到期，2027 年 3 月 3 日起，《哈利波特：魔法觉醒》将正式停止运营。 1. 2026 年 12 月 21 日，停止游戏充值，停止新用户注册，全平台下架； 2. 2027 年 3 月 3 日，正式停止游戏运营，关闭游戏服务器。 《哈利波特：魔法觉醒》手游国服于 2021 年 9 月开启公测，采用复古的手绘风格，重现霍格沃茨、对角巷等各个场景。 据 SensorTow",
+      "content": "<p data-vmark=\"e23d\">IT之家 11 月 16 日消息，网易旗下《哈利波特：魔法觉醒》手游今日发布停止运营公告，由于授权协议即将到期，<strong>2027 年 3 月 3 日起，《哈利波特：魔法觉醒》将正式停止运营</strong>。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b206\">1. 2026 年 12 月 21 日，停止游戏充值，停止新用户注册，全平台下架；</p></li><li><p data-vmark=\"3ca3\">2. 2027 年 3 月 3 日，正式停止游戏运营，关闭游戏服务器。</p></li></ul><p data-vmark=\"5646\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9af767d2-bcd2-4977-85a4-4e9d1e9d2675.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"2490\" data-vmark=\"5242\" data-mpos=\"2,0\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6756101742%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6756101742%2FRrEdqdLrh%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"f322\">《哈利波特：魔法觉醒》手游国服于 2021 年 9 月开启公测，采用复古的手绘风格，重现霍格沃茨、对角巷等各个场景。</p><p data-vmark=\"cf30\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1f3a0ec5-9ab6-4846-a656-fd189d822586.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"37b3\"></p><p data-vmark=\"4d69\">据 SensorTower 数据显示，《哈利波特：魔法觉醒》自 2021 年 9 月 9 日在亚洲部分地区推出以来，<strong>不到两个月收入已经超过 2 亿美元</strong>，在同类 IP 中，收入仅次于《哈利波特：霍格沃茨之谜》。</p><p data-vmark=\"ce26\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/8/6fa1b310-c46a-44cd-a6e7-c0f0356ce172.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-vmark=\"d4ba\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"7c54\">《哈利波特：魔法觉醒》剧情故事发生在霍格沃茨保卫战多年后，作为一名巫师新生的你，即将迎来七年魔法校园生活。在这里你会结识到其他巫师新生，他们性格各异，也将是你在魔法学院里的亲密好友。你们将一起学习各类魔法课程，还可能在无名之书中重温经典，倘若组队前往禁林冒险，记得要提前准备好各种魔法药剂。</p><p data-vmark=\"97b2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/8/528b1df1-b5ae-43da-82c1-9b0edf15965f.jpg\" w=\"1440\" h=\"614\" data-vmark=\"7e82\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"0b85\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/8/850bfda8-0294-47a9-bf23-831a4c7e4fc8.jpg\" w=\"1440\" h=\"614\" data-vmark=\"2e80\" data-weibo=\"4\" class=\"no-alt-img\"></p><p data-vmark=\"753a\">据IT之家了解，游戏中的决斗俱乐部可以进行魔法战斗，玩家可以通过日常玩法收集卡牌，提前组合魔法与神奇生物，打造一套拥有个性风格的套牌。在决斗场上，玩家可以挥舞魔杖释放魔咒，或者召唤神奇生物助力，关键时刻还可以呼唤伙伴，在短短几分钟内展开一场魔法决斗。</p><p data-vmark=\"3dbc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2021/8/ed111683-b08e-4f9a-9c03-217192c6b7d5.jpg\" w=\"1440\" h=\"810\" data-vmark=\"bdcc\" data-weibo=\"5\" class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/027/738.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/027/738.htm"
+    },
+    {
+      "id": 5509,
+      "title": "Grab a DDR5 gaming PC with a 10GB GPU for only $949",
+      "summary": "Save $250 on a brand-new iBuypower Slate gaming PC in this Best Buy deal.",
+      "content": "<article>\n                                <p>Pick up a budget gaming PC with 10GB of dedicated GPU VRAM. The <a href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\">iBuypower Slate Gaming PC with Intel Arc B570 graphics is just $949</a> at Best Buy in today's deal. Saving you $250 off its $1,199.99 list price, this deal is the perfect way to get into PC gaming on a strict budget, and costs less than a Steam Machine and some handheld gaming consoles. </p><p>● <a href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\">Check out this deal at Best Buy</a></p><p>This iBuypower Slate gaming PC comes with a 10-core, 10-thread Intel Core Ultra 5 225F processor, an Intel Arc B570 graphics card with 10GB of VRAM, 16GB of DDR5 memory, and a 1TB NVMe SSD for storage. With the current pricing trend for DDR5 memory and PC components in general, this is an effective combination of parts for a 1080p gaming rig without breaking the bank.</p><div class=\"product star-deal\"><a data-dimension112=\"1552ed40-e1ae-11f1-bd0f-931dcacc7692\" data-action=\"Star Deal Block\" data-label=\"Slate Gaming PC (Arc B570)\" data-dimension48=\"Slate Gaming PC (Arc B570)\" data-dimension25=\"$949\" href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:800px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.88%;\"><img id=\"TDnmiH2mYUjMyvVEE2ebUR\" name=\"iBuypower Slate Gaming PC\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/TDnmiH2mYUjMyvVEE2ebUR-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"800\" height=\"807\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1552ed40-e1ae-11f1-bd0f-931dcacc7692\" data-action=\"Star Deal Block\" data-label=\"Slate Gaming PC (Arc B570)\" data-dimension48=\"Slate Gaming PC (Arc B570)\" data-dimension25=\"$949\">Slate Gaming PC (Arc B570): was $1199.99 now $949</a></strong><br />This frugal machine features an Intel Core Ultra 5 225F processor and an Intel Arc B570 graphics card with 10GB of VRAM. There's also 16GB of DDR5 memory and a 1TB NVMe SSD for storage. <a class=\"view-deal button\" href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"1552ed40-e1ae-11f1-bd0f-931dcacc7692\" data-action=\"Star Deal Block\" data-label=\"Slate Gaming PC (Arc B570)\" data-dimension48=\"Slate Gaming PC (Arc B570)\" data-dimension25=\"$949\">View Deal</a></p></div><p>The standout component of this PC is the Intel B570 graphics card, which comes with a generous 10GB of VRAM. For 1080p gaming, 10GB of VRAM is a good amount to handle the textures and shaders on high and ultra settings. However, on higher settings it will start to struggle in 1440p gaming when that VRAM gets swallowed up and starts using the CPU to compensate. </p><p>The chart below from our rasterization benchmarking game suite highlights the performance of the B570, and has it sitting in the middle of the pack, competing closely with Nvidia's 12GB RTX 3060. Check out our <a href=\"https://www.tomshardware.com/pc-components/gpus/intel-arc-b570-review-asrock-challenger-oc-tested\">Intel Arc B570 review</a> for more detailed information on this GPU's performance and other metrics.  </p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/bDX5LshxW6uhL8qcGm2xn9-1920-80.png\" alt=\"ASRock Arc B570 Challenger OC gaming charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/Fhu2EgcUnb3RTgiNqDNyx9-1920-80.png\" alt=\"ASRock Arc B570 Challenger OC gaming charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/iq6JgFriqARgJWp8hAU5t9-1920-80.png\" alt=\"ASRock Arc B570 Challenger OC gaming charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/cU7mCZU5DCZMegXqjngr4A-1920-80.png\" alt=\"ASRock Arc B570 Challenger OC gaming charts\" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>Thanks to the skyrocketing price of memory and storage, buying a prebuilt gaming PC is now a much cheaper way to own your own gaming PC rather than trying to construct your own. PC builders like iBuypower are able to grab these parts much cheaper than normal consumers and can offset some of the price rises with their stocks of components and buying power. Don't expect prices of prebuilt PCs to stay low, however, as the market continues to see prices go up as available memory stocks diminish. </p><p>For just <a href=\"https://www.bestbuy.com/product/ibuypower-slate-gaming-desktop-pc-intel-core-ultra-5-225f-2025-intel-arc-b570-10gb-16gb-ddr5-rgb-1tb-nvme-ssd-storage-black/J3R75JYSJL/sku/6668984\">$949, this is a superb deal for a starter gaming PC</a> if you're just getting into PC gaming. The B570 may be a budget graphics card, but it has come a long way since launch, thanks to driver optimizations and compatibility with more games, so you're now getting more bang for your buck with this GPU.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-ddr5-gaming-pc-with-a-10gb-gpu-for-only-usd949-ibuypowers-slate-gaming-rig-features-an-intel-b570-graphics-card-and-16gb-of-ram",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "82QYSb8mTut2Z2R6HnfXo5"
+    },
+    {
+      "id": 5510,
+      "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+      "summary": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+      "content": "<article>\n                                <p>Without a doubt, Nvidia's dominance in the AI hardware market stems not only from the capabilities of its AI accelerators and its vast software ecosystem, but also from its aggressive procurement strategy that effectively denies its rivals access to sufficient production capacity at TSMC and other contractors. The result of his deals is that supply and capacity commitments rose by almost a quarter of a trillion dollars in a single quarter, primarily due to memory procurement, according to SemiAnalysis. However, even Nvidia's former chief executive Jensen Huang had apparently begun to question the sustainability of this strategy before his departure, based on reports from <a href=\"https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?\">The Wall Street Journal</a> and <a href=\"http://www.semianalysis.com/\">SemiAnalysis</a>. </p><p>Over the past several years, Nvidia has not only captured the vast majority of the AI accelerator market, but has also secured a substantial proportion of the world's production capacity for advanced logic, high-bandwidth memory (HBM), and various other components required to build AI accelerators and systems, which has limited the ability of its competitors to ramp up shipments of their processors. To support the deals, Jensen Huang personally negotiated agreements with major suppliers in Taiwan and South Korea. </p><p>The massive scale of Nvidia's procurement commitments also enabled the company to secure more favorable quotes than its rivals. SemiAnalysis estimates that SK hynix could charge Nvidia between $3.00 and $3.30 per gigabit of HBM4 memory in 2027, whereas other first-tier customers, such as AMD, Amazon, Broadcom, and Google, would pay between $3.70 and $4.10 per gigabit. The analysts believe that as part of an informal arrangement between the two companies, Nvidia gives SK Group preferential access to its AI GPUs. </p><p>While Nvidia's ability to secure vast production capacities has been instrumental in its success, such commitments also carry considerable risks. At a meeting with senior executives in August, Huang reportedly expressed concerns about the massive volumes of wafers and memory that Nvidia had committed to purchase as major cloud service providers sought to reduce their reliance on the company's hardware in favor of alternative AI accelerator platforms, according to <em>The Wall Street Journal</em>. </p><p>In a bid to diversify its customer base and create additional demand for its products, Nvidia offered financial guarantees to emerging cloud service providers and data center developers that otherwise could not afford to procure its hardware at scale. As of the end of its fiscal second quarter, Nvidia had $530 billion in gross off-balance-sheet guarantees, up from $184 billion a quarter earlier, as well as $99 billion worth of equity investments, according to <em>SemiAnalysis</em>. As half a trillion dollars seems gargantuan, here is a breakdown based on a <a href=\"https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm\">filing</a> with the Securities and Exchange Commission:</p><ul><li>$366 billion in future commitments (of which $279 billion was supply and capacity commitments, mainly for memory and manufacturing);</li><li>$56 billion in additional commitments (including $36 billion in AI cloud agreements/take-or-pay arrangements and $20 billion in data-center leases expected to be reassigned);</li><li>$108.5 billion in maximum gross exposure under guarantees (of which $105 billion was a lease/credit-support guarantee related to SB Energy’s PORTS Technology Campus in Ohio for an OpenAI affiliate, plus $3.5 billion for other AI-cloud partner land/power/shell guarantees).</li></ul><p>The scale of such commitments raised concerns even within Nvidia. Then-CFO Colette Kress questioned the criteria used to select recipients of financial support and the potential returns on such arrangements. She also reportedly reduced Nvidia's initial financial commitment to OpenAI's massive data center project in Ohio by half before the two companies signed an agreement on August 17. The facility is expected to house some $300 billion worth of Nvidia processors.</p><h2 id=\"massive-outcome\">Massive outcome?</h2><p>At some point, Huang himself began to question the merits of Nvidia's aggressive financing strategy in the event of his departure, essentially calling the current interim CEO, Colette Kress, a mere 'reporting CFO' rather than an executive capable of making strategic decisions. He also expressed concerns about massive wafer and memory procurement commitments as major cloud service providers sought to reduce their reliance on Nvidia’s GPUs.</p><p>Despite questionable commitments, without Huang and his personal relationships with executives at major semiconductor companies, Nvidia may find it harder to secure preferential treatment from its suppliers. SemiAnalysis believes that customers other than Nvidia could account for over 70% of TSMC production capacity in 2028. While this could enable Nvidia’s competitors to significantly increase shipments of their AI processors, it could also affect the willingness of Taiwanese and South Korean suppliers to invest aggressively in additional production capacity without the kind of assurances that Huang used to provide.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "C4Bu7haevK54zDktEsESTm"
+    },
+    {
+      "id": 5511,
+      "title": "(PR) ASUS Announces ExpertCenter P300 Mini Tower",
+      "summary": "ASUS today announced the ASUS ExpertCenter P300 Mini Tower (P302MV), a business desktop designed to deliver reliable performance and exceptional value for small businesses. Powered by up to an Intel Core 7 processor and featuring an enhance",
+      "content": "ASUS today announced the ASUS ExpertCenter P300 Mini Tower (P302MV), a business desktop designed to deliver reliable performance and exceptional value for small businesses. Powered by up to an Intel Core 7 processor and featuring an enhanced thermal design, the ExpertCenter P300 Mini Tower supports up to 45 W TDP, delivering up to 38% better peak performance than competitors in its class.<br />\r\n<br />\r\n<b>Packed with power: Up to an Intel Core 7 processor</b><br />\r\nFeaturing an enhanced thermal design, the ASUS ExpertCenter P300 Mini Tower delivers reliable performance for everyday business needs. Powered by up to an Intel Core 7 processor, with support for up to 16 GB memory and up to 2 TB total SSD storage, it provides the computing power and storage capacity to handle daily workloads with ease. Supporting up to 45 W TDP, the ExpertCenter P300 Mini Tower balances performance and efficiency, making it an ideal solution for businesses seeking dependable computing for everyday productivity.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/uDejN82iRms1bsUY.jpg\" target=\"_blank\" data-width=\"1440\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/uDejN82iRms1bsUY_thm.jpg\" width=\"195\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/DlNsuEiuNGNgmvMG.jpg\" target=\"_blank\" data-width=\"642\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/DlNsuEiuNGNgmvMG_thm.jpg\" width=\"87\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/EXAae5QWXuiJQam7.jpg\" target=\"_blank\" data-width=\"1265\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/EXAae5QWXuiJQam7_thm.jpg\" width=\"171\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/Si9OshVjapMiPYN5.jpg\" target=\"_blank\" data-width=\"512\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/Si9OshVjapMiPYN5_thm.jpg\" width=\"69\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354881/asus-announces-expertcenter-p300-mini-tower\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354881/asus-announces-expertcenter-p300-mini-tower",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "7b51007c03b5bdc969b9445751a73df8"
+    },
+    {
+      "id": 5512,
+      "title": "Intel Razor Lake Gets a 12 P-Core bLLC Chip With No E-Cores, Per Leak",
+      "summary": "Intel's Razor Lake desktop lineup could include an unlocked gaming chip with 12 P-cores and no regular E-cores at all. Well-known Intel leaker Jaykihn shared the \"12+0+4\" configuration on X, which pairs those 12 P-cores with four low-power ",
+      "content": "Intel's Razor Lake desktop lineup could include an unlocked gaming chip with 12 P-cores and no regular E-cores at all. Well-known Intel <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2122026874138243396\" target=\"_blank\">leaker Jaykihn</a> shared the &quot;12+0+4&quot; configuration on X, which pairs those 12 P-cores with four low-power E-cores and Intel's big Last Level Cache (bLLC), the company's answer to AMD's X3D chips. In a <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2122031016705696101\" target=\"_blank\">follow-up post</a>, he said this SKU replaces a locked 8+0+4 bLLC part that was rumored earlier. Apparently, all 12 P-cores sit on a single compute die designed only for P-cores, rather than a hybrid die with its E-cores switched off, and Jaykihn <a rel=\"nofollow\" href=\"https://x.com/jaykihn0/status/2122035318534922668\" target=\"_blank\">later said</a> that tile is built on Intel's own 18A-P node. That would make it an outlier, since most Razor Lake compute tiles are reportedly <a href=\"https://www.techpowerup.com/351684/intel-razor-lake-to-use-tsmcs-n2x-node-brings-bllc-to-laptop-skus\" target=\"_blank\">headed to TSMC</a>.<br />\r\n<br />\r\nJaykihn also claims the 125 W 6+12+4 bLLC chip, one of the two <a href=\"https://www.techpowerup.com/350502/intel-readies-two-22-core-nova-lake-s-skus-with-108-mb-bllc-cache-for-gaming\" target=\"_blank\">22-core Nova Lake-S parts</a> that leaked back in July, has been pushed from Nova Lake to Razor Lake. If that's accurate, it seems Nova Lake-S will launch with one less bLLC option than expected. There's no word on the 65 W version. Razor Lake-S is <a href=\"https://www.techpowerup.com/354565/intel-razor-lake-s-reportedly-due-in-2028-on-lga-1954\" target=\"_blank\">currently a 2028 product</a> that should use the same LGA-1954 socket as Nova Lake-S, according to Jaykihn's earlier posts. Intel has listed <a href=\"https://www.techpowerup.com/354804/intels-isa-reference-confirms-razor-lake-desktop-and-laptop-model-ids\" target=\"_blank\">Razor Lake model IDs in its ISA reference</a>, but none of these specs are official. Plans this far out can change, so it's reasonable to treat the 12 P-core chip as just a target for now.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/pQjo5Fl0B4BLUs9S.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"675\" ><img src=\"https://tpucdn.com/img/pQjo5Fl0B4BLUs9S_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/354867/intel-razor-lake-gets-a-12-p-core-bllc-chip-with-no-e-cores-per-leak",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "0213c0715f45fdf720ef95ce9c706c40"
+    },
+    {
+      "id": 5513,
+      "title": "Thermal Grizzly Details WireView Pro II Extended GPU Warranty Conditions",
+      "summary": "Thermal Grizzly has published an FAQ clarifying the conditions of its WireView Pro II extended GPU warranty, covering cables, settings, adapters, and claims. Neither the USB cable nor the motherboard Y-splitter has to be connected for cover",
+      "content": "Thermal Grizzly has published an <a rel=\"nofollow\" href=\"https://www.thermal-grizzly.com/en/blog/faq-wireview-pro-ii-extended-gpu-warranty-clarification\" target=\"_blank\">FAQ</a> clarifying the conditions of its <a href=\"https://www.techpowerup.com/342462/thermal-grizzly-wireview-pro-ii-now-available-for-pre-order\" target=\"_blank\">WireView Pro II</a> extended GPU warranty, covering cables, settings, adapters, and claims. Neither the USB cable nor the motherboard Y-splitter has to be connected for coverage. The Y-splitter lets the WireView shut the PC down through the power-button header, but Thermal Grizzly only recommends it. Monitoring has to stay enabled, though. Lowering the current, temperature, or power thresholds is fine, but raising them above the defaults or switching monitoring off is not.<br />\r\n<br />\r\nThird-party extensions between the WireView and the GPU are allowed as long as each 12 V line stays separate. Adapters that bridge those lines internally stop the WireView from reading the current on each GPU power contact, so those builds aren't covered. A 90-degree connector isn't a problem by itself, since it comes down to the internal wiring. On the PSU side, cables approved for that exact PSU model are fine. Coverage runs for 24 months from the WireView purchase, even after the GPU's own warranty ends, but only for the original buyer with proof of purchase.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/7sc07xPGO9UN5v6o.jpg\" target=\"_blank\" data-width=\"1727\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/7sc07xPGO9UN5v6o_thm.jpg\" width=\"234\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/LeYpKzRI2rmibl0v.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/LeYpKzRI2rmibl0v_thm.jpg\" width=\"244\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354864/thermal-grizzly-details-wireview-pro-ii-extended-gpu-warranty-conditions\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354864/thermal-grizzly-details-wireview-pro-ii-extended-gpu-warranty-conditions",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "eb32af8ed9da6c500edcc52f6da873e3"
+    },
+    {
+      "id": 5514,
+      "title": "Report: Jensen Huang Eyes NVIDIA Comeback",
+      "summary": "Jensen Huang has talked with close confidants about returning as NVIDIA's CEO, according to a Sunday report from the Financial Times citing people familiar with the matter. Huang resigned as CEO and left the board on November 12, with CFO C",
+      "content": "Jensen Huang has talked with close confidants about returning as NVIDIA's CEO, according to a Sunday report from the <a rel=\"nofollow\" href=\"https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1\" target=\"_blank\">Financial Times</a> citing people familiar with the matter. <a href=\"https://www.techpowerup.com/354732/nvidia-co-founder-and-ceo-jensen-huang-officially-resigns\" target=\"_blank\">Huang resigned as CEO</a> and left the board on November 12, with CFO Colette Kress stepping in as interim CEO. NVIDIA gave no reason for the exit, which followed reports of an affair with a suspected Chinese spy and a second relationship with an NVIDIA executive who reported to him. Apparently, his Silicon Valley allies have now set up a &quot;war room&quot; to lobby the board to reinstate him and to seek support from the White House.<br />\r\n<br />\r\nThe &quot;Stand with Jensen&quot; open letter, which <a href=\"https://www.techpowerup.com/354840/open-letter-asking-nvidia-to-reinstate-jensen-huang-passes-115-000-signatures\" target=\"_blank\">recently passed 115,000 signatures</a> when we covered it, now has more than 156,000 names. The campaign says over 7,500 of them are current NVIDIA employees, though signers self-identify and the numbers haven't been independently verified. Elon Musk said on X that he signed it, and Epic Games CEO Tim Sweeney is listed as well. NVIDIA shareholders Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management have urged directors not to rush a successor and to keep &quot;all options on the table, including the potential return of Jensen Huang.&quot;<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/hNa8I8XKgsr6eguX.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"843\" ><img src=\"https://tpucdn.com/img/hNa8I8XKgsr6eguX_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354866/report-jensen-huang-eyes-nvidia-comeback\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354866/report-jensen-huang-eyes-nvidia-comeback",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "359f1c98ddd30c91c6c5e534a79356aa"
+    },
+    {
+      "id": 5515,
+      "title": "Affordable Lenovo LOQ 15 gaming laptop with RTX 5060 drops to lowest price ever",
+      "summary": "Deal | Walmart has now dropped the price of the Gen 11 Lenovo LOQ 15 gaming laptop to a record-low level. This has made the LOQ 15 a potential candidate for the best-value mid-range RTX 5060 gaming laptop this Holiday season. The LOQ 15 15A",
+      "content": "Deal | Walmart has now dropped the price of the Gen 11 Lenovo LOQ 15 gaming laptop to a record-low level. This has made the LOQ 15 a potential candidate for the best-value mid-range RTX 5060 gaming laptop this Holiday season. The LOQ 15 15APH11 combines an RTX 5060 laptop GPU with an AMD Ryzen 7 250.",
+      "link": "https://www.notebookcheck.net/Affordable-Lenovo-LOQ-15-gaming-laptop-with-RTX-5060-drops-to-lowest-price-ever.1451258.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Affordable-Lenovo-LOQ-15-gaming-laptop-with-RTX-5060-drops-to-lowest-price-ever.1451258.0.html"
+    },
+    {
+      "id": 5516,
+      "title": "Xiaomi's upcoming Redmi Note 18 5G could be a huge disappointment",
+      "summary": "The Redmi Note 18 series draws closer to launch but it appears expectant fans may be let down after all. According to a new leak from typically reliable quarters, the Redmi Note 18 5G will not offer any significant upgrades on the Redmi Not",
+      "content": "The Redmi Note 18 series draws closer to launch but it appears expectant fans may be let down after all. According to a new leak from typically reliable quarters, the Redmi Note 18 5G will not offer any significant upgrades on the Redmi Note 17 5G.",
+      "link": "https://www.notebookcheck.net/Xiaomi-s-upcoming-Redmi-Note-18-5G-could-be-a-huge-disappointment.1450937.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Xiaomi-s-upcoming-Redmi-Note-18-5G-could-be-a-huge-disappointment.1450937.0.html"
+    },
+    {
+      "id": 5517,
+      "title": "Asus intros PC with 10-core Intel processor, 2TB SSD and plenty of ports",
+      "summary": "Asus has introduced the ExpertCenter P300 Mini Tower (P302MV), a business desktop powered by up to an Intel Core 7 processor. It comes with up to 16GB of memory, 2TB of SSD storage, a 45W TDP and 2.5Gbps Ethernet connectivity.",
+      "content": "Asus has introduced the ExpertCenter P300 Mini Tower (P302MV), a business desktop powered by up to an Intel Core 7 processor. It comes with up to 16GB of memory, 2TB of SSD storage, a 45W TDP and 2.5Gbps Ethernet connectivity.",
+      "link": "https://www.notebookcheck.net/Asus-intros-PC-with-10-core-Intel-processor-2TB-SSD-and-plenty-of-ports.1451249.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Asus-intros-PC-with-10-core-Intel-processor-2TB-SSD-and-plenty-of-ports.1451249.0.html"
+    },
+    {
+      "id": 5518,
+      "title": "Nvidia GeForce RTX 4090 Ti engineering sample surfaces on Xianyu with 18,176 cores and 24 Gbps memory",
+      "summary": "A Xianyu listing shows the bare PCB and a GPU-Z readout of Nvidia's mysterious and unreleased GeForce RTX 4090 Ti engineering sample, giving us a hint of what could have been the flagship GPU for the RTX 40 series.",
+      "content": "A Xianyu listing shows the bare PCB and a GPU-Z readout of Nvidia's mysterious and unreleased GeForce RTX 4090 Ti engineering sample, giving us a hint of what could have been the flagship GPU for the RTX 40 series.",
+      "link": "https://www.notebookcheck.net/Nvidia-GeForce-RTX-4090-Ti-engineering-sample-surfaces-on-Xianyu-with-18-176-cores-and-24-Gbps-memory.1450847.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Nvidia-GeForce-RTX-4090-Ti-engineering-sample-surfaces-on-Xianyu-with-18-176-cores-and-24-Gbps-memory.1450847.0.html"
+    },
+    {
+      "id": 5519,
+      "title": "TCL unveils new 10.95-inch OLED tablet displays with RGBX technology",
+      "summary": "TCL CSOT has showcased three new 10.95-inch OLED tablet displays featuring four-subpixel technology. The prototype panels focus on different improvements, including color reproduction, power efficiency, and reduced blue light emissions.",
+      "content": "TCL CSOT has showcased three new 10.95-inch OLED tablet displays featuring four-subpixel technology. The prototype panels focus on different improvements, including color reproduction, power efficiency, and reduced blue light emissions.",
+      "link": "https://www.notebookcheck.net/TCL-unveils-new-10-95-inch-OLED-tablet-displays-with-RGBX-technology.1451241.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/TCL-unveils-new-10-95-inch-OLED-tablet-displays-with-RGBX-technology.1451241.0.html"
+    },
+    {
+      "id": 5520,
+      "title": "ROG Strix G16 with monstrous 16-core Ryzen 9 9955HX CPU, 16 GB RAM, and 165 Hz display drops by $500",
+      "summary": "Deal | Thanks to an ongoing sale at Staples, the Ryzen 9 9955HX-equipped ROG Strix G16 laptop is currently available with a decent $500 discount. This variant also comes equipped with 16 GB DDR5 RAM and an RTX 5050 Laptop GPU.",
+      "content": "Deal | Thanks to an ongoing sale at Staples, the Ryzen 9 9955HX-equipped ROG Strix G16 laptop is currently available with a decent $500 discount. This variant also comes equipped with 16 GB DDR5 RAM and an RTX 5050 Laptop GPU.",
+      "link": "https://www.notebookcheck.net/ROG-Strix-G16-with-monstrous-16-core-Ryzen-9-9955HX-CPU-16-GB-RAM-and-165-Hz-display-drops-by-500.1451243.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/ROG-Strix-G16-with-monstrous-16-core-Ryzen-9-9955HX-CPU-16-GB-RAM-and-165-Hz-display-drops-by-500.1451243.0.html"
+    },
+    {
+      "id": 5521,
+      "title": "PS5 jailbreak progress made on latest firmware 14.22, days before GTA 6 release date",
+      "summary": "Sony may be monitoring a possible new exploit for PS5 firmware 14.22. A prolific homebrew developer says he achieved a game dump on the November 2nd console update. That’s the software version GTA 6 requires, but it’s uncertain if a compati",
+      "content": "Sony may be monitoring a possible new exploit for PS5 firmware 14.22. A prolific homebrew developer says he achieved a game dump on the November 2nd console update. That’s the software version GTA 6 requires, but it’s uncertain if a compatible jailbreak will emerge in the coming weeks.",
+      "link": "https://www.notebookcheck.net/PS5-jailbreak-progress-made-on-latest-firmware-14-22-days-before-GTA-6-release-date.1451238.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-16",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/PS5-jailbreak-progress-made-on-latest-firmware-14-22-days-before-GTA-6-release-date.1451238.0.html"
+    },
     {
       "id": 5419,
       "title": "英伟达缩减AI融资支持 并不会让价格亲民的GeForce显卡在2027年重回市场",
@@ -709,6 +1442,34 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/RTX-5060-powered-gaming-laptop-with-AMD-Ryzen-7-APU-scores-700-discount.1450527.0.html"
+    },
+    {
+      "id": 5486,
+      "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+      "summary": "Xbox正为下一代主机Project Helix探索神经渲染技术，希望通过新的画面帧生成方式缓解算力和额外内存需求，同时兼顾技术进步与产品的可负担性。 阅读全文",
+      "content": "<p>Xbox正为下一代主机Project Helix探索神经渲染技术，希望通过新的画面帧生成方式缓解算力和额外内存需求，同时兼顾技术进步与产品的可负担性。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1586530.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586530.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-15",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1586530.htm"
+    },
+    {
+      "id": 5522,
+      "title": "AMD-powered laptop with 32 GB RAM and RTX 5070 discounted by $700",
+      "summary": "Deal | The Acer Swift X14 laptop with a powerful 10-core AMD Ryzen 9 APU, 32 GB of RAM, and an RTX 5070 Laptop GPU is now available with a sizable $700 discount for a limited time.",
+      "content": "Deal | The Acer Swift X14 laptop with a powerful 10-core AMD Ryzen 9 APU, 32 GB of RAM, and an RTX 5070 Laptop GPU is now available with a sizable $700 discount for a limited time.",
+      "link": "https://www.notebookcheck.net/AMD-powered-laptop-with-32-GB-RAM-and-RTX-5070-discounted-by-700.1450938.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-15",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/AMD-powered-laptop-with-32-GB-RAM-and-RTX-5070-discounted-by-700.1450938.0.html"
     },
     {
       "id": 5358,
