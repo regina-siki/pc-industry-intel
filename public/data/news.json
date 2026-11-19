@@ -1,7 +1,744 @@
 {
-  "updatedAt": "2026-11-18",
-  "total": 5779,
+  "updatedAt": "2026-11-19",
+  "total": 5834,
   "list": [
+    {
+      "id": 5780,
+      "title": "三星AI眼镜开启预售 数小时内售罄",
+      "summary": "三星电子定于12月10日正式发售的新款AI眼镜，预售开启后很快售罄，初步显现市场旺盛需求。业内消息19日称，三星电子这款名为Intelligent Eyewear的AI眼镜于11月12日在韩国、美国同步开启预售，备货量在数小时内就被抢购一空。韩国官网在售的16款不同配色、款式版本，目前预售状态均显示售罄，无法下单；美国市场30款版本也全部售罄。 阅读全文",
+      "content": "<p>三星电子定于12月10日正式发售的新款AI眼镜，预售开启后很快售罄，初步显现市场旺盛需求。业内消息19日称，三星电子这款名为Intelligent Eyewear的AI眼镜于11月12日在韩国、美国同步开启预售，备货量在数小时内就被抢购一空。韩国官网在售的16款不同配色、款式版本，目前预售状态均显示售罄，无法下单；美国市场30款版本也全部售罄。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587106.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587106.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587106.htm"
+    },
+    {
+      "id": 5781,
+      "title": "美国国会报告称中国军方被寻求获取先进英伟达芯片用于AI武器系统",
+      "summary": "据路透社报道，美国国会下属的美中经济与安全审查委员会在年度报告中称，中国军方正试图绕过美国的出口管制，获取英伟达等公司生产的先进芯片，以推动人工智能在武器和军事系统中的应用。报告认为，尽管美国持续收紧对华芯片出口，中国仍将先进半导体视为发展“智能化战争”能力的关键资源。 阅读全文",
+      "content": "<p>据路透社报道，美国国会下属的美中经济与安全审查委员会在年度报告中称，中国军方正试图绕过美国的出口管制，获取英伟达等公司生产的先进芯片，以推动人工智能在武器和军事系统中的应用。报告认为，尽管美国持续收紧对华芯片出口，中国仍将先进半导体视为发展“智能化战争”能力的关键资源。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587100.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587100.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587100.htm"
+    },
+    {
+      "id": 5782,
+      "title": "退役飞机发动机，被马斯克“返聘”了",
+      "summary": "给AI数据中心供电的设备里，居然有从退役客机上拆下来的航空发动机。经过翻新和改造，这些发动机被重新组装成燃气轮机发电设备，重新投入工作。它们曾经在万米高空为飞机提供动力，如今摇身一变，成了地面数据中心的电力希望。 阅读全文",
+      "content": "<p>给AI数据中心供电的设备里，居然有从退役客机上拆下来的航空发动机。<strong>经过翻新和改造，这些发动机被重新组装成燃气轮机发电设备，重新投入工作。它们曾经在万米高空为飞机提供动力，如今摇身一变，成了地面数据中心的电力希望。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587090.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587090.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587090.htm"
+    },
+    {
+      "id": 5783,
+      "title": "消息称OpenAI进军手机市场 富士康旗下公司接单",
+      "summary": "据证券时报报道，OpenAI正在推进手机项目，富士康旗下富智康集团已获得相关订单，将参与产品的整机组装。富智康集团主要从事移动终端等电子产品的制造服务，其母公司富士康也是苹果iPhone的主要组装商。如果上述供应链消息最终落地，意味着OpenAI的硬件布局可能进一步延伸至智能手机，并与现有手机厂商围绕AI交互入口展开更直接的竞争。 阅读全文",
+      "content": "<p>据证券时报报道，OpenAI正在推进手机项目，富士康旗下富智康集团已获得相关订单，将参与产品的整机组装。富智康集团主要从事移动终端等电子产品的制造服务，其母公司富士康也是苹果iPhone的主要组装商。如果上述供应链消息最终落地，意味着OpenAI的硬件布局可能进一步延伸至智能手机，并与现有手机厂商围绕AI交互入口展开更直接的竞争。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587088.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587088.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587088.htm"
+    },
+    {
+      "id": 5784,
+      "title": "黄仁勋继任者被曝已有人选",
+      "summary": "据新加坡《联合早报》网站11月19日报道，知情人士透露，受英伟达董事会委托物色新任总裁的猎头公司海德思哲，目前已就这个职位与英国芯片设计公司安谋总裁雷内·哈斯进行接触。 阅读全文",
+      "content": "<p>据新加坡《联合早报》网站11月19日报道，知情人士透露，<span style=\"\">受英伟达董事会委托物色新任总裁的猎头公司海德思哲，目前已就这个职位与英国芯片设计公司安谋总裁雷内·哈斯进行接触。</span></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587084.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587084.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587084.htm"
+    },
+    {
+      "id": 5785,
+      "title": "NVIDIA董事会内部上演分歧 部分力挺黄仁勋回归 董事长坚决反对",
+      "summary": "虽然NVIDIA董事长已明确表态没有让黄仁勋重返CEO岗位的计划，但公司董事会内部仍有人推动其回归，双方意见出现分歧。报道称，约有3名董事不认同拒绝黄仁勋复职的立场，黄仁勋本人也曾与至少一名董事讨论重返NVIDIA的可能性，相关接触发生在NVIDIA发布财报、董事长公开表态之前。 阅读全文",
+      "content": "<p>虽然NVIDIA董事长已明确表态没有让黄仁勋重返CEO岗位的计划，但公司董事会内部仍有人推动其回归，双方意见出现分歧。报道称，<strong>约有3名董事不认同拒绝黄仁勋复职的立场，黄仁勋本人也曾与至少一名董事讨论重返NVIDIA的可能性，</strong>相关接触发生在NVIDIA发布财报、董事长公开表态之前。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587078.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587078.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587078.htm"
+    },
+    {
+      "id": 5786,
+      "title": "NGINX出现严重HTTP/2漏洞 涉及远程代码执行",
+      "summary": "网络公司 F5 日前为开源服务器组件 NGINX 发布紧急安全更新用于修复 10 个严重安全漏洞，其中 CVE-2026-123007 和 123633 可能允许未经身份验证的攻击者远程执行代码。 阅读全文",
+      "content": "<p>网络公司 F5 日前为开源服务器组件 NGINX 发布紧急安全更新用于修复 10 个严重安全漏洞，其中 CVE-2026-123007 和 123633 可能允许未经身份验证的攻击者远程执行代码。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587066.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587066.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587066.htm"
+    },
+    {
+      "id": 5787,
+      "title": "英伟达显卡驱动也被发现持续写盘：每小时写入30GB 可能会降低固态硬盘寿命",
+      "summary": "早前 AMD 显卡驱动程序被发现存在某种故障，该故障导致设备在空闲时驱动程序持续在后台进行写盘。高速写盘会持续消耗固态硬盘寿命，所以在收到反馈后 AMD 很快便发布新版显卡驱动程序修复问题。 阅读全文",
+      "content": "<p>早前 AMD 显卡驱动程序被发现存在某种故障，该故障导致设备在空闲时驱动程序持续在后台进行写盘。高速写盘会持续消耗固态硬盘寿命，所以在收到反馈后 AMD 很快便发布新版显卡驱动程序修复问题。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587064.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587064.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587064.htm"
+    },
+    {
+      "id": 5788,
+      "title": "AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果",
+      "summary": "OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展。OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高14%的功耗、性能和面积（PPA）指标改善。部分优化成果已被AMD纳入近期提交制造的芯片设计。 阅读全文",
+      "content": "<p>OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展。OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高<strong>14%的功耗、性能和面积（PPA）指标改善</strong>。部分优化成果已被AMD纳入近期提交制造的芯片设计。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587048.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587048.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587048.htm"
+    },
+    {
+      "id": 5789,
+      "title": "纳德拉力挺英伟达：黄仁勋离职令人遗憾 但对公司未来仍充满信心",
+      "summary": "在英伟达前首席执行官黄仁勋突然离职并引发市场震动后，微软首席执行官萨提亚·纳德拉首次公开就此事发表看法。尽管外界对于英伟达未来发展和领导层交接存在担忧，但纳德拉表示，他依然对这家人工智能芯片巨头及其管理团队充满信心。 阅读全文",
+      "content": "<p>在英伟达前首席执行官黄仁勋突然离职并引发市场震动后，微软首席执行官萨提亚·纳德拉首次公开就此事发表看法。尽管外界对于英伟达未来发展和领导层交接存在担忧，但纳德拉表示，他依然对这家人工智能芯片巨头及其管理团队充满信心。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587030.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587030.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587030.htm"
+    },
+    {
+      "id": 5790,
+      "title": "纳德拉警告：大量关键基础设施无法打补丁 AI或将加剧网络安全风险",
+      "summary": "随着人工智能技术快速发展，关于AI被用于发起大规模网络攻击的担忧正在升温。微软首席执行官萨提亚·纳德拉近日在公开活动中表示，全球范围内存在大量“无法打补丁”的关键基础设施系统，这些设备和平台可能在未来面临越来越严峻的安全挑战。 阅读全文",
+      "content": "<p>随着人工智能技术快速发展，关于AI被用于发起大规模网络攻击的担忧正在升温。微软首席执行官萨提亚·纳德拉近日在公开活动中表示，全球范围内存在大量“无法打补丁”的关键基础设施系统，这些设备和平台可能在未来面临越来越严峻的安全挑战。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587028.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587028.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587028.htm"
+    },
+    {
+      "id": 5791,
+      "title": "AMD“热爱玩家”宣传引争议：官方表态与CEO“数据中心优先”战略出现明显反差",
+      "summary": "近日，AMD日本官方在社交平台X上发布消息称，“AMD热爱玩家”，并表示公司始终将与玩家群体的互动置于极其重要的位置。这则帖文转发了有关AMD首席执行官苏姿丰出席美国得州奥斯汀新Micro Center门店开业活动的报道。活动期间，AMD向到场玩家发放了300份礼品袋，并抽奖送出了一块由苏姿丰亲笔签名的Radeon RX 9070 XT显卡，试图进一步拉近与玩家社区之间的距离。 阅读全文",
+      "content": "<p>近日，AMD日本官方在社交平台X上发布消息称，“AMD热爱玩家”，并表示公司始终将与玩家群体的互动置于极其重要的位置。这则帖文转发了有关AMD首席执行官苏姿丰出席美国得州奥斯汀新Micro Center门店开业活动的报道。活动期间，AMD向到场玩家发放了300份礼品袋，并抽奖送出了一块由苏姿丰亲笔签名的Radeon RX 9070 XT显卡，试图进一步拉近与玩家社区之间的距离。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587016.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587016.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587016.htm"
+    },
+    {
+      "id": 5792,
+      "title": "联想Legion Go Beam掌机谍照曝光：取消标志性触控板 改用16:9屏幕",
+      "summary": "联想似乎正在为Legion Go掌机系列增加一款更加亲民的产品。近日，Windows Latest曝光了多张疑似联想新款掌上游戏设备的高清图片，显示这款产品可能命名为Legion Go Beam。与现有的Legion Go S相比，新机在操控配置、接口数量和屏幕设计上均有所简化，明显带有降低制造成本的意图。 阅读全文",
+      "content": "<p>联想似乎正在为Legion Go掌机系列增加一款更加亲民的产品。近日，Windows Latest曝光了多张疑似联想新款掌上游戏设备的高清图片，显示这款产品可能命名为Legion Go Beam。与现有的Legion Go S相比，新机在操控配置、接口数量和屏幕设计上均有所简化，明显带有降低制造成本的意图。</p> <a href=\"https://www.cnbeta.com.tw/articles/game/1587014.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1587014.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1587014.htm"
+    },
+    {
+      "id": 5793,
+      "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
+      "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表",
+      "content": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85931",
+      "source": "Solidot",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85931"
+    },
+    {
+      "id": 5794,
+      "title": "华为鸿蒙星河互联官宣支持流转 iPhone 来电，当前适配 Mate 90 系列、XT 2 非凡大师机型",
+      "summary": "IT之家 11 月 19 日消息，华为官方今日发布图文，介绍了鸿蒙星河互联带来的 HUAWEI + iPhone 双机互联的功能，包括网络共享、一键查找、消息 & 电话流转等。 IT之家附华为官方图文介绍如下： 华为官方宣传页面显示，鸿蒙星河互联支持 iPhone 通话流转至华为手机，并且同样能够激活华为手机端的智能防诈功能。但华为官网显示，仅部分华为手机型号支持接听 iPhone 来电，且华为手机来电暂不支持在 iPhone 接听。 IT之家进一步查询获悉，电话流转功能当前",
+      "content": "<p data-vmark=\"4a57\">IT之家 11 月 19 日消息，华为官方今日发布图文，介绍了鸿蒙星河互联带来的 HUAWEI + iPhone 双机互联的功能，<strong>包括网络共享、一键查找、消息 &amp; 电话流转等</strong>。</p><p data-vmark=\"0855\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6b9a5b41-1ee7-4e03-b010-bb9907835654.jpg\" w=\"1080\" h=\"1920\" data-weibo=\"0\" data-vmark=\"ed57\" class=\"no-alt-img\"></p><p data-vmark=\"adb6\">IT之家附华为官方图文介绍如下：</p><p data-vmark=\"c635\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/515e5354-53bc-49b3-8ac3-921db2ad1be0.gif\" w=\"1059\" h=\"1800\" data-weibo=\"1\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/515e5354-53bc-49b3-8ac3-921db2ad1be0.gif?x-bce-process=image/format,f_png\" data-vmark=\"230d\" class=\"no-alt-img\"></p><p data-vmark=\"4dca\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/816c3b22-66af-4741-82af-eeb1cd853645.gif\" w=\"941\" h=\"1600\" data-weibo=\"2\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/816c3b22-66af-4741-82af-eeb1cd853645.gif?x-bce-process=image/format,f_png\" data-vmark=\"dd78\" class=\"no-alt-img\"></p><p data-vmark=\"89b2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/53b8a0bf-acdc-46b7-bf86-5368d6c8dbea.gif\" w=\"941\" h=\"1600\" data-weibo=\"3\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/53b8a0bf-acdc-46b7-bf86-5368d6c8dbea.gif?x-bce-process=image/format,f_png\" data-vmark=\"8cd4\" class=\"no-alt-img\"></p><p data-vmark=\"722b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/393099ed-a6b1-4c2a-b48f-98994f221bfe.gif\" w=\"882\" h=\"1500\" data-weibo=\"4\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/393099ed-a6b1-4c2a-b48f-98994f221bfe.gif?x-bce-process=image/format,f_png\" data-vmark=\"8ae0\" class=\"no-alt-img\"></p><p data-vmark=\"d77d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ace1a1fe-a5b7-40a6-af58-ab6c7c609214.gif\" w=\"882\" h=\"1500\" data-weibo=\"5\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/ace1a1fe-a5b7-40a6-af58-ab6c7c609214.gif?x-bce-process=image/format,f_png\" data-vmark=\"04ac\" class=\"no-alt-img\"></p><p data-vmark=\"b5ea\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c2269f50-fea6-46d3-90a4-5b73a19850d7.gif\" w=\"882\" h=\"1500\" data-weibo=\"6\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/c2269f50-fea6-46d3-90a4-5b73a19850d7.gif?x-bce-process=image/format,f_png\" data-vmark=\"8e6a\" class=\"no-alt-img\"></p><p data-vmark=\"a32c\" style=\"text-align: left;\">华为官方宣传页面显示，鸿蒙星河互联支持 iPhone 通话流转至华为手机，并且同样能够激活华为手机端的智能防诈功能。但华为官网显示，<strong>仅部分华为手机型号支持接听 iPhone 来电</strong>，且华为手机来电暂不支持在 iPhone 接听。</p><p data-vmark=\"69e1\" style=\"text-align: left;\">IT之家进一步查询获悉，<strong>电话流转功能当前仅 Mate 90 系列、Mate XT 2 非凡大师支持</strong>。其他华为手机支持接收 iPhone 侧未接来电通知。此外，iPhone 的微信语音通话 / 视频通话暂不支持流转至华为手机接听。同时，FaceTime 来电如流转至华为手机，<strong>在华为手机接听后将不会流转视频</strong>。</p><p data-vmark=\"153e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f1a59838-137a-491a-9405-5a510b742d99.jpg\" w=\"1260\" h=\"1861\" data-mpos=\"1,0\"  data-vmark=\"91c4\" class=\"no-alt-img\"></p><p data-vmark=\"d1d3\">目前尚不知晓系列功能何时全量开放给其他机型，IT之家也将保持关注，并在第一时间带来最新情报。</p><p data-vmark=\"b2cf\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"06f1\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/017/430.htm\">华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/029/657.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/657.htm"
+    },
+    {
+      "id": 5795,
+      "title": "JAPANNEXT 推出 6K 显示器 JN-X6K2：60Hz 300nits，98% DCI-P3",
+      "summary": "IT之家 11 月 19 日消息，JAPANNEXT 今日宣布推出 6K 显示器 JN-X6K2。这一型号采用 31.5\" 6016×3384 IPS LCD 面板，支持 60Hz 刷新率，拥有 300nits 亮度，表面为哑光效果。 JN-X6K2 灰阶 (GtG) 响应时间低至 7ms；静态对比度 2000:1；色深 10-bit，色域 100% sRGB / 98% DCI-P3 / 95% Adobe RGB。 其提供 2 个 HDMI 2.1、1 个 Display",
+      "content": "<p data-vmark=\"9acc\">IT之家 11 月 19 日消息，JAPANNEXT 今日宣布推出 6K 显示器 JN-X6K2。这一型号<strong>采用 31.5\" 6016×3384 IPS LCD 面板</strong>，支持 60Hz 刷新率，拥有 300nits 亮度，表面为哑光效果。</p><p data-vmark=\"0e1e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/00dd391f-d033-47df-b581-7621e1f11159.jpg\" w=\"1440\" h=\"1152\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"2b1d\"></p><p data-vmark=\"86a0\">JN-X6K2 灰阶 (GtG) 响应时间低至 7ms；静态对比度 2000:1；色深 10-bit，<strong>色域 100% sRGB / 98% DCI-P3 / 95% Adobe RGB</strong>。</p><p data-vmark=\"5ad3\">其提供 2 个 HDMI 2.1、1 个 DisplayPort 1.4、1 个 USB-C（支持 90W USB PD 输出）、1 个 3.5mm 音频输出插孔；另有 1 个 USB-B 5Gbps 上行、2 个 USB-A 5Gbps 下行。</p><p data-vmark=\"7746\">此外，其内置 2 个 5W 扬声器；自带支架支持俯仰、上下、旋转、横竖调节，兼容 100×100 (mm) VESA 壁挂规范。</p><p data-vmark=\"669b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/48f970c3-7642-4ed1-9c4f-7216cae7159a.jpg\" w=\"1440\" h=\"868\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"8cd6\"></p><p data-vmark=\"ca6b\">IT之家了解到，JAPANNEXT 显示器<strong>定价为 16.98 万日元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 7,115 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/029/654.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/654.htm"
+    },
+    {
+      "id": 5796,
+      "title": "马斯克：目前 SpaceX 每个月约新增 0.5GW 算力，明年底将提速至每月 1GW",
+      "summary": "IT之家 11 月 19 日消息，据《科创板日报》今天报道，马斯克在视频连线采访中表示，目前 SpaceX 每个月大约新增 0.5GW AI 算力。这大致相当于部署 22 万颗 GB300 芯片，以及与之配套的 CPU、网络设备、冷却系统等一整套基础设施。 马斯克认为 SpaceX 真正的扩张瓶颈在发电端，公司明年将进一步提速：到明年年底，每月新增 AI 算力超 1GW（IT之家注：吉瓦），“届时，这些算力或许已经可以名副其实地称为‘超级智能算力’（superintellig",
+      "content": "<p data-vmark=\"f11f\">IT之家 11 月 19 日消息，据《科创板日报》今天报道，马斯克在视频连线采访中表示，目前 SpaceX 每个月大约新增 0.5GW AI 算力。<strong>这大致相当于部署 22 万颗 GB300 芯片</strong>，以及与之配套的 CPU、网络设备、冷却系统等一整套基础设施。</p><p data-vmark=\"19d2\">马斯克认为 SpaceX 真正的扩张瓶颈在发电端，公司明年将进一步提速：<strong>到明年年底</strong>，<strong>每月新增 AI 算力超 1GW（IT之家注：吉瓦）</strong>，“届时，这些算力或许已经可以名副其实地称为‘超级智能算力’（superintelligence compute）了”。</p>",
+      "link": "https://www.ithome.com/1/029/649.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/649.htm"
+    },
+    {
+      "id": 5797,
+      "title": "博帝推出 AI Matrix 系列 DDR5 内存、M.2 SSD，专为端侧 AI 设计",
+      "summary": "IT之家 11 月 19 日消息，博帝（Patriot）今日宣布推出 AI Matrix 系列 DDR5 内存和 PCIe M.2 2280 NVMe SSD，专为端侧运行大语言模型设计。 IT之家附该系列产品详情如下： PRO 档（适用于 34B 至 70B 参数模型）： AI Matrix MS560 SSD：PCIe Gen 5 x4 M.2 2280 接口，提供 1TB、2TB 和 4TB 容量版本；4TB 版本顺序读取和写入速度最高分别为 14000MB/s 和 1",
+      "content": "<p data-vmark=\"74ea\">IT之家 11 月 19 日消息，博帝（Patriot）今日宣布推出 AI Matrix 系列 DDR5 内存和 PCIe M.2 2280 NVMe SSD，专为端侧运行大语言模型设计。</p><p style=\"text-align: center;\" data-vmark=\"c42e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/55a00598-4531-44c9-b717-0546af518792.jpg\" w=\"1316\" h=\"937\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"4f48\"></p><p data-vmark=\"a4f1\">IT之家附该系列产品详情如下：</p><p data-vmark=\"9048\"><strong>PRO 档（适用于 34B 至 70B 参数模型）：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d024\">AI Matrix MS560 SSD：PCIe Gen 5 x4 M.2 2280 接口，提供 1TB、2TB 和 4TB 容量版本；4TB 版本顺序读取和写入速度最高分别为 14000MB/s 和 11000MB/s。</p></li><li><p data-vmark=\"36b0\">AI Matrix MD57N DRAM：DDR5 内存，超频状态下速度最高可达 6000MT/s；提供 64GB（2×32GB）UDIMM 套装。</p></li></ul><p data-vmark=\"8546\"><strong>Mid 档（适用于 14B 至 34B 参数模型）：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ad44\">AI Matrix MS450 SSD：PCIe Gen 4 x4 M.2 2280 接口，提供 1TB、2TB 和 4TB 容量版本；顺序读取和写入速度最高分别为 5000MB/s 和 4500MB/s。</p></li><li><p data-vmark=\"ea96\">AI Matrix MD55N DRAM：DDR5 内存，超频状态下速度最高可达 6000MT/s；提供 32GB（2×16GB）套装。</p></li></ul><p data-vmark=\"314d\"><strong>Entry 档（适用于 7B 至 14B 参数模型）：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4b8c\">AI Matrix MS350 SSD：PCIe Gen 3 x4 M.2 2280 接口，提供 512GB、1TB 和 2TB 容量版本；顺序读取和写入速度最高分别为 3000MB/s 和 2000MB/s。</p></li><li><p data-vmark=\"2fb7\">AI Matrix MD35N / MD34N DRAM：DDR5 内存，速度为 5600MT/s；提供 32GB（2×16GB）套装。</p></li></ul>",
+      "link": "https://www.ithome.com/1/029/645.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/645.htm"
+    },
+    {
+      "id": 5798,
+      "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
+      "summary": "IT之家 11 月 19 日消息，一款名为“Andarium”软件现已上架苹果 App Store 平台。据介绍，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用。 IT之家从 App Store 获悉，Andarium 应用内直接包含基于 LineageOS 的 Android 17 系统，完全在设备本地运行，无需登录账号，无广告、无追踪。用户可直接从“文件”应用安装 APK 文件，内置“文件浏览器”，可浏览存储空间并导入或导出文件和",
+      "content": "<p data-vmark=\"6262\">IT之家 11 月 19 日消息，一款名为“Andarium”软件现已上架苹果 App Store 平台。据介绍，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用。</p><p data-vmark=\"bd07\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0ee281f7-aeb6-4512-b4be-ea2beb000902.jpg\" w=\"1440\" h=\"1348\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1c19f1df71461718b5a4e3fed03d6fb47c35c0e610d9ff3fbae438d843fb75056b1ab7755f4f24741\" data-vmark=\"86a6\" class=\"no-alt-img\"></p><p data-vmark=\"3394\">IT之家从 App Store 获悉，<strong>Andarium 应用内直接包含基于 LineageOS 的 Android 17 系统</strong>，完全在设备本地运行，无需登录账号，无广告、无追踪。用户可直接从“文件”应用安装 APK 文件，内置“文件浏览器”，可浏览存储空间并导入或导出文件和文件夹。</p><p data-vmark=\"87c8\">值得一提的是，该应用支持 3D 图形与视频播放，<strong>可自由调节显示分辨率</strong>；支持屏幕旋转，并支持运动与指南针传感器；支持多点触控，并提供可拖动的屏幕侧键菜单（电源、音量、返回、主页和设置）；<strong>在 iPad 上支持外接键盘、鼠标和触控板</strong>，并支持蓝牙与 MFi 控制器。</p><p data-vmark=\"5e61\">Andarium 还可调节 CPU、内存、显示分辨率和存储大小，<strong>并可选择纳入 iCloud 或设备备份</strong>；支持保存“快照”，随时备份并恢复虚拟机状态；并提供相机、位置、麦克风和触感反馈开关，可按需开启。</p><p data-vmark=\"c49a\">需要注意的是，<strong>Andarium 需要搭载 Apple A14 或更新芯片的设备</strong>（iPhone 12 或更新机型，或搭载 A14 或 M 系列芯片的 iPad）。首次设置建议预留至少 10GB 可用存储空间。虚拟机在 Andarium 处于前台时运行，切换应用时会自动暂停。</p><p data-vmark=\"b21f\">IT之家实测，初次进入 Andarium 时，会提示对应用进行设置（CPU 和内存、分辨率、存储空间等）。进入应用后，系统内置软件仅设置、相机、图库等。如需安装软件需要自己提前准备。毕竟是在 iPhone 上运行安卓虚拟机，<strong>因此实际运行起来会存在卡顿掉帧的情况</strong>。</p><p data-vmark=\"a1eb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d3f2982f-4c57-4d4f-aad8-c8621dab063f.jpg\" w=\"1260\" h=\"2553\" data-mpos=\"0,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1a5bab51d6b653be13f7accb7fc00cb42966455aa7e147d3086147af333f7e2b2872b75aff3100da2\" data-vmark=\"d368\" class=\"no-alt-img\"></p><p data-vmark=\"7feb\"><strong>当设备温度过高时，Andarium 会发出提示，并降低帧率</strong>。虚拟机默认运行内存设置为 4GB，如设置高于 4.19GB 会提示游戏可能耗尽显存；如设置超过 4.5GB，iOS 可能会关闭 Andarium。另外，在虚拟机刷IT之家依旧能流畅体验最新的液态玻璃效果。</p><p data-vmark=\"971e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/921ead71-be26-4422-94c4-a9cc0a3f5c5e.jpg\" w=\"1260\" h=\"2736\" data-weibo=\"2\" data-vmark=\"5c23\" class=\"no-alt-img\"></p><p data-vmark=\"aa74\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0ea6a7fa-a407-4c4c-8ea4-d2fb44ba287a.jpg\" w=\"1260\" h=\"2736\" data-weibo=\"3\" data-vmark=\"7f91\" class=\"no-alt-img\"></p><p data-vmark=\"de20\">开发者表示，Andarium 不会收集任何个人数据、分析统计或遥测信息。源代码已在 GitHub 公布。</p><p data-vmark=\"6fca\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0009eae4-e52f-4e99-a39d-ea4c1f370110.jpg\" w=\"1440\" h=\"1002\" data-mpos=\"0,2\" data-weibo=\"4\"  data-vmark=\"1327\" class=\"no-alt-img\"></p><p data-vmark=\"894b\">IT之家附项目开源地址如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8149\"><a target=\"_blank\" href=\"https://github.com/imxieyi/Kernarium\"><span class=\"link-text-start-with-http\">https://github.com/imxieyi/Kernarium</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/029/644.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/644.htm"
+    },
+    {
+      "id": 5799,
+      "title": "消息称苹果重新评估 OLED 版 iMac：开发进度可能推迟，甚至直接砍掉",
+      "summary": "IT之家 11 月 19 日消息，据韩媒 The Elec 今天报道，苹果正在与三星显示重新评估 OLED 版 iMac 一体机的开发计划，最坏的结果可能是直接砍掉。 据业内人士透露，苹果近期一直在和三星显示讨论 OLED iMac 的开发时间表调整。目前考虑的方案包括推迟开发进度，或者彻底暂停项目。 IT之家从原报道了解到，苹果重新评估 OLED iMac 的主要原因是价格。与手机、笔记本等产品相比，iMac 一体机的销量规模较小，如果采用价格昂贵的 OLED 面板，将难以",
+      "content": "<p data-vmark=\"9c40\">IT之家 11 月 19 日消息，据韩媒 The Elec 今天报道，苹果正在与三星显示重新评估 OLED 版 iMac 一体机的开发计划，<strong>最坏的结果可能是直接砍掉</strong>。</p><p style=\"text-align: center;\" data-vmark=\"f46e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f4e97d6e-cb96-416e-b324-2b14a8e01558.jpg\" w=\"1440\" h=\"1106\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"1af3\"></p><p data-vmark=\"b2be\">据业内人士透露，苹果近期一直在和三星显示讨论 OLED iMac 的开发时间表调整。目前考虑的方案包括推迟开发进度，或者彻底暂停项目。</p><p data-vmark=\"5ea7\">IT之家从原报道了解到，苹果重新评估 OLED iMac 的主要原因是价格。与手机、笔记本等产品相比，iMac 一体机的销量规模较小，如果采用价格昂贵的 OLED 面板，将难以维持具备竞争力的产品定价。</p><p data-vmark=\"bd37\">同时，OLED 版 iPad Pro 销量疲软也影响了苹果的决定。据预测，三星显示和乐金显示今年为 iPad Pro 供应的 OLED 面板，出货量从去年的 600 万片降至今年的 490 万片，降幅约 18%。近期存储芯片价格上涨，也进一步加重了苹果其他产品 OLED 化面临的成本压力。</p><p data-vmark=\"9f0a\">苹果管理层变动也可能影响了研发计划。自约翰 · 特努斯 9 月接任公司 CEO 以来，这家公司可能一直在重新审视 OLED 面板的商业可行性。</p><p data-vmark=\"a7fa\">苹果最初考虑在 2029 年或 2030 年推出 OLED 版 iMac。该公司去年曾向三星显示、乐金显示等供应商发送征询函，要求开发 24 英寸 OLED 面板，具体参数为最高亮度 600nits、218 PPI。</p>",
+      "link": "https://www.ithome.com/1/029/640.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/640.htm"
+    },
+    {
+      "id": 5800,
+      "title": "摩尔线程 MDC 2026 海报暗藏玄机，暗示“庐山”显卡即将亮相",
+      "summary": "IT之家 11 月 19 日消息，摩尔线程官方今天公布了 MDC 2026（MUSA 开发者大会）的首张预热海报，其中暗藏“庐山”。 IT之家发现，这张海报中间偏下隐约出现了显卡的一角，还化用了苏轼名句：“不识＿＿真面目，只缘硬核在其中。”；从这些暗示我们不难看出，代号为“庐山”的新显卡有望即将亮相。 同时，本次大会将带来摩尔线程 MUSA 平台的最新进展。从下一代 GPU 架构的深入解析，到全新升级的软件开发工具与库，帮助开发者充分释放硬件性能，创造出卓越的 AI 智能应用",
+      "content": "<p data-vmark=\"5914\">IT之家 11 月 19 日消息，摩尔线程官方今天公布了 MDC 2026（MUSA 开发者大会）的首张预热海报，其中暗藏“庐山”。</p><p style=\"text-align: center;\" data-vmark=\"5dbb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a734cc10-5410-41fe-8920-e7e47e4e6ac1.png\" w=\"1440\" h=\"1919\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"1db8\"></p><p data-vmark=\"bbb4\">IT之家发现，<strong>这张海报中间偏下隐约出现了显卡的一角</strong>，还化用了苏轼名句：“不识＿＿真面目，只缘硬核在其中。”；从这些暗示我们不难看出，代号为“庐山”的新显卡有望即将亮相。</p><p data-vmark=\"880b\">同时，本次大会将带来摩尔线程 MUSA 平台的最新进展。从下一代 GPU 架构的深入解析，到全新升级的软件开发工具与库，帮助开发者充分释放硬件性能，创造出卓越的 AI 智能应用。</p><p data-vmark=\"79e5\">此外，本次大会的主题演讲定在 12 月 29 日上午，官方将在此带来全新重磅产品、技术及解决方案。大会的双日通票价格为 188 元，单日票为 68 元一天。</p><p style=\"text-align: center;\" data-vmark=\"9fdd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9ca406af-f658-45bb-bf31-257fe2b2b6ad.jpg\" w=\"1440\" h=\"658\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"2,0\"  data-vmark=\"5ec7\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"fa54\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5172\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/029/638.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/638.htm"
+    },
+    {
+      "id": 5801,
+      "title": "零刻上新龙芯 2K3000 版 ME Pro 四盘位 NAS，2015 元起",
+      "summary": "IT之家 11 月 19 日消息，零刻 (Beelink) 今日推出了 ME Pro 四盘位 NAS 的龙芯 2K3000 版本。其预装 Loongnix 操作系统，板载 64GB eMMC，无 DDR4 内存版为 2,015 元。 龙芯 2K3000 提供 8 核 2.2GHz LA364E CPU、LG200 GPU 拥有≥6TOPS 的 INT8 AI 算力，VPU 支持 4K 60FPS。 该 NAS 提供 2 个 M.2 2280 盘位（分别支持 PCIe Gen3",
+      "content": "<p data-vmark=\"8c5f\">IT之家 11 月 19 日消息，零刻 (Beelink) 今日推出了 ME Pro 四盘位 NAS 的<strong>龙芯 2K3000 版本</strong>。其预装 Loongnix 操作系统，板载 64GB eMMC，无 DDR4 内存版为 2,015 元。</p><p data-vmark=\"9782\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/872e25f9-b0da-47c8-8632-cd427aec5607.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"82a6\"></p><p data-vmark=\"6c20\">龙芯 2K3000 提供 8 核 2.2GHz LA364E CPU、LG200 GPU 拥有≥6TOPS 的 INT8 AI 算力，VPU 支持 4K 60FPS。</p><p data-vmark=\"0330\">该 NAS 提供 2 个 M.2 2280 盘位（<strong>分别支持 PCIe Gen3 ×1 和 SATA</strong>），另有 4 个 3.5\"/2.5\" SATA 盘位；配备瑞昱 RTL8852BE 无线网卡，支持 Wi-Fi 6 &amp; 蓝牙 5.4。</p><p data-vmark=\"cd11\">外部 I/O 方面，其正面提供 1 个 USB-A 5Gbps；反面提供 1 个 USB-A 5Gbps、1 个 USB-C 5Gbps、1 个 USB-A 480Mbps、1 个 HDMI 2.1 (TMDS)、2 个 2.5GbE RJ-45、1 个 3.5mm 音频插孔。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?e=5ZDRJG3XTXKlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL82cr4jAF03wuIcv1m7oPCZGGWXIecH9yDWOgXfI0A0HO3%2B06bdz3oNSfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzSsa1jpueNohd4pjtu38nF6KDCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9VGFPIwCkrMVRV6p%2BYfKYJaZNVnwn%2BFJVijdfAKMf4s7JSDAi30qQ2q%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e03ed17950826927774652e0bf9&amp;&amp;union_lens=lensId:TAPI@1795082692@2146bd3b_152a_1a1f34428f3_340f@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?e=UbR9ZFejYaulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL1bB8%2BiEMtFCnRLVVjumV04RCJFQrO3meQ3nI8JpBtT3N4uzCERFeF9SfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzSlzbTAPoaU4PoNiOiRwuqfaDCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9QuKDmApFs0WIwdTt4LGbmjj4OFhM3IfOhJLmezY%2BTo1WpVgQ9dKdBq%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e035c17950826931361487e0a9f&amp;&amp;union_lens=lensId:TAPI@1795082693@213dbc98_14f1_1a1f3442a53_839a@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?e=jfHhVRXrNxSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLofH%2F1gLA5AAu2OZ563p9DYKCgg5g6oza%2FwEV7hIftxfN4uzCERFeF9SfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzSp4CeVRmHohwfR2dShdZEMuDCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9Q3Db%2BpP4ERf3MhCm1AOVU%2FpmKTs3vf2GkFPreeypDzWflt96l7Nnlu%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e050317950826934921286e0c83&amp;&amp;union_lens=lensId:TAPI@1795082693@213f7a7d_1575_1a1f3442bb7_2ebd@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?e=Eu%2BKyZeMyYalhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLyJ59Axu3Un%2BnlYgO9VP4K86FvHOArycZyI6JvVl2uIvN4uzCERFeF9SfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzShSdjd7pu9rHXX%2B6BfKAcPODCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9YoeGRciFdV3YKOVcpf4aqGK%2BjfFNMVf7PUDKYWNEam7oTbAse8f0t6%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e050117950826938225645e0b25&amp;&amp;union_lens=lensId:TAPI@1795082693@213dbc98_14f1_1a1f3442cfc_83b2@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?e=5%2BTFj0xdJY6lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLODYTKYf6gvbr8nASJ9gTyupfonEeidEnb3hoUST%2BWbUPjD36hIsLk8k%2Bh59v66mtapahCW03i3Ik7BbPIUYUjBAiHl2zZ146jbIB8M0hEHf%2FTpC1SkeMQ6pF0WfbxNDIh1s25f8J3MUSFeXo5GTdjoErbrmrhH70Y2fdQqRe3t3q1goa4Ij7HKGTLVJ2cXEnzG0Y1cbGomkYbsdJ66lodzjH1vIhRoemAAgNyXy0xGgjjhdSk%2FM4Wrn6izS5vNomucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;traceId=213e050317950826943866362e0a70&amp;&amp;union_lens=lensId:TAPI@1795082694@21075374_1466_1a1f3442f21_314f@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?e=DoYaMRAMPz2lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLCh2kfNgCY%2BbcB2WmxIXTlTHpf9insG4lQPq5JHproHAPjD36hIsLk8k%2Bh59v66mtapahCW03i3Ik7BbPIUYUjBAiHl2zZ146jbIB8M0hEHf%2FTpC1SkeMQ6pF0WfbxNDIh1s25f8J3MUSFeXo5GTdjoErbrmrhH70Y2fdQqRe3t3q1goa4Ij7HKGTLVJ2cXEnzG0Y1cbGomkYbsdJ66lodzjH1vIhRoemAAgNyXy0xGgjjhdSk%2FM4Wrn6izS5vNomucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;traceId=213e034d17950826941387182e0bb3&amp;&amp;union_lens=lensId:TAPI@1795082694@21666de3_148f_1a1f3442e42_17d1@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?e=kFBZczng4rilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLgxdIuoWKZRDHMl0fgYtbI9i4rcx3p7UqnekpbY0PYDXO3%2B06bdz3oNSfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzStF2TCK3zg%2BD2Wpt%2Bfu6TPiDCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9cIjRyHgME3p3MhCm1AOVU%2FHawDw%2B0FwM87dSiDb%2BedCexvcyGn%2FOxO%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e041017950826946498285e0b69&amp;&amp;union_lens=lensId:TAPI@1795082694@0bf8ee99_146f_1a1f3443040_0d0d@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?e=yc6NqDxP%2BcSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLzl4C0eeCD%2BKMjMty0%2F%2FI04JXColoPEZDCVPD6NPuiouQ0EoQZ8od3NSfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzSkqHyt5HgPrITIf1sAMf%2FgODCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9V93wdtNP46BAKvBcraClqaD0tH69WrCk%2Fgl6ryhFZHH8jjvtEdVPi%2B%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e045f17950826950072565e0df9&amp;&amp;union_lens=lensId:TAPI@1795082695@21077362_14fa_1a1f34431b2_2c8a@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?e=2DhS485F832lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLBYJVd6Okn1t1m6DCWvpp4s1xv8oXkC0fEoPfrRmPMkuQ0EoQZ8od3NSfqSB5Gdo7X5Fq3AmrGHZyBOK%2B8KjzSj7t3w21GgPISWXIC8vO9ySDCU4RebpLcRUsVyy%2Biloa%2BMUwzxYlSKFDy9dwU5aH9WXUkTnq6ygn5apQJ7dxvfFNvHakM91VZYE8%2BXtJ%2FT8u%2FaUDook%2BfWK%2Fk9EnRa8qK4Y%2FRPyBHvKkl8SlxnzaPt1Dh7hTghOrK73f5RnXyKZShAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e046217950826953245354e0c31&amp;&amp;union_lens=lensId:TAPI@1795082695@2108aae2_1409_1a1f34432e3_7a62@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?e=%2FSNVS%2F1eeqGlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLivlVkgIwVhaSH83GNUUu0ps8Y3wodrLOs7hBmdOtvHkPjD36hIsLk8k%2Bh59v66mtapahCW03i3Ik7BbPIUYUjDShw4Os5Km3WYMn24TtOI3%2FTpC1SkeMQ6pF0WfbxNDIh1s25f8J3MUSFeXo5GTdjubpDOCYB%2BluMQOfTGNzfqPeSCPGGC4OSDxHnIhXYbwHzoHSqD7BdUEYbsdJ66lodzjH1vIhRoemAAgNyXy0xGgjjhdSk%2FM4Wrn6izS5vNomucncAAt5shdVbrKqp4Yn8g%3D%3D&amp;traceId=213e043617950826957011592e0bc1&amp;&amp;union_lens=lensId:TAPI@1795082695@21075374_1466_1a1f344345b_3174@01\"   data-ncid=\"275937\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/i1/2215672156562/O1CN01nLUBAQKH9OH1chua_!!4611686018427384210-0-item_pic.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\">零刻 ME Pro 四盘位 NAS 龙芯 2K3000</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">2015 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/029/636.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/636.htm"
+    },
+    {
+      "id": 5802,
+      "title": "LG 公布 Smart Monitor Swing AI 可移动智能显示器，升级 AI 处理器",
+      "summary": "IT之家 11 月 19 日消息，LG 电子当地时间今日面向日本市场公布了新款可移动智能显示器 Smart Monitor Swing AI。这一型号搭载 Alpha 8 AI Processor 4K Gen3 处理器，支持 AI 驱动音视频优化。 Smart Monitor Swing AI 基于 31.5\" UHD IPS 显示面板，色域 95% DCI-P3，支持 HDR10 规范，允许触控；提供 3 个 USB-C、2 个 HDMI，支持蓝牙连接；运行 webOS ",
+      "content": "<p data-vmark=\"e269\">IT之家 11 月 19 日消息，LG 电子当地时间今日面向日本市场公布了新款可移动智能显示器 Smart Monitor Swing AI。这一型号搭载 Alpha 8 AI Processor 4K Gen3 处理器，<strong>支持 AI 驱动音视频优化</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7e7d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/730d21dd-a744-402b-947a-4179557a66c2.jpg\" w=\"800\" h=\"531\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"9bee\"></p><p data-vmark=\"bb84\">Smart Monitor Swing AI <strong>基于 31.5\" UHD IPS 显示面板</strong>，色域 95% DCI-P3，支持 HDR10 规范，允许触控；提供 3 个 USB-C、2 个 HDMI，支持蓝牙连接；运行 webOS 操作系统，提供由 Google Gemini 驱动的 AI 智能体功能。</p><p style=\"text-align: center;\" data-vmark=\"8edf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4a75b412-0a41-4d1c-9d23-fe238e9e1e2c.jpg\" w=\"800\" h=\"531\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"d573\"></p><p data-vmark=\"0e58\">LG 计划在日本众筹平台 Makuake 限量预售 400 台 Smart Monitor Swing AI，<strong>含税到手价为 9.98 万日元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 4,182 元人民币）</span>。</p>",
+      "link": "https://www.ithome.com/1/029/562.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/562.htm"
+    },
+    {
+      "id": 5803,
+      "title": "LG Display 取消 3 万亿韩元 OLED 生产设施投资计划，电视市场增长放缓成主因",
+      "summary": "IT之家 11 月 19 日消息，据韩媒 ChosunBiz 今天报道，LG Display（乐金显示）决定撤销 2019 年制定的 10.5 代大型 OLED 生产设施投资计划，原定投资规模为 3 万亿韩元（IT之家注：现汇率约合 150.33 亿元人民币）。 据报道，LGD 的 10.5 代大型 OLED 玻璃基板尺寸为 2940×3370 mm，大于此前的 8.5 代（2200 × 2500 毫米）。这种规格能够让单块基板生产出更多 65 英寸以上电视面板。LGD 原本",
+      "content": "<p data-vmark=\"762a\">IT之家 11 月 19 日消息，据韩媒 ChosunBiz 今天报道，LG Display（乐金显示）决定撤销 2019 年制定的 10.5 代大型 OLED 生产设施投资计划，<strong>原定投资规模为 3 万亿韩元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 150.33 亿元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"da08\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2c4760bc-2672-47e7-8273-5b072c459819.jpg\" w=\"616\" h=\"323\" alt=\"LG디스플레이 로고./LG디스플레이\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"227f\"></p><p data-vmark=\"12ee\">据报道，LGD 的 10.5 代大型 OLED 玻璃基板尺寸为 2940×3370 mm，大于此前的 8.5 代（2200 × 2500 毫米）。这种规格能够让单块基板生产出更多 65 英寸以上电视面板。LGD 原本计划在韩国京畿道坡州的 P10 工厂扩建生产设施，提高超大尺寸 OLED 面板生产效率。</p><p data-vmark=\"6458\">同时，LGD 于 2019 年 7 月决定投资 3 万亿韩元建设 10.5 代生产设施，以抢占超大尺寸 OLED 市场先机并增强生产竞争力。然而大尺寸 OLED 市场如今发生变化，OLED 电视增长放缓、显示器 LCD 面板转型 OLED 速度慢于预期，导致 LGD 难以继续推进相关投资。</p><p data-vmark=\"b753\">此外 LGD 表示，公司充分利用现有大尺寸 OLED 面板产能，满足全新市场需求显得更为合理。投资建设新的 10.5 代生产设施，与当前追求利润最大化的战略并不相符。</p>",
+      "link": "https://www.ithome.com/1/029/550.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/550.htm"
+    },
+    {
+      "id": 5804,
+      "title": "Gartner 预测：2027 年全球人工智能支出将突破 4 万亿美元",
+      "summary": "IT之家 11 月 19 日消息，机构 Gartner（高德纳）当地时间本月 12 日发布预测：全球人工智能支出将在 2027 年突破四万亿美元关口，达到 4.05 万亿美元（IT之家注：现汇率约合 27.06 万亿元人民币），同比增长 47.5%。 这四万亿美元中，份额最大的是人工智能基础设施支出，接近 2.4 万亿美元，增幅 53%；而人工智能基础设施支出中最主要的是人工智能优化服务器的支出，2027 年的水平为 9572 亿美元，对应 81% 同比提升。 与此同时，全球",
+      "content": "<p data-vmark=\"9286\">IT之家 11 月 19 日消息，机构 Gartner（高德纳）当地时间本月 12 日发布预测：<strong>全</strong><strong>球人工智能支出将在 2027 年突破四万亿美元关口</strong>，达到 4.05 万亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 27.06 万亿元人民币）</span>，同比增长 47.5%。</p><p data-vmark=\"e775\">这四万亿美元中，<strong>份额最大的是人工智能基础设施支出</strong>，接近 2.4 万亿美元，增幅 53%；而人工智能基础设施支出中最主要的是人工智能优化服务器的支出，2027 年的水平为 9572 亿美元，对应 81% 同比提升。</p><p data-vmark=\"f46a\">与此同时，全球人工智能服务支出将同比增长 29.5%，而人工智能软件支出也将扩大 42%；生成式人工智能模型支出整体将提升 82% 至 510 亿美元，基础模型仍将占据这其中的超八成份额，而<strong>特定领域和专业人工智能模型支出将几乎翻倍</strong>。</p><table align=\"center\"><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\">市场</td><td valign=\"middle\" align=\"center\">2026 年</td><td valign=\"middle\" align=\"center\">2027 年</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能服务</td><td valign=\"middle\" align=\"center\">5760</td><td valign=\"middle\" align=\"center\">7460</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能网络安全</td><td valign=\"middle\" align=\"center\">510</td><td valign=\"middle\" align=\"center\">860</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能软件</td><td valign=\"middle\" align=\"center\">4580</td><td valign=\"middle\" align=\"center\">6490</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能智能体和助手</td><td valign=\"middle\" align=\"center\">300</td><td valign=\"middle\" align=\"center\">670</td></tr><tr><td valign=\"middle\" align=\"center\">生成式人工智能模型</td><td valign=\"middle\" align=\"center\">280</td><td valign=\"middle\" align=\"center\">510</td></tr><tr><td valign=\"middle\" align=\"center\">面向数据科学和机器学习的人工智能平台</td><td valign=\"middle\" align=\"center\">260</td><td valign=\"middle\" align=\"center\">350</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能应用开发平台</td><td valign=\"middle\" align=\"center\">100</td><td valign=\"middle\" align=\"center\">120</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能数据</td><td valign=\"middle\" align=\"center\">30</td><td valign=\"middle\" align=\"center\">60</td></tr><tr><td valign=\"middle\" align=\"center\">人工智能基础设施</td><td valign=\"middle\" align=\"center\">15630</td><td valign=\"middle\" align=\"center\">23970</td></tr><tr><td valign=\"middle\" align=\"center\"><strong> 人工智能总支出</strong></td><td valign=\"middle\" align=\"center\">27460</td><td valign=\"middle\" align=\"center\">40500</td></tr></tbody></table><figcaption>数据源自 Gartner，单位为亿美元</figcaption><p data-vmark=\"13d6\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"f570\"><a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-11-12-gartner-forecasts-artificial-intelligence-infrastructure-spending-to-represent-59-percent-of-total-global-artificial-intelligence-spending-in-2027\" target=\"_blank\">Gartner Forecasts AI Infrastructure Spending to Represent 59% of Total Global AI Spending in 2027</a></p></li></ul>",
+      "link": "https://www.ithome.com/1/029/546.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/546.htm"
+    },
+    {
+      "id": 5805,
+      "title": "本体到手价 9899 元：GPD 公布 WIN Mini Ultra 掌机国行预售计划",
+      "summary": "IT之家 11 月 19 日消息，GPD（中软赢科）今日正式公布了 WIN Mini Ultra 掌机的国行预售计划。该产品基于英特尔锐炫 G3 Extreme 处理器，预售版本配备 32GB 内存、1TB 存储，本体到手价 9,899 元。 GPD 计划 2026 年 12 月中旬启动 WIN Mini Ultra 的量产，预售时间表和价格情况如下： 定金支付时间：2026 年 12 月 1 日 10:00 ~ 2027 年 1 月 4 日 10:00 尾款支付时间：202",
+      "content": "<p data-vmark=\"162e\">IT之家 11 月 19 日消息，GPD（中软赢科）今日正式公布了 WIN Mini Ultra 掌机的国行预售计划。该产品<strong>基于英特尔锐炫 G3 Extreme 处理器</strong>，<strong>预售版本配备 32GB 内存、1TB 存储</strong>，本体<strong>到手价 9,899 元</strong>。</p><p data-vmark=\"55ed\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/093a899e-1035-4937-acc3-972109721068.jpg\" w=\"1440\" h=\"810\" data-vmark=\"ab9c\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"48aa\">GPD 计划 2026 年 12 月中旬启动 WIN Mini Ultra 的量产，预售时间表和价格情况如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"af67\">定金支付时间：2026 年 12 月 1 日 10:00 ~ 2027 年 1 月 4 日 10:00</p></li><li><p data-vmark=\"8e67\">尾款支付时间：2027 年 1 月 4 日 10:30 ~ 2027 年 1 月 7 日 10:30</p></li><li><p data-vmark=\"e50d\">最晚发货时间：2027 年 1 月 30 日</p></li></ul><table align=\"center\"><tbody><tr class=\"firstRow\"><td valign=\"middle\" align=\"center\">挡位</td><td valign=\"middle\" align=\"center\">预售价</td><td valign=\"middle\" align=\"center\">零售价</td></tr><tr><td valign=\"middle\" align=\"center\">本体</td><td valign=\"middle\" align=\"center\">9,899 元</td><td valign=\"middle\" align=\"center\">12,999 元</td></tr><tr><td valign=\"middle\" align=\"center\">本体 + <a target=\"_blank\" href=\"https://www.ithome.com/0/966/350.htm\">GPD G2</a> 显卡坞（有电源无卡）</td><td valign=\"middle\" align=\"center\">11,699 元</td><td valign=\"middle\" align=\"center\">15,199 元</td></tr></tbody></table><p data-vmark=\"0d84\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/08153754-2cde-4996-9d8b-5d93cc22ee82.jpg\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"56d8\" class=\"no-alt-img\"></p><p data-vmark=\"fe0a\">GPD WIN Mini Ultra 三维 182.5×133×30 (mm)，配备 8\" 屏幕，搭载 2 风扇 4 热管散热系统，内置 56Whr 电池，<strong>质量 845g</strong>。</p><p data-vmark=\"555b\">其采用 LTPS IPS LCD 十点触控<strong>防眩镜面屏幕</strong>，显示规格为 WUXGA 48~120Hz，峰值 575nits，高色域；拥有电容摇杆、霍尔效应扳机、精准触控板、L4/R4 宏键、双线性马达、六轴体感、双 1W 扬声器。</p><p data-vmark=\"7ba2\">该机型搭载英特尔 AX211 无线网卡；<strong>支持 microSD Express 存储卡</strong>，提供 2 个全功能 USB4 v2.0 (80Gbps)、1 个 USB-A 10Gbps、1 个 3.5mm 音频插孔。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?e=4ty1xCdkZ2elhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLcLrjAQ7w7zXOs%2FKTx3IGEv9neVUqg8vn2rcWjpdf5eiDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSsa1jpueNohd4pjtu38nF6KBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9VGFPIwCkrMVRV6p%2BYfKYJaZNVnwn%2BFJVijdfAKMf4s7JSDAi30qQ2o3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e034017950789702488611e0b7b&amp;&amp;union_lens=lensId:TAPI@1795078970@212aa574_1485_1a1f30b5bcd_caa0@01\" target=\"_blank\" data-wapurl=\"https://uland.taobao.com/coupon/edetail?e=VIcWdd1LVoalhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLcLrjAQ7w7zXqzGJi8fP4cGJUxKmFixzaHUTl%2Bg5lc2GDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSlzbTAPoaU4PoNiOiRwuqfaBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9QuKDmApFs0WIwdTt4LGbmjj4OFhM3IfOhJLmezY%2BTo1WpVgQ9dKdBo3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e046f17950789706063707e0bbb&amp;&amp;union_lens=lensId:TAPI@1795078970@213e71e2_1417_1a1f30b5d2d_9851@01\" data-iosurl=\"https://uland.taobao.com/coupon/edetail?e=bwOqaC7ckkilhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLBwZxaxXs1UWqkFXvjXxqmfX9AdGpb9lTV6SKgQMtQPnlftytlDstytEr6%2FO4Gp9zry%2F3Lq7NjJH0TcIixZTmmOR8HBG5RpCfjE9lXtq0gcU%2BltoploMdwufv0lbQIjNpDfqEFBOhTcxf9phLmO%2F%2FZjG9SVk3PTts5fK7WSCHOqwBsKzb%2F0oTWYYGzeV429dArK7FkLarNlAyDyzTWuo5x6%2BYkjVJnsFU99g9hqqvmCnCGaKt2RFEp0AuFqbe2vXbiFqjLDjDkY9%2BOHfs5nLQGA%3D%3D&amp;traceId=213e04cb17950789709463777e0ac4&amp;&amp;union_lens=lensId:TAPI@1795078971@213dad2d_1452_1a1f30b5e81_5f18@01\" data-androidurl=\"https://uland.taobao.com/coupon/edetail?e=Kj%2FRWI4snPulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLAxsU2kfE%2FgWbzU6AE169EWRqxtYWeEQHzSBntqcQUv6rphmIR4yso9Er6%2FO4Gp9zry%2F3Lq7NjJH0TcIixZTmmEwAymVi0bqfnJuz%2Fw%2BIi1Y%2BltoploMdwufv0lbQIjNpDfqEFBOhTcxf9phLmO%2F%2FZp3F5XegXQsyoyJ9Ffp5eAR9N4jz2xWrH8zDMvgdOp9DD9RuInDNZvEyDyzTWuo5x6%2BYkjVJnsFU99g9hqqvmCnCGaKt2RFEp0AuFqbe2vXbiFqjLDjDkY9%2BOHfs5nLQGA%3D%3D&amp;traceId=213e048617950789713232903e0cd4&amp;&amp;union_lens=lensId:TAPI@1795078971@2104a538_1496_1a1f30b5ff4_1dd7@01\" data-hosnexturl=\"https://uland.taobao.com/coupon/edetail?e=KrL7VGmizPSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLtCRUKclj86d9uHUyxhtGgR%2BqCTh2zcw3rNs97l%2FGBv6Dqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSkp21NkPFST4MofuYpzO2DWBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9TAwaXb40BW%2FjF6q6ZbIFO4z2T67d41gv8mAgx3H238ZuX0%2BjnoJekY3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e035617950789720303456e0b95&amp;&amp;union_lens=lensId:TAPI@1795078972@212cc21e_13e9_1a1f30b62b0_7ce5@01\" data-hosurl=\"https://uland.taobao.com/coupon/edetail?e=kXYJQ5mJSZ2lhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLODYTKYf6gvbLBPFFe5hFYAG%2BKf%2Fw%2BqRb5AV5G%2FOInjSDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSkp21NkPFST4MofuYpzO2DWBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9TAwaXb40BW%2FjF6q6ZbIFO4z2T67d41gv8mAgx3H238ZuX0%2BjnoJekY3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e043417950789716663626e0ca9&amp;&amp;union_lens=lensId:TAPI@1795078971@212b4879_14f5_1a1f30b614f_d080@01\" data-uwpurl=\"https://uland.taobao.com/coupon/edetail?e=XQvNeoatlG%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLyJ59Axu3Un%2BbvA%2BwJITTE%2BPlFCaMiPfuvl7T3Ft00s%2BDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzStF2TCK3zg%2BD2Wpt%2Bfu6TPiBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9cIjRyHgME3p3MhCm1AOVU%2FHawDw%2B0FwM87dSiDb%2BedCexvcyGn%2FOxM3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e050117950789723601622e0d8c&amp;&amp;union_lens=lensId:TAPI@1795078972@212c1ed5_1473_1a1f30b63fe_c378@01\" data-wxmpurl=\"https://uland.taobao.com/coupon/edetail?e=id6ZQ%2FO2pXWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLbKlr3ReV2ijxmJ%2FvJodxP9f7Mlq%2F%2BAV3iVwjFyw6TGuDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSkqHyt5HgPrITIf1sAMf%2FgOBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9V93wdtNP46BAKvBcraClqaD0tH69WrCk%2Fgl6ryhFZHH8jjvtEdVPi83zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e04fe17950789726814201e0d19&amp;&amp;union_lens=lensId:TAPI@1795078972@21279cf8_1498_1a1f30b653e_0b92@01\" data-itwxurl=\"https://uland.taobao.com/coupon/edetail?e=ARGwNj13YFqlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLCKSz6NMEOpNB82kObAiOIp6ktNuRj%2FgDQ8xhX29CzuKDqxx2oRXBG%2BY%2FVm69exhDHjosyX63uKhyBOK%2B8KjzSj7t3w21GgPISWXIC8vO9ySBYxTH%2Bi4x4rEMtRVkwNSw%2BMUwzxYlSKFDy9dwU5aH9WXUkTnq6ygn5apQJ7dxvfFNvHakM91VZYE8%2BXtJ%2FT8u%2FaUDook%2BfWI3zyJ8NO5axj4C7tsALm81l8SlxnzaPt0AUOSgx3Fb03ml5CGMiXlZhAlwBqUZweRlBRYM90QVRw%3D%3D&amp;traceId=213e042c17950789730593109e0bff&amp;&amp;union_lens=lensId:TAPI@1795078973@210474bb_1577_1a1f30b66b8_e56d@01\" data-lpwxurl=\"https://uland.taobao.com/coupon/edetail?e=Bte4JlY%2BtOSlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL1bB8%2BiEMtFBJa5obs%2FdIQc8UO%2FlHln18PG0Ozt9WfkSirzfJyBPcK9Er6%2FO4Gp9zry%2F3Lq7NjJH0TcIixZTmmFNlMhLI6731GS0L2KbRIHE%2BltoploMdwufv0lbQIjNpDfqEFBOhTcxf9phLmO%2F%2FZkhHy%2BHSLfjAMOeV5aL337QapUkT10ZZDIYGzeV429dA6ktDgO9bObcyDyzTWuo5x6%2BYkjVJnsFU99g9hqqvmCnCGaKt2RFEp0AuFqbe2vXbiFqjLDjDkY9%2BOHfs5nLQGA%3D%3D&amp;traceId=213e03e917950789733716057e0d2c&amp;&amp;union_lens=lensId:TAPI@1795078973@212cb236_151e_1a1f30b67ef_85a2@01\"   data-ncid=\"275837\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/i4/2214602918490/O1CN01zhdJ58Aaq5J1chua_!!4611686018427382362-0-item_pic.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\"> GPD WIN Mini Ultra 掌机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 9899 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "link": "https://www.ithome.com/1/029/541.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/541.htm"
+    },
+    {
+      "id": 5806,
+      "title": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案",
+      "summary": "IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《下一代核心网演进白皮书》，提出下一代核心网目标架构与演进路径。 ▲ 华为云核心网产品线总裁高治国发表主题演讲 高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。移动网络联接对象从人和物拓展至智能体，推动网络服务从基础联接走向智能联接、超越联接。核心网向下联接终端、",
+      "content": "<p data-vmark=\"b1a4\">IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《<a href=\"https://www-file.huawei.com/dam/asset/view/next-gen-core-network-evolution-white-paper-cn.pdf\">下一代核心网演进白皮书</a>》，<strong>提出下一代核心网目标架构与演进路径</strong>。</p><p style=\"text-align: center;\" data-vmark=\"4828\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4da61922-1f2a-47ac-9017-669c2a05bc9a.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"533\" data-weibo=\"0\" alt=\"\" data-vmark=\"bea5\"></p><figcaption>▲ 华为云核心网产品线总裁高治国发表主题演讲</figcaption><p data-vmark=\"330c\">高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。<strong>移动网络联接对象从人和物拓展至智能体，推动网络服务从基础联接走向智能联接、超越联接</strong>。核心网向下联接终端、向上使能业务，打造先进的下一代核心网，是移动网络把握智能体时代机遇的关键抓手。</p><p data-vmark=\"69ab\">华为提出 NGC（Next-Gen Core）目标架构，驱动移动网络从云原生向 AI 原生跃迁，以满足智能体新联接、新业务的长期发展需求。IT之家附 &nbsp;NGC AI 原生架构具备的三大关键特征如下：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"b059\"><strong>意图接口：</strong>从刚性的信令到灵活的意图表达。智能体终端通过半结构化的意图传递面向任务的差异需求（体验 / 组网 / 算力等），提升智能体使用网络服务的便捷性。</p></li><li><p data-vmark=\"8dc0\"><strong>数据与智能面（DAP）：</strong>网络从传输比特到分发智能。通过引入智能网元、数据网元和算力网元，实现智能在终端、网络和云之间的高效分发。</p></li><li><p data-vmark=\"bc74\"><strong>低时延用户面：</strong>支持从比特时延到低任务时延。通过带内端网协同实现毫秒级 AI 任务时延保障。</p></li></ul></blockquote><p data-vmark=\"83b3\">华为《下一代核心网演进白皮书》提到，<strong>AI 是移动网络未来十年最大的战略机遇</strong>。移动通信产业正加速迈入智能体时代。面向海量终端的低时延算力服务成为移动网络的全新增长机会。随着端侧智能体规模化普及，低时延端云协同场景持续增加，<strong>预计到 2030 年该类请求将占端侧发起协同任务的 20% 以上</strong>，覆盖 AI 实时交互、具身智能、工业控制等典型场景。</p>",
+      "link": "https://www.ithome.com/1/029/540.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/540.htm"
+    },
+    {
+      "id": 5807,
+      "title": "华为靳玉志官宣 HUAWEI XSCENE 车载激光投影焕新升级，支持 5 种投影模式",
+      "summary": "IT之家 11 月 19 日消息，华为智能汽车解决方案 BU CEO 靳玉志今日发文宣布，HUAWEI XSCENE 车载激光投影焕新升级。针对不同的用车场景，支持了 5 种投影模式。 IT之家附官方示例如下： IT之家了解到，HUAWEI XSCENE 车载激光投影还支持业界唯⼀⼀机五投，搭配华为自研专利折叠镜头，可快速搭建露天影院，宣称“车内车外都能看”。 今年 5 月上市的鸿蒙智行全新一代问界 M9 就首创了一镜双投观影系统，搭载潜望式投影技术与 46 英寸车外巨幕，可",
+      "content": "<p data-vmark=\"1d75\">IT之家 11 月 19 日消息，华为智能汽车解决方案 BU CEO 靳玉志今日发文宣布，HUAWEI XSCENE 车载激光投影焕新升级。针对不同的用车场景，<strong>支持了 5 种投影模式</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9a4b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c4e46f89-e1cb-4afa-bfac-943e82d5633d.png\" w=\"798\" h=\"1518\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F7501871798%2FRs4iIovPa%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"nowebp no-alt-img\" data-marks=\"1931fd9d012eb6d1df2eb0750d4570a8e35b532004d24a5cefe2b1f3c25e69d6074aa13b5d382d733104d0dfbfaeb08f\" data-weibo=\"1\" data-vmark=\"feb2\"></p><p data-vmark=\"682e\">IT之家附官方示例如下：</p><p style=\"text-align: center;\" data-vmark=\"d500\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4574acf2-e379-4b32-acf4-6b23fc53e762.gif\" w=\"960\" h=\"1707\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi8xMS9iMTNjNjc3NS04N2JiLTRkMjAtODFmYS1hMGQzZjkxMjIyNmIud2VicCJ9XQ==\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/4574acf2-e379-4b32-acf4-6b23fc53e762.gif?x-bce-process=image/format,f_png\" data-vmark=\"50a4\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"db0e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/67868dd4-de10-4438-afd5-ba111129d93d.gif\" w=\"960\" h=\"1707\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi8xMS83OWEyZWE3NC00OGY1LTQwN2UtYjUyYS05ZmZhOTgxN2Q3ZmEud2VicCJ9XQ==\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/67868dd4-de10-4438-afd5-ba111129d93d.gif?x-bce-process=image/format,f_png\" data-vmark=\"822f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1e3a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/59e75d82-c71a-4755-bc47-544bbe4dccac.gif\" w=\"960\" h=\"1707\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi8xMS9kNGRhODM1Yi00OTU0LTQxODMtYTcyZS05NWU3ZGFkY2UyOTEud2VicCJ9XQ==\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/59e75d82-c71a-4755-bc47-544bbe4dccac.gif?x-bce-process=image/format,f_png\" data-vmark=\"5349\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"3da0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ffac2fff-8574-4f7c-b612-487c95fd3bac.gif\" w=\"960\" h=\"1707\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi8xMS83ZGRhNDE4ZS0xNWUwLTRiMzYtOWFjZi1hZmY5YzM3MDc3YmMud2VicCJ9XQ==\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/ffac2fff-8574-4f7c-b612-487c95fd3bac.gif?x-bce-process=image/format,f_png\" data-vmark=\"646d\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"196b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3f9a5694-128f-4bc1-bd7a-d9bd51921199.gif\" w=\"960\" h=\"1707\" data-advance=\"W3siVHlwZSI6IndlYnBhIiwiVXJsIjoiaHR0cHM6Ly9pbWcuaXRob21lLmNvbS9uZXdzdXBsb2FkZmlsZXMvMjAyNi8xMS85MmM1OWFmZC1iNWUwLTQzZTEtYmYwNi00ZWI4ZDdmYzg2OGQud2VicCJ9XQ==\" data-preview=\"https://img.ithome.com/newsuploadfiles/2026/11/3f9a5694-128f-4bc1-bd7a-d9bd51921199.gif?x-bce-process=image/format,f_png\" data-vmark=\"f9ac\" class=\"no-alt-img\"></p><p data-vmark=\"ecce\">IT之家了解到，HUAWEI XSCENE 车载激光投影还支持业界唯⼀⼀机五投，搭配华为自研专利折叠镜头，可快速搭建露天影院，宣称“车内车外都能看”。</p><p data-vmark=\"c9e0\"><a target=\"_blank\" href=\"https://www.ithome.com/0/956/061.htm\">今年 5 月上市的鸿蒙智行全新一代问界 M9 就首创了一镜双投观影系统</a>，搭载潜望式投影技术与 46 英寸车外巨幕，可在车外观影。同时，该车还首创智能分屏投影巨幕功能，支持双 16 英寸观影，双独立音区。</p><p style=\"text-align: center;\" data-vmark=\"b522\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ed604448-8caa-4061-8e0d-acfe1b7b4e1e.jpg\" w=\"1440\" h=\"810\" data-vmark=\"d219\" data-mpos=\"2,2\"  alt=\"问界 M9 视听盛筵\"></p><blockquote class=\"ai-point\" data-ai-task=\"dfa50ed8-264e-468d-9a6a-273291782f0c\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZhdXRvLmh1YXdlaS5jb20lMkZjbiUyRm5ld3MlMkYyMDI2JTJGMjAyNi0wNC0yMy1qaXNodSUyMiUyQyUyMmh0dHAlM0ElMkYlMkZjaGVqaWFoYW8uYXV0b2hvbWUuY29tLmNuJTJGaW5mbyUyRjI2OTEzNjY2JTNGcmVwbHklM0RyZXBseSUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGd3d3LmRmbWMuY29tLmNuJTJGbmV3cyUyRmNvbXBhbnklMkZuZXdzXzIwMjYwNzIxXzExNDIuaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGd3d3LmNuaWkuY29tLmNuJTJGZ3h4d3clMkZxYyUyRjIwMjYwNSUyRnQyMDI2MDUyOF83NDA3ODMuaHRtbCUyMiU1RA==\"><h3 data-vmark=\"6475\">延伸阅读</h3><p data-vmark=\"e5aa\"><span data-ref-ids=\"\" data-ref-urls=\"0\">HUAWEI XSCENE 是华为乾崑智能汽车解决方案旗下用于智能座舱的车载激光投影方案。2026 年 4 月 23 日，华为乾崑技术大会在北京举行，会上首发了 HUAWEI XSCENE LCoS 车载投影光机，采用行业首批激光光源，支持 LCoS 技术清晰成像，是华为发布的首个 LCoS 车载激光投影。</span></p><p data-vmark=\"290a\"><span data-ref-ids=\"\" data-ref-urls=\"1\">此次升级的 5 种投影模式分别为悬浮窗、单屏、双屏、全屏和露天影院。其中悬浮窗模式以小窗形式呈现内容，可在迎宾接待时播放画面，行驶中也能切换显示导航、歌词和安全提示等信息；单屏模式支持画面随座位变化智能调整，乘员更换座位后投影画面可相应跟随，并采用液冷散热方案降低运行噪声。</span></p><p data-vmark=\"137c\"><span data-ref-ids=\"\" data-ref-urls=\"1\">双屏模式可同时显示两个画面，方便两名乘员分别观看不同内容，该投影通过德国莱茵 0 有害蓝光认证；全屏模式可提供 32 英寸投影画面，面向电影观看与车内游戏等场景，支持 98% P3 影院级广色域、2000:1 对比度；露天影院模式则将使用范围延伸至车外，采用潜望式折叠镜头和磁吸快装设计，可与 HUAWEI SOUND 车载音响联动，约 3 分钟即可完成搭建。</span></p><p data-vmark=\"1c82\"><span data-ref-ids=\"977239\" data-ref-urls=\"\">所谓“一机五投”，具体指单人看、双人看、悬浮看、躺着看和坐着看，搭配华为自研专利折叠镜头实现。</span></p><p data-vmark=\"e412\"><span data-ref-ids=\"977239\" data-ref-urls=\"2\">目前 HUAWEI XSCENE 车载激光投影已确定搭载于东风与华为全栈共创品牌奕境汽车的首款车型奕境 X9，该车于 2026 年 7 月 15 日官宣搭载，7 月 20 日在成都下线首台量产车。</span></p><p data-vmark=\"1657\"><span data-ref-ids=\"\" data-ref-urls=\"3\">全新一代问界 M9 于 2026 年 5 月 27 日在深圳发布，标准版官方零售价 47.98 万元起，Ultimate 领世加长版 64.98 万元起，6 月开启批量交付。该车搭载双百万像素投影系统，支持车内 32 英寸巨幕与车外 46 英寸投影，实现一镜双投。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/029/529.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/529.htm"
+    },
+    {
+      "id": 5808,
+      "title": "杨元庆：联想今年营收千亿美元“板上钉钉”，将持续提升盈利能力",
+      "summary": "IT之家 11 月 19 日消息，据新浪科技报道，在 2026/27 财年第二季度业绩沟通会上，联想集团董事长兼 CEO 杨元庆透露，今年完成 1,000 亿美元（IT之家注：现汇率约合 6,680.78 亿元人民币）销售额“板上钉钉”，下一步的重点将转向提升盈利能力。 杨元庆表示，联想上半年已完成约 570 亿美元（现汇率约合 3,808.04 亿元人民币）的营收部署，下半年只需持平跟上上半年节奏，全年目标达成“没有什么问题”。 今年年初，联想方面与投资人沟通时设定的千亿美",
+      "content": "<p data-vmark=\"4757\">IT之家 11 月 19 日消息，据新浪科技报道，在 2026/27 财年第二季度业绩沟通会上，联想集团董事长兼 CEO 杨元庆透露，今年完成 1,000 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,680.78 亿元人民币）</span>销售额“板上钉钉”，下一步的重点将转向提升盈利能力。</p><p data-vmark=\"bd7a\">杨元庆表示，联想上半年已完成<strong>约 570 亿美元<span class=\"exch-money-value\">（现汇率约合 3,808.04 亿元人民币）</span>的营收部署</strong>，下半年只需持平跟上上半年节奏，全年目标达成“没有什么问题”。</p><p data-vmark=\"f676\">今年年初，联想方面与投资人沟通时设定的千亿美元<strong>为两年目标</strong>，随着市场发展超出预期，目标有望提前实现。盈利端方面，此前的规划是在三年内<strong>将盈利能力提升至 5%-8%</strong>，而在今年上一季度就已达到 4.5%，接下来的目标“毫无疑问”是首先要进一步提高利润率，管理层对此很有信心。</p><p data-vmark=\"561a\">据悉，联想集团今年第二财季收入首破 300 亿美元<span class=\"exch-money-value\">（现汇率约合 2,004.23 亿元人民币）</span>大关，达 302.38 亿美元<span class=\"exch-money-value\">（现汇率约合 2,020.13 亿元人民币）</span>，同比增长 48%，创历史新高。</p><p data-vmark=\"073b\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"f899\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/029/258.htm\">联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/029/528.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/528.htm"
+    },
+    {
+      "id": 5809,
+      "title": "联力宣布限量活动：Edge V2 电源用户可免费领取短款主板、12V-2×6 供电线",
+      "summary": "IT之家 11 月 19 日消息，联力 (LIAN LI) 昨日宣布一项限量活动：购买了其近期推出的 Edge 刃界 Gold / Platinum 电源的用户可免费申请领取短款的主板和 12V-2×6 供电线。 截至本文发稿时，本活动还剩余 773 个参与名额。 IT之家了解到，Edge V2 系列电源均配备标准长度的主板和 12V-2×6 供电线，同时铂金效率的 1350W 款式还额外随附了这两根线材的较短 (200mm) 版本，方便用户布线。 此次的赠送活动旨在将这一特",
+      "content": "<p data-vmark=\"9d65\">IT之家 11 月 19 日消息，联力 (LIAN LI) 昨日宣布一项限量活动：购买了其近期推出的 Edge 刃界 Gold / Platinum 电源的用户可<strong>免费申请领取短款的主板和 12V-2×6 供电线</strong>。</p><p data-vmark=\"78ce\">截至本文发稿时，本活动还剩余 773 个参与名额。</p><p data-vmark=\"5ff4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8c4613c4-d982-47ca-bde7-9bb3a95f0062.png\" w=\"644\" h=\"622\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"cec5\"></p><p data-vmark=\"4c89\">IT之家了解到，Edge V2 系列电源均配备标准长度的主板和 12V-2×6 供电线，同时<strong>铂金效率的 1350W 款式还额外随附了这两根线材的较短 (200mm) 版本</strong>，方便用户布线。</p><p data-vmark=\"40b6\">此次的赠送活动旨在将这一特别待遇扩展到 Edge V2 全系列上，因此 <strong>Edge Platinum V2 1350W 不参与赠线</strong>。</p><p data-vmark=\"005d\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"acf6\"><a href=\"https://lian-li.com/free-short-cable-kit-for-edge-gold-platinum-v2-owners/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://lian-li.com/free-short-cable-kit-for-edge-gold-platinum-v2-owners/</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/029/521.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/521.htm"
+    },
+    {
+      "id": 5810,
+      "title": "英伟达确认：黄仁勋时代“T5T 邮件”企业文化将继续保留",
+      "summary": "IT之家 11 月 19 日消息，据《商业内幕》今天（19 日）清晨报道，英伟达员工早已习惯每天收到大量邮件，而前 CEO 黄仁勋更是以每天阅读数千封邮件闻名，一旦发现问题，还会直接参与邮件讨论。 根据英伟达 GPU 工程高级副总裁乔纳 · 阿尔本在内部会议上的发言，黄仁勋离任后，公司将保留这一传统。 据IT之家了解，英伟达有一项名为 T5T 的邮件制度，意为“最重要的五件事（Top 5 Things）”，也是公司文化的重要组成部分。员工需要通过邮件向其他团队和高管广泛分享自",
+      "content": "<p data-vmark=\"b2dc\">IT之家 11 月 19 日消息，据《商业内幕》今天（19 日）清晨报道，英伟达员工早已习惯每天收到大量邮件，而前 CEO 黄仁勋更是以每天阅读数千封邮件闻名，一旦发现问题，还会直接参与邮件讨论。</p><p data-vmark=\"8f12\">根据英伟达 GPU 工程高级副总裁乔纳 · 阿尔本在内部会议上的发言，黄仁勋离任后，<strong>公司将保留这一传统</strong>。</p><p style=\"text-align: center;\" data-vmark=\"f5a6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ee37ce06-604a-4fc3-9ae8-eafb2bacce3c.jpg\" w=\"1000\" h=\"500\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"8dab\"></p><p data-vmark=\"1b1f\">据IT之家了解，英伟达有一项名为 T5T 的邮件制度，意为“最重要的五件事（Top 5 Things）”，也是公司文化的重要组成部分。员工需要通过邮件向其他团队和高管广泛<strong>分享自己的工作进展、关注的问题以及遇到的困难</strong>，以减少管理层级带来的沟通障碍，让公司日常运营更加透明。</p><p data-vmark=\"dd1e\">在当地时间 18 日的会议上，阿尔本谈到了黄仁勋离任后如何延续内部协作，维持他所说的“极致协同设计”。</p><p data-vmark=\"8b75\">阿尔本认为，T5T 邮件对于帮助各团队及时发现公司内部被忽视的问题至关重要：“通过这种方式，<strong>所有关心某个问题的人都能参与沟通，我们也能及时察觉哪里出了差错</strong>。这项制度非常重要，我们必须继续把它做好。”</p><p data-vmark=\"59d3\">英伟达新管理层还在全员大会上安抚员工，试图消除黄仁勋突然离职引发的担忧。考虑到员工流失风险，管理层同时宣布，将提前实施加薪和股权奖励计划。</p>",
+      "link": "https://www.ithome.com/1/029/519.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/519.htm"
+    },
+    {
+      "id": 5811,
+      "title": "联想杨元庆：终端市场有巨大增长机会，80% 算力将产生于“端边”",
+      "summary": "IT之家 11 月 19 日消息，据新浪科技今天报道，联想集团董事长兼 CEO 杨元庆在公司 2026/27 财年第二季度业绩沟通会上，谈到终端设备市场的长期趋势。他表示：“我们认为普惠的阶段刚刚开始，终端设备市场孕育着巨大的增长机会。” IT之家从原报道获悉，杨元庆认为，人们现在已经进入智能体时代。在这个时代，终端设备是 AI 数据和场景的发生地，同时也是端侧算力的承载者。未来海量的算力将不仅仅产生于云端，预计多达 80% 的算力将产生于端侧和边缘侧。 杨元庆表示，AI 原",
+      "content": "<p data-vmark=\"4ab1\">IT之家 11 月 19 日消息，据新浪科技今天报道，联想集团董事长兼 CEO 杨元庆在公司 2026/27 财年第二季度业绩沟通会上，谈到终端设备市场的长期趋势。他表示：“<strong>我们认为普惠的阶段刚刚开始</strong>，终端设备市场孕育着巨大的增长机会。”</p><p data-vmark=\"7058\">IT之家从原报道获悉，杨元庆认为，人们现在已经进入智能体时代。在这个时代，终端设备是 AI 数据和场景的发生地，同时也是端侧算力的承载者。未来海量的算力将不仅仅产生于云端，<strong>预计多达 80% 的算力将产生于端侧和边缘侧</strong>。</p><p data-vmark=\"5d8d\">杨元庆表示，AI 原生终端设备将层出不穷，如 AI 眼镜、智能指环等新形态产品，有望以 AI 技术优化体验，成为个人或家庭的智能中心。这些创新将极大拓展整个终端设备的市场空间。基于上述判断，杨元庆称联想正在把“行业变量转化为业务增量”。</p><p data-vmark=\"153f\">据IT之家此前援引新浪科技消息，杨元庆预测未来 80% Token 将在终端和边缘生成，这意味着，随着 AI 应用从云端集中式计算向端边云协同演进，越来越多的 AI 推理任务有望在终端和边缘侧完成，个人计算设备与边缘基础设施将迎来新的增长空间。随着个人 AI 日益普及，<strong>每个人都将需要一台家用服务器或 AI 中心。</strong></p>",
+      "link": "https://www.ithome.com/1/029/518.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/518.htm"
+    },
+    {
+      "id": 5812,
+      "title": "曝华为 Mate 90 Air 新机支持三摄全焦段红枫影像，“6 开头”厚度刷纪录",
+      "summary": "IT之家 11 月 19 日消息，华为今日官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air 轻薄旗舰，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会亮相。 博主 @数码闲聊站 今日发文透露，华为 Mate 90 Air 新机配备一块 7 英寸等深四曲屏，后置居中大圆 Deco，支持三摄全焦段红枫影像。 博主表示，该机采用侧边指纹设计，厚度来到了“6 开头”刷新纪录，并配备有 66W 快充头，提供 12GB+",
+      "content": "<p data-vmark=\"2a0f\">IT之家 11 月 19 日消息，华为今日官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air 轻薄旗舰，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"036f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/943b5f85-59c4-4adc-9db4-fcb94eef8ddb.jpg\" w=\"1440\" h=\"2159\" data-vmark=\"b99d\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d187ff9cb8b23a79bc29e2863933508891fbb9c121c5744dcbcfdadcd8ba49f7db1fd865b5b3fc2f09\"></p><p data-vmark=\"84cd\">博主 @数码闲聊站 今日发文透露，<strong>华为 Mate 90 Air 新机配备一块 7 英寸等深四曲屏</strong>，后置居中大圆 Deco，<strong>支持三摄全焦段红枫影像</strong>。</p><p data-vmark=\"bf3c\">博主表示，该机采用侧边指纹设计，<strong>厚度来到了“6 开头”刷新纪录</strong>，并配备有 66W 快充头，提供 12GB+256GB 和 12GB+512GB 规格。</p><p style=\"text-align: center;\" data-vmark=\"10e9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f64f07fc-7171-42e9-925b-6f9b75fd552e.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"1023\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1b42a4eff2b8648fc699d237e45e29add39552c919eea5823454c7cc6272f58abb7817dc9519dd4cd\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRs4EAzbgM%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"e5a2\" class=\"no-alt-img\"></p><p data-vmark=\"0077\">据IT之家了解，目前华为 Mate 90 Air 已上线官网，并透露了部分配置信息。新机将于 11 月 24 日 18:08 全款预售，提供玫瑰金、皓月银、曜石黑三款配色。</p><p style=\"text-align: center;\" data-vmark=\"ee9c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ea5d224f-56c2-40c1-bb94-99d3a602227b.jpg\" w=\"1151\" h=\"651\" class=\"nowebp no-alt-img\" data-vmark=\"359c\" ></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"72db\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5193\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/029/517.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/517.htm"
+    },
+    {
+      "id": 5813,
+      "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
+      "summary": "IT之家 11 月 19 日消息，三星电子与谷歌、Gentle Monster 联合推出的人工智能眼镜“Intelligent Eyewear”，尚未正式上市便取得了不错的市场反响，关键型号在预售开启后数小时内便售罄。 韩国眼镜品牌 Gentle Monster 宣布，“Intelligent Eyewear”的核心款式在韩国、美国及其他市场开启预售数小时内便售罄。目前，消费者可在官方线上店铺预约，以便在第二轮预售开启时收到通知。 这款产品最大的亮点，是将谷歌最新的人工智能模",
+      "content": "<p data-vmark=\"2129\">IT之家 11 月 19 日消息，三星电子与谷歌、Gentle Monster 联合推出的人工智能眼镜“Intelligent Eyewear”，尚未正式上市便取得了不错的市场反响，关键型号在预售开启后数小时内便售罄。</p><p data-vmark=\"8631\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8e35d71f-89cd-4406-a44d-2721a656ee57.jpg\" w=\"860\" h=\"484\" data-weibo=\"0\" data-vmark=\"a11a\" class=\"no-alt-img\"></p><p data-vmark=\"253c\">韩国眼镜品牌 Gentle Monster 宣布，“Intelligent Eyewear”的核心款式在韩国、美国及其他市场开启预售数小时内便售罄。目前，消费者可在官方线上店铺预约，以便在第二轮预售开启时收到通知。</p><p data-vmark=\"e7a6\">这款产品最大的亮点，是将谷歌最新的人工智能模型 Gemini 引入眼镜这一产品形态。</p><p data-vmark=\"67e7\">Intelligent Eyewear 重量约为 41 克，镜框内置摄像头、扬声器和麦克风。用户无需从口袋中拿出智能手机，仅通过语音指令就能使用多项 AI 功能。</p><p data-vmark=\"3b5a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/27cd69c6-3aa9-4677-a717-48f9d8b2cffb.jpg\" w=\"600\" h=\"576\" data-weibo=\"1\" data-vmark=\"1090\" class=\"no-alt-img\"></p><p data-vmark=\"0502\">在功能设计上，这款眼镜主要面向日常使用场景，提供实时外语翻译、目的地导航以及复杂会议材料摘要等服务。其设计思路是让用户在日常佩戴眼镜的过程中，自然地使用人工智能技术，而不必额外操作其他设备。</p><p data-vmark=\"a554\">三星电子计划于 12 月 10 日在韩国和美国正式推出这款产品，并开启全面销售。</p><p data-vmark=\"f33b\">韩国市场将率先推出与时尚眼镜品牌 Gentle Monster 合作开发的 16 款设计。美国市场则计划在此基础上增加当地品牌 Warby Parker 的 14 款产品，使总产品阵容达到 30 款。</p><p data-vmark=\"67d5\">根据不同款式的具体配置，Intelligent Eyewear 售价为 65 万至 70 万韩元<span class=\"exch-money-value \">（IT之家注：现汇率约合 3,257 至 3,508 元人民币）</span>。</p><p data-vmark=\"0e1c\">三星希望通过这一价格策略，同时兼顾与现有智能设备相比的价格竞争力，以及作为时尚配饰所具备的产品价值。</p>",
+      "link": "https://www.ithome.com/1/029/515.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/515.htm"
+    },
+    {
+      "id": 5814,
+      "title": "2026 广州车展展位图出炉：总面积 22 万平方米，比亚迪、广汽各包一馆",
+      "summary": "IT之家 11 月 19 日消息，今天（19 日）上午，广州国际汽车展官方公布了 2026（第二十四届）广州国际车展展位图。 IT之家汇总各主要展馆信息如下： A 区 1 楼 1.1 馆：极石、吉利银河、212、雷克萨斯、保时捷、大众（含上汽大众、一汽大众、大众安徽） A 区 1 楼 2.1 馆：比亚迪集团，含腾势、方程豹、仰望、比亚迪，以及闪充、天神之眼、比亚迪芯片等技术展区 A 区 2 楼 2.2 馆：广汽集团、广汽本田、广汽丰田、广汽昊铂埃安、启境、广汽传祺 A 区 1",
+      "content": "<p data-vmark=\"e9a0\">IT之家 11 月 19 日消息，今天（19 日）上午，广州国际汽车展官方公布了 2026（第二十四届）广州国际车展展位图。</p><p data-vmark=\"6073\">IT之家汇总各主要展馆信息如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0d0b\">A 区 1 楼 1.1 馆：极石、吉利银河、212、雷克萨斯、保时捷、大众（含上汽大众、一汽大众、大众安徽）</p></li><li><p data-vmark=\"0056\">A 区 1 楼 2.1 馆：比亚迪集团，含腾势、方程豹、仰望、比亚迪，以及闪充、天神之眼、比亚迪芯片等技术展区</p></li><li><p data-vmark=\"6035\">A 区 2 楼 2.2 馆：广汽集团、广汽本田、广汽丰田、广汽昊铂埃安、启境、广汽传祺</p></li><li><p data-vmark=\"965b\">A 区 1 楼 3.1 馆：一汽奥迪、福特、捷途、捷途纵横、奇瑞（含风云、QQ、星途）</p></li><li><p data-vmark=\"080b\">A 区 2 楼 3.2 馆：丰田（含一汽丰田）、荣威、名爵、大通、东风本田、林肯</p></li><li><p data-vmark=\"f2e4\">A 区 1 楼 4.1 馆：长城汽车、沃尔沃、iCar、宝马、MINI</p></li><li><p data-vmark=\"3fb6\">A 区 2 楼 4.2 馆：问界、奕派科技、江汽集团、深蓝汽车、中国长安汽车、阿维塔</p></li><li><p data-vmark=\"bd7c\">A 区 1 楼 5.1 馆：奔驰、富古汽车、凯迪拉克、现代（含北京现代）、北汽集团（含享界、北汽极狐、北京越野）</p></li><li><p data-vmark=\"0140\">A 区 2 楼 5.2 馆：华为乾崑、启境、神行者、阿维塔、奕境、猛士</p></li><li><p data-vmark=\"0b14\">D 区 2 楼 17.2 馆：蔚来 + 乐道 + 萤火虫、小米、上汽奥迪、尚界、小鹏</p></li><li><p data-vmark=\"8866\">D 区 2 楼 18.2 馆：长安马自达、别克、零跑、鸿蒙智行</p></li><li><p data-vmark=\"10f7\">D 区 2 楼 19.2 馆：红旗（天工、金葵花）、东风日产、理想</p></li><li><p data-vmark=\"0cd4\">D 区 2 楼 20.2 馆：领克、极氪、智界、岚图、智己</p></li></ul><p data-nine-grid=\"1\" data-nine-grid-more=\"+6\" data-vmark=\"dc12\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9a8be25b-1912-48f6-b37c-e5737cac4c55.jpg\" w=\"1080\" h=\"796\" alt=\"图片\" data-weibo=\"0\" class=\"nowebp\" data-vmark=\"8efc\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/29236e6c-3a48-4b49-865d-f0544a90bb74.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/63af9709-71aa-43b0-94fd-7d25cace13f6.jpg\" w=\"1080\" h=\"782\" alt=\"图片\" data-weibo=\"1\" class=\"nowebp\" data-vmark=\"8c55\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/432c3ddd-a412-4cc5-91bb-51718b37da3e.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/790d62f7-2e8d-413f-89da-0ec12ae3e96e.jpg\" w=\"1080\" h=\"784\" alt=\"图片\" data-weibo=\"2\" class=\"nowebp\" data-vmark=\"2c36\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/2026e810-159f-4e45-9f7f-db4105a1bd69.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8d8f884f-3fa3-442a-8be3-2a4962e7e46c.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" data-weibo=\"3\" class=\"nowebp\" data-vmark=\"46c0\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/637a9223-e469-4875-b204-bee4686b51d4.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/95d9421c-9ffa-4982-8c6c-6a2776b5bdcd.jpg\" w=\"1080\" h=\"790\" alt=\"图片\" data-weibo=\"4\" class=\"nowebp\" data-vmark=\"c223\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/09e17d2c-2d19-48de-87d8-f274daf9ffa8.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d09e0ac9-7d59-4ae2-b2c0-a3562a6dcff4.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" data-weibo=\"5\" class=\"nowebp\" data-vmark=\"eb15\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/79059fca-7706-4607-84a0-ccb352aad313.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f46f5ae2-f479-4d4b-8662-5ec6e8b8e1f9.jpg\" w=\"1080\" h=\"784\" alt=\"图片\" data-weibo=\"6\" class=\"nowebp\" data-vmark=\"87a0\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/9dcab579-a481-47cf-81c8-8e19a2a72a28.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/de51eb55-3aa3-4eca-be57-87d28d111b2b.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" data-weibo=\"7\" class=\"nowebp\" data-vmark=\"620d\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/cda45cce-2b0a-4e45-924d-ca5f25859d90.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c648ebd3-3cbf-4c2d-9a66-2740071373df.jpg\" w=\"1080\" h=\"757\" alt=\"图片\" data-weibo=\"8\" class=\"nowebp\" data-vmark=\"ce63\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/1634bf0e-b70b-4d76-8fad-c839c4865859.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1e1d5b32-bf1d-49b8-b29e-6cf2d5240832.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" class=\"nowebp\" data-vmark=\"867f\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/b766bccd-c0c6-423f-b3cd-433b03a097b3.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0d439313-70d3-4b8b-8b76-1df38071a8fe.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" class=\"nowebp\" data-vmark=\"c12f\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/647afa7a-d140-4970-8530-86ede455e2a5.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/33f4ab46-b6b8-40ac-9ded-090ecd9db382.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" class=\"nowebp\" data-vmark=\"b4d0\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/d9156001-881e-40fe-a324-d51b0d2bfce3.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ddd9c9f3-2ec5-45c1-8833-c18633521e48.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" class=\"nowebp\" data-vmark=\"9de8\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/47684b4d-04dd-4fbe-b861-c8e9a58acd1d.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9a9e1f6f-e6e4-4486-9204-0499cbcf5085.jpg\" w=\"1080\" h=\"785\" alt=\"图片\" class=\"nowebp\" data-vmark=\"2787\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/f5f8c4d9-da14-48b5-8d10-921a17d096ea.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/aacdf56d-60bf-42b8-8a71-7d0c337fc0a2.jpg\" w=\"1080\" h=\"790\" alt=\"图片\" class=\"nowebp\" data-vmark=\"6948\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/9d9106fa-4b92-4e23-8e3d-0cf7236ff7e5.jpg\"></p><p data-vmark=\"9b88\" style=\"text-align: left;\">室外展区如下图：</p><p data-nine-grid=\"1\" data-vmark=\"ba12\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0b5d6f27-2195-441b-a7e7-55dd44b53c9f.jpg\" w=\"1080\" h=\"802\" alt=\"图片\" class=\"nowebp\" data-vmark=\"7c85\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/27e11dec-0f49-4f32-be99-7d8b072370c2.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/148137de-a5c9-453a-8e73-1455b86ced04.jpg\" w=\"1080\" h=\"802\" alt=\"图片\" class=\"nowebp\" data-vmark=\"2229\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/6a9d302f-b375-4a8c-bc65-81df2baecd16.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8d829f1f-43d8-4712-8d3d-b11405b51f20.jpg\" w=\"1080\" h=\"802\" alt=\"图片\" class=\"nowebp\" data-vmark=\"425c\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/6883f080-5f1a-498d-8910-1675fb6a6bd3.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a0ab0197-75f7-4e05-9397-cd0d60805a8a.jpg\" w=\"1080\" h=\"802\" alt=\"图片\" class=\"nowebp\" data-vmark=\"791b\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/e0f7d6ae-b99e-425f-a0d1-aa043aa8bed6.jpg\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/99d439e9-03bc-4357-b0ee-3fe7110e3038.png\" w=\"483\" h=\"360\" alt=\"图片\" class=\"nowebp\" data-vmark=\"68cd\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/25725268-152b-4c92-968d-046b84d189fd.png\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e79a64da-ae95-4419-8068-cbdc526a0d5f.png\" w=\"474\" h=\"608\" alt=\"图片\" class=\"nowebp\" data-vmark=\"3507\" data-thumbimage=\"https://img.ithome.com/newsuploadfiles/2026/11/a75a8330-1229-4ce9-97aa-ebd7a4b63f9b.png\"></p><p data-vmark=\"6d72\">2026 年 11 月 27 日至 12 月 6 日，第二十四届广州国际汽车展览会将在中国进出口商品交易会展馆举办。</p><p data-vmark=\"c99f\">本届广州车展的主题为“新科技 · 新生活”，总面积达到 22 万平方米，<strong>展车总数 1106 台，其中首发新车 115 台、新能源车 707 台</strong>。</p>",
+      "link": "https://www.ithome.com/1/029/514.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/514.htm"
+    },
+    {
+      "id": 5815,
+      "title": "韩国成为全球第四个出口额破万亿美元国家，AI 芯片旺盛需求助力",
+      "summary": "IT之家 11 月 19 日消息，据路透社报道，受全球 AI 芯片需求旺盛推动，韩国今年累计出口额突破 1 万亿美元（IT之家注：现汇率约合 6.68 万亿元人民币），成为继德国、美国和中国之后，全球第四个出口额达到这一规模的国家。 韩国贸易主管部门今天（19 日）宣布，截至格林尼治时间 5 时 09 分，韩国出口额突破 1 万亿美元。相比之下，去年全年出口额创下的最高纪录为 7,090 亿美元（现汇率约合 4.74 万亿元人民币）。 韩国是亚洲第四大经济体，也是三星电子和 ",
+      "content": "<p data-vmark=\"586c\">IT之家 11 月 19 日消息，据路透社报道，受全球 AI 芯片需求旺盛推动，韩国今年累计出口额突破 1 万亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6.68 万亿元人民币）</span>，成为继德国、美国和中国之后，全球第四个出口额达到这一规模的国家。</p><p data-vmark=\"836d\">韩国贸易主管部门今天（19 日）宣布，截至格林尼治时间 5 时 09 分，韩国出口额突破 1 万亿美元。相比之下，去年全年出口额创下的最高纪录为 7,090 亿美元<span class=\"exch-money-value\">（现汇率约合 4.74 万亿元人民币）</span>。</p><p data-vmark=\"6a43\">韩国是亚洲第四大经济体，也是<strong>三星电子和 SK 海力士等全球领先芯片制造商的所在地</strong>。全球 AI 投资热潮，带动了韩国的出口和投资。</p><p data-vmark=\"56f8\">不过，<strong>韩国国内消费需求仍然疲软，出口增长带来的收益尚未惠及众多家庭</strong>。高利率、高物价以及国内股市前所未有的剧烈波动，也削弱了消费者信心。</p><p data-vmark=\"e98c\">韩国总统李在明在社交平台 X 发文称：“现在，我们需要把这一成就转化为可持续增长。我们将增强主要产业的竞争力，培育 AI、生物产业等新的经济增长动力。最重要的是，出口增长应该让民众的生活变得更好。我们将实现‘全民共享的增长’，<strong>让大企业和小企业、首都圈和地方都能分享</strong>经济增长的机遇与成果。”</p><p data-vmark=\"c8fe\">李在明政府计划设立规模达 162.3 万亿韩元<span class=\"exch-money-value\">（现汇率约合 8,132.85 亿元人民币）</span>的“未来应对基金”，把芯片产业繁荣带来的超额税收用于扶持新兴增长产业、青年发展、地方建设和教育。</p><p data-vmark=\"2f58\">韩国财长上月预计，在芯片出口创纪录的带动下，今年韩国经济增速<strong>有望达到 3.5% 左右</strong>，高于去年的 1%。</p><p data-vmark=\"0617\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"206b\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/028/826.htm\">AI 芯片拉动韩国出口向万亿美元迈进，但股市暴跌拖累内需</a>》</p></li></ul>",
+      "link": "https://www.ithome.com/1/029/495.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/029/495.htm"
+    },
+    {
+      "id": 5816,
+      "title": "Silicon Motion demos SM8466 PCIe 6.0 SSD controller, expected to ship by 2028 — controller boasts improved quality of service, samples imminent",
+      "summary": "Silicon Motion's SM8466 has finally taped out and is set to enter the market in 2027-2028.",
+      "content": "<article>\n                                <p>Silicon Motion is showing off its <a href=\"https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays\">PCIe 6.0</a> SSD controller for data center applications for the first time at the <a href=\"https://www.tomshardware.com/tag/sc26\">SC26 conference in Chicago</a>. The final iteration of Silicon Motion's SM8466 controller was taped out recently, and drives based on the chip are due in late 2027 or early 2028. However, the new controller also has a secret weapon designed to ensure consistent performance of SSDs under concurrent workloads that may set it apart from competitors. </p><h2 id=\"the-new-controller\">The new controller</h2><p>Silicon Motion introduced its high-end MonTitan SM8466 enterprise SSD controller designed for next-generation data center and hyperscale storage applications <a href=\"https://www.tomshardware.com/pc-components/ssds/silicon-motion-reportedly-prepping-sm8466-ssd-controller-with-a-pcie-6-0-x4-leak-claims-it-will-be-unveiled-at-fms-2025-sporting-speeds-of-up-to-28gb-s\">at FMS 2025</a>. The controller features a PCIe 6.x x4 host interface and 16 NAND channels to enable sequential transfer speeds of up to 28 GB/s, random performance of up to 7 million 4K IOPS, and capacities of up to 512 TB and beyond as newer 3D NAND devices emerge. Just like other high-end data center-grade SSD controllers released in recent years, the SM8466 complies with NVMe 2.0 and OCP NVMe 2.5 SSD specifications.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2560px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"DMLwAW3aC4KBHD255d4Y8R\" name=\"smi-sm8466\" alt=\"Silicon Motion\" src=\"https://cdn.mos.cms.futurecdn.net/DMLwAW3aC4KBHD255d4Y8R-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2560\" height=\"1440\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Silicon Motion)</span></figcaption></figure><p>To improve performance and reduce latency, Silicon Motion has developed its Separate Command Architecture (SCA), which separates command and address transmission paths within the NAND interface to improve parallelism and increase effective throughput. Additionally, the controller supports Silicon Motion's 2<sup>nd</sup> Generation PerformaShape technology, which enables programmable performance limits and predictable quality of service (QoS) across concurrent workloads, which is arguably its most important differentiator against rivals who rely on different methods of guaranteeing performance.</p><p>In addition to its performance chops, the MonTitan SM8466 incorporates advanced error correction, virtualization, data protection, and security features. The controller's error correction engine supports low-density parity-check (LDPC) codes with 4KiB codewords and Silicon Motion's 16KiB Collaborative Codeword (CoCo) technology to improve data integrity and reliability with advanced NAND flash memory. The controller also supports Single Root I/O Virtualization (SR-IOV), MPF virtualization, SMART diagnostics, and comprehensive data protection mechanisms. Security capabilities include Secure Boot, AES-256 encryption, TCG Opal compatibility, and firmware attestation. Together, these features make the SM8466 suitable for high-capacity data center drives that are expected to deliver high performance, predictable latency, and reliable operation under demanding data center workloads.</p><h2 id=\"the-tactical-advantage\">The tactical advantage</h2><p>Silicon Motion's 2<sup>nd</sup> Generation PerformaShape technology builds upon the original PerformaShape architecture introduced with the company's PCIe 5.0-based MonTitan SM8366 enterprise SSD controller several years ago. The 1<sup>st</sup> Generation implementation uses dedicated hardware accelerators and two-stage leaky-bucket regulators to control read and write performance in terms of IOPS and throughput, both for individual workloads and for the SSD as a whole. This approach enables data center operators to prevent one workload from monopolizing SSD resources at the expense of others.  </p><p>PerformaShape 2 retains these capabilities but doubles the number of supported quality-of-service (QoS) sets from 256 to 512 and introduces more sophisticated performance controls to accommodate a larger number of concurrent workloads with different requirements. One of the key additions to PerformaShape 2 is Multi-Dimensional Shaping, which enables the controller to coordinate performance limits across multiple I/O characteristics rather than enforce each limit independently. This gives data center operators greater flexibility when allocating SSD resources among applications with different performance requirements. </p><p>Another important enhancement of PerformaShape 2 is support for NVMe TP4176, a proposed extension to the NVMe specification that aims to standardize performance management and QoS controls. Whereas the original PerformaShape relies on Silicon Motion's vendor-specific NVMe commands and a dedicated host driver, TP4176 could eventually enable compatible host software to configure performance policies through a standardized mechanism. The technology is particularly relevant for cloud environments where SSDs serve numerous virtual machines, containers, and applications whose storage requirements can change considerably over time, according to the company.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "vAgH6mcUiKD4L7SobyhVr9"
+    },
+    {
+      "id": 5817,
+      "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
+      "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
+      "content": "<article>\n                                <p>Intel’s next-gen Xeon Diamond Rapids CPUs appeared at Supercomputing 2026 (<a href=\"https://www.tomshardware.com/tag/sc26\">SC26</a>) in two separate booths, but neither was from Intel directly. Most interesting was a running server at the CXL booth, showcasing a demo with a Diamond Rapids CPU. The server ran for the first day of the show, and upon returning to the booth, we were informed that it had been shut down due to noise complaints (it’s hard to mistake a running server). Elsewhere at Bull’s booth, a Diamond Rapids CPU was shown installed in a server behind a glass case. Notably, Intel didn’t have a Diamond Rapids demo, instead focusing most of its booth on Xeon 6+ and its new D270 GPU, <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth\"><u>otherwise known as Crescent Island</u></a>. </p><p>The demo in question is for Montage’s CXL MXC, or Memory eXpander Controller. If you’re unfamiliar, memory expansion via CXL is an increasingly common tactic to give multi-host environments access to a large pool of memory, breaking free of an individual server’s capacity via CXL. In the demo, Montage is showing off its memory expansion controller running across a Xeon 6 and a Diamond Rapids server, each sharing a pool of memory over CXL. CXL is an open standard, built atop PCIe. </p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/kHXpNs8MuRKsaEtRKs3JF5-1920-80.jpg\" alt=\"Intel Diamond Rapids Demo. \" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/pWfhVnLSkYUW5qijhHRPp8-1920-80.jpg\" alt=\"Intel Diamond Rapids Demo. \" /><figcaption><small role=\"credit\">Tom's Hardware</small></figcaption></figure></figure><p>Of course, the demo doesn’t say much about Diamond Rapids performance, but it’s the first time we’ve seen a chip running in the wild. The 256 GB memory capacity shown doesn’t provide any hints, either. Intel has announced that Diamond Rapids will support 16-channel memory, with RDIMM support up to 8,000 MT/s and MRDIMM support up to 12,800 MT/s, matching <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera\"><u>AMD’s recent EPYC Venice CPUs</u></a>. However, Intel hasn’t revealed capacity, though we anticipate the maximum capacity will be far above 256 GB – for context, last-gen Granite Rapids-AP supports up to 3 TB per socket. </p><p>Bull is a French server designer focused on HPC and AI infrastructure, and it showed off two Xeon 7 Diamond Rapids chips installed in the Bullsquana XH31600 server. As expected for a 2P Diamond Rapids server, it supports 32 channels of DDR5 memory, and it’s designed for a liquid-cooled deployment.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2457px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"ZJSVRpaCtkGTUSuxavfnsC\" name=\"IMG20261117115237\" alt=\"Diamond Rapids server CPUs.\" src=\"https://cdn.mos.cms.futurecdn.net/ZJSVRpaCtkGTUSuxavfnsC-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2457\" height=\"1382\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>As you can see from the image, these aren’t production chips. They’re labeled with “Intel confidential,” and the code starts with “Q,” revealing that this is a sample. Originally, we expected to see Diamond Rapids in the second half of this year, perhaps around this time. However, in August, Intel revealed that Xeon 7 chips would launch in 2027. </p><p>Based on the various servers we saw and the live demo, it seems Intel is targeting a launch earlier in the year, likely in Q2; we expect a larger consumer focus in Q1. It could slip later into the year, though that seems very unlikely given that Diamond Rapids was already pushed back, and the insatiable demand for CPUs in AI data centers doesn’t appear to be drying up. </p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2560px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"W4WCaZBckuhGj6fxnMmRLM\" name=\"IMG20261118135714\" alt=\"Intel Diamond Rapids server built by Asus.\" src=\"https://cdn.mos.cms.futurecdn.net/W4WCaZBckuhGj6fxnMmRLM-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2560\" height=\"1440\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware)</span></figcaption></figure><p>Also pointing to a relatively quick release are the various servers we saw on the floor at SC26. Several partners showed off their next-gen servers built for Diamond Rapids CPU, sporting the LGA 9324 socket, including Dell and Asus (pictured above). However, Bull was the only vendor we could find that had an actual chip on display. </p><p>Diamond Rapids is Intel’s true next-gen CPU, following up on the E-core-only Xeon 6+ range that launched earlier this year. Diamond Rapids packs up to 256 P-cores, and it’s built on Intel’s performance-enhanced 18A-P node. The most interesting aspect of the chip is its topology, with Intel breaking from its previous layout and building something much similar to an EPYC CPU. The package features centralized memory and I/O, which were pushed out to the edges of the package with Granite Rapids. You can read more about the design of the chip in our <a href=\"https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib\"><u>Diamond Rapids recap from Hot Chips on </u><u><em>Tom’s Hardware Premium</em></u></a><em>. </em></p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "QUGfiVTtNbA94fqwVQH8hQ"
+    },
+    {
+      "id": 5818,
+      "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+      "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+      "content": "<article>\n                                <p>A <a href=\"https://esologic.com/multi-gpu-scaling/\">homelab builder</a> benchmarked three <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board\">used Nvidia V100s</a> on Qwen 3.6 35B, achieving about 100 tokens per second in a custom setup costing $1,042 with just “e-waste” GPUs. The smaller, dense Qwen 3.6 27B manages about 24 tokens per second on the same platform, and the V100s use about half the energy of the same number of P100s for a given job.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/homelab/comments/1xymaqi/a_1k_gpu_box_full_of_ewaste_v100_p100_cards\">A ~$1k GPU box full of \"e-waste\" (V100, P100) cards competes with modern hardware/inference APIs. Benchmarking Results incl. power consumption:</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/homelab\">r/homelab</a></cite></figcaption></blockquote></figure><p>The blog post, “Scaling ‘E-Waste’: LLMs on Multiple Decommissioned GPUs,” compares nine different builds — one to three K80s, P100s, or V100-16GB cards — on a single Supermicro dual-Xeon board. The test uses llama.cpp and covers more than 130 LLM tests, including Qwen 2.5, Gemma 4, and, of course, Qwen 3.6, at Q4/Q8/F16 precisions and from 4K to 128K context sizes. GPU energy per run is also recorded. The builder is “daily driving Qwen 3.6 35B” on the V100s and notes that scaling decommissioned GPUs will only get you so far.</p><p>“E-waste,” in this case, refers to decommissioned enterprise GPUs, which are a popular but somewhat underpowered option when compared to very expensive modern alternatives. The <a href=\"https://www.tomshardware.com/pc-components/gpus/ai-enthusiast-adds-nvidia-tesla-v100-as-loud-as-a-lawnmower-to-gaming-pc-for-usd266-32gb-of-vram-rig-can-run-27-billion-parameter-model-at-32-tokens-per-second\">Nvidia Tesla V100s</a> in question are tested as a follow-up to a July round which tested 15 “e-waste” GPUs, and this time the board and CPUs stay the same for every build — the Supermicro X10DRG-Q with two Intel Xeon E5-2687W 12-core CPUs, powered by the Corsair HX1500i PSU.</p><p>Performance is judged based on what is considered “realtime interaction” which, here, is 70 tokens per second. As to why the number of GPUs is three: Qwen 3.6 35B, the primary tested model, fails on just one or two at Q8, or 8-bit quantization.</p><p>Here are the given prices, with the note that they aren’t “100% reflective of what you could find on eBay today,” although the totals count only one of the two CPUs and omit RAM, storage, the case, and any cooling.</p><div ><table><caption>What the builder paid for each three-card build</caption><tbody><tr><td class=\"firstcol \" ><p>Part</p></td><td  ><p>3x K80</p></td><td  ><p>3x P100</p></td><td  ><p>3x V100-16GB</p></td></tr><tr><td class=\"firstcol \" ><p>Three GPUs</p></td><td  ><p>$270 ($90 each)</p></td><td  ><p>$403.50 ($134.50 each)</p></td><td  ><p>$655.16 ($436.77 per pair)</p></td></tr><tr><td class=\"firstcol \" ><p>Board</p></td><td  ><p>$211</p></td><td  ><p>$211</p></td><td  ><p>$211</p></td></tr><tr><td class=\"firstcol \" ><p>PSU</p></td><td  ><p>$147.70</p></td><td  ><p>$147.70</p></td><td  ><p>$147.70</p></td></tr><tr><td class=\"firstcol \" ><p>One CPU</p></td><td  ><p>$28.20</p></td><td  ><p>$28.20</p></td><td  ><p>$28.20</p></td></tr><tr><td class=\"firstcol \" ><p>Builder’s total</p></td><td  ><p>$657</p></td><td  ><p>$790</p></td><td  ><p>$1,042</p></td></tr><tr><td class=\"firstcol \" ><p>With 2nd CPU</p></td><td  ><p>$685</p></td><td  ><p>$819</p></td><td  ><p>$1,070</p></td></tr></tbody></table></div><p>The older cards are relatively inexpensive because they “run hot and ship without cooling,” which required the builder to 3D print one blower duct per card and has led to the development of a standalone cooler.</p><p>The bench itself involves 10 runs of 512 generated tokens per test with context pre-filled to 4K, 32K, 64K, or 128K. Qwen 3.6 35B is a mixture-of-experts (MoE) model, which only activates about 3 billion out of its 35 billion total parameters per token. The numbers that immediately follow are at Q8.</p><p>The token goal was easily reached…when the context window was small, or 4K. The 100.8 tokens per second there fell to 72.7 at 128K, still usable by the 70 tokens per second goal. The 27B model, which is not MoE, fared much worse, at 24.3 at 4K, 21.6 at 32K, 18.7 at 64K, and just 14.2 at 128K. The MoE ends up about four to five times faster, depending on the context size.</p><div ><table><caption>Qwen 3.6 35B generation speed by context length (tokens per second)</caption><tbody><tr><td class=\"firstcol \" ><p>Setup</p></td><td  ><p>4K</p></td><td  ><p>32K</p></td><td  ><p>64K</p></td><td  ><p>128K</p></td></tr><tr><td class=\"firstcol \" ><p>3x V100, Q8</p></td><td  ><p>100.8</p></td><td  ><p>89.4</p></td><td  ><p>83.5</p></td><td  ><p>72.7</p></td></tr><tr><td class=\"firstcol \" ><p>2x V100, Q4</p></td><td  ><p>105.4</p></td><td  ><p>96.2</p></td><td  ><p>89.5</p></td><td  ><p>77.1</p></td></tr><tr><td class=\"firstcol \" ><p>3x P100, Q8</p></td><td  ><p>55.2</p></td><td  ><p>50.9</p></td><td  ><p>47.5</p></td><td  ><p>40.2</p></td></tr><tr><td class=\"firstcol \" ><p>M5 Max Mac, 8-bit</p></td><td  ><p>105.5</p></td><td  ><p>91.1</p></td><td  ><p>78.5</p></td><td  ><p>61.3</p></td></tr></tbody></table></div><p>Also tested were <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks\">other dense models</a> of about 30B parameters. At 4K, Gemma 4 31B achieved 20.9 and Qwen 2.5 32B 21.0, while the MoE Gemma 4 26B cleared the 70 tokens per second bar with just two V100s at Q8. If you move down to Q4, or 4-bit quantization, two V100s can run Qwen 3.6 35B at 77.1 to 105.4 tokens per second, between 128K and 4K context size. This is where it’s claimed that adding more cards gives you more memory, which enables larger models to be run, but not speed.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1600px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"A6SeePQLEXNDjF65NZGeNf\" name=\"qwen36-moe-vs-dense-v100-1600x900\" alt=\"Bar chart showing Qwen 3.6 35B running about four to five times faster than Qwen 3.6 27B on three Tesla V100 cards at every context length\" src=\"https://cdn.mos.cms.futurecdn.net/A6SeePQLEXNDjF65NZGeNf-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1600\" height=\"900\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: Tom's Hardware (data: esologic))</span></figcaption></figure><p>The P100s, for comparison, only hit 40.2–55.2 tokens per second in the same context range with Q8 Qwen 3.6 35B, and the target 70 only with Qwen 2.5 3B. If we compare to <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures\">more modern hardware</a> — the <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-dgx-spark-review\">Nvidia DGX Spark</a>, MSRP $4,700, and the M5 Max Mac Studio, which starts at $2,499 but costs $5,399 with the tested 40-core GPU, 128GB of memory, and a 1TB SSD — the 3x V100 build holds its own, using sourced data.</p><p>The Mac comparison comes from the oMLX benchmark page for the M5 Max with 40 GPU cores and 128GB of unified memory, and that hits 43.9 tokens per second with a ~195K-token prompt on the Qwen 3.6 35B model. The Mac is slightly ahead at 4K and 32K, while the V100s pull ahead at 64K and 128K, by 19% at the longest context. These numbers have to be taken loosely, as the machines use different runtimes.</p><p>The Spark run came from Kleybrink’s dgx-spark-bench, using Ollama in thinking mode with short prompts. Its 45.8 tokens per second is less than half the V100s’ 4K figure.</p><p>Going further to modern GPUs, which “destroy our decommissioned equivalents,” as the builder puts it, you get about 315 tokens per second on two H100s and about 455 on one B200 at 128K, the B200 roughly six times the V100 box, even though the hosted cards ran the full 16-bit model against the V100s’ 8-bit. Parasail, an inference provider, sponsored that comparison with dedicated H100 and B200 deployments.</p><p>As for energy, the V100 setup came out to about 0.02 kWh for a 128K 35B run, with the P100s taking twice that much and two or three K80s as much as 0.35 to 0.45 kWh. The V100-16GB simply “[puts] up better scores while consuming less energy,” in comparison to the P100s. These numbers are for the GPUs and not from the wall.</p><p>There’s more to come. The builder wants a benchmark that “maps to ‘software factory’ performance,” a term for models being prompted constantly, around the clock, where instant speed matters less. Then there’s the cooler, which is “almost ready for release,” with beta testers to be recruited from the mailing list, although no date has been given. From the Reddit thread, the builder mentions the intention to compare inference backends and use speculative decoding to improve performance.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "3ru4aUHTaQVdFnEJnxzgDk"
+    },
+    {
+      "id": 5819,
+      "title": "Get 32GB of DDR5 for $240 with this blistering Intel gaming PC bundle",
+      "summary": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
+      "content": "<article>\n                                <p>Buying a bundle in the Black Friday sales could save you a ton of money on expensive RAM and SSDs, and this latest one from Newegg shaves $240 off the price of 32GB of DDR5. The price on this bundle is so good Newegg won't even show it to you unless you log in: <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889488&amp;_gl=1*f5wb0t*_gcl_au*OTY0ODY2MTEyLjE3OTQ4MjQzOTMuMTUzMzc0NzY4OS4xNzk1MDgzMDE1LjE3OTUwODMwMTQuMTEwNTkwODcxOC4xNzk1MDgzMDE1LjE3OTUwODMwMTQ.*_ga*MTA4MTM4NTI5Mi4xNzQ3MDUzNDIz*_ga_TR46GG8HLR*czE3OTUwODI4ODAkbzM4NSRnMSR0MTc5NTA4MzAzOSRqNTQkbDAkaDM5NjI3Njc4NA\">it's an Intel Core Ultra 7 270K Plus 24-core CPU, 32GB of DDR5 6000, a 1TB 990 Pro SSD, Gigabyte Z890 Aorus Elite Wi-Fi 7 motherboard, and more than $200 of freebies including an AIO cooler, all for just $1,079.99.</a></p><p>● <a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889488&amp;_gl=1*f5wb0t*_gcl_au*OTY0ODY2MTEyLjE3OTQ4MjQzOTMuMTUzMzc0NzY4OS4xNzk1MDgzMDE1LjE3OTUwODMwMTQuMTEwNTkwODcxOC4xNzk1MDgzMDE1LjE3OTUwODMwMTQ.*_ga*MTA4MTM4NTI5Mi4xNzQ3MDUzNDIz*_ga_TR46GG8HLR*czE3OTUwODI4ODAkbzM4NSRnMSR0MTc5NTA4MzAzOSRqNTQkbDAkaDM5NjI3Njc4NA\">Grab this deal at Newegg</a></p><p>There's a lot going on in this bundle, so let's break it down. This is one of Intel's fastest gaming CPUs to date, with 24 cores for impressive productivity and gaming performance. You also get 32GB of Corsair Vengeance DDR5-6000 memory. Usually priced at $479 in the AI economy, this is $240 if you apply the savings directly to the RAM. You also get 1TB of storage and an impressive Z890 motherboard, <em>three</em> free games from various Intel holiday bundles, and a free 240mm AIO cooler. </p><div class=\"product star-deal\"><a data-dimension112=\"da3689bc-e403-11f1-838f-7d8b7eb0c167\" data-action=\"Star Deal Block\" data-label=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension48=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension25=\"$769.99\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889488&amp;_gl=1*f5wb0t*_gcl_au*OTY0ODY2MTEyLjE3OTQ4MjQzOTMuMTUzMzc0NzY4OS4xNzk1MDgzMDE1LjE3OTUwODMwMTQuMTEwNTkwODcxOC4xNzk1MDgzMDE1LjE3OTUwODMwMTQ.*_ga*MTA4MTM4NTI5Mi4xNzQ3MDUzNDIz*_ga_TR46GG8HLR*czE3OTUwODI4ODAkbzM4NSRnMSR0MTc5NTA4MzAzOSRqNTQkbDAkaDM5NjI3Njc4NA\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1280px;\"><p class=\"vanilla-image-block\" style=\"padding-top:75.00%;\"><img id=\"4nA8PkChwLvD3CxEf5JVrR\" name=\"Intel Core Ultra 7 270K Plus, ASRock Z890 Pro RS, G.Skill Trident Z5 DDR5-6000\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/4nA8PkChwLvD3CxEf5JVrR-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1280\" height=\"960\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><div><span class=\"product__star-deal-label\">Free AIO and three games</span><p><strong><a href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889488&amp;_gl=1*f5wb0t*_gcl_au*OTY0ODY2MTEyLjE3OTQ4MjQzOTMuMTUzMzc0NzY4OS4xNzk1MDgzMDE1LjE3OTUwODMwMTQuMTEwNTkwODcxOC4xNzk1MDgzMDE1LjE3OTUwODMwMTQ.*_ga*MTA4MTM4NTI5Mi4xNzQ3MDUzNDIz*_ga_TR46GG8HLR*czE3OTUwODI4ODAkbzM4NSRnMSR0MTc5NTA4MzAzOSRqNTQkbDAkaDM5NjI3Njc4NA\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"da3689bc-e403-11f1-838f-7d8b7eb0c167\" data-action=\"Star Deal Block\" data-label=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension48=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension25=\"$769.99\">Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7: was $1009.97 now $769.99</a></strong><br />Get Intel's latest Core Ultra 7 270K Plus with a 32GB kit of DDR5 and a Z890 motherboard for $240, with more than $200 worth of freebies, a massive saving to offset the inflated cost of RAM and SSD storage. <a class=\"view-deal button\" href=\"https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4889488&amp;_gl=1*f5wb0t*_gcl_au*OTY0ODY2MTEyLjE3OTQ4MjQzOTMuMTUzMzc0NzY4OS4xNzk1MDgzMDE1LjE3OTUwODMwMTQuMTEwNTkwODcxOC4xNzk1MDgzMDE1LjE3OTUwODMwMTQ.*_ga*MTA4MTM4NTI5Mi4xNzQ3MDUzNDIz*_ga_TR46GG8HLR*czE3OTUwODI4ODAkbzM4NSRnMSR0MTc5NTA4MzAzOSRqNTQkbDAkaDM5NjI3Njc4NA\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"da3689bc-e403-11f1-838f-7d8b7eb0c167\" data-action=\"Star Deal Block\" data-label=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension48=\"Core Ultra 7 270K Plus, Corsair Vengeance 32GB DDR5 6000, Samsung 990 Pro SSD 1TB, Gigabyte Z890 Aorus Elite Wi-Fi 7\" data-dimension25=\"$769.99\">View Deal</a></p></div></div><p>Intel's Core Ultra 7 270K marks an extremely impressive resurgence for Intel in the desktop gaming sphere. It is extremely good value at its price tag of around $330, matching AMD's rival options at that price point while also offering epic single and multithreaded performance, even stacking up to flagships worth twice as much. The Arrow Lake Refresh SKU comes with 24 cores (8P+16E), 24 threads, and boost clocks of up to 5.5 GHz.</p><figure role=\"gallery\"><figure><img src=\"https://cdn.mos.cms.futurecdn.net/S5p9FDhxSiTDiTr2A2NmeN-1920-80.png\" alt=\"270K Plus benchmarks\" /><figcaption><small role=\"credit\">Future</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/5i8CKruQqaeZhPqNP63KcN-1920-80.png\" alt=\"270K Plus benchmarks\" /><figcaption><small role=\"credit\">Future</small></figcaption></figure><figure><img src=\"https://cdn.mos.cms.futurecdn.net/a2H4hirv6Fnv7jHvka5RcN-1920-80.png\" alt=\"270K Plus benchmarks\" /><figcaption><small role=\"credit\">Future</small></figcaption></figure></figure><p>While it won't compete with AMD's potent X3D chips, this is a much cheaper alternative that is still great for gaming, sitting between Intel's 14900K and 13900K in terms of benchmarks. As our testing shows, the 270K Plus really excels in productivity performance, with the highest-single threaded performance of any CPU we've tested. </p><p>This bundle also features 32GB of DDR5 6000 RAM with support for Intel XMP 3.0, the perfect complement for gaming. 1TB of Gen 4 SSD storage is enough to store some games and get your build started, and it's all held together by the Gigabyte Z890 Aorus Elite Wi-Fi 7 ICE Ultra Core motherboard. This comes with plenty of ports for connectivity and expansion, as well as DIY features like EZ-latch M.2 bays and Wi-Fi 7, as the name suggests. </p><p>This deal would be a standout with just the named parts you're paying for, but you also get a free MIS Mag Coreliquid A13 240 AIO cooler, more than enough to keep that CPU running nice and cool. The CPU nets you Intel's holiday bundle, a choice of two out of seven games as follows:</p><ul><li><em>Total War: WARHAMMER 40,000 - Expected Release: 1H 2027</em></li><li><em>STAR WARS: Galactic Racer</em></li><li><em>Tomb Raider: Legacy of Atlantis - Expected Release: February 12, 2027</em></li><li><em>LEGO Batman: Legacy of the Dark Knight</em></li><li><em>Everwind</em></li><li><em>Battlefield 6</em></li><li><em>Assassin's Creed Shadows</em></li></ul><p>An extra motherboard bundle lets you choose one of three titles from <em>Dying Light: The Beast, Sid Meier's Civilization VII</em>, or <em>HITMAN III (World of Assassination). </em>The cooler, CPU bundle, and motherboard bundle are priced at $85, 85, and $60, respectively, meaning you're getting well over $200 in free extras.</p><p>This is a great value bundle that won't be around on Newegg's website for long, so move fast if you want to secure it. </p><p><em>If you're looking for more savings, check out our </em><a href=\"https://www.tomshardware.com/news/best-deals-on-tech\"><em>Best PC Hardware deals</em></a><em> for a range of products, or dive deeper into our specialized </em><a href=\"https://www.tomshardware.com/features/best-deals-on-ssds\"><em>SSD and Storage Deals,</em></a><em> </em><a href=\"https://www.tomshardware.com/pc-components/ssds/best-hard-drive-deals\"><em>Hard Drive Deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-computer-monitor-deals\"><em>Gaming Monitor Deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-graphics-card-deals-now\"><em>Graphics Card Deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/best-picks/best-gaming-chairs\"><em>Gaming Chair</em></a><em>, </em><a href=\"https://www.tomshardware.com/networking/routers/best-wi-fi-routers\"><em>Best Wi-Fi Routers</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-2025-deals-on-intel-and-amd-motherboards\"><em>Best Motherboard,</em></a><em> or </em><a href=\"https://www.tomshardware.com/features/best-cpu-deals\"><em>CPU Deals</em></a><em> pages.</em></p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "KAf5fEv3SBwYxk8FWAM6qg"
+    },
+    {
+      "id": 5820,
+      "title": "Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB",
+      "summary": "Grab this 4TB Samsung 990 Pro SSD with Gen 4 speeds for $699.99, a 36% price drop compared to its list price and a $100 drop since last week.",
+      "content": "<article>\n                                <p>SSDs are expensive right now, thanks to AI, so picking one up on sale is the best way to do it. Luckily, thanks to the start of Amazon's Black Friday sale,<a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\"> you can pick up a 4TB Samsung 990 Pro for $699.99 right now</a>. That's a $100 price drop compared to last week and a huge 36% discount on its current list price. </p><p>● <a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\">Grab this Samsung SSD deal at Amazon</a></p><p>This is a very good deal in the current market, unless you've got a time machine. As our <a href=\"https://www.tomshardware.com/reviews/samsung-990-pro-4tb-ssd-review\">Samsung 990 Pro 4TB review</a> shows, this is one of the <a href=\"https://www.tomshardware.com/reviews/best-ssds,3891.html\">best SSDs</a> overall, and our top recommendation. It has maximum sequential read and write speeds of 7,450 MB/s and 6,900 MB/s apiece, with random reads/writes coming in at 1.6 million and 1.55 million IOPS, respectively, with endurance rated at 2,400 TBW (terabytes written).</p><div class=\"product\"><a data-dimension112=\"a8e896fa-e405-11f1-bef5-b718f4c8fa77\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$699.99\" href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1508px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.23%;\"><img id=\"thvD5sSNzsennk4yJRnw33\" name=\"81WuG6lQuDL._AC_SL1500_.jpg\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/thvD5sSNzsennk4yJRnw33-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"1508\" height=\"848\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"a8e896fa-e405-11f1-bef5-b718f4c8fa77\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$699.99\">990 Pro 4TB SSD: was $1099.99 now $699.99</a></strong><br />The Samsung 990 Pro 4TB is among the fastest Gen 4 SSDs available thanks to read and write speeds of up to 7450/6900 MB/s, almost maxing out the Gen 4 bandwidth. This M.2 NVMe drive comes in the 2280 form factor and holds enough capacity to store a large selection of your favorite games or files. </p><p>Random reads/writes come in at 1.6 million and 1.55 million IOPS, respectively, while endurance is rated for a respectable 2,400 TBW.<a class=\"view-deal button\" href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"a8e896fa-e405-11f1-bef5-b718f4c8fa77\" data-action=\"Deal Block\" data-label=\"990 Pro 4TB SSD\" data-dimension48=\"990 Pro 4TB SSD\" data-dimension25=\"$699.99\">View Deal</a></p></div><p>For this 4TB drive, Samsung used 236-layer TLC V-NAND while also using a single-sided design, making it a good option for installation in a PC where physical space is at a premium. Our own tests at the time saw it score above the competition in almost every test we ran, with the lowest latency in 3DMark's storage test. That's a particularly good result for gamers, hopefully giving you faster load times. You're also getting a drive with sustainable performance, even while writing to the drive, maintaining speeds of 6.2 GB/s for 75 seconds during our IOMeter tests, thanks to that 10GB of pSLC cache. </p><p>While newer Gen 5 drives can best it on speed and performance, we've not tested a faster Gen 4 SSD. This is a high calibre drive, but it's important to focus on the capacity here, too. 4TB is a huge boost for most PCs that will ensure that, once you've installed your OS, you're left with a vast amount of extra storage for games, photos, and important documents.</p><p>AI might have forced SSD prices to shoot through the roof, but <a href=\"https://www.amazon.com/Samsung-Computing-Workstations-MZ-V9P4T0B-AM/dp/B0CHGT1KFJ\">the $699 sale price on this 4TB Samsung 990 Pro</a> is a good option in the current market. The $100 price drop compared to last week, let alone from its high of $1,099, means you can secure fast, vast storage for a price we've not seen in months. Expect to see this deal sell out fast.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "eiG6UWRTuVE6snCfD8V45Y"
+    },
+    {
+      "id": 5821,
+      "title": "(PR) Patriot Launches AI Matrix SSD and DRAM Series Engineered for Local AI Workloads",
+      "summary": "Patriot Memory today announced the Patriot AI Matrix series, a dedicated lineup of DDR5 memory modules and PCIe M.2 2280 NVMe SSDs engineered for local AI computing. Organized across PRO, Mid, and Entry tiers, the portfolio pairs screened m",
+      "content": "Patriot Memory today announced the Patriot AI Matrix series, a dedicated lineup of DDR5 memory modules and PCIe M.2 2280 NVMe SSDs engineered for local AI computing. Organized across PRO, Mid, and Entry tiers, the portfolio pairs screened memory ICs and high-endurance NAND flash with ongoing open-source LLM benchmark validation, enabling builders, creators, and SMBs to match hardware directly to on-device AI demands.<br />\r\n<br />\r\nRunning AI locally provides direct data privacy, offline reliability, and predictable hardware costs without recurring API token fees. However, scaling local LLMs exposes critical bottlenecks beyond GPU compute—namely memory-bound limits when holding multi-billion-parameter weights and runtime context, and storage-bound constraints when loading large checkpoints or querying local RAG datasets.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/EmchP83XIVRTVmW3.jpg\" target=\"_blank\" data-width=\"1316\" data-height=\"937\" ><img src=\"https://tpucdn.com/img/EmchP83XIVRTVmW3_thm.jpg\" width=\"183\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/355024/patriot-launches-ai-matrix-ssd-and-dram-series-engineered-for-local-ai-workloads\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/355024/patriot-launches-ai-matrix-ssd-and-dram-series-engineered-for-local-ai-workloads",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e2f00a466553bc81993b94477ebdc029"
+    },
+    {
+      "id": 5822,
+      "title": "(PR) MSI Unveils the EdgeMesa N AI+ Series, Powering the Future of AI Teammates",
+      "summary": "MSI, a global leader in AI computing and innovative technology solutions, introduces the EdgeMesa N AI+ Series, a compact AI desktop designed to bring powerful local AI computing into everyday workspaces. Powered by NVIDIA RTX Spark, the ne",
+      "content": "MSI, a global leader in AI computing and innovative technology solutions, introduces the EdgeMesa N AI+ Series, a compact AI desktop designed to bring powerful local AI computing into everyday workspaces. Powered by NVIDIA RTX Spark, the new series combines advanced AI acceleration with MSI's thoughtful engineering, enabling developers, creators, and AI enthusiasts to build, run, and deploy AI applications locally. With Windows 11 and a space-saving design, it provides a practical platform for turning AI experimentation into real-world workflows while maintaining greater control over data and computing resources.<br />\r\n<br />\r\nDesigned for continuous AI workloads, the EdgeMesa N AI+ Series features a refined 1.3-liter aluminium chassis with a fingerprint-resistant finish. Its MSI AI Pulse Cooling System integrates Vapor Chamber technology and dual turbo fans to manage heat efficiently, helping sustain 140 W TDP performance and support reliable 24/7 AI agent operation. This combination brings demanding AI computing to desktops without occupying valuable workspace.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/Hl3Q4V5HX4iFV6jG.jpg\" target=\"_blank\" data-width=\"1342\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/Hl3Q4V5HX4iFV6jG_thm.jpg\" width=\"182\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/T1jfPnTcKwG1b933.jpg\" target=\"_blank\" data-width=\"1904\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/T1jfPnTcKwG1b933_thm.jpg\" width=\"258\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/85g8zsOxUNTF41A3.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/85g8zsOxUNTF41A3_thm.jpg\" width=\"163\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/YSbdwXAFDfDUDYGJ.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/YSbdwXAFDfDUDYGJ_thm.jpg\" width=\"163\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/355023/msi-unveils-the-edgemesa-n-ai-series-powering-the-future-of-ai-teammates\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/355023/msi-unveils-the-edgemesa-n-ai-series-powering-the-future-of-ai-teammates",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "975b00e7947273c0ead48823ea690d3f"
+    },
+    {
+      "id": 5823,
+      "title": "(PR) NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth",
+      "summary": "TrendForce's latest memory industry research indicates that the global NAND Flash market is expected to see a reversal in supply-demand dynamics in 2027. With supply set to grow rapidly, substantial cuts to enterprise SSD orders from Chines",
+      "content": "TrendForce's latest memory industry research indicates that the global NAND Flash market is expected to see a reversal in supply-demand dynamics in 2027. With supply set to grow rapidly, substantial cuts to enterprise SSD orders from Chinese CSPs—coupled with a potential further contraction in consumer electronics demand—are expected to exacerbate oversupply. <br />\r\n<br />\r\nTrendForce forecasts that the overall NAND Flash contract prices will begin declining in the first quarter of 2027, with quarterly price drops potentially widening as the year progresses. TrendForce estimates that global NAND Flash industry CapEx will increase 26.7% YoY to US$29.9 billion in 2027.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/anm7HNwdu92INpG2.jpg\" target=\"_blank\" data-width=\"1080\" data-height=\"560\" ><img src=\"https://tpucdn.com/img/anm7HNwdu92INpG2_thm.jpg\" width=\"251\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/355022/nand-flash-prices-set-to-decline-in-2027-as-chinese-csp-order-cuts-outweigh-north-american-demand-growth\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/355022/nand-flash-prices-set-to-decline-in-2027-as-chinese-csp-order-cuts-outweigh-north-american-demand-growth",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "e5c3d3ca56386dab250e776001b6e323"
+    },
+    {
+      "id": 5824,
+      "title": "TechPowerUp Formula V Line Giveaway: Entries Close Soon, Hurry!",
+      "summary": "TechPowerUp, in partnership with Formula V Line brings our readers from all over the world a unique chance to bag one of a dozen pieces of Formula V Line hardware, including cases, AIO liquid CPU coolers, and case fans. The first lucky winn",
+      "content": "TechPowerUp, in partnership with Formula V Line brings our readers from all over the world a unique chance to bag one of a dozen pieces of Formula V Line hardware, including cases, AIO liquid CPU coolers, and case fans. The first lucky winner gets a Formula V Line G10 case, plus an Ice Nova Pro 3 CPU cooler, and a set of three Air Bridge VT Vision case fans. The second lucky winner gets a Formula V Line G10 case, and an Ice Nova Pro 3 cooler. The third lucky winner gets a Formula V Line G10 case. Winners 4th thru 10th get a selection of Ice Nova Pro 3 coolers and Air Bridge VT Vision 3-fan sets. Sounds good? Well, you better hurry as entries close tomorrow, November 20.<br />\r\n<br />\r\nFor more details, and to participate, <a href=\"https://www.techpowerup.com/contests/formula-v-line-giveaway-nov-26\" target=\"_blank\">visit this page</a>.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/1eNoHYDCkxAOcgcW.jpg\" target=\"_blank\" data-width=\"800\" data-height=\"800\" ><img src=\"https://tpucdn.com/img/1eNoHYDCkxAOcgcW_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/355025/techpowerup-formula-v-line-giveaway-entries-close-soon-hurry",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "d6c8e4527787c6db295c96a0e585b062"
+    },
+    {
+      "id": 5825,
+      "title": "AMD's \"We Love Gamers\" Post Clashes With Its Own CEO's Comments",
+      "summary": "AMD Japan took to X today to say \"AMD loves gamers,\" while also claiming that the company values its interactions with gamers above all else. The post was a quote tweet to coverage of CEO Dr. Lisa Su attending the opening of Micro Center's ",
+      "content": "AMD Japan <a rel=\"nofollow\" href=\"https://x.com/amdjapan/status/2122557461387497511\" target=\"_blank\">took to X</a> today to say &quot;AMD loves gamers,&quot; while also claiming that the company values its interactions with gamers above all else. The post was a quote tweet to coverage of CEO Dr. Lisa Su attending the opening of Micro Center's new Austin store. AMD handed out 300 swag bags and also raffled off a Radeon RX 9070 XT signed by Dr. Su at that event. However, that gesture was certainly not enough to undo Dr. Lisa Su's comments less than two weeks ago, where she <a href=\"https://www.techpowerup.com/354543/amd-goes-data-center-first-while-gaming-revenue-drops-40\" target=\"_blank\">called AMD a &quot;data center first&quot; company</a>. The replies, and later a community note, were quick to remind AMD Japan of that contradiction.<br />\r\n<br />\r\nIn addition to its own CEO's comments, AMD's latest earnings also don't agree with its X post today. AMD posted <a href=\"https://www.techpowerup.com/354446/amd-reports-record-usd-13-4b-third-quarter-2026-revenue\" target=\"_blank\">record Q3 2026 revenue</a> of $13.4 billion, up 45% year over year, and the Data Center segment did most of the heavy lifting. It brought in a record $8.5 billion, 64% of the total revenue, which was up 97% year over year. By comparison, the Client and Gaming segment fell 8% to $3.7 billion. This is the part that caters to gamers, and what's more interesting is that the Client revenue actually grew 7%, which means that the damage sits almost entirely in gaming. The latter dropped 40% to $773 million, under 6% of AMD's total revenue now. Not to mention, AMD expects data center sales to grow roughly 50% from Q3 to Q4, while there's nothing officially on the horizon for gamers except a <a href=\"https://www.techpowerup.com/354964/amd-ces-2027-invite-hints-at-possible-ryzen-zen-6-olympic-ridge-reveal\" target=\"_blank\">CES 2027 teaser</a>.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/ei4ZYCAKMiCRceKp.jpg\" target=\"_blank\" data-width=\"1500\" data-height=\"843\" ><img src=\"https://tpucdn.com/img/ei4ZYCAKMiCRceKp_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/kaHAN7XZUBcggAY2.jpg\" target=\"_blank\" data-width=\"895\" data-height=\"424\" ><img src=\"https://tpucdn.com/img/kaHAN7XZUBcggAY2_thm.jpg\" width=\"274\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/FH5g3mw30sr8TIDF.jpg\" target=\"_blank\" data-width=\"859\" data-height=\"478\" ><img src=\"https://tpucdn.com/img/FH5g3mw30sr8TIDF_thm.jpg\" width=\"234\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/355012/amds-we-love-gamers-post-clashes-with-its-own-ceos-comments",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "c4c2375ec52bad9e38eb25ea1f3c7cda"
+    },
+    {
+      "id": 5827,
+      "title": "DDR6 will have a wider bus and smaller modules — with over 50 % more bandwidth than DDR5",
+      "summary": "DDR6 is shaping up to deliver over 50 % more bandwidth than DDR5, thanks to a 50 % wider data bus and higher transfer rates. The upcoming standard will also introduce more compact memory modules, higher DRAM die densities and improved power",
+      "content": "DDR6 is shaping up to deliver over 50 % more bandwidth than DDR5, thanks to a 50 % wider data bus and higher transfer rates. The upcoming standard will also introduce more compact memory modules, higher DRAM die densities and improved power efficiency, targeting everything from conventional PCs to AI servers.",
+      "link": "https://www.notebookcheck.net/DDR6-will-have-a-wider-bus-and-smaller-modules-with-over-50-more-bandwidth-than-DDR5.1454389.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/DDR6-will-have-a-wider-bus-and-smaller-modules-with-over-50-more-bandwidth-than-DDR5.1454389.0.html"
+    },
+    {
+      "id": 5828,
+      "title": "Honor Watch 6 Pro debuts in Europe with tandem OLED and up to 18 days of battery life",
+      "summary": "Honor is bringing its ceramic smartwatch to Europe with a tandem OLED display offering 5,500 nits of peak brightness, wireless charging and up to 18 days on a single charge. The Watch 6 Pro also offers dual-phone notifications and detailed ",
+      "content": "Honor is bringing its ceramic smartwatch to Europe with a tandem OLED display offering 5,500 nits of peak brightness, wireless charging and up to 18 days on a single charge. The Watch 6 Pro also offers dual-phone notifications and detailed sports tracking, alongside a morning report on sleep and health. European buyers can get launch discounts and bundled gifts, though the offers differ by country.",
+      "link": "https://www.notebookcheck.net/Honor-Watch-6-Pro-debuts-in-Europe-with-tandem-OLED-and-up-to-18-days-of-battery-life.1454393.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Honor-Watch-6-Pro-debuts-in-Europe-with-tandem-OLED-and-up-to-18-days-of-battery-life.1454393.0.html"
+    },
+    {
+      "id": 5829,
+      "title": "Slay the Spire 2 Major Update 3 hits with 89 reworks",
+      "summary": "Mega Crit rolls out Slay the Spire 2 Major Update 3 (v0.111.1) on the Steam main branch with new co-op cards, Neow relics, 89 card changes, and keyboard-only mode.",
+      "content": "Mega Crit rolls out Slay the Spire 2 Major Update 3 (v0.111.1) on the Steam main branch with new co-op cards, Neow relics, 89 card changes, and keyboard-only mode.",
+      "link": "https://www.notebookcheck.net/Slay-the-Spire-2-Major-Update-3-hits-with-89-reworks.1454273.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Slay-the-Spire-2-Major-Update-3-hits-with-89-reworks.1454273.0.html"
+    },
+    {
+      "id": 5830,
+      "title": "US lawmaker wants your games playable 'forever,' even after servers shut down",
+      "summary": "A US congressman has announced the Protect Our Games Act. It's a federal bill that would keep digital games playable after online services end and give players access to their own game servers. No bill text or bill number has been published",
+      "content": "A US congressman has announced the Protect Our Games Act. It's a federal bill that would keep digital games playable after online services end and give players access to their own game servers. No bill text or bill number has been published yet, though.",
+      "link": "https://www.notebookcheck.net/US-lawmaker-wants-your-games-playable-forever-even-after-servers-shut-down.1453886.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/US-lawmaker-wants-your-games-playable-forever-even-after-servers-shut-down.1453886.0.html"
+    },
+    {
+      "id": 5831,
+      "title": "Japanese brand announces lightweight 14-inch laptop with 16GB RAM, Intel CPU and 12-hour battery",
+      "summary": "Dynabook has announced the M6, a 14-inch laptop for the Japanese market powered by Intel's Core 5 320 Wildcat Lake processor. It features a WUXGA display, 16GB of RAM, a 512GB SSD and weighs around 1.2 kg.",
+      "content": "Dynabook has announced the M6, a 14-inch laptop for the Japanese market powered by Intel's Core 5 320 Wildcat Lake processor. It features a WUXGA display, 16GB of RAM, a 512GB SSD and weighs around 1.2 kg.",
+      "link": "https://www.notebookcheck.net/Japanese-brand-announces-lightweight-14-inch-laptop-with-16GB-RAM-Intel-CPU-and-12-hour-battery.1453226.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-brand-announces-lightweight-14-inch-laptop-with-16GB-RAM-Intel-CPU-and-12-hour-battery.1453226.0.html"
+    },
     {
       "id": 5692,
       "title": "JEDEC首次展示下一代DDR6内存技术标准 速率最高可达17600MT/s",
@@ -1228,6 +1965,66 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/Japanese-brand-launches-premium-laptop-with-16-GB-RAM-and-8-core-ARM-SoC.1452322.0.html"
+    },
+    {
+      "id": 5826,
+      "title": "INNOCN Black Friday Monitor Deals: Save on QD-OLED Gaming, Ultrawide and 4K Displays",
+      "summary": "Looking to upgrade your gaming setup or add more screen space to your workstation? INNOCN is running Black Friday offers on eight monitors at Amazon US from November 19 through November 30, 2026. The lineup covers fast gaming displays, expa",
+      "content": "Looking to upgrade your gaming setup or add more screen space to your workstation? INNOCN is running Black Friday offers on eight monitors at Amazon US from November 19 through November 30, 2026. The lineup covers fast gaming displays, expansive ultrawide screens and sharp 4K monitors for everyday productivity. Here are the deals worth checking out.<br />\r\n<br />\r\n<b>Gaming and ultrawide monitor deals</b><br />\r\n<a href=\"https://www.amazon.com/dp/B0H973MXT3?maas=maas_adg_api_579008717408134714_static_11_144&amp;ref_=aa_maas&amp;tag=maas&amp;aa_campaignid=125766353795673088&amp;aa_adgroupid=125766353795673089&amp;aa_creativeid=125766353795673090\" target=\"_blank\">INNOCN 2780S</a> is a 27-inch QD-OLED gaming monitor with 1440p resolution and a 240 Hz refresh rate, making it an option for players looking for a high-refresh display with OLED visuals. Normally $349.99, it is available for $279.99 during the sale (save $70.00).<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/JFvsK1vE70rh6lzf.jpg\" target=\"_blank\" data-width=\"1200\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/JFvsK1vE70rh6lzf_thm.jpg\" width=\"130\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/fqGRmZHgXjMPT58f.jpg\" target=\"_blank\" data-width=\"1464\" data-height=\"600\" ><img src=\"https://tpucdn.com/img/fqGRmZHgXjMPT58f_thm.jpg\" width=\"317\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-18",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "9803870471b786d51dd4ffa31187b914"
+    },
+    {
+      "id": 5832,
+      "title": "Lenovo releases new 14-inch laptop with 27 hours battery life and 1,100-nit OLED display",
+      "summary": "Lenovo has released a new 14-inch laptop with a 1,100-nit OLED and 120 Hz VRR display. Also boasting up to 27 hours in official tests, the ThinkBook 14x Gen 2 IWC can be configured with up to 32 GB of RAM to complement its choice of Intel W",
+      "content": "Lenovo has released a new 14-inch laptop with a 1,100-nit OLED and 120 Hz VRR display. Also boasting up to 27 hours in official tests, the ThinkBook 14x Gen 2 IWC can be configured with up to 32 GB of RAM to complement its choice of Intel Wildcat Lake processors.",
+      "link": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-with-27-hours-battery-life-and-1-100-nit-OLED-display.1453330.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-with-27-hours-battery-life-and-1-100-nit-OLED-display.1453330.0.html"
+    },
+    {
+      "id": 5833,
+      "title": "Vaio unveils new 14-inch laptop with almost 50% longer battery life than older model",
+      "summary": "Vaio has updated its F14 laptop for a new generation of Intel processors. Now powered by Intel Wildcat Lake processors, the Vaio F14 VJF163 boasts almost 50% longer battery life than its predecessor while featuring Gigabit Ethernet, USB 4 c",
+      "content": "Vaio has updated its F14 laptop for a new generation of Intel processors. Now powered by Intel Wildcat Lake processors, the Vaio F14 VJF163 boasts almost 50% longer battery life than its predecessor while featuring Gigabit Ethernet, USB 4 connectivity and up to 32 GB of RAM.",
+      "link": "https://www.notebookcheck.net/Vaio-unveils-new-14-inch-laptop-with-almost-50-longer-battery-life-than-older-model.1453327.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Vaio-unveils-new-14-inch-laptop-with-almost-50-longer-battery-life-than-older-model.1453327.0.html"
+    },
+    {
+      "id": 5834,
+      "title": "New outdoor smartwatch promises offline maps, Bluetooth calling and 20-day battery life",
+      "summary": "Rogbid has launched the GeoX2S, a $69.99 outdoor smartwatch that weighs 32.5g and pairs a 1.43-inch 466 x 466 AMOLED display with standalone GPS, offline maps, track-back navigation, a compass and a barometric altimeter. Its 600mAh battery ",
+      "content": "Rogbid has launched the GeoX2S, a $69.99 outdoor smartwatch that weighs 32.5g and pairs a 1.43-inch 466 x 466 AMOLED display with standalone GPS, offline maps, track-back navigation, a compass and a barometric altimeter. Its 600mAh battery is rated for 15 to 20 days of typical use and 65 days on standby.",
+      "link": "https://www.notebookcheck.net/New-outdoor-smartwatch-promises-offline-maps-Bluetooth-calling-and-20-day-battery-life.1453261.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-18",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-outdoor-smartwatch-promises-offline-maps-Bluetooth-calling-and-20-day-battery-life.1453261.0.html"
     },
     {
       "id": 5594,
