@@ -1,7 +1,832 @@
 {
-  "updatedAt": "2026-11-22",
-  "total": 6058,
+  "updatedAt": "2026-11-23",
+  "total": 6117,
   "list": [
+    {
+      "id": 6059,
+      "title": "美国两州起诉SpaceX旗下Grok：指其未防滥用生成儿童性虐待材料",
+      "summary": "据路透社报道，美国弗吉尼亚州和俄勒冈州已对埃隆·马斯克旗下SpaceX Super Intelligence提起诉讼，指控该公司从Grok图像生成功能中获利，却未设置充分的安全防护，导致其可能被用于制作儿童性虐待材料及其他未经当事人同意的性化图像。 阅读全文",
+      "content": "<p>据路透社报道，美国弗吉尼亚州和俄勒冈州已对埃隆·马斯克旗下SpaceX Super Intelligence提起诉讼，指控该公司从Grok图像生成功能中获利，却未设置充分的安全防护，导致其可能被用于制作儿童性虐待材料及其他未经当事人同意的性化图像。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587680.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587680.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587680.htm"
+    },
+    {
+      "id": 6060,
+      "title": "基于原生WinUI 3 的全新Windows 11搜索界面已向普通用户推送",
+      "summary": "微软在11月的可选更新KB5132057中，逐步向普通Windows 11电脑推出了原生WinUI 3搜索体验。新搜索采用更紧凑的界面设计，摆脱了此前基于WebView2的旧版搜索，在测试中仅占用约26.3MB内存，整体体验明显更轻量、更现代化。 阅读全文",
+      "content": "<p>微软在11月的可选更新KB5132057中，逐步向普通Windows 11电脑推出了原生WinUI 3搜索体验。新搜索采用更紧凑的界面设计，摆脱了此前基于WebView2的旧版搜索，在测试中仅占用约26.3MB内存，整体体验明显更轻量、更现代化。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587674.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587674.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587674.htm"
+    },
+    {
+      "id": 6061,
+      "title": "苹果或将调整新品发布节奏 2027年年初集中推出平价产品",
+      "summary": "苹果或将调整新品发布节奏，2027年年初集中推出iPhone 18e、新款入门iPad和MacBook Neo等平价产品。据彭博社记者马克·古尔曼的消息，苹果计划在明年2月至3月间展开一轮以中低端设备为重点的发布潮。 阅读全文",
+      "content": "<p>苹果或将调整新品发布节奏，2027年年初集中推出iPhone 18e、新款入门iPad和MacBook Neo等平价产品。据彭博社记者马克·古尔曼的消息，苹果计划在明年2月至3月间展开一轮以中低端设备为重点的发布潮。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587672.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587672.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587672.htm"
+    },
+    {
+      "id": 6062,
+      "title": "拒绝英伟达CEO职位邀请？Arm首席执行官将合同延长至2033年",
+      "summary": "芯片设计公司Arm Holdings首席执行官雷内·哈斯（Rene Haas）此前曾被接洽，作为英伟达首席执行官黄仁勋的潜在继任者。如今，哈斯已延长合同，将继续领导Arm直至2033年。 阅读全文",
+      "content": "<p>芯片设计公司Arm Holdings首席执行官雷内·哈斯（Rene Haas）此前曾被接洽，作为英伟达首席执行官黄仁勋的潜在继任者。如今，哈斯已延长合同，将继续领导Arm直至2033年。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587662.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587662.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587662.htm"
+    },
+    {
+      "id": 6063,
+      "title": "英特尔Bartlett Lake-S处理器据称已可在MSI Z690和Z790主板原生启动",
+      "summary": "英特尔Bartlett Lake-S处理器据称可在MSI Z690和Z790主板原生启动。此前测试者需要修改BIOS才能让这类纯性能核处理器运行，但最新报告显示，只需更新MSI最新BIOS，部分主板即可直接支持该系列处理器。 阅读全文",
+      "content": "<p>英特尔Bartlett Lake-S处理器据称可在MSI Z690和Z790主板原生启动。此前测试者需要修改BIOS才能让这类纯性能核处理器运行，但最新报告显示，只需更新MSI最新BIOS，部分主板即可直接支持该系列处理器。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587654.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587654.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587654.htm"
+    },
+    {
+      "id": 6064,
+      "title": "RTX6090新消息：最快明年底登场 比5090更贵",
+      "summary": "近日据Moore's Law Is Dead透露，NVIDIA下一代旗舰游戏显卡RTX 6090可能在2027年底至2028年初推出，预计售价2500至3000美元(快科技注：约20033元人民币)，现款旗舰RTX 5090据称计划在2027年结束生产。 阅读全文",
+      "content": "<p>近日据Moore&#39;s Law Is Dead透露，<strong>NVIDIA下一代旗舰游戏显卡RTX 6090可能在2027年底至2028年初推出，预计售价2500至3000美元(快科技注：约20033元人民币)，现款旗舰RTX 5090据称计划在2027年结束生产。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587644.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587644.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587644.htm"
+    },
+    {
+      "id": 6065,
+      "title": "AI行业被美人计盯上 黄仁勋不会是最后一个",
+      "summary": "黄仁勋辞职风波持续发酵的同时，AI行业还在有更多人正面临风险。随着AI芯片、模型和算力基础设施的商业价值持续攀升，安全专家警告，AI企业正面临越来越复杂的社交渗透风险，攻击者不一定需要破解公司网络，也可能通过结识高管和员工获取内部信息。 阅读全文",
+      "content": "<p>黄仁勋辞职风波持续发酵的同时，AI行业还在有更多人正面临风险。随着AI芯片、模型和算力基础设施的商业价值持续攀升，安全专家警告，<strong>AI企业正面临越来越复杂的社交渗透风险，攻击者不一定需要破解公司网络，也可能通过结识高管和员工获取内部信息。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587606.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587606.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587606.htm"
+    },
+    {
+      "id": 6066,
+      "title": "苹果一大波低价新品即将来袭 就在明年2、3月",
+      "summary": "彭博社知名苹果记者马克·古尔曼(Mark Gurman)周日透露，苹果公司计划于明年2月至3月发布iPhone 18e、iPhone 18、新款入门级iPad，以及新款MacBook Neo和MacBook Air。古尔曼称，苹果正为明年初的iOS 27.4发布周期准备一系列新产品。就新品发布而言，这可能是苹果最繁忙的秋季之一。iPhone Duo 在今年10月底发售，触屏版MacBook Pro、HomeView和新版Apple TV均在11月推出。 阅读全文",
+      "content": "<p>彭博社知名苹果记者马克·古尔曼(Mark Gurman)周日透露，苹果公司计划于明年2月至3月发布<strong>iPhone 18e、iPhone 18、新款入门级iPad，以及新款MacBook Neo和MacBook Air。</strong>古尔曼称，苹果正为明年初的iOS 27.4发布周期准备一系列新产品。就新品发布而言，这可能是苹果最繁忙的秋季之一。iPhone Duo 在今年10月底发售，触屏版MacBook Pro、HomeView和新版Apple TV均在11月推出。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587588.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587588.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587588.htm"
+    },
+    {
+      "id": 6067,
+      "title": "算力疯狂扩产埋隐患？马斯克警告：明年AI行业或现严重“资金荒”",
+      "summary": "SpaceX首席执行官兼特斯拉首席执行官、全球首富马斯克最新表示，随着科技公司竞相建设数据中心并扩大计算能力，人工智能（AI）行业可能在2027年面临严重的资金短缺。马斯克是在回应一篇帖子时作出了上述警告。他还表示，挑战不仅在于购买昂贵的芯片和建设设施，更在于如何尽快让这些设施投入运营并开始产生收入。 阅读全文",
+      "content": "<p>SpaceX首席执行官兼特斯拉首席执行官、全球首富马斯克最新表示，随着科技公司竞相建设数据中心并扩大计算能力，人工智能（AI）行业可能在2027年面临严重的资金短缺。马斯克是在回应一篇帖子时作出了上述警告。他还表示，挑战不仅在于购买昂贵的芯片和建设设施，更在于如何尽快让这些设施投入运营并开始产生收入。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587584.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587584.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587584.htm"
+    },
+    {
+      "id": 6068,
+      "title": "杨奇谈《GTA 6》：用“工业化”形容是一种贬损 更像昂贵且低效的艺术品",
+      "summary": "11月23日，游戏科学联合创始人、《黑神话：悟空》美术总监杨奇近日在微博回复网友提问，分享了自己游玩《GTA 6》后的直观感受。在他看来，用“工业化”来形容《GTA 6》其实是一种贬损，这款游戏本质上是无数日夜与灵感的整合，更像是一件昂贵且低效的艺术品。 阅读全文",
+      "content": "<p>11月23日，游戏科学联合创始人、《黑神话：悟空》美术总监杨奇近日在微博回复网友提问，分享了自己游玩《GTA 6》后的直观感受。<strong>在他看来，用“工业化”来形容《GTA 6》其实是一种贬损，这款游戏本质上是无数日夜与灵感的整合，更像是一件昂贵且低效的艺术品。</strong></p> <a href=\"https://www.cnbeta.com.tw/articles/game/1587578.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/game/1587578.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/game/1587578.htm"
+    },
+    {
+      "id": 6069,
+      "title": "AMD数据中心业务2027年冲80%营收占比",
+      "summary": "AMD近日对外公布长期业务转型规划，计划到2027年让数据中心业务占总营收达到80%。这意味着企业资源会大规模倾斜AI算力业务，消费端硬件的资源分配或将受到挤压。 阅读全文",
+      "content": "<p>AMD近日对外公布长期业务转型规划，计划到2027年让数据中心业务占总营收达到80%。这意味着企业资源会大规模倾斜AI算力业务，消费端硬件的资源分配或将受到挤压。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587564.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587564.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587564.htm"
+    },
+    {
+      "id": 6070,
+      "title": "Anthropic承诺投入9000亿美元 华尔街预期其债务将为垃圾级",
+      "summary": "Anthropic的上市之路颠簸。而它在债券市场的前景，疑问更大。这家备受关注的AI企业上周募资超1000亿美元，估值约1.18万亿美元，高于沃尔玛和摩根大通。但它已经承诺，未来数年投入约9000亿美元，为其旗舰AI模型采购海量算力。 阅读全文",
+      "content": "<p>Anthropic的上市之路颠簸。而它在债券市场的前景，疑问更大。这家备受关注的AI企业上周募资超1000亿美元，估值约1.18万亿美元，高于沃尔玛和摩根大通。但它已经承诺，未来数年投入约9000亿美元，为其旗舰AI模型采购海量算力。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587554.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587554.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587554.htm"
+    },
+    {
+      "id": 6071,
+      "title": "微软计划从Windows Server 2028开始不再默认内置32位应用兼容层",
+      "summary": "微软计划从Windows Server 2028开始，默认不再内置32位应用兼容层，标志着这家公司正进一步清理Windows中的老旧技术。不过，Windows 11目前仍会继续保留32位应用支持，普通用户暂时无需担心老程序无法运行。 阅读全文",
+      "content": "<p>微软计划从Windows Server 2028开始，默认不再内置32位应用兼容层，标志着这家公司正进一步清理Windows中的老旧技术。不过，Windows 11目前仍会继续保留32位应用支持，普通用户暂时无需担心老程序无法运行。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587538.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587538.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587538.htm"
+    },
+    {
+      "id": 6072,
+      "title": "AI渗透测试工具遭滥用：黑客利用Cairn自主发现零日漏洞并入侵服务器",
+      "summary": "据网络安全研究人员披露，网络犯罪分子近期滥用一款名为Cairn的自主人工智能平台，自行发现并利用一款医学影像应用中的零日漏洞，进而控制了目标服务器。这一事件再次表明，原本用于安全测试的AI工具正被攻击者改造成实施网络攻击的手段。 阅读全文",
+      "content": "<p>据网络安全研究人员披露，网络犯罪分子近期滥用一款名为Cairn的自主人工智能平台，自行发现并利用一款医学影像应用中的零日漏洞，进而控制了目标服务器。这一事件再次表明，原本用于安全测试的AI工具正被攻击者改造成实施网络攻击的手段。</p> <a href=\"https://www.cnbeta.com.tw/articles/tech/1587530.htm\" target=\"_blank\"><strong>阅读全文</strong></a>",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1587530.htm",
+      "source": "CNBeta",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.cnbeta.com.tw/articles/tech/1587530.htm"
+    },
+    {
+      "id": 6073,
+      "title": "PostgreSQL 19 释出",
+      "summary": "PostgreSQL 项目释出了 v19。主要变化包括：新 REPACK 命令回收磁盘空间重组表内容，提升查询性能，REPACK(CONCURRENTLY)命令则能在不中断现有操作的情况下优化表；pg_plan_advice 扩展能更好控制计划稳定性和提升查询性能；改进 I/O 工作进程数量自动伸缩、外键检查、规划与执行优化等方面的性能；当 wal_level 设为 replica 时无需重启服务器启用逻辑复制；支持序列值逻辑复制；等等。更多可浏览发布公告。",
+      "content": "PostgreSQL 项目释出了 v19。主要变化包括：新 REPACK 命令回收磁盘空间重组表内容，提升查询性能，REPACK(CONCURRENTLY)命令则能在不中断现有操作的情况下优化表；pg_plan_advice 扩展能更好控制计划稳定性和提升查询性能；改进 I/O 工作进程数量自动伸缩、外键检查、规划与执行优化等方面的性能；当 wal_level 设为 replica 时无需重启服务器启用逻辑复制；支持序列值逻辑复制；等等。更多可浏览发布公告。\n<p></p>",
+      "link": "https://www.solidot.org/story?sid=85960",
+      "source": "Solidot",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "科技"
+      ],
+      "guid": "https://www.solidot.org/story?sid=85960"
+    },
+    {
+      "id": 6074,
+      "title": "前 R 星技术总监评《GTA 6》：第一章像“女友模拟器”，第二章才见真章",
+      "summary": "IT之家 11 月 23 日消息，一位前 Rockstar Games 核心开发人员对《GTA 6》给出了自己的评价：游戏本身非常出色，但玩家对第一章的批评也确实有道理。在他看来，游戏开局阶段选择有限，教程、过场动画和强制任务占据了大量时间，甚至让部分玩家觉得它不像一款开放世界沙盒游戏，反而更像一款“女友模拟器”。不过，随着剧情推进，这种情况会在第二章发生改变。 奥贝 · 维尔梅伊（Obbe Vermeij）曾于 1995 年至 2009 年在 Rockstar Games ",
+      "content": "<p data-vmark=\"3474\">IT之家 11 月 23 日消息，一位前 Rockstar Games 核心开发人员对《GTA 6》给出了自己的评价：游戏本身非常出色，但玩家对第一章的批评也确实有道理。在他看来，游戏开局阶段选择有限，教程、过场动画和强制任务占据了大量时间，甚至让部分玩家觉得它不像一款开放世界沙盒游戏，反而更像一款“女友模拟器”。不过，随着剧情推进，这种情况会在第二章发生改变。</p><p style=\"text-align: center;\" data-vmark=\"3924\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/54e5c314-5d4b-4922-a1e6-ecf60f52fd7e.jpg?x-bce-process=image/format,f_auto\" w=\"650\" h=\"366\" data-weibo=\"0\" data-vmark=\"ef69\" class=\"no-alt-img\"></p><p data-vmark=\"0c81\">奥贝 · 维尔梅伊（Obbe Vermeij）曾于 1995 年至 2009 年在 Rockstar Games 工作，担任《GTA 3》《GTA 4》《GTA：罪恶都市》和《GTA：圣安地列斯》的技术总监。在《GTA 6》启动开发之前，他就已经离开了这家工作室。因此他和普通玩家一样，正在亲自体验这款新作。</p><p data-vmark=\"ba39\">“这款游戏确实很棒，非常棒。”维尔梅伊在社交平台 X 上发文称。不过，他随后话锋一转，谈到了游戏开局存在的问题。</p><p data-vmark=\"4696\">“在第一章，也就是游戏最初的 8 个小时左右，玩家几乎没有太多选择。游戏安排了大量教程、过场动画和强制任务，而且任务本身也比较基础。玩家的那些抱怨确实有道理，比如游戏过于追求真实感而牺牲了玩法自由度、玩起来像女友模拟器，以及缺少沙盒游戏应有的感觉。”</p><p data-vmark=\"4414\">玩家对此的看法也存在明显分歧。社交媒体上已经出现不少针对游戏可选任务的吐槽，例如玩家需要陪露西亚（Lucia）去超市购物，或者给她买花。对于那些原本打算进入莱昂尼达州（Leonida）后立即大干一场、在开放世界里肆意犯罪的玩家来说，这些活动显然不是他们期待的内容。</p><p data-vmark=\"c097\">不过需要注意的是，这些任务都是可选的，并非强制要求玩家完成。</p><p data-vmark=\"5753\">另一方面，也有不少玩家很享受《GTA 6》开局阶段近似生活模拟游戏的体验。这或许也能解释，为什么有些玩家愿意在第一章投入如此多的时间。</p><p data-vmark=\"0b86\">维尔梅伊认为，游戏到了第二章才真正开始展现《GTA》系列的魅力。</p><p data-vmark=\"6335\">他说：“到了第二章，游戏就不再像之前那样处处限制玩家，而是开始提供一系列任务，让玩家自行选择。这时候，《GTA》系列真正的魅力才开始显现。”</p><p data-vmark=\"e379\">维尔梅伊透露，目前自己已经推进到第三章，主线剧情完成度达到 46%，现在玩得非常开心。他还特别称赞了游戏的制作水准，认为其制作规格和完成度“高得令人难以置信”。</p><p data-vmark=\"d1e8\">目前，媒体对《GTA 6》的评价普遍相当积极，Rockstar 也已经取得了令人难以置信的商业成绩。据报道，游戏在正式发售前通过预购就卖出了 3250 万份，超过了《艾尔登法环》花费三年才达到的销量。游戏首日收入更是达到 37.9 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 253.22 亿元人民币）</span>。</p><p data-vmark=\"eb2d\">《GTA 6》创下了娱乐产业史上规模最大的首发纪录。对于开发团队而言，这样的成绩恐怕已经远远超出了他们最初的预期。</p>",
+      "link": "https://www.ithome.com/1/031/202.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/202.htm"
+    },
+    {
+      "id": 6075,
+      "title": "华为 × 澳门电讯联合发布 Wi-Fi 感知服务，支持动态感知并识别家庭成员活动状态",
+      "summary": "IT之家 11 月 23 日消息，据华为光网今日分享，澳门电讯（CTM）携手华为联合发布“AI-FTTR”宽带服务，并基于华为 FTTR 全光组网解决方案的智能计算能力，融合 AI Wi-Fi 感知及 AI Wi-Fi 抗干扰两大核心技术，推出 Wi-Fi 感知服务商用套餐。 ▲ 图源：华为光网 | 澳门电讯与华为联合创新，发布 Wi-Fi 感知服务 据介绍，传统家庭宽带仅提供连接服务，增值服务空间受限，这已成为全球运营商共同关注的课题。澳门电讯围绕家庭网络体验痛点，发布 A",
+      "content": "<p data-vmark=\"1c7e\">IT之家 11 月 23 日消息，据华为光网今日分享，澳门电讯（CTM）携手华为联合发布“AI-FTTR”宽带服务，并基于华为 FTTR 全光组网解决方案的智能计算能力，融合 AI Wi-Fi 感知及 AI Wi-Fi 抗干扰两大核心技术，推出 Wi-Fi 感知服务商用套餐。</p><p style=\"text-align: center;\" data-vmark=\"f26d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b2cb592b-16b4-49ec-81fe-907bba83f9e6.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"500\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"42fe\"></p><figcaption>▲ 图源：华为光网 | 澳门电讯与华为联合创新，发布 Wi-Fi 感知服务</figcaption><p data-vmark=\"5cff\">据介绍，传统家庭宽带仅提供连接服务，增值服务空间受限，这已成为全球运营商共同关注的课题。澳门电讯围绕家庭网络体验痛点，发布 AI Wi-Fi 感知与 AI Wi-Fi 抗干扰技术服务，实现从“被动连接”到“主动感知、智能优化”的升级。</p><p data-vmark=\"d2ed\">AI Wi-Fi 感知服务突破了传统 Wi-Fi 路由器业务的边界，无需额外添加硬件设备，<strong>即可通过 FTTR 终端实时分析 Wi-Fi 信号波动，动态感知并识别家庭成员活动状态</strong>。例如，在用户离家模式下识别到异常走动时，将通过 CTM Wi-Fi 管家 App 向用户推送异常通知，助力家庭安防能力提升。</p><p data-vmark=\"d7d3\">IT之家从华为官方了解到，AI Wi-Fi 抗干扰技术基于华为 FTTR 终端内置的超 10 万干扰场景模型，可实时分析家庭 Wi-Fi 环境中的各类干扰，如邻居信号串扰、人员走动干扰等，并自动调整 Wi-Fi 的发射参数，<strong>实现在干扰场景下速率提升 20%</strong>。</p>",
+      "link": "https://www.ithome.com/1/031/196.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/196.htm"
+    },
+    {
+      "id": 6076,
+      "title": "制造商 Lilvo 展示 DS Micro 迷你双屏掌机，用于模拟运行任天堂 DS 游戏",
+      "summary": "IT之家 11 月 23 日消息，制造商 Lilvo 展示了一款名为 DS Micro 的迷你双屏掌机，目前仍处于早期开发阶段。 据介绍，该设备展开前的机身尺寸仅为 85 × 46 × 18 毫米，配备两块分辨率均为 256 × 192 像素的屏幕，其中下方屏幕支持触控操作，与任天堂 DS 的交互方式基本一致。同时设备还配有 3.5 毫米耳机接口和 microSD 存储卡插槽。 该机搭载 Linux 系统，可模拟运行任天堂 DS 游戏。目前设备运行 2D 游戏已经比较流畅，但",
+      "content": "<p data-vmark=\"19c6\">IT之家 11 月 23 日消息，制造商 Lilvo 展示了一款名为 DS Micro 的迷你双屏掌机，目前仍处于早期开发阶段。</p><p data-vmark=\"0327\">据介绍，该设备展开前的机身尺寸仅为 85 × 46 × 18 毫米，配备两块分辨率均为 256 × 192 像素的屏幕，其中下方屏幕支持触控操作，与任天堂 DS 的交互方式基本一致。同时设备还配有 3.5 毫米耳机接口和 microSD 存储卡插槽。</p><p style=\"text-align: center;\" data-vmark=\"df5f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d40d0f70-880e-4fce-8dbd-2335b0112647.png\" w=\"1256\" h=\"696\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"7cdc\"></p><p style=\"text-align: center;\" data-vmark=\"b77e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/be66d9ac-6c86-4a5e-9b07-3d483daa3ca3.png\" w=\"1256\" h=\"948\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"457c\"></p><p data-vmark=\"81ba\">该机搭载 Linux 系统，可模拟运行任天堂 DS 游戏。目前设备运行 2D 游戏已经比较流畅，但制造商 Lilvo 坦承目前该机面对 3D 游戏时仍显得力不从心。</p><p style=\"text-align: center;\" data-vmark=\"7843\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6a3e0368-7110-424f-9b10-32e453b41f81.png\" w=\"1246\" h=\"942\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"3a47\"></p><p data-vmark=\"459f\">当前，Lilvo DS Micro 仍处于早期开发阶段，开发者手中仅有一台能够正常运行的原型机，距离正式量产可能还需要一段时间。不过，Lilvo 长期目标是推动这款掌机实现批量生产。至于具体上市时间和售价，目前均未确定。</p>",
+      "link": "https://www.ithome.com/1/031/193.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/193.htm"
+    },
+    {
+      "id": 6077,
+      "title": "马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗",
+      "summary": "IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国奥斯汀举行的 TomorrowX 峰会。他在会上表示：“我们有些最优秀的员工此前从未参与过数据中心建设。” 马斯克透露，SpaceX 已经组建了一支内部团队，名为“ArmyX”。这支团队将建设数据中心所需的各项工作拆解成更小的任务，并将其设计成“",
+      "content": "<p data-vmark=\"4d61\">IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。</p><p style=\"text-align: center;\" data-vmark=\"85e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/fa126261-29e4-46e8-a97b-99b7ca344434.jpg?x-bce-process=image/format,f_auto\" w=\"680\" h=\"383\" data-weibo=\"0\" data-vmark=\"2fef\" class=\"no-alt-img\"></p><p data-vmark=\"de94\">本周早些时候，马斯克通过远程连线方式参加了在美国奥斯汀举行的 TomorrowX 峰会。他在会上表示：“我们有些最优秀的员工此前从未参与过数据中心建设。”</p><p data-vmark=\"dbeb\">马斯克透露，SpaceX 已经组建了一支内部团队，名为“ArmyX”。<strong>这支团队将建设数据中心所需的各项工作拆解成更小的任务，并将其设计成“只需几天就能培训掌握”的工作内容</strong>。</p><p data-vmark=\"4eb5\">马斯克表示：“我们不需要那些一辈子都在铺设网络线缆的人。我们会把工作拆解成不同任务，这样就能培训新人，即便他们以前可能只是星巴克的咖啡师，或者在塔吉特（Target）超市负责货架理货。”</p><p data-vmark=\"0e38\">IT之家注意到，这位亿万富翁还特别称赞了零售业和快餐业从业者能够为数据中心建设带来的技能与职业素养。他尤其提到了一名曾在美国汉堡连锁品牌 In-N-Out 工作的厨师。</p><p data-vmark=\"3db9\">马斯克说：“如果你能从 In-N-Out 找到一些顶尖员工，他们整天都能把汉堡做得非常出色、始终保持品质，那么他们铺设网络线缆也一定会干得非常出色。”</p><p data-vmark=\"9ebc\">据马斯克介绍，这支团队正在推动 SpaceX 扩建位于美国孟菲斯的 Colossus 1 和 Colossus 2 两座大型数据中心。在 SpaceX 最近一次财报电话会议上，马斯克表示，到 2027 年底，如果公司的算力增量低于 13 吉瓦，他会感到意外。</p><p data-vmark=\"af8a\">与整个 AI 行业一样，SpaceX 也在数据中心建设上投入了大量资源。根据公司最新财报，SpaceX 在人工智能领域的支出已经达到历史最高水平，而且未来可能还会翻一番。</p><p data-vmark=\"adc3\">SpaceX 曾向员工提供 20% 的薪资涨幅，条件是员工自愿前往孟菲斯，或密西西比州南海文（Southaven）工作六周。南海文同样建有一座大型数据中心。</p><p data-vmark=\"5c77\">马斯克表示，孟菲斯的数据中心建设工作如今已经逐渐进入高效运转状态。他说：“现在我去孟菲斯的次数相当频繁，那里正在变成一台运转良好的机器，各项工作都在有条不紊地推进。我们实行 7×24 小时不间断作业。因此，我凌晨一两点在工地巡视时，看到的整体工作效率与第二天上午 10 点差不多，而且一周七天都是如此。”</p>",
+      "link": "https://www.ithome.com/1/031/190.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/190.htm"
+    },
+    {
+      "id": 6078,
+      "title": "李健：荣耀已有多个定位清晰的产品系列，可以在合适时机推出子品牌",
+      "summary": "IT之家 11 月 23 日消息，荣耀未来会不会推出自己的子品牌？在今日的荣耀新品发布会媒体访谈中，荣耀 CEO 李健给出了回应：荣耀已有多个定位清晰的产品系列，可以在合适的时候推出自己的子品牌。 李健进一步表示，荣耀只是在等待合适的时机。不过，现场并未公布具体名称、推出时间，也没有透露是否会从现有产品系列中拆分。 据IT之家今日早些时候报道，在谈及华为推出子品牌星芒一事时，李健称，对荣耀不用有任何担心，现在的荣耀不是六年前的荣耀，荣耀已经走出了自己的道路。 他直言，越有竞争",
+      "content": "<p data-vmark=\"5414\">IT之家 11 月 23 日消息，荣耀未来会不会推出自己的子品牌？在今日的荣耀新品发布会媒体访谈中，荣耀 CEO 李健给出了回应：<strong>荣耀已有多个定位清晰的产品系列，可以在合适的时候推出自己的子品牌</strong>。</p><p data-vmark=\"4893\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d1ccffe5-68ca-44c0-95f7-f63611139968.jpg?x-bce-process=image/format,f_auto\" w=\"1120\" h=\"630\" data-mpos=\"2,2\" data-weibo=\"0\"  data-vmark=\"9392\" class=\"no-alt-img\"></p><p data-vmark=\"950f\">李健进一步表示，<strong>荣耀只是在等待合适的时机</strong>。不过，现场并未公布具体名称、推出时间，也没有透露是否会从现有产品系列中拆分。</p><p data-vmark=\"6c6a\">据IT之家今日早些时候报道，在谈及华为推出子品牌星芒一事时，李健称，对荣耀不用有任何担心，现在的荣耀不是六年前的荣耀，<a target=\"_blank\" href=\"https://www.ithome.com/1/031/092.htm\">荣耀已经走出了自己的道路</a>。</p><p data-vmark=\"9cac\">他直言，越有竞争，越有挑战越兴奋，荣耀期待的是百花齐放，让消费者有更多的选择。此前还有博主询问荣耀关海涛，华为推出子品牌星芒会不会对荣耀有影响？关海涛对此回应称：欢迎星芒，一起荣耀！<a target=\"_blank\" href=\"https://www.ithome.com/1/026/112.htm\">这件事最大的意义，就是让大家知道荣耀是荣耀</a>。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"83dd121e-b909-4d1b-8058-5271ea53fd3b\" data-refs=\"JTVCJTIyaHR0cCUzQSUyRiUyRnd3dy5jZS5jbiUyRmN5c2MlMkZ0ZWNoJTJGZ2QyMDEyJTJGMjAyNjExJTJGdDIwMjYxMTIzXzMzMDI3OTMuc2h0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRmNvbnN1bWVyLmh1YXdlaS5jb20lMkZjbiUyRnN1cHBvcnQlMkZjb250ZW50JTJGemgtY24xNjEyNDkwNSUyRiUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGd3d3Lmh1YXdlaS5jb20lMkZjbiUyRm5ld3MlMkYyMDIwJTJGMTElMkZodWF3ZWktaG9ub3Itc3RhdGVtZW50JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZjbHViLWFwaS5jLmhpaG9ub3IuY29tJTJGY24lMkZ0aHJlYWQtMjk1NDQ4NTMtMS0xLmh0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRm0ud2VpYm8uY24lMkZkZXRhaWwlMkY1MzY4NDg4MjEwMjA0NzY3JTIyJTJDJTIyaHR0cCUzQSUyRiUyRnd3dy5jZS5jbiUyRmN5c2MlMkZ0ZWNoJTJGZ2QyMDEyJTJGMjAyNTExJTJGdDIwMjUxMTEwXzI1NzA2MTAuc2h0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRnd3dy5ob25vci5jb20lMkZjbiUyRm0lMkZub3RpY2UtMTgyNzglMjIlNUQ=\" class=\"ai-point \"><h3 data-vmark=\"61dc\">延伸阅读</h3><p data-vmark=\"8bba\"><span data-ref-ids=\"\" data-ref-urls=\"0,1\">华为子品牌 OSTA 星芒于 2026 年 11 月 20 日正式发布，品牌首款鸿蒙 AI 手机 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/11/20/fe4e7e2f-dafb-4614-9046-8fed70c7a033.png?x-bce-process=image/format,f_auto\" data-topic-id=\"70626\">OSTA O1 Pro</span> 同步登场，首发限时优惠价 5499 元起。OSTA 星芒是面向先锋探索者的鸿蒙 AI 全场景科技品牌，秉持“Come as you are，自有光芒”的品牌主张，与华为主品牌共享技术底座、统一品质标准。该机提供星芒紫、星云白、星空黑三款配色，搭载麒麟 9030S 芯片与 HarmonyOS 7 AI 先锋版。</span></p><p data-vmark=\"256d\"><span data-ref-ids=\"\" data-ref-urls=\"2\">李健口中“六年前的荣耀”，指的是荣耀的独立。2020 年 11 月 17 日，华为投资控股有限公司宣布整体出售荣耀业务资产，收购方为深圳市智信新信息技术有限公司，共有 30 余家荣耀代理商、经销商联合发起了本次收购。交割后的荣耀，华为不占有任何股份，也不参与经营管理与决策。荣耀品牌诞生于 2013 年，独立前始终面向年轻人、坚持中低端价位。</span></p><p data-vmark=\"75fa\"><span data-ref-ids=\"\" data-ref-urls=\"3,4\">目前荣耀各产品系列的定位有所不同：Magic 系列是综合性能旗舰，数字系列主打影像，GT 系列主打性能与游戏，X 系列主打中端市场，畅玩系列主打入门款普惠科技，此外还有主打长续航的 power 系列。李健表示，上述任意一个系列都可独立做成子品牌。</span></p><p data-vmark=\"1238\"><span data-ref-ids=\"\" data-ref-urls=\"5\">在战略层面，荣耀于 2025 年 3 月正式发布阿尔法战略，计划五年投入 100 亿美元，分三步向全球领先的 AI 终端生态公司转型：从打造智慧手机、构筑智慧生态，到共建智慧世界。截至 2025 年，荣耀全球研发团队人员占比超过 70%，研发投入占营收比重高达 11.5%，累计获得 AI 相关专利已超过 2100 项。</span></p><p data-vmark=\"dc33\"><span data-ref-ids=\"\" data-ref-urls=\"6\">此次李健作出回应的发布活动为“<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/11/09/e8a225a2-24ef-4dda-bddf-b0808a472420.png?x-bce-process=image/format,f_auto\" data-topic-id=\"70250\">荣耀 700</span> 系列追光之旅暨全场景新品发布会”，除手机外，荣耀手表 Fit 6 等全场景新品也在同期亮相。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/031/189.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/189.htm"
+    },
+    {
+      "id": 6079,
+      "title": "戴在手指上的鼠标众筹成功，但设计疑点不少",
+      "summary": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，Borslon 推出了一款颇为另类的可穿戴游戏鼠标：它不再要求玩家用手掌握住鼠标，而是直接将设备戴在手指上，让手指成为瞄准工具。这款产品在 Kickstarter 上已经获得超过 430 名支持者，筹集金额突破 4.3 万美元（IT之家注：现汇率约合 28.7 万元人民币），远超 5,000 美元（现汇率约合 33,407 元人民币）的众筹目标。不过，它究竟是一项真正的创新，还是只是一个噱头？ Bors",
+      "content": "<p data-vmark=\"85e9\">IT之家 11 月 23 日消息，据 Tom's Hardware 报道，Borslon 推出了一款颇为另类的可穿戴游戏鼠标：它不再要求玩家用手掌握住鼠标，而是直接将设备戴在手指上，让手指成为瞄准工具。这款产品在 Kickstarter 上已经获得超过 430 名支持者，筹集金额突破 4.3 万美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 28.7 万元人民币）</span>，远超 5,000 美元<span class=\"exch-money-value \">（现汇率约合 33,407 元人民币）</span>的众筹目标。不过，它究竟是一项真正的创新，还是只是一个噱头？</p><p style=\"text-align: center;\" data-vmark=\"95a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3da809b1-aeab-4a76-8408-5a70fade8a58.jpg?x-bce-process=image/format,f_auto\" w=\"970\" h=\"546\" data-weibo=\"0\" data-vmark=\"60fa\" class=\"no-alt-img\"></p><p data-vmark=\"be8f\">Borslon 鼠标采用有线连接方式，品牌将其称为“指戴式游戏鼠标”。从参数来看，其具备一款优秀游戏鼠标应有的配置：搭载 PAW3395 传感器，轮询率达到 8000 Hz，响应时间为 0.125 毫秒，支持按键编程，重量仅为 36 克。</p><p data-vmark=\"e59c\">但硬件参数往往只是衡量性能的基础，实际使用体验可能完全是另一回事。</p><p data-vmark=\"5ffe\">以《反恐精英》（Counter-Strike）、《Apex 英雄》（Apex Legends）和《无畏契约》（Valorant）等游戏为例，许多玩家会将鼠标滚轮设置为跳跃键，用于连续跳跃或兔子跳。其中，《Apex 英雄》玩家还会利用滚轮完成一种高阶移动技巧 ——Tap Strafing（快速转向）。在传统鼠标上，玩家通常使用食指或中指滚动滚轮。</p><p data-vmark=\"a9a8\">但 Borslon 的设计将滚轮放在了拇指一侧，五个可编程按键也集中在这一位置，相当于把大量操作任务交给了拇指。从 Kickstarter 的宣传素材来看，食指和中指似乎没有设置可供按压的按键。这意味着，瞄准射击、开火和跳跃等常见操作，都可能需要由拇指负责，而这些动作在游戏中往往需要同时进行，或者在极短时间内连续完成。</p><p style=\"text-align: center;\" data-vmark=\"a600\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/795069dd-0691-4973-a82b-bd84690858af.jpg?x-bce-process=image/format,f_auto\" w=\"680\" h=\"981\" data-weibo=\"1\" data-vmark=\"459c\" class=\"no-alt-img\"></p><p data-vmark=\"f165\">Borslon 计划于 2027 年 2 月开始向支持者发货，并计划在 2026 年 12 月启动量产。这意味着，留给团队大幅调整产品设计的时间已经所剩无几。</p><p data-vmark=\"5b49\">更令人疑惑的是，这款鼠标与其声称面向的目标用户群体之间似乎存在脱节。经过调查，目前几乎找不到主流瞄准训练社区对 Borslon 鼠标的讨论。拥有超过 20 万名成员的知名瞄准训练社区 Voltaic，其 Discord 频道中也没有相关消息。</p><p data-vmark=\"45de\">进一步调查发现，Borslon 品牌由深圳科莫多智能科技有限公司（Shenzhen Komodo Intelligent Technology Co., Ltd.）打造。该公司的 Borslon 官方网站完全采用中文，但网站与 Kickstarter 众筹页面之间并没有相互链接。</p><p data-vmark=\"b20f\">通过查看该公司官网的企业发展时间线，可以发现其声称首款产品于 2025 年 11 月发布；然而，Kickstarter 页面却称这一产品概念直到 2026 年 3 月才开始构思。两处信息存在出入，再加上宣传材料中大量使用 AI 生成的生活场景图片，都让这项众筹计划的可信度打了折扣。</p><p data-vmark=\"9e28\">如果这款产品确实真实可靠，其或许有机会成为一款真正具有创新性的游戏鼠标。不过，品牌需要先与目标玩家群体进行充分沟通，并根据实际使用需求对设计作出合理调整。</p><p data-vmark=\"37c6\">最后仍需提醒：众筹项目并不保证支持者最终一定能收到成品。支持众筹更像是一种投资，意味着你看好这个项目，希望它能够成功，而不是像在零售商店购物一样直接购买一件成熟商品。</p>",
+      "link": "https://www.ithome.com/1/031/184.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/184.htm"
+    },
+    {
+      "id": 6080,
+      "title": "官方认证：华为鸿蒙生态里程碑壹亿用户纪念章上线，HarmonyOS 5 及以上系统可领",
+      "summary": "IT之家 11 月 23 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。 IT之家注意到，我的华为 App“悄悄”上线了“鸿蒙生态里程碑壹亿用户纪念章”，HarmonyOS 5 及以上系统可获得。 需要注意的是，这枚纪念章暂时还无法领取，预计会在华为官方正式公开鸿蒙生态一亿里程碑后才会开放领取。 延伸阅读 文中提到的“奇妙工具箱”是一款第三方工具，并非华为官方发布渠道。其鸿蒙装",
+      "content": "<p data-vmark=\"059a\">IT之家 11 月 23 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。</p><p data-vmark=\"9363\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1f4b8ff2-473f-4e75-a0ca-30dc5293b996.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1320\" h=\"2051\" data-vmark=\"3687\" data-mpos=\"1,0\" data-weibo=\"0\" class=\"no-alt-img\"></p><p data-vmark=\"6d2d\">IT之家注意到，我的华为 App“悄悄”上线了<strong>“鸿蒙生态里程碑壹亿用户纪念章”</strong>，HarmonyOS 5 及以上系统可获得。</p><p data-vmark=\"9deb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0514e655-68c7-4083-b26d-7135957e90d0.jpg?x-bce-process=image/format,f_auto\" w=\"1320\" h=\"2206\" data-mpos=\"1,1\" data-weibo=\"1\"  data-vmark=\"a827\" class=\"no-alt-img\"></p><p data-vmark=\"345b\">需要注意的是，这枚纪念章暂时还无法领取，预计会在华为官方正式公开鸿蒙生态一亿里程碑后才会开放领取。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"7185ace3-3568-4668-8ca3-3909635e6205\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuaHVhd2VpLmNvbSUyRmNvbnN1bWVyJTJGY24lMkZmb3J1bSUyRnRvcGljJTJGMDIwNzIyODczNTU1MjQwMzUxOSUzRmZpZCUzRDAxMDkxNDA4NzA2MjAxNTMwMjYlMjIlMkMlMjJodHRwcyUzQSUyRiUyRmNvbnN1bWVyLmh1YXdlaS5jb20lMkZjbiUyRnN1cHBvcnQlMkZjb250ZW50JTJGemgtY24xNjEwMzQyNyUyRiUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGZGV2ZWxvcGVyLmh1YXdlaS5jb20lMkZjb25zdW1lciUyRmNuJTJGZm9ydW0lMkZ0b3BpYyUyRjAyMDMyMjkwOTc4ODI1OTEyODAlM0ZmaWQlM0QwMTAyMTkyNDUxMTc3MzM1MzE2JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZjb25zdW1lci5odWF3ZWkuY29tJTJGY24lMkZteWh1YXdlaS1hcHAlMkYlMjIlMkMlMjJodHRwcyUzQSUyRiUyRmNvbnN1bWVyLmh1YXdlaS5jb20lMkZjbiUyRnN1cHBvcnQlMkZjb250ZW50JTJGemgtY24xNjA3ODA3MiUyRiUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGY24uY2x1Yi52bWFsbC5jb20lMkZtaHclMkZjb25zdW1lciUyRmNuJTJGY29tbXVuaXR5JTJGbWh3bmV3cyUyRmFydGljbGUlMkZpZF8xMDAwMDAwMDAwMDAzMDQyNjQ4JTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZkZXZlbG9wZXIuaHVhd2VpLmNvbSUyRmNvbnN1bWVyJTJGY24lMkZmb3J1bSUyRnRvcGljJTJGMDIwMTE2NTAyMDE2NzU0OTc0NiUyMiU1RA==\" class=\"ai-point \"><h3 data-vmark=\"1589\">延伸阅读</h3><p data-vmark=\"e3e4\"><span data-ref-ids=\"\" data-ref-urls=\"0\">文中提到的“奇妙工具箱”是一款第三方工具，并非华为官方发布渠道。其鸿蒙装机量数据是基于华为应用市场（App Gallery）的下载量每日人工收集并估算得出的，统计口径为 HarmonyOS 5 及以上版本的装机量，与华为官方公布的终端设备数并不完全等同。</span></p><p data-vmark=\"8011\"><span data-ref-ids=\"\" data-ref-urls=\"1\">华为官方公布的数据口径为“HarmonyOS 终端设备数”，统计范围包括鸿蒙手机、鸿蒙平板和鸿蒙 PC 等终端。按照华为官方此前披露的口径，截至 2026 年 9 月 28 日，HarmonyOS 6 和 HarmonyOS 7 终端设备数已突破 9000 万。</span></p><p data-vmark=\"af86\"><span data-ref-ids=\"\" data-ref-urls=\"0\">根据华为官方历次公开披露的数据，鸿蒙生态的里程碑大致为：2025 年 7 月突破约 1000 万，2026 年 1 月突破约 4000 万，2026 年 3 月鸿蒙 5/6 超过 4700 万，2026 年 5 月 HarmonyOS 6 单版本超过 6000 万，2026 年 6 月华为开发者大会（HDC 2026）披露约 6600 万，2026 年 8 月 20 日突破 8000 万，2026 年 9 月在华为全联接大会上披露突破 8500 万，2026 年 10 月 1 日 Mate 90 系列发布会上宣布突破 9000 万。</span></p><p data-vmark=\"1a16\"><span data-ref-ids=\"\" data-ref-urls=\"2\">华为轮值董事长徐直军曾将 1 亿用户定义为操作系统的“临界质量”，认为只有达到亿级规模，开发者才拥有形成商业闭环的土壤，生态才能从导入期转入自循环的成长期。</span></p><p data-vmark=\"4f33\"><span data-ref-ids=\"\" data-ref-urls=\"3,4\">“我的华为”App 是华为面向用户的官方服务阵地，涵盖服务、升级尝鲜、花粉俱乐部、鸿蒙智行、鸿蒙智家等多个模块，且仅支持 HarmonyOS 5 及以上版本。勋章查看路径为“我的华为”App &gt; 我的 &gt; 勋章，其中成就勋章即位于该页面内。</span></p><p data-vmark=\"d487\"><span data-ref-ids=\"\" data-ref-urls=\"4\">按照华为官方对电子勋章的说明，用户当前仅可佩戴一枚勋章，佩戴后会在“我的”页面账号名称后方及花粉个人主页账号名称后方显示；勋章发放后不会过期，但若在“我的华为”App 的“设置 — 服务管理”中选择注销服务，勋章会同步失效。勋章还支持通过“炫耀一下”以链接或图片形式分享至微博、微信、小红书等平台。</span></p><p data-vmark=\"1cb5\"><span data-ref-ids=\"\" data-ref-urls=\"5,4\">在此次一亿用户纪念章之前，“我的华为”App 已上线多款与鸿蒙相关的纪念勋章，例如 2025 年 7 月 31 日起发放的“鸿蒙合伙人”勋章、HarmonyOS NEXT 公测勋章，以及 2025 年 12 月 15 日起发放的鸿蒙电脑专属勋章等。</span></p><p data-vmark=\"6072\"><span data-ref-ids=\"\" data-ref-urls=\"6\">需要说明的是，HarmonyOS 5 即原生鸿蒙（HarmonyOS NEXT），于 2024 年 10 月 22 日“原生鸿蒙之夜暨华为全场景新品发布会”上正式发布，其系统底座实现了全部自研。</span></p></blockquote>",
+      "link": "https://www.ithome.com/1/031/182.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/182.htm"
+    },
+    {
+      "id": 6081,
+      "title": "意法半导体：目标 2025~2028 年实现 STM32 芯片收入翻倍",
+      "summary": "IT之家 11 月 23 日消息，据路透社当地时间 18 日报道，STMicroelectronics（意法半导体）高管 Remi El-Ouazzane 同日出席投资者活动时表示，该企业计划在 2025~2028 年期间实现 STM32 系列 MCU（微控制器） / MPU（微处理器）收入的翻倍。 Remi El-Ouazzane 预计，意法半导体在通用 MCU 领域的份额有望从当前的 23% 增长至 2030 年的 25~30%。该企业在这一市场的市占复苏较此前预计提前约",
+      "content": "<p data-vmark=\"d5de\">IT之家 11 月 23 日消息，据路透社当地时间 18 日报道，STMicroelectronics（意法半导体）高管 Remi El-Ouazzane 同日出席投资者活动时表示，该企业计划在 2025~2028 年期间实现 <strong>STM32 系列 MCU（微控制器） / MPU（微处理器）收入的翻倍</strong>。</p><p data-vmark=\"49f7\">Remi El-Ouazzane 预计，意法半导体在通用 MCU 领域的份额<strong>有望从当前的 23% 增长至 2030 年的 25~30%</strong>。该企业在这一市场的市占复苏较此前预计提前约一年，但 2026Q3 的细分营收仍低于 2023 年时的峰值。</p><p data-vmark=\"0241\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/769b1f89-d9b8-428e-9478-207625b4f6de.jpg\" w=\"1440\" h=\"407\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"5ac2\"></p><p data-vmark=\"1449\">意法半导体最近预计数据中心业务可在 2026 年带来 13 亿美元营收，而在 2027 年这一数额有望突破 20 亿美元。尽管数据中心需求将推动企业整体营收增长超一成，但其它领域营收也有相当程度的提升。</p><p data-vmark=\"8b2a\">此外，意法半导体还在扩大其在中国的市场份额。<a href=\"https://www.ithome.com/0/931/857.htm\" target=\"_blank\">本土化供应链</a>就是其采取的具体举措之一。</p><p data-vmark=\"7446\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"c8ba\"><a href=\"https://www.reuters.com/technology/stmicroelectronics-aims-double-stm32-revenue-data-centres-fuel-growth-2026-11-18/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://www.reuters.com/technology/stmicroelectronics-aims-double-stm32-revenue-data-centres-fuel-growth-2026-11-18/</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/031/179.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/179.htm"
+    },
+    {
+      "id": 6082,
+      "title": "Meta 在美国一小镇建造其全球最大数据中心，居民生活剧变",
+      "summary": "IT之家 11 月 23 日消息，据 BusinessInsider 报道，多年来，苏珊 · 李（Susan Lee）最喜欢做的事情之一，就是站在路易斯安那州自家院子里，拍摄夕阳缓缓落在附近田野上的美景。 如今，那片田野已经变成了一座规模庞大的建筑工地。 “我们的日落美景已经没了。”她 42 岁的女儿里基 · 古德温（Rikki Goodwin）在今年 9 月接受采访时说，“现在映入眼帘的是两个漂亮的水箱、一栋橙色建筑、一栋灰色建筑，还有几根高大的柱子。” 李和古德温是当地居",
+      "content": "<p data-vmark=\"0a29\">IT之家 11 月 23 日消息，据 BusinessInsider 报道，多年来，苏珊 · 李（Susan Lee）最喜欢做的事情之一，就是站在路易斯安那州自家院子里，拍摄夕阳缓缓落在附近田野上的美景。</p><p style=\"text-align: center;\" data-vmark=\"4107\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e0a79c19-82b0-4bb4-8621-312cb75d83b7.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"750\" data-weibo=\"0\" data-vmark=\"8dcd\" class=\"no-alt-img\"></p><p data-vmark=\"e422\">如今，那片田野已经变成了一座规模庞大的建筑工地。</p><p data-vmark=\"7062\">“我们的日落美景已经没了。”她 42 岁的女儿里基 · 古德温（Rikki Goodwin）在今年 9 月接受采访时说，“现在映入眼帘的是两个漂亮的水箱、一栋橙色建筑、一栋灰色建筑，还有几根高大的柱子。”</p><p data-vmark=\"0d6f\">李和古德温是当地居民中的一员。他们正在适应一位新邻居的到来：Meta。</p><p data-vmark=\"6b12\">这家科技巨头正在路易斯安那州霍利里奇（Holly Ridge）附近建设其有史以来规模最大的人工智能数据中心。霍利里奇是一个位于里奇兰教区（Richland Parish）的小型非建制社区。整个项目占地近 1,000 万平方英尺<span class=\"exch-unit-value \">（IT之家注：约 92.9 万平方米）</span>，约合 229 英亩。</p><p data-vmark=\"9563\">这个规模有多大？作为对比，华特迪士尼世界的魔法王国主题乐园占地约 142 英亩，而梵蒂冈城国的面积约为 108 英亩。</p><p data-vmark=\"b33a\">“到了晚上，那里看起来就像一座城市。”75 岁的里奇兰教区居民巴迪 · 麦卡特尼（Buddy McCartney）说。</p><p data-vmark=\"ea47\">由于谷歌地图上的卫星图像比较模糊，而且拍摄时间较早，很难直观感受到这座数据中心的真实规模。为此，记者专程前往里奇兰教区，实地查看这项庞大的建设工程，并采访当地居民，了解生活在一家市值万亿美元的科技巨头项目旁边究竟是什么感受。</p><p data-vmark=\"5018\">对于一些居民来说，Meta 的到来创造了新的经济机会，催生了不少创业项目和本地生意。对于另一些人而言，施工噪声、交通拥堵和扬尘等问题，则让他们不得不面对发展带来的阵痛。</p><p data-vmark=\"9222\">Meta 一名发言人表示，公司“非常重视”周边居民的担忧。</p><p data-vmark=\"cdcc\">这名发言人称：“我们正在投入超过 2.7 亿美元<span class=\"exch-money-value \">（现汇率约合 18.04 亿元人民币）</span>改善当地道路，并已在项目附近安装新的交通信号灯。承包商必须严格遵守交通安全规定，同时采取抑尘措施，尽可能减少施工对周边环境的影响。我们每周都会与社区合作伙伴和承包商召开会议，并与当地政府部门合作解决居民提出的问题。”</p><h3 data-vmark=\"3862\">数据中心带火当地生意</h3><p data-vmark=\"ba97\">记者和同事沿着 183 号公路寻找数据中心时，当地气温已经接近华氏 99 度，约合摄氏 37 摄氏度。</p><p data-vmark=\"2f21\">最初几英里的景象可以说相当平淡：一所小学、一家 Dollar General 折扣零售店、几栋分散在大片土地上的住宅，以及一些树木。</p><p data-vmark=\"c6f2\">然而，在灼热的阳光下，数据中心的建设现场逐渐映入眼帘。原本种满农作物的田地，如今已经被一排排橙色路障、挖掘机、新建建筑以及大量身穿高可视度反光背心的施工人员取代。</p><p data-vmark=\"c858\">记者一行驱车近 3 英里后，才在这片庞大园区的一个入口处停车，但施工现场仍向远处延伸了至少 1 英里。</p><p data-vmark=\"5a50\">在自卸卡车和施工车辆不断穿梭的工地旁，记者走访了霍利里奇当地的 HeBrews Coffee &amp; Eats 咖啡餐饮店。这是受益于数据中心建设的多家本地商户之一。</p><p data-vmark=\"ecb6\">自 Meta 于 2024 年正式动工以来，一些当地居民开始抓住这一机会，希望从大型工程带来的需求中赚取收入。这家餐饮店的餐车就停在一个施工入口对面，方便工人随时购买食物和饮料。</p><p data-vmark=\"ef6b\">TJ· 威德（TJ Weed）和凯西 · 威德（Kaycie Weed）夫妇五年前就在附近的雷维尔（Rayville）开设了 HeBrews Coffee &amp; Eats 咖啡馆。不过，位于霍利里奇的新店直到 2025 年才开业，主要就是为了服务 Meta 数据中心项目。</p><p data-vmark=\"340c\">TJ 表示：“霍利里奇店承接了大部分餐饮配送业务。如果是 Meta 旗下相关企业的订单，我都会安排霍利里奇店负责。”</p><p data-vmark=\"9e34\">霍利里奇门店负责人谢尔比 · 史蒂芬森（Shelbie Stephenson）介绍，他们每月会向 Meta 施工现场配送两次午餐，每次约 450 份。此外，每个月还会承接数次咖啡和早餐配送业务。</p><p data-vmark=\"188b\">“在安全周活动期间，我们曾经一次性提供了 900 个墨西哥卷饼和 2500 杯咖啡。”她说。</p><p data-vmark=\"5c73\">另一家因数据中心项目而兴起的企业是 Ice Queen，由大卫 · 罗杰斯（David Rodgers）联合创立。这家企业同样于 2025 年开始营业，最初主要向 Meta 项目的分包商和施工企业出售冰块，每袋售价 3 美元<span class=\"exch-money-value \">（现汇率约合 20 元人民币）</span>，随后逐渐扩大经营范围，增加了多种商品。</p><p data-vmark=\"9fbb\">罗杰斯表示：“我们最赚钱的商品是整托盘的瓶装水，因为这里涉及工人的安全问题，天气太热了。我会整车采购瓶装水，每周大概向这些施工人员配送 30 至 40 托盘。”</p><p data-vmark=\"3743\">Ice Queen 每托盘瓶装水的售价约为 600 美元<span class=\"exch-money-value \">（现汇率约合 4,009 元人民币）</span>。另一款畅销商品是 Liquid <span class=\"link-text-start-with-http\">I.V</span>. 电解质饮料，主要用于补充水分，每袋售价约 1 美元<span class=\"exch-money-value \">（现汇率约合 6.7 元人民币）</span>。</p><p data-vmark=\"01f3\">类似的情况也发生在雷维尔的艾伦（Allen）家族身上。去年，他们开设了 Holy Tacos 餐厅，如今已经从数据中心项目带来的需求中尝到了甜头。</p><p data-vmark=\"c54d\">餐厅老板蒂姆 · 艾伦（Tim Allen）表示，施工团队每个月会向 Holy Tacos 订购一至四次团体餐饮服务。</p><p data-vmark=\"54c3\">“每笔餐饮订单的金额在 4,000 至 7,000 美元<span class=\"exch-money-value \">（现汇率约合 26,725 至 46,769 元人民币）</span>之间，具体取决于规模。”艾伦说，“我们原本就有不少本地顾客，但算上这些团体餐饮订单，目前每月营业额中可能有 40% 直接来自 Meta 项目。”</p><h3 data-vmark=\"bf64\">生意红火背后的生活成本</h3><p data-vmark=\"a477\">68 岁的李也抓住了这次商机。她在 AI 数据中心园区附近开设了一处餐车经营区，每辆餐车每月需要支付 1,000 美元<span class=\"exch-money-value \">（现汇率约合 6,681 元人民币）</span>租金。</p><p data-vmark=\"b468\">不过，尽管新项目带来了赚钱机会，李认为 Meta 入驻后，当地发生的变化并不全是好事。</p><p data-vmark=\"7a4a\">采访中，她回忆起 Meta 到来之前的生活，并将那段日子形容为安静、轻松。</p><p data-vmark=\"79ef\">“这里原本是一个非常宜居的地方。我一直很喜欢自己的家。”李说，“但这一切都变了。我去年 12 月退休了，现在整天待在家里，生活完全不一样了。”</p><p data-vmark=\"07a2\">她所说的变化包括施工车辆扬起的大量灰尘。李表示，自工程开工以来，她一直受到呼吸道问题困扰。此外，施工现场入口处安装的强光照明设备，也给她的夜间生活带来了影响。</p><p data-vmark=\"936a\">古德温则对此开玩笑说：“现在你根本不用担心有人摸黑过来偷东西，因为这里晚上亮得就像圣诞树一样。”</p><p data-vmark=\"5c19\">施工噪声也是居民反映的问题之一。不过，在记者与里奇兰教区多名居民交谈的过程中，出现频率最高的抱怨还是交通问题。</p><p data-vmark=\"5784\">李和古德温表示，大量承包商和建筑工人的涌入，让当地原本有限的道路不堪重负，不仅延长了居民每天的通勤时间，也带来了交通安全隐患。更令人担忧的是，施工现场距离霍利里奇小学并不远。</p><p data-vmark=\"16b7\">“想到那些自卸卡车，我就害怕，因为它们不可能说停就停。”古德温说，“我以前当过消防员，处理过太多交通事故了。”</p><p data-vmark=\"41a6\">麦卡特尼也认同交通已经成为当地的一大难题。他曾经是一名农民，大约两年前退休。</p><p data-vmark=\"db28\">“你会觉得自己正在被一点点挤走。”他说。</p><p data-vmark=\"e999\">麦卡特尼原本打算在这栋房子里安度余生，但如今已经改变了主意。他将自己的土地挂牌出售，中介甚至按照商业地产的标准对外推广。他表示，交通问题是促使自己作出这一决定的原因之一。</p><p data-vmark=\"6aea\">“我当初可没打算过这样的生活。现在我们每周三晚上去教堂，都得花 30 分钟，因为一路上全是这些车辆。”他说，“如果遇到紧急情况，需要赶到镇上，那你就只能等着。”</p><p data-vmark=\"91df\">不过，麦卡特尼并不反对其他居民利用数据中心带来的经济机会。他表示，自己为那些抓住商机、努力赚钱的当地居民感到“骄傲”。</p><p data-vmark=\"5f4c\">麦卡特尼已经决定出售土地，但李仍在考虑下一步该怎么办。李、古德温和麦卡特尼都尚未正式向当地政府或 Meta 反映这些问题。</p><p data-vmark=\"0425\">李在一条短信中表示，她怀疑 Meta 会针对居民的担忧采取实质性行动，毕竟项目已经开工，而且规模还在一天天扩大。</p><p data-vmark=\"086c\">随着里奇兰教区逐渐转变为人工智能产业中心，古德温不禁想起了这里过去的模样：那时当地居民大多以农业和种植业为生。</p><p data-vmark=\"17c5\">“我不知道人们是否真正明白这一点。”古德温说，“这些东西可不能让你填饱肚子。”</p><p data-vmark=\"ae36\">她随后又补充了一句：“人工智能算法又不能拿来吃，对吧？”</p>",
+      "link": "https://www.ithome.com/1/031/164.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/164.htm"
+    },
+    {
+      "id": 6083,
+      "title": "2026 华为乾崑生态大会定档 11 月 26 日在广州国际车展举行",
+      "summary": "IT之家 11 月 23 日消息，华为乾崑 App 显示，2026 华为乾崑生态大会将于 11 月 26 日在广州车展举行。 据华为智能汽车解决方案 BU CEO 靳玉志此前预热，华为与生态伙伴打造的“十分钟华为乾崑智驾生活圈”将在本届华为乾崑生态大会上亮相。 今年 9 月，华为智能汽车解决方案 BU 官方微博宣布，乾崑智驾和鸿蒙座舱搭载量、华为乾崑 App 用户数 200 万里程碑同步达成。 据IT之家此前报道，在今年 7 月的 2026 华为乾崑媒体日上，华为智能汽车解决",
+      "content": "<p data-vmark=\"b44c\">IT之家 11 月 23 日消息，华为乾崑 App 显示，<strong>2026 华为乾崑生态大会将于 11 月 26 日在广州车展举行</strong>。</p><p data-vmark=\"b6f9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/34e5262f-51ba-4d3c-8580-43b4f0c0a11c.jpg\" w=\"672\" h=\"1414\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d11e47f9671650e22469e272956ce9043394eed4124c9f169a622391f0dc01b212e5348cc41755b4f1\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" data-vmark=\"abcb\"></p><p data-vmark=\"b11f\">据华为智能汽车解决方案 BU CEO 靳玉志此前预热，<strong>华为与生态伙伴打造的“十分钟华为乾崑智驾生活圈”将在本届华为乾崑生态大会上亮相</strong>。</p><p data-vmark=\"6370\" style=\"text-align: center;\"><a href=\"https://weibo.com/7501871798/Rshs2fcqR\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f66c872d-5cf5-41d0-a3fe-8866817d6f5b.jpg\"></a></p><p data-vmark=\"26d0\">今年 9 月，华为智能汽车解决方案 BU 官方微博宣布，乾崑智驾和鸿蒙座舱搭载量、华为乾崑 App 用户数 200 万里程碑同步达成。</p><p data-vmark=\"8097\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6c6cb010-416c-4c5c-9cba-0af90955f932.png\" w=\"798\" h=\"1418\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F7348572943%2FRh7zcCmBa%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"8b71\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"ddfb\">据IT之家此前报道，在今年 7 月的 2026 华为乾崑媒体日上，华为智能汽车解决方案 BU CEO 靳玉志透露，从 2023 年到 2026 年，华为乾崑智驾的算力增长超过 20 倍。靳玉志认为，要做好自动驾驶，算力是非常重要的。他表示，未来 5 年，华为乾崑在算力研发上将持续投入，达到 700 到 800 亿元。</p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"affc\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5245\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/031/163.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/163.htm"
+    },
+    {
+      "id": 6084,
+      "title": "联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元",
+      "summary": "IT之家 11 月 23 日消息，联想现已在京东上架来酷外骨骼机器人行者 ONE 穿戴式助行设备，将于 11 月 28 日发售，定价为 7999 元，首发价 6999 元。 京东来酷行者 ONE 外骨骼机器人 6999 元直达链接 该产品净重 1.8kg，提供 IP54 防护等级，机身采用 3 点承托分散局部压力，配合 3 点 1 扣锁紧，15s 可完成穿脱。其具备通透与智能运动模式，双髋峰值扭矩至高 38N·m，峰值功率 900W，号称助行效率可≥45%，同时支持助力比一键",
+      "content": "<p data-vmark=\"a310\">IT之家 11 月 23 日消息，联想现已在京东上架来酷外骨骼机器人行者 ONE 穿戴式助行设备，将于 11 月 28 日发售，<strong>定价为 7999 元，首发价 6999 元</strong>。</p><dir><a href=\"https://u.jd.com/ogxT3PF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/orxPh4n\" data-iosurl=\"https://u.jd.com/oDxA1c9\" data-androidurl=\"https://u.jd.com/ogxWsOl\" data-hosnexturl=\"https://u.jd.com/oOxEPSp\" data-hosurl=\"https://u.jd.com/oGxNHPg\" data-uwpurl=\"https://u.jd.com/oOxfw3d\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252forxcYtK%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/ogxN6hH\" data-lpwxurl=\"https://u.jd.com/ogxB7XE\"  data-ncid=\"278382\" contenteditable=\"false\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/591151/25/303/21725/6affe147F2ebd6e8a/00833203200c2ee2.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">来酷行者 ONE 外骨骼机器人</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 6999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"09fb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/91c31209-5f8a-4caa-bce3-155e72ffeec3.png\" w=\"716\" h=\"1246\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"9f7a\"></p><p data-vmark=\"9cb5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/08ba9105-d8cb-47c2-85c5-f34c8edec308.png\" w=\"562\" h=\"1446\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"8604\"></p><p data-vmark=\"38d3\">该产品净重 1.8kg，提供 IP54 防护等级，机身采用 3 点承托分散局部压力，配合 3 点 1 扣锁紧，15s 可完成穿脱。其具备通透与智能运动模式，双髋峰值扭矩至高 38N·m，峰值功率 900W，号称助行效率可≥45%，同时支持助力比一键调节。</p><p data-vmark=\"a414\">该产品搭载 AI 步态感知系统，可识别上下坡、跑步、上下楼、徒步、骑行及沙石地 6 类姿态（陆续开放）。同时配备电机防过载、电池防过热、关节防拉拽及预警防异常 4 重防护。产品标配双 3000mAh 可拆卸电池，3 档助力下电池理论续航约 3 小时。</p><p data-vmark=\"f923\">IT之家附产品参数：</p><p data-vmark=\"158b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/37dd2a31-1dab-42eb-88c9-f12d495c2360.png\" w=\"568\" h=\"1408\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"bc54\"></p>",
+      "link": "https://www.ithome.com/1/031/160.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/160.htm"
+    },
+    {
+      "id": 6085,
+      "title": "2027 款岚图泰山旗舰 SUV 预热：搭载华为乾崑 896 线激光雷达，前排换用全新双联屏设计",
+      "summary": "IT之家 11 月 23 日消息，岚图汽车官方昨日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售。 今日，岚图汽车官方发布视频，对新车进行了预热。 据介绍，2027 款岚图泰山的外观延续前代，前脸采用“天地鲲鹏”设计，拥有 588 片“龙鳞纹”展示东方美学。新车还搭载华为乾崑 896 线激光雷达、虎踞底盘，并采用华为乾崑智驾系统。 IT之家注意到，新款泰山采用大六座布局，前排换用全新双联屏设计（有望为泰山 X8 此前首发",
+      "content": "<p data-vmark=\"53c8\">IT之家 11 月 23 日消息，岚图汽车官方昨日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售。</p><p style=\"text-align: center;\" data-vmark=\"2a4f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a935c189-def0-46b5-9e5c-8ca90441ddce.jpg\" w=\"1440\" h=\"2544\" data-vmark=\"9e31\" data-mpos=\"2,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d13b45dfcc01645193dffda51ff64472b9e05d3ccc691347b75187ae860f635b7f16d59dbaa521ce6d\" class=\"no-alt-img\"></p><p data-vmark=\"42ad\">今日，岚图汽车官方发布视频，对新车进行了预热。</p><p style=\"text-align: center;\" data-vmark=\"2898\"><a href=\"https://weibo.com/7351024207/RsHP8fJl2\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4a0d1752-8371-4c10-af76-2a511f9927fb.jpg\"></a></p><p data-vmark=\"30be\">据介绍，2027 款岚图泰山的外观延续前代，前脸采用“天地鲲鹏”设计，拥有 588 片“龙鳞纹”展示东方美学。<strong>新车还搭载华为乾崑 896 线激光雷达、虎踞底盘</strong>，并采用华为乾崑智驾系统。</p><p style=\"text-align: center;\" data-vmark=\"4e26\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/146fe208-14be-4ba2-bd81-9ab3c661e212.jpg\" w=\"1282\" h=\"719\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d14879d4d89eb2073f621148ab1331f83c40f4395ac47839826419c00cb98a4ca78f794041425f00ff\" data-vmark=\"c99d\"></p><p style=\"text-align: center;\" data-vmark=\"765c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/15dc5e7c-67b6-4f8c-9866-a3df8071dead.jpg\" w=\"1280\" h=\"708\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1126fa6f7b271a9adf1d9f2d522904568507d59b64309b3a9fba48ab97e1ea62f0724e3840802beb9\" data-vmark=\"e5fc\"></p><p data-vmark=\"6add\">IT之家注意到，新款泰山采用大六座布局，<strong>前排换用全新双联屏设计</strong>（有望为泰山 X8 此前首发的华为双 15.6 英寸智慧双联屏同款方案）。</p><p style=\"text-align: center;\" data-vmark=\"245c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/47454ced-0827-41ea-acc6-670bdde73032.jpg\" w=\"1280\" h=\"715\" data-weibo=\"3\" class=\"nowebp no-alt-img\" data-mpos=\"0,2\"  data-vmark=\"0683\"></p><p data-vmark=\"b5e2\">目前，岚图汽车官方暂未公布 2027 款泰山更多配置信息，IT之家将持续关注，并在第一时间带来最新情报。作为参考，现款岚图泰山已于去年 11 月 18 日上市，共推出四个版本，售价 37.99 万-50.99 万元。该车主要配置信息如下：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"eefd\">中国首发三腔空气悬架：110mm 调节行程、100 次 / 秒道路预瞄智能调节阻尼、4 档刚度调节、5 档高度调节</p></li><li><p data-vmark=\"363c\">华为乾崑智驾 ADS 4：华为乾崑智驾 ADS 4 四激光方案、分布式 4D 毫米波雷达</p></li><li><p data-vmark=\"545b\">华为鸿蒙座舱 HarmonySpace5：首搭 AI 语音大模型、MoLA 架构首搭上车、五大 Agent 智能体</p></li><li><p data-vmark=\"6730\">行业首创・AI 云舒座椅：66 颗高精度传感器、22 向电动零重力调节、26 点大师级按摩、12 层云感科技</p></li><li><p data-vmark=\"b77e\">6 座 / 5 座 / 4 座灵活切换</p></li><li><p data-vmark=\"bee2\">HUAWEI XPIXEL 智慧投影大灯</p></li><li><p data-vmark=\"2abb\">鲲鹏展翼踏板及光毯</p></li><li><p data-vmark=\"6988\">行业唯一双盾防撞加固车门：2200MPa 热成型防撞梁、侧碰防护力提升 30%</p></li><li><p data-vmark=\"679e\">800V 高压平台 + 5C 超快充：65kWh 大电池、CLTC 纯电续航 350km、CLTC 综合续航 1400km+</p></li><li><p data-vmark=\"abcf\">外观颜色：鎏金紫、玄墨金、赤霞紫、远山蓝、玄英黑、宸星灰、香槟金、杜若白；内饰颜色：玄红、暖棕、云米</p></li></ul></blockquote><p style=\"text-align: center;\" data-vmark=\"51c2\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/ba20d92b-06e3-47d1-9975-a0249a53ea50.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1080\" h=\"2337\" data-vmark=\"b9d8\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"8bbe\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5232\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/031/094.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/094.htm"
+    },
+    {
+      "id": 6086,
+      "title": "李健回应华为推出子品牌星芒：对荣耀不用有任何担心，已经走出了自己的道路",
+      "summary": "IT之家 11 月 23 日消息，在今天的荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 日前，华为正式推出子品牌星芒，并发布首款产品。谈及此事，李健表示，对荣耀不用有任何担心，现在的荣耀不是六年前的荣耀，荣耀已经走出了自己的道路。 他强调，荣耀的手机业务明年只会比今年更好；另外荣耀也不只是一个手机厂商了，会有五个新的产业一步步出来。 据IT之家此前报道，有博主询问荣耀关海涛，华为推",
+      "content": "<p data-vmark=\"e803\">IT之家 11 月 23 日消息，在今天的<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/11/09/e8a225a2-24ef-4dda-bddf-b0808a472420.png?x-bce-process=image/format,f_auto\" data-topic-id=\"70250\">荣耀 700</span> 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。</p><p data-vmark=\"971e\">日前，华为正式推出子品牌星芒，并发布首款产品。谈及此事，李健表示，<strong>对荣耀不用有任何担心</strong>，现在的荣耀不是六年前的荣耀，<strong>荣耀已经走出了自己的道路</strong>。</p><p data-vmark=\"ee45\">他强调，荣耀的手机业务明年只会比今年更好；<strong>另外荣耀也不只是一个手机厂商了，会有五个新的产业一步步出来</strong>。</p><p data-vmark=\"dd4b\">据IT之家此前报道，有博主询问荣耀关海涛，华为推出子品牌星芒会不会对荣耀有影响？关海涛对此回应称：欢迎星芒，一起荣耀！<a target=\"_blank\" href=\"https://www.ithome.com/1/026/112.htm\">这件事最大的意义，就是让大家知道荣耀是荣耀</a>。</p><p data-vmark=\"9335\" class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5181\" frameborder=\"no\"></iframe></p>",
+      "link": "https://www.ithome.com/1/031/092.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/092.htm"
+    },
+    {
+      "id": 6087,
+      "title": "消息称 SK 海力士计划优先批量采购 Besi 混合键合设备，服务未来 HBM 内存生产需求",
+      "summary": "IT之家 11 月 23 日消息，韩媒《首尔经济日报》当地时间 20 日报道称，在早期设备评估后，SK 海力士计划将首份混合键合设备批量采购订单交付荷兰企业 Besi，而不是韩国本土半导体设备制造商。 Besi 在上月下旬的 2026Q3 财报电话会议上表示，其收到了一家领先存储器客户的混合键合设备（与新一代热压键合设备）订单。韩媒称这里提到的“客户”就是 SK 海力士。 混合键合采用无凸块结构，可缩短上下层器件间的垂直距离，从而改善性能与功耗表现。SK 海力士计划将这项技术",
+      "content": "<p data-vmark=\"e584\">IT之家 11 月 23 日消息，韩媒《首尔经济日报》当地时间 20 日报道称，在早期设备评估后，<strong>SK 海力士计划将首份混合键合设备批量采购订单交付荷兰企业 Besi</strong>，而不是韩国本土半导体设备制造商。</p><p data-vmark=\"d8ed\">Besi 在上月下旬的 2026Q3 财报电话会议上表示，其收到了一家领先存储器客户的混合键合设备（与新一代热压键合设备）订单。韩媒称这里提到的“客户”就是 SK 海力士。</p><p data-vmark=\"7bf5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9095cc23-dd4b-4d33-8800-1e6ac1fd5fb1.jpg\" w=\"1000\" h=\"500\" data-weibo=\"0\" class=\"nowebp no-alt-img\"  data-vmark=\"4c82\"></p><p data-vmark=\"acc2\">混合键合采用无凸块结构，可缩短上下层器件间的垂直距离，从而改善性能与功耗表现。SK 海力士<strong>计划将这项技术用于 16 层乃至更高堆叠的未来 HBM 内存</strong>，以缩减堆栈厚度。</p><p data-vmark=\"4c48\">报道指出，SK 海力士正在其位于韩国忠清北道清州园区的工厂对 Besi 和韩华半导体的设备进行质量验证测试。韩美半导体的混合键合机台尚未达到这一阶段。消息人士表示，<strong>Besi 的设备具备更高的对准精度</strong>。</p><p data-vmark=\"4c58\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"62dc\"><a href=\"https://www.sedaily.com/article/20116636\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://www.sedaily.com/article/20116636</span></a></p></li></ul>",
+      "link": "https://www.ithome.com/1/031/040.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/031/040.htm"
+    },
+    {
+      "id": 6088,
+      "title": "Sunconnection 推出 SDR-01 太阳能行车记录仪，内置 5000mAh 半固态电池",
+      "summary": "IT之家 11 月 23 日消息，据外媒 NotebookCheck 报道，日本电子设备制造商 Sunconnection 推出了一款 SDR-01 太阳能行车记录仪，主打无需连接汽车电路即可使用，售价为 19,800 日元（IT之家注：现汇率约合 832.8 元人民币）。 SDR-01 最大的特点是采用太阳能充电设计，内置 5000mAh 半固态电池，无须连接车辆电源。厂商表示，相比传统锂离子电池，半固态电池能够降低过热、电池鼓包及起火风险，设计充电循环次数可达 5000 ",
+      "content": "<p data-vmark=\"b4c9\">IT之家 11 月 23 日消息，据外媒 NotebookCheck 报道，日本电子设备制造商 Sunconnection 推出了一款 SDR-01 太阳能行车记录仪，主打无需连接汽车电路即可使用，售价为 19,800 日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 832.8 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"8b61\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dd861927-3b9f-4e05-a6e4-87ffcd19d36e.png\" w=\"1432\" h=\"1024\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"ed84\"></p><p data-vmark=\"99d6\">SDR-01 最大的特点是采用太阳能充电设计，内置 5000mAh 半固态电池，无须连接车辆电源。厂商表示，相比传统锂离子电池，半固态电池能够降低过热、电池鼓包及起火风险，设计充电循环次数可达 5000 次。</p><p data-vmark=\"e1e9\">安装方面，SDR-01 采用吸盘式固定结构，可以安装在车辆前挡风玻璃或后挡风玻璃上，也方便用户在不同车辆之间拆装和转移。电池充满电后，在厂商标称条件下最长可连续录制 15 小时。太阳能充电功能则可以进一步延长续航时间，实际效果取决于光照强度和车辆停放环境。如果长期处于阴雨天气，用户也可以通过 USB-C 接口为设备充电。</p><p style=\"text-align: center;\" data-vmark=\"e203\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5184f7c9-acdd-40a3-9f19-f7040b25aee9.png\" w=\"1440\" h=\"1087\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"4b3a\"></p><p data-vmark=\"f968\">影像规格方面，SDR-01 配备 200 万像素图像传感器，支持 1080P 视频录制，镜头对角线视场角为 140 度。录制内容存储在 microSD 存储卡中，支持 8GB 至 128GB 容量。</p><p data-vmark=\"2592\">针对停车监控场景，该产品还配备移动侦测、人体热量检测和 G-Sensor 重力传感器。当有人靠近车辆或车辆受到碰撞时，设备可以自动触发录像。用户可以通过 Viidure 手机应用调整设备的 Wi-Fi 连接设置，并查看已经录制的视频。</p>",
+      "link": "https://www.ithome.com/1/030/995.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/030/995.htm"
+    },
+    {
+      "id": 6089,
+      "title": "消息称鸿蒙智行尊界 SUV 将亮相广州车展，华为余承东曾透露该车“非常非常高端”",
+      "summary": "IT之家 11 月 23 日消息，博主 @电车总裁 今日发文透露，鸿蒙智行尊界 SUV 将亮相广州车展，不过该车预计是在“小黑屋”展示，仅部分受邀人士可提前参观。 据IT之家此前报道，今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。博主 @我鸿 分享了余承东在现场的接受门店工作人员提问的视频。 门店工作人员向余承东询问尊界 SUV 有没有“小惊喜”。 余承东表示，这台新车“快了”，明年年初可能就要陆续上市，大概在 2、3 月份",
+      "content": "<p data-vmark=\"2628\">IT之家 11 月 23 日消息，博主 @电车总裁 今日发文透露，<strong>鸿蒙智行尊界 SUV 将亮相广州车展</strong>，不过该车预计是在“小黑屋”展示，仅部分受邀人士可提前参观。</p><p style=\"text-align: center;\" data-vmark=\"650e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/58bf7931-2a7a-4832-8bab-6406aaa7c437.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"961\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d165db64c87252b0ef49f78d83b983853ebbbe51fa04395462e221e635318077fe808a1332a4ddf52c\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1965284925%2FRsHaGaUeF%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"3f83\" class=\"no-alt-img\"></p><p data-vmark=\"7071\">据IT之家此前报道，今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。博主 @我鸿 分享了余承东在现场的接受门店工作人员提问的视频。</p><p style=\"text-align: center;\" data-vmark=\"bbfe\"><a href=\"https://weibo.com/5717069810/RjBbZ06h7\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d6120759-b952-41b7-8277-a5a01fb7b3e1.jpg\"></a></p><p data-vmark=\"04e9\">门店工作人员向余承东询问尊界 SUV 有没有“小惊喜”。</p><p data-vmark=\"f62b\">余承东表示，<a target=\"_blank\" href=\"https://www.ithome.com/1/007/343.htm\">这台新车“快了”，明年年初可能就要陆续上市，大概在 2、3 月份</a>。他透露，<strong>尊界 SUV 非常非常高端</strong>，价格上也非常有诚意，会远超大家的期望，定价也会非常有竞争力。新车在外观、内饰、高级感、豪华配置、科技配置都是超乎想象的。</p><p style=\"text-align: center;\" data-vmark=\"2114\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b6a7f4c9-8314-45bd-89de-dc4f0d6add4a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"774\" h=\"1212\" data-vmark=\"c461\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"7dee\">余承东还直言，这台车也会是高端用户的终极之车，也是自己开的 SUV 里的终极之车。另外，新车还有望在今年年底首发亮相（正考虑在广州车展这一时间节点），与用户见面。他还透露，<strong>这台新车设计早已定型，现在是最后的量产阶段</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6074\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9b7804fb-c49d-4d20-815f-d7a68570bf57.jpg\" w=\"774\" h=\"1133\" data-vmark=\"6f2b\"  class=\"no-alt-img\"></p>",
+      "link": "https://www.ithome.com/1/030/974.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/030/974.htm"
+    },
+    {
+      "id": 6090,
+      "title": "开源工具 OLEDTextFix 公布，可改善 Windows 系统在 OLED 面板下文字清晰度不足、彩边等问题",
+      "summary": "IT之家 11 月 23 日消息，据外媒 Wccftech 报道，近期有开发者推出一款免费开源 Windows 工具 OLEDTextFix，尝试通过 GPU 图像处理技术改善 Windows 系统在 OLED 面板下出现文字清晰度不足、彩边等问题，IT之家附项目地址（https://github.com/oguz463/OLEDTextFix）。 外媒表示，微软 ClearType 字体平滑技术最初针对传统 LCD 显示器采用的 RGB 条纹排列设计，但许多 OLED 面板",
+      "content": "<p data-vmark=\"1816\">IT之家 11 月 23 日消息，据外媒 Wccftech 报道，近期有开发者推出一款免费开源 Windows 工具 OLEDTextFix，尝试通过 GPU 图像处理技术改善 Windows 系统在 OLED 面板下出现文字清晰度不足、彩边等问题，IT之家附项目地址（<a href=\"https://github.com/oguz463/OLEDTextFix?utm_source=chatgpt.com\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://github.com/oguz463/OLEDTextFix</span></a>）。</p><p data-vmark=\"8f33\">外媒表示，微软 ClearType 字体平滑技术最初针对传统 LCD 显示器采用的 RGB 条纹排列设计，但许多 OLED 面板采用了不同的子像素排列方式，导致传统字体渲染算法无法准确适配。</p><p data-vmark=\"7827\">例如，三星显示（Samsung Display）传统 QD-OLED 面板采用三角形 RGB 子像素排列，文字边缘可能出现绿色和品红色彩边；LG Display 的 WOLED 面板则普遍采用 RWBG 或 RGWB 排列，同样会带来文字渲染方面的问题。</p><p data-vmark=\"01b0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/35274b51-6f55-4c7f-8457-8c65af0329d9.png\" w=\"1072\" h=\"592\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"1fb1\"></p><p data-vmark=\"b636\">而 OLEDTextFix 工具正是为了修复上述问题，该工具并未尝试修改 Windows 底层字体渲染引擎，而是通过 DXGI Desktop Duplication 接口捕获桌面画面，根据实际子像素的物理位置重新调整 RGB 各颜色通道，再通过 GPU 渲染的透明覆盖层显示处理后的画面。</p><p data-vmark=\"ebae\">得益于这种方案，OLEDTextFix 理论上能够作用于几乎所有桌面应用程序，无须修改应用自身的渲染行为，也不需要调整系统注册表或显卡驱动程序。</p><p data-vmark=\"2819\">开发者根据 25 款以上显示器的微距照片测量结果，制作了覆盖 9 类 QD-OLED 面板的预设配置。此外，软件还提供针对不同四子像素排列方式的 WOLED 配置文件，不过这些配置尚未经过全面的实际测试验证。</p><p data-vmark=\"8777\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b14c1626-52c1-4c6c-a8da-d62e63bc4287.png\" w=\"1080\" h=\"898\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"69ca\"></p><p data-vmark=\"5fde\">根据项目文档，在深色背景下，开发者通过模拟 QD-OLED 显示效果发现，不同滤镜模式可以将文字彩边现象减少约 58% 至 71%。不过，这些数据来自开发者的图像处理模拟，并非在实际显示器上进行的独立测试结果。至于 WOLED 面板，由于额外白色子像素的存在，校正难度更高，预计改善幅度相对有限。</p><p data-vmark=\"7d7c\">不过，这种通过桌面覆盖层处理画面的方案也存在一些不足。开发者承认，处理后的画面可能比原始桌面画面延迟约一帧，以 240Hz 刷新率为例，延迟约为 4 毫秒。软件提供可选的动态区域旁路功能，尝试跳过屏幕中正在运动的区域，以消除这部分延迟。因此，相比对延迟敏感的游戏场景，该工具更适合日常办公和桌面使用。</p><p data-vmark=\"f72a\">功耗同样值得关注。开发者在 Reddit 讨论中透露，使用 Radeon RX 6900 XT 运行 OLEDTextFix 时，GPU 功耗约为 40W 至 50W。不过，这一数据反映的是运行该软件时的显卡整体功耗，并不代表 OLEDTextFix 本身的独立功耗。</p><p data-vmark=\"cf6c\">需要注意的是，OLEDTextFix 并不适用于已经采用传统 RGB 条纹排列的新款 OLED 显示器，例如三星显示第五代 V-Stripe QD-OLED 面板。这类产品本身已经大幅缓解了文字彩边问题，没有太大必要额外使用该工具。</p>",
+      "link": "https://www.ithome.com/1/030/964.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/030/964.htm"
+    },
+    {
+      "id": 6091,
+      "title": "第三方开发者推出 RageForge 开源工具：用于逆向分析泄露的 XBOX 版《GTA6》游戏地图",
+      "summary": "IT之家 11 月 23 日消息，开发者 nullbrik 先前在 GitHub 公开 RageForge 开源工具，主要用于研究和逆向分析 Cyberleek 泄露的 XBOX 版《GTA6》游戏文件。不过截至IT之家发稿，该项目已不可见，目前尚不确定是 R 星版权诉讼还是开发者自行删除了存储库。 综合 Playground 等媒体报道信息，该工具采用.NET 10 编写，支持 Windows x64，可通过图形界面或命令行运行，其中 World 页面允许用户在地图中自由飞",
+      "content": "<p data-vmark=\"3561\">IT之家 11 月 23 日消息，开发者 nullbrik 先前在 GitHub 公开 RageForge 开源工具，主要用于研究和逆向分析 <a href=\"https://www.ithome.com/1/029/791.htm\" target=\"_blank\">Cyberleek 泄露的 XBOX 版《GTA6》游戏文件</a>。不过截至IT之家发稿，该项目已不可见，目前尚不确定是 R 星版权诉讼还是开发者自行删除了存储库。</p><p data-vmark=\"2cfe\">综合 Playground 等媒体报道信息，该工具采用.NET 10 编写，支持 Windows x64，可通过图形界面或命令行运行，其中 World 页面允许用户在地图中自由飞行，工具会按照游戏原生的 HD、LOD 及 SLOD1 至 SLOD3 层级，在镜头周围动态加载最远约 6 公里内的世界区块，并处理天空、时间、雾和水面等渲染内容。</p><p data-vmark=\"d5f1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4967e855-a538-43aa-9d63-c659204a4c31.jpg\" w=\"1440\" h=\"775\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"41ad\"></p><p data-vmark=\"5e5a\">此外，该工具还能打开建筑内部，将单个房间或半径最高 1500 米的地图区域导出为.glb 文件，供用户在 Blender 中继续处理，不过服装颜色、头发及胡须目前仍存在一定显示限制。</p>",
+      "link": "https://www.ithome.com/1/030/945.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/030/945.htm"
+    },
+    {
+      "id": 6092,
+      "title": "《GTA6》页面占位符现身 Steam 平台，消息称系第三方山寨游戏",
+      "summary": "IT之家 11 月 23 日消息，据外媒 NoteBook Check 报道，Steam 商店近日出现了一个《GTA 6》可疑占位符页面。不过，该页面并不像正常的 Steam 游戏商店页面，不仅没有游戏截图，也未提供开发者和发行商信息，甚至将游戏标记为免费游玩（Free-to-Play），与 Rockstar Games 旗下新作的商业模式明显不符。 更值得注意的是，该页面并非近期才创建。根据 SteamDB 数据，相应页面早在近三年前就已加入 Steam，但此前长期处于基本",
+      "content": "<p data-vmark=\"ccb4\">IT之家 11 月 23 日消息，据外媒 NoteBook Check 报道，Steam 商店近日出现了一个《GTA 6》可疑占位符页面。<strong>不过，该页面并不像正常的 Steam 游戏商店页面，不仅没有游戏截图，也未提供开发者和发行商信息，甚至将游戏标记为免费游玩（Free-to-Play）</strong>，与 Rockstar Games 旗下新作的商业模式明显不符。</p><p data-vmark=\"7b84\">更值得注意的是，该页面并非近期才创建。根据 SteamDB 数据，相应页面早在近三年前就已加入 Steam，但此前长期处于基本停滞状态，直到最近才突然获得多次更新，<strong>预计是第三方瞄准《GTA6》热度打造的山寨版游戏</strong>。</p><p style=\"text-align: center;\" data-vmark=\"3824\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4745ab79-137d-41d4-b7f7-c2eff4670bd4.png\" w=\"1440\" h=\"1062\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"7804\"></p><p data-vmark=\"2105\">SteamDB 已将该应用标记为可疑项目，并提醒用户警惕其可能存在恶意行为，或冒充其他产品的情况。该网站建议用户不要购买或下载这款应用，即使其后续正式开放下载，也应保持警惕。</p>",
+      "link": "https://www.ithome.com/1/030/943.htm",
+      "source": "IT 之家",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "数码",
+        "资讯"
+      ],
+      "guid": "https://www.ithome.com/1/030/943.htm"
+    },
+    {
+      "id": 6093,
+      "title": "The RTX 5090’s 16-pin connector just got a free pin-by-pin watchdog",
+      "summary": "RTX Lens, a free open-source Windows app, reads per-pin current from Asus ROG Astral GPUs, WireView Pro II and MSI PSUs.",
+      "content": "<article>\n                                <p>A developer known as Codeh4ck released a <a href=\"https://github.com/Codeh4ck/RTXLens\">free, open-source Windows app</a>, RTX Lens, to help assuage melting power connector fears for owners of powerful RTX 5080 and 5090 GPUs. The app can read per-pin current information on Asus Astral cards, the WireView Pro II GPU monitoring device from Thermal Grizzly, and MSI MPG Ai1300TS/Ai1600TS PSUs, enabling an optional shutdown for persistent warnings. It works by reading current at the GPU, PSU, or both ends of the cable, and can even notify you by phone to provide extra protection for your investment.</p><p>The project’s README says that the app allows reading of “GPU power, pin currents, and temperatures at a glance.” The per-pin monitoring is the important part here, as the 12V-2x6 connection carries current on six 12V pins with a rating of about 9A, with Asus’s warning at 9.2A, and exceeding the per-pin limit has led to <a href=\"https://www.tomshardware.com/pc-components/gpus/melting-power-connectors-and-how-to-safeguard-against-them\">melted connectors</a>. An RTX 5090 is rated at 575W of board power, which is close to the connector’s 600W rating. This led to the app’s construction, the developer says, due to “double paranoia about the 12VHPWR connector melting, since I own 2 5090s.”</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2521px;\"><p class=\"vanilla-image-block\" style=\"padding-top:26.93%;\"><img id=\"f42KAdtusURJ5CPpEv7wzW\" name=\"Widget\" alt=\"RTX Lens widget showing per-pin current bars for an Asus ROG Astral RTX 5090, GPU status readings and an MSI PSU connector’s pin currents\" src=\"https://cdn.mos.cms.futurecdn.net/f42KAdtusURJ5CPpEv7wzW-1920-80.png\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2521\" height=\"679\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://rtxlens.com/\">RTX Lens</a>)</span></figcaption></figure><p>For supported Asus ROG Astral RTX 5080 and 5090 GPUs, the app uses the open-source LibreHardwareMonitor library. The <a href=\"https://www.tomshardware.com/pc-components/gpus/noctua-upgrades-thermal-grizzlys-12v-2x6-power-monitor-cuts-active-noise-to-21-5db-and-runs-passively-up-to-a-300w-gpu-load\">WireView Pro II</a> already measures inline at the GPU connector, but the app can read and edit the device’s settings, mirroring the official app’s settings.</p><p>The MSI PSUs measure at the PSU side of each connector and reveal per-pin currents for both 12V-2x6 ports, as well as PSU temperature and fan status, although a USB data connection is needed for both the PSUs and the WireView. The project clarifies that “With an Astral or WireView Pro II, you can compare both ends of the cable.” All of the listed hardware has been tested on real devices, the developer says.</p><div ><table><caption>Where RTX Lens gets its readings, per the developer’s README</caption><thead><tr><th class=\"firstcol \" ><p>Device</p></th><th  ><p>Cable end</p></th><th  ><p>Per-pin data</p></th><th  ><p>Also reads</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>Asus ROG Astral RTX 5080, 5090</p></td><td  ><p>GPU</p></td><td  ><p>Current</p></td><td  ><p>Connector power, current totals</p></td></tr><tr><td class=\"firstcol \" ><p>Thermal Grizzly WireView Pro II</p></td><td  ><p>Inline at GPU</p></td><td  ><p>Current, voltage, power</p></td><td  ><p>Cable rating, temps, faults</p></td></tr><tr><td class=\"firstcol \" ><p>MSI MPG Ai1300TS, Ai1600TS</p></td><td  ><p>PSU (both ports)</p></td><td  ><p>Current</p></td><td  ><p>PSU temp, fan</p></td></tr><tr><td class=\"firstcol \" ><p>Other GeForce RTX cards</p></td><td  ><p>None</p></td><td  ><p>None</p></td><td  ><p>Clocks, temps, usage, VRAM, fans</p></td></tr></tbody></table></div><p>The app allows users to set up warning profiles per device with thresholds and reminders, and optionally a shutdown when a warning persists. This would be used in cases of sustained overcurrent or uneven pin loads on Astral, or WireView device faults. The app’s service initiates a Windows shutdown after a set time, from one second to almost 24 hours. The app can also make performance recordings that are exportable as interactive HTML.</p><p>Additionally, it can configure <a href=\"https://www.tomshardware.com/pc-components/gpus/msi-afterburner-adds-16-pin-power-connector-warning-for-its-mpg-ai-psus-new-update-could-save-your-expensive-gpu-from-melting\">MSI Afterburner Safeguard+</a> for the MSI PSUs with per-connector alarms and timeouts, emergency low-power profiles, or even a script for delayed shutdowns or optional methods of notification, like email. More customization is available, in this case, as the app can set the PSUs’ fan curves with up to six temperature points.</p><p>Phone apps for Android, using a sideloaded APK from GitHub, and the iPhone, through a TestFlight beta or sideloaded with iLoader, are available. The sideloaded iPhone app only shows warnings while it’s open and connected, though. Pairing happens by QR code on the same network, and remote access from outside the network requires a reachable address. The PC also must stay awake, with the service running, for local or remote connections to work. An alternative way to monitor is a read-only iCUE widget for the Corsair Xeneon Edge touchscreen, if you’re so inclined.</p><p>The ongoing melting connector problem has led to solutions in the past, including a <a href=\"https://www.tomshardware.com/pc-components/gpus/pc-gamer-vibe-codes-a-safeguard-against-rtx-5090-power-connector-failures-monitors-per-pin-power-draw-shuts-down-system-if-it-exceeds-9-5a-for-more-than-15-seconds\">vibe-coded safeguard</a> that now limits the GPU if a pin current exceeds 9.5A for more than 15 seconds, then shuts down the system if it stays that high. That tool, 12VHPWR Guard, is limited to Asus cards; RTX Lens adds wider device support and more options. Some hardware already works to help here, as MSI’s Ai1600TS cut GPU power after about three minutes <a href=\"https://www.tomshardware.com/pc-components/gpus/testing-gpu-safeguard-on-the-msi-mpg-ai1600ts-psu-solution-aims-to-tame-melting-16-pin-connectors\">in our testing</a>, and <a href=\"https://www.tomshardware.com/pc-components/power-supplies/cooler-master-shows-off-new-mwe-gold-v4-power-supplies-and-gpu-shield-adapter-per-pin-monitoring-can-dynamically-scale-down-power-to-stop-cables-melting\">Cooler Master’s GPU Shield</a> can scale down an RTX 5090 to 450W, but these are not an option, or the best option, for everyone.</p><p>RTX Lens updates have been fast, with five shipped releases in the last week or so, and the maintainer appears motivated to keep development going. The developer says the project is in a “beta-ish phase,” and that “Google Play Store and App Store releases are coming soon, pending approval from Google and Apple.”</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "chTY6H2RRBV9qhpf3kNrvJ"
+    },
+    {
+      "id": 6094,
+      "title": "MacBook modder turns Apple’s Force Touch trackpad into a speaker using haptic engine",
+      "summary": "The MacBook's Force Touch trackpad with its haptic engine can be used to make it into a speaker using some new 'No Speaker' software.",
+      "content": "<article>\n                                <p>The MacBook's <a href=\"https://www.tomshardware.com/reviews/macbook-pro-14-16-m2-pro-max-2023\" target=\"_blank\">Force Touch trackpad</a> is considered one of the crown jewels among Apple's laptop technologies. Now Cody Collier, AKA os6 on GitHub, has devised another way to make use of Apple's trackpad design, albeit an unusual and probably not very useful one. The trackpad's haptic engine can be used to make it work as a speaker using Collier's <a href=\"https://github.com/os6/nospeaker\" target=\"_blank\"><em>No Speaker</em> software</a>. Want to see and hear it for yourself before installing? There's a demo video below mixing speech, tones, and music playback through a MacBook trackpad.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2124505859883716918\"><p lang=\"en\" dir=\"ltr\">i made my macbook trackpad talk using only the vibrations from its haptic motor my speakers are muted, every sound you hear is coming from the trackpad itselfopen source, try it here: https://t.co/MPEKltkFxO https://t.co/5rTtqdErDP<a href=\"https://twitter.com/cantworkitout/status/2124505859883716918\">November 22, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>As indicated in the intro, Apple's Force Touch trackpad has many fans, largely because of its smooth and solid glass surface with consistent and accurate tactile feedback driven by haptics, making it a step up from traditional clattering 'diving board' mechanical alternatives. The haptics that make it feel so responsive can also produce sounds, Collier found, after its <a href=\"https://www.tomshardware.com/peripherals/gaming-mice/logitechs-next-gaming-mouse-will-have-haptic-based-clicks-adjustable-actuation-and-rapid-trigger-new-g-pro-x2-superstrike-will-land-at-usd180\" target=\"_blank\">haptic </a>vibration frequencies were manipulated into the human hearing range.</p><p>\"There's no speaker in a MacBook trackpad, just a small haptic motor that taps the glass so you feel a click,\" Collier explains on the GitHub project page. \"<em>No Speaker</em> drives that motor up to 4,000 times a second, fast enough to make sound you can hear, and turns it into a voice. It talks, sings, raps, and becomes an instrument under your finger.\"</p><p>In the video, Collier shows the trackpad being used to play a melody, and as a simple <a href=\"https://www.tomshardware.com/news/this-raspberry-pi-pico-euclidean-drum-machine-rocks-the-house\" target=\"_blank\">drum machine</a> with kick, snare, and high hats programmed on a 16-step grid. If for some reason you can't play the demo video for yourself, suffice to say <em>No Speaker</em> audio quality is pretty terrible. The nearest approximation to the trackpad's output quality might be the legendary but ancient <a href=\"https://www.tomshardware.com/raspberry-pi/raspberry-pi-zero/cyberdore-2064-cyberdeck-features-an-oversized-scroll-wheel-handle-oled-display-and-raspberry-pi-zero\" target=\"_blank\">Speak &amp; Spell </a>with a severely damaged speaker.</p><p>The GitHub page contains links to the Mac software and command-line examples to test on your trackpad. Passing parameters to the installed nospeaker command lets you send text strings for it to speak, adjust the <em>No Speaker</em> voice, play test tones, and switch between various UI modes.</p><p>To have some no speaker fun with this project, you can run it yourself and fiddle with the input parameters and settings. It has been tested on a <a href=\"https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review\" target=\"_blank\">MacBook Pro</a> (Mac17,10) with M5 Max and macOS 27.2.1. The author notes the Force Touch trackpad first appeared in MacBooks starting in 2015, so it may work on anything from then onwards. macOS 12 or later on Apple Silicon, or macOS 13 or later on Intel, are also essentials. The app is smart enough to alert a user that there is no Force Touch trackpad present if they attempt to run it on such a machine.</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:1920px;\"><p class=\"vanilla-image-block\" style=\"padding-top:56.25%;\"><img id=\"8qWbjLMsXt7DN63Wcs68ta\" name=\"no-speaker-hero\" alt=\"Collier's No Speaker in action\" src=\"https://cdn.mos.cms.futurecdn.net/8qWbjLMsXt7DN63Wcs68ta-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"1\" width=\"1920\" height=\"1080\" attribution=\"\" endorsement=\"\" class=\"inline expandable\" /><a href='https://cdn.mos.cms.futurecdn.net/8qWbjLMsXt7DN63Wcs68ta-1920-80.jpg' target='_blank' class='expand-button icon-expand-image icon' ></a></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://x.com/codycollier/status/2124505859883716918?s=61\" target=\"_blank\">Cody Collier</a>)</span></figcaption></figure><p>The MacBook Force Touch trackpad isn't the first device or component that has been coaxed into audio playback duties contrary to its designed purpose. Tech tinkerers have previously played <a href=\"https://www.youtube.com/watch?v=nOMX3deeW6Q\" target=\"_blank\">music on floppy drive motors</a> and used hard drive actuators as speakers. Another example of out-of-scope hacking on a modern MacBook was the use of the hidden ‘LidAngleSensor’ API to make opening and closing the lid <a href=\"https://www.tomshardware.com/software/developer-tools/engineer-taps-into-apples-hidden-lidanglesensor-api-to-create-a-creaky-door-simulator\" target=\"_blank\">sound like a creaky door</a> being adjusted.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "mGXRv3wrR22x3xsHMkrs6j"
+    },
+    {
+      "id": 6095,
+      "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "summary": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as \"the compute is valuable\"",
+      "content": "<article>\n                                <p>\"Prices are really expensive for technology X\" isn't truly news anymore, but it seems that even the bigshots who place orders in the magnitude of hundreds of millions of dollars are feeling the pinch. According to <a href=\"https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f\" target=\"_blank\">the <em>Financial Times</em></a> (FT), trading and financial service firms are seeing post-contract hikes of up to 45% on their data center servers.</p><p>The price upgrades are coming in well after the ink has dried on the respective agreements, often signed months in advance. One unnamed person told the FT that \"it is disconcerting when you get a 25, 30, 45 percent\" increase, further adding that \"there is a significant disparity\" between the initial figure and the one that pops up on the final invoice.</p><p>However, even this bump isn't deterring well-funded financial firms, which are reportedly buying up as much compute power as they can get their hands on, and are willing to eat the cost. Another informant said \"we've never said no,\" noting that \"at the end of the day, the compute is valuable to us and we'll pay for it.\" The FT asked whether the contacted companies had any clauses in their contracts preventing price volatility, but none confirmed or denied the fact.</p><p>The publication predictably points to RAM pricing as the main cause behind the out-of-nowhere hikes, noting that while GPU servers have risen in price by 20-30%, memory-heavy CPU nodes purportedly doubled or tripled in price.</p><p>This is arguably more bad news for us peons, as it illustrates the DRAM shortage is alive and well, whether natural or fabricated. Furthermore, it shows if even the big shots are more than willing to pay inflated prices, then mere mortals have little chance of a RAM price reprieve.</p><p>Not every firm is taking the price jacking lying down, though. <a href=\"https://www.irishtimes.com/crime-law/courts/2026/06/15/finnish-company-sues-dell-over-70m-price-increase-for-data-centre-servers/\" target=\"_blank\">Back in June</a>, XTX Finland Oy took one of Dell's Irish subsidiaries to court, after Dell asked for another $62 to $70 million on top of the previously agreed-on price of $549 million for 1,680 servers. That case is still ongoing and is an interesting watch, as XTX apparently paid $5 million extra for a contract clause specifically to prevent any pricing shenanigans.</p><p>Even if XTX wins, though, the firm may find it harder to do future business with OEMs. The supply-demand balance is <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion\" target=\"_blank\">currently so lopsided</a> that chip fabs and OEMs have all the ability to pretty much set any terms they wish.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "88iQNN77Gp2C8vhUFKDJaZ"
+    },
+    {
+      "id": 6096,
+      "title": "Walmart has slashed $1,090 off this RTX 5070 gaming laptop, nearly half price",
+      "summary": "Save nearly 50% on this HyperX gaming laptop with RTX 5070.",
+      "content": "<article>\n                                <p>If you're in the market for a new gaming laptop, get the jump on Black Friday with this HyperX Omen laptop that's nearly 50% off. Right now at Walmart, you can score <a href=\"https://www.walmart.com/ip/HyperX-OMEN-15-3-WQXGA-180Hz-2-5K-IPS-Gaming-Laptop-AMD-Ryzen-9-8940HX-NVIDIA-GeForce-RTX-5070-16GB-1TB-SSD-Black-Windows-11/18183070833\">$1,090 off this AMD Ryzen 9 8940HX laptop with RTX 5070, 16GB of RAM, and a 1TB SSD, now just $1,299</a>. </p><p><a href=\"https://www.walmart.com/ip/HyperX-OMEN-15-3-WQXGA-180Hz-2-5K-IPS-Gaming-Laptop-AMD-Ryzen-9-8940HX-NVIDIA-GeForce-RTX-5070-16GB-1TB-SSD-Black-Windows-11/18183070833\">● Check out this deal at Walmart</a></p><p>At the heart of this laptop is the excellent Nvidia RTX 5070 laptop GPU, which boasts the same 8GB GDDR7 VRAM as its desktop counterpart and 4608 cores. That should be more than enough for enjoyable gaming at this laptop's native resolution of 1920 x 1200.</p><p>While we haven't reviewed this specific spec of laptop, overall the HyperX Omen 15 range scores well in our review thanks to strong gaming performance, even though the chassis isn't the most premium. </p><div class=\"product star-deal\"><a data-dimension112=\"98abed56-e72e-11f1-a61e-4b57a6df44ab\" data-action=\"Star Deal Block\" data-label=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension48=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension25=\"$1299.99\" href=\"https://www.walmart.com/ip/HyperX-OMEN-15-3-WQXGA-180Hz-2-5K-IPS-Gaming-Laptop-AMD-Ryzen-9-8940HX-NVIDIA-GeForce-RTX-5070-16GB-1TB-SSD-Black-Windows-11/18183070833\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2000px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"Ucfe8nD4okFeTpQxhNbXf\" name=\"HyperX Omen Max 16 (RTX 5070 Ti) 16z-ak100\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/Ucfe8nD4okFeTpQxhNbXf-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2000\" height=\"2000\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.walmart.com/ip/HyperX-OMEN-15-3-WQXGA-180Hz-2-5K-IPS-Gaming-Laptop-AMD-Ryzen-9-8940HX-NVIDIA-GeForce-RTX-5070-16GB-1TB-SSD-Black-Windows-11/18183070833\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"98abed56-e72e-11f1-a61e-4b57a6df44ab\" data-action=\"Star Deal Block\" data-label=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension48=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension25=\"$1299.99\">HyperX Omen Max 16 (RTX 5070): was $2389.99 now $1299.99</a></strong><br />This HyperX laptop features AMD's Ryzen 9 8940HX CPU, Nvidia GeForce RTX 5070, 16GB DDR5, a 1TB SSD, and Wi-Fi 6. <a class=\"view-deal button\" href=\"https://www.walmart.com/ip/HyperX-OMEN-15-3-WQXGA-180Hz-2-5K-IPS-Gaming-Laptop-AMD-Ryzen-9-8940HX-NVIDIA-GeForce-RTX-5070-16GB-1TB-SSD-Black-Windows-11/18183070833\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"98abed56-e72e-11f1-a61e-4b57a6df44ab\" data-action=\"Star Deal Block\" data-label=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension48=\"HyperX Omen Max 16 (RTX 5070)\" data-dimension25=\"$1299.99\">View Deal</a></p></div><p>The CPU in this laptop is a 16-core, 32-thread mobile processor built on AMD's Zen 4 architecture. It has base clock speeds of 2.4GHz, with up to 5.3 GHz boost clocks. While it isn't one of AMD's potent X3D SKUs, it does have plenty of cache (80MB total), with 64MB L3 cache and a total default power draw of 55W. </p><p>This CPU will help you get plenty out of any game or productivity workload. While the 16GB of RAM is perhaps the only compromise in this deal, this is standard in the current market at this price point, with 32GB of RAM adding enormous cost to prebuilts and laptops. The 1TB SSD is a welcome addition, as is Wi-Fi 6 and Bluetooth. As mentioned, the display is a 1920 x 1200 screen, with an IPS panel that supports refresh rates of up to 180 Hz.</p><p>With 46% slashed from the price, we don't expect this deal to hang around too long, so head to Walmart now if youn wan</p><p><em>Download the Tom's Hardware app for up-to-the-minute updates on </em><a href=\"https://apps.apple.com/us/app/toms-hardware-pc-tech-news/id6785006008\"><em>iOS</em></a><em> and </em><a href=\"https://play.google.com/store/apps/details?id=com.futureplc.peregrine.tomshardware&amp;hl=en_GB\"><em>Android</em></a><em>. </em></p><p><em>If you're looking for more savings, check out our </em><a href=\"https://www.tomshardware.com/news/best-deals-on-tech\"><em>Best PC Hardware deals</em></a><em> for a range of products, or dive deeper into our specialized </em><a href=\"https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts\"><em>SSD and Storage Deals,</em></a><em> </em><a href=\"https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon\"><em>Hard Drive deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/monitors/best-gaming-monitor-deals\"><em>Gaming Monitor deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/features/best-cpu-deals\"><em>CPU deals,</em></a><em> </em><a href=\"https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals\"><em>Gaming PC deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/desktops/gaming-pcs/best-ram-combo-deals-2026-make-pc-builds-and-upgrades-more-affordable-with-the-best-ram-bundle-deals-available\"><em>RAM combo deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-3d-printer-deals\"><em>3D printer deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/ram/best-ram-deals\"><em>RAM deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-gaming-laptop-deals\"><em>Gaming laptop deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals\"><em>Wi-Fi Router deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals\"><em> GPU deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals\"><em>Gaming chair deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals\"><em>PC building tool deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/best-pc-peripherals-deals-keyboards-headsets-mice\"><em>PC peripherals deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/3d-printing/best-filament-and-resin-deals-for-3d-printing\"><em>filament and resin deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-intel-and-amd\"><em>motherboard deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/cooling/best-cpu-cooler-deals\"><em>CPU cooler deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/pc-components/pc-cases/best-pc-case-deals\"><em> PC case deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/dell-alienware-deals\"><em>Dell and Alienware deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/usb/best-usb-charger-deals\"><em>USB charger deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/desktops/best-laptop-pc-deals-productivity\"><em> and laptop PC deals </em></a><em>pages.</em></p><p><em>* The listed previous prices can vary based on retailer, as many use different metrics, like 90-day rolling averages or ‘estimated value’ due to ongoing shortages and price hikes.</em></p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "9aLSRbwmu9jorZx85eUPBV"
+    },
+    {
+      "id": 6097,
+      "title": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US",
+      "summary": "After saying that Nvidia's new CEO should come \"outside the company,\" U.S. Treasury Secretary Scott Bessent now argues that former chief Jensen Huang \"is on the outside,\" paving the way for a return following President Trump's declaration o",
+      "content": "<article>\n                                <p>After saying just days ago that any new Nvidia CEO should \"come from outside the company\" following the <a href=\"https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo\">resignation of Jensen Huang</a> after he admitted to an affair <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips\">with an alleged Chinese spy</a>, U.S. Treasury Secretary Scott Bessent has now backtracked by saying that Huang <em>is</em> on the outside, seemingly paving the way for his return. At the time, Bessent's assertion was in stark contrast with that of the U.S. President, with <a href=\"https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen\">Trump calling for Huang to be reinstated</a>. Trump earlier today doubled down, writing of his \"hope\" that <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117663497310955803\" target=\"_blank\">Nvidia's board would rehire Huang</a> in a post on his Truth Social account. Now, Bessent has fallen in line despite having previously called for a \"dramatic shake-up\" at Nvidia.</p><p>Bessent's latest comments came on<em> CBS'</em> Face the Nation show. When asked about whether Nvidia should look beyond its current payroll when looking for a new CEO instead of bringing Huang back, Bessent argued that he \"said they should go to the outside, but he's on the outside now.\" Bessent also said that he would \"assume [Huang] didn't know that [Alice Huang] was an alleged spy.\" That has, to date, not been publicly confirmed.</p><div class=\"see-more see-more--clipped\"><figure><blockquote class=\"twitter-tweet hawk-ignore\" data-lang=\"en\" cite=\"https://twitter.com/cantworkitout/status/2124570863865667864\"><p lang=\"en\" dir=\"ltr\">*BESSENT: WE'VE BEEN IN TOUCH WITH $NVDA TEMPORARY MANAGEMENT, THE LEAD DIRECTORS AND THEIR LAWYERS, AND WE DO NEED ANSWERS*BESSENT: I SAID THEY SHOULD GO TO THE OUTSIDE, JENSEN IS ON THE OUTSIDE NOW. WE WILL SEE WHICH LEVEL OF THE BUSINESS KNEW, DID IT GO ALL THE WAY TO THE TOP*BESSENT: WE'LL SEE WHAT THEY HAVE TO SAY. FOR DEALS THAT SIZE THERE'S NO SUCH THING AS AN UNTRACEABLE HANDSHAKE DEAL*BESSENT: I ASSUME HE DIDN'T KNOW THAT SHE WAS AN ALLEGED SPY<a href=\"https://twitter.com/cantworkitout/status/2124570863865667864\">November 22, 2026</a></p></blockquote></figure><div class=\"see-more__filter\"></div></div><p>Bessent's latest statement may be semantics to realign himself with Trump, but it's unclear whether either of them will sway an Nvidia board that has already said it has no intention of double-dipping with Huang. That's despite some <a href=\"https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement\">members of the same board angling for Huang</a> to be allowed back into the company. Predictably, Huang has made it known that <a href=\"https://www.tomshardware.com/uk/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees\">he would be \"honored\" to return</a>, but the situation has now moved beyond a simple affair with Megaspeed executive Alice Huang. The fact that <a href=\"https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy\">multiple affairs may now have been uncovered</a> won't help his case, nor will <a href=\"https://www.tomshardware.com/uk/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear\">being dragged before the House Foreign Affairs, Intelligence, and China Select Committees</a> in early December. Nvidia's top lawyer will also have to make an appearance following the news that a criminal investigation has been launched into whether Megaspeed — a previous client of Nvidia, and the company where Alice Huang worked — was involved in the bypassing of AI chip export controls.</p><p>Megaspeed has long been accused of being involved in a chip smuggling operation. An investigation found in October 2025 that it had <a href=\"https://www.tomshardware.com/uk/tech-industry/artificial-intelligence/singapore-company-alleged-to-have-helped-china-get-usd2-billion-worth-of-nvidia-ai-processors-report-claims-nvidia-denies-that-the-accused-has-any-china-ties-but-a-u-s-investigation-is-underway\">helped move around $2 billion worth of Nvidia chips</a> into China via an import and re-export process. The alleged Chinese spy, Alice Huang, was a Megaspeed executive and was reportedly instrumental in the import of more than $7.5 billion worth of Nvidia AI GPU imports during a three-year relationship with the then Nvidia CEO Jensen Huang.</p><figure class=\"van-image-figure pull-left inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:676px;\"><p class=\"vanilla-image-block\" style=\"padding-top:31.51%;\"><img id=\"Ff8qW7gTwUZFZmPvceeLFd\" name=\"Follow Tom's Hardware\" alt=\"Google Preferred Source\" src=\"https://cdn.mos.cms.futurecdn.net/Ff8qW7gTwUZFZmPvceeLFd-1920-80.png\" mos=\"\" align=\"left\" fullscreen=\"\" width=\"676\" height=\"213\" attribution=\"\" endorsement=\"\" class=\"pull-leftinline\" /></p></div></div></figure>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "8FTrvFbYcduWagoC8MCZMh"
+    },
+    {
+      "id": 6098,
+      "title": "Save $730 on this RTX 5070 Ti gaming PC from Cyberpower",
+      "summary": "An impressive gaming PC prebuilt with an RTX 5070 TI 16GB powering the graphics. All for just $2.479 in Walmart's Black Friday deal.",
+      "content": "<article>\n                                <p>We are full swing into Black Friday week, and another pre-built gaming PC build that's worth a look at is this <a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\">Cyberpower Gamer Supreme Gaming PC with RTX 5070 Ti for just $2479.99</a>. You're getting a very competent GPU, a good amount of what is currently very expensive memory, and a larger-than-usual NVMe M. 2 SSD. The list price for this gaming rig is $3209.99, so you're getting a $730 discount in today's deal. </p><p>● <a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\">Check out this Black Friday Cyberpower PC deal at Walmart</a></p><p>This Cyberpower gaming rig features a host of powerful components for smooth, consistent gameplay. Inside this attractive case is a 24-core Intel Core Ultra 9 285 processor, a powerful RTX 5070 Ti graphics card with 16GB of GDDR7 VRAM, 32GB of  DDR5 memory, and a good-sized 2TB SSD for your operating system and game library. For the price, you're getting a great gaming PC, especially considering the current economic landscape for PC components like memory, GPUs, and SSDs.  </p><div class=\"product\"><a data-dimension112=\"e6f698aa-e731-11f1-b3d5-379d8be695c7\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\"><figure class=\"van-image-figure \"  ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:2000px;\"><p class=\"vanilla-image-block\" style=\"padding-top:100.00%;\"><img id=\"ymVqJ8hXVJrRkbhNLiqWcA\" name=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" caption=\"\" alt=\"\" src=\"https://cdn.mos.cms.futurecdn.net/ymVqJ8hXVJrRkbhNLiqWcA-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"2000\" height=\"2000\" attribution=\"\" endorsement=\"\" credit=\"\" class=\"\" /></p></div></div></figure></a><p><strong><a href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"e6f698aa-e731-11f1-b3d5-379d8be695c7\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\">Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD: was $3209.99 now $2479.99</a></strong><br />CyberPower's Gamer Supreme PC comes with a host of powerful components for smooth gameplay. Inside this rig are an Intel Core Ultra 9 285 processor, a powerful RTX 5070 Ti graphics card with 16GB of GDDR7 VRAM, 32GB of  DDR5 memory, and a good-sized 2TB SSD for your operating system and game library.  <a class=\"view-deal button\" href=\"https://www.walmart.com/ip/CyberPowerPC-Gamer-Supreme-Gaming-PC-Intel-Core-Ultra-9-285-NVIDIA-GeForce-RTX-5070-Ti-16GB-32GB-DDR5-2TB-SSD-SLC10220CPGV17/15310521179\" target=\"_blank\" rel=\"nofollow\" data-dimension112=\"e6f698aa-e731-11f1-b3d5-379d8be695c7\" data-action=\"Deal Block\" data-label=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension48=\"Gamer Supreme Gaming PC, Intel Core Ultra 9 285, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD\" data-dimension25=\"$2479.99\">View Deal</a></p></div><p>Several components stand out in this build, but the one that catches my eye as the biggest boost to gaming potential is the powerful RTX 5070 Ti GPU. With an ample 16GB of GDDR7 VRAM and 8,960 CUDA cores, the RTX 5070 Ti excels at gaming in 1080p and 1440p, with plenty of available VRAM for textures and shaders. Plus, with access to Nvidia's DLSS technologies, it can handle 4K gaming with a little multi-frame generation to help boost smoother frame rates if needed.  </p><iframe allow=\"\" height=\"800\" width=\"100%\" id=\"\" style=\"\" class=\"position-center\" data-lazy-priority=\"low\" data-lazy-src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=GPUs&amp;benchmark=1080p+Ultra+Average+FPS&amp;showPerfPerDollar=false&amp;theme=dark\" src=\"https://www.tomshardware.com/embed/bench?embed=true&amp;mode=benchmark&amp;category=GPUs&amp;benchmark=1080p+Ultra+Average+FPS&amp;showPerfPerDollar=false&amp;theme=dark\"></iframe><p>As you can see from our Bench chart, the RTX 5070 Ti is the sixth most potent GPU on our chart, sitting between the previous generation's RTX 4080 and AMD's RX 7900 XTX GPUs.  The 16GB of dedicated VRAM really helps the 5070 Ti to reach and maintain higher frame rates at resolutions above 1080p. </p><p>This is a great value gaming rig, and with the 24-core Intel CPU and spacious 2TB SSD, this PC is good for multi-threaded applications as well. So you can also do some work when you aren't gaming.</p><p><em>Download the Tom's Hardware app for up-to-the-minute updates on </em><a href=\"https://apps.apple.com/us/app/toms-hardware-pc-tech-news/id6785006008\"><em>iOS</em></a><em> and </em><a href=\"https://play.google.com/store/apps/details?id=com.futureplc.peregrine.tomshardware&amp;hl=en_GB\"><em>Android</em></a><em>. </em></p><p><em>If you're looking for more savings, check out our </em><a href=\"https://www.tomshardware.com/news/best-deals-on-tech\"><em>Best PC Hardware deals</em></a><em> for a range of products, or dive deeper into our specialized </em><a href=\"https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts\"><em>SSD and Storage Deals,</em></a><em> </em><a href=\"https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon\"><em>Hard Drive deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/monitors/best-gaming-monitor-deals\"><em>Gaming Monitor deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/features/best-cpu-deals\"><em>CPU deals,</em></a><em> </em><a href=\"https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals\"><em>Gaming PC deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/desktops/gaming-pcs/best-ram-combo-deals-2026-make-pc-builds-and-upgrades-more-affordable-with-the-best-ram-bundle-deals-available\"><em>RAM combo deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-3d-printer-deals\"><em>3D printer deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/ram/best-ram-deals\"><em>RAM deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/best-gaming-laptop-deals\"><em>Gaming laptop deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals\"><em>Wi-Fi Router deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals\"><em> GPU deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals\"><em>Gaming chair deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals\"><em>PC building tool deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/best-pc-peripherals-deals-keyboards-headsets-mice\"><em>PC peripherals deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/3d-printing/best-filament-and-resin-deals-for-3d-printing\"><em>filament and resin deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-intel-and-amd\"><em>motherboard deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/pc-components/cooling/best-cpu-cooler-deals\"><em>CPU cooler deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/pc-components/pc-cases/best-pc-case-deals\"><em> PC case deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/news/dell-alienware-deals\"><em>Dell and Alienware deals</em></a><em>, </em><a href=\"https://www.tomshardware.com/peripherals/usb/best-usb-charger-deals\"><em>USB charger deals</em></a><em>,</em><a href=\"https://www.tomshardware.com/desktops/best-laptop-pc-deals-productivity\"><em> and laptop PC deals </em></a><em>pages.</em></p><p><em>* The listed previous prices can vary based on retailer, as many use different metrics, like 90-day rolling averages or ‘estimated value’ due to ongoing shortages and price hikes.</em></p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd730-on-this-rtx-5070-ti-gaming-pc-from-cyberpower-32gb-of-ram-16gb-of-vram-and-a-2tb-ssd-make-for-an-impressive-spec-sheet-for-only-usd2-479",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "fNXkNwshHQ9Tomy56kcU7j"
+    },
+    {
+      "id": 6099,
+      "title": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
+      "summary": "The Borslon finger-worn gaming mouse is the first of its kind, reaching $43,000 in its Kickstarter campaign and shattering its $5,000 goal. However, it may have some major design flaws.",
+      "content": "<article>\n                                <p><a href=\"https://www.kickstarter.com/projects/1448264247/finger-worn-gaming-mouse/description#h:-CONTROL-THAT-MOVES-WITH-YOU\">The Borslon wearable gaming mouse</a> takes the concept of a gaming mouse to the extreme by making your finger the aiming device. The Kickstarter has already reached over $43,000 with more than 430 backers, beating its $5,000 goal — but is it truly innovative, or just a gimmick?</p><p>The Borslon mouse, sharing a product and brand name, is a wired, “finger-worn gaming mouse,” as the brand describes it. It has all the spec numbers you’d expect from a good gaming mouse: a PAW3395 sensor, an 8,000 Hz polling rate, 0.125 ms response time, programmable buttons, and weighs 36g. However, the specs are often only the base level for performance; how it performs in the real world could be a very different story.</p><p>This product targets FPS gamers, and in the FPS gaming niche, there is an even smaller niche — aimers. These aiming communities focus purely on the mechanical skill of precisely landing shots on targets, experimenting with techniques and devices to improve their aim. The community explores various aiming devices like tiny fingertip mice and even drawing tablets, with some brands directly marketing their mice in aiming Reddit groups.</p><p>The Borslon mouse isn’t the first extreme fingertip mouse; indie mice like the <a href=\"https://precisiongaminggear.com/\">Precision Gaming Gear</a> Titan-Ø and Titan-1 with their 3D-printed titanium construction and ruby joints launched years ago and sold out extremely quickly due to their popularity in the aiming niche. </p><p>There is reason to be skeptical of the Borslon mouse, as the videos alone don’t show even remotely impressive aiming examples, only playing against bots in Counter-Strike 2 with the player showing sub-par aim, while the creator of the Titan series mice showed decent actual gameplay in Quake Champions and is active in the aiming community.</p><p>Conventionally, many Counter-Strike, Apex Legends, and Valorant players use the scroll wheel for jumping or bunny-hopping (or tap strafing in Apex Legends, a high-level movement mechanic), and most players use their index or middle finger to scroll. However, the Borslon places the mouse wheel at the thumb, including the five programmable buttons, leaving plenty of responsibility to the appendage. From the Kickstart promotional material, it doesn’t look like the index finger or the middle finger have any buttons to press — which means the thumb is responsible for your usual inputs like aiming down sights (ADS), firing, and jumping; actions that usually happen simultaneously or in quick succession.</p><p>Borslon plans to ship out by February of 2027, with mass production planned for December, leaving little to no time to drastically change the design of the product.</p><p>There is also an unusual disconnect between the mouse and its supposedly intended market, as I have not found any discussions about the Borslon mouse in any of the top aiming circles, nor is there any mention of it in the <a href=\"https://voltaic.gg/\">Voltaic</a> Discord, a popular aiming community with over 200,000 members. </p><p>Upon further research, the Borslon brand is made by Shenzhen Komodo Intelligent Technology Co., Ltd., with the Borslon website fully in Chinese, but neither the website nor the Kickstarter links to the other. A machine translation of the Borslon website of the company timeline says it released its first product in November 2025, while the Kickstarter says the concept initiation was in March 2026. The misalignments, combined with the heavy use of AI lifestyle images, don’t spark confidence in the project. If this is indeed real, it could potentially be a genuinely innovative mouse if the brand talked to the intended market and made proper changes.</p><p>Our customary crowdfunder disclaimer applies. Remember that crowdfunding a project is not a guarantee of receiving a finished product. Backing a crowdfunded project is akin to an investment; you believe in the project and want it to succeed. You are not purchasing a retail product.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "ALdZNyhfHxiLQFH4XRrKtC"
+    },
+    {
+      "id": 6100,
+      "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
+      "summary": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
+      "content": "<article>\n                                <p>A homelabber has built a local AI system out of four used 32GB Nvidia V100s and a refurbished Lenovo M720q Tiny mini PC. Ok_Kaleidoscope9103’s construction, <a href=\"https://www.reddit.com/r/homelab/comments/1y2ex80/4x_tesla_v100_32_gb_128_gb_vram_hanging_off_a/\">detailed on Reddit</a>, relies on the GPUs going over four OCuLink cables from a PCIe switch card, with a solder bridge on the riser and coreboot getting past a BIOS that only booted two cards. The quiet-running build has the full 128GB of VRAM and can hit about 285 tokens per second in total running Qwen3.8-27B across its four cards.</p><figure><blockquote class=\"reddit-card\"  ><a href=\"https://www.reddit.com/r/homelab/comments/1y2ex80/4x_tesla_v100_32_gb_128_gb_vram_hanging_off_a\">4x Tesla V100 32 GB (128 GB VRAM) hanging off a Lenovo M720q Tiny over OCuLink - ~62 dB, ~A$6.5k all-in</a><figcaption><cite> from <a href=\"https://www.reddit.com/r/homelab\">r/homelab</a></cite></figcaption></blockquote></figure><p>The user, who gives his name as Michael, details his “home AI box” in a YouTube video billed as a “full build guide.” The Australian builder describes the setup as “four docks, four datacentre cards, one little PC” in a “noise optimised build.”</p><figure class=\"van-image-figure  inline-layout\" data-bordeaux-image-check=\"\" ><div class='image-full-width-wrapper'><div class='image-widthsetter' style=\"max-width:832px;\"><p class=\"vanilla-image-block\" style=\"padding-top:108.17%;\"><img id=\"R4jVueHmwRght4v7iiBUUH\" name=\"v100-m720q-rig-832x900\" alt=\"Four eGPU docks with Noctua fans on white 3D-printed ducts, stacked on two white side tables beside a small Lenovo PC\" src=\"https://cdn.mos.cms.futurecdn.net/R4jVueHmwRght4v7iiBUUH-1920-80.jpg\" mos=\"\" align=\"middle\" fullscreen=\"\" width=\"832\" height=\"900\" attribution=\"\" endorsement=\"\" class=\"inline\" /></p></div></div><figcaption itemprop=\"caption description\" class=\" inline-layout\"><span class=\"credit\" itemprop=\"copyrightHolder\">(Image credit: <a href=\"https://www.youtube.com/watch?v=oi63wAvChPo\">Michael L/YouTube</a>)</span></figcaption></figure><p>The hardware for this particular build is based on a Lenovo M720q Tiny desktop, which has an i5-9400T CPU with 64GB of DDR4. With a matching Lenovo 01AJ940 riser and a CEACENT CNOL4PE08 PCIe switch card — this has a 24-lane PEX8724 switch on board for an x8 link in and four x4 OCuLink ports out — each GPU card can run at PCIe Gen3 x4. OCuLink is an external PCIe cable connector often used with external GPUs (eGPU).</p><p>On the software and firmware end, the Tiny had some roadblocks that had to be overcome. It “only powers its riser slot when the card pulls the presence pin,” which the switch card doesn’t, so a solder bridge was needed on the back of the riser. Then, “Lenovo’s BIOS only leaves a 128 GB window for 64-bit devices,” and each 32GB V100 needs 64GB, which limits the stock firmware to just two cards; a third “hangs at POST.”</p><p>His workaround used coreboot 26.09 built for the board with an EDK2 payload and a config setting that allows above-4G allocation. This expands the window to about 486GB and, with three patches, more features were enabled: the riser slot is always on, there is a Wake-on-LAN override, and merged memory type range registers (MTRRs). Flashing it needed a CH341A programmer and SOIC8 clip for the BIOS chip.</p><p>He then added four AOOSTAR AG01 eGPU docks, each with a built-in 800 W PSU, and assigned one V100 to each dock. Each dock’s PSU feeds its V100 through a dual PCIe 8-pin to CPU/EPS 8-pin adapter, because the card takes a CPU 8-pin. The Tesla V100s are otherwise passively cooled and rely on chassis or other external airflow.</p><p>Then there’s the matter of <a href=\"https://www.tomshardware.com/pc-components/gpus/ai-enthusiast-adds-nvidia-tesla-v100-as-loud-as-a-lawnmower-to-gaming-pc-for-usd266-32gb-of-vram-rig-can-run-27-billion-parameter-model-at-32-tokens-per-second\">cooling without ear-bleeding</a>. The V100s each get a 3D-printed 140 mm funnel — designed with the help of AI — with a Noctua NF-A14 iPPC-3000 fan, with all four driven on an ARCTIC 10-port USB fan controller. A separate ARCTIC P12 Silent is mounted in a Dremel-drilled hole in the Tiny’s lid to cool the switch card, as that does run hot. He measured the end result at about 62 dB at a distance of one meter.</p><div class=\"youtube-video\" data-nosnippet ><div class=\"video-aspect-box\"><iframe data-lazy-priority=\"high\" data-lazy-src=\"https://www.youtube-nocookie.com/embed/oi63wAvChPo\" allowfullscreen=\"\"></iframe></div></div><p>A script tracks the hottest card, stopping work at 83°C and powering the system off at 87°C. To keep temperatures in check, each card is also power-capped to 200 W, or 800 W total. <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent\">A recent, separate dual-GPU build</a> we detailed needs dual 12W fans to keep the Optane and system memory cool.</p><p>With this 4-card setup, 44.7 TFLOPS is doable with FP32 with a 71°C peak; this compares to Nvidia’s rating of 14 TFLOPS for each 250 W card. A single <a href=\"https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5090-review\">RTX 5090</a> is rated at 104.8 TFLOPS at 575 W, nearly double the 56 TFLOPS of four V100s. Qwen3.8-27B Q6 can chat at about 40 tokens per second with one card and about 285 per second with all four, each card running its own copy and handling four requests at once. A larger model, Qwen3.8-Flash-Next-125B-A6B IQ4_XS, does about 43 tokens per second on chat over all four, or about 116 with eight requests.</p><p>The builder says that this cost him “~A$6.5k all-in,” a figure that includes local taxes; he puts it closer to $3,500 in U.S. dollars. Check the table for the cost breakdown. As noted in <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board\">our coverage of other V100 builds</a>, the cost of some of this hardware — SXM2 V100s, in particular — has climbed significantly this year; he says his PCIe cards “jumped in price” in recent months.</p><div ><table><caption>What he paid in Australia (fans, adapters and printed parts not priced)</caption><thead><tr><th class=\"firstcol \" ><p>Part</p></th><th  ><p>A$</p></th><th  ><p>US$</p></th></tr></thead><tbody><tr><td class=\"firstcol \" ><p>4x V100 PCIe 32GB (used)</p></td><td  ><p>~1,070 each</p></td><td  ><p>~699 each</p></td></tr><tr><td class=\"firstcol \" ><p>4x AOOSTAR AG01 dock</p></td><td  ><p>~180–240 each</p></td><td  ><p>~120–155 each</p></td></tr><tr><td class=\"firstcol \" ><p>2x 32GB DDR4 SODIMM</p></td><td  ><p>~275 each</p></td><td  ><p>~180 each</p></td></tr><tr><td class=\"firstcol \" ><p>Lenovo M720q Tiny (refurb)</p></td><td  ><p>~259</p></td><td  ><p>~170</p></td></tr><tr><td class=\"firstcol \" ><p>CEACENT switch card</p></td><td  ><p>~103</p></td><td  ><p>~67</p></td></tr><tr><td class=\"firstcol \" ><p>Lenovo riser</p></td><td  ><p>~38</p></td><td  ><p>~25</p></td></tr><tr><td class=\"firstcol \" ><p>CH341A + clip</p></td><td  ><p>~40</p></td><td  ><p>~26</p></td></tr><tr><td class=\"firstcol \" ><p>ARCTIC fan controller</p></td><td  ><p>~29</p></td><td  ><p>~19</p></td></tr><tr><td class=\"firstcol \" ><p>Tapo smart plug</p></td><td  ><p>~21</p></td><td  ><p>~14</p></td></tr></tbody></table></div><p>Although he calls using the full 128GB a “party trick,” he actually does use the build with Qwen3.8-27B, running separately on each card, to mine stock-announcement data dating back to the early 1990s for his business, which needs to read “millions of documents.” The build has been stable, running “pretty much 24/7 for a few weeks,” and with this setup he expects the system to pay itself back in about three months.</p><p>Some commenters wonder why he didn’t take the route of <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time\">a fellow Redditor, a lawyer</a>, who experimented with 32GB V100s as SXM2 modules on NVLink boards. His answer: noise, and that “the PCIe cards at the time were cheaper.” He also compares his four V100s to an RTX 5090, and says they have 4x the VRAM and about 2x the total memory bandwidth at “about half the price” of a 5090 in Australia. Next up is benchmarking SFNX and Infer-V100 to see how it compares to his llama.cpp setup.cpp setup, and possibly adding a second set of four V100s.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "sAP3ohvveVTZo5xEZ9HTJS"
+    },
+    {
+      "id": 6101,
+      "title": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over $6,600 apiece",
+      "summary": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over 6,600 USD a piece — purportedly sold every unit quite quickly",
+      "content": "<article>\n                                <p>The lowest rungs of hell may be reserved for politicians, yes, but scalpers have a gated community somewhere in the same area code. The latest emotion-inducing story on this topic comes from Ontario, Canada, wherein a person from Oakville <a href=\"https://www.reddit.com/r/pcmasterrace/comments/1xzdvrc/ugh_dark_times_indeed/\" target=\"_blank\">had an ad listing</a> what appear to be over <em>forty</em>  RTX 5090s for sale, priced at 9,500 CAD (over $6,600 USD) for the cheapest, and also having the gall to demand an extra 500 CAD (about $350 USD) for one with a sealed box.</p><p>The magnanimous magnate wanted to perform the transactions at his nearby police station, and claimed that \"testing is available.\" Some Canadian police stations do <a href=\"https://bc-archives.rcmp.ca/ViewPage1770.html?siteNodeId=2314&amp;languageId=1&amp;contentId=82961&amp;detachmentDataId=43827\" target=\"_blank\">open their lobbies</a> for this purpose for added public safety. The scalper said in his ad that he had models from most every manufacturer, including Nvidia's Founders Edition and even Dell.</p><p>Should the statements by commenter \"goudacheeseguy\" be true, the person selling the card is their business partner. The cards purportedly came from their small neocloud outfit and are being sold as they eventually got their hands on Nvidia B300, B200, and Pro 6000 servers \"with the money [they] made shorting AI funnily enough.\" It's possible they're telling the truth, as the presence of the Dell and Nvidia FE cards, plus the fact they're apparently mostly open-box units, would fit with that story.</p><p>Nevertheless, the response from commenters was swift and harsh. Some pointed out that the photograph depicting windows of a street-level basement, coupled with the fact that Oakville isn't that huge, could have a master geo-guesser like <a href=\"https://www.youtube.com/watch?v=LukkI0FV724\" target=\"_blank\">Rainbolt</a> pinpointed where the scalper was.</p><p>In a similar vein, other people remarked on the danger of the seller being followed home for discussing a five-finger discount. His <em>laissez-faire</em> attitude infuriated some commenters, as he stated that \"[he has] other models too probably missed some, too lazy to check which ones.\" </p><p>There's some irony in this story, however. It's safe to say that scalpers don't garner the same amount of love as puppies, and yet the 9,500 CAD he was asking for the cards is actually <em>on par with or lower</em> than commercial offerings. A commenter pointed out a Canadian Customs auction of an RTX 5090 that seemingly <a href=\"https://gcsurplus.ca/mn-eng.cfm?snc=wfsav&amp;sc=enc-bid&amp;scn=613930&amp;lcn=775826&amp;lct=L&amp;srchtype=&amp;lci=&amp;str=1&amp;lotnf=1&amp;frmsr=1&amp;sf=ferm-clos&amp;notifBuyNo=1048988&amp;notifBuyCd=20261113063001&amp;saleType=\">ended up selling</a> for 8,300 CAD.</p><p>As of right now, an RTX 5090 <a href=\"https://www.memoryexpress.com/Search/Products?Search=rtx+5090\">at Memory Express</a> will set you back around 10,000 CAD, and even <a href=\"https://www.newegg.ca/msi-rtx-5090-32g-ventus-3x-oc-geforce-rtx-5090-32gb-graphics-card/p/N82E16814137920?Item=N82E16814137920\">the cheapest card</a> at <a href=\"https://www.newegg.ca/p/pl?N=8000%204131&amp;d=rtx+5090\">Newegg Canada</a> is going for 9,300 CAD, though it's a pretty sweet combo deal (for these times), as you do get a motherboard, a case, and a power supply included in that price.</p>\n                                                            </article>",
+      "link": "https://www.tomshardware.com/pc-components/gpus/canadian-scalper-places-40-nvidia-rtx-5090s-on-facebook-marketplace-for-over-usd6-600-apiece-ironically-still-cheaper-than-memory-expresss-10-000-cad-retail-price-purportedly-selling-every-unit-quite-quickly",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "评测"
+      ],
+      "guid": "fqPcNCX6X4wzMq9n4fnq5W"
+    },
+    {
+      "id": 6102,
+      "title": "TechPowerUp x Formula V Line Giveaway: The Winners",
+      "summary": "TechPowerUp partnered with Formula V Line to bring our readers from around the world a chance to win a selection of dozens of Formula V Line hardware spanning the Formula V Line G10 case, Ice Nova Pro 3 AIO liquid CPU cooler, and Air Bridge",
+      "content": "TechPowerUp partnered with Formula V Line to bring our readers from around the world a chance to win a selection of dozens of Formula V Line hardware spanning the Formula V Line G10 case, Ice Nova Pro 3 AIO liquid CPU cooler, and Air Bridge VT Vision series case fans. We've received a great response from our readers on this Giveaway, and we are delighted to announce our 10 lucky winners. Without further ado, here they are!<ul><li>Tiberiu from Romania, wins Formula V Line G10 case + Ice Nova Pro 3 cooler + Air Bridge VT Vision three-fan set</li><li>Samuel from Portugal, wins Formula V Line G10 case + Ice Nova Pro 3 cooler</li><li>Nikolaos from Austria, wins Formula V Line G10 case</li></ul>The following winners each win a selection of Formula V Line Ice Nova Pro 3 coolers and Air Bridge VT Vision three-fan sets:<ul><li>Tom from the United States</li><li>Jindřiška from the Czech Republic</li><li>Ash from the United Kingdom</li><li>Paul from Australia</li><li>Dinh-Tuan from Taiwan</li><li>Lorenzo from Italy</li><li>Sannu from Canada</li></ul>Huge Congratulations to our 10 lucky winners! The brand will contact you shortly for your shipping address. TechPowerUp and Formula V Line will return with more such interesting giveaways!",
+      "link": "https://www.techpowerup.com/355107/techpowerup-x-formula-v-line-giveaway-the-winners",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "069f3cd7c68c123864e699f5180ef12d"
+    },
+    {
+      "id": 6103,
+      "title": "Intel \"Bartlett Lake-S\" CPUs Reportedly Boot Natively on MSI Z690/Z790 Motherboards",
+      "summary": "Intel's \"Bartlett Lake-S\" CPU series are reportedly booting natively without modifications on select MSI motherboards. Initially, Uniko's Hardware shared tests of the Intel Core 9 273PE with 12 P-cores and the Core 7 253PE with 10 P-cores o",
+      "content": "Intel's &quot;Bartlett Lake-S&quot; CPU series are reportedly booting natively without modifications on select MSI motherboards. Initially, Uniko's Hardware shared tests of the Intel Core 9 273PE with 12 P-cores and the Core 7 253PE with 10 P-cores on an MSI Z790 MPOWER motherboard, using a modified BIOS to boot and utilize the P-Core only SKUs. However, X user LovK2X successfully booted and operated a Core 9 273PE qualification sample without any modifications on the MSI MEG Z690I motherboard, demonstrating that these CPUs can run without modifications and with minimal restrictions. Reportedly, all MSI motherboards from the Z690 and Z790 series support &quot;Bartlett Lake-S&quot; with the latest BIOS version, with the only limitation being a DRAM frequency lock. Every other aspect can be tuned and customized.<br />\r\n<br />\r\nBuilt on the Intel 7 node and designed for Socket LGA1700, &quot;Bartlett Lake&quot; is a non-hybrid chip featuring up to 12 &quot;Raptor Cove&quot; P-cores without any E-core clusters. It was not intended to be compatible with consumer Intel Z790 chipset motherboards. However, the main issue was never the socket itself. &quot;Bartlett Lake&quot; shares the same physical LGA 1700 layout as Intel's &quot;Raptor Lake&quot; chips, but that doesn't automatically make it compatible with consumer boards. Typically, there was no official BIOS and microcode support to allow proper CPU initialization. However, MSI's latest BIOS update makes it possible to run these CPUs natively, and the second-hand market will likely value them for their potential gaming performance.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/GQWKQr9fDqk90MNv.jpg\" target=\"_blank\" data-width=\"1707\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/GQWKQr9fDqk90MNv_thm.jpg\" width=\"231\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/XusFbghpULGjA328.jpg\" target=\"_blank\" data-width=\"720\" data-height=\"960\" ><img src=\"https://tpucdn.com/img/XusFbghpULGjA328_thm.jpg\" width=\"98\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/355104/intel-bartlett-lake-s-cpus-reportedly-boot-natively-on-msi-z690-z790-motherboards",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "6f595dbd0118f27c629cee600324111c"
+    },
+    {
+      "id": 6104,
+      "title": "Put Your GPU to Work: Offline AI Video Enhancement with Aiarty (Black Friday Deal)",
+      "summary": "Modern GPUs are no longer used exclusively for gaming and 3D rendering. They also support an expanding range of local AI workloads, including image and video processing. For PC enthusiasts with large collections of older recordings, compres",
+      "content": "Modern GPUs are no longer used exclusively for gaming and 3D rendering. They also support an expanding range of local AI workloads, including image and video processing. For PC enthusiasts with large collections of older recordings, compressed clips, or low-resolution footage, AI video enhancement offers another practical use for desktop computing power.<br />\r\n<br />\r\nBrowser-based solutions such as NVIDIA RTX Video Super Resolution can improve the appearance of supported streaming content during playback. However, users who want to enhance and export their own video files need a different kind of workflow—one that can address noise, blur, compression artifacts, and resolution limitations in the source footage.<br />\r\n<br />\r\nOne example is <a href=\"https://www.aiarty.com/ai-video-enhancer/?ttref=2611-aive-tpp-3l-zhh\" target=\"_blank\">Aiarty Video Enhancer</a>, a desktop AI application for Windows and macOS that uses dedicated models to improve existing video footage. It offers tools for reducing noise, sharpening blurry or pixelated footage, and increasing resolution.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/XQpvsmGR08ZtxJJc.jpg\" target=\"_blank\" data-width=\"1471\" data-height=\"832\" ><img src=\"https://tpucdn.com/img/XQpvsmGR08ZtxJJc_thm.jpg\" width=\"230\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/354822/put-your-gpu-to-work-offline-ai-video-enhancement-with-aiarty-black-friday-deal\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/354822/put-your-gpu-to-work-offline-ai-video-enhancement-with-aiarty-black-friday-deal",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "cbfe66e0f0a5670e9576a4e011db59e1"
+    },
+    {
+      "id": 6105,
+      "title": "(PR) COLORFUL Launches iGame B850I MINI W OC Motherboard for Compact PC Enthusiasts",
+      "summary": "Colorful Technology Company Limited, a leading brand in gaming PC components, gaming laptops, and Hi-fi audio products, announces the launch of the iGame B850I MINI W OC, a white edition of its previously released iGame B850I MINI OC mother",
+      "content": "Colorful Technology Company Limited, a leading brand in gaming PC components, gaming laptops, and Hi-fi audio products, announces the launch of the iGame B850I MINI W OC, a white edition of its previously released iGame B850I MINI OC motherboard. Designed for enthusiasts building high-performance small form factor (SFF) systems, the new white model retains the same powerful hardware, overclocking capabilities, and compact Mini-ITX design as its black counterpart, making it an ideal choice for white-themed PC builds.<br />\r\n<br />\r\nThe original iGame B850I MINI OC has earned recognition among enthusiasts for its industrial-inspired design and impressive overclocking capabilities. Responding to demand for an alternative color scheme, COLORFUL now introduces the iGame B850I MINI W OC, bringing the same performance-focused platform to builders who prefer a clean, all-white aesthetic.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/hDgB3zE8ZIl81bXV.jpg\" target=\"_blank\" data-width=\"1270\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/hDgB3zE8ZIl81bXV_thm.jpg\" width=\"138\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/exJ7ukD90DePD8Gp.jpg\" target=\"_blank\" data-width=\"1415\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/exJ7ukD90DePD8Gp_thm.jpg\" width=\"153\" height=\"130\" alt=\"\" /></a> <a href=\"https://www.techpowerup.com/img/fzlV8qQegclaBFan.jpg\" target=\"_blank\" data-width=\"2400\" data-height=\"1200\" ><img src=\"https://tpucdn.com/img/fzlV8qQegclaBFan_thm.jpg\" width=\"260\" height=\"130\" alt=\"\" /></a> </div><div class=\"readmore\"><a href=\"https://www.techpowerup.com/355103/colorful-launches-igame-b850i-mini-w-oc-motherboard-for-compact-pc-enthusiasts\">Read full story</a></div>",
+      "link": "https://www.techpowerup.com/355103/colorful-launches-igame-b850i-mini-w-oc-motherboard-for-compact-pc-enthusiasts",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "005c43364a37ff3acb2cc1c484193783"
+    },
+    {
+      "id": 6106,
+      "title": "NVIDIA's SSD Writing Bug Needs Another Hotfix as Issue Returns",
+      "summary": "Last week, NVIDIA released the GeForce Hotfix 621.35 driver to address the issue of excessive SSD writing that many consumers reported on their systems. However, the problem might not be completely resolved, and another update could be nece",
+      "content": "Last week, NVIDIA <a href=\"https://www.techpowerup.com/355072/nvidias-ssd-write-bug-gets-patched-in-geforce-hotfix-621-35-driver\" target=\"_blank\">released</a> the GeForce Hotfix 621.35 driver to address the issue of excessive SSD writing that many consumers reported on their systems. However, the problem might not be completely resolved, and another update could be necessary, as more reports of SSD writing are resurfacing in online communities. According to a Reddit thread, a user reported that the latest hotfix has reduced the peak writing rate seen with the previous GeForce Game Ready 621.24 driver, and that the writing doesn't immediately start after a reboot. However, after a longer uptime or a sleep/wake transition, the writing continues at a rate of 1.26 MB/s, compared to the previous rate of up to 9.1 MB/s. Notably, this issue was recorded on the GeForce RTX 4090 SKU, and the user states that the only way to stop the NVDisplay.Container.exe writing loop is by rolling back to the 621.01 driver version or disabling the _nvtopps container plugin by setting DisableLoad to 1.<br />\r\n<br />\r\nNVIDIA's staff on the GeForce Forums confirms that the bug doesn't affect any of the GeForce RTX 50 series &quot;Blackwell&quot; graphics cards. We are monitoring to see if the issue returns for the latest GeForce series as well. In the meantime, it appears that only the GeForce RTX 40 &quot;Ada Lovelace&quot; series is affected, and another hotfix might be needed to resolve the SSD writing bug for good.<div class=\"imgcontainer\"><a href=\"https://www.techpowerup.com/img/2mboEhlkaTgMGZs3.jpg\" target=\"_blank\" data-width=\"960\" data-height=\"720\" ><img src=\"https://tpucdn.com/img/2mboEhlkaTgMGZs3_thm.jpg\" width=\"173\" height=\"130\" alt=\"\" /></a></div>",
+      "link": "https://www.techpowerup.com/355102/nvidias-ssd-writing-bug-needs-another-hotfix-as-issue-returns",
+      "source": "TechPowerUp",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "DIY"
+      ],
+      "guid": "f4ea5058b6d15a52fd7f2f7e14ce2cc3"
+    },
+    {
+      "id": 6107,
+      "title": "LG Display scraps $2.5B OLED plant for 111-inch panels",
+      "summary": "Seven years after announcing its Paju 10.5G factory project, LG Display has formally canceled the $2.5 billion investment. Instead of building a dedicated plant for ultra-large TVs, the panel maker is upgrading existing lines for displays u",
+      "content": "Seven years after announcing its Paju 10.5G factory project, LG Display has formally canceled the $2.5 billion investment. Instead of building a dedicated plant for ultra-large TVs, the panel maker is upgrading existing lines for displays up to 111 inches while prioritizing gaming monitors.",
+      "link": "https://www.notebookcheck.net/LG-Display-scraps-2-5B-OLED-plant-for-111-inch-panels.1457861.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/LG-Display-scraps-2-5B-OLED-plant-for-111-inch-panels.1457861.0.html"
+    },
+    {
+      "id": 6108,
+      "title": "Black Friday deal: RTX 5060 gaming PC with 16 GB RAM, 1 TB SSD drops 46% or $651",
+      "summary": "Deal | The ABS Cyclone prebuilt gaming PC has recorded a massive 46% price drop at Walmart as part of the retailer's Black Friday promotions. The gaming PC comes equipped with an Nvidia GeForce RTX 5060 8 GB GPU, 16 GB of DDR4 RAM, and 1 TB",
+      "content": "Deal | The ABS Cyclone prebuilt gaming PC has recorded a massive 46% price drop at Walmart as part of the retailer's Black Friday promotions. The gaming PC comes equipped with an Nvidia GeForce RTX 5060 8 GB GPU, 16 GB of DDR4 RAM, and 1 TB of storage.",
+      "link": "https://www.notebookcheck.net/Black-Friday-deal-RTX-5060-gaming-PC-with-16-GB-RAM-1-TB-SSD-drops-46-or-651.1457671.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Black-Friday-deal-RTX-5060-gaming-PC-with-16-GB-RAM-1-TB-SSD-drops-46-or-651.1457671.0.html"
+    },
+    {
+      "id": 6109,
+      "title": "Copilot+ PCs: Why the NPU is no longer a reason to buy a laptop",
+      "summary": "Many holiday laptop deals still carry the Copilot+ PC label, but the NPU barely sets devices apart anymore. Every new chip from AMD, Intel and Qualcomm clears 40 TOPS, Microsoft is quietly retiring the brand, and the most popular local AI a",
+      "content": "Many holiday laptop deals still carry the Copilot+ PC label, but the NPU barely sets devices apart anymore. Every new chip from AMD, Intel and Qualcomm clears 40 TOPS, Microsoft is quietly retiring the brand, and the most popular local AI apps don't use the NPU at all. Here is what matters more when you buy.",
+      "link": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html"
+    },
+    {
+      "id": 6110,
+      "title": "New Lenovo Yoga Pro laptop prototype debuts with ultra-low-power 14-inch 120Hz display",
+      "summary": "DTC 2026 wasn't all about fast, pixel-rich OLED display prototypes. TCL CSOT also showcased advancements in \"eco-friendly\" displays. What appeared to be a Lenovo Yoga Pro laptop prototype was a highlight in this regard, as it was showcased ",
+      "content": "DTC 2026 wasn't all about fast, pixel-rich OLED display prototypes. TCL CSOT also showcased advancements in \"eco-friendly\" displays. What appeared to be a Lenovo Yoga Pro laptop prototype was a highlight in this regard, as it was showcased with a \"milliwatt-class\" 14-inch display, which should lead to impressive battery life.",
+      "link": "https://www.notebookcheck.net/New-Lenovo-Yoga-Pro-laptop-prototype-debuts-with-ultra-low-power-14-inch-120Hz-display.1457618.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-Lenovo-Yoga-Pro-laptop-prototype-debuts-with-ultra-low-power-14-inch-120Hz-display.1457618.0.html"
+    },
+    {
+      "id": 6111,
+      "title": "New free open-source tool turns your MacBook's haptic motor, not its speakers, into a voice",
+      "summary": "A new open-source tool called nospeaker drives the haptic motor in a MacBook's Force Touch trackpad up to 4,000 times a second, making it speak text in a robotic macOS voice. It relies on a private Apple framework.",
+      "content": "A new open-source tool called nospeaker drives the haptic motor in a MacBook's Force Touch trackpad up to 4,000 times a second, making it speak text in a robotic macOS voice. It relies on a private Apple framework.",
+      "link": "https://www.notebookcheck.net/New-free-open-source-tool-turns-your-MacBook-s-haptic-motor-not-its-speakers-into-a-voice.1457489.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/New-free-open-source-tool-turns-your-MacBook-s-haptic-motor-not-its-speakers-into-a-voice.1457489.0.html"
+    },
+    {
+      "id": 6112,
+      "title": "Denuvo DRM removed from Phantom Blade Zero by voices38 weeks after release date",
+      "summary": "Voices38 continues to defeat the anti-tamper protection in popular Denuvo games. Phantom Blade Zero is the latest example, with piracy groups now distributing the PC build. Brushing off an Irdeto lawsuit, the hacker threatens sales of new A",
+      "content": "Voices38 continues to defeat the anti-tamper protection in popular Denuvo games. Phantom Blade Zero is the latest example, with piracy groups now distributing the PC build. Brushing off an Irdeto lawsuit, the hacker threatens sales of new AAA titles.",
+      "link": "https://www.notebookcheck.net/Denuvo-DRM-removed-from-Phantom-Blade-Zero-by-voices38-weeks-after-release-date.1456865.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Denuvo-DRM-removed-from-Phantom-Blade-Zero-by-voices38-weeks-after-release-date.1456865.0.html"
+    },
+    {
+      "id": 6113,
+      "title": "GTA 6 at 60 fps on PC may cost less than expected, Geekerwan estimates",
+      "summary": "Geekerwan estimates that PC players may not need a Ryzen 7 9800X3D to run GTA 6 at 1440p and 60 fps, but a build that can deliver that performance still won't be cheap.",
+      "content": "Geekerwan estimates that PC players may not need a Ryzen 7 9800X3D to run GTA 6 at 1440p and 60 fps, but a build that can deliver that performance still won't be cheap.",
+      "link": "https://www.notebookcheck.net/GTA-6-at-60-fps-on-PC-may-cost-less-than-expected-Geekerwan-estimates.1457142.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GTA-6-at-60-fps-on-PC-may-cost-less-than-expected-Geekerwan-estimates.1457142.0.html"
+    },
+    {
+      "id": 6114,
+      "title": "MSI is giving away an RTX 5070 gaming PC, but entries close soon",
+      "summary": "Deal | MSI is hosting a special giveaway, with the grand prize being an Aegis ZS2 gaming PC. Entries are currently open but will close on November 30.",
+      "content": "Deal | MSI is hosting a special giveaway, with the grand prize being an Aegis ZS2 gaming PC. Entries are currently open but will close on November 30.",
+      "link": "https://www.notebookcheck.net/MSI-is-giving-away-an-RTX-5070-gaming-PC-but-entries-close-soon.1456914.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/MSI-is-giving-away-an-RTX-5070-gaming-PC-but-entries-close-soon.1456914.0.html"
+    },
+    {
+      "id": 6115,
+      "title": "Japanese brand releases 12-inch Windows tablet with 2K display and detachable keyboard",
+      "summary": "Aiwa has released the tab WS12-2 Windows 2-in-1 tablet in Japan. It features an 11.97-inch IPS display with a 2,000 × 1,200 resolution, an Intel N100 processor, 8GB of RAM, 128GB of storage and a detachable keyboard.",
+      "content": "Aiwa has released the tab WS12-2 Windows 2-in-1 tablet in Japan. It features an 11.97-inch IPS display with a 2,000 × 1,200 resolution, an Intel N100 processor, 8GB of RAM, 128GB of storage and a detachable keyboard.",
+      "link": "https://www.notebookcheck.net/Japanese-brand-releases-12-inch-Windows-tablet-with-2K-display-and-detachable-keyboard.1456750.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-23",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/Japanese-brand-releases-12-inch-Windows-tablet-with-2K-display-and-detachable-keyboard.1456750.0.html"
+    },
     {
       "id": 6015,
       "title": "高通汽车芯片业务加速扩张 预计2027年有望登顶全球汽车半导体市场",
@@ -632,6 +1457,36 @@
         "笔记本"
       ],
       "guid": "https://www.notebookcheck.net/MSI-RTX-5070-gaming-PC-with-32-GB-RAM-and-2-TB-SSD-gets-700-discount.1456724.0.html"
+    },
+    {
+      "id": 6116,
+      "title": "RTX 5080 gaming PC with 32GB of DDR5 RAM gets a $400 discount for a limited time",
+      "summary": "Deal | The MSI Aegis ZS2 B9NVV-1409US, which comes equipped with the RTX 5080 and Ryzen 9 9900X, is currently listed with a $400 discount. Thanks to the deal, you can grab it for $2,799.99.",
+      "content": "Deal | The MSI Aegis ZS2 B9NVV-1409US, which comes equipped with the RTX 5080 and Ryzen 9 9900X, is currently listed with a $400 discount. Thanks to the deal, you can grab it for $2,799.99.",
+      "link": "https://www.notebookcheck.net/RTX-5080-gaming-PC-with-32GB-of-DDR5-RAM-gets-a-400-discount-for-a-limited-time.1456770.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-22",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/RTX-5080-gaming-PC-with-32GB-of-DDR5-RAM-gets-a-400-discount-for-a-limited-time.1456770.0.html"
+    },
+    {
+      "id": 6117,
+      "title": "GTA 5 Steam player counts surge in anticipation of GTA 6 PC port release date",
+      "summary": "GTA 5 is enjoying a second life as Steam player counts reflect newfound support. The Enhanced and Legacy versions are more popular now than before the GTA 6 release date. Desktop and laptop gamers are also anticipating an official PC port o",
+      "content": "GTA 5 is enjoying a second life as Steam player counts reflect newfound support. The Enhanced and Legacy versions are more popular now than before the GTA 6 release date. Desktop and laptop gamers are also anticipating an official PC port or version based on a leaked Xbox build.",
+      "link": "https://www.notebookcheck.net/GTA-5-Steam-player-counts-surge-in-anticipation-of-GTA-6-PC-port-release-date.1456838.0.html",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-22",
+      "tags": [
+        "PC",
+        "海外",
+        "笔记本"
+      ],
+      "guid": "https://www.notebookcheck.net/GTA-5-Steam-player-counts-surge-in-anticipation-of-GTA-6-PC-port-release-date.1456838.0.html"
     },
     {
       "id": 5930,
